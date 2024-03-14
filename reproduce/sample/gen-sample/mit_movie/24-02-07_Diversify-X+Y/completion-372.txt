@@ -1,0 +1,10 @@
+Synthetic Spoken Queries:
+
+1. "Yo, can you hook me up with some behind-the-scenes deets of the new Ghostbusters movie, yo?"
+Named Entities: [Ghostbusters (Title)]
+
+2. "What's the scoop on those Cold War espionage flicks, man? Any A+ recommendations?"
+Named Entities: [Cold War espionage (Plot), A+ (Viewers' Rating)]
+
+3. "Dude, tell me about the sports movies from 1959. Any classics from back in the day?"
+Named Entities: [Sports (Genre), 1959 (Year)]

@@ -1,0 +1,11 @@
+1. Sentence: "The Red Sea is bordered by Egypt, Sudan, Eritrea, {{Djibouti}}, and Saudi Arabia."
+Text Span: "Djibouti"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The {{Eiffel Tower}} is one of the most iconic landmarks in Paris, France and attracts millions of visitors each year."
+Text Span: "Eiffel Tower"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Sentence: "Ann Frank's diary, The Diary of a Young Girl, documents her experiences hiding during the {{German}} occupation of the Netherlands in World War II."
+Text Span: "German"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

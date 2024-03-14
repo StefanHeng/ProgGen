@@ -1,0 +1,8 @@
+1. "Hey, have you heard about that new thriller movie with the crazy plot? What's the viewer rating for it?"
+   Named Entities: [thriller (Genre), crazy plot (Plot), viewer rating (Viewers' Rating)]
+
+2. "I need a recommendation for a really good comedy film from the 90s, you got any in mind?"
+   Named Entities: [comedy (Genre), 90s (Year)]
+
+3. "Who starred in that horror movie directed by James Wan?"
+   Named Entities: [horror (Genre), James Wan (Director)]

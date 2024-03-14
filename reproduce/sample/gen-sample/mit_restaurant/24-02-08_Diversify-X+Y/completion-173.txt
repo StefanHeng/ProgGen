@@ -1,0 +1,8 @@
+1. "Can you recommend a lunch spot in Dubai with a diverse menu and outdoor seating?"
+Named Entities: [Dubai (Location), diverse (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm looking for a place in Orlando with a nice ambiance for a lunch meeting, preferably with vegetarian options."
+Named Entities: [Orlando (Location), nice ambiance (Amenity), vegetarian options (Cuisine)]
+
+3. "Is PF Chang's open for lunch today, and do they offer any special lunch deals?"
+Named Entities: [PF Chang's (Restaurant Name), lunch (Hours), special lunch deals (Amenity)]

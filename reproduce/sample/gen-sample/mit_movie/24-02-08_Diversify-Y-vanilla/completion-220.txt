@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with supernatural powers as the main theme?"
+Named Entities: [Supernatural powers (Genre)]
+
+2. Query: "I'm looking for a movie with the song Amazing Grace. Can you help me find one?"
+Named Entities: [Amazing Grace (Song)]
+
+3. Query: "What is the genre of the movie Shrek?"
+Named Entities: [Shrek (Title)]

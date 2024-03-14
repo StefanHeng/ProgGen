@@ -1,0 +1,8 @@
+Sentence: "The University of Oxford is a collegiate research university in Oxford, England."
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+
+Sentence: "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci."
+Named Entities: [Mona Lisa (location), Italian Renaissance (organization), Leonardo da Vinci (person)]
+
+Sentence: "She traveled to Paris, France to attend the international conference on climate change."
+Named Entities: [Paris (location), France (location)]

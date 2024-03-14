@@ -1,0 +1,8 @@
+Query: "Has the movie Platoon, directed by Oliver Stone, been nominated for multiple awards?"
+Named Entities: [Platoon (Title), Oliver Stone (Director), Nominated for multiple awards (Awards and nominations)]
+
+Query: "Can you tell me about a groundbreaking film on war themes, such as the movie X, and its nominations?"
+Named Entities: [groundbreaking film (Plot), war (Genre), X (Title), nominations (Awards and nominations)]
+
+Query: "I'm interested in a war movie that has been nominated for multiple awards. How about the film directed by Oliver Stone?"
+Named Entities: [war (Genre), nominated for multiple awards (Awards and nominations), Oliver Stone (Director)]

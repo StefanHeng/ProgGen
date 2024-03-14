@@ -1,0 +1,8 @@
+1. "Can you recommend a good Mexican restaurant near [El Torito] with outdoor seating?"
+   Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), [El Torito] (Restaurant Name)]
+
+2. "What time does [El Torito] close on Saturdays?"
+   Named Entities: [close on Saturdays (Hours), [El Torito] (Restaurant Name)]
+
+3. "I'm in the mood for some seafood, is there a highly-rated restaurant near [El Torito]?"
+   Named Entities: [seafood (Cuisine), highly-rated (Rating), [El Torito] (Restaurant Name)]

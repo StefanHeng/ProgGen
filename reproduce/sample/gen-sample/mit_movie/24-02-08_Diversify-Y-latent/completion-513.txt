@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Wong Kar-wai that is suitable for a mature audience only?"
+Named Entities: [Wong Kar-wai (Director), suitable for a mature audience only (MPAA Rating)]
+
+2. "I'm looking for an adventure film featuring Reese Witherspoon."
+Named Entities: [adventure (Genre), Reese Witherspoon (Actor)]
+
+3. "Do you have any movies with the song Can't Help Falling in Love?"
+Named Entities: [Can't Help Falling in Love (Song)]

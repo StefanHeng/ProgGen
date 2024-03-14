@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a musical with impressive {{singing performances}} like Lady Gaga's?"
+Text Span: "singing performances"
+Label: (A). Named Entity of type Review
+
+2. Query: "are there any recent movies with {{Mixed reviews}} worth watching"
+Text Span: "Mixed reviews"
+Label: (A). Named Entity of type Review
+
+3. Query: "Can you recommend an exhilarating and {{unique}} movie from the 1990s?"
+Text Span: "unique"
+Label: (A). Named Entity of type Review

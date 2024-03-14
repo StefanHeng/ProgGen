@@ -1,0 +1,8 @@
+1. Text Span: "high"
+Label: (B). Wrong Boundary. The correct span boundary is "high rating"
+
+2. Text Span: "high ratings"
+Label: (A). Correct Entity Annotation
+
+3. Text Span: "best"
+Label: (A). Correct Entity Annotation

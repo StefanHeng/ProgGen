@@ -1,0 +1,8 @@
+1. "What is a popular movie with an underdog triumph storyline"
+Named Entities: [underdog triumph (Plot)]
+
+2. "Can you recommend a movie starring Reese Witherspoon"
+Named Entities: [Reese Witherspoon (Actor)]
+
+3. "Show me some 4-star rated movies that are not rated for general audience"
+Named Entities: [4-star rating (Viewers' Rating), Not Rated (MPAA Rating)]

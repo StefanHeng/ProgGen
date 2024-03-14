@@ -1,0 +1,8 @@
+1. "I'm craving some Italian, can you recommend a place around here with great pasta?"
+Named Entities: [Italian (Cuisine), great pasta (Dish)]
+
+2. "What's the best sushi restaurant in the area that's open late tonight?"
+Named Entities: [sushi (Cuisine), open late tonight (Hours)]
+
+3. "I need a cheap eatery for a quick lunch, somewhere with outdoor seating."
+Named Entities: [cheap (Price), outdoor seating (Amenity)]

@@ -1,0 +1,35 @@
+1. He attended Harvard University, where he studied law and became involved in local politics.
+Named Entities: [Harvard University (organization)]
+
+2. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+3. She joined the United Nations as a liaison officer for humanitarian affairs.
+Named Entities: [United Nations (organization)]
+
+4. The Battle of Gettysburg was fought in July 1863, in and around the town of Gettysburg, Pennsylvania.
+Named Entities: [Battle of Gettysburg (location), Gettysburg (location), Pennsylvania (location)]
+
+5. The company was founded by entrepreneur Elon Musk in 2002.
+Named Entities: [Elon Musk (person)]
+
+6. Shakespeare's plays are performed more often than those of any other playwright.
+Named Entities: [Shakespeare (person)]
+
+7. The Guggenheim Museum in New York City is known for its unique architecture and modern art collection.
+Named Entities: [Guggenheim Museum (organization), New York City (location)]
+
+8. The European Union was established by the Maastricht Treaty, which came into force in 1993.
+Named Entities: [European Union (organization), Maastricht Treaty (organization)]
+
+9. Queen Elizabeth II is the longest-reigning monarch in British history.
+Named Entities: [Queen Elizabeth II (person), British (location)]
+
+10. The American Red Cross provides emergency assistance, disaster relief, and education in the United States and around the world.
+Named Entities: [American Red Cross (organization), United States (location)]
+
+11. He won the Nobel Prize in Physics for his work on the theory of relativity.
+Named Entities: [Nobel Prize (organization)]
+
+12. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+Named Entities: [Great Wall of China (location), China (location)]

@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a drama movie that will take me on {{A rollercoaster of emotions}}?"
+Text Span: "A rollercoaster of emotions"
+Label: (A). Named Entity of type Review
+
+2. Query: "can you recommend a movie with {{captivating chemistry}} between the main characters"
+Text Span: "captivating chemistry"
+Label: (A). Named Entity of type Review
+
+3. Query: "Can you recommend any movies with {{Believable performances}} from 1976?"
+Text Span: "Believable performances"
+Label: (A). Named Entity of type Review

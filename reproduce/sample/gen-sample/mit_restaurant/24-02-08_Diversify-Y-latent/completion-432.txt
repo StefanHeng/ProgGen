@@ -1,0 +1,10 @@
+Queries:
+
+1. "What are the opening hours for Thai Garden Restaurant?"
+Named Entities: [Thai Garden Restaurant (Restaurant Name), opening hours (Hours)]
+
+2. "I'm in the mood for some sushi, where can I find a good sushi place?"
+Named Entities: [sushi (Cuisine), good (Rating)]
+
+3. "Can you recommend a restaurant with outdoor seating and a view?"
+Named Entities: [outdoor seating (Amenity), view (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "Sahara"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Western"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "capital city"
+Label: (C). The correct entity type is location.

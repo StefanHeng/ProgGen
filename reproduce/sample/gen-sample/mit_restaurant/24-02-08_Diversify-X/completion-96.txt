@@ -1,0 +1,8 @@
+1. "Can you recommend any fast food restaurants that offer delivery near my location?"
+Named Entities: [fast food (Cuisine), delivery (Amenity), location (Location)]
+
+2. "What fast food places with a drive-thru are open late tonight?"
+Named Entities: [fast food (Cuisine), drive-thru (Amenity), open late (Hours)]
+
+3. "I'm craving some affordable fast food for dinner, any recommendations?"
+Named Entities: [affordable (Price), fast food (Cuisine), dinner (Hours) ]

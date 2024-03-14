@@ -1,0 +1,8 @@
+1. Text Span: "Lincoln Center's David H. Koch Theater"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Bronx"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Bactrian camels"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

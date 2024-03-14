@@ -1,0 +1,8 @@
+1. Text Span: "4"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "outdoor seating"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "dinner"
+Label: (C). Wrong Type. The correct entity type is Hours.

@@ -1,0 +1,8 @@
+1. Text Span: "city"
+Label: (B). Wrong Boundary. The correct span boundary is "in the city".
+
+2. Text Span: "area"
+Label: (A). The span is a named entity of type location.
+
+3. Text Span: "town"
+Label: (A). The span is a named entity of type location.

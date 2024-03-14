@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a vegan-friendly restaurant nearby for lunch"
+   Named Entities: [vegan-friendly (Amenity), lunch (Hours)]
+
+2. Query: "Can you recommend a place with vegan options for lunch within walking distance"
+   Named Entities: [vegan options (Cuisine), lunch (Hours), walking distance (Location)]
+
+3. Query: "What are some highly rated vegan lunch spots in the area"
+   Named Entities: [vegan (Cuisine), lunch (Hours), highly rated (Rating)]

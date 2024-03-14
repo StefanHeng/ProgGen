@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly café with a good ambience for brunch?"
+Named Entities: [budget-friendly (Price), café (Amenity), brunch (Amenity)]
+
+2. "I'm craving for some affordable café with a cozy atmosphere for lunch, any suggestions?"
+Named Entities: [affordable (Price), café (Amenity), lunch (Amenity)]
+
+3. "Where can I find a pocket-friendly café with vegan options for breakfast nearby?"
+Named Entities: [pocket-friendly (Price), café (Amenity), vegan (Cuisine), breakfast (Amenity)]

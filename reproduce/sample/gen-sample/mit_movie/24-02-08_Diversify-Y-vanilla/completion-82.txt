@@ -1,0 +1,8 @@
+1. Query: "Can you show me a trailer for the upcoming Taika Waititi film about a lost artifact?"
+Named Entities: [Taika Waititi (Director), upcoming (Year), lost artifact (Plot)]
+
+2. Query: "What is the viewers' rating for The Hunger Games movies?"
+Named Entities: [The Hunger Games (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "Could you recommend a movie from 2026 with an action genre?"
+Named Entities: [2026 (Year), action genre (Genre)]

@@ -1,0 +1,8 @@
+1. Text Span: "Pacific Ocean"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Greek"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Text Span: "University of Virginia"
+Label: (A). The span is a named entity of type location

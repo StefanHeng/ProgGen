@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant around the corner with live music during lunchtime?"
+Named Entities: [around the corner (Location), live music (Amenity), lunch (Cuisine)]
+
+Query: "I'm looking for a place with live music and availability around 1 pm for lunch, any suggestions?"
+Named Entities: [live music (Amenity), availability around 1 pm (Hours), lunch (Cuisine)]
+
+Query: "Where can I find a restaurant with lunch options and live music performance at around 12:30 pm?"
+Named Entities: [lunch (Cuisine), live music (Amenity), around 12:30 pm (Hours)]

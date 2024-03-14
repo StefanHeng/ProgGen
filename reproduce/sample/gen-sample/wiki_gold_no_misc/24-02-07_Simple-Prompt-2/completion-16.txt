@@ -1,0 +1,44 @@
+1. The Golden Gate Bridge connects San Francisco to Marin County.
+Named Entities: [Golden Gate Bridge (location), San Francisco (location), Marin County (location)]
+
+2. The company's headquarters is located in New York City.
+Named Entities: [New York City (location)]
+
+3. She studied under Professor John Smith at Harvard University.
+Named Entities: [John Smith (person), Harvard University (organization)]
+
+4. The Eiffel Tower is a popular tourist attraction in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+5. The United Nations is an intergovernmental organization aiming to maintain international peace and security.
+Named Entities: [United Nations (organization)]
+
+6. Queen Elizabeth II is the longest-reigning monarch in British history.
+Named Entities: [Queen Elizabeth II (person), British (organization)]
+
+7. His research on quantum mechanics earned him a Nobel Prize in Physics.
+Named Entities: [Nobel Prize (organization), Physics (organization)]
+
+8. Mount Everest, located in the Himalayas, is the world's highest mountain.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+9. NASA's Kennedy Space Center is the primary launch site for human spaceflight.
+Named Entities: [NASA (organization), Kennedy Space Center (location)]
+
+10. The Statue of Liberty was a gift to the United States from the people of France.
+Named Entities: [Statue of Liberty (location), United States (location), France (location)]
+
+11. Dr. Martin Luther King Jr. was a prominent leader in the American civil rights movement.
+Named Entities: [Martin Luther King Jr. (person), American (organization)]
+
+12. The Amazon rainforest is home to a diverse array of plant and animal species.
+Named Entities: [Amazon rainforest (location)]
+
+13. She is the founder of a successful tech startup based in Silicon Valley.
+Named Entities: [Silicon Valley (location)]
+
+14. The Louvre Museum in Paris houses thousands of works of art.
+Named Entities: [Louvre Museum (location), Paris (location)]
+
+15. The Beatles were a famous rock band from Liverpool, England.
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]

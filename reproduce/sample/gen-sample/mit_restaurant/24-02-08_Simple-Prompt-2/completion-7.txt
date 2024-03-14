@@ -1,0 +1,35 @@
+1. What are the hours of operation for Olive Garden?
+   Named Entities: [Olive Garden (Restaurant Name)]
+
+2. Where can I find a Mexican restaurant in this area?
+   Named Entities: [Mexican (Cuisine)]
+
+3. Do you know any restaurants nearby with outdoor seating?
+   Named Entities: [outdoor seating (Amenity)]
+
+4. What is the best Italian restaurant in town?
+   Named Entities: [Italian (Cuisine)]
+
+5. Show me restaurants with a 5-star rating.
+   Named Entities: [5-star (Rating)]
+
+6. I want to try some authentic Thai food, can you recommend a place?
+   Named Entities: [authentic (Amenity), Thai (Cuisine)]
+
+7. Are there any restaurants open 24 hours around here?
+   Named Entities: [24 hours (Hours)]
+
+8. How much does a typical meal cost at Cheesecake Factory?
+   Named Entities: [Cheesecake Factory (Restaurant Name)]
+
+9. Find me a restaurant with a view of the ocean.
+   Named Entities: [view of the ocean (Amenity)]
+
+10. Is there a place where I can get a good burger and fries?
+    Named Entities: [burger and fries (Dish)]
+
+11. I'm looking for a cheap restaurant, preferably under $10 per person.
+    Named Entities: [under $10 per person (Price)]
+
+12. Can you tell me the location of the nearest sushi restaurant?
+    Named Entities: [nearest (Location), sushi (Cuisine)]

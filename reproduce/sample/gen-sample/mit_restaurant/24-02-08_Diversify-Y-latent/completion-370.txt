@@ -1,0 +1,8 @@
+Query: "what's a highly rated Chinese restaurant nearby"
+Named Entities: [Chinese (Cuisine), highly rated (Rating), nearby (Location)]
+
+Query: "do you know of any restaurants with outdoor seating"
+Named Entities: [outdoor seating (Amenity), restaurants (Amenity)]
+
+Query: "where can I find a place with vegan options and live music"
+Named Entities: [vegan options (Cuisine), live music (Amenity)]

@@ -1,0 +1,8 @@
+Query: "suggest a waterfront restaurant with a buffet option"
+Named Entities: [waterfront (Amenity), buffet (Amenity)]
+
+Query: "find me a buffet restaurant near the water"
+Named Entities: [buffet (Amenity), near the water (Location)]
+
+Query: "I'm looking for a waterfront restaurant with a buffet, do you have any recommendations?"
+Named Entities: [waterfront (Amenity), buffet (Amenity)]

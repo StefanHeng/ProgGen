@@ -1,0 +1,8 @@
+1. "Can you suggest a prominent area in the city for affordable dining options?"
+Named Entities: [prominent area (Location), affordable dining (Price)]
+
+2. "Where can I find the local food critic's rating for the best sushi restaurant in town?"
+Named Entities: [local food critic's rating (Rating), sushi (Cuisine)]
+
+3. "I'm craving salmon teriyaki tonight, can you recommend a place nearby?"
+Named Entities: [salmon teriyaki (Dish), nearby (Location)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with late-night dining options?"
+Named Entities: [late-night dining (Amenity)]
+
+Query: "What are some places with a good rating for late-night dining?"
+Named Entities: [good (Rating), late-night dining (Amenity)]
+
+Query: "Where can I find some delicious dishes for late-night dining?"
+Named Entities: [delicious dishes (Dish), late-night dining (Amenity)]

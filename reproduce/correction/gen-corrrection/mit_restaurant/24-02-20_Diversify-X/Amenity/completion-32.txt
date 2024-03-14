@@ -1,0 +1,11 @@
+1. Query: "where can I find a good sushi restaurant for {{lunch}}"
+Text Span: "lunch"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Query: "where can I find a cozy restaurant for a {{brunch date}}"
+Text Span: "brunch date"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "I'm in the mood for some unique dishes, where can I find a food truck with {{tasting menus}}"
+Text Span: "tasting menus"
+Label: (A). Correct Entity Annotation.

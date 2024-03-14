@@ -1,0 +1,8 @@
+Sentence: "Winston Churchill was a British politician and statesman."
+Named Entities: [Winston Churchill (person), British (location)]
+
+Sentence: "He served as Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955."
+Named Entities: [United Kingdom (location)]
+
+Sentence: "During his time in office, Winston Churchill played a key role in shaping Allied strategy in World War II."
+Named Entities: [Winston Churchill (person), Allied (organization), World War II (event)]

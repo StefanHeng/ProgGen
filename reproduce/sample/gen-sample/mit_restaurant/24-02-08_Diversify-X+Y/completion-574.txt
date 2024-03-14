@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with impressive outdoor seating?"
+Named Entities: [fine dining (Amenity), impressive (Rating), outdoor seating (Amenity)]
+
+2. "I'm looking for a high-class Indian restaurant, preferably with outdoor seating"
+Named Entities: [Indian (Cuisine), high-class (Rating), outdoor seating (Amenity)]
+
+3. "Is Le Bernardin a cheap fine dining option?"
+Named Entities: [Le Bernardin (Restaurant Name), cheap (Price), fine dining (Amenity)]

@@ -1,0 +1,8 @@
+Query: "What is the best café in the downtown area?"
+Named Entities: [best (Rating), café (Cuisine), downtown area (Location)]
+
+Query: "Can you recommend a café with outdoor seating and a good ambiance?"
+Named Entities: [outdoor seating (Amenity), good ambiance (Amenity), café (Cuisine)]
+
+Query: "I'm looking for a café with a relaxed atmosphere and affordable prices."
+Named Entities: [relaxed atmosphere (Amenity), affordable prices (Price), café (Cuisine)]

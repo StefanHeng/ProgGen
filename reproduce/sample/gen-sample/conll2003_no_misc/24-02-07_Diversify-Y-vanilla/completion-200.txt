@@ -1,0 +1,8 @@
+1. "Mike Pence delivers keynote speech at Republican National Convention."
+Named Entities: [Mike Pence (person)]
+
+2. "Vice President Mike Pence meets with NATO leaders in Brussels."
+Named Entities: [Mike Pence (person), NATO (organization), Brussels (location)]
+
+3. "Mike Pence tests negative for COVID-19 after potential exposure."
+Named Entities: [Mike Pence (person), COVID-19 (organization)]

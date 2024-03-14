@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a great romantic song that came out in the 1980s?"
+   Named Entities: [romantic song (Song), 1980s (Year)]
+   
+2. "I'm looking for a feel-good movie with a catchy soundtrack. Any suggestions?"
+   Named Entities: [feel-good (Genre), catchy soundtrack (Review)]
+   
+3. "Who composed the music for the classic film Casablanca?"
+   Named Entities: [Casablanca (Title), composed the music (Director)]

@@ -1,0 +1,8 @@
+1. "What's the highest rated movie of 2021 so far?"
+Named Entities: [highest rated (Viewers' Rating), 2021 (Year)]
+
+2. "Who directed the top horror movie of the 90s?"
+Named Entities: [top (Viewers' Rating), horror (Genre), 90s (Year), Director]
+
+3. "Give me the best action film of all time now!"
+Named Entities: [best (Viewers' Rating), action (Genre), all time (Year)]

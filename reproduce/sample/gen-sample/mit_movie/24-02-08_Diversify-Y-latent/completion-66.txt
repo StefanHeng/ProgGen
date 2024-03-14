@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating of The Sixth Sense film directed by M. Night Shyamalan?"
+   Named Entities: [The Sixth Sense (Title), M. Night Shyamalan (Director)]
+
+2. Query: "Can I watch a teaser clip of the new Steven Spielberg movie?"
+   Named Entities: [teaser clip (Trailer), Steven Spielberg (Director)]
+
+3. Query: "Is Professor Dumbledore a character in any 3/10 rated movies?"
+   Named Entities: [Professor Dumbledore (Character), 3/10 rating (Viewers' Rating)]

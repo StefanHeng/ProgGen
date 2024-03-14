@@ -1,0 +1,8 @@
+1. Text Span: "marathon organizers"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. Correct span boundary: "New York City marathon organizers"
+
+2. Text Span: "European Union"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "company"
+Label: (C). The span is a named entity but the category is not organization. Correct entity type: organization

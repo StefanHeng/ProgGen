@@ -1,0 +1,29 @@
+1. The United Nations issues a statement condemning the recent terrorist attacks in Europe.
+Named Entities: [The United Nations (organization), Europe (location)]
+
+2. Mary Smith appointed as the new CEO of Johnson & Johnson.
+Named Entities: [Mary Smith (person), Johnson & Johnson (organization)]
+
+3. NASA announces plans for a manned mission to Mars by 2030.
+Named Entities: [NASA (organization), Mars (location)]
+
+4. Italy imposes new restrictions to combat the spread of COVID-19.
+Named Entities: [Italy (location), COVID-19 (organization)]
+
+5. Amazon to open a new fulfillment center in Texas, creating thousands of jobs.
+Named Entities: [Amazon (organization), Texas (location)]
+
+6. President Biden signs an executive order to address climate change.
+Named Entities: [President Biden (person)]
+
+7. The World Health Organization warns of a potential new strain of influenza.
+Named Entities: [The World Health Organization (organization)]
+
+8. Russia accuses the United States of espionage activities near its border.
+Named Entities: [Russia (location), the United States (location)]
+
+9. Serena Williams wins her 23rd Grand Slam title at the Australian Open.
+Named Entities: [Serena Williams (person), Australian Open (organization)]
+
+10. Apple announces record-breaking sales for its latest iPhone model.
+Named Entities: [Apple (organization), iPhone (organization)]

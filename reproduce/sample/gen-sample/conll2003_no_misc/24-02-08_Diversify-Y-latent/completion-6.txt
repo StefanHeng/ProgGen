@@ -1,0 +1,8 @@
+1. "The exhibition features a rare collection of Claude Monet's paintings."
+Named Entities: [Claude Monet (person)]
+
+2. "The Claude Monet Museum in Giverny, France, reopens after renovations."
+Named Entities: [Claude Monet (person), Giverny (location), France (location)]
+
+3. "The Claude Monet Foundation announces a new scholarship for young artists."
+Named Entities: [Claude Monet (person), Claude Monet Foundation (organization)]

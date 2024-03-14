@@ -1,0 +1,8 @@
+Query: "find me a rustic restaurant offering chef's specials with a brunch menu in the mid-range price category"
+Named Entities: [rustic (Amenity), chef's specials (Amenity), brunch (Cuisine), mid-range (Price)]
+
+Query: "where can I have a brunch meal at a rustic restaurant with chef's specials in the brunch price range"
+Named Entities: [brunch (Cuisine), rustic (Amenity), chef's specials (Amenity), brunch price range (Price)]
+
+Query: "show me restaurants with a rustic ambience that serve chef's specials for brunch at a reasonable price"
+Named Entities: [rustic (Amenity), chef's specials (Amenity), brunch (Cuisine), reasonable price (Price)]

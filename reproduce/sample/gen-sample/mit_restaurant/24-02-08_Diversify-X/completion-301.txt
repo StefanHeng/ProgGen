@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good breakfast menu and offers takeout?"
+   Named Entities: [good (Rating), breakfast (Cuisine), takeout (Amenity)]
+
+2. "I'm looking for a place with a cozy atmosphere for a quick takeout breakfast. Any suggestions?"
+   Named Entities: [cozy (Amenity), quick (Hours), takeout (Amenity), breakfast (Cuisine)]
+
+3. "Where can I find a breakfast spot that serves takeout and is within a reasonable price range?"
+   Named Entities: [breakfast (Cuisine), takeout (Amenity), reasonable price (Price)]

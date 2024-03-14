@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with an awesome breakfast menu and a 9/10 rating?"
+Named Entities: [awesome (Rating), breakfast (Amenity), 9/10 rating (Rating)]
+
+2. "I'm looking for a breakfast spot with a 9/10 rating, can you help me find it?"
+Named Entities: [breakfast (Amenity), 9/10 rating (Rating)]
+
+3. "Where can I have a delicious breakfast with a 9/10 rating?"
+Named Entities: [delicious (Rating), breakfast (Amenity), 9/10 rating (Rating)]

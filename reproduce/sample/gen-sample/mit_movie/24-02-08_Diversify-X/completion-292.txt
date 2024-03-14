@@ -1,0 +1,8 @@
+1. Query: "I'm looking for showtimes and tickets for the latest Marvel movie"
+   Named Entities: [latest Marvel movie (Title)]
+
+2. Query: "Can I see a list of theaters showing the new Christopher Nolan film?"
+   Named Entities: [new Christopher Nolan film (Director)]
+
+3. Query: "I want to buy tickets for a well-rated horror movie that came out last year"
+   Named Entities: [well-rated horror movie (Genre), last year (Year)]

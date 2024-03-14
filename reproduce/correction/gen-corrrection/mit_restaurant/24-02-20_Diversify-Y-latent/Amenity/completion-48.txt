@@ -1,0 +1,8 @@
+1. Text Span: "dinner"
+   Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "Western Living"
+   Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "outdoor dining"
+   Label: (A). The span is a named entity of type amenity

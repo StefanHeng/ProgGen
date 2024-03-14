@@ -1,0 +1,8 @@
+1. Text Span: "Möbius strip"
+Label: (D). The span is not a named entity
+
+2. Text Span: "Convent of Santa Maria delle Grazie"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Hampshire"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "I'm in the mood for some authentic Maltese cuisine, can you recommend a restaurant?"
+Named Entities: [Maltese (Cuisine)]
+
+2. "I'm craving some Belgian waffles, where can I find the best ones in town?"
+Named Entities: [Belgian (Cuisine)]
+
+3. "I need a restaurant with a romantic ambiance and reasonable prices for a special date night."
+Named Entities: [romantic (Amenity), reasonable prices (Price)]

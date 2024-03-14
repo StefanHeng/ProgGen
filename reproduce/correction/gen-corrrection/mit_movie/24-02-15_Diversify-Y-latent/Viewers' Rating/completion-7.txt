@@ -1,0 +1,11 @@
+1. Query: "Are there any movies about bank robberies that have a {{high}} viewers' rating?"
+Text Span: "high"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Query: "Can I watch a trailer for the movie starring Rooney Mara with a Gothic theme and a {{Decent rating}}"
+Text Span: "Decent rating"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Query: "Can you recommend a {{top-notch}} movie directed by Rob Marshall?"
+Text Span: "top-notch"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other

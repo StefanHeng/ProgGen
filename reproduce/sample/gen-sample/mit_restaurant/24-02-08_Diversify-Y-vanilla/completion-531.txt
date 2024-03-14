@@ -1,0 +1,8 @@
+1. "I'm looking for a highly-praised restaurant with a waterfront view"
+Named Entities: [Highly-praised (Rating), Waterfront (Location)]
+
+2. "What time does Hash House a Go Go close tonight?"
+Named Entities: [Hash House a Go Go (Restaurant Name), tonight (Hours)]
+
+3. "I'm craving a sub sandwich, can you find the nearest Firehouse Subs?"
+Named Entities: [sub sandwich (Dish), Firehouse Subs (Restaurant Name), nearest (Location)]

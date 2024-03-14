@@ -1,0 +1,8 @@
+1. Query: "hey, can you play the trailer for the new Fast & Furious movie?"
+Named Entities: [Fast & Furious (Title), trailer (Trailer)]
+
+2. Query: "I need to see a sneak peek of the upcoming horror movie with Jamie Lee Curtis"
+Named Entities: [horror (Genre), Jamie Lee Curtis (Actor), sneak peek (Trailer)]
+
+3. Query: "yo, show me a preview of that sci-fi flick directed by Steven Spielberg"
+Named Entities: [sci-fi (Genre), Steven Spielberg (Director), preview (Trailer)]

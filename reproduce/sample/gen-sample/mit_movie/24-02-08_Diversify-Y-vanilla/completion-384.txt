@@ -1,0 +1,8 @@
+1. "Can you show me a preview clip of the movie directed by Mark Joffe that stars Cate Blanchett and Kerry Washington?"
+   Named Entities: [Mark Joffe (Director), Cate Blanchett (Actor), Kerry Washington (Actor), Preview clip (Trailer)]
+
+2. "Is there a movie from 1984 that explores the theme of identity crisis and is considered enthralling?"
+   Named Entities: [1984 (Year), Identity crisis (Plot), Enthralling (Viewers' Rating)]
+
+3. "Who directed the movie X and what genre does it belong to?"
+   Named Entities: [X (Title), Director (Director), Genre (Genre)]

@@ -1,0 +1,44 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+2. The British Red Cross provides first aid training.
+Named Entities: [British Red Cross (organization)]
+
+3. In 1983, Alicia Keys was born in New York City.
+Named Entities: [Alicia Keys (person), New York City (location)]
+
+4. The Rolling Stones are a famous rock band from London, England.
+Named Entities: [The Rolling Stones (organization), London (location), England (location)]
+
+5. The CEO of Google, Sundar Pichai, made a statement about the new company policy.
+Named Entities: [Google (organization), Sundar Pichai (person)]
+
+6. The Great Wall of China is one of the most famous tourist attractions in the world.
+Named Entities: [Great Wall of China (location)]
+
+7. J.K. Rowling, the author of the Harry Potter series, was born in Yate, England.
+Named Entities: [J.K. Rowling (person), Yate (location), England (location)]
+
+8. The International Red Cross and Red Crescent Movement is a global humanitarian network.
+Named Entities: [International Red Cross and Red Crescent Movement (organization)]
+
+9. The Grand Canyon National Park is located in the state of Arizona.
+Named Entities: [Grand Canyon National Park (location), Arizona (location)]
+
+10. President Joe Biden announced a new economic plan for the United States.
+Named Entities: [Joe Biden (person), United States (location)]
+
+11. The United Nations is an international organization founded in 1945.
+Named Entities: [United Nations (organization)]
+
+12. Margaret Thatcher was the first female Prime Minister of the United Kingdom.
+Named Entities: [Margaret Thatcher (person), United Kingdom (location)]
+
+13. The Louvre Museum in Paris is home to the Mona Lisa.
+Named Entities: [Louvre Museum (organization), Paris (location), Mona Lisa (location)]
+
+14. Apple Inc. is an American technology company known for its popular products.
+Named Entities: [Apple Inc. (organization), American (location)]
+
+15. Nelson Mandela was a prominent leader in the anti-apartheid movement in South Africa.
+Named Entities: [Nelson Mandela (person), South Africa (location)]

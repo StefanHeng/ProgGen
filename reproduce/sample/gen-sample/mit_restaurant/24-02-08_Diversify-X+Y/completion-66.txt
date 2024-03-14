@@ -1,0 +1,8 @@
+Query: "can you recommend a place for late-night dining that serves delicious pho soup"
+Named Entities: [late-night dining (Hours), delicious pho soup (Dish)]
+
+Query: "where can I find wallet-friendly options for late-night dining"
+Named Entities: [wallet-friendly (Price), late-night dining (Hours)]
+
+Query: "what's a good restaurant for late-night dining with a mid-range price for pho soup"
+Named Entities: [late-night dining (Hours), mid-range price (Price), pho soup (Dish)]

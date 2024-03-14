@@ -1,0 +1,8 @@
+1. "Can you recommend any cult classic movies for a general audience"
+Named Entities: [cult classic (Viewers' Rating), General Audience (MPAA Rating)]
+
+2. "Show me a trailer for the film with the song Can't Stop the Feeling!"
+Named Entities: [Can't Stop the Feeling! (Song), trailer (Trailer)]
+
+3. "What restricted movies were directed by Quentin Tarantino?"
+Named Entities: [Quentin Tarantino (Director), Restricted (MPAA Rating)]

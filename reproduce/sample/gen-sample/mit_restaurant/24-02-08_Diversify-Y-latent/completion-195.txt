@@ -1,0 +1,8 @@
+1. "Where can I find a good brunch buffet in this area?"
+Named Entities: [good (Rating), brunch buffet (Amenity), area (Location)]
+
+2. "I'm craving a delicious breakfast burrito. Any recommendations?"
+Named Entities: [delicious (Rating), breakfast burrito (Dish), recommendations (Amenity)]
+
+3. "Do you know of any restaurants with a brunch buffet and mimosas?"
+Named Entities: [brunch buffet (Amenity), mimosas (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a highly-rated thriller directed by David Fincher?"
+Named Entities: [highly-rated (Viewers' Rating), thriller (Genre), David Fincher (Director)]
+
+2. Query: "Could you provide me with a review of the latest Quentin Tarantino movie?"
+Named Entities: [review (Review), latest (Year), Quentin Tarantino (Director)]
+
+3. Query: "Show me a trailer for a top-rated animated film from the 2010s."
+Named Entities: [trailer (Trailer), top-rated (Viewers' Rating), animated (Genre), 2010s (Year)]

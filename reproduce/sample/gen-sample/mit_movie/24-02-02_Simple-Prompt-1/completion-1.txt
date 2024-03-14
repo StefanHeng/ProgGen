@@ -1,0 +1,149 @@
+1. Can you tell me the plot of the movie Inception?
+   Named Entities: [Inception (Title)]
+
+2. What is the viewers' rating for The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+3. Show me movies from the 1980s.
+   Named Entities: [1980s (Year)]
+
+4. What are some action movies directed by Christopher Nolan?
+   Named Entities: [action (Genre), Christopher Nolan (Director)]
+
+5. What is the MPAA rating for The Matrix?
+   Named Entities: [The Matrix (Title), MPAA rating (MPAA Rating)]
+
+6. Can you tell me about the character of Tony Stark in Iron Man?
+   Named Entities: [Tony Stark (Character), Iron Man (Title)]
+
+7. Show me a movie starring Meryl Streep.
+   Named Entities: [Meryl Streep (Actor)]
+
+8. Can you provide the trailer for the film Gravity?
+   Named Entities: [Gravity (Title), trailer (Trailer)]
+
+9. Which movie features the song "My Heart Will Go On"?
+   Named Entities: ["My Heart Will Go On" (Song)]
+
+10. What is the review for The Godfather?
+    Named Entities: [The Godfather (Title), review (Review)]
+
+11. When was the movie Titanic released?
+    Named Entities: [Titanic (Title)]
+
+12. What type of movie genre is The Great Gatsby?
+    Named Entities: [The Great Gatsby (Title), movie genre (Genre)]
+
+13. Show me a movie directed by Alfred Hitchcock.
+    Named Entities: [Alfred Hitchcock (Director)]
+
+14. What is the viewers' rating for The Dark Knight?
+    Named Entities: [The Dark Knight (Title), viewers' rating (Viewers' Rating)]
+
+15. Can you tell me the plot of the movie Avatar?
+    Named Entities: [Avatar (Title)]
+
+16. What are some horror movies from the 1970s?
+    Named Entities: [horror (Genre), 1970s (Year)]
+
+17. What is the MPAA rating for The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+18. Can you tell me about the character of Hannibal Lecter in Silence of the Lambs?
+    Named Entities: [Hannibal Lecter (Character), Silence of the Lambs (Title)]
+
+19. Show me a movie starring Tom Hanks.
+    Named Entities: [Tom Hanks (Actor)]
+
+20. Can you provide the trailer for the film Jurassic Park?
+    Named Entities: [Jurassic Park (Title), trailer (Trailer)]
+
+21. Which movie features the song "Can't Stop the Feeling"?
+    Named Entities: ["Can't Stop the Feeling" (Song)]
+
+22. What is the review for The Shawshank Redemption?
+    Named Entities: [The Shawshank Redemption (Title), review (Review)]
+
+23. When was the movie The Wizard of Oz released?
+    Named Entities: [The Wizard of Oz (Title)]
+
+24. What type of movie genre is The Lion King?
+    Named Entities: [The Lion King (Title), movie genre (Genre)]
+
+25. Show me a movie directed by Steven Spielberg.
+    Named Entities: [Steven Spielberg (Director)]
+
+26. What is the viewers' rating for Forrest Gump?
+    Named Entities: [Forrest Gump (Title), viewers' rating (Viewers' Rating)]
+
+27. Can you tell me the plot of the movie Jaws?
+    Named Entities: [Jaws (Title)]
+
+28. What are some romance movies from the 2000s?
+    Named Entities: [romance (Genre), 2000s (Year)]
+
+29. What is the MPAA rating for The Lord of the Rings: The Fellowship of the Ring?
+    Named Entities: [The Lord of the Rings: The Fellowship of the Ring (Title), MPAA rating (MPAA Rating)]
+
+30. Can you tell me about the character of Frodo Baggins in Lord of the Rings?
+    Named Entities: [Frodo Baggins (Character), Lord of the Rings (Title)]
+
+31. Show me a movie starring Scarlett Johansson.
+    Named Entities: [Scarlett Johansson (Actor)]
+
+32. Can you provide the trailer for the film The Avengers?
+    Named Entities: [The Avengers (Title), trailer (Trailer)]
+
+33. Which movie features the song "Eye of the Tiger"?
+    Named Entities: ["Eye of the Tiger" (Song)]
+
+34. What is the review for The Matrix?
+    Named Entities: [The Matrix (Title), review (Review)]
+
+35. When was the movie Star Wars: A New Hope released?
+    Named Entities: [Star Wars: A New Hope (Title)]
+
+36. What type of movie genre is The Terminator?
+    Named Entities: [The Terminator (Title), movie genre (Genre)]
+
+37. Show me a movie directed by Quentin Tarantino.
+    Named Entities: [Quentin Tarantino (Director)]
+
+38. What is the viewers' rating for Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), viewers' rating (Viewers' Rating)]
+
+39. Can you tell me the plot of the movie The Shining?
+    Named Entities: [The Shining (Title)]
+
+40. What are some thriller movies from the 1990s?
+    Named Entities: [thriller (Genre), 1990s (Year)]
+
+41. What is the MPAA rating for The Sixth Sense?
+    Named Entities: [The Sixth Sense (Title), MPAA rating (MPAA Rating)]
+
+42. Can you tell me about the character of Cole Sear in The Sixth Sense?
+    Named Entities: [Cole Sear (Character), The Sixth Sense (Title)]
+
+43. Show me a movie starring Leonardo DiCaprio.
+    Named Entities: [Leonardo DiCaprio (Actor)]
+
+44. Can you provide the trailer for the film The Dark Knight Rises?
+    Named Entities: [The Dark Knight Rises (Title), trailer (Trailer)]
+
+45. Which movie features the song "Let It Go"?
+    Named Entities: ["Let It Go" (Song)]
+
+46. What is the review for The Lord of the Rings: The Return of the King?
+    Named Entities: [The Lord of the Rings: The Return of the King (Title), review (Review)]
+
+47. When was the movie Raiders of the Lost Ark released?
+    Named Entities: [Raiders of the Lost Ark (Title)]
+
+48. What type of movie genre is The Princess Bride?
+    Named Entities: [The Princess Bride (Title), movie genre (Genre)]
+
+49. Show me a movie directed by Stanley Kubrick.
+    Named Entities: [Stanley Kubrick (Director)]
+
+50. What is the viewers' rating for Interstellar?
+    Named Entities: [Interstellar (Title), viewers' rating (Viewers' Rating)]

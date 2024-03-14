@@ -1,0 +1,8 @@
+1. "Can you tell me the year of the movie in which Tom Cruise and Ryan Gosling acted together?"
+Named Entities: [Tom Cruise (Actor), Ryan Gosling (Actor)]
+
+2. "I want to watch a thriller directed by Tom Cruise's favorite director."
+Named Entities: [Tom Cruise (Actor), thriller (Genre)]
+
+3. "What is the viewers' rating for the most recent movie starring Ryan Gosling?"
+Named Entities: [Ryan Gosling (Actor)]

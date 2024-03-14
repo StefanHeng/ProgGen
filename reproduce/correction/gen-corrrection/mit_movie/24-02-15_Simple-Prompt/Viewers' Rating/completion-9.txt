@@ -1,0 +1,11 @@
+1. Query: "What is the {{IMDB rating}} for Pulp Fiction"
+Text Span: "IMDB rating"
+Label: (D). Not a Named Entity
+
+2. Query: "What is the {{highest rated}} movie on rotten tomatoes"
+Text Span: "highest rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Query: "Is The Godfather a {{classic}} movie?"
+Text Span: "classic"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Genre

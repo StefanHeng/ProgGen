@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with late-night dining options that serves Italian cuisine?"
+Named Entities: [late-night dining (Amenity), Italian cuisine (Cuisine)]
+
+2. "Which place has a high rating for their late-night dining menu in the downtown area?"
+Named Entities: [high rating (Rating), late-night dining (Amenity), downtown area (Location)]
+
+3. "I'm looking for a restaurant that offers late-night dining and is known for its seafood dishes."
+Named Entities: [late-night dining (Amenity), seafood dishes (Dish)]

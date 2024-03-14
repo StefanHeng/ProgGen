@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a buffet restaurant with waterfront views in this {{area}}?"
+Text Span: "area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area".
+
+2. Query: "which buffet restaurant {{near me}} has a high rating"
+Text Span: "near me"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Where can I find a place {{by the beach}} that offers a morning brunch with a beautiful view?"
+Text Span: "by the beach"
+Label: (A). Correct Entity Annotation.

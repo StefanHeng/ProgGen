@@ -1,0 +1,8 @@
+1. Text Span: "newest animated movie"
+Label: (C). Genre
+
+2. Text Span: "Spider-Man"
+Label: (A). Title
+
+3. Text Span: "latest Marvel movie"
+Label: (B). Wrong Boundary. The correct span boundary is "Marvel"

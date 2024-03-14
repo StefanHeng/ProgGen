@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by John Lasseter with an 8.5/10 rating and released in 2007?"
+Named Entities: [John Lasseter (Director), 8.5/10 rating (Viewers' Rating), 2007 (Year)]
+
+2. "I'm looking for a fairy tale movie with a family inheritance theme that is rated MPAA."
+Named Entities: [fairy tale (Genre), family inheritance (Plot), MPAA (MPAA Rating)]
+
+3. "Show me a wonderful movie with a high rating that was directed by John Lasseter."
+Named Entities: [wonderful (Review), John Lasseter (Director)]

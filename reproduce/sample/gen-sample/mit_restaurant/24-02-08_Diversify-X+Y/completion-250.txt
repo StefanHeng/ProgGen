@@ -1,0 +1,8 @@
+Query: "where can I find a buffet restaurant nearby with a good selection of sushi"
+Named Entities: [buffet (Amenity), nearby (Location), sushi (Dish)]
+
+Query: "what's the best buffet place in the city for a doctor in his 30s"
+Named Entities: [best (Rating), buffet (Amenity), doctor (Amenity), 30s (Amenity)]
+
+Query: "which buffet restaurant offers the best value for money"
+Named Entities: [buffet (Amenity), best value for money (Price)]

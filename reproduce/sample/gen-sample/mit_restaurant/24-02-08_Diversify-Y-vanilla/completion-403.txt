@@ -1,0 +1,8 @@
+Query: "suggest some free-flowing restaurants in the area"
+Named Entities: [Free-flowing Restaurants (Amenity), area (Location)]
+
+Query: "are there any reasonable places to eat around here"
+Named Entities: [reasonable (Price), places to eat (Amenity), around here (Location)]
+
+Query: "can you recommend a restaurant with a good rating in the downtown area"
+Named Entities: [good (Rating), downtown area (Location)]

@@ -1,0 +1,8 @@
+1. "Could you recommend a profound and moving movie with Benedict Cumberbatch?"
+Named Entities: [profound and moving (Viewers' Rating), Benedict Cumberbatch (Actor)]
+
+2. "Can I get a first look at the film snippet for the new Han Solo movie in 2000?"
+Named Entities: [first look (Trailer), film snippet (Trailer), Han Solo (Character), 2000 (Year)]
+
+3. "What is your favorite movie genre from the year 2000?"
+Named Entities: [2000 (Year)]

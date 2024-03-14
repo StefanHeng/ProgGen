@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie starring Sandra Bullock and Halle Berry"
+Named Entities: [Sandra Bullock (Actor), Halle Berry (Actor), viewers' rating (Viewers' Rating)]
+
+Query: "Can you recommend a coming of age or survival story film with Michael B. Jordan"
+Named Entities: [coming of age (Genre), survival story (Plot), Michael B. Jordan (Actor)]
+
+Query: "I'm looking for a sci-fi movie that received good reviews"
+Named Entities: [sci-fi (Genre), good reviews (Review)]

@@ -1,0 +1,8 @@
+Query: "I'm craving some late-night dining in Las Vegas, where can I get jumbo lump crab cakes?"
+Named Entities: [late-night dining (Amenity), Las Vegas (Location), jumbo lump crab cakes (Dish)]
+
+Query: "I'm a 28-year-old female software developer looking for affordable late-night dining options in Las Vegas, do you know anywhere open until 2 am?"
+Named Entities: [28-year-old (Amenity), female (Amenity), software developer (Amenity), affordable (Price), late-night dining (Amenity), Las Vegas (Location), open until 2 am (Hours)]
+
+Query: "Where can I find a place in Las Vegas for late-night dining with affordable pancakes?"
+Named Entities: [late-night dining (Amenity), Las Vegas (Location), affordable (Price), pancakes (Dish)]

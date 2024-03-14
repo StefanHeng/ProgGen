@@ -1,0 +1,8 @@
+Query: "I want to find a restaurant with a cozy atmosphere and good breakfast menu within budget"
+Named Entities: [cozy atmosphere (Amenity), good breakfast menu (Dish), within budget (Price)]
+
+Query: "Can you recommend a Persian restaurant with high ratings in the downtown area?"
+Named Entities: [Persian (Cuisine), high ratings (Rating), downtown area (Location)]
+
+Query: "What are the operating hours of Black Bear Diner on weekends?"
+Named Entities: [Black Bear Diner (Restaurant Name), weekends (Hours)]

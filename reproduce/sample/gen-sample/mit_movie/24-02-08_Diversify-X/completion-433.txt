@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a memorable soundtrack that is worth listening to?"
+   Named Entities: [memorable soundtrack (Review)]
+
+2. "Which movie from the 80s is known for its iconic song that became a hit?"
+   Named Entities: [80s (Year), iconic song (Song)]
+
+3. "Could you suggest a film with a beautiful theme song that complements the storyline?"
+   Named Entities: [beautiful theme song (Song), storyline (Plot)]

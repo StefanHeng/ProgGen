@@ -1,0 +1,8 @@
+1. "Can you recommend a mid-range food truck nearby?"
+Named Entities: [mid-range (Price), food truck (Amenity)]
+
+2. "I'm in the mood for some street food, where can I find a food truck with a good variety of options?"
+Named Entities: [street food (Cuisine), food truck (Amenity)]
+
+3. "What are the hours for the food truck that serves Mexican cuisine?"
+Named Entities: [Mexican (Cuisine), food truck (Amenity), Hours]

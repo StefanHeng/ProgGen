@@ -1,0 +1,8 @@
+1. "Could I get an exclusive look at the new Back to the Future movie?"
+Named Entities: [exclusive look (Trailer), Back to the Future (Title)]
+
+2. "What type of movie genre is 2001 classified as?"
+Named Entities: [2001 (Title), genre (Genre)]
+
+3. "Is Saoirse Ronan in any experimental films that are worth watching?"
+Named Entities: [Saoirse Ronan (Actor), experimental (Genre), worth watching (Viewers' Rating)]

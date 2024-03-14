@@ -1,0 +1,8 @@
+1. "Can you recommend a tragedy film from 1994 with a captivating plot?"
+Named Entities: [tragedy (Genre), 1994 (Year)]
+
+2. "Who directed the movie Captain Jack Sparrow, and what is the viewers' rating for it?"
+Named Entities: [Captain Jack Sparrow (Title), viewers' rating (Viewers' Rating)]
+
+3. "Is Ryan Gosling the lead actor in any thriller films?" 
+Named Entities: [Ryan Gosling (Actor), thriller (Genre)]

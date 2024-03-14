@@ -1,0 +1,8 @@
+Query: "Can you recommend a Splendid restaurant with French cuisine for dinner tonight"
+Named Entities: [Splendid (Restaurant Name), French (Cuisine), dinner (Amenity)]
+
+Query: "I'm looking for a Splendid place with outdoor seating and a view for dinner"
+Named Entities: [Splendid (Restaurant Name), outdoor seating (Amenity), dinner (Amenity)]
+
+Query: "Find me a Splendid restaurant with a 5-star rating and a wine bar for dinner"
+Named Entities: [Splendid (Restaurant Name), 5-star (Rating), wine bar (Amenity), dinner (Amenity)]

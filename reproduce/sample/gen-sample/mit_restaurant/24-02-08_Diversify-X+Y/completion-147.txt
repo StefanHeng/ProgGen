@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood café with outdoor seating?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity)]
+
+2. "What are the operating hours of the seafood café near the waterfront?"
+Named Entities: [seafood (Cuisine), near the waterfront (Location)]
+
+3. "I'm looking for a cozy café with a great seafood menu, do you have any suggestions?"
+Named Entities: [cozy (Amenity), seafood (Cuisine)]

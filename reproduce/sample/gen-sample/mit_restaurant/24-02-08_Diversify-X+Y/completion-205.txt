@@ -1,0 +1,8 @@
+Query: "what cafés are open for breakfast"
+Named Entities: [breakfast (Amenity)]
+
+Query: "i'm looking for a café with outdoor seating and a good vegan menu"
+Named Entities: [outdoor seating (Amenity), good (Rating), vegan (Cuisine)]
+
+Query: "show me a café with live music and a cozy atmosphere"
+Named Entities: [live music (Amenity), cozy atmosphere (Amenity)]

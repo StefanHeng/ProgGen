@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly-rated action movie from the 2000s?"
+Named Entities: [action movie (Genre), 2000s (Year), highly-rated (Viewers' Rating)]
+
+Query: "Who is the director of the top-rated science fiction film of all time?"
+Named Entities: [director (Director), science fiction film (Genre), top-rated (Viewers' Rating), all time (Year)]
+
+Query: "I'm looking for a critically acclaimed drama with Meryl Streep, any suggestions?"
+Named Entities: [critically acclaimed (Review), drama (Genre), Meryl Streep (Actor)]

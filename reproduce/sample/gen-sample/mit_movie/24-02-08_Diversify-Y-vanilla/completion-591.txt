@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with intense action sequences that came out in the 1990s?"
+   Named Entities: [intense action sequences (Plot), 1990s (Year)]
+
+2. "I'm interested in a movie about cybercrime. What would you suggest?"
+   Named Entities: [cybercrime (Genre)]
+
+3. "Is Raging Bull considered a classic movie? What's it about?" 
+   Named Entities: [Raging Bull (Title), classic (Review)]

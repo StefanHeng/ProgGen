@@ -1,0 +1,8 @@
+1. Text Span: "Australian"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+2. Text Span: "Hurricane Florence"
+Label: (A)
+
+3. Text Span: "Australian"
+Label: (C). The span is a named entity but the category is not location. Entity type: other

@@ -1,0 +1,8 @@
+Sentence: "Freud believed that the unconscious mind stored thoughts and memories that are repressed or otherwise hidden away, and that they exert a great influence on behavior."
+Named Entities: [Freud (person)]
+
+Sentence: "Stanford Psychology Department offers a wide range of research and academic programs in the field of psychology."
+Named Entities: [Stanford Psychology Department (organization)]
+
+Sentence: "The experiment conducted by psychologist Philip Zimbardo at Stanford University demonstrated the powerful impact of situational variables on human behavior in simulated prison environment."
+Named Entities: [Philip Zimbardo (person), Stanford University (organization)]

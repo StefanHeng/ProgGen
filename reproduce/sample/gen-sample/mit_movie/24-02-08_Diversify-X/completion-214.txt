@@ -1,0 +1,8 @@
+1. "Can you tell me what Turbo Kid is about?"
+Named Entities: [Turbo Kid (Title), plot summary (Plot)]
+
+2. "I want to know the story of How to Train Your Dragon. Can you tell me?"
+Named Entities: [How to Train Your Dragon (Title), plot synopsis (Plot)]
+
+3. "Is there a movie that has a really cool adventure plot?"
+Named Entities: [adventure plot (Genre)]

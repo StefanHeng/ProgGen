@@ -1,0 +1,10 @@
+Query: "Where can I find a mid-range food truck that serves paleo-friendly dishes"
+Named Entities: [mid-range (Price), food truck (Amenity), paleo-friendly (Amenity)]
+
+Query: "I'm craving some paleo meals, can you recommend a food truck with a good paleo menu"
+Named Entities: [paleo (Amenity), food truck (Amenity), paleo menu (Amenity)]
+
+Query: "I want to try some new paleo dishes from a food truck, any recommendations"
+Named Entities: [paleo (Amenity), food truck (Amenity), paleo dishes (Amenity), new (Rating)]
+
+Named Entities: [Perfectly Fried Chicken Truck (Restaurant Name)]

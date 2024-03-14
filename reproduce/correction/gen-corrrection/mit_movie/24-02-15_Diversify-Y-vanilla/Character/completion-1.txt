@@ -1,0 +1,11 @@
+1. Query: "Who directed the film released in 1972 starring {{Finn}}?"
+Text Span: "Finn"
+Label: (A). The span is a named entity of type character
+
+2. Query: "are there any GP-rated movies featuring a {{fearless female protagonist}}"
+Text Span: "fearless female protagonist"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Query: "did {{michael myers}} star in any horror movies directed by stephen daldry"
+Text Span: "michael myers"
+Label: (A). The span is a named entity of type character

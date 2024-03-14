@@ -1,0 +1,8 @@
+Sentence: "Immigration policy reform proposed by Senator Smith."
+Named Entities: [Senator Smith (person)]
+
+Sentence: "Border patrol apprehends record number of undocumented immigrants near Texas border."
+Named Entities: [border patrol (organization), Texas (location)]
+
+Sentence: "Immigrant rights organization holds rally in support of DACA recipients."
+Named Entities: [DACA (organization)]

@@ -1,0 +1,8 @@
+1. "Can you tell me about the reviews for the movie Unbeatable?"
+Named Entities: [Unbeatable (Title), reviews (Review)]
+
+2. "What is the viewers' rating for Casablanca?"
+Named Entities: [Casablanca (Title), viewers' rating (Viewers' Rating)]
+
+3. "Do you have any information on the director of the film Mamma Mia!?"
+Named Entities: [Mamma Mia! (Title), director (Director)]

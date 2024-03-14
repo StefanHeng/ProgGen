@@ -1,0 +1,8 @@
+1. "What is the best fine dining restaurant in the area?"
+Named Entities: [fine dining (Amenity), area (Location)]
+
+2. "Can you recommend a high-end restaurant with a Michelin star?"
+Named Entities: [high-end (Price), Michelin star (Rating)]
+
+3. "I am looking for a romantic upscale restaurant with a French cuisine menu."
+Named Entities: [romantic (Amenity), upscale (Price), French cuisine (Cuisine)]

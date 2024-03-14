@@ -1,0 +1,8 @@
+1. "I'm looking for a casual place for lunch near Ruth's Chris Steak House"
+Named Entities: [casual (Amenity), lunch (Dish), Ruth's Chris Steak House (Restaurant Name)]
+
+2. "What are the lunch hours for Ruth's Chris Steak House?"
+Named Entities: [lunch (Dish), hours (Hours), Ruth's Chris Steak House (Restaurant Name)]
+
+3. "Can you recommend any restaurants with a casual atmosphere close to Ruth's Chris Steak House for lunch?"
+Named Entities: [casual (Amenity), Ruth's Chris Steak House (Restaurant Name), lunch (Dish)]

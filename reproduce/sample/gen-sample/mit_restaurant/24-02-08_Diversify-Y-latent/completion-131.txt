@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that serves authentic Italian cuisine and is open until 10 p m?"
+Named Entities: [restaurant (Amenity), authentic Italian cuisine (Cuisine), until 10 p m (Closing hours)]
+
+2. "I'm looking for a budget-friendly restaurant with a vegan menu, any suggestions?"
+Named Entities: [budget-friendly (Price), vegan menu (Dish)]
+
+3. "Where can I find a highly-rated seafood restaurant in downtown with outdoor seating?"
+Named Entities: [highly-rated (Rating), seafood restaurant (Cuisine), downtown (Location), outdoor seating (Amenity)]

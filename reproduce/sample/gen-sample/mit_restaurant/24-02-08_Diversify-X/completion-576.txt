@@ -1,0 +1,8 @@
+1. "I'm craving fast food, can you recommend a place with a drive-thru?"
+   Named Entities: [fast food (Cuisine), drive-thru (Amenity)]
+
+2. "What are the top-rated fine dining restaurants in the city?"
+   Named Entities: [fine dining (Amenity)]
+
+3. "Is there a fast food joint with outdoor seating and a kids' menu?"
+   Named Entities: [fast food (Cuisine), outdoor seating (Amenity), kids' menu (Amenity)]

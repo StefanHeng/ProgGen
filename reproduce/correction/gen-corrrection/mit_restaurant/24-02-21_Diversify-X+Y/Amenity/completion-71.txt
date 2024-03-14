@@ -1,0 +1,6 @@
+1. Text Span: "nutrition information"
+Label: (B). The correct span boundary is "nutrition information for Carl's Jr."
+2. Text Span: "doctor"
+Label: (C). Wrong Type. The correct entity type is other.
+3. Text Span: "discounted items"
+Label: (A). Correct Entity Annotation.

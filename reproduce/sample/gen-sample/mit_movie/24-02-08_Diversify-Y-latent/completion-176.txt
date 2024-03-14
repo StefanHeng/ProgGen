@@ -1,0 +1,8 @@
+Query: "is Gilderoy Lockhart a character in any superhero origin films"
+Named Entities: [Gilderoy Lockhart (Character), superhero origin (Genre)]
+
+Query: "show me a slice of life movie from 1982"
+Named Entities: [slice of life (Genre), 1982 (Year)]
+
+Query: "do you have any unrated movies available"
+Named Entities: [Unrated (MPAA Rating)]

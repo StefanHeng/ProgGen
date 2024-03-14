@@ -1,0 +1,8 @@
+Query: "can you recommend a place for brunch on Monday with tasting menus"
+Named Entities: [brunch (Amenity), Monday (Hours), tasting menus (Amenity)]
+
+Query: "where can I find a restaurant by the Riverside that serves tasting menus for brunch"
+Named Entities: [Riverside (Location), tasting menus (Amenity), brunch (Amenity)]
+
+Query: "I'm looking for a Monday brunch spot with tasting menus, any suggestions"
+Named Entities: [Monday (Hours), brunch (Amenity), tasting menus (Amenity)]

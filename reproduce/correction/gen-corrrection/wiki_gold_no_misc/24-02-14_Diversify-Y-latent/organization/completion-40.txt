@@ -1,0 +1,8 @@
+1. Text Span: "South African"
+Label: (C). Wrong Type. The correct entity type is location.
+
+2. Text Span: "Hare Krishna movement"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "University of Ghana"
+Label: (A). The span is a named entity of type organization

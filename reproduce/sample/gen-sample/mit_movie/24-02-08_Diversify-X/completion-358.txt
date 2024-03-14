@@ -1,0 +1,8 @@
+Query: "Can you provide me with the viewers' rating for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+Query: "Please recommend a highly-rated romantic comedy film from the 1990s."
+Named Entities: [romantic comedy (Genre), 1990s (Year), highly-rated (Viewers' Rating)]
+
+Query: "Who directed the film Inception and what is the plot of the movie?"
+Named Entities: [Inception (Title), directed (Director), plot (Plot)]

@@ -1,0 +1,8 @@
+1. "I'm craving some Dominican food, where can I find a good spot nearby?"
+Named Entities: [Dominican (Cuisine)]
+
+2. "What's the best place in town to enjoy a fine steak dinner? I've heard good things about Flemings Prime Steakhouse."
+Named Entities: [Flemings Prime Steakhouse (Restaurant Name)]
+
+3. "Do you know of any restaurants with a great outdoor patio for dining al fresco?"
+Named Entities: [outdoor patio (Amenity)]

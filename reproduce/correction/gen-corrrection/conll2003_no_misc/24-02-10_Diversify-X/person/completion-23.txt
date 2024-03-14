@@ -1,0 +1,8 @@
+1. Text Span: "actor"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Text Span: "Mayor Smith"
+Label: (A)
+
+3. Text Span: "Local filmmaker"
+Label: (C). The span is a named entity but the category is not person. Entity type: other

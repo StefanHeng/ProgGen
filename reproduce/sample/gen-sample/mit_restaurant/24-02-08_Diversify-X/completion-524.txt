@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with late-night dining that serves Korean BBQ?"
+Named Entities: [late-night dining (Amenity), Korean BBQ (Cuisine)]
+
+2. "I'm looking for a place that offers late-night dining and is located near the downtown area."
+Named Entities: [late-night dining (Amenity), downtown area (Location)]
+
+3. "What are some options for late-night dining with a reasonable price range?"
+Named Entities: [late-night dining (Amenity), reasonable price range (Price)]

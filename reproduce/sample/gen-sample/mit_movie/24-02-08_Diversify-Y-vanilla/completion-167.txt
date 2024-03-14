@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with stunning costume design?" 
+Named Entities: [stunning costume design (Review)]
+
+2. "Show me a trailer segment from any revisionist western film."
+Named Entities: [revisionist western (Genre), trailer segment (Trailer)]
+
+3. "Which exceptional movie from E would you suggest for me to watch?"
+Named Entities: [E (Title), exceptional (Viewers' Rating)]

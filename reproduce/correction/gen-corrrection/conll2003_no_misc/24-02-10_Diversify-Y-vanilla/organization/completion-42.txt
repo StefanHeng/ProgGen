@@ -1,0 +1,11 @@
+1. Sentence: "CEO of {{The Walt Disney Company}} steps down amidst controversy."
+Text Span: "The Walt Disney Company"
+Label: (A). Named entity of type organization
+
+2. Sentence: "{{Greenpeace}} activists protest outside the Hanoi government building."
+Text Span: "Greenpeace"
+Label: (A). Named entity of type organization
+
+3. Sentence: "New York City {{Marathon}} route to include iconic landmarks."
+Text Span: "Marathon"
+Label: (C). Named entity but the category is not organization (other)

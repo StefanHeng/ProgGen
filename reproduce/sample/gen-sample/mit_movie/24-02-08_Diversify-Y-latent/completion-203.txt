@@ -1,0 +1,8 @@
+1. "Can you provide a list of R-rated movies directed by Clint Eastwood that feature a film montage"
+Named Entities: [Clint Eastwood (Director), R (MPAA Rating), film montage (Plot)]
+
+2. "Show me a movie from the 1980s with a soundtrack by Michael Jackson"
+Named Entities: [1980s (Year), Michael Jackson (Composer)]
+
+3. "What is the plot of the highest-rated action movie of the year?"
+Named Entities: [highest-rated (Viewers' Rating), action (Genre), year (Year), plot (Plot)]

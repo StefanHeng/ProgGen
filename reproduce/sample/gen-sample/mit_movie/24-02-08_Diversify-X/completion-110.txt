@@ -1,0 +1,8 @@
+Query: "Can I stream the movie Goodfellas?"
+Named Entities: [Goodfellas (Title)]
+
+Query: "Is there a streaming platform that has The Godfather?"
+Named Entities: [The Godfather (Title)]
+
+Query: "Where can I watch The Shawshank Redemption online?"
+Named Entities: [The Shawshank Redemption (Title)]

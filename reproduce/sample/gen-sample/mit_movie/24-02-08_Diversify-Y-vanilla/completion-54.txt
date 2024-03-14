@@ -1,0 +1,8 @@
+1. "Can you recommend any space opera movies released in 1971?"
+Named Entities: [space opera (Genre), 1971 (Year)]
+
+2. "What is the viewers' rating for The 40-Year-Old Virgin?"
+Named Entities: [The 40-Year-Old Virgin (Title), viewers' rating (Viewers' Rating)]
+
+3. "Who is the director of Doctor Strange and can I watch the trailer?"
+Named Entities: [Doctor Strange (Title), director (Director), trailer (Trailer)]

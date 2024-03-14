@@ -1,0 +1,8 @@
+Query: "What top-notch movies from the 1980s should I watch?"
+Named Entities: [1980s (Year), top-notch (Viewers' Rating)]
+
+Query: "Are there any movies with an 8.5/10 stars rating on Netflix right now?"
+Named Entities: [8.5/10 stars (Viewers' Rating), Netflix (Title)]
+
+Query: "I would like to see a movie featuring the song Three Little Birds. Can you recommend one?"
+Named Entities: [Three Little Birds (Song)]

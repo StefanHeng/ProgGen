@@ -1,0 +1,8 @@
+Query: "What's the best romantic comedy film from the 2000s that features a love triangle"
+Named Entities: [romantic comedy (Genre), 2000s (Year), love triangle (Plot)]
+
+Query: "Can you recommend a fantasy movie for kids with dragons and magic spells"
+Named Entities: [fantasy (Genre), kids (Viewers' Rating), dragons and magic spells (Plot)]
+
+Query: "Who directed the animated film about a brave princess who saves her kingdom from an evil sorcerer"
+Named Entities: [animated (Genre), princess (Character), evil sorcerer (Character)]

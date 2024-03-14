@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a high Viewers' Rating that came out in the last year?"
+Named Entities: [high Viewers' Rating (Viewers' Rating), last year (Year)]
+
+2. Query: "Who directed the latest Disney princess movie with a catchy song?"
+Named Entities: [latest Disney princess movie (Title), catchy song (Song)]
+
+3. Query: "I want to watch a movie that is suitable for my age, can you suggest a film with a PG rating?"
+Named Entities: [suitable for my age (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. "I'm craving some food truck tacos, where can I find a place with affordable options?"
+   Named Entities: [tacos (Dish), food truck (Amenity), affordable (Price)]
+
+2. "I'm a doctor in my 30s and I want to grab a quick bite at a food truck. Any recommendations?"
+   Named Entities: [food truck (Amenity), doctor (Amenity), 30s (Amenity)]
+
+3. "I'm looking for a food truck with affordable options for a quick meal. Any suggestions?"
+   Named Entities: [food truck (Amenity), affordable (Price)]

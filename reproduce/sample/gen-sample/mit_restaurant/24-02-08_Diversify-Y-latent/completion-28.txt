@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a family-friendly restaurant with outdoor seating and a kids' menu?"
+Named Entities: [family-friendly (Amenity), outdoor seating (Amenity), kids' menu (Amenity)]
+
+2. Query: "I'm craving some kebab, where can I find a place that serves authentic Mediterranean cuisine?"
+Named Entities: [kebab (Dish), authentic Mediterranean cuisine (Cuisine)]
+
+3. Query: "What are the top-rated Italian restaurants in the downtown area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), downtown area (Location)]

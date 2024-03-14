@@ -1,0 +1,8 @@
+Query: "What is the genre of the movie directed by Rob Reiner and featuring political corruption as the plot?"
+Named Entities: [Rob Reiner (Director), political corruption (Plot)]
+
+Query: "Could you find a trailer for the 2007 film Remy and also provide the viewers' rating?"
+Named Entities: [Remy (Title), 2007 (Year), trailer (Trailer), viewers' rating (Viewers' Rating)]
+
+Query: "Are there any historical films featuring the song 'Man of Constant Sorrow' from O Brother, Where Art Thou?"
+Named Entities: [historical (Genre), Man of Constant Sorrow (Song), O Brother, Where Art Thou? (Title)]

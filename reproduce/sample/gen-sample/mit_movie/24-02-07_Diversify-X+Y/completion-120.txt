@@ -1,0 +1,8 @@
+1. "Can you tell me about the behind-the-scenes details of the movie Black Swan starring Mila Kunis?"
+Named Entities: [Black Swan (Title), Mila Kunis (Actor), behind-the-scenes (Plot)]
+
+2. "I'm interested in learning about the making-of process for the movie Inception with Leonardo DiCaprio. Can you provide some insights?"
+Named Entities: [Inception (Title), Leonardo DiCaprio (Actor), making-of (Plot)]
+
+3. "Show me a movie that delves into the costume design process, particularly with a focus on the letter 'U'."
+Named Entities: [costume design (Plot), letter 'U' (Genre)]

@@ -1,0 +1,11 @@
+1. Sentence: "The impact of {{technology}} on education has been significant, with the introduction of online learning platforms and digital educational resources."
+Text Span: "technology"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "The {{Cannes Film Festival}}, held annually in Cannes, France, is renowned for showcasing the best in international cinema and has become a prestigious event for both filmmakers and movie enthusiasts."
+Text Span: "Cannes Film Festival"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The Crab Nebula, located in the constellation of Taurus, is the remnant of a supernova explosion observed by {{Chinese astronomers}} in the year 1054."
+Text Span: "Chinese astronomers"
+Label: (C). Wrong Type. The correct entity type is other.

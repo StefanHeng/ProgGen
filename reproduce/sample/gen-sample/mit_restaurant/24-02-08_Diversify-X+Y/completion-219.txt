@@ -1,0 +1,8 @@
+1. "Can you recommend a brunch spot with bottomless mimosas?"
+   Named Entities: [brunch (Amenity), bottomless mimosas (Amenity),]
+
+2. "I'm looking for a place with Morning availability that serves vegan brunch options."
+   Named Entities: [Morning availability (Hours), vegan (Cuisine), brunch (Amenity)]
+
+3. "Which restaurant in the area has a good reputation for their brunch menu?"
+   Named Entities: [brunch (Amenity), good reputation (Rating),]

@@ -1,0 +1,8 @@
+1. "Can you recommend a film with engaging characters that deals with an artificial intelligence uprising?"
+Named Entities: [engaging characters (Character), artificial intelligence uprising (Plot)]
+
+2. "I'm looking for footage from the movie Casablanca, directed by Michael Curtiz. Can you help with that?"
+Named Entities: [Footage (Trailer), Casablanca (Title), Michael Curtiz (Director)]
+
+3. "Was Jodie Foster the lead actress in any thriller movies released in the 1990s?"
+Named Entities: [Jodie Foster (Actor), thriller (Genre), 1990s (Year)]

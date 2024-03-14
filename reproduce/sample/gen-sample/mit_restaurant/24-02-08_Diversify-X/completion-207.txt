@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a budget-friendly place to have lunch nearby"
+   Named Entities: [budget-friendly (Price), lunch (Amenity), nearby (Location)]
+
+2. Query: "Can you recommend a restaurant with affordable lunch options"
+   Named Entities: [affordable (Price), lunch (Amenity)]
+
+3. Query: "Where can I find a good lunch spot that won't break the bank"
+   Named Entities: [good (Rating), lunch (Amenity), won't break the bank (Price)]

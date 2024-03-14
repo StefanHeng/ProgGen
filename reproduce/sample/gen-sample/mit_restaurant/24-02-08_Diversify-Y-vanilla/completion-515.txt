@@ -1,0 +1,8 @@
+1. "Can you recommend a good Italian restaurant with a lounge area?"
+Named Entities: [Italian (Cuisine), lounge (Amenity)]
+
+2. "What are the operating hours for the sushi lounge downtown?"
+Named Entities: [sushi (Cuisine), downtown (Location), operating hours (Hours), lounge (Amenity)]
+
+3. "I'm looking for a cozy lounge with affordable drinks and a small plates menu."
+Named Entities: [cozy (Amenity), affordable (Price), small plates (Dish), lounge (Amenity)]

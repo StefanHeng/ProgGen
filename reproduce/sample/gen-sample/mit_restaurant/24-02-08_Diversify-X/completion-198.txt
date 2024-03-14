@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating and a good lunch menu?"
+Named Entities: [outdoor seating (Amenity), good (Rating), lunch (Meal Category)]
+
+2. "I'm craving Mexican food for lunch, can you suggest a nearby place with affordable prices?"
+Named Entities: [Mexican (Cuisine), nearby (Location), affordable prices (Price), lunch (Meal Category)]
+
+3. "I need to find a restaurant that serves vegetarian dishes and is open for lunch before 1pm"
+Named Entities: [vegetarian dishes (Dish), open for lunch before 1pm (Hours), lunch (Meal Category)]

@@ -1,0 +1,8 @@
+1. Text Span: "Italian food"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "sushi place"
+Label: (C). The span is a named entity but the category is not cuisine. The correct entity type is Restaurant Name.
+
+3. Text Span: "steakhouse"
+Label: (A). The span is a named entity of type cuisine

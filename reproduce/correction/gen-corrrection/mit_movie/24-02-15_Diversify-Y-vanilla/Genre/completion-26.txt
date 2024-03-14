@@ -1,0 +1,8 @@
+1. Text Span: "medical movie"
+Label: (B). The correct span boundary is "medical".
+
+2. Text Span: "classic"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "post-apocalyptic"
+Label: (A). Correct Entity Annotation.

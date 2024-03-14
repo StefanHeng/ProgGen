@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good martial arts movie with a high viewers' rating?"
+Named Entities: [martial arts (Genre), high viewers' rating (Viewers' Rating)]
+
+2. Query: "I'm interested in a movie trailer breakdown for the latest Star Wars film featuring Finn."
+Named Entities: [latest Star Wars film (Title), Finn (Character), trailer breakdown (Trailer)]
+
+3. Query: "Which movie from 1998 directed by Roberto Benigni won the most awards?"
+Named Entities: [1998 (Year), Roberto Benigni (Director), won the most awards (Review)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any unrated movies with a small town mystery plot?"
+   Named Entities: [Unrated (MPAA Rating), Small town mystery (Plot)]
+
+2. "Show me a movie from 1959 that depicts a battle between good and evil"
+   Named Entities: [1959 (Year), Battle between good and evil (Plot)]
+
+3. "Is there a specific genre associated with the film 'Inception'?"
+   Named Entities: [Inception (Title)]

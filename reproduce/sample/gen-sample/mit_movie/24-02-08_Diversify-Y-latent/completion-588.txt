@@ -1,0 +1,8 @@
+1. "What is the view rating for the movie 'Noir: A Love Story'?"
+Named Entities: ['Noir: A Love Story' (Title)]
+
+2. "Who directed the film 'Life after Death' and can you show me a trailer?"
+Named Entities: ['Life after Death' (Title), directed (Director), trailer (Trailer)]
+
+3. "Tell me about the genre and actors in the movie 'Argo'."
+Named Entities: ['Argo' (Title), genre (Genre), actors (Actor)]

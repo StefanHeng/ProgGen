@@ -1,0 +1,8 @@
+Sentence: "The World Wildlife Fund announces new conservation efforts in the Amazon rainforest."
+Named Entities: [World Wildlife Fund (organization), Amazon rainforest (location)]
+
+Sentence: "Researchers discover a new species of rare bird in the remote forests of Indonesia."
+Named Entities: [Indonesia (location)]
+
+Sentence: "Conservationists warn of the declining population of polar bears in the Arctic due to climate change."
+Named Entities: [polar bears (location), Arctic (location)]

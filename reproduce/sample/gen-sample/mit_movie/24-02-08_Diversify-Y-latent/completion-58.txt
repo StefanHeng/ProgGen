@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie Superman"
+Named Entities: [Superman (Title), viewers' rating (Viewers' Rating)]
+
+Query: "Show me a movie directed by Jamie Foxx"
+Named Entities: [Jamie Foxx (Director)]
+
+Query: "Could you find the trailer for Lara Croft's new movie"
+Named Entities: [Lara Croft (Character), new (Year), trailer (Trailer)]

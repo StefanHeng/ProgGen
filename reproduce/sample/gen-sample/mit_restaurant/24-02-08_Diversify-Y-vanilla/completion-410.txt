@@ -1,0 +1,8 @@
+1. "Which restaurants in the business district have highchairs available?"
+Named Entities: [business district (Location), highchairs (Amenity)]
+
+2. "I'm in the mood for some American cuisine, can you recommend a place near Lazy Dog Restaurant & Bar?"
+Named Entities: [American (Cuisine), Lazy Dog Restaurant & Bar (Restaurant Name)]
+
+3. "What are the prices like at Texas Roadhouse and are they open for lunch?"
+Named Entities: [Texas Roadhouse (Restaurant Name), prices (Price), lunch (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "Hey, who directed the movie Supernatural and is Gal Gadot in it?"
+Named Entities: [Supernatural (Title), Gal Gadot (Actor), directed (Director)]
+
+2. Query: "I want to watch a family movie with technology gone wrong, is The Breakfast Club a good option?"
+Named Entities: [The Breakfast Club (Title), family (Genre), technology gone wrong (Plot)]
+
+3. Query: "What is the viewers' rating for the movie with Gal Gadot as one of the main actors?"
+Named Entities: [Gal Gadot (Actor), viewers' rating (Viewers' Rating)]

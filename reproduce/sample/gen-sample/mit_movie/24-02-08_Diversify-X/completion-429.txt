@@ -1,0 +1,8 @@
+Query: "Can you tell me about the awards and nominations received by the movie The Dark Knight?"
+Named Entities: [The Dark Knight (Title)]
+
+Query: "Which movie won the most awards in 2020?"
+Named Entities: [2020 (Year)]
+
+Query: "What film received the most nominations for the Oscars this year?"
+Named Entities: [Oscars (Award), this year (Year)]

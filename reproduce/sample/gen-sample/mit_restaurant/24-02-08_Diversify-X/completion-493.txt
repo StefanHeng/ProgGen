@@ -1,0 +1,8 @@
+1. "I'm looking for a halal café with a drive-thru, can you help me find one?"
+Named Entities: [halal (Cuisine), café (Amenity), drive-thru (Amenity)]
+
+2. "What are the opening hours of the nearest halal café with a drive-thru?"
+Named Entities: [halal (Cuisine), café (Amenity), drive-thru (Amenity), opening hours (Hours), nearest (Location)]
+
+3. "I need to find a café that serves halal food and has a drive-thru, can you recommend one?"
+Named Entities: [halal (Cuisine), café (Amenity), drive-thru (Amenity)]

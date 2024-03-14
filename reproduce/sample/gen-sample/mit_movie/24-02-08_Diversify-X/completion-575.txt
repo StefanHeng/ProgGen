@@ -1,0 +1,8 @@
+Query: "I need to know if the film 'Titanic' won any awards or nominations"
+Named Entities: ['Titanic' (Title), awards or nominations (Review)]
+
+Query: "Can you tell me if the movie 'The Shawshank Redemption' received any accolades?"
+Named Entities: ['The Shawshank Redemption' (Title), accolades (Review)]
+
+Query: "I'm so curious to find out if 'The Lord of the Rings: The Return of the King' won any Oscars"
+Named Entities: ['The Lord of the Rings: The Return of the King' (Title), Oscars (Review)]

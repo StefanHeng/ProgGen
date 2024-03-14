@@ -1,0 +1,8 @@
+1. "I'm craving a healthy brunch, where can I find the best granola in town?"
+Named Entities: [healthy (Amenity), brunch (Amenity), best (Rating), granola (Dish)]
+
+2. "Can you recommend a cozy restaurant with a great granola selection for brunch?"
+Named Entities: [cozy (Amenity), great (Rating), granola (Dish), brunch (Amenity)]
+
+3. "I need to find a restaurant that serves organic granola for brunch in the downtown area"
+Named Entities: [organic (Amenity), granola (Dish), brunch (Amenity), downtown area (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "Stanford prison experiment"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "International Year of Indigenous Languages"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Cuisine"
+Label: (C). Wrong Type. The correct entity type is other.

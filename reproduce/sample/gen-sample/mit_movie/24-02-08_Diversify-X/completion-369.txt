@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie that reveals the making of the Titanic film"
+Named Entities: [Titanic (Title), making of (Plot)]
+
+2. Query: "What are some must-see films that explore the behind-the-scenes of famous Hollywood blockbusters"
+Named Entities: [behind-the-scenes (Plot), Hollywood blockbusters (Genre)]
+
+3. Query: "Show me a film that delves into the production process of a classic western movie"
+Named Entities: [classic western (Genre), production process (Plot)]

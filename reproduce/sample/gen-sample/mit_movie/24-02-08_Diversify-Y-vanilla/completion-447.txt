@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a martial arts movie from the 1960s?"
+Named Entities: [1960s (Year), martial arts (Genre)]
+
+2. Query: "Is Edna Mode featured in any movies from the 1989 era?"
+Named Entities: [Edna Mode (Character), 1989 (Year)]
+
+3. Query: "What movie features the song Killer Queen?" 
+Named Entities: [Killer Queen (Song)]

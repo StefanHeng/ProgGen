@@ -1,0 +1,8 @@
+1. "Can I watch The Shawshank Redemption on Netflix?" 
+Named Entities: [The Shawshank Redemption (Title), Netflix (Streaming platform)]
+
+2. "I'm looking for a comedy movie from the 1980s with a high viewers' rating. Any suggestions?"
+Named Entities: [comedy (Genre), 1980s (Year), high viewers' rating (Viewers' Rating)]
+
+3. "I want to see a Quentin Tarantino film with a gritty plot. Is Pulp Fiction available on Amazon Prime?"
+Named Entities: [Quentin Tarantino (Director), gritty plot (Plot), Pulp Fiction (Title), Amazon Prime (Streaming platform)]

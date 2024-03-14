@@ -1,0 +1,8 @@
+1. Text Span: "G"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Text Span: "Approved"
+Label: (C). The span is a named entity but the category is not mpaa rating. The correct entity type is other.
+
+3. Text Span: "Unrated"
+Label: (C). The span is a named entity but the category is not mpaa rating. The correct entity type is other.

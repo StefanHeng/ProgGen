@@ -1,0 +1,8 @@
+Sentence: "The University of Oxford is a collegiate research university in Oxford, England."
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+
+Sentence: "Her debut studio album, Pink Friday, became a commercial success, peaking atop the US Billboard 200 and being certified triple platinum by the Recording Industry Association of America."
+Named Entities: [Pink Friday (organization), US Billboard 200 (organization), Recording Industry Association of America (organization)]
+
+Sentence: "He established the Ford Motor Company and made the mass production of inexpensive automobiles."
+Named Entities: [Ford Motor Company (organization)]

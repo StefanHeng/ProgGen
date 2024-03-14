@@ -1,0 +1,8 @@
+1. Query: "Please recommend a movie set in a post-apocalyptic world from the 1990-2000 era"
+   Named Entities: [post-apocalyptic world (Plot), 1990-2000 (Year)]
+
+2. Query: "What is the MPAA rating for the movie Amadeus"
+   Named Entities: [Amadeus (Title), MPAA Rating]
+
+3. Query: "Is Finding Nemo suitable for kids under the age of 10"
+   Named Entities: [Finding Nemo (Title), kids under the age of 10 (Viewers' Rating)]

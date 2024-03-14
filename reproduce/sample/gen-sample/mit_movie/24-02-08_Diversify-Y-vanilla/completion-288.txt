@@ -1,0 +1,8 @@
+Query: "can you recommend a movie directed by Karyn Kusama that is suitable for mature audiences"
+Named Entities: [Karyn Kusama (Director), Mature Audiences (MPAA Rating)]
+
+Query: "is Deadpool a must-see movie for action fans"
+Named Entities: [Deadpool (Title), action (Genre), must see (Viewers' Rating)]
+
+Query: "who are the main actors in the film directed by Tim Miller that was released in 2016"
+Named Entities: [Tim Miller (Director), 2016 (Year)]

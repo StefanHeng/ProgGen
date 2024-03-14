@@ -1,0 +1,8 @@
+1. "Find a restaurant that serves delicious fried chicken"
+Named Entities: [fried chicken (Dish)]
+
+2. "I am looking for a five-star buffet in this area"
+Named Entities: [five-star (Rating), buffet (Amenity)]
+
+3. "Where can I find a good barbecue restaurant nearby?"
+Named Entities: [barbecue (Cuisine), nearby (Location)]

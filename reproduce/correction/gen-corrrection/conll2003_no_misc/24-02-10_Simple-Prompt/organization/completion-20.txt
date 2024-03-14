@@ -1,0 +1,8 @@
+1. Text Span: "Twitter"
+Label: (A)
+
+2. Text Span: "Stock Exchange"
+Label: (B). The correct span boundary is "London Stock Exchange".
+
+3. Text Span: "European Union"
+Label: (A)

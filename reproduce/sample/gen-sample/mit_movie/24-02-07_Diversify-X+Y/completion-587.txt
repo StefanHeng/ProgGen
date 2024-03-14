@@ -1,0 +1,8 @@
+Query: "Can you provide me with the viewer rating for the movie Circle of Life"
+Named Entities: [Circle of Life (Title), viewer rating (Viewers' Rating)]
+
+Query: "What is the MPAA rating for the 2014 film Fantastic"
+Named Entities: [2014 (Year), Fantastic (Title), MPAA rating (MPAA Rating)]
+
+Query: "I am interested in watching an extended trailer for a movie released in 1965 with an NC-17 rating"
+Named Entities: [extended trailer (Trailer), 1965 (Year), NC-17 (MPAA Rating)]

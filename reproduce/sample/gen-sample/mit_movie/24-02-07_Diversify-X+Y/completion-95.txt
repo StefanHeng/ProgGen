@@ -1,0 +1,8 @@
+1. "Can you highlight the plot of any heartfelt crime dramas with a 5-star rating that came out in 1995?"
+Named Entities: [crime drama (Genre), heartfelt (Plot), 5-star rating (Viewers' Rating), 1995 (Year)]
+
+2. "Show me a documentary that discusses the making of Beauty and the Beast."
+Named Entities: [documentary (Genre), Beauty and the Beast (Title)]
+
+3. "What NR films have a compelling plot synopsis worth watching?"
+Named Entities: [NR (MPAA Rating), compelling plot (Plot)]

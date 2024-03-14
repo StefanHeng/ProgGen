@@ -1,0 +1,8 @@
+1. Query: "Who was the cinematographer for the movie Heathers released in 1988"
+   Named Entities: [Heathers (Title), 1988 (Year), Cinematographer (Director)]
+
+2. Query: "Can you tell me a movie directed by a woman in the 80s that has an R rating?"
+   Named Entities: [80s (Year), R (MPAA Rating)]
+
+3. Query: "Is there a movie from 1988 with Winona Ryder in it that's directed by a female filmmaker and rated R?"
+   Named Entities: [1988 (Year), Winona Ryder (Actor), R (MPAA Rating)]

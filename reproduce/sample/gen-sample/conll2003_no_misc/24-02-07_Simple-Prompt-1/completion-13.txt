@@ -1,0 +1,74 @@
+1. Apple plans to open a new store in downtown Miami.
+Named Entities: [Apple (organization), Miami (location)]
+
+2. The CEO of Tesla announced a new electric car model at the conference.
+Named Entities: [Tesla (organization)]
+
+3. Mexico surpasses 100,000 COVID-19 deaths.
+Named Entities: [Mexico (location)]
+
+4. Japanese Prime Minister to visit South Korea next week.
+Named Entities: [Japanese Prime Minister (person), South Korea (location)]
+
+5. Facebook acquires a leading artificial intelligence startup.
+Named Entities: [Facebook (organization)]
+
+6. The famous actor, Tom Hanks, to star in a new war film.
+Named Entities: [Tom Hanks (person)]
+
+7. Germany imposes strict lockdown measures in response to rising COVID-19 cases.
+Named Entities: [Germany (location)]
+
+8. The United Nations peacekeeping mission in the Middle East extends for another year.
+Named Entities: [United Nations (organization), Middle East (location)]
+
+9. New York City to invest $1 billion in affordable housing initiatives.
+Named Entities: [New York City (location)]
+
+10. The renowned scientist Marie Curie awarded the Nobel Prize for her groundbreaking research.
+Named Entities: [Marie Curie (person)]
+
+11. Samsung to launch its latest smartphone model next month.
+Named Entities: [Samsung (organization)]
+
+12. The president of France addresses the nation in a televised speech.
+Named Entities: [France (location)]
+
+13. Harvard University announces new financial aid initiatives for low-income students.
+Named Entities: [Harvard University (organization)]
+
+14. Hurricane Maria causes widespread devastation in Puerto Rico.
+Named Entities: [Hurricane Maria (organization), Puerto Rico (location)]
+
+15. Australian authorities arrest a notorious drug trafficker in a major bust.
+Named Entities: [Australia (location)]
+
+16. The popular singer Taylor Swift releases a new album.
+Named Entities: [Taylor Swift (person)]
+
+17. Google's parent company, Alphabet, faces antitrust investigation by the European Union.
+Named Entities: [Google (organization), Alphabet (organization), European Union (location)]
+
+18. The mayor of London introduces new cycling infrastructure to reduce traffic congestion.
+Named Entities: [London (location)]
+
+19. Microsoft announces a partnership with a leading tech startup to develop innovative software solutions.
+Named Entities: [Microsoft (organization)]
+
+20. The renowned chef Julia Child's cookbook sells for a record price at auction.
+Named Entities: [Julia Child (person)]
+
+21. Brazil's president signs an executive order to address deforestation in the Amazon rainforest.
+Named Entities: [Brazil (location), Amazon rainforest (location)]
+
+22. SpaceX launches a new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+23. The famous basketball player Michael Jordan to invest in a new sports team.
+Named Entities: [Michael Jordan (person)]
+
+24. The European Central Bank announces new stimulus measures to support the economy.
+Named Entities: [European Central Bank (organization)]
+
+25. The iconic landmark, the Eiffel Tower, reopens to tourists after a lengthy renovation.
+Named Entities: [Eiffel Tower (location)]

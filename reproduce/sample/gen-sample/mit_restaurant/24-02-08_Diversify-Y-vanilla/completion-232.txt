@@ -1,0 +1,8 @@
+1. "Can you recommend any Italian restaurants with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+2. "What are the opening hours for The Cheesecake Factory on Main Street?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), Main Street (Location)]
+
+3. "I'm craving sushi, where can I find a place with high ratings and reasonable prices?"
+Named Entities: [sushi (Cuisine), high ratings (Rating), reasonable prices (Price)]

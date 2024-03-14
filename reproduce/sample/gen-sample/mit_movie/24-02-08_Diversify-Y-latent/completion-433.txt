@@ -1,0 +1,8 @@
+1. "Can you recommend any outstanding mockumentary movies released in the past decade?"
+Named Entities: [Outstanding (Viewers' Rating), mockumentary (Genre), past decade (Year)]
+
+2. "What mafia revenge film from the 90s has the highest viewers' rating?"
+Named Entities: [mafia revenge (Plot), 90s (Year), highest viewers' rating (Viewers' Rating)]
+
+3. "Who directed the highly recommended film in the drama genre titled 'The Pursuit of Happyness'?"
+Named Entities: [highly recommended (Review), drama (Genre), The Pursuit of Happyness (Title)]

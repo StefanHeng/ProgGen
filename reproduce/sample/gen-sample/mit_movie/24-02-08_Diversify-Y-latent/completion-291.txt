@@ -1,0 +1,8 @@
+1. "Can you recommend a feel-good musical like The Sound of Music for me to watch?"
+Named Entities: [The Sound of Music (Title), feel-good (Viewers' Rating)]
+
+2. "Is there a new action movie coming out starring Tony Stark's character?"
+Named Entities: [action (Genre), Tony Stark (Character)]
+
+3. "What did critics think of the latest dismal horror film?"
+Named Entities: [dismal (Viewers' Rating), horror (Genre)]

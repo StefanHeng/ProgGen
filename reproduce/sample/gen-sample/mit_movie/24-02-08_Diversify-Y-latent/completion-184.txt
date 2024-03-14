@@ -1,0 +1,8 @@
+1. "Can you provide me with the plot of the movie Once Upon a Time in Hollywood directed by Quentin Tarantino?"
+   Named Entities: [Once Upon a Time in Hollywood (Title), Quentin Tarantino (Director)]
+
+2. "I'm looking for a movie directed by Christopher Nolan that has a mind-bending plot."
+   Named Entities: [Christopher Nolan (Director), mind-bending (Plot)]
+
+3. "What is the viewers' rating for Lee Daniels' The Butler?"
+   Named Entities: [Lee Daniels (Director), The Butler (Title)]

@@ -1,0 +1,8 @@
+1. Query: "what type of movie genre is the theme song from Titanic"
+Named Entities: [Titanic (Title), Theme song (Song)]
+
+2. Query: "show me a PG-rated movie starring Robin Williams"
+Named Entities: [PG (MPAA Rating), Robin Williams (Actor)]
+
+3. Query: "is there a movie with the theme song M from 1931"
+Named Entities: [M (Title), Theme song (Song), 1931 (Year)]

@@ -1,0 +1,11 @@
+1. Query: "Show me the top-rated {{seafood}} spots in town."
+Text Span: "seafood"
+Label: (A). The span is a named entity of type cuisine
+
+2. Query: "who serves the best {{pizza}} in town"
+Text Span: "pizza"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "Can you recommend a good {{sushi}} restaurant in the area?"
+Text Span: "sushi"
+Label: (A). The span is a named entity of type cuisine

@@ -1,0 +1,149 @@
+1. Apple's CEO Tim Cook announces new product launch.
+Named Entities: [Apple (organization), Tim Cook (person)]
+
+2. The United Nations reports increase in global poverty rates.
+Named Entities: [United Nations (organization)]
+
+3. President Biden signs new infrastructure bill into law.
+Named Entities: [Biden (person)]
+
+4. SpaceX plans to launch new satellite into orbit next week.
+Named Entities: [SpaceX (organization)]
+
+5. Thousands gather in Times Square to celebrate New Year's Eve.
+Named Entities: [Times Square (location)]
+
+6. Walmart announces partnership with local food banks to fight hunger.
+Named Entities: [Walmart (organization)]
+
+7. London police arrest suspect in connection to recent bank robbery.
+Named Entities: [London (location)]
+
+8. Amazon's stock price reaches all-time high after strong earnings report.
+Named Entities: [Amazon (organization)]
+
+9. Famous singer Taylor Swift to release new album next month.
+Named Entities: [Taylor Swift (person)]
+
+10. European Union leaders meet to discuss climate change initiatives.
+Named Entities: [European Union (organization)]
+
+11. Microsoft CEO Satya Nadella speaks at tech industry conference.
+Named Entities: [Microsoft (organization), Satya Nadella (person)]
+
+12. New York City announces plan to build affordable housing units.
+Named Entities: [New York City (location)]
+
+13. WHO issues global health warning for new strain of influenza.
+Named Entities: [WHO (organization)]
+
+14. Tokyo Olympics committee reveals new event schedule for 2024 games.
+Named Entities: [Tokyo (location)]
+
+15. Tesla's Elon Musk breaks ground on new Gigafactory in Texas.
+Named Entities: [Tesla (organization), Elon Musk (person)]
+
+16. Pope Francis condemns violence in Middle East conflict.
+Named Entities: [Pope Francis (person), Middle East (location)]
+
+17. Google announces expansion of data center in Midwest region.
+Named Entities: [Google (organization), Midwest (location)]
+
+18. NBA player LeBron James signs multi-million dollar endorsement deal.
+Named Entities: [NBA (organization), LeBron James (person)]
+
+19. Paris fashion week kicks off with star-studded runway show.
+Named Entities: [Paris (location)]
+
+20. IMF warns of economic downturn in developing nations.
+Named Entities: [IMF (organization)]
+
+21. Facebook introduces new privacy features to protect user data.
+Named Entities: [Facebook (organization)]
+
+22. Former president Barack Obama to release memoir next year.
+Named Entities: [Barack Obama (person)]
+
+23. London mayor announces plans to improve public transportation system.
+Named Entities: [London (location)]
+
+24. ExxonMobil faces lawsuit over environmental pollution.
+Named Entities: [ExxonMobil (organization)]
+
+25. Australian Open tennis tournament attracts top players from around the world.
+Named Entities: [Australian Open (organization)]
+
+26. CEO of Coca-Cola steps down after 10 years in the role.
+Named Entities: [Coca-Cola (organization)]
+
+27. Berlin to host international film festival next month.
+Named Entities: [Berlin (location)]
+
+28. National Weather Service issues tornado warnings for several states.
+Named Entities: [National Weather Service (organization)]
+
+29. NBA legend Michael Jordan to invest in new sports complex.
+Named Entities: [NBA (organization), Michael Jordan (person)]
+
+30. Sony introduces new line of virtual reality gaming consoles.
+Named Entities: [Sony (organization)]
+
+31. London-based charity raises funds for humanitarian aid in war-torn region.
+Named Entities: [London (location)]
+
+32. Twitter CEO Jack Dorsey resigns, citing personal reasons.
+Named Entities: [Twitter (organization), Jack Dorsey (person)]
+
+33. Italian government announces plan to invest in renewable energy.
+Named Entities: [Italian government (organization)]
+
+34. Las Vegas casino workers vote to authorize strike.
+Named Entities: [Las Vegas (location)]
+
+35. International Monetary Fund predicts global economic recovery.
+Named Entities: [International Monetary Fund (organization)]
+
+36. Grammy-winning artist Beyoncé to headline music festival.
+Named Entities: [Beyoncé (person)]
+
+37. Chicago police arrest suspect in connection to recent string of burglaries.
+Named Entities: [Chicago (location)]
+
+38. Pfizer and Moderna CEOs testify before Senate committee on vaccine distribution.
+Named Entities: [Pfizer (organization), Moderna (organization), Senate committee (organization)]
+
+39. Paris agreement on climate change receives support from over 180 countries.
+Named Entities: [Paris (location)]
+
+40. Goldman Sachs reports record profits in third quarter.
+Named Entities: [Goldman Sachs (organization)]
+
+41. Los Angeles mayor unveils plan to tackle homelessness crisis.
+Named Entities: [Los Angeles (location)]
+
+42. World Health Organization declares new strain of virus a global health emergency.
+Named Entities: [World Health Organization (organization)]
+
+43. Academy Award-winning actress Meryl Streep to star in new film adaptation.
+Named Entities: [Meryl Streep (person)]
+
+44. Tokyo prepares to host Summer Olympics amid ongoing pandemic.
+Named Entities: [Tokyo (location)]
+
+45. Starbucks introduces new line of sustainable coffee products.
+Named Entities: [Starbucks (organization)]
+
+46. University of Oxford researchers make breakthrough in cancer treatment.
+Named Entities: [University of Oxford (organization)]
+
+47. Riots erupt in major cities following controversial court ruling.
+Named Entities: []
+
+48. World Bank approves loan to fund infrastructure projects in developing countries.
+Named Entities: [World Bank (organization)]
+
+49. Real Madrid's Cristiano Ronaldo breaks goal-scoring record.
+Named Entities: [Real Madrid (organization), Cristiano Ronaldo (person)]
+
+50. London Stock Exchange experiences sharp decline amid global market volatility.
+Named Entities: [London Stock Exchange (organization)]

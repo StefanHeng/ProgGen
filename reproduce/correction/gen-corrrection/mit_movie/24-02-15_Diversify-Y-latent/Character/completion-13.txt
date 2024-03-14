@@ -1,0 +1,8 @@
+1. Text Span: "Production assistant"
+   Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Indiana Jones"
+   Label: (A). The span is a named entity of type character
+
+3. Text Span: "Bob Marley"
+   Label: (A). The span is a named entity of type character

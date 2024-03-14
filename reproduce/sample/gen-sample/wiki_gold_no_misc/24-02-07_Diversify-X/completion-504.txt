@@ -1,0 +1,8 @@
+Sentence: "Ballet originated in the Italian Renaissance courts of the 15th and 16th centuries before spreading from Italy to France."
+Named Entities: [Italy (location), France (location)]
+
+Sentence: "The Royal Academy of Dance is a UK-based examination board that was founded in 1920."
+Named Entities: [Royal Academy of Dance (organization), UK (location)]
+
+Sentence: "Dance therapy, or dance movement therapy is the psychotherapeutic use of movement and dance to support intellectual, emotional, and motor functions of the body."
+Named Entities: []

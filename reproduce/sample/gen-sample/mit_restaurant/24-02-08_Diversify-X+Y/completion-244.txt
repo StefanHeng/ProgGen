@@ -1,0 +1,8 @@
+1. "I'm looking for a buffet restaurant with all-you-can-eat hours after 8 p m"
+   Named Entities: [buffet (Cuisine), after 8 p m (Hours), all-you-can-eat hours (Amenity)]
+
+2. "Where can I find a place for a buffet dinner under $70 per person"
+   Named Entities: [buffet (Cuisine), under $70 per person (Price)]
+
+3. "Which restaurant offers the best all-you-can-eat buffet for dinner at a reasonable price"
+   Named Entities: [all-you-can-eat buffet (Amenity), dinner (Amenity), reasonable price (Price)]

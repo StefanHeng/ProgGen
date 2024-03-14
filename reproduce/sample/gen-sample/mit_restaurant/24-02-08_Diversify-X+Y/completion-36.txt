@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant that caters to paleo diet"
+Named Entities: [buffet (Amenity), paleo (Cuisine)]
+
+Query: "I'm looking for a place with paleo-friendly options in the buffet category"
+Named Entities: [paleo-friendly (Cuisine), buffet (Amenity)]
+
+Query: "Please find me a buffet restaurant that offers paleo options and fits within a $50 budget"
+Named Entities: [buffet (Amenity), paleo (Cuisine), $50 (Price)]

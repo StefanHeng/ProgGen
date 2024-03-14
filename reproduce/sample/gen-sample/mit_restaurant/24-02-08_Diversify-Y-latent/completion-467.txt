@@ -1,0 +1,8 @@
+1. "What Thai restaurants are open for last call?"
+Named Entities: [Thai (Cuisine), last call (Hours)]
+
+2. "I'm craving pizza, can you suggest a place nearby?"
+Named Entities: [pizza (Dish), nearby (Location)]
+
+3. "I want to have dinner at The Cheesecake Factory, what are their hours?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), hours (Hours)]

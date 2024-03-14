@@ -1,0 +1,11 @@
+1. Query: "Can you provide me with the {{director}} of the documentary on the making of The Dark Knight?"
+Text Span: "director"
+Label: (D). Not a Named Entity
+
+2. Query: "I'm in a rush, so tell me who {{directed}} the highest-rated action film of last year"
+Text Span: "directed"
+Label: (D). Not a Named Entity
+
+3. Query: "Who {{directed}} the highest-rated horror movie of the year?"
+Text Span: "directed"
+Label: (D). Not a Named Entity

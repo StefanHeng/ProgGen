@@ -1,0 +1,8 @@
+Query: "I'm craving some good pub food, where is the nearest Yard House located"
+Named Entities: [good (Rating), pub food (Cuisine), nearest (Location), Yard House (Restaurant Name)]
+
+Query: "I need a recommendation for a romantic dinner in Paris, can you help?"
+Named Entities: [recommendation (Amenity), romantic (Amenity), dinner (Cuisine), Paris (Location)] 
+
+Query: "what time does the Yard House in downtown open for brunch on Sundays?"
+Named Entities: [Yard House (Restaurant Name), downtown (Location), brunch (Amenity), Sundays (Hours)]

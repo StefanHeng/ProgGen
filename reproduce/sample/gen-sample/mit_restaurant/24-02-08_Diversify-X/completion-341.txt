@@ -1,0 +1,8 @@
+Query: "suggest a restaurant with a 5-star rating for dinner"
+Named Entities: [5-star (Rating), dinner (Amenity)]
+
+Query: "where can I find a budget-friendly Italian restaurant for dinner tonight"
+Named Entities: [budget-friendly (Price), Italian (Cuisine), dinner (Amenity), tonight (Hours)]
+
+Query: "show me a restaurant with outdoor seating and a view of the ocean"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

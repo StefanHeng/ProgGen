@@ -1,0 +1,8 @@
+Query: "I'm craving a good steak for dinner at a cozy café"
+Named Entities: [good (Rating), dinner (Amenity), cozy (Amenity), café (Amenity), steak (Dish)]
+
+Query: "Can you recommend a café with a variety of steak options for lunch?"
+Named Entities: [variety (Amenity), lunch (Amenity), café (Amenity), steak (Dish)]
+
+Query: "I need to find a café with steak for breakfast as soon as possible"
+Named Entities: [breakfast (Amenity), café (Amenity), steak (Dish), as soon as possible (Hours)]

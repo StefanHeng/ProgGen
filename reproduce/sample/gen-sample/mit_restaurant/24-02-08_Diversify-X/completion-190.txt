@@ -1,0 +1,8 @@
+1. "Can you recommend a top-rated fine dining restaurant with a private dining room for a party of ten?"
+   Named Entities: [top-rated (Rating), fine dining (Cuisine), private dining room (Amenity), party of ten (Amenity)]
+
+2. "I'm looking for a high-end French restaurant with a sommelier and a prix fixe menu."
+   Named Entities: [high-end (Price), French (Cuisine), sommelier (Amenity), prix fixe menu (Amenity)]
+
+3. "Do you know of any Michelin-starred fine dining establishments with a view of the city and an extensive wine list?"
+   Named Entities: [Michelin-starred (Rating), fine dining (Cuisine), view of the city (Amenity), extensive wine list (Amenity)]

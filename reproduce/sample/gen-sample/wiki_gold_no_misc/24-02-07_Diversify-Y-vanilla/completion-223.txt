@@ -1,0 +1,8 @@
+Sentence: "The company was founded in 1975 and is headquartered in Cupertino, California."
+Named Entities: [Cupertino (location)]
+
+Sentence: "She graduated from Harvard University with a degree in Economics in 2008."
+Named Entities: [Harvard University (organization)]
+
+Sentence: "The musician released his new album last month, which was recorded in London and produced by a famous music producer."
+Named Entities: [London (location)]

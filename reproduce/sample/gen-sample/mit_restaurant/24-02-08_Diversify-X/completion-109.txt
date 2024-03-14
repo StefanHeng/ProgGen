@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with a good vegetarian menu?"
+Named Entities: [buffet (Amenity), vegetarian (Cuisine)]
+
+2. "What are the top-rated buffet restaurants in the downtown area?"
+Named Entities: [top-rated (Rating), buffet (Amenity), downtown area (Location)]
+
+3. "I'm looking for a buffet place that serves seafood and is open until 10 pm."
+Named Entities: [buffet (Amenity), seafood (Cuisine), open until 10 pm (Hours)]

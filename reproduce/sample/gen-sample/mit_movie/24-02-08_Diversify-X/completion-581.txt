@@ -1,0 +1,8 @@
+Query: "What are the showtimes for any action movie playing tonight?"
+Named Entities: [action movie (Genre), tonight (Time)]
+
+Query: "Can I buy tickets for a well-reviewed comedy film for this weekend?"
+Named Entities: [well-reviewed (Review), comedy film (Genre), this weekend (Time)]
+
+Query: "Do you have any information on dramatic movies showing near me?"
+Named Entities: [dramatic movies (Genre), near me (Location)]

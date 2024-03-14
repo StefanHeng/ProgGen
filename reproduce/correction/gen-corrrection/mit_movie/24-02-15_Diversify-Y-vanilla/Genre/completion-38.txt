@@ -1,0 +1,11 @@
+1. Query: "What is a good {{mockbuster}} movie directed by Clint Eastwood?"
+Text Span: "mockbuster"
+Label: (C). The span is not a named entity. The correct entity type is Genre.
+
+2. Query: "What is a movie with {{Stunning visuals}} that came out in 2008?"
+Text Span: "Stunning visuals"
+Label: (C). The span is not a named entity. The correct entity type is Plot.
+
+3. Query: "What is the viewers' rating of the {{historical}} film directed by Roman Polanski?"
+Text Span: "historical"
+Label: (A). The span is a named entity of type genre

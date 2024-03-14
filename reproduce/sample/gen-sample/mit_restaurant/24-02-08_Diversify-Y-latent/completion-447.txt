@@ -1,0 +1,8 @@
+Query: "Can you recommend any Asian restaurants with good ratings nearby?"
+Named Entities: [Asian (Cuisine), good ratings (Rating), nearby (Location)]
+
+Query: "Do you know of any brunch places that offer coupons for this weekend?"
+Named Entities: [brunch (Amenity), coupons (Price), this weekend (Hours)]
+
+Query: "I'm looking for a restaurant with affordable Asian cuisine, do you have any suggestions?"
+Named Entities: [affordable (Price), Asian cuisine (Cuisine)]

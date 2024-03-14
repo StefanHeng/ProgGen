@@ -1,0 +1,8 @@
+1. "I'm having an identity crisis. Can you recommend a movie that deals with the theme of self-discovery and finding oneself?"
+Named Entities: [identity crisis (Plot)]
+
+2. "Can you show me a poignant movie from 2020-2022 that received a one-star review?"
+Named Entities: [poignant (Review), 2020-2022 (Year), one-star review (Viewers' Rating)]
+
+3. "Is Forrest Gump considered a classic in the drama genre?"
+Named Entities: [Forrest Gump (Title), drama (Genre)]

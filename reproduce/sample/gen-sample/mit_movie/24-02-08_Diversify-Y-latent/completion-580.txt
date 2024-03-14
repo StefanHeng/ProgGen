@@ -1,0 +1,8 @@
+Query: "Can you show me the trailer for the movie Skyfall?"
+Named Entities: [Skyfall (Title), trailer (Trailer)]
+
+Query: "When was the movie Back to the Future released?"
+Named Entities: [Back to the Future (Title), released (Plot), 1979 (Year)]
+
+Query: "Is there a particular genre that the movie Back to the Future falls under?"
+Named Entities: [Back to the Future (Title), genre (Genre)]

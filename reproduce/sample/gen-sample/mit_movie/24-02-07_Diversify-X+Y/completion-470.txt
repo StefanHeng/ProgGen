@@ -1,0 +1,8 @@
+1. "I'm not sure what to watch, can you recommend a good historical drama for me?"
+Named Entities: [historical drama (Genre)]
+
+2. "I'm in the mood for something spooky, do you have any recommendations for movies with supernatural creatures in them?"
+Named Entities: [spooky (Viewers' Rating), supernatural creatures (Genre)]
+
+3. "I'm interested in finding a thriller to watch, can you give me some options directed by Joss Whedon?"
+Named Entities: [thriller (Genre), Joss Whedon (Director)]

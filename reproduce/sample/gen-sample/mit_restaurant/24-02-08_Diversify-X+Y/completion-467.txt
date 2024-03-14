@@ -1,0 +1,8 @@
+1. "Can you recommend any late-night restaurants with wheelchair accessibility?"
+Named Entities: [Late-night (Amenity), Wheelchair accessibility (Amenity)]
+
+2. "I'm looking for a restaurant with wheelchair accessibility that serves dinner until midnight."
+Named Entities: [Wheelchair accessibility (Amenity), dinner (Cuisine), until midnight (Hours)]
+
+3. "Please find me a late-night restaurant with wheelchair accessibility and a diverse dinner menu."
+Named Entities: [Late-night (Amenity), Wheelchair accessibility (Amenity), diverse (Rating), dinner (Cuisine)]

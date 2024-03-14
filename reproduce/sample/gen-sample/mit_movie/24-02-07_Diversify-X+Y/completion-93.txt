@@ -1,0 +1,8 @@
+1. Spoken Movie Query: "I'm curious about some enlightening behind-the-camera moments in the making of Raiders of the Lost Ark."
+   Named Entities: [Enlightening (Review), Raiders of the Lost Ark (Title)]
+
+2. Spoken Movie Query: "Could you show me behind-the-scenes footage of a movie with Robert Downey Jr. in it?"
+   Named Entities: [Behind-the-scenes (Trailer), Robert Downey Jr. (Actor)]
+
+3. Spoken Movie Query: "I'm interested in learning more about the behind-the-scenes of a movie that delves into the making of famous film props."
+   Named Entities: [Behind-the-scenes (Trailer)]

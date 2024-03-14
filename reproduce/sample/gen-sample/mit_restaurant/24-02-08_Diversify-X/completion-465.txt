@@ -1,0 +1,8 @@
+Query: "show me the top-rated food trucks in the area"
+Named Entities: [top-rated (Rating), food trucks (Amenity)]
+
+Query: "where can I find a food truck with vegan options?"
+Named Entities: [vegan options (Cuisine), food truck (Amenity)]
+
+Query: "what are the operating hours for the popular food trucks nearby?"
+Named Entities: [operating hours (Hours), popular (Rating), food trucks (Amenity), nearby (Location)]

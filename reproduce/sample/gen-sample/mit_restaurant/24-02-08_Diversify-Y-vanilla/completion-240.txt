@@ -1,0 +1,8 @@
+Query: "I'm in the mood for Bolivian cuisine tonight, can you recommend any nearby restaurants"
+Named Entities: [Bolivian (Cuisine), nearby (Location)]
+
+Query: "where can I find the best pancakes in town for breakfast"
+Named Entities: [best (Rating), pancakes (Dish), breakfast (Amenity)]
+
+Query: "I need a restaurant that serves dinner after 8 pm and has a reasonable price range"
+Named Entities: [dinner (Amenity), after 8 pm (Hours), reasonable price range (Price)]

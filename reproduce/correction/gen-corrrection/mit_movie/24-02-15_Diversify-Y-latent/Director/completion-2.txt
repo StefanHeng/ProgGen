@@ -1,0 +1,11 @@
+1. Query: "Show me a trailer for a fantasy movie directed by a {{well-known filmmaker}} from the 80s."
+Text Span: "well-known filmmaker"
+Label: (C). Other
+
+2. Query: "What movie genre is Magnolia, directed by {{Paul Thomas Anderson}}?"
+Text Span: "Paul Thomas Anderson"
+Label: (A). Director
+
+3. Query: "What is the viewers' rating for {{Danny Boyle}}'s latest film?"
+Text Span: "Danny Boyle"
+Label: (A). Director

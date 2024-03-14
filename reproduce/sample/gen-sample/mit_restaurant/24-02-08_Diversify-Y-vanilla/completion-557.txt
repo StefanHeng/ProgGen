@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with bottomless brunch in the downtown area?"
+Named Entities: [bottomless brunch (Amenity), downtown area (Location)]
+
+Query: "I'm craving sushi, is there a place with good quality sushi at an affordable price?"
+Named Entities: [sushi (Cuisine), good quality (Rating), affordable price (Price)]
+
+Query: "What Chinese restaurants in the city have extended hours and offer dim sum?"
+Named Entities: [Chinese (Cuisine), extended hours (Hours), dim sum (Dish), the city (Location)]

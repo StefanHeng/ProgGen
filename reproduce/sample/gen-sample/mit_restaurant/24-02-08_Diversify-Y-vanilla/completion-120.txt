@@ -1,0 +1,8 @@
+1. "Where can I find the best gyros in town?"
+Named Entities: [best (Rating), gyros (Dish)]
+
+2. "I'm looking for a restaurant that serves breakfast all day, like Hash House a Go Go."
+Named Entities: [breakfast all day (Hours), Hash House a Go Go (Restaurant Name)]
+
+3. "What's a good place for a nice dinner that won't break the bank?"
+Named Entities: [good (Rating), nice dinner (Amenity), won't break the bank (Price)]

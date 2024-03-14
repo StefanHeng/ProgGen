@@ -1,0 +1,8 @@
+1. "What 2011 movie directed by Patty Jenkins received standout performances by Jessica Chastain?"
+   Named Entities: [2011 (Year), Patty Jenkins (Director), Jessica Chastain (Actor), Standout performances]
+
+2. "Could you recommend a film with a Taylor Swift song in the trailer?"
+   Named Entities: [Taylor Swift (Song), Trailer]
+
+3. "Show me a Sam Mendes movie with a suspenseful plot."
+   Named Entities: [Sam Mendes (Director), suspenseful (Plot)]

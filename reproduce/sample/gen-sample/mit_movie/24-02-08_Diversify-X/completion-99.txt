@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a heartbreaking plot that received high viewers' ratings?"
+Named Entities: [heartbreaking (Plot), high viewers' ratings (Viewers' Rating)]
+
+2. "I'm feeling down. Can you suggest a movie with a touching storyline and a beautiful song?"
+Named Entities: [touching storyline (Plot), beautiful song (Song)]
+
+3. "I need a movie that will make me cry. Can you find a title with a heartwarming plot and a highly rated director?"
+Named Entities: [make me cry (Review), heartwarming plot (Plot), highly rated director (Director)]

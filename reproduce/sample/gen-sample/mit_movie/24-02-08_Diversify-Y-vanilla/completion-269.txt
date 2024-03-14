@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Alfonso Cuarón that is rated G?"
+Named Entities: [Alfonso Cuarón (Director), G (MPAA Rating)]
+
+2. "Show me a movie with a plot about survival in the wilderness that was released in 1962"
+Named Entities: [Survival in the wilderness (Plot), 1962 (Year)]
+
+3. "I'm looking for a movie known for its impressive world-building. Do you have any recommendations?"
+Named Entities: [World-building (Plot)]

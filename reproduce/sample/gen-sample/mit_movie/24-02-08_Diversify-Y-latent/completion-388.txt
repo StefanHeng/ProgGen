@@ -1,0 +1,8 @@
+1. "What is the MPAA rating of the movie Stand by Me directed by Rob Reiner?"
+   Named Entities: [Stand by Me (Title), Rob Reiner (Director)]
+
+2. "Show me a trailer for a teen movie directed by Denis Villeneuve."
+   Named Entities: [teen (MPAA Rating), Denis Villeneuve (Director)]
+
+3. "Could you recommend an approved movie similar to Stand by Me?"
+   Named Entities: [Approved (MPAA Rating), Stand by Me (Title)]

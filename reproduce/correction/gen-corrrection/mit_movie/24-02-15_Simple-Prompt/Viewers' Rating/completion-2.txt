@@ -1,0 +1,11 @@
+1. Query: "list the {{top 10 highest rated}} movies on rotten tomatoes"
+Text Span: "top 10 highest rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Query: "What are the {{top 10}} highest grossing movies of all time?"
+Text Span: "top 10"
+Label: (D). The span is not a named entity
+
+3. Query: "Can you find the film The Graduate with a {{Viewers' Rating}} of 8 or higher?"
+Text Span: "Viewers' Rating"
+Label: (C). The span is a named entity but the category is not viewers' rating. The correct entity type is "MPAA Rating".

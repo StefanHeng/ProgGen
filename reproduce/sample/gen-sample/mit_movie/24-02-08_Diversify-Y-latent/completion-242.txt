@@ -1,0 +1,8 @@
+1. "What is the best thriller movie by M. Night Shyamalan"
+   Named Entities: [best (Viewers' Rating), thriller (Genre), M. Night Shyamalan (Director)]
+
+2. "Is Mr. Miyagi a character in any of the movies produced by Jordan Peele"
+   Named Entities: [Mr. Miyagi (Character), Jordan Peele (Director)]
+
+3. "When did Mufasa first appear in a movie"
+   Named Entities: [Mufasa (Character), first appear (Plot)]

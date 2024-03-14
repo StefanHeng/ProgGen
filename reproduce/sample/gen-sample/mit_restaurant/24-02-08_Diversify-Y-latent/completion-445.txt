@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with authentic Vietnamese cuisine?"
+   Named Entities: [Vietnamese cuisine (Cuisine)]
+
+2. "What are the operating hours for Pho Saigon Vietnamese Restaurant?"
+   Named Entities: [Pho Saigon Vietnamese Restaurant (Restaurant Name), operating hours (Hours)]
+
+3. "I'm looking for a budget-friendly restaurant that serves delicious Vietnamese food."
+   Named Entities: [budget-friendly (Price), Vietnamese food (Cuisine)]

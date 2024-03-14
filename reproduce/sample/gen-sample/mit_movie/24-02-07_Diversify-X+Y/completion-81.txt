@@ -1,0 +1,8 @@
+Query: "I recently heard that my favorite movie got a bad review. Don't Worry, Be Happy and show me the extended trailer for it."
+Named Entities: [bad review (Review), extended trailer (Trailer)]
+
+Query: "I'm feeling down and could use a good movie to lift my spirits. Can you recommend a movie with a NR rating and a Montage scene?"
+Named Entities: [NR rating (MPAA Rating), Montage (Plot)]
+
+Query: "I'm feeling blue and need a movie to cheer me up. Can you tell me the viewers' rating of a film that's known for its happy ending?"
+Named Entities: [happy ending (Plot), viewers' rating (Viewers' Rating)]

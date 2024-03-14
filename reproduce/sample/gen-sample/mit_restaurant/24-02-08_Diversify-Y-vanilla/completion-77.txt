@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Greek cuisine, can you recommend a good restaurant?"
+Named Entities: [Greek (Cuisine)]
+
+2. "What are the hours of operation for TGI Friday's?"
+Named Entities: [TGI Friday's (Restaurant Name), hours of operation (Hours)]
+
+3. "Where can I find a restaurant with outdoor seating and a view for under $20 a plate?"
+Named Entities: [outdoor seating (Amenity), view (Amenity), under $20 a plate (Price)]

@@ -1,0 +1,8 @@
+1. "I'm craving a lobster roll, is there a seafood restaurant nearby that serves it?"
+Named Entities: [lobster roll (Dish), seafood (Cuisine), nearby (Location)]
+
+2. "Can you recommend a high-rated restaurant where I can find a delicious seafood platter?"
+Named Entities: [high-rated (Rating), seafood (Cuisine)]
+
+3. "What are the operating hours for the best seafood restaurant in town?"
+Named Entities: [best (Rating), seafood (Cuisine)]

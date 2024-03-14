@@ -1,0 +1,11 @@
+1. Query: "Can you tell me about any {{acclaimed movies}} in terms of recognition?"
+Text Span: "acclaimed movies"
+Label: (C). Genre
+
+2. Query: "Show me a trailer for a {{classic film}} that was both critically acclaimed and commercially successful."
+Text Span: "classic film"
+Label: (A). Title
+
+3. Query: "can you give me a summary of the movie {{inception}}"
+Text Span: "inception"
+Label: (A). Title

@@ -1,0 +1,8 @@
+1. "I'm in the mood for sushi, where can I find a restaurant with good bar hours?"
+Named Entities: [sushi (Cuisine), good (Rating), bar hours (Amenity)]
+
+2. "Do you know of any restaurants nearby that serve affordable dishes?"
+Named Entities: [affordable (Price), dishes (Dish), nearby (Location)]
+
+3. "I'm looking for a place to eat with outdoor seating and a diverse menu, do you have any suggestions?"
+Named Entities: [outdoor seating (Amenity), diverse menu (Cuisine)]

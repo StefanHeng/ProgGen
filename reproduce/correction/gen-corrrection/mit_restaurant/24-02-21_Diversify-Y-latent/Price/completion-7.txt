@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a restaurant with a cozy atmosphere and {{superior quality}} cocktails."
+Text Span: "superior quality"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Rating.
+
+2. Query: "Do you know of any brunch places that offer {{coupons}} for this weekend?"
+Text Span: "coupons"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+3. Query: "What's the best Italian restaurant with outdoor seating and a {{prix fixe menu}}?"
+Text Span: "prix fixe menu"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.

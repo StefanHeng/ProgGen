@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with an exciting treasure hunt plot starring Nicole Kidman?"
+Named Entities: [exciting (Genre), Nicole Kidman (Actor), treasure hunt (Plot)]
+
+2. Query: "What post-apocalyptic movies were released between 2018 and 2020?"
+Named Entities: [2018-2020 (Year), post-apocalyptic (Genre)]
+
+3. Query: "Who directed the tragedy film featuring Ewan McGregor?"
+Named Entities: [tragedy (Genre), Ewan McGregor (Actor)]

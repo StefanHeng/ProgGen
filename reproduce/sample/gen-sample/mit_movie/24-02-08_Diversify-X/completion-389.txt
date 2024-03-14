@@ -1,0 +1,8 @@
+1. Query: "Can I watch the movie 'Frozen' on any streaming platforms?"
+Named Entities: ['Frozen' (Title), streaming platforms]
+
+2. Query: "What kind of movies does Taylor Swift star in, and are they available on Netflix?"
+Named Entities: [Taylor Swift (Actor), movies, Netflix]
+
+3. Query: "Are there any romantic comedies from the 2000s that I can watch on Amazon Prime?"
+Named Entities: [romantic comedies, 2000s (Year), Amazon Prime]

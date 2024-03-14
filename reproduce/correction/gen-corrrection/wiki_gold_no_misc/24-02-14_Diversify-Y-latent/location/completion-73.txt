@@ -1,0 +1,11 @@
+1. Sentence: "Göbekli Tepe is an archaeological site in the southeastern Anatolia Region of {{Turkey}}, approximately 12 km northeast of the city of Şanlıurfa."
+Text Span: "Turkey"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "In 2019, Bong Joon-ho became the first {{South Korean}} director to win the Palme d'Or at the Cannes Film Festival for his film Parasite."
+Text Span: "South Korean"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "South Korean director"
+
+3. Sentence: "Rio de Janeiro is the second-most populous city in {{Brazil}} and the sixth-most populous in the Americas."
+Text Span: "Brazil"
+Label: (A). The span is a named entity of type location

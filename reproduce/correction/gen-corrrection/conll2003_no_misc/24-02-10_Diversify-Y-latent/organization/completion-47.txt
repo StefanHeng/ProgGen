@@ -1,0 +1,8 @@
+1. Text Span: "United Nations"
+Label: (A). Named entity of type organization
+
+2. Text Span: "British Museum"
+Label: (A). Named entity of type organization
+
+3. Text Span: "Lunar Gateway"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. The correct span boundary is "Indian Space Research Organisation"

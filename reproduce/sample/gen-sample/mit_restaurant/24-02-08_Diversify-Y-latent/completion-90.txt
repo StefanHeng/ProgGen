@@ -1,0 +1,8 @@
+1. "I'm craving a healthy breakfast, where can I get a delicious granola bowl?"
+Named Entities: [granola bowl (Dish)]
+
+2. "What are the hours of operation for The Maple Diner?"
+Named Entities: [The Maple Diner (Restaurant Name), hours of operation (Hours)]
+
+3. "I'm looking for a restaurant with affordable options in this area, any recommendations?"
+Named Entities: [affordable (Price), this area (Location)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a good seafood restaurant near Hillside?"
+Named Entities: [good (Rating), seafood (Cuisine), Hillside (Location)]
+
+Query: "What are the hours of operation for The Burger Joint?"
+Named Entities: [hours of operation (Hours), The Burger Joint (Restaurant Name)]
+
+Query: "I'm in the mood for some shrimp. Where is The Shrimp Shack located?"
+Named Entities: [shrimp (Dish), The Shrimp Shack (Restaurant Name), located (Amenity)]

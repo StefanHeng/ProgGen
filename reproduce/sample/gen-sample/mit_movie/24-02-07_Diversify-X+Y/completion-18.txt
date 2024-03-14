@@ -1,0 +1,8 @@
+1. Query: "Can I stream any Batman movies on your platform?"
+Named Entities: [Batman (Title), on your platform (Streaming)]
+
+2. Query: "Are there any apocalyptic future movies available to watch?"
+Named Entities: [apocalyptic future (Genre), available to watch (Streaming)]
+
+3. Query: "I'm looking for footage of the latest Batman movie, can you help me with that?"
+Named Entities: [footage (Trailer), latest Batman movie (Title)]

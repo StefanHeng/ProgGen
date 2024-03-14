@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by David Fincher that focuses on family inheritance?"
+Named Entities: [David Fincher (Director), family inheritance (Plot)]
+
+2. "What is Alfonso Cuarón's movie about parenthood struggles, and is it rated TV-MA?"
+Named Entities: [Alfonso Cuarón (Director), parenthood struggles (Plot), TV-MA (MPAA Rating)]
+
+3. "Show me a film preview that features the song Sweet Caroline."
+Named Entities: [Sweet Caroline (Song), film preview (Trailer)]

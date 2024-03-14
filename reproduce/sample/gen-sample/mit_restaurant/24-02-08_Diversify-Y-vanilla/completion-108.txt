@@ -1,0 +1,8 @@
+1. Query: "can you recommend a Noodle House with a high rating and reasonable prices nearby"
+Named Entities: [Noodle House (Restaurant Name), high rating (Rating), reasonable prices (Price), nearby (Location)]
+
+2. Query: "what time does the Noodle House close tonight"
+Named Entities: [Noodle House (Restaurant Name), close tonight (Hours)]
+
+3. Query: "I'm craving some spicy noodles, where's the best Noodle House in the area"
+Named Entities: [spicy noodles (Dish), best (Rating), Noodle House (Restaurant Name), in the area (Location)]

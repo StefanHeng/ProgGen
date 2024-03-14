@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any recent sci-fi movies with a strong female lead?"
+   Named Entities: [recent (Year), sci-fi (Genre), strong female lead (Character)]
+
+2. Query: "What's a good comedy movie that also includes elements of romance and adventure?"
+   Named Entities: [comedy (Genre), romance (Genre), adventure (Genre)]
+
+3. Query: "I'm in the mood for some historical drama set in ancient times. Can you suggest any titles?"
+   Named Entities: [historical drama (Genre), ancient times (Year)]

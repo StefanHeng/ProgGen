@@ -1,0 +1,8 @@
+Query: "I'm looking for a late-night restaurant with vegan options, preferably close by"
+Named Entities: [late-night restaurants (Amenity), vegan options (Cuisine), close by (Location)]
+
+Query: "which restaurant around here offers vegan options for late-night dining"
+Named Entities: [vegan options (Cuisine), late-night dining (Amenity)]
+
+Query: "can you recommend a late-night dining spot with good vegan options"
+Named Entities: [late-night dining (Amenity), good (Rating), vegan options (Cuisine)]

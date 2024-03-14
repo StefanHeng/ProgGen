@@ -1,0 +1,8 @@
+1. Text Span: "authentic"
+   Label: (B). The correct span boundary is "authentic Wendy's cuisine"
+   
+2. Text Span: "restaurant"
+   Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "sushi bar"
+   Label: (A). The span is a named entity of type amenity

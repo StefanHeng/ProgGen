@@ -1,0 +1,11 @@
+1. Sentence: "{{American Bar Association}} partners with local organizations to provide legal aid to underprivileged communities."
+Text Span: "American Bar Association"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "New study shows that consuming {{olive oil}} can lower the risk of heart disease."
+Text Span: "olive oil"
+Label: (D). Not a Named Entity
+
+3. Sentence: "{{Augusta National Golf Club}} announces plans for major renovation ahead of next year's Masters tournament."
+Text Span: "Augusta National Golf Club"
+Label: (A). The span is a named entity of type organization

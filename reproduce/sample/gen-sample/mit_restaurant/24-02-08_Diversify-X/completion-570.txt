@@ -1,0 +1,8 @@
+Query: "I'm looking for a sushi spot with outdoor seating for lunch"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), lunch (Hours)]
+
+Query: "Can you recommend a casual Italian restaurant with a good lunch menu near downtown?"
+Named Entities: [Italian (Cuisine), casual (Amenity), good (Rating), lunch (Hours), downtown (Location)]
+
+Query: "Which diner serves breakfast foods during lunch hours?"
+Named Entities: [diner (Restaurant Name), breakfast foods (Dish), lunch hours (Hours)]

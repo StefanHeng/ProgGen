@@ -1,0 +1,8 @@
+1. "What are the hours of operation for Chez Panisse in Berkeley"
+   Named Entities: [Chez Panisse (Restaurant Name), Berkeley (Location), hours of operation (Hours)]
+   
+2. "I'm craving some Thai food, can you recommend a highly-rated restaurant?"
+   Named Entities: [Thai (Cuisine), highly-rated (Rating), restaurant (Amenity)]
+   
+3. "Do you know of any good seafood places with outdoor seating and a view?"
+   Named Entities: [good (Rating), seafood (Cuisine), outdoor seating (Amenity), view (Amenity)]

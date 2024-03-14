@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend a heart-wrenching spy movie, similar to the Jason Bourne series?"
+   Named Entities: [heart-wrenching (Genre), spy (Genre), Jason Bourne (Character)]
+
+2. Spoken Query: "I'm interested in watching a classic spy movie from the 1960s. Do you have any recommendations?"
+   Named Entities: [spy (Genre), 1960s (Year)]
+
+3. Spoken Query: "What subgenre does the movie 'Tinker Tailor Soldier Spy' fall into, and is it similar to the Jason Bourne series?"
+   Named Entities: [Tinker Tailor Soldier Spy (Title), Jason Bourne (Character)]

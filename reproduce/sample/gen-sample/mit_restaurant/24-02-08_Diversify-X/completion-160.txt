@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a quiet and peaceful ambiance where I can have a relaxing brunch?"
+Named Entities: [brunch (Amenity), quiet and peaceful (Amenity)]
+
+2. "I'm looking for a brunch place with a serene atmosphere, what restaurants do you suggest?"
+Named Entities: [brunch (Amenity), serene atmosphere (Amenity)]
+
+3. "Is there a restaurant nearby that serves a tranquil brunch?"
+Named Entities: [tranquil (Amenity), brunch (Amenity)]

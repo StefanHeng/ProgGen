@@ -1,0 +1,8 @@
+Query: "Has the movie Argo, directed by Ben Affleck, received any awards or nominations?"
+Named Entities: [Argo (Title), Ben Affleck (Director)]
+
+Query: "Show me a war movie starring Diane Keaton that has won awards"
+Named Entities: [war (Genre), Diane Keaton (Actor)]
+
+Query: "I'm curious if the film directed by Paul Feig and featuring the song Zip-a-Dee-Doo-Dah has been nominated for any awards"
+Named Entities: [Paul Feig (Director), Zip-a-Dee-Doo-Dah (Song)]

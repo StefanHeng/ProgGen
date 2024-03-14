@@ -1,0 +1,8 @@
+1. "Can you recommend a cozy and intimate restaurant with a good lunch menu?"
+Named Entities: [cozy and intimate (Amenity), lunch (Meal category)]
+
+2. "Where is the nearest restaurant with a cozy atmosphere that serves delicious lunch dishes?"
+Named Entities: [cozy (Amenity), lunch (Meal category)]
+
+3. "I'm looking for a lunch spot with a cozy ambiance and tasty menu, what can you suggest?"
+Named Entities: [cozy ambiance (Amenity), lunch (Meal category)]

@@ -1,0 +1,8 @@
+1. Query: "What remarkable movies did M. Night Shyamalan direct in the 90s"
+   Named Entities: [remarkable (Viewers' Rating), M. Night Shyamalan (Director), The Sixth Sense (Title), 90s (Year)]
+
+2. Query: "Are there any good teen movies that came out in 2014"
+   Named Entities: [good (Viewers' Rating), teen (Genre), 2014 (Year)]
+
+3. Query: "Who directed The Karate Kid and what is the MPAA rating"
+   Named Entities: [The Karate Kid (Title), MPAA rating (MPAA Rating)]

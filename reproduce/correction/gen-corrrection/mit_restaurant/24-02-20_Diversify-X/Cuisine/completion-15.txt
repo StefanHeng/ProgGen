@@ -1,0 +1,8 @@
+1. Text Span: "burger joint"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "cafe"
+Label: (A). The span is a named entity of type cuisine
+
+3. Text Span: "pizza"
+Label: (A). The span is a named entity of type cuisine

@@ -1,0 +1,8 @@
+1. "Can you recommend any Michelin star Italian restaurants with weekend hours and a VIP lounge for dinner?"
+Named Entities: [Michelin star (Rating), Italian (Cuisine), weekend hours (Hours), VIP lounge (Amenity)]
+
+2. "I need to find a dinner place with paleo options, preferably a Michelin star Italian restaurant with weekend hours."
+Named Entities: [paleo options (Amenity), Michelin star (Rating), Italian (Cuisine), weekend hours (Hours)]
+
+3. "Are there any Italian restaurants with paleo-friendly options and a VIP lounge open for dinner?"
+Named Entities: [Italian (Cuisine), paleo-friendly (Amenity), VIP lounge (Amenity)]

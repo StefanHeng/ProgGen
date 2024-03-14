@@ -1,0 +1,8 @@
+1. "I'm craving some tiramisu, where can I find a restaurant with a great dessert menu?"
+Named Entities: [tiramisu (Dish), great (Rating)]
+
+2. "I'm in the mood for Italian food, where can I get some linguine with clams?"
+Named Entities: [Italian (Cuisine), linguine with clams (Dish)]
+
+3. "I need to find a budget-friendly spot for dinner, under $15 per person."
+Named Entities: [under $15 per person (Price)]

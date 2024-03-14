@@ -1,0 +1,8 @@
+Query: "Who directed the making-of documentary for the Titanic movie"
+Named Entities: [Titanic (Title), making-of documentary (Plot), directed (Director)]
+
+Query: "Can you recommend a movie with a behind-the-scenes look at the special effects used in action films"
+Named Entities: [behind-the-scenes look (Plot), special effects (Plot), action films (Genre)]
+
+Query: "Is there a documentary about the history of animation films and the filmmakers behind them"
+Named Entities: [documentary (Genre), history of animation films (Plot), filmmakers (Director)]

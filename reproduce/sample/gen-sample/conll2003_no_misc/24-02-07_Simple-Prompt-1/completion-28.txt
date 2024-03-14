@@ -1,0 +1,149 @@
+1. New study reveals connection between coffee consumption and heart health.
+Named Entities: []
+
+2. President Biden announces new infrastructure plan.
+Named Entities: [Biden (person)]
+
+3. Amazon to open new headquarters in Austin, Texas.
+Named Entities: [Amazon (organization), Austin (location), Texas (location)]
+
+4. Researchers discover new species of dinosaur in Patagonia.
+Named Entities: [Patagonia (location)]
+
+5. Apple launches new iPhone with advanced camera technology.
+Named Entities: [Apple (organization)]
+
+6. Report shows increase in air pollution levels in Los Angeles.
+Named Entities: [Los Angeles (location)]
+
+7. Soccer star Lionel Messi signs with Paris Saint-Germain.
+Named Entities: [Lionel Messi (person), Paris Saint-Germain (organization)]
+
+8. Study finds correlation between screen time and anxiety in teenagers.
+Named Entities: []
+
+9. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+10. New report ranks Tokyo as the most expensive city in the world.
+Named Entities: [Tokyo (location)]
+
+11. CEO Elon Musk unveils plans for Mars colonization.
+Named Entities: [Elon Musk (person), Mars (location)]
+
+12. Wildfires continue to ravage Northern California.
+Named Entities: [Northern California (location)]
+
+13. Study suggests link between processed meat consumption and cancer risk.
+Named Entities: []
+
+14. Facebook faces criticism over data privacy concerns.
+Named Entities: [Facebook (organization)]
+
+15. Olympic swimmer Michael Phelps breaks world record.
+Named Entities: [Michael Phelps (person)]
+
+16. New York City announces plan to combat rising crime rates.
+Named Entities: [New York City (location)]
+
+17. Scientists discover potential new treatment for Alzheimer's disease.
+Named Entities: []
+
+18. Amazon founder Jeff Bezos steps down as CEO.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+19. Rising sea levels pose threat to coastal communities.
+Named Entities: []
+
+20. Study shows correlation between exercise and mental health.
+Named Entities: []
+
+21. Prince Harry and Meghan Markle welcome their second child.
+Named Entities: [Prince Harry (person), Meghan Markle (person)]
+
+22. NASA's Perseverance rover discovers ancient river delta on Mars.
+Named Entities: [NASA (organization), Perseverance (organization), Mars (location)]
+
+23. Bitcoin reaches new all-time high.
+Named Entities: [Bitcoin (organization)]
+
+24. United Nations issues statement on global food insecurity.
+Named Entities: [United Nations (organization)]
+
+25. Researchers develop new vaccine for malaria.
+Named Entities: []
+
+26. Mayor Garcetti proposes new housing plan for Los Angeles.
+Named Entities: [Garcetti (person), Los Angeles (location)]
+
+27. Study reveals link between social media use and loneliness.
+Named Entities: []
+
+28. Amazon founder Jeff Bezos becomes the richest person in the world.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+29. London named as the host city for 2022 World Athletics Championships.
+Named Entities: [London (location)]
+
+30. Climate change activists protest outside the headquarters of ExxonMobil.
+Named Entities: [ExxonMobil (organization)]
+
+31. New data shows increase in unemployment rates across the country.
+Named Entities: []
+
+32. CEO Tim Cook announces new product lineup for Apple.
+Named Entities: [Tim Cook (person), Apple (organization)]
+
+33. Study finds link between air pollution and respiratory illnesses.
+Named Entities: []
+
+34. Facebook introduces new feature to combat misinformation.
+Named Entities: [Facebook (organization)]
+
+35. President Macron addresses nation on new COVID-19 restrictions.
+Named Entities: [Macron (person)]
+
+36. Tokyo Olympics to proceed without spectators.
+Named Entities: [Tokyo (location)]
+
+37. Researchers discover ancient Mayan city hidden in the jungle.
+Named Entities: [Mayan (location)]
+
+38. New study highlights impact of climate change on polar bear populations.
+Named Entities: []
+
+39. SpaceX founder Elon Musk announces plan for mission to Mars.
+Named Entities: [SpaceX (organization), Elon Musk (person), Mars (location)]
+
+40. Global survey ranks Paris as the best city for student life.
+Named Entities: [Paris (location)]
+
+41. Study finds link between fast food consumption and obesity rates.
+Named Entities: []
+
+42. New York City mayor announces plan to address homelessness crisis.
+Named Entities: [New York City (location)]
+
+43. Researchers identify new strain of flu virus with pandemic potential.
+Named Entities: []
+
+44. Amazon faces antitrust scrutiny over its e-commerce dominance.
+Named Entities: [Amazon (organization)]
+
+45. CEO Mark Zuckerberg testifies before Congress on data privacy issues.
+Named Entities: [Mark Zuckerberg (person)]
+
+46. World Health Organization issues warning about new Covid variant.
+Named Entities: [World Health Organization (organization)]
+
+47. Scientists discover new species of deep-sea fish in the Pacific Ocean.
+Named Entities: [Pacific Ocean (location)]
+
+48. Study shows impact of deforestation on biodiversity in the Amazon rainforest.
+Named Entities: [Amazon (location)]
+
+49. Apple CEO Tim Cook announces plans for sustainable manufacturing.
+Named Entities: [Apple (organization), Tim Cook (person)]
+
+50. Researcher Elizabeth Blackwell honored for groundbreaking medical discoveries.
+Named Entities: [Elizabeth Blackwell (person)]

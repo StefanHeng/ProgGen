@@ -1,0 +1,8 @@
+1. "Can you recommend a family-friendly movie with a high viewers' rating?"
+Named Entities: [family-friendly (Genre), high viewers' rating (Viewers' Rating)]
+
+2. "What is the plot of the latest action movie directed by Christopher Nolan?"
+Named Entities: [latest action movie (Title), Christopher Nolan (Director)]
+
+3. "I'm looking for a classic film with Audrey Hepburn as the lead actress, can you suggest one?"
+Named Entities: [classic film (Genre), Audrey Hepburn (Actor)]

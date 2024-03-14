@@ -1,0 +1,8 @@
+1. "I'm craving some delicious street food from a food truck that has wheelchair accessibility. Any recommendations?"
+   Named Entities: [food truck (Cuisine), wheelchair accessibility (Amenity)]
+
+2. "Where can I find a food truck around here that offers happy hours?"
+   Named Entities: [food truck (Cuisine), happy hours (Amenity)]
+
+3. "I want to grab a quick bite from a food truck that's wheelchair accessible. Any suggestions?"
+   Named Entities: [food truck (Cuisine), wheelchair accessible (Amenity)]

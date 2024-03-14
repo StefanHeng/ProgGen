@@ -1,0 +1,8 @@
+1. Text Span: "Katniss Everdeen"
+Label: (A). The span is a named entity of type character
+
+2. Text Span: "Ron Weasley"
+Label: (A). The span is a named entity of type character
+
+3. Text Span: "character Neo"
+Label: (B). The span contains a named character entity but the span boundary is not precise. The correct span boundary is "Neo"

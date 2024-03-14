@@ -1,0 +1,8 @@
+1. Query: "Can you recommend the best-reviewed Italian restaurant in the suburban area?"
+   Named Entities: [Best-reviewed (Rating), Italian (Cuisine), suburban (Location)]
+
+2. Query: "I'm craving some sushi, where is the closest place with a good happy hour menu?"
+   Named Entities: [closest (Location), good (Rating), happy hour (Amenity), sushi (Cuisine)]
+
+3. Query: "What Mexican restaurants are open after 10 pm and offer affordable prices?"
+   Named Entities: [after 10 pm (Hours), affordable prices (Price), Mexican (Cuisine)]

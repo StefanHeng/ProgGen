@@ -1,0 +1,8 @@
+1. "What is Her about?"
+Named Entities: [Her (Title)]
+
+2. "Is Mel Gibson starring in any romantic comedy films?"
+Named Entities: [Mel Gibson (Actor), romantic comedy (Genre)]
+
+3. "Did Jim Carrey receive any awards for his performance in a political movie released in 1983?"
+Named Entities: [Jim Carrey (Actor), political (Genre), 1983 (Year)]

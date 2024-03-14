@@ -1,0 +1,8 @@
+1. Text Span: "Richard and Maurice McDonald"
+Label: (B). The correct span boundary is "Richard and Maurice McDonald". 
+
+2. Text Span: "Adam Smith"
+Label: (A). The span is a named entity of type person.
+
+3. Text Span: "Dalai Lama"
+Label: (A). The span is a named entity of type person.

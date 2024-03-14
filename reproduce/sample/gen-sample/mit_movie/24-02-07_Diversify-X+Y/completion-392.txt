@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a powerful musical score?"
+Named Entities: [powerful musical score (Song)]
+
+2. "Have you heard of any movies featuring Daveed Diggs?"
+Named Entities: [Daveed Diggs (Actor)]
+
+3. "I'm looking for a movie with epic musical moments and action. Any suggestions?"
+Named Entities: [epic musical moments (Plot), action (Genre)]

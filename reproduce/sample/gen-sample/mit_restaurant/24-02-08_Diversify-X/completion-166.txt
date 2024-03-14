@@ -1,0 +1,8 @@
+1. "What are some top-rated fine dining restaurants with outdoor seating in the area?"
+   Named Entities: [top-rated (Rating), fine dining (Cuisine), outdoor seating (Amenity), area (Location)]
+
+2. "I'm looking for a high-end restaurant with a prix fixe menu and patio dining. Any suggestions?"
+   Named Entities: [high-end (Price), prix fixe menu (Dish), patio dining (Amenity)]
+
+3. "Can you recommend a fancy restaurant with al fresco dining and a diverse menu?"
+   Named Entities: [fancy (Rating), al fresco dining (Amenity), diverse menu (Cuisine)]

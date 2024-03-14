@@ -1,0 +1,8 @@
+1. Text Span: "Indian"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Earth/atmosphere system"
+Label: (C). Wrong Type. The correct entity type is location.
+
+3. Text Span: "Earth"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with a great pulled pork sandwich"
+Named Entities: [pulled pork sandwich (Dish)]
+
+Query: "What is the rating for Cracker Barrel in this area"
+Named Entities: [Cracker Barrel (Restaurant Name)]
+
+Query: "Can you recommend a restaurant with a variety of amenities for families, like Cracker Barrel"
+Named Entities: [Cracker Barrel (Restaurant Name), families (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you tell me who directed The Blues Brothers?"
+Named Entities: [The Blues Brothers (Title), directed (Director)]
+
+2. "I'm looking for a movie featuring Zoe Saldana that has a rating of NC-17"
+Named Entities: [Zoe Saldana (Actor), NC-17(MPAA Rating)]
+
+3. "I want an advance look at a movie with a 6 out of 10 rating, maybe something like Buzz Lightyear"
+Named Entities: [Advance look (Trailer), 6 out of 10 (Viewers' Rating), Buzz Lightyear (Title)]

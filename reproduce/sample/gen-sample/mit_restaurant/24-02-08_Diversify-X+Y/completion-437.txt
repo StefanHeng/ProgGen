@@ -1,0 +1,8 @@
+Query: "I'm looking for a café in the area that offers a stellar experience for brunch"
+Named Entities: [café (Cuisine), stellar experience (Amenity), brunch (Amenity)]
+
+Query: "Can you recommend a café with a stellar experience for a quick bite to eat after 5 pm"
+Named Entities: [café (Cuisine), stellar experience (Amenity), after 5 pm (Hours), quick bite to eat (Amenity)]
+
+Query: "Where can I find a café that provides a stellar experience and serves dinner before 8 pm"
+Named Entities: [café (Cuisine), stellar experience (Amenity), dinner (Amenity), before 8 pm (Hours)]

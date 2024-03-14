@@ -1,0 +1,44 @@
+1. "What's the best Italian restaurant in the area"
+   Named Entities: [Italian (Cuisine)]
+
+2. "Can you recommend a restaurant with outdoor seating"
+   Named Entities: [outdoor seating (Amenity)]
+
+3. "I want to try some sushi, where's the nearest place"
+   Named Entities: [sushi (Cuisine), nearest (Location)]
+
+4. "Is there a restaurant nearby that serves brunch"
+   Named Entities: [brunch (Amenity), nearby (Location)]
+
+5. "What's the price range for the steakhouse downtown"
+   Named Entities: [steakhouse downtown (Restaurant Name), price range (Price)]
+
+6. "What time does the Thai restaurant close tonight"
+   Named Entities: [Thai (Cuisine), close tonight (Hours)]
+
+7. "I'm in the mood for some tacos, where can I find good ones"
+   Named Entities: [tacos (Dish), good (Rating)]
+
+8. "Find me a restaurant with a good view"
+   Named Entities: [good view (Amenity)]
+
+9. "I need a reservation for a party of 6 at a French restaurant"
+   Named Entities: [reservation (Amenity), party of 6 (Amenity), French (Cuisine)]
+
+10. "What's the highest rated BBQ joint in the city"
+    Named Entities: [highest rated (Rating), BBQ (Cuisine)]
+
+11. "Do you know of any 24-hour diners in the area"
+    Named Entities: [24-hour (Hours), diners (Amenity)]
+
+12. "Can you find a place that's open late and serves dessert"
+    Named Entities: [open late (Hours), serves dessert (Amenity)]
+
+13. "I'm looking for a Mexican restaurant with live music"
+    Named Entities: [Mexican (Cuisine), live music (Amenity)]
+
+14. "What's the best seafood place in town"
+    Named Entities: [seafood (Cuisine), best (Rating)]
+
+15. "I want to eat at a vegetarian-friendly restaurant"
+    Named Entities: [vegetarian-friendly (Amenity)]

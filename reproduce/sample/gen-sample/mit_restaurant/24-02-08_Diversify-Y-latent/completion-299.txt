@@ -1,0 +1,8 @@
+Query: "Can you tell me if Downtown Diner serves vegetarian options?"
+Named Entities: [Downtown Diner (Restaurant Name), vegetarian (Cuisine)]
+
+Query: "What are the opening hours of Downtown Diner on Saturdays?"
+Named Entities: [Downtown Diner (Restaurant Name), opening hours (Hours), Saturdays (Hours)]
+
+Query: "I'm looking for a restaurant in the vicinity of Downtown Diner with a high rating"
+Named Entities: [Downtown Diner (Restaurant Name), vicinity (Location), high rating (Rating)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a tragedy movie with a vampire as the main character?"
+Named Entities: [tragedy (Genre), vampire (Character)]
+
+2. "Who directed the highest-rated vampire movie of the 21st century?"
+Named Entities: [vampire (Genre), 21st century (Year)]
+
+3. "What is the plot of the newest vampire movie that is suitable for children?"
+Named Entities: [vampire (Genre), suitable for children (MPAA Rating)]

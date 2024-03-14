@@ -1,0 +1,8 @@
+1. Text Span: "Bronze Age"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Paris"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "United States"
+Label: (A). The span is a named entity of type location

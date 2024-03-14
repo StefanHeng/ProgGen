@@ -1,0 +1,8 @@
+Query: "what are the restaurant options around here for a nice French quiche"
+Named Entities: [French (Cuisine), quiche (Dish)]
+
+Query: "show me the highest rated Italian restaurants that are open past 10 p m"
+Named Entities: [highest rated (Rating), Italian (Cuisine), past 10 p m (Hours)]
+
+Query: "can you recommend a sushi place with outdoor seating and a reasonable price"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), reasonable price (Price)]

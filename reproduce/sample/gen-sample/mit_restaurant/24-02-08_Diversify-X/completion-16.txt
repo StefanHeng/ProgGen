@@ -1,0 +1,8 @@
+Query: "Where can I find a restaurant with a good breakfast menu and special discounts"
+Named Entities: [good (Rating), breakfast (Amenity), special discounts (Amenity)]
+
+Query: "Which restaurant serves breakfast before 8 am and has affordable prices"
+Named Entities: [breakfast (Amenity), before 8 am (Hours), affordable prices (Price)]
+
+Query: "I need a place for breakfast that offers happy hour deals"
+Named Entities: [breakfast (Amenity), happy hour deals (Amenity)]

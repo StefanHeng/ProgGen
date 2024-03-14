@@ -1,0 +1,11 @@
+1. Query: "What are some {{highly-rated}} films directed by female directors?"
+Text Span: "highly-rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Query: "What is the {{rating}} for the film the godfather"
+Text Span: "rating"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Review
+
+3. Query: "What is the {{viewers' rating}} for the Harry Potter series?"
+Text Span: "viewers' rating"
+Label: (A). The span is a named entity of type viewers' rating

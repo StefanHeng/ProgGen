@@ -1,0 +1,8 @@
+1. Text Span: "doctor"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "breakfast buffet"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "food truck"
+Label: (A). Correct Entity Annotation.

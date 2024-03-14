@@ -1,0 +1,8 @@
+Sentence: "Jennifer Lopez and Ben Affleck spotted together in Malibu."
+Named Entities: [Jennifer Lopez (person), Ben Affleck (person), Malibu (location)]
+
+Sentence: "Selena Gomez launches new makeup line."
+Named Entities: [Selena Gomez (person)]
+
+Sentence: "Taylor Swift to receive honorary doctorate from Yale University."
+Named Entities: [Taylor Swift (person), Yale University (organization)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a feel-good movie with a rating of at least 90%?"
+Named Entities: [feel-good (Genre), 90% (Viewers' Rating)]
+
+2. "I'm looking for a movie that captures the essence of everyday life, like a 'slice of life' type of film."
+Named Entities: [slice of life (Genre)]
+
+3. "Show me a movie featuring the song 'Livin’ on a Prayer' and starring Michael Fassbender."
+Named Entities: [Livin’ on a Prayer (Song), Michael Fassbender (Actor)]

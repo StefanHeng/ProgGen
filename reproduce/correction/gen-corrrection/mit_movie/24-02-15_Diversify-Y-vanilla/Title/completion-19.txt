@@ -1,0 +1,8 @@
+1. Text Span: "A"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "The Breakfast Club"
+   Label: (A). The span is a named entity of type title
+
+3. Text Span: "Batman"
+   Label: (A). The span is a named entity of type title

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some farm-to-table Southern cuisine, where can I find a hip and trendy food truck?"
+Named Entities: [farm-to-table (Cuisine), Southern (Cuisine), food truck (Amenity), hip and trendy (Amenity)]
+
+Query: "I'm craving a lobster roll from a cool food truck with clean restrooms, where should I go?"
+Named Entities: [lobster roll (Dish), food truck (Amenity), clean restrooms (Amenity)]
+
+Query: "I want to try some delicious Southern dishes from a trendy food truck, any recommendations?"
+Named Entities: [Southern (Cuisine), food truck (Amenity), trendy (Amenity)]

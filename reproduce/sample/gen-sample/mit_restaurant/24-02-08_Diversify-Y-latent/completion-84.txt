@@ -1,0 +1,8 @@
+1. "Where can I find a breakfast pastry for under 5 dollars?"
+Named Entities: [breakfast pastry (Dish), under 5 dollars (Price)]
+
+2. "Is there a restaurant nearby that offers vegan cuisine?"
+Named Entities: [vegan (Cuisine), nearby (Location)]
+
+3. "Can you suggest a place with a high rating for sushi?"
+Named Entities: [high rating (Rating), sushi (Cuisine)]

@@ -1,0 +1,8 @@
+1. Text Span: "family-friendly"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Genre
+
+2. Text Span: "high IMDb rating"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Best Picture"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Award

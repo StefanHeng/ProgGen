@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant for late-night upscale dining?"
+Named Entities: [late-night dining (Amenity), upscale (Price)]
+
+2. "I'm looking for a fancy place to eat after midnight, any suggestions?"
+Named Entities: [fancy (Rating), after midnight (Hours)]
+
+3. "Where can I find a high-end restaurant open for dinner past 11 pm?"
+Named Entities: [high-end (Price), past 11 pm (Hours)]

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for Italian, can you recommend a good restaurant? Something like Rossoblu."
+Named Entities: [Italian (Cuisine), Rossoblu (Restaurant Name)]
+
+Query: "What are the hours of operation for Rossoblu?"
+Named Entities: [Rossoblu (Restaurant Name), hours of operation (Hours)]
+
+Query: "I need a restaurant with a high rating, do you know any place similar to Rossoblu?"
+Named Entities: [high rating (Rating), Rossoblu (Restaurant Name)]

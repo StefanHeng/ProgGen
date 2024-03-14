@@ -1,0 +1,8 @@
+Query: "where can I find a food truck with a diverse menu for dine-in"
+Named Entities: [food truck (Amenity), diverse menu (Cuisine), dine-in (Amenity)]
+
+Query: "I'm looking for a food truck that serves tacos and is open after midnight"
+Named Entities: [food truck (Amenity), tacos (Dish), after midnight (Hours)]
+
+Query: "is there a food truck nearby with a high customer rating for dine-in"
+Named Entities: [food truck (Amenity), high customer rating (Rating), dine-in (Amenity)]

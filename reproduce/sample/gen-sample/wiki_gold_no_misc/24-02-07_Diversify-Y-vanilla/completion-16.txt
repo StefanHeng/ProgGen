@@ -1,0 +1,8 @@
+Sentence: "The University of Oxford is a collegiate research university in Oxford, England."
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+
+Sentence: "She joined the World Health Organization as a consultant in 2010."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "The actor won an Academy Award for his performance in the film."
+Named Entities: [Academy Award (organization)]

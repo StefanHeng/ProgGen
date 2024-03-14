@@ -1,0 +1,8 @@
+1. Text Span: "Beirut"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "South American"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+3. Text Span: "California"
+Label: (A). The span is a named entity of type location

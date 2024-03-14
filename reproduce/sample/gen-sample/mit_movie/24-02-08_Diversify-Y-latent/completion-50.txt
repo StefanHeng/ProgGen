@@ -1,0 +1,8 @@
+Query: "what year was the movie Pinocchio released in"
+Named Entities: [Pinocchio (Title)]
+
+Query: "who is the actor that plays Neo in the Matrix series"
+Named Entities: [Neo (Character), the Matrix series (Title), actor (Actor)]
+
+Query: "can you recommend a movie with subtle humor that is rated R"
+Named Entities: [subtle humor (Genre), R (MPAA Rating)]

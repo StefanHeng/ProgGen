@@ -1,0 +1,8 @@
+1. "What is the plot of the movie starring Christian Bale and Emma Watson?"
+Named Entities: [Christian Bale (Actor), Emma Watson (Actor), Plot]
+
+2. "Can you provide an insightful synopsis of a musical film?"
+Named Entities: [Insightful (Review), Musical (Genre)]
+
+3. "I'm looking for a movie with an intriguing plot involving Christian Bale and Emma Watson. Do you have any recommendations?"
+Named Entities: [Plot, Christian Bale (Actor), Emma Watson (Actor)]

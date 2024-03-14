@@ -1,0 +1,8 @@
+1. Query: "What movie from 1980-2020 was directed by Alejandro González Iñárritu?"
+Named Entities: [1980-2020 (Year), Alejandro González Iñárritu (Director)]
+
+2. Query: "Can you recommend a movie from 1985-2000 with a high viewers' rating?"
+Named Entities: [1985-2000 (Year), high viewers' rating (Viewers' Rating)]
+
+3. Query: "Show me a trailer of the new Marvel movie."
+Named Entities: [new (Year), Marvel (Genre), trailer (Trailer)]

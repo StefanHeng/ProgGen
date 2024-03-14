@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with a great salad bar nearby"
+Named Entities: [buffet (Amenity), great (Rating), salad bar (Amenity), nearby (Location)]
+
+Query: "I'm looking for a budget-friendly buffet place with a wide variety of dishes, especially at the salad bar"
+Named Entities: [budget-friendly (Price), buffet (Amenity), wide variety of dishes (Cuisine), salad bar (Amenity)]
+
+Query: "Do you know of any buffet restaurants with a top-notch salad bar open for dinner tonight"
+Named Entities: [buffet (Amenity), top-notch (Rating), salad bar (Amenity), dinner tonight (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "Can you show me a movie with a phenomenal soundtrack?"
+Named Entities: [phenomenal soundtrack (Song)]
+
+2. Query: "Is there a movie featuring the song 'Time Warp' that is popular among young adults?"
+Named Entities: ['Time Warp' (Song), young adults (Viewers' Rating)]
+
+3. Query: "What movie did Peter Parker watch with a great soundtrack in the movie theater?"
+Named Entities: [Peter Parker (Character), great soundtrack (Song)]

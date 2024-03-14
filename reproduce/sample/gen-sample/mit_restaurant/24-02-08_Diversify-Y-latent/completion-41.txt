@@ -1,0 +1,8 @@
+Query: "What is the rating of Spice Avenue?"
+Named Entities: [Spice Avenue (Restaurant Name)]
+
+Query: "Do you know any restaurant that offers unmatched vegan dishes?"
+Named Entities: [unmatched (Rating), vegan (Cuisine)]
+
+Query: "Where can I find a restaurant with a location in the downtown area?"
+Named Entities: [downtown area (Location)]

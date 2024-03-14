@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the TV-MA movie The Social Network directed by David Fincher"
+Named Entities: [TV-MA (MPAA Rating), The Social Network (Title), David Fincher (Director)]
+
+2. "Can you play a movie clip from the film Joker starring Joaquin Phoenix"
+Named Entities: [movie clip (Trailer), Joker (Title), Joaquin Phoenix (Actor)]
+
+3. "Who is the director of the movie with the most plot twists"
+Named Entities: [plot twists (Plot), director (Character)]

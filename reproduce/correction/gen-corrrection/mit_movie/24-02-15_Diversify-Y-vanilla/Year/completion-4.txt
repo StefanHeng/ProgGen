@@ -1,0 +1,8 @@
+1. Text Span: "recently"
+   Label: (D). Not a Named Entity.
+
+2. Text Span: "1973"
+   Label: (A). The span is a named entity of type year
+
+3. Text Span: "1975"
+   Label: (A). The span is a named entity of type year

@@ -1,0 +1,8 @@
+1. Query: "Are there any family-friendly movies with the soundtrack featuring the song 'You've Got a Friend in Me'?"
+Named Entities: ['You've Got a Friend in Me' (Song), family-friendly (Viewers' Rating)]
+
+2. Query: "Can you recommend a family drama with a memorable soundtrack for young children?"
+Named Entities: [family drama (Genre), young children (Viewers' Rating)]
+
+3. Query: "Which Austin Powers movie has a soundtrack that kids would enjoy?"
+Named Entities: [Austin Powers (Title), kids (Viewers' Rating)]

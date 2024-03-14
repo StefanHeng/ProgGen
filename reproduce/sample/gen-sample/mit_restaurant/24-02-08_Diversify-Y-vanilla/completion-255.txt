@@ -1,0 +1,8 @@
+1. "What restaurants in the area serve vegetarian options and are open for business hours?"
+Named Entities: [business hours (Hours), vegetarian options (Cuisine), area (Location)]
+
+2. "I want to have a fancy dinner tonight for a special occasion, can you recommend a high-rated restaurant with a diverse menu?"
+Named Entities: [fancy dinner (Amenity), special occasion (Amenity), high-rated (Rating), diverse menu (Cuisine)]
+
+3. "I'm in the mood for some sushi, can you find me a sushi bar with outdoor seating and a view of the water?"
+Named Entities: [sushi (Cuisine), sushi bar (Amenity), outdoor seating (Amenity), view of the water (Amenity)]

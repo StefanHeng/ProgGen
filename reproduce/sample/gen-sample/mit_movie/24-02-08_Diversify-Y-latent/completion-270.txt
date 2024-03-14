@@ -1,0 +1,8 @@
+Query: "Can you play the trailer for the movie with the song Pure Imagination?"
+Named Entities: [Pure Imagination (Song)]
+
+Query: "What is the movie rating for the film released in 1977?"
+Named Entities: [1977 (Year)]
+
+Query: "Who directed the movie with an R rating in which artificial intelligence plays a role?"
+Named Entities: [R (MPAA Rating), artificial intelligence (Plot)]

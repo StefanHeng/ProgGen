@@ -1,0 +1,8 @@
+1. "Is there a rooftop dining spot that offers a budget-friendly brunch bistro menu?"
+   Named Entities: [rooftop dining (Amenity), brunch bistro (Cuisine), budget-friendly (Price)]
+
+2. "Can you recommend a brunch bistro with rooftop dining that won't break the bank?"
+   Named Entities: [brunch bistro (Cuisine), rooftop dining (Amenity), won't break the bank (Price)]
+
+3. "I'm looking for a budget-friendly brunch bistro with rooftop dining, any suggestions?"
+   Named Entities: [budget-friendly (Price), brunch bistro (Cuisine), rooftop dining (Amenity)]

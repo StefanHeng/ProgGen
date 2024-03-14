@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie from 1996 with a 7.5/10 rating?"
+   Named Entities: [1996 (Year), 7.5/10 rating (Viewers' Rating)]
+
+2. Query: "Are there any NR-17 movies directed by Quentin Tarantino?"
+   Named Entities: [NR-17 (MPAA Rating), Quentin Tarantino (Director)]
+
+3. Query: "Which movie from the 2000s has a plot involving a heist and is directed by Steven Soderbergh?"
+   Named Entities: [2000s (Year), heist (Plot), Steven Soderbergh (Director)]

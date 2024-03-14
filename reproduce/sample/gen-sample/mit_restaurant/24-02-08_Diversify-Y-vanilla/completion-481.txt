@@ -1,0 +1,8 @@
+1. "What are the operating hours of Potbelly Sandwich Shop near my location?"
+   Named Entities: [Potbelly Sandwich Shop (Restaurant Name), near my location (Location), operating hours (Hours)]
+
+2. "I'm craving a specific type of cuisine, can you suggest any restaurants near me that serve Mediterranean food?"
+   Named Entities: [Mediterranean (Cuisine), near me (Location)]
+
+3. "I want to find a restaurant with a high rating and affordable prices, could you recommend a place like that?"
+   Named Entities: [high rating (Rating), affordable prices (Price)]

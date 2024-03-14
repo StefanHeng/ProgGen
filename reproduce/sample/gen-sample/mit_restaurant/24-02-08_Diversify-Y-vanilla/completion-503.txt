@@ -1,0 +1,8 @@
+1. "Can you recommend any Nightlife spots with a good Indian menu?"
+Named Entities: [Nightlife (Amenity), Indian (Cuisine)]
+
+2. "I'm in the mood for some Beef and Broccoli, where is the nearest place I can find it?"
+Named Entities: [nearest (Location), Beef and Broccoli (Dish)]
+
+3. "Is there a restaurant with a great atmosphere and reasonable prices nearby?"
+Named Entities: [great (Rating), reasonable prices (Price)]

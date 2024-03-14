@@ -1,0 +1,8 @@
+1. Text Span: "good WiFi"
+   Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "Breakfast"
+   Label: (C). Wrong Type. The correct entity type is Hours
+
+3. Text Span: "good"
+   Label: (D). The span is not a named entity

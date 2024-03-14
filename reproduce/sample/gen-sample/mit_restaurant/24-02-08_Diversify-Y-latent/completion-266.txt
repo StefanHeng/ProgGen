@@ -1,0 +1,8 @@
+1. Query: "I'd like to make a reservation at The Mimosa Mansion for dinner tonight"
+Named Entities: [The Mimosa Mansion (Restaurant Name), dinner tonight (Hours)]
+
+2. Query: "What are the opening hours of The Kitchen Table?"
+Named Entities: [The Kitchen Table (Restaurant Name), opening hours (Hours)]
+
+3. Query: "I'm craving Spanish food, where can I find a highly rated Spanish restaurant?"
+Named Entities: [Spanish (Cuisine), highly rated (Rating)]

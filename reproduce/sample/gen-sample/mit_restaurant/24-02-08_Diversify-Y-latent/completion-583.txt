@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with outdoor seating and takes reservations?"
+Named Entities: [outdoor seating (Amenity), takes reservations (Reservations)]
+
+Query: "I'm craving some sushi, is there a place nearby that's open late?"
+Named Entities: [sushi (Cuisine), open late (Hours), nearby (Location)]
+
+Query: "Do you know of a fancy Italian restaurant with a prix fixe menu?"
+Named Entities: [fancy (Rating), Italian (Cuisine), prix fixe menu (Price)]

@@ -1,0 +1,4 @@
+{"sentence": "Canadian Prime Minister Justin Trudeau visits Indigenous communities.", "entity_span": "Prime Minister Justin Trudeau", "label": "WRONG_SPAN", "correct_span": "Justin Trudeau"}
+{"sentence": "Newly elected president pledges to address climate change.", "entity_span": "president", "label": "NA"}
+{"sentence": "CEO of Amazon steps down from role.", "entity_span": "CEO of Amazon", "label": "NA"}
+{"sentence": "CEO of Dubai-based company arrested for fraud.", "entity_span": "CEO", "label": "NA"}

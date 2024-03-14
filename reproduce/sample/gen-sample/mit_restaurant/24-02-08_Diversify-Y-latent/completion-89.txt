@@ -1,0 +1,8 @@
+1. "I'm craving some Japanese food for dinner on Saturday, can you recommend a good spot?"
+   Named Entities: [Japanese (Cuisine), Saturday (Hours), good (Rating)]
+   
+2. "Where can I find a restaurant with outdoor seating and a nice view of the city?"
+   Named Entities: [outdoor seating (Amenity), nice view of the city (Amenity)]
+   
+3. "I need a place with a budget-friendly menu and a kids' play area for lunch tomorrow"
+   Named Entities: [budget-friendly (Price), kids' play area (Amenity), tomorrow (Hours)]

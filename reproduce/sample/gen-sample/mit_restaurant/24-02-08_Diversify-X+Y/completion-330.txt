@@ -1,0 +1,8 @@
+1. Query: "Can you suggest a place with late-night dining that serves authentic Italian food?"
+Named Entities: [late-night dining (Amenity), authentic Italian food (Cuisine)]
+
+2. Query: "What are the hours for a steakhouse that offers late-night dining?"
+Named Entities: [steakhouse (Restaurant Name), late-night dining (Amenity)]
+
+3. Query: "I'm looking for a late-night dining option with a diverse menu and reasonable prices."
+Named Entities: [late-night dining (Amenity), diverse menu (Amenity), reasonable prices (Price)]

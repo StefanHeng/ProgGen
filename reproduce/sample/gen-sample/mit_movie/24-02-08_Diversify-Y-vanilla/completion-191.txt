@@ -1,0 +1,8 @@
+Query: "What is the genre of The 40-Year-Old Virgin directed by Richard Linklater?"
+Named Entities: [The 40-Year-Old Virgin (Title), Richard Linklater (Director)]
+
+Query: "Please show me a trailer of the new Richard Linklater movie."
+Named Entities: [new (Year), Richard Linklater (Director)]
+
+Query: "Is The 40-Year-Old Virgin considered a must-see comedy film?"
+Named Entities: [The 40-Year-Old Virgin (Title), must-see (Viewers' Rating)]

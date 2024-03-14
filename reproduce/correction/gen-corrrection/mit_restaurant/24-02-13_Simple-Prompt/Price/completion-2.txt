@@ -1,0 +1,8 @@
+1. Text Span: "budget"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "affordable prices"
+Label: (B). Wrong Boundary. The correct span boundary is "affordable".
+
+3. Text Span: "upscale options"
+Label: (C). Wrong Type. The correct entity type is Amenity.

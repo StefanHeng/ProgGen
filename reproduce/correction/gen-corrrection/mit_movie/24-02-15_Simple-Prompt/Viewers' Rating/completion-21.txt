@@ -1,0 +1,8 @@
+1. Text Span: "9/10 or higher"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "best-rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "viewers' rating"
+Label: (D). The span is not a named entity

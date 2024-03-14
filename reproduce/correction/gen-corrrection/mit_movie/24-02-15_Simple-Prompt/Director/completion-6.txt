@@ -1,0 +1,11 @@
+1. Query: "What is the title of the best film by {{Steven Spielberg}}?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+2. Query: "What are some highly-rated films directed by {{female directors}}?"
+Text Span: "female directors"
+Label: (C). The span is a named entity but the category is not director. Entity Type: other
+
+3. Query: "Was the movie Pulp Fiction directed by {{Quentin Tarantino}}"
+Text Span: "Quentin Tarantino"
+Label: (A). The span is a named entity of type director

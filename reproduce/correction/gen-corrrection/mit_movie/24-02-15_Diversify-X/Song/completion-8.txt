@@ -1,0 +1,8 @@
+1. Text Span: "Michael Jackson"
+Label: (C). The span is a named entity but the category is not song. The correct entity type is Actor.
+
+2. Text Span: "great soundtrack"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "catchy theme song"
+Label: (D). Not a Named Entity.

@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with a late-night dining menu that won't break the bank?"
+   Named Entities: [late-night dining (Amenity), budget-friendly (Price)]
+
+2. "I'm craving some late-night comfort food, where can I find a place with a budget-friendly menu nearby?"
+   Named Entities: [late-night comfort food (Cuisine), budget-friendly (Price), nearby (Location)]
+
+3. "I need to grab a bite to eat after midnight without spending too much, any suggestions?"
+   Named Entities: [after midnight (Hours), budget-friendly (Price)]

@@ -1,0 +1,8 @@
+1. "Can you tell me which movies featured Leonardo DiCaprio and Kate Winslet as co-stars?"
+Named Entities: [Leonardo DiCaprio (Actor), Kate Winslet (Actor)]
+
+2. "Who directed the film 'The Godfather' and what is the viewers' rating for it?"
+Named Entities: [The Godfather (Title), Director]
+
+3. "Do you have any information about the latest movie directed by Christopher Nolan and its plot?"
+Named Entities: [Christopher Nolan (Director), Plot]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant with a high rating"
+Named Entities: [buffet (Amenity), high rating (Rating)]
+
+Query: "what are the hours for the nearest buffet restaurant"
+Named Entities: [nearest (Location), buffet (Amenity), hours (Hours)]
+
+Query: "recommend a buffet restaurant with Italian cuisine"
+Named Entities: [buffet (Amenity), Italian (Cuisine)]

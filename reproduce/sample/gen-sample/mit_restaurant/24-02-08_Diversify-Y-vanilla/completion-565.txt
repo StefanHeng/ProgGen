@@ -1,0 +1,8 @@
+Query: "find me a domestic restaurant nearby"
+Named Entities: [nearby (Location), domestic (Cuisine)]
+
+Query: "show me a popular spot for brunch"
+Named Entities: [popular (Rating), brunch (Amenity)]
+
+Query: "can you recommend a place with outdoor seating and a view of the lake"
+Named Entities: [outdoor seating (Amenity), view of the lake (Amenity)]

@@ -1,0 +1,886 @@
+[
+    {
+        "token": "1",
+        "bytes": [49],
+        "logprob": -0.0057715303,
+        "top_logprobs": []
+    },
+    {
+        "token": ".",
+        "bytes": [46],
+        "logprob": -5.7961847e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " Boeing",
+        "bytes": [32, 66, 111, 101, 105, 110, 103],
+        "logprob": -0.6815662,
+        "top_logprobs": []
+    },
+    {
+        "token": " Space",
+        "bytes": [32, 83, 112, 97, 99, 101],
+        "logprob": -0.00092265767,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -3.9530823e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Launch",
+        "bytes": [32, 76, 97, 117, 110, 99, 104],
+        "logprob": -1.3663626e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " is",
+        "bytes": [32, 105, 115],
+        "logprob": -0.5482571,
+        "top_logprobs": []
+    },
+    {
+        "token": " a",
+        "bytes": [32, 97],
+        "logprob": -0.27366433,
+        "top_logprobs": []
+    },
+    {
+        "token": " division",
+        "bytes": [32, 100, 105, 118, 105, 115, 105, 111, 110],
+        "logprob": -0.17239657,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -0.03237722,
+        "top_logprobs": []
+    },
+    {
+        "token": " Boeing",
+        "bytes": [32, 66, 111, 101, 105, 110, 103],
+        "logprob": -1.0674293,
+        "top_logprobs": []
+    },
+    {
+        "token": " that",
+        "bytes": [32, 116, 104, 97, 116],
+        "logprob": -2.6179981,
+        "top_logprobs": []
+    },
+    {
+        "token": " provides",
+        "bytes": [32, 112, 114, 111, 118, 105, 100, 101, 115],
+        "logprob": -1.2592809,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -1.5552838,
+        "top_logprobs": []
+    },
+    { "token": "g", "bytes": [103], "logprob": -15.254709, "top_logprobs": [] },
+    {
+        "token": "overnment",
+        "bytes": [111, 118, 101, 114, 110, 109, 101, 110, 116],
+        "logprob": -5.5647326,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.33667848,
+        "top_logprobs": []
+    },
+    {
+        "token": " commercial",
+        "bytes": [32, 99, 111, 109, 109, 101, 114, 99, 105, 97, 108],
+        "logprob": -0.01584443,
+        "top_logprobs": []
+    },
+    {
+        "token": " customers",
+        "bytes": [32, 99, 117, 115, 116, 111, 109, 101, 114, 115],
+        "logprob": -0.7331955,
+        "top_logprobs": []
+    },
+    {
+        "token": " with",
+        "bytes": [32, 119, 105, 116, 104],
+        "logprob": -0.17685361,
+        "top_logprobs": []
+    },
+    {
+        "token": " space",
+        "bytes": [32, 115, 112, 97, 99, 101],
+        "logprob": -2.2137697,
+        "top_logprobs": []
+    },
+    {
+        "token": " exploration",
+        "bytes": [32, 101, 120, 112, 108, 111, 114, 97, 116, 105, 111, 110],
+        "logprob": -1.0533904,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.89312506, "top_logprobs": [] },
+    {
+        "token": " scientific",
+        "bytes": [32, 115, 99, 105, 101, 110, 116, 105, 102, 105, 99],
+        "logprob": -3.165817,
+        "top_logprobs": []
+    },
+    {
+        "token": " discovery",
+        "bytes": [32, 100, 105, 115, 99, 111, 118, 101, 114, 121],
+        "logprob": -0.4897735,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.9768934, "top_logprobs": [] },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.032011077,
+        "top_logprobs": []
+    },
+    {
+        "token": " secure",
+        "bytes": [32, 115, 101, 99, 117, 114, 101],
+        "logprob": -3.9440742,
+        "top_logprobs": []
+    },
+    {
+        "token": " communications",
+        "bytes": [
+            32, 99, 111, 109, 109, 117, 110, 105, 99, 97, 116, 105, 111, 110,
+            115
+        ],
+        "logprob": -0.32577074,
+        "top_logprobs": []
+    },
+    {
+        "token": " solutions",
+        "bytes": [32, 115, 111, 108, 117, 116, 105, 111, 110, 115],
+        "logprob": -0.26195517,
+        "top_logprobs": []
+    },
+    {
+        "token": ".\n",
+        "bytes": [46, 10],
+        "logprob": -0.13229257,
+        "top_logprobs": []
+    },
+    {
+        "token": "Named",
+        "bytes": [78, 97, 109, 101, 100],
+        "logprob": -0.0013592824,
+        "top_logprobs": []
+    },
+    {
+        "token": " Entities",
+        "bytes": [32, 69, 110, 116, 105, 116, 105, 101, 115],
+        "logprob": -5.955704e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ":",
+        "bytes": [58],
+        "logprob": -1.640531e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " [",
+        "bytes": [32, 91],
+        "logprob": -7.822647e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "Bo",
+        "bytes": [66, 111],
+        "logprob": -1.6762922e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "eing",
+        "bytes": [101, 105, 110, 103],
+        "logprob": -4.8425554e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " Space",
+        "bytes": [32, 83, 112, 97, 99, 101],
+        "logprob": -0.0027890655,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -1.4021238e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Launch",
+        "bytes": [32, 76, 97, 117, 110, 99, 104],
+        "logprob": -5.145119e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -0.0004570096,
+        "top_logprobs": []
+    },
+    {
+        "token": "organization",
+        "bytes": [111, 114, 103, 97, 110, 105, 122, 97, 116, 105, 111, 110],
+        "logprob": -3.059055e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -0.059012458,
+        "top_logprobs": []
+    },
+    {
+        "token": " Boeing",
+        "bytes": [32, 66, 111, 101, 105, 110, 103],
+        "logprob": -8.244414e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -7.2192626e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "organization",
+        "bytes": [111, 114, 103, 97, 110, 105, 122, 97, 116, 105, 111, 110],
+        "logprob": -3.357064e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ")]\n\n",
+        "bytes": [41, 93, 10, 10],
+        "logprob": -0.06595406,
+        "top_logprobs": []
+    },
+    {
+        "token": "2",
+        "bytes": [50],
+        "logprob": -2.9875326e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ".",
+        "bytes": [46],
+        "logprob": -8.780831e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " The",
+        "bytes": [32, 84, 104, 101],
+        "logprob": -0.18684873,
+        "top_logprobs": []
+    },
+    {
+        "token": " company",
+        "bytes": [32, 99, 111, 109, 112, 97, 110, 121],
+        "logprob": -0.60839564,
+        "top_logprobs": []
+    },
+    {
+        "token": "'s",
+        "bytes": [39, 115],
+        "logprob": -1.132609,
+        "top_logprobs": []
+    },
+    {
+        "token": " products",
+        "bytes": [32, 112, 114, 111, 100, 117, 99, 116, 115],
+        "logprob": -2.1966093,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.29740596,
+        "top_logprobs": []
+    },
+    {
+        "token": " tailored",
+        "bytes": [32, 116, 97, 105, 108, 111, 114, 101, 100],
+        "logprob": -0.045053847,
+        "top_logprobs": []
+    },
+    {
+        "token": " services",
+        "bytes": [32, 115, 101, 114, 118, 105, 99, 101, 115],
+        "logprob": -0.16569978,
+        "top_logprobs": []
+    },
+    {
+        "token": " include",
+        "bytes": [32, 105, 110, 99, 108, 117, 100, 101],
+        "logprob": -0.027113475,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -3.7134092,
+        "top_logprobs": []
+    },
+    {
+        "token": " CST",
+        "bytes": [32, 67, 83, 84],
+        "logprob": -0.8312013,
+        "top_logprobs": []
+    },
+    {
+        "token": "-",
+        "bytes": [45],
+        "logprob": -0.00054719544,
+        "top_logprobs": []
+    },
+    {
+        "token": "100",
+        "bytes": [49, 48, 48],
+        "logprob": -0.00058305735,
+        "top_logprobs": []
+    },
+    {
+        "token": " Star",
+        "bytes": [32, 83, 116, 97, 114],
+        "logprob": -0.008143958,
+        "top_logprobs": []
+    },
+    {
+        "token": "liner",
+        "bytes": [108, 105, 110, 101, 114],
+        "logprob": -0.00044092073,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.6126168, "top_logprobs": [] },
+    {
+        "token": " satellite",
+        "bytes": [32, 115, 97, 116, 101, 108, 108, 105, 116, 101],
+        "logprob": -6.3323984,
+        "top_logprobs": []
+    },
+    {
+        "token": " manufacturing",
+        "bytes": [
+            32, 109, 97, 110, 117, 102, 97, 99, 116, 117, 114, 105, 110, 103
+        ],
+        "logprob": -3.6218135,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.13465421, "top_logprobs": [] },
+    {
+        "token": " Ground",
+        "bytes": [32, 71, 114, 111, 117, 110, 100],
+        "logprob": -5.6984744,
+        "top_logprobs": []
+    },
+    {
+        "token": " Segment",
+        "bytes": [32, 83, 101, 103, 109, 101, 110, 116],
+        "logprob": -4.189577,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -2.0423808, "top_logprobs": [] },
+    {
+        "token": " GEO",
+        "bytes": [32, 71, 69, 79],
+        "logprob": -6.1904917,
+        "top_logprobs": []
+    },
+    {
+        "token": " Satellite",
+        "bytes": [32, 83, 97, 116, 101, 108, 108, 105, 116, 101],
+        "logprob": -3.5189562,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.81284505, "top_logprobs": [] },
+    {
+        "token": " Mission",
+        "bytes": [32, 77, 105, 115, 115, 105, 111, 110],
+        "logprob": -4.3122253,
+        "top_logprobs": []
+    },
+    {
+        "token": " Control",
+        "bytes": [32, 67, 111, 110, 116, 114, 111, 108],
+        "logprob": -2.7776208,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.43720636, "top_logprobs": [] },
+    {
+        "token": " GPS",
+        "bytes": [32, 71, 80, 83],
+        "logprob": -5.4898744,
+        "top_logprobs": []
+    },
+    {
+        "token": " III",
+        "bytes": [32, 73, 73, 73],
+        "logprob": -0.8392623,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.15908591, "top_logprobs": [] },
+    {
+        "token": " a",
+        "bytes": [32, 97],
+        "logprob": -8.052776,
+        "top_logprobs": []
+    },
+    {
+        "token": " reusable",
+        "bytes": [32, 114, 101, 117, 115, 97, 98, 108, 101],
+        "logprob": -5.7247887,
+        "top_logprobs": []
+    },
+    {
+        "token": " crew",
+        "bytes": [32, 99, 114, 101, 119],
+        "logprob": -5.5243006,
+        "top_logprobs": []
+    },
+    {
+        "token": " capsule",
+        "bytes": [32, 99, 97, 112, 115, 117, 108, 101],
+        "logprob": -0.58710754,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.40540585, "top_logprobs": [] },
+    {
+        "token": " advanced",
+        "bytes": [32, 97, 100, 118, 97, 110, 99, 101, 100],
+        "logprob": -4.3133383,
+        "top_logprobs": []
+    },
+    {
+        "token": " satellites",
+        "bytes": [32, 115, 97, 116, 101, 108, 108, 105, 116, 101, 115],
+        "logprob": -5.408581,
+        "top_logprobs": []
+    },
+    { "token": ",", "bytes": [44], "logprob": -0.08336213, "top_logprobs": [] },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.54167163,
+        "top_logprobs": []
+    },
+    {
+        "token": " exploration",
+        "bytes": [32, 101, 120, 112, 108, 111, 114, 97, 116, 105, 111, 110],
+        "logprob": -4.397628,
+        "top_logprobs": []
+    },
+    {
+        "token": ".\n",
+        "bytes": [46, 10],
+        "logprob": -3.0060823,
+        "top_logprobs": []
+    },
+    {
+        "token": "Named",
+        "bytes": [78, 97, 109, 101, 100],
+        "logprob": -1.2352386e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Entities",
+        "bytes": [32, 69, 110, 116, 105, 116, 105, 101, 115],
+        "logprob": -1.6524515e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ":",
+        "bytes": [58],
+        "logprob": -0.00012701898,
+        "top_logprobs": []
+    },
+    {
+        "token": " [",
+        "bytes": [32, 91],
+        "logprob": -0.005028456,
+        "top_logprobs": []
+    },
+    {
+        "token": "C",
+        "bytes": [67],
+        "logprob": -0.015490712,
+        "top_logprobs": []
+    },
+    {
+        "token": "ST",
+        "bytes": [83, 84],
+        "logprob": -3.650519e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "-",
+        "bytes": [45],
+        "logprob": -1.5809293e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "100",
+        "bytes": [49, 48, 48],
+        "logprob": -8.89548e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " Star",
+        "bytes": [32, 83, 116, 97, 114],
+        "logprob": -1.9385403e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "liner",
+        "bytes": [108, 105, 110, 101, 114],
+        "logprob": -4.8828708e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -4.4537377e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "organization",
+        "bytes": [111, 114, 103, 97, 110, 105, 122, 97, 116, 105, 111, 110],
+        "logprob": -1.2425444,
+        "top_logprobs": []
+    },
+    {
+        "token": ")]\n\n",
+        "bytes": [41, 93, 10, 10],
+        "logprob": -2.3477218,
+        "top_logprobs": []
+    },
+    {
+        "token": "3",
+        "bytes": [51],
+        "logprob": -5.7961847e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": ".",
+        "bytes": [46],
+        "logprob": -4.2868523e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " As",
+        "bytes": [32, 65, 115],
+        "logprob": -3.5029337,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -0.35002297,
+        "top_logprobs": []
+    },
+    { "token": " ", "bytes": [32], "logprob": -0.33455512, "top_logprobs": [] },
+    {
+        "token": "202",
+        "bytes": [50, 48, 50],
+        "logprob": -0.5651361,
+        "top_logprobs": []
+    },
+    { "token": "1", "bytes": [49], "logprob": -0.4770084, "top_logprobs": [] },
+    {
+        "token": ",",
+        "bytes": [44],
+        "logprob": -0.004330184,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -0.7823733,
+        "top_logprobs": []
+    },
+    {
+        "token": " CEO",
+        "bytes": [32, 67, 69, 79],
+        "logprob": -5.2211127,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -0.011274403,
+        "top_logprobs": []
+    },
+    {
+        "token": " Boeing",
+        "bytes": [32, 66, 111, 101, 105, 110, 103],
+        "logprob": -0.031792503,
+        "top_logprobs": []
+    },
+    {
+        "token": " Space",
+        "bytes": [32, 83, 112, 97, 99, 101],
+        "logprob": -0.061874684,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.00038837024,
+        "top_logprobs": []
+    },
+    {
+        "token": " Launch",
+        "bytes": [32, 76, 97, 117, 110, 99, 104],
+        "logprob": -0.00013715129,
+        "top_logprobs": []
+    },
+    {
+        "token": " is",
+        "bytes": [32, 105, 115],
+        "logprob": -0.040952846,
+        "top_logprobs": []
+    },
+    {
+        "token": " Jim",
+        "bytes": [32, 74, 105, 109],
+        "logprob": -0.010612559,
+        "top_logprobs": []
+    },
+    {
+        "token": " Ch",
+        "bytes": [32, 67, 104],
+        "logprob": -0.004871162,
+        "top_logprobs": []
+    },
+    {
+        "token": "ilton",
+        "bytes": [105, 108, 116, 111, 110],
+        "logprob": -9.0883464e-7,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -4.5331597,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -0.05681196,
+        "top_logprobs": []
+    },
+    {
+        "token": " division",
+        "bytes": [32, 100, 105, 118, 105, 115, 105, 111, 110],
+        "logprob": -1.2599199,
+        "top_logprobs": []
+    },
+    {
+        "token": " is",
+        "bytes": [32, 105, 115],
+        "logprob": -0.21617883,
+        "top_logprobs": []
+    },
+    {
+        "token": " headquartered",
+        "bytes": [
+            32, 104, 101, 97, 100, 113, 117, 97, 114, 116, 101, 114, 101, 100
+        ],
+        "logprob": -0.040332235,
+        "top_logprobs": []
+    },
+    {
+        "token": " in",
+        "bytes": [32, 105, 110],
+        "logprob": -0.0035611081,
+        "top_logprobs": []
+    },
+    {
+        "token": " Arlington",
+        "bytes": [32, 65, 114, 108, 105, 110, 103, 116, 111, 110],
+        "logprob": -0.53177863,
+        "top_logprobs": []
+    },
+    {
+        "token": ",",
+        "bytes": [44],
+        "logprob": -0.0025684028,
+        "top_logprobs": []
+    },
+    {
+        "token": " Virginia",
+        "bytes": [32, 86, 105, 114, 103, 105, 110, 105, 97],
+        "logprob": -0.005617077,
+        "top_logprobs": []
+    },
+    {
+        "token": ".\n",
+        "bytes": [46, 10],
+        "logprob": -0.16318326,
+        "top_logprobs": []
+    },
+    {
+        "token": "Named",
+        "bytes": [78, 97, 109, 101, 100],
+        "logprob": -1.2829201e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Entities",
+        "bytes": [32, 69, 110, 116, 105, 116, 105, 101, 115],
+        "logprob": -2.939851e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ":",
+        "bytes": [58],
+        "logprob": -8.602025e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " [",
+        "bytes": [32, 91],
+        "logprob": -1.0564331e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "Jim",
+        "bytes": [74, 105, 109],
+        "logprob": -1.3660666,
+        "top_logprobs": []
+    },
+    {
+        "token": " Ch",
+        "bytes": [32, 67, 104],
+        "logprob": -2.9279307e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "ilton",
+        "bytes": [105, 108, 116, 111, 110],
+        "logprob": -2.0100624e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -0.0002258278,
+        "top_logprobs": []
+    },
+    {
+        "token": "person",
+        "bytes": [112, 101, 114, 115, 111, 110],
+        "logprob": -2.3676734e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -0.00044080155,
+        "top_logprobs": []
+    },
+    {
+        "token": " Boeing",
+        "bytes": [32, 66, 111, 101, 105, 110, 103],
+        "logprob": -0.23283872,
+        "top_logprobs": []
+    },
+    {
+        "token": " Space",
+        "bytes": [32, 83, 112, 97, 99, 101],
+        "logprob": -0.0015297402,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -7.278864e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Launch",
+        "bytes": [32, 76, 97, 117, 110, 99, 104],
+        "logprob": -7.016616e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -0.000134052,
+        "top_logprobs": []
+    },
+    {
+        "token": "organization",
+        "bytes": [111, 114, 103, 97, 110, 105, 122, 97, 116, 105, 111, 110],
+        "logprob": -4.3226137e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -0.06252887,
+        "top_logprobs": []
+    },
+    {
+        "token": " Arlington",
+        "bytes": [32, 65, 114, 108, 105, 110, 103, 116, 111, 110],
+        "logprob": -0.004514497,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -1.4113226,
+        "top_logprobs": []
+    },
+    {
+        "token": "location",
+        "bytes": [108, 111, 99, 97, 116, 105, 111, 110],
+        "logprob": -5.550411e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -0.040296398,
+        "top_logprobs": []
+    },
+    {
+        "token": " Virginia",
+        "bytes": [32, 86, 105, 114, 103, 105, 110, 105, 97],
+        "logprob": -0.00012701898,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -0.0005337327,
+        "top_logprobs": []
+    },
+    {
+        "token": "location",
+        "bytes": [108, 111, 99, 97, 116, 105, 111, 110],
+        "logprob": -6.80205e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ")]",
+        "bytes": [41, 93],
+        "logprob": -0.0006430957,
+        "top_logprobs": []
+    }
+]

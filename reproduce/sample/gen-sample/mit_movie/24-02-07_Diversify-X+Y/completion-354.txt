@@ -1,0 +1,8 @@
+1. "Can you recommend any romance movies with high viewers' ratings and positive reviews for someone like me?"
+Named Entities: [romance (Genre), high viewers' ratings (Viewers' Rating), positive reviews (Review)]
+
+2. "I heard there's a new movie directed by Denis Villeneuve coming out soon, can you show me the trailer?"
+Named Entities: [Denis Villeneuve (Director), new movie (Title), trailer (Trailer)]
+
+3. "Are there any promotions or special deals for watching J.J. Abrams' films from 2002?"
+Named Entities: [J.J. Abrams (Director), 2002 (Year), promotions (Promo)]

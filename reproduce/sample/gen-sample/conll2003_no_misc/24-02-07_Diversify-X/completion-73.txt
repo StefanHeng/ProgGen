@@ -1,0 +1,8 @@
+Sentence: "Taylor Swift wins Album of the Year at the Grammy Awards."
+Named Entities: [Taylor Swift (person), Grammy Awards (organization)]
+
+Sentence: "The Rolling Stones announce a new world tour."
+Named Entities: [The Rolling Stones (organization)]
+
+Sentence: "Beyoncé to headline Coachella music festival."
+Named Entities: [Beyoncé (person), Coachella music festival (organization)]

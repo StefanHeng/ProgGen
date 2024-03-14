@@ -1,0 +1,8 @@
+1. "I'm craving a Margherita Pizza, where can I find a café with that dish?"
+Named Entities: [Margherita Pizza (Dish), café (Amenity)]
+
+2. "What café around here serves the best Margherita Pizza?"
+Named Entities: [Margherita Pizza (Dish), café (Amenity), best (Rating)]
+
+3. "I need to grab a quick bite at a café, where can I get a Margherita Pizza before 6 PM?"
+Named Entities: [Margherita Pizza (Dish), café (Amenity), before 6 PM (Hours)]

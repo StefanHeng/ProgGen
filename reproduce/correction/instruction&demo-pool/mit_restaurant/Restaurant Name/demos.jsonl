@@ -1,0 +1,3 @@
+{"sentence": "Can I get a table for two at Ruth's Chris Steak House tonight?", "entity_span": "Ruth's Chris Steak House", "label": "CORRECT"}
+{"sentence": "What's the average cost of a meal at the steakhouse downtown?", "entity_span": "steakhouse", "label": "WRONG_TYPE", "correct_type": "Cuisine"}
+{"sentence": "Which restaurant serves the best brunch in the city?", "entity_span": "restaurant", "label": "NA"}

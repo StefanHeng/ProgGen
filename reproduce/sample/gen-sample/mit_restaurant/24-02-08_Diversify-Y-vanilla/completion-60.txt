@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant that serves authentic Brazilian cuisine like [Texas de Brazil]."
+Named Entities: [Brazilian (Cuisine), Texas de Brazil (Restaurant Name)]
+
+2. "What's the price range at [Texas de Brazil] and how are the ratings?"
+Named Entities: [price range (Price), ratings (Rating), Texas de Brazil (Restaurant Name)]
+
+3. "Can you recommend any restaurants similar to [Texas de Brazil] in terms of ambiance and menu?"
+Named Entities: [ambiance (Amenity), menu (Amenity), Texas de Brazil (Restaurant Name)]

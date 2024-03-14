@@ -1,0 +1,8 @@
+1. "Can you recommend any good movies directed by Lucy Walker?"
+Named Entities: [Lucy Walker (Director)]
+
+2. "What is the viewers' rating for Edward Scissorhands?"
+Named Entities: [Edward Scissorhands (Title), viewers' rating (Viewers' Rating)]
+
+3. "I'm looking for a movie with the song Let's Get It On. Any suggestions?"
+Named Entities: [Let's Get It On (Song)]

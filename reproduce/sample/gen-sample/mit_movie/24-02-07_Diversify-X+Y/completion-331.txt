@@ -1,0 +1,8 @@
+1. "Can you show me the comedy movie listings for this weekend with Jake Gyllenhaal in them?"
+Named Entities: [comedy (Genre), Jake Gyllenhaal (Actor)]
+
+2. "I'm looking for a new comedy film featuring Halle Berry, could you show me the trailer for it?"
+Named Entities: [comedy (Genre), Halle Berry (Actor), trailer (Trailer)]
+
+3. "Do you have any information on a comedy movie directed by Jake Gyllenhaal that has high viewers' ratings?"
+Named Entities: [comedy (Genre), Jake Gyllenhaal (Director), high viewers' ratings (Viewers' Rating)]

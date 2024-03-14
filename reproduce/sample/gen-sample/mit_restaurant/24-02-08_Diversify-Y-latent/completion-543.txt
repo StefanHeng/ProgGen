@@ -1,0 +1,8 @@
+1. "What's the best intersection for Korean cuisine and Vietnamese food around here?"
+Named Entities: [intersection (Location), Korean cuisine (Cuisine), Vietnamese (Cuisine)]
+
+2. "I'm looking for a brunch place with good food and reasonable prices. Any recommendations?"
+Named Entities: [brunch (Amenity), good (Rating), reasonable prices (Price)]
+
+3. "I want to avoid overpriced restaurants. Can you suggest any affordable options with at least a 4-star rating?"
+Named Entities: [overpriced (Price), affordable options (Price), 4-star (Rating)]

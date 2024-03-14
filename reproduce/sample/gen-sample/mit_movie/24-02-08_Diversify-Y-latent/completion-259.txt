@@ -1,0 +1,8 @@
+1. "Please recommend a superhero movie with mind-blowing visuals"
+Named Entities: [Superhero (Genre), mind-blowing visuals (Review)]
+
+2. "Can you show me a trailer of a movie directed by Barry Jenkins in 2016?"
+Named Entities: [Barry Jenkins (Director), 2016 (Year), trailer (Trailer)]
+
+3. "What movie starring Charlize Theron has a four-star rating and is perfectly crafted by Tim Burton?"
+Named Entities: [Charlize Theron (Actor), Four-star rating (Viewers' Rating), Tim Burton (Director), perfectly crafted (Review)]

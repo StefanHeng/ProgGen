@@ -1,0 +1,8 @@
+Query: "Can you recommend a luxurious restaurant in Los Angeles with a high rating"
+Named Entities: [luxurious (Amenity), Los Angeles (Location), high rating (Rating)]
+
+Query: "I'm craving sushi, is there a top-rated sushi place nearby"
+Named Entities: [sushi (Cuisine), top-rated (Rating), nearby (Location)]
+
+Query: "Where can I find a budget-friendly Mexican restaurant in Los Angeles"
+Named Entities: [budget-friendly (Price), Mexican (Cuisine), Los Angeles (Location)]

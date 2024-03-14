@@ -1,0 +1,11 @@
+1. Query: "Do you have a list of the {{highest-grossing}} movies of all time?"
+Text Span: "highest-grossing"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Is there a {{classic}} movie with Humphrey Bogart?"
+Text Span: "classic"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+3. Query: "Which movie has the {{best special effects}} of all time"
+Text Span: "best special effects"
+Label: (A). Correct Entity Annotation.

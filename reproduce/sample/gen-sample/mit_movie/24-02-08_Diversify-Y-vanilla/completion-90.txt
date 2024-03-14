@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for The Wolf of Wall Street"
+Named Entities: [The Wolf of Wall Street (Title), viewers' rating (Viewers' Rating)]
+
+Query: "Can you recommend a high school drama film with Chris Pine"
+Named Entities: [high school drama (Genre), Chris Pine (Actor)]
+
+Query: "Tell me about the wonderful PG-rated movie directed by Lars von Trier"
+Named Entities: [wonderful (Review), PG (MPAA Rating), Lars von Trier (Director)]

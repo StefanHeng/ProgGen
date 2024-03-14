@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a nice outdoor patio?"
+Named Entities: [nice (Amenity), Outdoor patio (Amenity)]
+
+Query: "I'm looking for a place with vegan options and a relaxed atmosphere."
+Named Entities: [vegan (Cuisine), relaxed atmosphere (Amenity)]
+
+Query: "Do you know of any restaurants with live music and a casual vibe?"
+Named Entities: [live music (Amenity), casual vibe (Amenity)]

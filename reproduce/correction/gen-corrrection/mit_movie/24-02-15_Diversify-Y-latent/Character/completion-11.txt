@@ -1,0 +1,8 @@
+1. Text Span: "characters"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "Nebula"
+   Label: (A). The span is a named entity of type character
+
+3. Text Span: "Jon Snow"
+   Label: (A). The span is a named entity of type character

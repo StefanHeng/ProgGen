@@ -1,0 +1,8 @@
+1. "I'm craving a burger, where can I find the best one in town, especially at [Johnny Rockets]?"
+Named Entities: [burger (Dish), best (Rating), Johnny Rockets (Restaurant Name)]
+
+2. "What's a good Mexican restaurant close to here, with affordable prices, like [Johnny Rockets]?"
+Named Entities: [Mexican (Cuisine), affordable prices (Price), Johnny Rockets (Restaurant Name)]
+
+3. "Do you know any restaurants with outdoor seating and a diverse menu, similar to [Johnny Rockets]?"
+Named Entities: [outdoor seating (Amenity), diverse menu (Amenity), Johnny Rockets (Restaurant Name)]

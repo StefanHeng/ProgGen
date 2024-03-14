@@ -1,0 +1,29 @@
+1. Apple launches new iPhone model.
+Named Entities: [Apple (organization)]
+
+2. Tokyo experiences record-breaking heatwave.
+Named Entities: [Tokyo (location)]
+
+3. CEO of Microsoft steps down after 20 years.
+Named Entities: [Microsoft (organization)]
+
+4. Famous singer Taylor Swift announces new album release.
+Named Entities: [Taylor Swift (person)]
+
+5. United Nations passes resolution on climate change.
+Named Entities: [United Nations (organization)]
+
+6. Los Angeles Dodgers win World Series.
+Named Entities: [Los Angeles Dodgers (organization)]
+
+7. President of the United States signs new trade agreement.
+Named Entities: [President of the United States (person)]
+
+8. London sees surge in COVID-19 cases.
+Named Entities: [London (location)]
+
+9. Amazon hires 100,000 new employees.
+Named Entities: [Amazon (organization)]
+
+10. Cristiano Ronaldo signs record-breaking contract with new team.
+Named Entities: [Cristiano Ronaldo (person)]

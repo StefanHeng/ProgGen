@@ -1,0 +1,8 @@
+1. "I heard that some of the best action movies belong to a specific subgenre. Can you tell me what kind of subgenre 'Die Hard' falls under?"
+Named Entities: [Die Hard (Title)]
+
+2. "I'm looking for a movie that has a really unique plot. Can you recommend a film that falls under the science fiction genre?"
+Named Entities: [science fiction (Genre)]
+
+3. "I'm interested in watching a movie with a really intense soundtrack. Do you have any recommendations for films that fall under the thriller genre?"
+Named Entities: [thriller (Genre)]

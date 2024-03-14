@@ -1,0 +1,8 @@
+1. Text Span: "costly accommodations"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "budget-friendly"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "low-cost"
+Label: (A). Correct Entity Annotation.

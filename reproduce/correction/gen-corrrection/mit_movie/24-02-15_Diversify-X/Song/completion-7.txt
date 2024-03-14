@@ -1,0 +1,8 @@
+1. Text Span: "famous song by Queen"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "iconic song"
+Label: (C). Not a Named Entity.
+
+3. Text Span: "memorable soundtrack"
+Label: (C). Wrong Type. The correct entity type is other.

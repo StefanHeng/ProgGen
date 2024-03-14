@@ -1,0 +1,8 @@
+1. Query: "Can you provide the heart-wrenching plot summary for the 1968 film 'The Graduate'?"
+Named Entities: [1968 (Year), heart-wrenching plot (Plot), The Graduate (Title)]
+
+2. Query: "What cult movie with an unrated classification has a captivating plot synopsis?"
+Named Entities: [unrated (MPAA Rating), cult (Genre), captivating plot (Plot)]
+
+3. Query: "I am looking for a formal movie with a heart-wrenching plot; can you suggest any 1968 films that fit this criteria?"
+Named Entities: [1968 (Year), heart-wrenching plot (Plot)]

@@ -1,0 +1,8 @@
+1. "Show me a movie with musically enhanced scenes like in Deadpool."
+Named Entities: [Deadpool (Title), musically enhanced scenes (Plot)]
+
+2. "What is the viewers' rating for the new musical film inspired by the life of Freddie Mercury?"
+Named Entities: [Freddie Mercury (Character), musical (Genre)]
+
+3. "Could you recommend a film from the 1980s directed by Steven Spielberg that has a high viewers' rating?"
+Named Entities: [1980s (Year), Steven Spielberg (Director), high viewers' rating (Viewers' Rating)]

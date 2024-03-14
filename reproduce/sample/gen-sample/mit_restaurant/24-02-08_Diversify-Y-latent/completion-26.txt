@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a rooftop terrace that serves French Toast and is located in the industrial area."
+Named Entities: [rooftop terrace (Amenity), French Toast (Dish), industrial area (Location)]
+
+2. "Where can I find a place with a good Sausage Gravy Biscuits menu and a rating of 4 stars or higher?"
+Named Entities: [Sausage Gravy Biscuits (Dish), good (Rating)]
+
+3. "I need a recommendation for a budget-friendly restaurant in the industrial area with a diverse cuisine selection open before 9 am."
+Named Entities: [industrial area (Location), before 9 am (Hours), diverse cuisine selection (Cuisine), budget-friendly (Price)]

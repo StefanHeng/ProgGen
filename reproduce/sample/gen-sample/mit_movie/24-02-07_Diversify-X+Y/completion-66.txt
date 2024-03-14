@@ -1,0 +1,8 @@
+1. "Hey, has Grace Walker ever won any awards for her acting?"
+   Named Entities: [Grace Walker (Actor), Awards (Review)]
+
+2. "Do you know if the movie with the song 'I Believe I Can Fly' received any nominations?"
+   Named Entities: [I Believe I Can Fly (Song), Nominations (Review)]
+
+3. "Have you seen that family drama with Nada in it? Did it win any awards?"
+   Named Entities: [Family drama (Genre), Nada (Actor), Awards (Review)]

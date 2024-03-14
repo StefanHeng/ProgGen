@@ -1,0 +1,11 @@
+Spoken Movie Query 1: "Wow, I need to find a movie with compelling performances from 2000 on a streaming platform. Are there any movies featuring Han Solo, Donkey, or the song 'Rainbow Connection' available?"
+
+Named Entities: [2000 (Year), Han Solo (Character), Donkey (Character), Rainbow Connection (Song)]
+
+Spoken Movie Query 2: "I'm looking for a movie with a 4-star rating on a streaming platform. How about The Princess Bride? Is it available? And what about Eye of the Tiger, any movies with that song in it?"
+
+Named Entities: [4-star rating (Viewers' Rating), The Princess Bride (Title), Eye of the Tiger (Song)]
+
+Spoken Movie Query 3: "I'm feeling overwhelmed by all the options, so I need a movie that has received a 4.2-star rating on a streaming platform. Can you help me find one?"
+
+Named Entities: [4.2-star rating (Viewers' Rating)]

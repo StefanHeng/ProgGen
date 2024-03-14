@@ -1,0 +1,8 @@
+1. "What time do you close?"
+   Named Entities: [close (Hours)]
+
+2. "Can you recommend a good sushi restaurant nearby?"
+   Named Entities: [good (Rating), sushi (Cuisine), nearby (Location)]
+
+3. "I'm looking for a place with outdoor seating and a view of the lake. Any suggestions?"
+   Named Entities: [outdoor seating (Amenity), view of the lake (Amenity)]

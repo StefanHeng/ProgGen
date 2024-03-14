@@ -1,0 +1,10 @@
+Queries:
+
+1. "What upscale fast food restaurants are open for dinner?"
+Named Entities: [fast food (Cuisine), dinner (Hours), upscale (Price)]
+
+2. "I'm craving some high-end burgers, where's the nearest gourmet fast food place?"
+Named Entities: [high-end (Rating), burgers (Dish), nearest (Location), gourmet (Amenity)]
+
+3. "Which upscale fast food joints have the best late-night menu around here?"
+Named Entities: [upscale (Price), late-night (Hours), best (Rating)]

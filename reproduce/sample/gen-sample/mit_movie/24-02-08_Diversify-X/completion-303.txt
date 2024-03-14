@@ -1,0 +1,8 @@
+1. Query: "What are some good action movies from the 1980s?"
+Named Entities: [action movies (Genre), 1980s (Year)]
+
+2. Query: "Can you recommend a classic western film from the 1960s?"
+Named Entities: [classic western film (Genre), 1960s (Year)]
+
+3. Query: "I'm in the mood for a suspense thriller. Any recommendations?"
+Named Entities: [suspense thriller (Genre)]

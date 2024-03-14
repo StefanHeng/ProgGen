@@ -1,0 +1,8 @@
+1. Text Span: "burger joint"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "food truck"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "large"
+Label: (C). Wrong Type. The correct entity type is other.

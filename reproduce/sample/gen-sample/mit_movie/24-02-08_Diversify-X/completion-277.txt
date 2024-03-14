@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for the movie Inception?"
+Named Entities: [Inception (Title), trailer (Trailer)]
+
+2. Query: "What are some highly-rated movies with strong female leads?"
+Named Entities: [highly-rated (Viewers' Rating), strong female leads (Character)]
+
+3. Query: "Who directed the classic film Casablanca?"
+Named Entities: [Casablanca (Title), classic (Viewers' Rating)]

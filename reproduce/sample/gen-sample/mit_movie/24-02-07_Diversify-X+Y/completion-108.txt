@@ -1,0 +1,8 @@
+1. "Who directed the movie Birdman?"
+Named Entities: [Birdman (Title)]
+
+2. "Can you tell me the main actor in the film by Paul Greengrass?"
+Named Entities: [Paul Greengrass (Director)]
+
+3. "What is the viewers' rating for Birdman?"
+Named Entities: [Birdman (Title), viewers' rating (Viewers' Rating)]

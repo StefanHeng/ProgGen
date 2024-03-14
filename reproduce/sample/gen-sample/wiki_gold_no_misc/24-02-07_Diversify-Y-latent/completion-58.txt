@@ -1,0 +1,8 @@
+Sentence: "The company headquarters, located in New York City, oversees operations worldwide."
+Named Entities: [New York City (location)]
+
+Sentence: "She joined the organization in 2005 and quickly rose through the ranks to become the CEO."
+Named Entities: []
+
+Sentence: "The band's lead singer, John Smith, announced his departure from the group during a press conference."
+Named Entities: [John Smith (person)]

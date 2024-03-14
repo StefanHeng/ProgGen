@@ -1,0 +1,8 @@
+Query: "I'm craving a pho for breakfast. Any Vietnamese restaurants open early in the morning?"
+Named Entities: [pho (Dish), Vietnamese (Cuisine), early in the morning (Hours)]
+
+Query: "Do you know any American diners that serve breakfast before 8 am?"
+Named Entities: [American (Cuisine), breakfast (Amenity), before 8 am (Hours)]
+
+Query: "I need a quick breakfast spot, any recommendations for Vietnamese restaurants nearby?"
+Named Entities: [breakfast (Amenity), Vietnamese (Cuisine), nearby (Location)]

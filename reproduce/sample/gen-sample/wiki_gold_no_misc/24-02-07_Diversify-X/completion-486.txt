@@ -1,0 +1,8 @@
+Sentence: "The company expanded its operations to Europe, opening offices in London and Paris."
+Named Entities: [London (location), Paris (location)]
+
+Sentence: "The CEO of the company, John Smith, was named as one of the top 100 business leaders in the world by Forbes Magazine."
+Named Entities: [John Smith (person), Forbes Magazine (organization)]
+
+Sentence: "The business conglomerate was involved in a major merger with a leading technology company, resulting in a significant increase in market share."
+Named Entities: []

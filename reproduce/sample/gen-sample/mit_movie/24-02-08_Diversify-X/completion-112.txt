@@ -1,0 +1,8 @@
+1. Query: "I want to know about the making of the movie Inception"
+Named Entities: [Inception (Title)]
+
+2. Query: "Show me a documentary about the filming process of The Dark Knight"
+Named Entities: [The Dark Knight (Title)]
+
+3. Query: "What insider details can you tell me about the production of The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title)]

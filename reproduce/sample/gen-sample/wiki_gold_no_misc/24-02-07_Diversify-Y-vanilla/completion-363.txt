@@ -1,0 +1,8 @@
+1. Swift reported critically on the project.
+Named Entities: [Swift (person)]
+
+2. The university was founded in 1870 and offers over 100 undergraduate and graduate programs.
+Named Entities: []
+
+3. The company has headquarters in New York City and London.
+Named Entities: [New York City (location), London (location)]

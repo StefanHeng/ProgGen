@@ -1,0 +1,8 @@
+Query: "Which fantasy movie directed by Ron Howard has won the most awards and nominations?"
+Named Entities: [fantasy (Genre), Ron Howard (Director), Awards and nominations (Viewers' Rating)]
+
+Query: "Can you tell me about the festival winner that was directed by Ron Howard?"
+Named Entities: [festival winner (Viewers' Rating), Ron Howard (Director)]
+
+Query: "Is there a movie that was both a Critics Choice Award nominee and directed by Ron Howard?"
+Named Entities: [Critics Choice Award nominee (Viewers' Rating), Ron Howard (Director)]

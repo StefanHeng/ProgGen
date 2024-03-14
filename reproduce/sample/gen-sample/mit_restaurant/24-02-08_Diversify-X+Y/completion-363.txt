@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a brunch spot with mid-range prices?"
+Named Entities: [brunch (Amenity), mid-range prices (Price)]
+
+2. Query: "I'm looking for a restaurant that serves brunch around here."
+Named Entities: [brunch (Amenity)]
+
+3. Query: "Where can I find a mid-range priced restaurant for brunch?"
+Named Entities: [mid-range priced restaurant (Price), brunch (Amenity)]

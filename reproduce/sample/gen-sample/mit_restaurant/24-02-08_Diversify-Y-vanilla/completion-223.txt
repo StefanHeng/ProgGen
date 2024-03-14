@@ -1,0 +1,8 @@
+Query: "Can you recommend a well-received Italian restaurant with outdoor seating?"
+Named Entities: [well-received (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm craving some authentic sushi. Where can I find a highly-rated sushi bar?"
+Named Entities: [authentic (Rating), sushi (Cuisine), sushi bar (Restaurant Name), highly-rated (Rating)]
+
+Query: "I need to grab a quick bite without breaking the bank. Any recommendations for affordable fast food options around here?"
+Named Entities: [quick bite (Amenity), affordable (Price), fast food (Cuisine), around here (Location)]

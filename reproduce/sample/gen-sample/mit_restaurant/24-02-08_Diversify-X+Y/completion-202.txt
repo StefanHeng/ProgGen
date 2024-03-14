@@ -1,0 +1,8 @@
+Query: "I'm looking for a brunch spot with a pet-friendly patio"
+Named Entities: [brunch (Amenity), pet-friendly patio (Amenity)]
+
+Query: "which restaurant offers highchairs for infants and serves brunch"
+Named Entities: [highchairs for infants (Amenity), brunch (Amenity)]
+
+Query: "can you recommend a brunch place that allows pets on their patio"
+Named Entities: [brunch (Amenity), pet-friendly patio (Amenity)]

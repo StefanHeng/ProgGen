@@ -1,0 +1,11 @@
+1. Sentence: "The John F. Kennedy Presidential Library and Museum is the presidential library and museum of John Fitzgerald Kennedy, the 35th President of the {{United States}} (1961–1963)."
+Text Span: "United States"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The city of Paris is renowned for its museums, including the {{Louvre}} and the Musée d'Orsay."
+Text Span: "Louvre"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.
+
+3. Sentence: "The headquarters of Microsoft Azure is located in Redmond, {{Washington}}, along with the main Microsoft campus."
+Text Span: "Washington"
+Label: (A). The span is a named entity of type location

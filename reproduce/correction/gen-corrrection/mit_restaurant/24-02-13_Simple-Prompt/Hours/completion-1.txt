@@ -1,0 +1,8 @@
+1. Text Span: "late-night eats"
+Label: (C). The span is a named entity but the category is not hours. Category: Cuisine
+
+2. Text Span: "7 o'clock"
+Label: (A). The span is a named entity of type hours
+
+3. Text Span: "reservation for 7:00 pm"
+Label: (B). The span contains a named hours entity but the span boundary is not precise. The correct span boundary is "7:00 pm".

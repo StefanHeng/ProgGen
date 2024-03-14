@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a cohesive cast from the years 2002-2005?"
+   Named Entities: [cohesive cast (Character), 2002-2005 (Year)]
+
+2. "What James Bond film was released in 1962?"
+   Named Entities: [James Bond (Character), 1962 (Year)]
+
+3. "Show me a movie directed by Oliver Stone that has a high viewers' rating"
+   Named Entities: [Oliver Stone (Director), high viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Text Span: "Mature Audiences"
+   Label: (C). The span is a named entity but the category is not mpaa rating. The correct entity type is other.
+
+2. Text Span: "G"
+   Label: (A). The span is a named entity of type mpaa rating.
+
+3. Text Span: "Not Rated"
+   Label: (A). The span is a named entity of type mpaa rating.

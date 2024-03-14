@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an enchanting movie with Clint Eastwood as the director"
+   Named Entities: [enchanting (Viewers' Rating), Clint Eastwood (Director)]
+
+2. Query: "What movie features the song 'Like a Rolling Stone'"
+   Named Entities: ['Like a Rolling Stone' (Song)]
+
+3. Query: "Can you provide me with U-rated films from 2010"
+   Named Entities: [U (MPAA Rating), 2010 (Year)]

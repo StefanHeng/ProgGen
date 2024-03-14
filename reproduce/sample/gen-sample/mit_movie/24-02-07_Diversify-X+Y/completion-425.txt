@@ -1,0 +1,8 @@
+1. Query: "Can you play the promo for the latest movie with a plot involving amnesia?"
+Named Entities: [promo (Trailer), amnesia (Plot)]
+
+2. Query: "I'm looking for a movie set in a dystopian future, can you recommend a good teaser for me?"
+Named Entities: [dystopian future (Plot), teaser (Trailer)]
+
+3. Query: "Do you have any trailers for movies featuring amnesia that are popular among seniors?"
+Named Entities: [amnesia (Plot), trailers (Trailer), seniors (Viewers' Rating)]

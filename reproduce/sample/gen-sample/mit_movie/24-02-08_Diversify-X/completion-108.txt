@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the most awards this year?"
+   Named Entities: [most awards (Awards), this year (Year)]
+
+2. "I'm looking for a movie with the most nominations for prestigious awards"
+   Named Entities: [most nominations (Awards), prestigious awards (Awards)]
+
+3. "Show me a film with an actor or actress who has won multiple Academy Awards"
+   Named Entities: [multiple Academy Awards (Awards), actor or actress (Actor)]

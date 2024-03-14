@@ -1,0 +1,8 @@
+1. Text Span: "U.S."
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "The Rhine River"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Ishiyama Hongan-ji"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Ishiyama Hongan-ji temple"

@@ -1,0 +1,8 @@
+1. "What is the price range at The Cheesecake Factory?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), price range (Price)]
+
+2. "I'm craving some steak, can you recommend a dish at Texas Roadhouse?"
+Named Entities: [steak (Dish), Texas Roadhouse (Restaurant Name)]
+
+3. "Where is the nearest location of The Cheesecake Factory?"
+Named Entities: [nearest location (Location), The Cheesecake Factory (Restaurant Name)]

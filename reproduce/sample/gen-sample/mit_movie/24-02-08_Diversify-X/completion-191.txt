@@ -1,0 +1,8 @@
+1. Query: "What movie from the 90s has the best soundtrack of all time?"
+   Named Entities: [90s (Year), best soundtrack of all time (Review)]
+
+2. Query: "Can you recommend a movie with an iconic song from the 80s?"
+   Named Entities: [iconic song (Song), 80s (Year)]
+
+3. Query: "Do you know any recent movies with a score by a female composer?"
+   Named Entities: [recent movies (Year), female composer (Director)]

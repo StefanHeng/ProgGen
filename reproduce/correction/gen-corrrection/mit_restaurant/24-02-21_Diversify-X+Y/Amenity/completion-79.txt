@@ -1,0 +1,8 @@
+1. Text Span: "dinner"
+   Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Text Span: "food truck"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "formal"
+   Label: (A). Correct Entity Annotation.

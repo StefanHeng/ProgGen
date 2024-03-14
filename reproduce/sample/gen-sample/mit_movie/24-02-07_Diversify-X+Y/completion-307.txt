@@ -1,0 +1,10 @@
+Example Spoken Queries:
+
+1. "Can you recommend any brilliant films directed by Ava DuVernay that have notable achievements in awards?"
+Named Entities: [Ava DuVernay (Director), brilliant (Viewers' Rating), notable achievements in awards (Review)]
+
+2. "What are some TV-MA movies that are deserving of awards and involve a con artist scheme?"
+Named Entities: [TV-MA (MPAA Rating), deserving of awards (Review), con artist scheme (Plot)]
+
+3. "Show me a movie with music composed by Andrew Lloyd Webber that has received awards and nominations."
+Named Entities: [Andrew Lloyd Webber (Composer), awards and nominations (Review)]

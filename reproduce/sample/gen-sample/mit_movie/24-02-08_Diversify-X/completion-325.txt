@@ -1,0 +1,8 @@
+1. "Hey, who's the director of the new action movie starring Tom Hardy?"
+   Named Entities: [action movie (Genre), Tom Hardy (Actor)]
+
+2. "Show me a movie with Keanu Reeves and Sandra Bullock together. It has to be a rom-com or a drama."
+   Named Entities: [Keanu Reeves (Actor), Sandra Bullock (Actor), rom-com (Genre), drama (Genre)]
+
+3. "What's that movie where Leonardo DiCaprio plays a con artist in the 90s?"
+   Named Entities: [Leonardo DiCaprio (Actor), con artist (Character), 90s (Year)]

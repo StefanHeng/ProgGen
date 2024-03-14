@@ -1,0 +1,8 @@
+1. "Can you recommend a Lebanese restaurant in this borough with stellar ratings?"
+Named Entities: [Lebanese (Cuisine), Borough (Location), Stellar (Rating)]
+
+2. "What are the hours for Souplantation on Saturday?"
+Named Entities: [Souplantation (Restaurant Name), Saturday (Hours)]
+
+3. "Is there a place nearby where I can get a good meal for a reasonable price?"
+Named Entities: [good (Rating), reasonable price (Price)]

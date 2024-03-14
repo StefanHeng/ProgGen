@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a superhero movie that came out in 1984?"
+Named Entities: [superhero (Genre), 1984 (Year)]
+
+2. Query: "Show me a film snippet from The Matrix directed by the Wachowskis"
+Named Entities: [The Matrix (Title), film snippet (Trailer), Wachowskis (Director)]
+
+3. Query: "What inspiring movie did Paul Greengrass direct?"
+Named Entities: [inspiring (Viewers' Rating), Paul Greengrass (Director)]

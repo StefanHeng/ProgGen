@@ -1,0 +1,8 @@
+1. Text Span: "viewers' rating"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "mesmerizing"
+   Label: (A). Named Entity of type Viewers' Rating
+
+3. Text Span: "stunning"
+   Label: (D). Not a Named Entity

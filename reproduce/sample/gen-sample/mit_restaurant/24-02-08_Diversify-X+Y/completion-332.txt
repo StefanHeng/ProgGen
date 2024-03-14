@@ -1,0 +1,8 @@
+1. "I'm in the mood for some fast food burgers, where can I find a food truck around here?"
+Named Entities: [burgers (Dish), food truck (Amenity), fast food (Cuisine)]
+
+2. "What's the best food truck in the area for fast food?"
+Named Entities: [best (Rating), food truck (Amenity), fast food (Cuisine)]
+
+3. "I need to grab a quick bite from a food truck serving burgers, any recommendations?"
+Named Entities: [food truck (Amenity), burgers (Dish)]

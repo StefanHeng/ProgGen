@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with high praise and a kid-friendly menu?"
+Named Entities: [High praise (Rating), Kid-friendly (Amenity)]
+
+2. "I'm craving some Chinese food, can you recommend a place like The Golden Dragon nearby?"
+Named Entities: [The Golden Dragon (Restaurant Name), Chinese (Cuisine)]
+
+3. "Do you know of any restaurants with a good happy hour special and a location with outdoor seating?"
+Named Entities: [good (Rating), happy hour (Amenity), outdoor seating (Amenity)]

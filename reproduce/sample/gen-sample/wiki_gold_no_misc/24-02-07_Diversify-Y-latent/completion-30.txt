@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The Beatles' farewell concert was held on the rooftop of Apple Corps headquarters in London."
+Named Entities: [The Beatles (organization), Apple Corps (organization), London (location)]
+
+Sentence: "Dr. Jane Smith, a renowned scientist, established the Environmental Research Institute in New York City."
+Named Entities: [Jane Smith (person), Environmental Research Institute (organization), New York City (location)]

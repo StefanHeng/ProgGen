@@ -1,0 +1,23 @@
+{"sentence": "Can I find tickets for the new James Bond movie?", "span": "new James Bond movie", "entity_type": "Title"}
+{"sentence": "What is the plot of the newest movie starring Owen Wilson?", "span": "newest movie", "entity_type": "Title"}
+{"sentence": "Please show me a movie with a high viewers' rating.", "span": "high", "entity_type": "Viewers' Rating"}
+{"sentence": "What's the rating for the latest Marvel movie?", "span": "rating", "entity_type": "Viewers' Rating"}
+{"sentence": "When was \"The Godfather\" released?", "span": "released", "entity_type": "Year"}
+{"sentence": "Can you show me the trailer for the latest Harry Potter film?", "span": "latest", "entity_type": "Year"}
+{"sentence": "Are there any good action movies playing today?", "span": "good action movies", "entity_type": "Genre"}
+{"sentence": "What movie features a Dance competition and compelling plot twists", "span": "Dance competition", "entity_type": "Genre"}
+{"sentence": "Who directed the highest-rated horror movie of the year?", "span": "directed", "entity_type": "Director"}
+{"sentence": "I'm open to watching a movie directed by a female filmmaker that received critical acclaim. Do you have any recommendations?", "span": "female filmmaker", "entity_type": "Director"}
+{"sentence": "Can I see a list of theaters showing the new Christopher Nolan film?", "span": "new Christopher Nolan film", "entity_type": "Director"}
+{"sentence": "I want to see a trailer for The Wolf of Wall Street, rated R", "span": "rated R", "entity_type": "MPAA Rating"}
+{"sentence": "Is John McClane in any parental guidance films that are worth watching?", "span": "parental guidance", "entity_type": "MPAA Rating"}
+{"sentence": "Which director has released a new film with a thrilling plot that I can get a sneak peek of?", "span": "thrilling plot", "entity_type": "Plot"}
+{"sentence": "could you tell me the plot of the latest marvel film?", "span": "plot", "entity_type": "Plot"}
+{"sentence": "Who are the main actors in the latest sci-fi movie directed by Christopher Nolan?", "span": "main actors", "entity_type": "Actor"}
+{"sentence": "Can you play a Movie clip from Inception starring Marion Cotillard?", "span": "Movie clip", "entity_type": "Trailer"}
+{"sentence": "Can you recommend a movie with spectacular music from 1971?", "span": "spectacular music", "entity_type": "Song"}
+{"sentence": "Show me a movie from 1999 with a soundtrack that includes dance music.", "span": "soundtrack", "entity_type": "Song"}
+{"sentence": "I want to watch a movie with a song by Adele. Show me the options.", "span": "Adele", "entity_type": "Song"}
+{"sentence": "What movie with a mind-bending plot has the best viewers' rating?", "span": "best viewers' rating", "entity_type": "Review"}
+{"sentence": "I'm looking for a superb movie directed by Morpheus. Can you help me find one?", "span": "superb", "entity_type": "Review"}
+{"sentence": "Show me a movie with a strong female lead character.", "span": "strong female lead", "entity_type": "Character"}

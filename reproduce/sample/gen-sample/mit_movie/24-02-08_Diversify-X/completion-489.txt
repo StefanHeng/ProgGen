@@ -1,0 +1,8 @@
+Query: "What movie has the best trailer of all time?"
+Named Entities: [best (Review), trailer (Trailer)]
+
+Query: "Can you recommend any classic movies with a catchy song in the teaser?"
+Named Entities: [classic (Genre), catchy (Review), song (Song), teaser (Trailer)]
+
+Query: "Which director is known for creating amazing movie teasers?"
+Named Entities: [amazing (Review), teasers (Trailer)]

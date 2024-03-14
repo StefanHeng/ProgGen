@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with an art gallery nearby?"
+Named Entities: [fine dining (Amenity), art gallery (Amenity), nearby (Location)]
+
+Query: "I'm looking for a fancy restaurant with an art gallery that serves French cuisine"
+Named Entities: [fancy (Rating), art gallery (Amenity), French (Cuisine)]
+
+Query: "What are the top-rated fine dining restaurants with an art gallery in the downtown area?"
+Named Entities: [top-rated (Rating), fine dining (Amenity), art gallery (Amenity), downtown area (Location)]

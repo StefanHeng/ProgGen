@@ -1,0 +1,11 @@
+1. Sentence: "As of 2021, the CEO of Boeing Space and Launch is Jim Chilton and the division is headquartered in {{Arlington}}, Virginia."
+Text Span: "Arlington"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The World Health Organization has declared the {{COVID-19}} pandemic a global health emergency, leading to widespread public health measures and restrictions across various countries."
+Text Span: "COVID-19"
+Label: (D). The span is not a named entity
+
+3. Sentence: "The company headquarters, located in {{Seattle}}, Washington, is known for its innovative work culture."
+Text Span: "Seattle"
+Label: (A). The span is a named entity of type location

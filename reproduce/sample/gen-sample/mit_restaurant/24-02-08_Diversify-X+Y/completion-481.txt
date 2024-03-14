@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some good breakfast, can you recommend any cafes near Bluestone Lane?"
+Named Entities: [breakfast (Cuisine), cafes (Amenity), Bluestone Lane (Restaurant Name)]
+
+Query: "I'm looking for a café with outdoor seating around Bluestone Lane, what's available?"
+Named Entities: [café (Amenity), outdoor seating (Amenity), Bluestone Lane (Restaurant Name)]
+
+Query: "I need a caffeine fix, what are the best coffee options near Bluestone Lane?"
+Named Entities: [caffeine fix (Amenity), coffee (Cuisine), Bluestone Lane (Restaurant Name)]

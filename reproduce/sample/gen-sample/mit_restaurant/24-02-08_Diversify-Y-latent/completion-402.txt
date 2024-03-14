@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with outstanding vegetarian options?"
+Named Entities: [Outstanding (Rating), Vegetarian options (Amenity)]
+
+2. Query: "Which restaurants nearby offer vegetarian dishes at a reasonable price?"
+Named Entities: [Vegetarian dishes (Cuisine), reasonable price (Price), nearby (Location)]
+
+3. Query: "I'm craving some delicious vegetarian food, can you suggest a restaurant with high ratings?"
+Named Entities: [Vegetarian food (Cuisine), high ratings (Rating)]

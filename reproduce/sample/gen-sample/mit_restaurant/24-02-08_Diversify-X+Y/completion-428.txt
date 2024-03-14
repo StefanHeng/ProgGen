@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some gyros, where can I find a fine dining food truck that serves French cuisine?"
+Named Entities: [gyros (Dish), fine dining (Amenity), French (Cuisine)]
+
+Query: "Which food truck offers fine dining ambience and serves delicious French dishes like gyros?"
+Named Entities: [fine dining (Amenity), French (Cuisine), gyros (Dish)]
+
+Query: "I'm looking for a food truck with a fine dining atmosphere that specializes in French cuisine, especially gyros. Any recommendations?"
+Named Entities: [fine dining (Amenity), French (Cuisine), gyros (Dish)]

@@ -1,0 +1,8 @@
+1. Query: "What is the official preview for the new Wes Craven horror movie about a ghost haunting in a small town?"
+   Named Entities: [Wes Craven (Director), ghost haunting (Plot), Official preview (Trailer)]
+
+2. Query: "Are there any coming-of-age movies with the song 'Lucy in the Sky with Diamonds'?"
+   Named Entities: [Lucy in the Sky with Diamonds (Song), Coming-of-age (Genre)]
+
+3. Query: "Is John McClane in any parental guidance films that are worth watching?"
+   Named Entities: [John McClane (Character), parental guidance (MPAA Rating), worth watching (Viewers' Rating)]

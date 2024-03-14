@@ -1,0 +1,8 @@
+Query: "show me the top-rated Lebanese restaurants in the area"
+Named Entities: [Lebanese (Cuisine)]
+
+Query: "what are the hours for the Lebanese restaurant downtown"
+Named Entities: [Lebanese (Cuisine), downtown (Location)]
+
+Query: "recommend a Lebanese restaurant with outdoor seating and affordable prices"
+Named Entities: [Lebanese (Cuisine), outdoor seating (Amenity), affordable prices (Price)]

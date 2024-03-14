@@ -1,0 +1,8 @@
+1. Text Span: "variety of seafood dishes"
+Label: (B). The span contains a named dish entity but the span boundary is not precise. The correct span boundary is "seafood dishes".
+
+2. Text Span: "seafood dishes"
+Label: (A). The span is a named entity of type dish
+
+3. Text Span: "seafood"
+Label: (A). The span is a named entity of type dish

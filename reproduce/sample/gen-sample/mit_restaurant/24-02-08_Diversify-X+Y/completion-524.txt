@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a budget-friendly price range for a special occasion?"
+Named Entities: [fine dining (Amenity), budget-friendly (Price)]
+
+2. "Where can I find a budget-friendly fine dining restaurant that serves organic dishes?"
+Named Entities: [budget-friendly (Price), fine dining (Amenity), organic (Cuisine)]
+
+3. "I'm looking for a fine dining restaurant with a budget-friendly price range and a cozy atmosphere, any recommendations?"
+Named Entities: [fine dining (Amenity), budget-friendly (Price)]

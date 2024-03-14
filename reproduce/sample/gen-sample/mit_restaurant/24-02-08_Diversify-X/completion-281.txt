@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with vegan options and takeout?"
+Named Entities: [fine dining (Amenity), vegan (Cuisine), takeout (Amenity)]
+
+2. "What are the top-rated fine dining restaurants in the city that offer takeout?"
+Named Entities: [top-rated (Rating), fine dining (Amenity), takeout (Amenity), city (Location)]
+
+3. "Find me a high-end restaurant with seafood dishes available for takeout"
+Named Entities: [high-end (Price), seafood (Cuisine), takeout (Amenity)]

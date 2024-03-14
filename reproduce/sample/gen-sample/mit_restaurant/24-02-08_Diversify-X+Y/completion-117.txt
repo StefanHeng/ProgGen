@@ -1,0 +1,8 @@
+Query: "can you recommend a place with bar service for late-night dining"
+Named Entities: [Bar service (Amenity), late-night dining (Amenity)]
+
+Query: "where can I find a restaurant with a late-night dining menu and bar service"
+Named Entities: [late-night dining (Amenity), bar service (Amenity)]
+
+Query: "i'm looking for a restaurant that offers late-night dining as well as bar service"
+Named Entities: [late-night dining (Amenity), bar service (Amenity)]

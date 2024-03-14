@@ -1,0 +1,8 @@
+Query: "I'm looking for a Zagat Rated restaurant for late-night dining"
+Named Entities: [Zagat Rated (Rating), late-night dining (Amenity)]
+
+Query: "Where can I find Bangladeshi cuisine?"
+Named Entities: [Bangladeshi (Cuisine)]
+
+Query: "I want to order from Papa Joe's Pizza, but I'm looking for exceptional value"
+Named Entities: [Papa Joe's Pizza (Restaurant Name), exceptional value (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "reasonable price"
+   Label: (A). The span is a named entity of type price
+
+2. Text Span: "Value for money food options"
+   Label: (C). The span is not a named entity. The correct entity type is Amenity.
+
+3. Text Span: "affordable prices"
+   Label: (A). The span is a named entity of type price

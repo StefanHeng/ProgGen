@@ -1,0 +1,8 @@
+1. Text Span: "downtown"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "downtown bank".
+
+2. Text Span: "Hurricane Maria"
+Label: (A).
+
+3. Text Span: "Florida"
+Label: (A).

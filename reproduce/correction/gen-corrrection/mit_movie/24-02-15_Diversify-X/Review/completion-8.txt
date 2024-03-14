@@ -1,0 +1,8 @@
+1. Text Span: "good as people say"
+Label: (A). The span is a named entity of type Review
+
+2. Text Span: "great special effects"
+Label: (A). The span is a named entity of type Review
+
+3. Text Span: "cult following"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Genre.

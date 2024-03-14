@@ -1,0 +1,29 @@
+1. New study shows link between social media use and mental health issues.
+Named Entities: [social media (organization)]
+
+2. President Biden announces new infrastructure plan.
+Named Entities: [Biden (person)]
+
+3. Wildfires continue to devastate parts of California.
+Named Entities: [California (location)]
+
+4. Pfizer announces plans for booster shots in response to new COVID variants.
+Named Entities: [Pfizer (organization)]
+
+5. Serena Williams withdraws from Wimbledon due to injury.
+Named Entities: [Serena Williams (person), Wimbledon (location)]
+
+6. United Nations report shows increase in global poverty rates.
+Named Entities: [United Nations (organization)]
+
+7. Tech giant Apple introduces new line of products.
+Named Entities: [Apple (organization)]
+
+8. Prime Minister Trudeau visits Indigenous community in northern Canada.
+Named Entities: [Trudeau (person), Canada (location), Indigenous (organization)]
+
+9. SpaceX successfully launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+10. Record-breaking heatwave hits Western Europe.
+Named Entities: [Western Europe (location)]

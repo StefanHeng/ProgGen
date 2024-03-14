@@ -1,0 +1,11 @@
+1. Query: "Who are the main actors in the movie {{Inception}}"
+Text Span: "Inception"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: "What is the theme song of the {{Harry Potter}} movie series?"
+Text Span: "Harry Potter"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: "who directed {{the godfather part ii}}"
+Text Span: "the godfather part ii"
+Label: (A). The span is a named entity of type movie title

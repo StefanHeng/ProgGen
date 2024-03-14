@@ -1,0 +1,8 @@
+1. "What is the price range at Chez Panisse?"
+Named Entities: [Chez Panisse (Restaurant Name), price range (Price)]
+
+2. "Do you know any Italian restaurants with outdoor seating nearby?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), nearby (Location)]
+
+3. "Find me a vegan-friendly restaurant with a high rating"
+Named Entities: [vegan-friendly (Cuisine), high rating (Rating)]

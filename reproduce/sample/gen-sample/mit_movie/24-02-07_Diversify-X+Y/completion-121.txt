@@ -1,0 +1,8 @@
+1. "Hey, do you know which movie has an awesome soundtrack with evocative sound design?"
+Named Entities: [awesome soundtrack (Song), evocative sound design (Plot)]
+
+2. "I heard O Brother, Where Art Thou? has some great music. Can you tell me more about it?"
+Named Entities: [O Brother, Where Art Thou? (Title), great music (Review)]
+
+3. "Are there any PG-rated movies with a really cool soundtrack that you'd recommend?"
+Named Entities: [PG-rated (MPAA Rating), cool soundtrack (Song)]

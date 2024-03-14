@@ -1,0 +1,8 @@
+1. Text Span: "Hannah Smith"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Dr. Margaret Chan"
+Label: (B). Wrong Boundary. The correct span boundary is "Margaret Chan".
+
+3. Text Span: "Prometheus"
+Label: (C). Wrong Type. The correct entity type is other.

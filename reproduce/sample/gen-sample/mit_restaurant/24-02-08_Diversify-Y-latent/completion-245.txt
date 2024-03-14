@@ -1,0 +1,8 @@
+Query: "Can you recommend a nearby waffle house with a good brunch menu"
+Named Entities: [nearby (Location), waffle house (Restaurant Name), good (Rating), brunch (Amenity)]
+
+Query: "Where can I find a restaurant with outdoor seating for brunch and mimosas"
+Named Entities: [outdoor seating (Amenity), brunch (Amenity), mimosas (Dish)]
+
+Query: "I'm craving Belgian waffles, do you know any place open late with them"
+Named Entities: [Belgian waffles (Dish), open late (Hours)]

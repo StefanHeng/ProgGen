@@ -1,0 +1,8 @@
+1. "What genre is the movie Lawrence of Arabia"
+Named Entities: [Lawrence of Arabia (Title)]
+
+2. "Is Jack Dawson in any romantic films rated TV-G"
+Named Entities: [Jack Dawson (Character), romantic (Genre), TV-G (MPAA Rating)]
+
+3. "Did Ridley Scott direct any science fiction movies in the 2000s"
+Named Entities: [Ridley Scott (Director), science fiction (Genre), 2000s (Year)]

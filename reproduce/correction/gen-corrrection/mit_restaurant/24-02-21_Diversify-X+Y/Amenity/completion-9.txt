@@ -1,0 +1,11 @@
+1. Query: "can you recommend a buffet restaurant with a dim sum selection in a {{cozy atmosphere}}?"
+Text Span: "cozy atmosphere"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "What are some restaurants with {{tasting menus}} that serve brunch in this area"
+Text Span: "tasting menus"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "Where can I find a {{food truck rally}} serving fast food"
+Text Span: "food truck rally"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "food truck rally"

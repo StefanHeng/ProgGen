@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a memorable music soundtrack?"
+Named Entities: [memorable music (Song)]
+
+2. "I'm interested in a film with a musical montage. Can you suggest one related to Spider-Man?"
+Named Entities: [musical montage (Plot), Spider-Man (Title)]
+
+3. "I heard about a film set in the 1670s. Do you know who directed it? I think it's called This is Spinal Tap."
+Named Entities: [1670s (Year), This is Spinal Tap (Title), Christopher McQuarrie (Director)]

@@ -1,0 +1,11 @@
+1. Sentence: "President Jokowi to visit {{Jakarta}} for economic summit."
+Text Span: "Jakarta"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Mount Everest}} reopens to climbers after two-year closure due to COVID-19."
+Text Span: "Mount Everest"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{Edinburgh}} to host international music festival in August."
+Text Span: "Edinburgh"
+Label: (A). The span is a named entity of type location

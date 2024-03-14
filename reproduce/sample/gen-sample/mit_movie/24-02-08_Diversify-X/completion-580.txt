@@ -1,0 +1,8 @@
+Query: "Who directed the movie Titanic?"
+Named Entities: [Titanic (Title), directed (Director)]
+
+Query: "Can you tell me if Meryl Streep starred in any romantic comedies?"
+Named Entities: [Meryl Streep (Actor), romantic comedies (Genre)]
+
+Query: "Show me the trailer for the latest Tom Hanks film"
+Named Entities: [trailer (Trailer), Tom Hanks (Actor)]

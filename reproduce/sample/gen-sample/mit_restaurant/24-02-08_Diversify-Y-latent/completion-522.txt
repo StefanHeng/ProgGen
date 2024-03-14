@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-rated sushi restaurant in Manhattan for dinner tonight?"
+Named Entities: [highly-rated (Rating), sushi (Cuisine), Manhattan (Location), dinner tonight (Hours), [Borough]
+
+2. "What's the price range of the Italian restaurant on 5th Avenue?"
+Named Entities: [Italian (Cuisine), 5th Avenue (Location), price range (Price), [Borough]
+
+3. "Find me a cafe with outdoor seating in Brooklyn that serves brunch on weekends"
+Named Entities: [cafe (Amenity), outdoor seating (Amenity), Brooklyn (Location), brunch on weekends (Hours), [Borough]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a top restaurant for a special occasion?"
+Named Entities: [top restaurant (Rating), special occasion (Amenity)]
+
+Query: "I'm craving some authentic Italian pizza, where's the best place to get it?"
+Named Entities: [authentic Italian pizza (Cuisine)]
+
+Query: "Do you know any good sushi bars with outdoor seating and a view?"
+Named Entities: [good (Rating), sushi (Cuisine), outdoor seating (Amenity), view (Amenity)]

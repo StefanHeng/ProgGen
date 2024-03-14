@@ -1,0 +1,8 @@
+1. "Can you recommend a low-cost place with extended hours that serves Toby's Estate Coffee?"
+Named Entities: [low-cost (Price), extended hours (Hours), Toby's Estate Coffee (Cuisine)]
+
+2. "What restaurants in the area have extended hours and offer low-cost dishes?"
+Named Entities: [extended hours (Hours), low-cost (Price)]
+
+3. "I'm craving a dish from a restaurant that serves Toby's Estate Coffee, can you suggest one nearby?"
+Named Entities: [Toby's Estate Coffee (Cuisine)]

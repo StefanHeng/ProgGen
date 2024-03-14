@@ -1,0 +1,8 @@
+1. "Can you please hurry up and show me a behind-the-scenes look at the making of the new Spider-Man movie?"
+Named Entities: [behind-the-scenes (Plot), making-of (Plot), Spider-Man (Title)]
+
+2. "I'm in a rush, so tell me who directed the highest-rated action film of last year"
+Named Entities: [directed (Director), highest-rated (Viewers' Rating), action (Genre), last year (Year)]
+
+3. "I need to know right now, which actor starred in the romantic comedy with the catchy theme song from the 90s"
+Named Entities: [actor (Actor), romantic comedy (Genre), catchy theme song (Song), 90s (Year)]

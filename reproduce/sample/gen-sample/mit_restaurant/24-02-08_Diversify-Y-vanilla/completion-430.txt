@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with an open kitchen?"
+Named Entities: [open kitchen (Amenity)]
+
+2. "I'm in the mood for sushi, where can I find a good sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), good (Rating), outdoor seating (Amenity)]
+
+3. "Do you know any nice Italian restaurants in the downtown area with a prix fixe menu?"
+Named Entities: [Italian (Cuisine), downtown area (Location), prix fixe menu (Price)]

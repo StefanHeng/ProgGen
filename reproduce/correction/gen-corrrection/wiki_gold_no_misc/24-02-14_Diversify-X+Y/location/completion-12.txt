@@ -1,0 +1,11 @@
+1. Sentence: "The {{Baghdad}} Green Zone is a highly secure area in the center of Baghdad, Iraq which serves as the headquarters for the Iraqi government and the US military presence in the country."
+Text Span: "Baghdad"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Harmandir Sahib, also known as the Golden Temple, is a sacred Sikh shrine located in {{Amritsar}}, India."
+Text Span: "Amritsar"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The National Crime Agency in the {{United Kingdom}} is responsible for leading the fight against serious and organized crime, working to disrupt and bring to justice those involved in drug trafficking, human trafficking, cybercrime, and other major criminal activities."
+Text Span: "United Kingdom"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "Can you recommend a classic suspense movie from the 1950s directed by Alfred Hitchcock?"
+   Named Entities: [classic suspense movie (Genre), 1950s (Year), Alfred Hitchcock (Director)]
+
+2. "I'm in the mood for a light-hearted romantic comedy with a happy ending. Do you have any suggestions?"
+   Named Entities: [light-hearted romantic comedy (Genre), happy ending (Plot)]
+
+3. "I'm interested in exploring some independent drama films that have received critical acclaim. Any recommendations?"
+   Named Entities: [independent drama films (Genre), critical acclaim (Review)]

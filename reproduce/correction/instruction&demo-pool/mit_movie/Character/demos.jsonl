@@ -1,0 +1,4 @@
+{"sentence": "who is the actor in the lead role in forrest gump", "entity_span": "lead role", "label": "NA"}
+{"sentence": "Who is the main character in the Star Wars series", "entity_span": "main character", "label": "NA"}
+{"sentence": "Tell me about the actress who played Hermione Granger in the Harry Potter series.", "entity_span": "Hermione Granger", "label": "CORRECT"}
+{"sentence": "Could you recommend a family-friendly movie with a strong female character as the lead?", "entity_span": "strong female character", "label": "WRONG_TYPE", "correct_type": "other"}

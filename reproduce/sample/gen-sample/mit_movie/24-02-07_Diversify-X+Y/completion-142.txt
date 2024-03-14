@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend any classic sci-fi thriller movies from the 1940s or 1950s that are restricted?"
+   Named Entities: [1940-1960 (Year), sci-fi thriller (Genre), restricted (MPAA Rating)]
+
+2. Spoken Query: "I'm feeling nostalgic for some old movies featuring Lando Calrissian, can you suggest some?"
+   Named Entities: [Lando Calrissian (Character), old (Year)]
+
+3. Spoken Query: "Are there any modern movies similar to the John Wick series but with a different subgenre?"
+   Named Entities: [John Wick (Title), modern (Year), subgenre (Genre)]

@@ -1,0 +1,8 @@
+1. Text Span: "in the neighborhood"
+   Label: (B). The correct span boundary is "in the neighborhood".
+
+2. Text Span: "Berkeley"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "nearest place"
+   Label: (A). Correct Entity Annotation.

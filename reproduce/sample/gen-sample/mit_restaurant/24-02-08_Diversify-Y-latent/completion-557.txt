@@ -1,0 +1,8 @@
+1. "What are the hours for the Italian restaurant downtown?"
+Named Entities: [Italian (Cuisine), downtown (Location), Hours]
+
+2. "Where can I find a sushi place with a high rating in downtown?"
+Named Entities: [sushi (Cuisine), high rating (Rating), downtown (Location)]
+
+3. "I'm craving some Mexican food, please recommend a restaurant with affordable prices downtown."
+Named Entities: [Mexican (Cuisine), affordable prices (Price), downtown (Location)]

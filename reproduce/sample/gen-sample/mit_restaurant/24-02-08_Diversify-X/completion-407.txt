@@ -1,0 +1,8 @@
+1. "Can you recommend a cafe with tasting menus and a mid-range price in the downtown area?"
+Named Entities: [cafe (Cuisine), tasting menus (Amenity), mid-range (Price), downtown area (Location)]
+
+2. "I'm looking for a café with a mid-range price and a tasting menu for a special occasion."
+Named Entities: [cafe (Cuisine), mid-range (Price), tasting menu (Amenity), special occasion (Amenity)]
+
+3. "I need a recommendation for a café that offers tasting menus in the mid-range price category."
+Named Entities: [cafe (Cuisine), tasting menus (Amenity), mid-range (Price)]

@@ -1,0 +1,8 @@
+Query: "I need to find a movie with an epic soundtrack, filled with songs that give me chills and make my heart race"
+Named Entities: [epic soundtrack (Song)]
+
+Query: "What's the latest movie with an amazing original song? I'm in the mood to discover some new music that will blow my mind!"
+Named Entities: [original song (Song)]
+
+Query: "Tell me about a movie with a soundtrack that will have me dancing in my seat! I need to feel the rhythm and groove along with the music"
+Named Entities: [soundtrack (Song)]

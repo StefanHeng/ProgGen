@@ -1,0 +1,8 @@
+1. Query: "What are some unforgettable psychological thriller movies?"
+   Named Entities: [unforgettable (Review), psychological thriller (Genre)]
+
+2. Query: "Can you recommend a documentary directed by Paul Greengrass?"
+   Named Entities: [documentary (Genre), Paul Greengrass (Director)]
+
+3. Query: "Is there a Kevin Hart movie that is a must-see?"
+   Named Entities: [Kevin Hart (Actor), must-see (Viewers' Rating)]

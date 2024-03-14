@@ -1,0 +1,8 @@
+1. "Can you tell me a movie that won an Oscar for best picture from the 1970s?"
+Named Entities: [Oscar (Award), best picture (Award), 1970s (Year)]
+
+2. "I'm looking for a film that was nominated for a Golden Globe for best actress in a drama."
+Named Entities: [Golden Globe (Award), best actress (Award), drama (Genre)]
+
+3. "What movie received the most nominations at the BAFTA awards last year?"
+Named Entities: [BAFTA (Award), nominations (Award), last year (Year)]

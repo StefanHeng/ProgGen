@@ -1,0 +1,8 @@
+Query: "What time does [The Cowfish Sushi Burger Bar] close tonight"
+Named Entities: [The Cowfish Sushi Burger Bar (Restaurant Name), close tonight (Hours)]
+
+Query: "I'm in the mood for some sushi, where can I find a good sushi restaurant"
+Named Entities: [sushi (Cuisine)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a great view"
+Named Entities: [outdoor seating (Amenity), great view (Amenity)]

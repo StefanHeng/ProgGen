@@ -1,0 +1,8 @@
+1. "I'm looking for a high-quality dining experience, preferably with a tasting menu."
+Named Entities: [high-quality (Rating), tasting menu (Amenity)]
+
+2. "Can you recommend a budget-friendly restaurant with outdoor seating?"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity)]
+
+3. "Where is the nearest Hooters with a full bar?"
+Named Entities: [Hooters (Restaurant Name), full bar (Amenity)]

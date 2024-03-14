@@ -1,0 +1,8 @@
+1. "I'm in the mood for a nice salad for lunch, where can I find one nearby?"
+Named Entities: [Salad (Dish), nearby (Location)]
+
+2. "I'm craving some fast food, can you find me a McDonald's that is open late?"
+Named Entities: [McDonald's (Restaurant Name), open late (Hours)]
+
+3. "I want to take my date to a place with outstanding reviews, do you know any highly rated restaurants in the area?"
+Named Entities: [outstanding (Rating), highly rated (Rating), area (Location)]

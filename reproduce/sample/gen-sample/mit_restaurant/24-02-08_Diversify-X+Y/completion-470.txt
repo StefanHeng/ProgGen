@@ -1,0 +1,8 @@
+1. "Can you recommend a nice dinner spot for a 65-year-old male teacher near the Cheesecake Factory?"
+Named Entities: [nice (Rating), dinner (Amenity), 65-year-old male teacher (Amenity), Cheesecake Factory (Restaurant Name)]
+
+2. "What are the dinner options close to the Cheesecake Factory with a relaxing atmosphere?"
+Named Entities: [dinner (Amenity), close to the Cheesecake Factory (Location), relaxing atmosphere (Amenity)]
+
+3. "I'm looking for a dinner place with a quiet ambiance close to the Cheesecake Factory, any suggestions?"
+Named Entities: [dinner (Amenity), quiet ambiance (Amenity), close to the Cheesecake Factory (Location)]

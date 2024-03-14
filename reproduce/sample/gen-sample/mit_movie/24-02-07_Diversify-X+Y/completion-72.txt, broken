@@ -1,0 +1,9 @@
+Synthetic Spoken Queries:
+1. "Can you provide information about the awards and nominations received by the top-rated movie 'The Shawshank Redemption'?"
+2. "I am interested in knowing if the official trailer has been released for the movie 'Inception' and any awards it has been nominated for."
+3. "Could you tell me if there are any teasers available for the top-rated film 'Pulp Fiction' and the awards it has won?"
+
+Named Entities:
+1. ['The Shawshank Redemption' (Title), awards and nominations (Review)]
+2. ['Inception' (Title), official trailer (Trailer), awards and nominations (Review)]
+3. ['Pulp Fiction' (Title), teasers (Trailer), top-rated (Viewers' Rating), awards (Review)]

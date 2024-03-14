@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the movie Footprints on the Moon?"
+Named Entities: [Footprints on the Moon (Title), viewers' rating (Viewers' Rating)]
+
+2. Query: "Could you tell me the year of release for The Terminator directed by James Cameron?"
+Named Entities: [The Terminator (Title), James Cameron (Director), release year (Year)]
+
+3. Query: "Is Jessica Chastain in any action movies with high ratings?"
+Named Entities: [Jessica Chastain (Actor), action (Genre), high ratings (Viewers' Rating)]

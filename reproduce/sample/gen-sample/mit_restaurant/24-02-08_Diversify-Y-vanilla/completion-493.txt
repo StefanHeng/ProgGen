@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-rated Italian restaurant with outdoor seating?"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm craving sushi, is there a sushi bar open till midnight?"
+Named Entities: [sushi (Cuisine), open till midnight (Hours)]
+
+3. "Find a family-friendly diner with reasonable prices for breakfast"
+Named Entities: [family-friendly (Amenity), reasonable prices (Price), breakfast (Dish)]

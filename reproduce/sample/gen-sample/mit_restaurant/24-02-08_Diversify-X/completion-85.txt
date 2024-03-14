@@ -1,0 +1,8 @@
+Query: "What fast food places are open now?"
+Named Entities: [fast food (Cuisine), open now (Hours)]
+
+Query: "I'm craving some cheap fast food, where can I find it?"
+Named Entities: [cheap (Price), fast food (Cuisine)]
+
+Query: "Can you recommend a highly rated fast food restaurant nearby?"
+Named Entities: [highly rated (Rating), fast food (Cuisine), nearby (Location)]

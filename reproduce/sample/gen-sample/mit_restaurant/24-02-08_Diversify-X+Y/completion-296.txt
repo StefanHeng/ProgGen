@@ -1,0 +1,8 @@
+Query: "are there any lunch deals at Red Lobster"
+Named Entities: [lunch (Amenity), Deals (Amenity), Red Lobster (Restaurant Name)]
+
+Query: "what are the lunch specials at Red Lobster"
+Named Entities: [lunch (Amenity), specials (Amenity), Red Lobster (Restaurant Name)]
+
+Query: "can you recommend a good place for lunch near Red Lobster"
+Named Entities: [good (Rating), lunch (Amenity), Red Lobster (Location)]

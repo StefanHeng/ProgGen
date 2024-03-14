@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie Jailhouse Rock?"
+Named Entities: [Jailhouse Rock (Title)]
+
+2. "Can you recommend a G or PG-rated movie similar to Interstellar?"
+Named Entities: [G/PG (MPAA Rating), Interstellar (Title)]
+
+3. "Who directed the science fiction film Interstellar?"
+Named Entities: [Interstellar (Title), science fiction (Genre)]

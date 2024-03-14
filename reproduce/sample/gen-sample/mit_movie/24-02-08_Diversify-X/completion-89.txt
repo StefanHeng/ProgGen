@@ -1,0 +1,8 @@
+1. "Can you recommend a must-see action movie from the 90s directed by Michael Bay?"
+Named Entities: [must-see (Viewers' Rating), action (Genre), 90s (Year), Michael Bay (Director)]
+
+2. "What is the viewers' rating for the movie Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating), Christopher Nolan (Director)]
+
+3. "I'm looking for a critically acclaimed drama film from the 2000s with a strong performance by Meryl Streep."
+Named Entities: [critically acclaimed (Review), drama (Genre), 2000s (Year), Meryl Streep (Actor)]

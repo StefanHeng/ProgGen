@@ -1,0 +1,8 @@
+1. "Can I see the trailer for the new James Bond movie?"
+   Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. "Which movie has the most exciting teaser of all time?"
+   Named Entities: [most exciting (Review)]
+
+3. "Are there any must-see films with intense action movie trailers?"
+   Named Entities: [must-see (Viewers' Rating), action (Genre), movie trailers (Trailer)]

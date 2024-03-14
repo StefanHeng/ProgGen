@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with political intrigue and a high A rating?"
+Named Entities: [political intrigue (Plot), A rating (MPAA Rating)]
+
+2. Query: "Tell me about the 2010 movie directed by Christopher Nolan that has a mind-bending plot"
+Named Entities: [2010 (Year), Christopher Nolan (Director), mind-bending (Plot)]
+
+3. Query: "What is the best musical film with a romantic plot and a great soundtrack?"
+Named Entities: [musical (Genre), romantic (Plot), great soundtrack (Song)]

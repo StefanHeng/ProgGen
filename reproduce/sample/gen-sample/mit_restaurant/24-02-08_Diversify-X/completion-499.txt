@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where can I find a place that offers dine-in?"
+   Named Entities: [fast food (Cuisine), dine-in (Amenity)]
+
+2. "What is the nearest restaurant that serves fast food and allows customers to dine-in?"
+   Named Entities: [fast food (Cuisine)]
+
+3. "Do you know any fast food restaurants nearby that have dine-in options?"
+   Named Entities: [fast food (Cuisine), dine-in (Amenity)]

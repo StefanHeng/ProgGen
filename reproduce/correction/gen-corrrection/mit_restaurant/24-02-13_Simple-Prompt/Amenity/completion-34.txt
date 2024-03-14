@@ -1,0 +1,11 @@
+1. Query: "Where's the best place for a {{quick}} bite on the go?"
+Text Span: "quick"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Which diner has the highest customer rating for {{breakfast}}?"
+Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Query: "Is there a place nearby that serves {{brunch}} on weekends?"
+Text Span: "brunch"
+Label: (C). Wrong Type. The correct entity type is Hours.

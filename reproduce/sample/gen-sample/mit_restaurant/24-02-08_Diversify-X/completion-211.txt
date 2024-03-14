@@ -1,0 +1,8 @@
+Query: "Can you recommend a kosher restaurant nearby that serves breakfast?"
+Named Entities: [kosher (Cuisine), nearby (Location), breakfast (Amenity)]
+
+Query: "What are the breakfast hours for kosher restaurants in the area?"
+Named Entities: [kosher (Cuisine), breakfast (Amenity), in the area (Location), hours (Hours)]
+
+Query: "I'm looking for a kosher breakfast spot with high ratings, can you help?"
+Named Entities: [kosher (Cuisine), breakfast (Amenity), high ratings (Rating)]

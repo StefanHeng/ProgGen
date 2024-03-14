@@ -1,0 +1,8 @@
+1. Query: "What's the best Italian restaurant with outdoor seating in Downtown? [Established]"
+Named Entities: [best (Rating), Italian (Cuisine), outdoor seating (Amenity), Downtown (Location)]
+
+2. Query: "Can you recommend a sushi place that opens late on weekends? [Established]"
+Named Entities: [sushi (Cuisine), opens late on weekends (Hours)]
+
+3. Query: "I'm looking for a family-friendly BBQ spot with live music nearby. [Established]"
+Named Entities: [family-friendly (Amenity), BBQ (Cuisine), live music (Amenity), nearby (Location)]

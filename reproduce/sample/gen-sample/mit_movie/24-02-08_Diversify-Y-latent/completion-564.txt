@@ -1,0 +1,8 @@
+1. "Can I watch a preview clip of the new Lara Croft movie?"
+   Named Entities: [Preview clip (Trailer), Lara Croft (Character)]
+
+2. "What movie released between 1992 and 1998 has a similar genre to The Dark Knight?"
+   Named Entities: [1992-1998 (Year), The Dark Knight (Title), similar genre (Genre)]
+
+3. "Which actor starred in the highest-rated movie of 2019?"
+   Named Entities: [highest-rated (Viewers' Rating), 2019 (Year), Actor (Actor)]

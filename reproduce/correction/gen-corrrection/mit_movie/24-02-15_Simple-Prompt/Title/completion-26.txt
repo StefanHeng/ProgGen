@@ -1,0 +1,8 @@
+1. Text Span: "Inception"
+Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "Spider-Man"
+Label: (B). The span contains a named title entity but the span boundary is not precise. The correct span boundary is "Spider-Man"
+
+3. Text Span: "the shawshank redemption"
+Label: (A). The span is a named entity of type movie title

@@ -1,0 +1,8 @@
+1. "find me a restaurant with unparalleled ratings in the central area"
+Named Entities: [unparalleled ratings (Rating), central (Location)]
+
+2. "i'm looking for a place with low calorie options"
+Named Entities: [low calorie (Amenity)]
+
+3. "can you recommend a restaurant with a diverse cuisine selection"
+Named Entities: [diverse cuisine (Cuisine)]

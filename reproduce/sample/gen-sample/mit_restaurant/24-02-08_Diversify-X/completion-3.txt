@@ -1,0 +1,8 @@
+Query: "what upscale restaurants are open for late-night dining"
+Named Entities: [upscale (Price), late-night dining (Amenity)]
+
+Query: "I want to find a late-night dining option that offers paleo-friendly dishes"
+Named Entities: [late-night dining (Amenity), paleo-friendly (Dietary Restriction)]
+
+Query: "which restaurants with upscale pricing are open late and offer paleo options"
+Named Entities: [upscale pricing (Price), late (Hours), paleo options (Dietary Restriction) ]

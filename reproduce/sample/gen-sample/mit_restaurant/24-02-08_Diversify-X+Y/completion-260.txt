@@ -1,0 +1,8 @@
+1. "Where can I find a café with a mid-range price range for a quick bite?"
+Named Entities: [café (Cuisine), mid-range (Price), quick bite (Amenity)]
+
+2. "I'm looking for a nice café to have lunch, maybe something like Panera Bread."
+Named Entities: [café (Cuisine), lunch (Amenity), Panera Bread (Restaurant Name)]
+
+3. "Do you know any places that offer a stellar experience with a mid-range price for dinner?"
+Named Entities: [stellar experience (Amenity), mid-range (Price), dinner (Amenity)]

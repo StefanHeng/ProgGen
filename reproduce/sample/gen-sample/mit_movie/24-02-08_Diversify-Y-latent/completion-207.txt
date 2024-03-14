@@ -1,0 +1,8 @@
+Query: "Can you recommend any movies directed by Lars von Trier that involve amnesia?"
+Named Entities: [Lars von Trier (Director), amnesia (Plot)]
+
+Query: "What is the viewers' rating for the Lars von Trier film with the title Melancholia?"
+Named Entities: [Lars von Trier (Director), Melancholia (Title), viewers' rating (Viewers' Rating)]
+
+Query: "Could you show me a trailer for a Lars von Trier movie that falls under the horror genre?"
+Named Entities: [Lars von Trier (Director), horror (Genre)]

@@ -1,0 +1,11 @@
+1. Query: "Which movie featuring The Joker has been {{Honored with multiple nominations}}?"
+Text Span: "Honored with multiple nominations"
+Label: (A). Named Entity of type Review
+
+2. Query: "Do you have any movies that offer {{in-depth insights}} into the production process and amazing cast and crew interviews?"
+Text Span: "in-depth insights"
+Label: (A). Named Entity of type Review
+
+3. Query: "Are there any movies with {{great}} cast and crew interviews available?"
+Text Span: "great"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

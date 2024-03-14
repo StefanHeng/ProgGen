@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in the city according to Dine Out Magazine?"
+Named Entities: [Italian (Cuisine), top-rated (Rating), Dine Out Magazine (Amenity)]
+
+Query: "Where is the nearest seafood restaurant open past 10 pm?"
+Named Entities: [seafood (Cuisine), nearest (Location), past 10 pm (Hours)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a vegetarian menu for under 20 dollars per person according to Dine Out Magazine?"
+Named Entities: [outdoor seating (Amenity), vegetarian (Cuisine), under 20 dollars per person (Price), Dine Out Magazine (Amenity)]

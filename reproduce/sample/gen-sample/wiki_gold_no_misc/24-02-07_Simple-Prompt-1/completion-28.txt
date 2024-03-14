@@ -1,0 +1,35 @@
+1. The United Nations General Assembly proclaimed 24 March as the International Day for the Right to the Truth Concerning Gross Human Rights Violations and for the Dignity of Victims.
+Named Entities: [United Nations General Assembly (organization)]
+
+2. Apple Inc. plans to open a new store in downtown Manhattan.
+Named Entities: [Apple Inc. (organization), Manhattan (location)]
+
+3. The Eiffel Tower is located in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+4. Dr. Jane Smith, a renowned biologist, published a groundbreaking study in the Journal of Environmental Science.
+Named Entities: [Jane Smith (person), Journal of Environmental Science (organization)]
+
+5. The Great Barrier Reef Marine Park Authority is responsible for managing the Great Barrier Reef Marine Park.
+Named Entities: [Great Barrier Reef Marine Park Authority (organization), Great Barrier Reef Marine Park (location)]
+
+6. The Mona Lisa, a famous painting by Leonardo da Vinci, is housed in the Louvre Museum in Paris.
+Named Entities: [Mona Lisa (location), Leonardo da Vinci (person), Louvre Museum (organization), Paris (location)]
+
+7. The World Health Organization declared COVID-19 a global pandemic in March 2020.
+Named Entities: [World Health Organization (organization)]
+
+8. Beyoncé Knowles is a popular singer and performer.
+Named Entities: [Beyoncé Knowles (person)]
+
+9. The Mississippi River runs through several states in the United States, including Minnesota, Wisconsin, and Louisiana.
+Named Entities: [Mississippi River (location), United States (location), Minnesota (location), Wisconsin (location), Louisiana (location)]
+
+10. Professor John Smith, from Harvard University, conducted a study on climate change.
+Named Entities: [John Smith (person), Harvard University (organization)]
+
+11. The Taj Mahal, a UNESCO World Heritage site, is located in Agra, India.
+Named Entities: [Taj Mahal (location), UNESCO World Heritage (organization), Agra (location), India (location)]
+
+12. Jeff Bezos is the founder of Amazon.com.
+Named Entities: [Jeff Bezos (person), Amazon.com (organization)]

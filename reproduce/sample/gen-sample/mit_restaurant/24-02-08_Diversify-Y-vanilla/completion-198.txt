@@ -1,0 +1,8 @@
+1. "I'm craving some American food, where is the nearest Waffle House?"
+Named Entities: [American (Cuisine), nearest (Location), Waffle House (Restaurant Name)]
+
+2. "What are the hours of operation for Dave & Buster's in the Riverside area?"
+Named Entities: [hours of operation (Hours), Dave & Buster's (Restaurant Name), Riverside (Location)]
+
+3. "Can you recommend a restaurant with arcade games and a good rating?"
+Named Entities: [arcade games (Amenity), good rating (Rating)]

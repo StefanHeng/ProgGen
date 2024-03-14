@@ -1,0 +1,11 @@
+1. Query: "Could you show me a trailer for a family-friendly adventure movie with {{Shia LaBeouf}}?"
+Text Span: "Shia LaBeouf"
+Label: (A). The span is a named entity of type actor
+
+2. Query: "Hey there, can you tell me if there are any showtimes for movies starring {{Natalie Portman}}?"
+Text Span: "Natalie Portman"
+Label: (A). The span is a named entity of type actor
+
+3. Query: "What movie from the 1660s has a soundtrack featuring {{Daniel Craig}}?"
+Text Span: "Daniel Craig"
+Label: (A). The span is a named entity of type actor

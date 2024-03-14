@@ -1,0 +1,8 @@
+1. "Could you provide me with the viewers' rating and review of the movie directed by Michael Bay, please?"
+Named Entities: [Michael Bay (Director), viewers' rating (Viewers' Rating), review (Review)]
+
+2. "I am interested in finding a movie with a great rating and review. Can you suggest a title?"
+Named Entities: [great rating (Viewers' Rating), review (Review)]
+
+3. "I'm looking for a movie with the song 'Another Day of Sun.' Can you help me with that?"
+Named Entities: ['Another Day of Sun' (Song)]

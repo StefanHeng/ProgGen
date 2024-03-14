@@ -1,0 +1,8 @@
+1. "What are the operating hours for TGI Friday's in Denver?"
+Named Entities: [TGI Friday's (Restaurant Name), Denver (Location), operating hours (Hours)]
+
+2. "I'm craving sushi, can you recommend a good sushi restaurant in Denver?"
+Named Entities: [sushi (Cuisine), good (Rating), Denver (Location)]
+
+3. "Where can I find a restaurant with outdoor seating and a kids menu in Denver?"
+Named Entities: [outdoor seating (Amenity), kids menu (Amenity), Denver (Location)]

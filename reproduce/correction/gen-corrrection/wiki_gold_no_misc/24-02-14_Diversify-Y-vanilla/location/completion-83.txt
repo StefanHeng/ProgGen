@@ -1,0 +1,11 @@
+1. Sentence: "The Bosch Group is a {{German}} multinational engineering and technology company."
+Text Span: "German"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The University of Adelaide is a public research university located in {{Adelaide}}, South Australia."
+Text Span: "Adelaide"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The former residence of Elvis Presley, {{Graceland}} is one of the most popular tourist destinations in the United States."
+Text Span: "Graceland"
+Label: (A). The span is a named entity of type location

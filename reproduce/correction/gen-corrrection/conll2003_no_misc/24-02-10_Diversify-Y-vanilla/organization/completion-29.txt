@@ -1,0 +1,11 @@
+1. Sentence: "Elon Musk's {{SpaceX}} announces plans to send civilians on a trip around the moon."
+Text Span: "SpaceX"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Vienna Mayor announces new {{public transportation}} initiatives."
+Text Span: "public transportation"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+3. Sentence: "{{Samsung}} recalls faulty washing machines in North America."
+Text Span: "Samsung"
+Label: (A). The span is a named entity of type organization

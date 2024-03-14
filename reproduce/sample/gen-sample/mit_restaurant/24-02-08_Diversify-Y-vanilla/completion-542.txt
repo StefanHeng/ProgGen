@@ -1,0 +1,8 @@
+1. "What restaurants offer catering for a party of 20 people?"
+Named Entities: [catering (Amenity), party of 20 people]
+
+2. "I need to pick up an order of sushi in 30 minutes, where can I go?"
+Named Entities: [Pickup time, sushi (Dish)]
+
+3. "Find me a restaurant with outdoor seating and a good wine selection"
+Named Entities: [outdoor seating (Amenity), good (Rating), wine selection]

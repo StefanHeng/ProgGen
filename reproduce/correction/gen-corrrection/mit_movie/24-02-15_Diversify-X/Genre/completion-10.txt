@@ -1,0 +1,8 @@
+1. Text Span: "romantic"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "action movie"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "action"
+
+3. Text Span: "comedy"
+Label: (A). The span is a named entity of type genre

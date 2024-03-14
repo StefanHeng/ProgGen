@@ -1,0 +1,8 @@
+1. Text Span: "Activists"
+Label: (C). Other
+
+2. Text Span: "Stella McCartney"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Principal Lisa Smith"
+Label: (B). The span contains a named person entity but the span boundary is not precise. The correct span boundary is "Lisa Smith".

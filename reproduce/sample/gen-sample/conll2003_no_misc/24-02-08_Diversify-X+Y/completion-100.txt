@@ -1,0 +1,8 @@
+Sentence: "Professor David Johnson from Buenos Aires, Argentina, receives prestigious award from the National Society for the Gifted and Talented."
+Named Entities: [Buenos Aires (location), Argentina (location), Professor David Johnson (person), National Society for the Gifted and Talented (organization)]
+
+Sentence: "New educational program in Buenos Aires, Argentina, aims to support gifted students in collaboration with Professor David Johnson."
+Named Entities: [Buenos Aires (location), Argentina (location), Professor David Johnson (person)]
+
+Sentence: "National Society for the Gifted and Talented appoints international education expert, Professor David Johnson, as honorary advisory board member."
+Named Entities: [Professor David Johnson (person), National Society for the Gifted and Talented (organization)]

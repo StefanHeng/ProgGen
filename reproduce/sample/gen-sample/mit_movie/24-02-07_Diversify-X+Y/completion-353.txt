@@ -1,0 +1,8 @@
+Query: "Can you tell me about any movies directed by Michael Moore?"
+Named Entities: [Michael Moore (Director)]
+
+Query: "Are there any A-list actors in the NC-17 rated films with solid acting?"
+Named Entities: [A-list actors (Actor), NC-17 (MPAA Rating), solid acting (Review)]
+
+Query: "Who starred in the movie Gladiator besides Russell Crowe and The Fugitive with Michelle Williams?"
+Named Entities: [Gladiator (Title), The Fugitive (Title), Michelle Williams (Actor)]

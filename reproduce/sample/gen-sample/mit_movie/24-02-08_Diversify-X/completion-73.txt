@@ -1,0 +1,8 @@
+1. "Can you tell me about any award-winning movies from the 1990s"
+Named Entities: [award-winning (Review), 1990s (Year)]
+
+2. "I'm interested in a critically acclaimed film from the 2010s"
+Named Entities: [critically acclaimed (Review), 2010s (Year)]
+
+3. "Could you recommend a movie that has received multiple nominations?"
+Named Entities: [multiple nominations (Review)]

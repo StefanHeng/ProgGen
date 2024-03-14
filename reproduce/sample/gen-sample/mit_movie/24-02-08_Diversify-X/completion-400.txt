@@ -1,0 +1,8 @@
+Query: "Did that movie with Tom Hanks win any awards?"
+Named Entities: [Tom Hanks (Actor), awards (Awards)]
+
+Query: "Have any of the recent animated movies been nominated for anything?"
+Named Entities: [recent animated movies (Genre), nominated (Awards)]
+
+Query: "I heard that the movie directed by Christopher Nolan got some awards, is that true?"
+Named Entities: [Christopher Nolan (Director), awards (Awards)]

@@ -1,0 +1,8 @@
+1. Text Span: "Dr. John Smith"
+Label: (B). The correct span boundary is "John Smith".
+
+2. Text Span: "Macron"
+Label: (A)
+
+3. Text Span: "artist"
+Label: (D)

@@ -1,0 +1,8 @@
+1. "What's the best Italian restaurant in this area?"
+Named Entities: [Italian (Cuisine), best (Rating), area (Location)]
+
+2. "I want to eat sushi, where can I find a place that's open until midnight?"
+Named Entities: [sushi (Cuisine), open until midnight (Hours)]
+
+3. "Do you know any restaurants nearby with outdoor seating and a view?"
+Named Entities: [outdoor seating (Amenity), view (Amenity), nearby (Location)]

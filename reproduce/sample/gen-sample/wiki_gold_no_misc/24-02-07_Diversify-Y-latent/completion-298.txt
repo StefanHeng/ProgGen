@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower was constructed as the entrance to the 1889 World's Fair."
+Named Entities: [Eiffel Tower (location), World's Fair (event)]
+
+Sentence: "The company was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne."
+Named Entities: [Steve Jobs (person), Steve Wozniak (person), Ronald Wayne (person)]
+
+Sentence: "The Mona Lisa is widely known for her enigmatic smile."
+Named Entities: [Mona Lisa (artwork)]

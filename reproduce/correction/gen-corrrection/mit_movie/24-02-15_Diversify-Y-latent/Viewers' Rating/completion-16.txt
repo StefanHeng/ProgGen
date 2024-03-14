@@ -1,0 +1,11 @@
+1. Query: "Do you have any recommendations for an {{Exquisite}} haunted house film from the 2000s?"
+Text Span: "Exquisite"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other
+
+2. Query: "Can you recommend a comedic film from the 1990s with a {{viewers' rating}} of at least 4 stars"
+Text Span: "viewers' rating"
+Label: (D). The span is not a named entity
+
+3. Query: "What are some {{Must-see}} movies that came out 12 years ago?"
+Text Span: "Must-see"
+Label: (A). The span is a named entity of type viewers' rating

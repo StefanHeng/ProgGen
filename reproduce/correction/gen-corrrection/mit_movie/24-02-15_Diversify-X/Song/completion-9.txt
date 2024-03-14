@@ -1,0 +1,11 @@
+1. Query: "Hey, what's the name of that movie with the {{awesome soundtrack}} that has a bunch of 80s hits?"
+Text Span: "awesome soundtrack"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Query: "I'm hosting a movie night and want to feature a film with a {{memorable love theme}}. Can you recommend a romantic movie from the 1990s?"
+Text Span: "memorable love theme"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Query: "Can you recommend a movie with an {{iconic song}} from the 80s?"
+Text Span: "iconic song"
+Label: (A). Correct Entity Annotation.

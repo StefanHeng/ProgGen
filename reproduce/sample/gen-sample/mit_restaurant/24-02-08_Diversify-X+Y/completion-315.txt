@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant that offers gluten-free options?"
+Named Entities: [fine dining (Amenity), gluten-free (Dietary Restriction)]
+
+Query: "I'm looking for a high-end restaurant with a gluten-free menu, do you have any suggestions?"
+Named Entities: [high-end (Price), gluten-free (Dietary Restriction)]
+
+Query: "Where can I find a top-notch fine dining restaurant that caters to gluten-free diners?"
+Named Entities: [top-notch (Rating), fine dining (Amenity), gluten-free (Dietary Restriction), The French Laundry (Restaurant Name)]

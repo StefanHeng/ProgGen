@@ -1,0 +1,8 @@
+Query: "what is the genre of Star Wars: Episode IV"
+Named Entities: [Star Wars: Episode IV (Title)]
+
+Query: "what movie has a 6/10 rating"
+Named Entities: [6/10 rating (Viewers' Rating)]
+
+Query: "who directed the film Star Wars: Episode IV"
+Named Entities: [Star Wars: Episode IV (Title)]

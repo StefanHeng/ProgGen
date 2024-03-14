@@ -1,0 +1,8 @@
+1. "Which restaurant serves the best French toast in town right when they open at 7 am?"
+Named Entities: [French toast (Dish), 7 am (Hours)]
+
+2. "I need a cozy place for a breakfast meeting with a good coffee selection and a quiet ambience."
+Named Entities: [cozy (Amenity), breakfast (Cuisine), good (Rating)]
+
+3. "Where can I find a budget-friendly spot for a quick breakfast bite before work?"
+Named Entities: [budget-friendly (Price), breakfast (Cuisine)]

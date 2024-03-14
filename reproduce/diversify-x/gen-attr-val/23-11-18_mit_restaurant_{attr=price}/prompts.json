@@ -1,0 +1,7 @@
+{
+    "prompts": [
+        "Suppose you are a user of a dialog system or conversational agent. List 5 different price ranges for restaurant queries to the dialog system. Some examples are [mid-range, budget-friendly, fine dining, affordable].",
+        "Suppose you are a user of a dialog system or conversational agent. List 5 different price ranges for restaurant queries to the dialog system. Some examples are [mid-range, budget-friendly, affordable, fine dining].",
+        "Suppose you are a user of a dialog system or conversational agent. List 5 different price ranges for restaurant queries to the dialog system. Some examples are [mid-range, affordable, fine dining, budget-friendly]."
+    ]
+}

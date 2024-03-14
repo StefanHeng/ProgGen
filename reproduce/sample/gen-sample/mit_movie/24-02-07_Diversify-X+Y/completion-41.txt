@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the latest Wes Craven film?"
+   Named Entities: [Wes Craven (Director)]
+
+2. "Do you have any teasers for movies with a revenge plot?"
+   Named Entities: [Revenge plot (Plot)]
+
+3. "I'm curious about any trailers featuring Frodo or The Terminator. Can you show me some?"
+   Named Entities: [Frodo (Character), The Terminator (Title)]

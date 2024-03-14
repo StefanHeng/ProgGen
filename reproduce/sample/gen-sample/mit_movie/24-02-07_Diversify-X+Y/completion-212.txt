@@ -1,0 +1,8 @@
+1. Query: "Hey, I can't wait to see the latest movie directed by Dee Rees. Can you tell me when I can catch a show and get tickets?"
+Named Entities: [Dee Rees (Director)]
+
+2. Query: "I'm really in the mood for a thought-provoking film. Can you show me what's playing and how I can get tickets?"
+Named Entities: [thought-provoking (Genre)]
+
+3. Query: "I'm so excited to watch a movie by Dee Rees. Can you help me find showtimes and book tickets?"
+Named Entities: [Dee Rees (Director)]

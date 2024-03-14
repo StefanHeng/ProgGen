@@ -1,0 +1,8 @@
+1. "What action-comedy movie features Tom Hanks"
+Named Entities: [action-comedy (Genre), Tom Hanks (Actor)]
+
+2. "Show me a movie from 1968 with a viewers' rating of 8.5 out of 10"
+Named Entities: [1968 (Year), 8.5 out of 10 (Viewers' Rating)]
+
+3. "Can you recommend a movie about corporate corruption, featuring Don Vito Corleone"
+Named Entities: [corporate corruption (Plot), Don Vito Corleone (Character)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies directed by Christopher Nolan and recommended for adults that have a viewers' rating of 4.5 stars"
+Named Entities: [Christopher Nolan (Director), Recommended for Adults (MPAA Rating), 4.5 stars (Viewers' Rating)]
+
+2. Query: "What is the title of the movie starring Angelina Jolie and rated PG-13"
+Named Entities: [Angelina Jolie (Actor), PG-13 (MPAA Rating)]
+
+3. Query: "Show me a list of movies from the 1990s with a science fiction genre and a plot involving time travel"
+Named Entities: [1990s (Year), science fiction (Genre), time travel (Plot)]

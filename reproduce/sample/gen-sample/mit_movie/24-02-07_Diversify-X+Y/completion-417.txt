@@ -1,0 +1,8 @@
+1. "Can you tell me about the special effects showcase in the movie R?"
+Named Entities: [special effects showcase (Plot), R (Title)]
+
+2. "I'd like to learn more about the making-of The Sound of Silence. Can you provide any behind-the-scenes details?"
+Named Entities: [making-of (Plot), The Sound of Silence (Title)]
+
+3. "Are there any behind-the-scenes features for The Sound of Music that would be of interest to senior citizens like me?"
+Named Entities: [behind-the-scenes (Plot), The Sound of Music (Title), senior citizens (Viewers' Rating)]

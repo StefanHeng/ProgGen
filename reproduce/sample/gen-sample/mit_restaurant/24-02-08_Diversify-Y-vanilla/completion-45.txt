@@ -1,0 +1,8 @@
+Query: "Can you recommend any Michelin-starred restaurants in the area for a special occasion?"
+Named Entities: [Michelin-starred Restaurants (Amenity), special occasion (Amenity)]
+
+Query: "I'm craving some authentic Italian food, where can I find a good spot for that?"
+Named Entities: [authentic Italian food (Cuisine), good spot (Rating)]
+
+Query: "What are the operating hours for The Cheesecake Factory near me?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), near me (Location), operating hours (Hours)]

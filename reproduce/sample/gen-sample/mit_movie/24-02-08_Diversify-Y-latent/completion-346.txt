@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a wondrous adventure movie with a treasure hunt plot?"
+Named Entities: [wondrous (Viewers' Rating), adventure (Genre), treasure hunt (Plot)]
+
+2. Query: "When was The Hurt Locker released and who directed it?"
+Named Entities: [The Hurt Locker (Title), released (Year), directed (Director)]
+
+3. Query: "I'm looking for an intriguing action film that came out in 1973."
+Named Entities: [intriguing (Viewers' Rating), action (Genre), 1973 (Year)]

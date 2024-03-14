@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a coming of age movie with a stellar cast?"
+Named Entities: [coming of age (Genre), stellar cast (Viewers' Rating)]
+
+2. Query: "What war film did Margaret Clark direct that is rated PG?"
+Named Entities: [Margaret Clark (Director), war film (Genre), PG (MPAA Rating)]
+
+3. Query: "Give me a list of movies from the 90s that have a stellar cast."
+Named Entities: [90s (Year), stellar cast (Viewers' Rating)]

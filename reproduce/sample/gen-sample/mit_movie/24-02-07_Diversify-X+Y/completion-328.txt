@@ -1,0 +1,8 @@
+Query: "Could you tell me the vivid storyline of the movie No Country for Old Men?"
+Named Entities: [No Country for Old Men (Title), vivid storyline (Plot)]
+
+Query: "I'm interested in a movie released in 1979 with a deep plot. Can you suggest one?"
+Named Entities: [1979 (Year), deep (Plot)]
+
+Query: "What is the movie I Am a Man of Constant Sorrow about?"
+Named Entities: [I Am a Man of Constant Sorrow (Song), about (Plot)]

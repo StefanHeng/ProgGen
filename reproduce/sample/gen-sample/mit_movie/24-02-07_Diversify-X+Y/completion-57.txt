@@ -1,0 +1,8 @@
+1. "Can you give me a summary of the movie When Harry Met Sally?"
+Named Entities: [When Harry Met Sally (Title), summary (Plot)]
+
+2. "I'm interested in learning more about the plot of Blade Runner. Could you tell me about it?"
+Named Entities: [Blade Runner (Title), plot (Plot)]
+
+3. "Are there any movies that feature Professor Dumbledore in a prominent role that you can highlight for me?"
+Named Entities: [Professor Dumbledore (Character), highlight (Plot)]

@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a Michelin star in the downtown area with bar service hours."
+Named Entities: [Michelin star (Rating), downtown area (Location), Bar service hours (Amenity)]
+
+2. "Can you recommend a place with outdoor seating that serves vegan dishes?"
+Named Entities: [outdoor seating (Amenity), vegan (Cuisine)]
+
+3. "Do you know of any restaurants open past midnight with a good selection of seafood dishes?"
+Named Entities: [past midnight (Hours), seafood (Cuisine)]

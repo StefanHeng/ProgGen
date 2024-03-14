@@ -1,0 +1,8 @@
+1. "Can you recommend me a movie from 2003 with the song The Power of Love?"
+Named Entities: [2003 (Year), The Power of Love (Song)]
+
+2. "I'm in the mood for a movie about a supernatural haunting, starring Rachel McAdams."
+Named Entities: [supernatural haunting (Genre), Rachel McAdams (Actor)]
+
+3. "What is the best movie in the thriller genre directed by David Fincher?"
+Named Entities: [thriller (Genre), David Fincher (Director)]

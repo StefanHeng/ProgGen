@@ -1,0 +1,8 @@
+1. "What's the best Japanese restaurant in the area?"
+   Named Entities: [best (Rating), Japanese (Cuisine), area (Location)]
+
+2. "I'm craving some Poutine, where can I find a place that serves it?"
+   Named Entities: [craving (Amenity), Poutine (Dish)]
+
+3. "Is Golden Corral open for breakfast on weekdays?"
+   Named Entities: [Golden Corral (Restaurant Name), breakfast (Amenity), weekdays (Hours)]

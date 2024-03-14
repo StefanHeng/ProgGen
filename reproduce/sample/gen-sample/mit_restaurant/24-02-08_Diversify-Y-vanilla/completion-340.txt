@@ -1,0 +1,8 @@
+1. "I'm craving some delicious croissants, can you recommend a nearby bakery?"
+   Named Entities: [delicious (Rating), croissants (Dish), nearby (Location), bakery (Amenity)]
+
+2. "I'm hosting a community event and need a restaurant that can accommodate a large group of people"
+   Named Entities: [community (Amenity), large group of people (Amenity)]
+
+3. "I'm in the mood for some fine dining, can you make a reservation for me at Mugaritz?"
+   Named Entities: [fine dining (Amenity), Mugaritz (Restaurant Name)]

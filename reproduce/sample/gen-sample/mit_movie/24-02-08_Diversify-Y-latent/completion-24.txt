@@ -1,0 +1,8 @@
+1. Query: "What is the plot of The Hateful Eight?"
+Named Entities: [The Hateful Eight (Title), plot (Plot)]
+
+2. Query: "Does the movie Zombie have a high viewers' rating?"
+Named Entities: [Zombie (Title), high (Viewers' Rating)]
+
+3. Query: "Who is the director of The Hateful Eight?"
+Named Entities: [The Hateful Eight (Title), director (Director)]

@@ -1,0 +1,8 @@
+1. Query: "When is the trailer release for the new martial arts film starring Jet Li"
+   Named Entities: [trailer release (Trailer release), martial arts (Genre), Jet Li (Actor)]
+
+2. Query: "Can you recommend a good drama movie from the 1990s with strong viewer ratings"
+   Named Entities: [drama (Genre), 1990s (Year), strong viewer ratings (Viewers' Rating)]
+
+3. Query: "I'm looking for a movie with a character who is a skilled hacker and has a high IMDB rating"
+   Named Entities: [skilled hacker (Character), high IMDB rating (Viewers' Rating)]

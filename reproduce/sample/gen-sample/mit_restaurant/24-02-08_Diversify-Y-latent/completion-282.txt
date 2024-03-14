@@ -1,0 +1,8 @@
+Query: "What restaurants are open on Thanksgiving for brunch"
+Named Entities: [Thanksgiving (Holiday), brunch (Amenity)]
+
+Query: "Where can I find the best waffles in town?"
+Named Entities: [best (Rating), waffles (Dish), town (Location)]
+
+Query: "Can you recommend a budget-friendly place for dinner during the holiday season?"
+Named Entities: [budget-friendly (Price), dinner (Amenity), holiday season (Holiday)]

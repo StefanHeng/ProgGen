@@ -1,0 +1,8 @@
+1. Text Span: "COVID-19"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Subaru Corporation"
+Label: (A). Named entity of type organization
+
+3. Text Span: "COVID-19"
+Label: (D). Not a Named Entity

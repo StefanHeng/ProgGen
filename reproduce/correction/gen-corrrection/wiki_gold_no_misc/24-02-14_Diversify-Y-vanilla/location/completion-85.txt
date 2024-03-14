@@ -1,0 +1,8 @@
+1. Text Span: "North America"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Asian"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "southern Africa"
+Label: (A). The span is a named entity of type location

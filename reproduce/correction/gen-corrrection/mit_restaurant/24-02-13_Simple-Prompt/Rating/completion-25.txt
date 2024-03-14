@@ -1,0 +1,8 @@
+1. Text Span: "family-friendly"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "best place"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "best"
+Label: (A). Correct Entity Annotation.

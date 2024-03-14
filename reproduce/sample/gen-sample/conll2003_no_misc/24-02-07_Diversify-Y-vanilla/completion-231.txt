@@ -1,0 +1,8 @@
+1. "Apple Inc. announces record-breaking profits for the fiscal year."
+Named Entities: [Apple Inc. (organization)]
+
+2. "The United Nations Security Council convenes emergency meeting on the conflict in the Middle East."
+Named Entities: [United Nations Security Council (organization), Middle East (location)]
+
+3. "Dr. Anthony Fauci warns of potential surge in COVID-19 cases due to relaxation of safety measures."
+Named Entities: [Dr. Anthony Fauci (person), COVID-19 (organization)]

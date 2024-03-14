@@ -1,0 +1,8 @@
+Query: "can you recommend a brunch spot with bottomless mimosas"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "show me a restaurant with a patio for brunch in the downtown area"
+Named Entities: [patio (Amenity), brunch (Amenity), downtown area (Location)]
+
+Query: "what's a good brunch place with vegan options and outdoor seating"
+Named Entities: [brunch (Amenity), vegan options (Cuisine), outdoor seating (Amenity)]

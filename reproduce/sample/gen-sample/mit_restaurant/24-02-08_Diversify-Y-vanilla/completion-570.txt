@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a prix fixe menu for dinner tonight"
+Named Entities: [prix fixe (Price), dinner tonight (Hours)]
+
+2. "Do you know of any places nearby that serve marinated olives as an appetizer?"
+Named Entities: [marinated olives (Dish), nearby (Location)]
+
+3. "Where can I find the best lobster in the area for a special occasion?"
+Named Entities: [best (Rating), lobster (Dish), special occasion (Amenity)]

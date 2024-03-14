@@ -1,0 +1,11 @@
+1. Query: "what are the operating hours of the {{taco food truck}} in the downtown area"
+Text Span: "taco food truck"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "where can I find a {{steakhouse}} that's open past 10 pm"
+Text Span: "steakhouse"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Query: "Where can I find a {{local diner}} with American cuisine open for dinner?"
+Text Span: "local diner"
+Label: (A). The span is a named entity of type restaurant name

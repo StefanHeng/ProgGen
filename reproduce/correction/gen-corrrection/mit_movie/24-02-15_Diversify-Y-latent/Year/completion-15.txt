@@ -1,0 +1,8 @@
+1. Text Span: "released"
+   Label: (C). The span is a named entity but the category is not year (Release Year)
+
+2. Text Span: "2019"
+   Label: (A). The span is a named entity of type year
+
+3. Text Span: "12 Years"
+   Label: (C). The span is a named entity but the category is not year (Time Period)

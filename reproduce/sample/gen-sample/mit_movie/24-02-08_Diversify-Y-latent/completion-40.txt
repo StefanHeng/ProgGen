@@ -1,0 +1,8 @@
+1. Query: "I believe Yoda is in a movie with time travel. Can you tell me the title?"
+   Named Entities: [Yoda (Character), time travel (Plot)]
+
+2. Query: "Show me a movie with a song that makes people cry."
+   Named Entities: [a song that makes people cry (Review)]
+
+3. Query: "What type of movie genre is The Matrix known for?"
+   Named Entities: [The Matrix (Title), known for (Review)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with the song 'I Wanna Dance with Somebody' in it?"
+Named Entities: ['I Wanna Dance with Somebody' (Song)]
+
+2. "Is there a PG-rated movie with Chris Hemsworth in it?"
+Named Entities: [PG (MPAA Rating), Chris Hemsworth (Actor)]
+
+3. "Do you know any unrated movies that feature the song 'Heart of Glass'?"
+Named Entities: [Unrated (MPAA Rating), 'Heart of Glass' (Song)]

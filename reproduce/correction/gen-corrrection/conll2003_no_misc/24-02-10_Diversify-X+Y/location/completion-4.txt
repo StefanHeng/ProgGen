@@ -1,0 +1,8 @@
+1. Text Span: "urban areas"
+Label: (B). Wrong Boundary. The correct span boundary is "urban areas".
+
+2. Text Span: "Galapagos Islands"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "butterfly"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

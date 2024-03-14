@@ -1,0 +1,8 @@
+1. "The company headquarters is located in downtown New York City."
+Named Entities: [New York City (location)]
+
+2. "She became the first person to reach the summit of Mount Everest without using supplemental oxygen."
+Named Entities: [Mount Everest (location)]
+
+3. "The organization was founded by John Smith and Jane Doe in 2005."
+Named Entities: [John Smith (person), Jane Doe (person)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me which movie won the most awards at the Oscars last year?"
+Named Entities: [Oscars (Awards), last year (Year)]
+
+Query: "I'm looking for a movie that was nominated for both Best Picture and Best Director at the Golden Globes"
+Named Entities: [Best Picture (Awards), Best Director (Awards), Golden Globes (Awards)]
+
+Query: "Show me a film with a Golden Bear award from the Berlin International Film Festival"
+Named Entities: [Golden Bear (Awards), Berlin International Film Festival (Awards)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with stunning costume design and a compelling plot about overcoming adversity?"
+Named Entities: [stunning costume design (Genre), overcoming adversity (Plot)]
+
+2. Query: "I'm looking for a film-noir movie with a captivating storyline and an engaging movie trailer"
+Named Entities: [film-noir (Genre), captivating storyline (Plot), movie trailer (Trailer)]
+
+3. Query: "What is the viewers' rating of the latest movie with a movie trailer that features an emotionally powerful song?"
+Named Entities: [viewers' rating (Viewers' Rating), emotionally powerful song (Song), movie trailer (Trailer)]

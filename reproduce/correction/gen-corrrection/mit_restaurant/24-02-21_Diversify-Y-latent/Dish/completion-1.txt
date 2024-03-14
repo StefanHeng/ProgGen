@@ -1,0 +1,8 @@
+1. Text Span: "delicious seafood dishes"
+Label: (B). The correct span boundary is "seafood dishes"
+
+2. Text Span: "seafood dishes"
+Label: (A). The correct Entity Annotation.
+
+3. Text Span: "soup"
+Label: (A). Correct Entity Annotation.

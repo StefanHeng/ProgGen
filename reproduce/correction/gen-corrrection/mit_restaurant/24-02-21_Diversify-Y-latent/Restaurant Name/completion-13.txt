@@ -1,0 +1,8 @@
+1. Text Span: "pizza restaurant"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "Papa John's"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Huddle House"
+Label: (A). Correct Entity Annotation.

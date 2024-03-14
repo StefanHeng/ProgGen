@@ -1,0 +1,8 @@
+1. "Can you recommend any coming of age movies rated at least 4.7/5 stars?"
+Named Entities: [coming of age (Genre), 4.7/5 stars (Viewers' Rating)]
+
+2. "What is the R-13 movie with a 90% rating on Rotten Tomatoes that involves a race against time?"
+Named Entities: [R-13 (MPAA Rating), 90% (Viewers' Rating), race against time (Plot)]
+
+3. "Show me a movie directed by Stephen Spielberg with a character named Spock."
+Named Entities: [Stephen Spielberg (Director), Spock (Character)]

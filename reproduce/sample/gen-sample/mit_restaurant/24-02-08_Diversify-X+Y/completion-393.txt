@@ -1,0 +1,8 @@
+1. "Find a high-end buffet restaurant in the Kings Buffet region"
+Named Entities: [high-end (Price), Kings Buffet (Restaurant Name), Region (Location)]
+
+2. "Recommend a buffet spot with upscale prices in the Kings Buffet area"
+Named Entities: [buffet (Amenity), upscale (Price), Kings Buffet (Location)]
+
+3. "Where can I have a luxurious buffet dining experience near Kings Buffet?"
+Named Entities: [luxurious (Rating), buffet (Amenity), Kings Buffet (Location)]

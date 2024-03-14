@@ -1,0 +1,8 @@
+1. Query: "Can you show me a film clip of the new Andrew Carter movie that is considered a must-see?"
+Named Entities: [Andrew Carter (Actor), film clip (Trailer), must-see (Viewers' Rating)]
+
+2. Query: "I am looking for a superhero origin film with LGBTQ+ representation"
+Named Entities: [superhero origin (Genre), LGBTQ+ (Genre)]
+
+3. Query: "What cult movie from the 90s has a first-rate promo?"
+Named Entities: [cult (Genre), 90s (Year), first-rate (Viewers' Rating), promo (Trailer)]

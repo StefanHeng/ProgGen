@@ -1,0 +1,8 @@
+Query: "What movie won the Best Picture award at the Oscars in 2019?"
+Named Entities: [Best Picture (Awards), Oscars (Awards), 2019 (Year)]
+
+Query: "Has Steven Spielberg directed any films that have won multiple Academy Awards?"
+Named Entities: [Steven Spielberg (Director), Academy Awards (Awards), multiple (Awards)]
+
+Query: "Show me a movie that was nominated for both Best Actor and Best Actress at the Golden Globes."
+Named Entities: [Best Actor (Awards), Best Actress (Awards), Golden Globes (Awards)]

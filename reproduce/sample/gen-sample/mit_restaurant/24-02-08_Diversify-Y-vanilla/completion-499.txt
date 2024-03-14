@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant in the downtown zone with expensive fare but great ratings"
+Named Entities: [downtown zone (Location), expensive fare (Price), great ratings (Rating)]
+
+Query: "where can I find a sushi restaurant that opens late in the night"
+Named Entities: [sushi (Cuisine), opens late in the night (Hours)]
+
+Query: "I want to try a place with outdoor seating and a diverse menu"
+Named Entities: [outdoor seating (Amenity), diverse menu (Amenity)]

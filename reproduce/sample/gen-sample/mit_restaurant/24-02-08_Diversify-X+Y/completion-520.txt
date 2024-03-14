@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with outdoor seating and a vegetarian menu?"
+Named Entities: [café (Cuisine), outdoor seating (Amenity), vegetarian (Dish)]
+
+Query: "What are the opening hours of El Patio Café?"
+Named Entities: [El Patio Café (Restaurant Name), opening hours (Hours)]
+
+Query: "I'm looking for a café with a cozy atmosphere and live music on weekends"
+Named Entities: [café (Cuisine), cozy atmosphere (Amenity), live music on weekends (Amenity)]

@@ -1,0 +1,8 @@
+1. "I'm craving some Chinese fast food, where can I find the nearest Panda Express?"
+Named Entities: [Chinese (Cuisine), fast food (Amenity), nearest (Location), Panda Express (Restaurant Name)]
+
+2. "What are the opening hours for Taco Bell near me?"
+Named Entities: [Taco Bell (Restaurant Name), near me (Location), opening hours (Hours)]
+
+3. "I want to grab a quick bite for less than 5 dollars, where can I get budget-friendly fast food?"
+Named Entities: [less than 5 dollars (Price), budget-friendly (Amenity), fast food (Amenity)]

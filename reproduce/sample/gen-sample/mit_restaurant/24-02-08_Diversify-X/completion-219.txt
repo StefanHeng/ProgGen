@@ -1,0 +1,8 @@
+Query: "are there any food trucks nearby that serve vegan dishes?"
+Named Entities: [food trucks (Restaurant Name), vegan dishes (Dish)]
+
+Query: "what food truck offers Mexican cuisine in this area?"
+Named Entities: [food truck (Restaurant Name), Mexican cuisine (Cuisine), this area (Location)]
+
+Query: "which food truck is open late and offers affordable options?"
+Named Entities: [food truck (Restaurant Name), open late (Hours), affordable options (Price)]

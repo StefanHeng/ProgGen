@@ -1,0 +1,8 @@
+1. "What are the top-rated movies featuring Michelle Pfeiffer?"
+   Named Entities: [Michelle Pfeiffer (Actor), top-rated (Viewers' Rating)]
+
+2. "Can you recommend a movie directed by Quentin Tarantino with an unforgettable plot?"
+   Named Entities: [Quentin Tarantino (Director), unforgettable (Plot)]
+
+3. "Is Anthony Hopkins in the movie The Terminator, and how would you rate it?"
+   Named Entities: [Anthony Hopkins (Actor), The Terminator (Title), rate (Viewers' Rating)]

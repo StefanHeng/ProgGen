@@ -1,0 +1,8 @@
+Query: "What are some restaurants with outdoor seating in the surroundings?"
+Named Entities: [outdoor seating (Amenity), surroundings (Location)]
+
+Query: "I'm in the mood for sushi. Can you recommend any nearby Japanese restaurants?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), nearby (Location)]
+
+Query: "Is there a highly-rated Italian restaurant with late night hours in the surroundings?"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), late night hours (Hours), surroundings (Location)]

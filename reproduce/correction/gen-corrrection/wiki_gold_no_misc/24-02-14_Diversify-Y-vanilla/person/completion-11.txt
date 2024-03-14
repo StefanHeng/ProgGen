@@ -1,0 +1,8 @@
+1. Text Span: "The Dark Knight"
+Label: (C). The span is not a named entity. The correct entity type is other.
+
+2. Text Span: "William Shakespeare"
+Label: (A). The span is a named entity of type person.
+
+3. Text Span: "Guccio Gucci"
+Label: (A). The span is a named entity of type person.

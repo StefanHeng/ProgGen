@@ -1,0 +1,8 @@
+1. "Can you tell me who the set designer was for the movie The Departed directed by Brian De Palma?"
+Named Entities: [set designer (Character), The Departed (Title), Brian De Palma (Director)]
+
+2. "Is there a movie with Clarice Starling as one of the characters that came out in 2022?"
+Named Entities: [Clarice Starling (Character), 2022 (Year)]
+
+3. "What genre of movies does Brian De Palma usually direct, and can you show me a trailer from one of his films?"
+Named Entities: [Brian De Palma (Director), trailer (Trailer)]

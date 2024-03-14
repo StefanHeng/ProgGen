@@ -1,0 +1,8 @@
+1. "Where is the nearest Burger King with a drive-thru?"
+Named Entities: [Burger King (Restaurant Name), nearest (Location), drive-thru (Amenity), fast food (Cuisine)]
+
+2. "What are the hours of operation for Taco Bell?"
+Named Entities: [Taco Bell (Restaurant Name), hours of operation (Hours), fast food (Cuisine)]
+
+3. "Do you know of any inexpensive fast food places with outdoor seating?"
+Named Entities: [inexpensive (Price), fast food (Cuisine), outdoor seating (Amenity)]

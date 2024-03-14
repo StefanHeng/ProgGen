@@ -1,0 +1,11 @@
+1. Sentence: "{{Protesters}} march in solidarity with Black Lives Matter movement."
+Text Span: "Protesters"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Sentence: "Celebrity {{chef}} to launch new line of organic cooking sauces."
+Text Span: "chef"
+Label: (D).
+
+3. Sentence: "{{local hero}} saves drowning child in dramatic rescue."
+Text Span: "local hero"
+Label: (D).

@@ -1,0 +1,8 @@
+1. "I'm craving some [Bangers and Mash], where can I find a restaurant that offers British cuisine?"
+Named Entities: [Bangers and Mash (Dish), British cuisine (Cuisine)]
+
+2. "What are the operating [hours] of the nearest Italian restaurant?"
+Named Entities: [hours (Hours), Italian restaurant (Cuisine)]
+
+3. "I'm looking for a [Bangers and Mash] dish that won't break the bank, do you know any affordable places?"
+Named Entities: [Bangers and Mash (Dish), affordable (Price)]

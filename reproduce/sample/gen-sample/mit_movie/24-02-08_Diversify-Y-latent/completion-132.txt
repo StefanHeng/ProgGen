@@ -1,0 +1,8 @@
+1. "Can you tell me the director of the movie Purple Rain and show me a trailer?"
+Named Entities: [Purple Rain (Title), director (Director), trailer (Trailer)]
+
+2. "What is the viewers' rating for Danny Boyle's latest film?"
+Named Entities: [Danny Boyle (Director), viewers' rating (Viewers' Rating)]
+
+3. "I'm looking for a movie with the song Don't You. Can you help me with that, please?"
+Named Entities: [Don't You (Song)]

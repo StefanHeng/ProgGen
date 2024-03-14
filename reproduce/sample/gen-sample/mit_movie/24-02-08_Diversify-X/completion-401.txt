@@ -1,0 +1,8 @@
+Query: "Yo, what's the deal with that new flick with the crazy plot twist at the end?"
+Named Entities: [plot twist (Plot)]
+
+Query: "Can you give me the lowdown on that movie where the guy goes all vigilante on the bad guys?"
+Named Entities: [vigilante (Plot)]
+
+Query: "Tell me about that film where the girl kicks butt and takes down the corrupt government, you know what I'm sayin'?"
+Named Entities: [kicks butt (Plot), corrupt government (Plot)]

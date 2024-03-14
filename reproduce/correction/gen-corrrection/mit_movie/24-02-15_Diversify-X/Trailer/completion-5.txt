@@ -1,0 +1,11 @@
+1. Query: "Can you show me the {{trailer}} for the latest romantic comedy film?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Show me a {{preview}} of the new Marvel movie directed by Taika Waititi"
+Text Span: "preview"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Show me the {{trailer}} for the latest Meryl Streep movie"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

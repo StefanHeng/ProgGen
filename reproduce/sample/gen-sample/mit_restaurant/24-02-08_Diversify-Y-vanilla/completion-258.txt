@@ -1,0 +1,8 @@
+Query: "What are the best pizza places in this area?"
+Named Entities: [pizza (Cuisine)]
+
+Query: "I'm in the mood for sushi, where can I find a good sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine)]
+
+Query: "Can you recommend a fine dining restaurant with a 5-star rating?"
+Named Entities: [fine dining (Amenity), 5-star (Rating)]

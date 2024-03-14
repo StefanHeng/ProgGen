@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie directed by Clint Eastwood with a hypnotic score?"
+   Named Entities: [Clint Eastwood (Director), hypnotic score (Plot)]
+
+2. Query: "Are there any movies about a midlife crisis that are rated PG-13?"
+   Named Entities: [midlife crisis (Plot), PG-13 (MPAA Rating)]
+
+3. Query: "What EDM song is featured in the movie M?"
+   Named Entities: [EDM (Song), M (Title)]

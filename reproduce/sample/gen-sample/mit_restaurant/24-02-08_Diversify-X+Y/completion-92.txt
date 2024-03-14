@@ -1,0 +1,8 @@
+1. "Can you recommend a pricy buffet restaurant on the outskirts of town?"
+Named Entities: [pricy (Price), outskirts (Location), buffet (Cuisine)]
+
+2. "I'm looking for a buffet place with high ratings outside the city. Any suggestions?"
+Named Entities: [high ratings (Rating), outside the city (Location), buffet (Cuisine)]
+
+3. "Where can I find a buffet restaurant with affordable prices in the outskirts of the city?"
+Named Entities: [affordable prices (Price), outskirts of the city (Location), buffet (Cuisine)]

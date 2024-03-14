@@ -1,0 +1,8 @@
+Sentence: "Tesla surpasses $1 trillion market cap."
+Named Entities: [Tesla (organization)]
+
+Sentence: "Elon Musk becomes the richest person in the world."
+Named Entities: [Elon Musk (person)]
+
+Sentence: "Amazon to open a new headquarters in New York City."
+Named Entities: [Amazon (organization), New York City (location)]

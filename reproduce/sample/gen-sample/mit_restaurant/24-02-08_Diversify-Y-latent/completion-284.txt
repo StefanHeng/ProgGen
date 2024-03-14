@@ -1,0 +1,8 @@
+1. "Where can I find value for money food options nearby?"
+Named Entities: [Value for money food options (Price)]
+
+2. "Do you know any restaurants with great vegetarian options?"
+Named Entities: [vegetarian options (Amenity)]
+
+3. "What are the operating hours of the nearest Italian restaurant?"
+Named Entities: [operating hours (Hours), Italian (Cuisine)]

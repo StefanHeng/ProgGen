@@ -1,0 +1,8 @@
+Sentence: "Universal Pictures releases highly anticipated blockbuster movie."
+Named Entities: [Universal Pictures (organization)]
+
+Sentence: "Famous actor signs multi-picture deal with Universal Pictures."
+Named Entities: [Universal Pictures (organization), actor (person)]
+
+Sentence: "Upcoming film festival to feature exclusive screenings of Universal Pictures' latest releases."
+Named Entities: [Universal Pictures (organization)]

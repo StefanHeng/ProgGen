@@ -1,0 +1,8 @@
+Query: "Can you show me a set tour of the Wes Anderson movie The Grand Budapest Hotel?"
+Named Entities: [set tour (Plot), Wes Anderson (Director), The Grand Budapest Hotel (Title)]
+
+Query: "Are there any behind-the-scenes features for a Wes Anderson film? I'm a big fan of his work."
+Named Entities: [behind-the-scenes (Plot), Wes Anderson (Director)]
+
+Query: "Can I watch a making-of documentary for a Wes Anderson movie? I really enjoy learning about the production process."
+Named Entities: [making-of documentary (Plot), Wes Anderson (Director)]

@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Inception?"
+   Named Entities: [Inception (Title)]
+
+2. Query: "Can you tell me the leading actor in The Shawshank Redemption?"
+   Named Entities: [The Shawshank Redemption (Title)]
+
+3. Query: "What is the genre of the movie The Matrix?"
+   Named Entities: [The Matrix (Title)]

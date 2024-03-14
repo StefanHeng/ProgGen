@@ -1,0 +1,8 @@
+Query: "what are the showtimes for the movie inception directed by christopher nolan"
+Named Entities: [inception (Title), christopher nolan (Director)]
+
+Query: "where can I buy tickets for the film wonder woman 1984"
+Named Entities: [wonder woman 1984 (Title)]
+
+Query: "what is the viewers' rating for the movie the shawshank redemption"
+Named Entities: [the shawshank redemption (Title), viewers' rating (Viewers' Rating)]

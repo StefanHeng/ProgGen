@@ -1,0 +1,8 @@
+Query: "What awards and nominations did the movie Pride and Prejudice, featuring Elizabeth Bennet, receive in its year of release?"
+Named Entities: [Pride and Prejudice (Title), Elizabeth Bennet (Character)]
+
+Query: "Is the film Interstellar, directed by Alexander Wright and starring Matthew McConaughey, considered a Best Picture contender?"
+Named Entities: [Interstellar (Title), Alexander Wright (Director), Matthew McConaughey (Actor), Best Picture contender (Review)]
+
+Query: "Can you tell me about the awards and nominations received by the movie Dallas Buyers Club, which starred Matthew McConaughey?"
+Named Entities: [Dallas Buyers Club (Title), Matthew McConaughey (Actor)]

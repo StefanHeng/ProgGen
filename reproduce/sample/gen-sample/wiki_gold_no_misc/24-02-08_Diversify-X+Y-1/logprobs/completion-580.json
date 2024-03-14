@@ -1,0 +1,1026 @@
+[
+    { "token": "1", "bytes": [49], "logprob": -0.21751647, "top_logprobs": [] },
+    {
+        "token": ".",
+        "bytes": [46],
+        "logprob": -1.2590794e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Bir",
+        "bytes": [32, 66, 105, 114],
+        "logprob": -0.07564602,
+        "top_logprobs": []
+    },
+    {
+        "token": "ut",
+        "bytes": [117, 116],
+        "logprob": -0.00015133653,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\xc4",
+        "bytes": [196],
+        "logprob": -2.0572925,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\x97",
+        "bytes": [151],
+        "logprob": -2.9352968e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " G",
+        "bytes": [32, 71],
+        "logprob": -1.247159e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "ald",
+        "bytes": [97, 108, 100],
+        "logprob": -9.014684e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ik",
+        "bytes": [105, 107],
+        "logprob": -3.0232935e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "as",
+        "bytes": [97, 115],
+        "logprob": -2.4584822e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " is",
+        "bytes": [32, 105, 115],
+        "logprob": -0.01406795,
+        "top_logprobs": []
+    },
+    {
+        "token": " a",
+        "bytes": [32, 97],
+        "logprob": -0.0025805358,
+        "top_logprobs": []
+    },
+    {
+        "token": " prim",
+        "bytes": [32, 112, 114, 105, 109],
+        "logprob": -3.7407622,
+        "top_logprobs": []
+    },
+    {
+        "token": "at",
+        "bytes": [97, 116],
+        "logprob": -3.7027545e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "ologist",
+        "bytes": [111, 108, 111, 103, 105, 115, 116],
+        "logprob": -4.604148e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " known",
+        "bytes": [32, 107, 110, 111, 119, 110],
+        "logprob": -0.6482891,
+        "top_logprobs": []
+    },
+    {
+        "token": " for",
+        "bytes": [32, 102, 111, 114],
+        "logprob": -8.418666e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " her",
+        "bytes": [32, 104, 101, 114],
+        "logprob": -4.3941356e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " study",
+        "bytes": [32, 115, 116, 117, 100, 121],
+        "logprob": -0.7846348,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -0.10496535,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -2.8059351,
+        "top_logprobs": []
+    },
+    {
+        "token": " behavior",
+        "bytes": [32, 98, 101, 104, 97, 118, 105, 111, 114],
+        "logprob": -1.093462,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.058213033,
+        "top_logprobs": []
+    },
+    {
+        "token": " social",
+        "bytes": [32, 115, 111, 99, 105, 97, 108],
+        "logprob": -0.9867068,
+        "top_logprobs": []
+    },
+    {
+        "token": " organization",
+        "bytes": [32, 111, 114, 103, 97, 110, 105, 122, 97, 116, 105, 111, 110],
+        "logprob": -0.008582424,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -3.035214e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " orang",
+        "bytes": [32, 111, 114, 97, 110, 103],
+        "logprob": -0.34620312,
+        "top_logprobs": []
+    },
+    {
+        "token": "ut",
+        "bytes": [117, 116],
+        "logprob": -1.7716551e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "ans",
+        "bytes": [97, 110, 115],
+        "logprob": -7.226629e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " in",
+        "bytes": [32, 105, 110],
+        "logprob": -0.0080764275,
+        "top_logprobs": []
+    },
+    {
+        "token": " their",
+        "bytes": [32, 116, 104, 101, 105, 114],
+        "logprob": -0.14338611,
+        "top_logprobs": []
+    },
+    {
+        "token": " natural",
+        "bytes": [32, 110, 97, 116, 117, 114, 97, 108],
+        "logprob": -0.005105799,
+        "top_logprobs": []
+    },
+    {
+        "token": " habitat",
+        "bytes": [32, 104, 97, 98, 105, 116, 97, 116],
+        "logprob": -0.0059285588,
+        "top_logprobs": []
+    },
+    {
+        "token": " in",
+        "bytes": [32, 105, 110],
+        "logprob": -1.8186042,
+        "top_logprobs": []
+    },
+    {
+        "token": " B",
+        "bytes": [32, 66],
+        "logprob": -0.07717017,
+        "top_logprobs": []
+    },
+    {
+        "token": "orne",
+        "bytes": [111, 114, 110, 101],
+        "logprob": -3.650519e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "o",
+        "bytes": [111],
+        "logprob": -0.00012725739,
+        "top_logprobs": []
+    },
+    {
+        "token": ".\n",
+        "bytes": [46, 10],
+        "logprob": -0.38788852,
+        "top_logprobs": []
+    },
+    {
+        "token": "Named",
+        "bytes": [78, 97, 109, 101, 100],
+        "logprob": -0.007337672,
+        "top_logprobs": []
+    },
+    {
+        "token": " Entities",
+        "bytes": [32, 69, 110, 116, 105, 116, 105, 101, 115],
+        "logprob": -3.9530823e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ":",
+        "bytes": [58],
+        "logprob": -5.080963e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " [",
+        "bytes": [32, 91],
+        "logprob": -3.4121115e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "B",
+        "bytes": [66],
+        "logprob": -8.418666e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "irut",
+        "bytes": [105, 114, 117, 116],
+        "logprob": -0.0014224953,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\xc4",
+        "bytes": [196],
+        "logprob": -0.027515406,
+        "top_logprobs": []
+    },
+    { "token": "\\x97", "bytes": [151], "logprob": 0.0, "top_logprobs": [] },
+    {
+        "token": " G",
+        "bytes": [32, 71],
+        "logprob": -5.7961847e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ald",
+        "bytes": [97, 108, 100],
+        "logprob": -2.3392786e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ik",
+        "bytes": [105, 107],
+        "logprob": -1.11603495e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "as",
+        "bytes": [97, 115],
+        "logprob": -1.147242e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -0.0001505021,
+        "top_logprobs": []
+    },
+    {
+        "token": "person",
+        "bytes": [112, 101, 114, 115, 111, 110],
+        "logprob": -1.0087517e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -0.0019036512,
+        "top_logprobs": []
+    },
+    {
+        "token": " B",
+        "bytes": [32, 66],
+        "logprob": -2.220075e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "orne",
+        "bytes": [111, 114, 110, 101],
+        "logprob": -6.511407e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "o",
+        "bytes": [111],
+        "logprob": -0.000106046464,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -7.922564e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "location",
+        "bytes": [108, 111, 99, 97, 116, 105, 111, 110],
+        "logprob": -1.0564331e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ")]\n\n",
+        "bytes": [41, 93, 10, 10],
+        "logprob": -0.015149326,
+        "top_logprobs": []
+    },
+    {
+        "token": "2",
+        "bytes": [50],
+        "logprob": -2.1650272e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": ".",
+        "bytes": [46],
+        "logprob": -1.5928495e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " In",
+        "bytes": [32, 73, 110],
+        "logprob": -2.7561269,
+        "top_logprobs": []
+    },
+    {
+        "token": " her",
+        "bytes": [32, 104, 101, 114],
+        "logprob": -0.5197695,
+        "top_logprobs": []
+    },
+    {
+        "token": " work",
+        "bytes": [32, 119, 111, 114, 107],
+        "logprob": -0.6255988,
+        "top_logprobs": []
+    },
+    {
+        "token": ",",
+        "bytes": [44],
+        "logprob": -0.049089838,
+        "top_logprobs": []
+    },
+    {
+        "token": " Bir",
+        "bytes": [32, 66, 105, 114],
+        "logprob": -0.24862668,
+        "top_logprobs": []
+    },
+    {
+        "token": "ut",
+        "bytes": [117, 116],
+        "logprob": -5.574252e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\xc4",
+        "bytes": [196],
+        "logprob": -0.00037442712,
+        "top_logprobs": []
+    },
+    { "token": "\\x97", "bytes": [151], "logprob": 0.0, "top_logprobs": [] },
+    {
+        "token": " G",
+        "bytes": [32, 71],
+        "logprob": -1.6240566e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ald",
+        "bytes": [97, 108, 100],
+        "logprob": -3.0545007e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ik",
+        "bytes": [105, 107],
+        "logprob": -5.5577775e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "as",
+        "bytes": [97, 115],
+        "logprob": -2.220075e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " has",
+        "bytes": [32, 104, 97, 115],
+        "logprob": -0.3200638,
+        "top_logprobs": []
+    },
+    {
+        "token": " emphasized",
+        "bytes": [32, 101, 109, 112, 104, 97, 115, 105, 122, 101, 100],
+        "logprob": -1.3810251,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -0.0013516645,
+        "top_logprobs": []
+    },
+    {
+        "token": " importance",
+        "bytes": [32, 105, 109, 112, 111, 114, 116, 97, 110, 99, 101],
+        "logprob": -0.1188191,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -5.121278e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " protection",
+        "bytes": [32, 112, 114, 111, 116, 101, 99, 116, 105, 111, 110],
+        "logprob": -8.199381,
+        "top_logprobs": []
+    },
+    {
+        "token": " for",
+        "bytes": [32, 102, 111, 114],
+        "logprob": -2.198351,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -0.43469888,
+        "top_logprobs": []
+    },
+    {
+        "token": " rain",
+        "bytes": [32, 114, 97, 105, 110],
+        "logprob": -0.5647203,
+        "top_logprobs": []
+    },
+    {
+        "token": "fore",
+        "bytes": [102, 111, 114, 101],
+        "logprob": -0.7158499,
+        "top_logprobs": []
+    },
+    {
+        "token": "sts",
+        "bytes": [115, 116, 115],
+        "logprob": -2.577686e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " that",
+        "bytes": [32, 116, 104, 97, 116],
+        "logprob": -2.056687,
+        "top_logprobs": []
+    },
+    {
+        "token": " are",
+        "bytes": [32, 97, 114, 101],
+        "logprob": -0.42461732,
+        "top_logprobs": []
+    },
+    {
+        "token": " crucial",
+        "bytes": [32, 99, 114, 117, 99, 105, 97, 108],
+        "logprob": -3.229168,
+        "top_logprobs": []
+    },
+    {
+        "token": " to",
+        "bytes": [32, 116, 111],
+        "logprob": -0.2476651,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -0.033481095,
+        "top_logprobs": []
+    },
+    {
+        "token": " survival",
+        "bytes": [32, 115, 117, 114, 118, 105, 118, 97, 108],
+        "logprob": -0.0068652714,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -0.00032855204,
+        "top_logprobs": []
+    },
+    {
+        "token": " orang",
+        "bytes": [32, 111, 114, 97, 110, 103],
+        "logprob": -0.16545886,
+        "top_logprobs": []
+    },
+    {
+        "token": "ut",
+        "bytes": [117, 116],
+        "logprob": -0.08267983,
+        "top_logprobs": []
+    },
+    {
+        "token": "ans",
+        "bytes": [97, 110, 115],
+        "logprob": -1.9816675e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.15610585,
+        "top_logprobs": []
+    },
+    {
+        "token": " other",
+        "bytes": [32, 111, 116, 104, 101, 114],
+        "logprob": -0.10578877,
+        "top_logprobs": []
+    },
+    {
+        "token": " wildlife",
+        "bytes": [32, 119, 105, 108, 100, 108, 105, 102, 101],
+        "logprob": -0.0017981117,
+        "top_logprobs": []
+    },
+    {
+        "token": " species",
+        "bytes": [32, 115, 112, 101, 99, 105, 101, 115],
+        "logprob": -0.18449362,
+        "top_logprobs": []
+    },
+    {
+        "token": ".\n",
+        "bytes": [46, 10],
+        "logprob": -0.0016397121,
+        "top_logprobs": []
+    },
+    {
+        "token": "Named",
+        "bytes": [78, 97, 109, 101, 100],
+        "logprob": -2.6968896e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " Entities",
+        "bytes": [32, 69, 110, 116, 105, 116, 105, 101, 115],
+        "logprob": -7.107425e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": ":",
+        "bytes": [58],
+        "logprob": -3.070975e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " [",
+        "bytes": [32, 91],
+        "logprob": -2.1531068e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "B",
+        "bytes": [66],
+        "logprob": -1.0683535e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "irut",
+        "bytes": [105, 114, 117, 116],
+        "logprob": -6.253713e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\xc4",
+        "bytes": [196],
+        "logprob": -1.9361265e-7,
+        "top_logprobs": []
+    },
+    { "token": "\\x97", "bytes": [151], "logprob": 0.0, "top_logprobs": [] },
+    {
+        "token": " G",
+        "bytes": [32, 71],
+        "logprob": -7.3458323e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ald",
+        "bytes": [97, 108, 100],
+        "logprob": -5.5122365e-7,
+        "top_logprobs": []
+    },
+    {
+        "token": "ik",
+        "bytes": [105, 107],
+        "logprob": -3.650519e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "as",
+        "bytes": [97, 115],
+        "logprob": -1.6240566e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -6.6306106e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "person",
+        "bytes": [112, 101, 114, 115, 111, 110],
+        "logprob": -1.6240566e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": ")]\n\n",
+        "bytes": [41, 93, 10, 10],
+        "logprob": -0.00022690064,
+        "top_logprobs": []
+    },
+    {
+        "token": "3",
+        "bytes": [51],
+        "logprob": -2.220075e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": ".",
+        "bytes": [46],
+        "logprob": -1.4021238e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " The",
+        "bytes": [32, 84, 104, 101],
+        "logprob": -0.16688834,
+        "top_logprobs": []
+    },
+    {
+        "token": " research",
+        "bytes": [32, 114, 101, 115, 101, 97, 114, 99, 104],
+        "logprob": -0.6695557,
+        "top_logprobs": []
+    },
+    {
+        "token": " conducted",
+        "bytes": [32, 99, 111, 110, 100, 117, 99, 116, 101, 100],
+        "logprob": -0.0054489705,
+        "top_logprobs": []
+    },
+    {
+        "token": " by",
+        "bytes": [32, 98, 121],
+        "logprob": -1.9361265e-7,
+        "top_logprobs": []
+    },
+    {
+        "token": " Bir",
+        "bytes": [32, 66, 105, 114],
+        "logprob": -0.0008108172,
+        "top_logprobs": []
+    },
+    {
+        "token": "ut",
+        "bytes": [117, 116],
+        "logprob": -0.0002484655,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\xc4",
+        "bytes": [196],
+        "logprob": -0.00025061116,
+        "top_logprobs": []
+    },
+    { "token": "\\x97", "bytes": [151], "logprob": 0.0, "top_logprobs": [] },
+    {
+        "token": " G",
+        "bytes": [32, 71],
+        "logprob": -2.9352968e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ald",
+        "bytes": [97, 108, 100],
+        "logprob": -4.365741e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ik",
+        "bytes": [105, 107],
+        "logprob": -1.0325924e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "as",
+        "bytes": [97, 115],
+        "logprob": -1.0683535e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " at",
+        "bytes": [32, 97, 116],
+        "logprob": -5.824513,
+        "top_logprobs": []
+    },
+    {
+        "token": " Camp",
+        "bytes": [32, 67, 97, 109, 112],
+        "logprob": -0.55920655,
+        "top_logprobs": []
+    },
+    {
+        "token": " Le",
+        "bytes": [32, 76, 101],
+        "logprob": -0.00010640408,
+        "top_logprobs": []
+    },
+    {
+        "token": "ake",
+        "bytes": [97, 107, 101],
+        "logprob": -0.00037275828,
+        "top_logprobs": []
+    },
+    {
+        "token": "y",
+        "bytes": [121],
+        "logprob": -7.9418505e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " has",
+        "bytes": [32, 104, 97, 115],
+        "logprob": -0.41432813,
+        "top_logprobs": []
+    },
+    {
+        "token": " contributed",
+        "bytes": [32, 99, 111, 110, 116, 114, 105, 98, 117, 116, 101, 100],
+        "logprob": -0.68168926,
+        "top_logprobs": []
+    },
+    {
+        "token": " significantly",
+        "bytes": [
+            32, 115, 105, 103, 110, 105, 102, 105, 99, 97, 110, 116, 108, 121
+        ],
+        "logprob": -0.07388443,
+        "top_logprobs": []
+    },
+    {
+        "token": " to",
+        "bytes": [32, 116, 111],
+        "logprob": -1.5928495e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " the",
+        "bytes": [32, 116, 104, 101],
+        "logprob": -2.2383041,
+        "top_logprobs": []
+    },
+    {
+        "token": " understanding",
+        "bytes": [
+            32, 117, 110, 100, 101, 114, 115, 116, 97, 110, 100, 105, 110, 103
+        ],
+        "logprob": -0.01932424,
+        "top_logprobs": []
+    },
+    {
+        "token": " of",
+        "bytes": [32, 111, 102],
+        "logprob": -0.004850292,
+        "top_logprobs": []
+    },
+    {
+        "token": " orang",
+        "bytes": [32, 111, 114, 97, 110, 103],
+        "logprob": -0.040777422,
+        "top_logprobs": []
+    },
+    {
+        "token": "utan",
+        "bytes": [117, 116, 97, 110],
+        "logprob": -0.015355606,
+        "top_logprobs": []
+    },
+    {
+        "token": " ecology",
+        "bytes": [32, 101, 99, 111, 108, 111, 103, 121],
+        "logprob": -0.255342,
+        "top_logprobs": []
+    },
+    {
+        "token": " and",
+        "bytes": [32, 97, 110, 100],
+        "logprob": -0.010908099,
+        "top_logprobs": []
+    },
+    {
+        "token": " conservation",
+        "bytes": [32, 99, 111, 110, 115, 101, 114, 118, 97, 116, 105, 111, 110],
+        "logprob": -0.4013156,
+        "top_logprobs": []
+    },
+    {
+        "token": " efforts",
+        "bytes": [32, 101, 102, 102, 111, 114, 116, 115],
+        "logprob": -0.054975607,
+        "top_logprobs": []
+    },
+    {
+        "token": " in",
+        "bytes": [32, 105, 110],
+        "logprob": -0.26229188,
+        "top_logprobs": []
+    },
+    {
+        "token": " Indonesia",
+        "bytes": [32, 73, 110, 100, 111, 110, 101, 115, 105, 97],
+        "logprob": -0.09495454,
+        "top_logprobs": []
+    },
+    {
+        "token": ".\n",
+        "bytes": [46, 10],
+        "logprob": -0.0030770637,
+        "top_logprobs": []
+    },
+    {
+        "token": "Named",
+        "bytes": [78, 97, 109, 101, 100],
+        "logprob": -6.0345924e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " Entities",
+        "bytes": [32, 69, 110, 116, 105, 116, 105, 101, 115],
+        "logprob": -9.133887e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": ":",
+        "bytes": [58],
+        "logprob": -1.8431772e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " [",
+        "bytes": [32, 91],
+        "logprob": -2.6968896e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "B",
+        "bytes": [66],
+        "logprob": -4.3941356e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "irut",
+        "bytes": [105, 114, 117, 116],
+        "logprob": -7.226629e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "\\xc4",
+        "bytes": [196],
+        "logprob": -4.8425554e-6,
+        "top_logprobs": []
+    },
+    { "token": "\\x97", "bytes": [151], "logprob": 0.0, "top_logprobs": [] },
+    {
+        "token": " G",
+        "bytes": [32, 71],
+        "logprob": -6.511407e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ald",
+        "bytes": [97, 108, 100],
+        "logprob": -1.147242e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ik",
+        "bytes": [105, 107],
+        "logprob": -1.700133e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "as",
+        "bytes": [97, 115],
+        "logprob": -1.2664457e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -1.3306016e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "person",
+        "bytes": [112, 101, 114, 115, 111, 110],
+        "logprob": -3.4121115e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -0.00059354363,
+        "top_logprobs": []
+    },
+    {
+        "token": " Camp",
+        "bytes": [32, 67, 97, 109, 112],
+        "logprob": -0.00041661054,
+        "top_logprobs": []
+    },
+    {
+        "token": " Le",
+        "bytes": [32, 76, 101],
+        "logprob": -6.511407e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "ake",
+        "bytes": [97, 107, 101],
+        "logprob": -9.221884e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": "y",
+        "bytes": [121],
+        "logprob": -2.1054253e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -7.58424e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": "location",
+        "bytes": [108, 111, 99, 97, 116, 105, 111, 110],
+        "logprob": -0.0006769312,
+        "top_logprobs": []
+    },
+    {
+        "token": "),",
+        "bytes": [41, 44],
+        "logprob": -2.5226382e-5,
+        "top_logprobs": []
+    },
+    {
+        "token": " Indonesia",
+        "bytes": [32, 73, 110, 100, 111, 110, 101, 115, 105, 97],
+        "logprob": -1.2664457e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": " (",
+        "bytes": [32, 40],
+        "logprob": -0.00022856948,
+        "top_logprobs": []
+    },
+    {
+        "token": "location",
+        "bytes": [108, 111, 99, 97, 116, 105, 111, 110],
+        "logprob": -8.418666e-6,
+        "top_logprobs": []
+    },
+    {
+        "token": ")]",
+        "bytes": [41, 93],
+        "logprob": -0.00014978688,
+        "top_logprobs": []
+    }
+]

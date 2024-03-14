@@ -1,0 +1,8 @@
+Query: "can you recommend a breakfast spot with outdoor seating"
+Named Entities: [breakfast (Cuisine), outdoor seating (Amenity)]
+
+Query: "what's a popular place for a morning meal with vegan options"
+Named Entities: [morning meal (Hours), vegan (Cuisine)]
+
+Query: "where can I find a cafe that serves brunch until 11 am"
+Named Entities: [cafe (Restaurant Name), brunch (Cuisine), until 11 am (Hours)]

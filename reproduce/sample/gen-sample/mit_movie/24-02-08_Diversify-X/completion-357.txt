@@ -1,0 +1,9 @@
+Sure, I've got some queries for you!
+1. "Hey, can you tell me who directed The Avengers and whether there's a documentary about the making of the film?"
+   Named Entities: [The Avengers (Title), documentary about the making of the film (Plot), director (Director)]
+
+2. "Do you know if there's a behind-the-scenes featurette for the latest Star Wars movie? I'd love to see how they created those special effects."
+   Named Entities: [behind-the-scenes featurette (Trailer), latest Star Wars movie (Title), special effects (Plot)]
+
+3. "What's the scoop on the new Christopher Nolan movie? Any insider details about the cast and crew?"
+   Named Entities: [new Christopher Nolan movie (Title), insider details (Plot), cast and crew (Actor/Director)]

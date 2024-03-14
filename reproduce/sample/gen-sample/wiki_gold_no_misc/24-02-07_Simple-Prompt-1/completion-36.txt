@@ -1,0 +1,137 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The Beatles were an English rock band formed in Liverpool in 1960."
+Named Entities: [The Beatles (organization), Liverpool (location), 1960 (location)]
+
+Sentence: "She was born and raised in Los Angeles, California."
+Named Entities: [Los Angeles (location), California (location)]
+
+Sentence: "The United Nations is an intergovernmental organization."
+Named Entities: [United Nations (organization)]
+
+Sentence: "He attended Harvard University in the 1960s."
+Named Entities: [Harvard University (organization), 1960s (location)]
+
+Sentence: "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci."
+Named Entities: [Mona Lisa (location), Leonardo da Vinci (person), Italian (location)]
+
+Sentence: "She became the CEO of Google in 2019."
+Named Entities: [Google (organization), 2019 (location)]
+
+Sentence: "The Great Barrier Reef is the world's largest coral reef system."
+Named Entities: [Great Barrier Reef (location)]
+
+Sentence: "He founded SpaceX, an aerospace manufacturer and space transportation company."
+Named Entities: [SpaceX (organization)]
+
+Sentence: "The Roman Empire was the post-Roman Republic period of ancient Rome."
+Named Entities: [Roman Empire (location), Rome (location)]
+
+Sentence: "The Harry Potter series was written by British author J.K. Rowling."
+Named Entities: [Harry Potter (organization), J.K. Rowling (person), British (location)]
+
+Sentence: "He served as the President of the United States from 2009 to 2017."
+Named Entities: [President of the United States (organization), 2009 (location), 2017 (location)]
+
+Sentence: "The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City."
+Named Entities: [Brooklyn Bridge (location), New York City (location)]
+
+Sentence: "She is a member of the World Health Organization."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "The Amazon Rainforest is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin."
+Named Entities: [Amazon Rainforest (location), Amazon biome (location)]
+
+Sentence: "Michael Jordan played 15 seasons in the National Basketball Association (NBA) for the Chicago Bulls and Washington Wizards."
+Named Entities: [Michael Jordan (person), National Basketball Association (organization), NBA (organization), Chicago Bulls (organization), Washington Wizards (organization)]
+
+Sentence: "She is a professor at Stanford University."
+Named Entities: [Stanford University (organization)]
+
+Sentence: "The Industrial Revolution was the transition to new manufacturing processes in Europe and the United States."
+Named Entities: [Industrial Revolution (location), Europe (location), United States (location)]
+
+Sentence: "John F. Kennedy was the 35th President of the United States."
+Named Entities: [John F. Kennedy (person), 35th President of the United States (organization)]
+
+Sentence: "She is the CEO of Facebook."
+Named Entities: [CEO, Facebook (organization)]
+
+Sentence: "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas."
+Named Entities: [Mount Everest (location), Earth (location), Mahalangur Himal (location), Himalayas (location)]
+
+Sentence: "The first moon landing was accomplished by NASA's Apollo 11 mission."
+Named Entities: [NASA (organization), Apollo 11 (organization)]
+
+Sentence: "Albert Einstein was a German-born theoretical physicist."
+Named Entities: [Albert Einstein (person), German (location)]
+
+Sentence: "She is a member of the United Nations Educational, Scientific and Cultural Organization (UNESCO)."
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (organization), UNESCO (organization)]
+
+Sentence: "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City."
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+
+Sentence: "She is the founder of the Bill & Melinda Gates Foundation."
+Named Entities: [Bill & Melinda Gates Foundation (organization)]
+
+Sentence: "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, New South Wales, Australia."
+Named Entities: [Sydney Opera House (location), Sydney Harbour (location), Sydney (location), New South Wales (location), Australia (location)]
+
+Sentence: "He was the Prime Minister of the United Kingdom during World War II."
+Named Entities: [Prime Minister of the United Kingdom (organization), World War II (location)]
+
+Sentence: "She is a member of the World Economic Forum."
+Named Entities: [World Economic Forum (organization)]
+
+Sentence: "The Titanic was a British passenger liner that sank in the North Atlantic Ocean in 1912."
+Named Entities: [Titanic (location), British (location), North Atlantic Ocean (location), 1912 (location)]
+
+Sentence: "He is the owner of Amazon.com."
+Named Entities: [Amazon.com (organization)]
+
+Sentence: "The Arc de Triomphe is one of the most famous monuments in Paris, France, standing at the western end of the Champs-Élysées."
+Named Entities: [Arc de Triomphe (location), Paris (location), France (location), Champs-Élysées (location)]
+
+Sentence: "She is the Secretary-General of the United Nations."
+Named Entities: [Secretary-General, United Nations (organization)]
+
+Sentence: "The Colosseum is an oval amphitheater in the center of the city of Rome, Italy."
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+Sentence: "He was the father of modern physics."
+Named Entities: [father, modern physics (organization)]
+
+Sentence: "The Louvre is the world's largest art museum and a historic monument in Paris, France."
+Named Entities: [Louvre (location), Paris (location), France (location)]
+
+Sentence: "She works for the World Wildlife Fund."
+Named Entities: [World Wildlife Fund (organization)]
+
+Sentence: "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra."
+Named Entities: [Taj Mahal (location), Yamuna River (location), Indian (location), Agra (location)]
+
+Sentence: "He was the CEO of Microsoft from 2000 to 2014."
+Named Entities: [CEO, Microsoft (organization), 2000 (location), 2014 (location)]
+
+Sentence: "The Nile is a major north-flowing river in northeastern Africa."
+Named Entities: [Nile (location), northeastern Africa (location)]
+
+Sentence: "He was an influential philosopher in Western civilization."
+Named Entities: [philosopher, Western civilization (location)]
+
+Sentence: "She is a member of the International Monetary Fund."
+Named Entities: [International Monetary Fund (organization)]
+
+Sentence: "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait connecting San Francisco Bay and the Pacific Ocean."
+Named Entities: [Golden Gate Bridge (location), Golden Gate (location), San Francisco Bay (location), Pacific Ocean (location)]
+
+Sentence: "He is the president of the European Commission."
+Named Entities: [president, European Commission (organization)]
+
+Sentence: "The British Museum was established in 1753 and is the first national public museum in the world."
+Named Entities: [British Museum (organization), 1753 (location)]
+
+Sentence: "She is the director of the National Aeronautics and Space Administration (NASA)."
+Named Entities: [National Aeronautics and Space Administration (organization), NASA (organization)]

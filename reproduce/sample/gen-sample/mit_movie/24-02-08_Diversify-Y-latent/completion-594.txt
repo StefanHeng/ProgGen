@@ -1,0 +1,8 @@
+1. "Could you recommend a movie directed by Wes Anderson and rated as the best picture?"
+Named Entities: [Wes Anderson (Director), best picture (Review)]
+
+2. "I'm looking for a movie with an assassination plot and involves political intrigue, possibly starring Ryan Reynolds."
+Named Entities: [assassination plot (Plot), political intrigue (Plot), Ryan Reynolds (Actor)]
+
+3. "Can you show me the A+ rated trailer for The Revenant?"
+Named Entities: [A+ (Viewers' Rating), The Revenant (Title), trailer (Trailer)]

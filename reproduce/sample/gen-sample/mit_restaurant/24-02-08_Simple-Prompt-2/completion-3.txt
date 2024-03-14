@@ -1,0 +1,149 @@
+1. "What's the best Italian restaurant in the area"
+   Named Entities: [Italian (Cuisine)]
+
+2. "I'm craving sushi, where's the closest place to get it"
+   Named Entities: [sushi (Cuisine), closest (Location)]
+
+3. "What time does Taco Bell close"
+   Named Entities: [Taco Bell (Restaurant Name), close (Hours)]
+
+4. "Recommend a good steakhouse with outdoor seating"
+   Named Entities: [steakhouse (Cuisine), outdoor seating (Amenity)]
+
+5. "I want to order some pizza for delivery"
+   Named Entities: [pizza (Cuisine), delivery (Amenity)]
+
+6. "Where can I find a cheap burger joint"
+   Named Entities: [cheap (Price), burger joint (Cuisine)]
+
+7. "What's the rating for the new Thai place downtown"
+   Named Entities: [Thai (Cuisine), rating (Rating), downtown (Location)]
+
+8. "Is there a vegan-friendly restaurant nearby"
+   Named Entities: [vegan-friendly (Amenity), nearby (Location)]
+
+9. "I'm looking for a brunch spot with bottomless mimosas"
+   Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+10. "Is there a 24-hour diner in this area"
+    Named Entities: [24-hour (Hours), diner (Cuisine), this area (Location)]
+
+11. "What's the cheapest place to get Chinese takeout"
+    Named Entities: [cheapest (Price), Chinese (Cuisine), takeout (Amenity)]
+
+12. "Find a family-friendly restaurant with a kids' menu"
+    Named Entities: [family-friendly (Amenity), kids' menu (Amenity)]
+
+13. "How much does the average meal cost at Olive Garden"
+    Named Entities: [average meal cost (Price), Olive Garden (Restaurant Name)]
+
+14. "What's the best seafood restaurant in town"
+    Named Entities: [seafood (Cuisine)]
+
+15. "Where can I have a nice dinner for a special occasion"
+    Named Entities: [nice dinner (Amenity), special occasion (Amenity)]
+
+16. "I need to make a reservation at the French bistro"
+    Named Entities: [reservation (Amenity), French bistro (Cuisine)]
+
+17. "Call the nearest McDonald's"
+    Named Entities: [nearest (Location), McDonald's (Restaurant Name)]
+
+18. "I'm in the mood for BBQ, where's the best place to go"
+    Named Entities: [BBQ (Cuisine), best place (Rating)]
+
+19. "What's the price range at the Italian restaurant on Main Street"
+    Named Entities: [price range (Price), Italian (Cuisine), Main Street (Location)]
+
+20. "Is there a Mexican restaurant with live music nearby"
+    Named Entities: [Mexican (Cuisine), live music (Amenity), nearby (Location)]
+
+21. "Find me a place with a good happy hour deal"
+    Named Entities: [good (Rating), happy hour (Amenity)]
+
+22. "I want to try authentic Indian cuisine for lunch"
+    Named Entities: [authentic (Rating), Indian (Cuisine), lunch (Hours)]
+
+23. "What's the rating for the new burger place on the corner"
+    Named Entities: [rating (Rating), burger place (Cuisine), on the corner (Location)]
+
+24. "Is there a 24-hour diner that serves pancakes"
+    Named Entities: [24-hour (Hours), diner (Cuisine), pancakes (Dish)]
+
+25. "I'm looking for a mid-priced Mediterranean restaurant"
+    Named Entities: [mid-priced (Price), Mediterranean (Cuisine)]
+
+26. "What's the best place for brunch in the city"
+    Named Entities: [best place (Rating), brunch (Amenity), city (Location)]
+
+27. "Where can I find a pub with craft beer on tap"
+    Named Entities: [pub (Cuisine), craft beer (Amenity)]
+
+28. "I'm craving ice cream, where's the nearest place to get it"
+    Named Entities: [ice cream (Cuisine), nearest (Location)]
+
+29. "What are the hours for the Thai restaurant downtown"
+    Named Entities: [hours (Hours), Thai (Cuisine), downtown (Location)]
+
+30. "What's the price range at the steakhouse near the park"
+    Named Entities: [price range (Price), steakhouse (Cuisine), near the park (Location)]
+
+31. "Is there a restaurant in the area with outdoor seating"
+    Named Entities: [outdoor seating (Amenity), area (Location)]
+
+32. "I'm looking for a quick lunch spot with vegetarian options"
+    Named Entities: [quick (Amenity), lunch (Hours), vegetarian (Cuisine)]
+
+33. "Where can I get inexpensive Chinese takeout"
+    Named Entities: [inexpensive (Price), Chinese (Cuisine), takeout (Amenity)]
+
+34. "What's the rating for the new Italian restaurant on 5th Avenue"
+    Named Entities: [rating (Rating), Italian (Cuisine), on 5th Avenue (Location)]
+
+35. "Is there a Mexican restaurant with outdoor seating nearby"
+    Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), nearby (Location)]
+
+36. "Find me a place with a good happy hour deal"
+    Named Entities: [good (Rating), happy hour (Amenity)]
+
+37. "I want to try authentic Japanese cuisine for dinner"
+    Named Entities: [authentic (Rating), Japanese (Cuisine), dinner (Hours)]
+
+38. "What's the rating for the new burger place on the corner"
+    Named Entities: [rating (Rating), burger place (Cuisine), on the corner (Location)]
+
+39. "Is there a 24-hour diner that serves pancakes"
+    Named Entities: [24-hour (Hours), diner (Cuisine), pancakes (Dish)]
+
+40. "I'm looking for a mid-priced Mediterranean restaurant"
+    Named Entities: [mid-priced (Price), Mediterranean (Cuisine)]
+
+41. "What's the best place for brunch in the city"
+    Named Entities: [best place (Rating), brunch (Amenity), city (Location)]
+
+42. "Where can I find a pub with craft beer on tap"
+    Named Entities: [pub (Cuisine), craft beer (Amenity)]
+
+43. "I'm craving ice cream, where's the nearest place to get it"
+    Named Entities: [ice cream (Cuisine), nearest (Location)]
+
+44. "What are the hours for the Thai restaurant downtown"
+    Named Entities: [hours (Hours), Thai (Cuisine), downtown (Location)]
+
+45. "What's the price range at the steakhouse near the park"
+    Named Entities: [price range (Price), steakhouse (Cuisine), near the park (Location)]
+
+46. "Is there a restaurant in the area with outdoor seating"
+    Named Entities: [outdoor seating (Amenity), area (Location)]
+
+47. "I'm looking for a quick lunch spot with vegetarian options"
+    Named Entities: [quick (Amenity), lunch (Hours), vegetarian (Cuisine)]
+
+48. "Where can I get inexpensive Chinese takeout"
+    Named Entities: [inexpensive (Price), Chinese (Cuisine), takeout (Amenity)]
+
+49. "What's the rating for the new Italian restaurant on 5th Avenue"
+    Named Entities: [rating (Rating), Italian (Cuisine), on 5th Avenue (Location)]
+
+50. "Is there a Mexican restaurant with outdoor seating nearby"
+    Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), nearby (Location)]

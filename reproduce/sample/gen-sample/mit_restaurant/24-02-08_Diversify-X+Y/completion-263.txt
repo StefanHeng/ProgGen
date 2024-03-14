@@ -1,0 +1,8 @@
+Query: "where can I find the best buffet in town with a trendy ambience"
+Named Entities: [Best buffet in town (Amenity), trendy (Amenity)]
+
+Query: "I'm looking for a pocket-friendly restaurant with buffet serving hours"
+Named Entities: [Pocket-friendly (Price), buffet (Amenity), Buffet serving hours (Hours)]
+
+Query: "which restaurant offers a trendy ambience and the best buffet in town"
+Named Entities: [trendy (Amenity), Best buffet in town (Amenity)]

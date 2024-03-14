@@ -1,0 +1,8 @@
+1. Text Span: "pre-teen girls"
+Label: (C). The span is not a named entity. Category: Genre
+
+2. Text Span: "funny"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "1.5"
+Label: (A). The span is a named entity of type viewers' rating

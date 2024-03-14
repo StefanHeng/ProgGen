@@ -1,0 +1,8 @@
+1. Query: "who directed the latest movie featuring Elastigirl and what year did it come out?"
+Named Entities: [Elastigirl (Character), Rian Johnson (Director), 2022 (Year)]
+
+2. Query: "show me a movie with the song Let's Get Loud in it"
+Named Entities: [Let's Get Loud (Song)]
+
+3. Query: "are there any movies set in the year 1899 that are worth watching?"
+Named Entities: [1899 (Year)]

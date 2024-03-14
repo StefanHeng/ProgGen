@@ -1,0 +1,59 @@
+1. Apple unveils new iPhone 13 models.
+Named Entities: [Apple (organization)]
+
+2. United States imposes sanctions on Russia.
+Named Entities: [United States (location), Russia (location)]
+
+3. New study shows link between climate change and extreme weather events.
+Named Entities: []
+
+4. Tennis star Serena Williams announces retirement.
+Named Entities: [Serena Williams (person)]
+
+5. European Union leaders discuss immigration policy.
+Named Entities: [European Union (organization)]
+
+6. CEO of Amazon, Jeff Bezos, steps down.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+7. Wildfire destroys thousands of acres in California.
+Named Entities: [California (location)]
+
+8. Pfizer seeks approval for Covid-19 vaccine booster shots.
+Named Entities: [Pfizer (organization)]
+
+9. Former president Barack Obama to speak at climate summit.
+Named Entities: [Barack Obama (person)]
+
+10. Ford Motor Company announces plans for electric vehicle production.
+Named Entities: [Ford Motor Company (organization)]
+
+11. Teen climate activist Greta Thunberg nominated for Nobel Peace Prize.
+Named Entities: [Greta Thunberg (person), Nobel Peace Prize (organization)]
+
+12. Flooding in India displaces thousands.
+Named Entities: [India (location)]
+
+13. World Health Organization declares new Covid-19 variant a "variant of concern."
+Named Entities: [World Health Organization (organization)]
+
+14. President Biden signs infrastructure bill into law.
+Named Entities: [Biden (person)]
+
+15. NASA rover discovers evidence of ancient life on Mars.
+Named Entities: [NASA (organization), Mars (location)]
+
+16. Facebook announces new measures to combat fake news.
+Named Entities: [Facebook (organization)]
+
+17. Australian government introduces new climate change legislation.
+Named Entities: [Australian (organization)]
+
+18. Alibaba founder Jack Ma reemerges after period of absence.
+Named Entities: [Alibaba (organization), Jack Ma (person)]
+
+19. Oil spill contaminates coastline in Louisiana.
+Named Entities: [Louisiana (location)]
+
+20. Juventus signs soccer prodigy from Argentina.
+Named Entities: [Juventus (organization), Argentina (location)]

@@ -1,0 +1,8 @@
+Query: "Is there a recommended restaurant in the area according to Frommer's guide"
+Named Entities: [Frommer's (Amenity)]
+
+Query: "What are the alcohol service hours at Precinct restaurant"
+Named Entities: [Precinct (Restaurant Name), Alcohol service hours (Hours)]
+
+Query: "I'm craving Italian cuisine, can you suggest a place with good ratings"
+Named Entities: [Italian (Cuisine), good ratings (Rating)]

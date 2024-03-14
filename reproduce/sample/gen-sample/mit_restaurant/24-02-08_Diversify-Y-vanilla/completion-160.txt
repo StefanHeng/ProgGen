@@ -1,0 +1,8 @@
+1. Query: "I'd like to make a reservation for a party of 6 at a nice Italian restaurant"
+Named Entities: [reservation (Amenity), party of 6 (Amenity), Italian (Cuisine)]
+
+2. Query: "What's the best seafood restaurant with outdoor seating in the city?"
+Named Entities: [best (Rating), seafood (Cuisine), outdoor seating (Amenity), city (Location)]
+
+3. Query: "Do you know of any sushi places open late at night near the hotel?"
+Named Entities: [sushi (Cuisine), open late at night (Hours), hotel (Location)]

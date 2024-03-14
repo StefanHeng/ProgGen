@@ -1,0 +1,8 @@
+Query: "Can you recommend a seafood restaurant with a high rating for dinner?"
+Named Entities: [seafood (Cuisine), high rating (Rating), dinner (Amenity)]
+
+Query: "I'm looking for a place with a good selection of vegetarian seafood dishes for dinner"
+Named Entities: [vegetarian seafood (Cuisine), dinner (Amenity)]
+
+Query: "What's the best place for a pescatarian dinner with outdoor seating?"
+Named Entities: [pescatarian (Dietary restriction), outdoor seating (Amenity), dinner (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a BAFTA nominated movie starring Samuel L. Jackson?"
+Named Entities: [BAFTA nominated (Viewers' Rating), Samuel L. Jackson (Actor)]
+
+2. Query: "What is the plot of Schindler's List?"
+Named Entities: [Schindler's List (Title), plot (Plot)]
+
+3. Query: "Show me a romantic movie featuring Amy Adams and a catchy trailer?"
+Named Entities: [romantic (Genre), Amy Adams (Actor), catchy (Trailer)]

@@ -1,0 +1,8 @@
+1. Text Span: "worth listening to"
+   Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "must-see"
+   Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "family-friendly"
+   Label: (C). Wrong Type. The correct entity type is Genre.

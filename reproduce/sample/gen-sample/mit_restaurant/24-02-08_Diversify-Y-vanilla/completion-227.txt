@@ -1,0 +1,8 @@
+1. "Can you recommend a Filipino restaurant with a patio for outdoor dining?"
+Named Entities: [Filipino (Cuisine), patio (Amenity)]
+
+2. "What are the hours of operation for the nearest Filipino restaurant?"
+Named Entities: [nearest (Location), Filipino (Cuisine), hours of operation (Hours)]
+
+3. "I'm in the mood for some authentic Filipino cuisine, where can I find a highly-rated restaurant?"
+Named Entities: [authentic Filipino cuisine (Cuisine), highly-rated (Rating), restaurant (Amenity)]

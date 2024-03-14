@@ -1,0 +1,8 @@
+1. "I'm looking for a café with outdoor seating and free wifi"
+Named Entities: [café (Cuisine), outdoor seating (Amenity), free wifi (Amenity)]
+
+2. "What's the price range for a brunch spot that serves avocado toast?"
+Named Entities: [brunch (Amenity), avocado toast (Dish), price range (Price)]
+
+3. "Can you recommend a café with a high rating in the downtown area?"
+Named Entities: [café (Cuisine), high rating (Rating), downtown area (Location)]

@@ -1,0 +1,8 @@
+Query: "I'm not sure if it's worth watching, but did the film The Social Network win any awards?"
+Named Entities: [The Social Network (Title), Awards and nominations (Genre)]
+
+Query: "I'm not really a fan of musicals, but did La La Land receive any nominations?"
+Named Entities: [La La Land (Title), Awards and nominations (Genre)]
+
+Query: "I'm not sure if it's relevant, but has the director of The Shape of Water, Guillermo del Toro, won any awards?"
+Named Entities: [The Shape of Water (Title), Guillermo del Toro (Director), Awards and nominations (Genre)]

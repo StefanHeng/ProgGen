@@ -1,0 +1,8 @@
+Query: "I'm craving some burgers, where can I find a fast food joint with good reviews"
+Named Entities: [burgers (Dish), fast food (Cuisine), good reviews (Rating)]
+
+Query: "what are the hours of operation for the nearest taco bell"
+Named Entities: [nearest (Location), taco bell (Restaurant Name), hours of operation (Hours)]
+
+Query: "show me a budget-friendly fast food restaurant with a drive-thru"
+Named Entities: [budget-friendly (Price), fast food (Cuisine), drive-thru (Amenity)]

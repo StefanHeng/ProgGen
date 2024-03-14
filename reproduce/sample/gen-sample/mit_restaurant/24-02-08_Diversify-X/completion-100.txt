@@ -1,0 +1,8 @@
+Query: "can you recommend a late-night dining option with a 24-hour menu"
+Named Entities: [late-night dining (Amenity), 24-hour (Hours)]
+
+Query: "show me a restaurant with a diverse menu for late-night dining"
+Named Entities: [diverse menu (Cuisine), late-night dining (Amenity)]
+
+Query: "find a place with affordable late-night dining options"
+Named Entities: [affordable (Price), late-night dining (Amenity)]

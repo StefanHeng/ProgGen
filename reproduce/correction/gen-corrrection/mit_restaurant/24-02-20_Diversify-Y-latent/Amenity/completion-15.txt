@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a {{Scenic}} restaurant with Argentine cuisine?"
+Text Span: "Scenic"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "Is there a place with {{live music}} and a high rating in the surrounding area?"
+Text Span: "live music"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "What are the hours of operation for Brio Tuscan Grille and do they have a {{happy hour}} special?"
+Text Span: "happy hour"
+Label: (A). The span is a named entity of type amenity

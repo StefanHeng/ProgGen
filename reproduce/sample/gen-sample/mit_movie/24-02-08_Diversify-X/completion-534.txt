@@ -1,0 +1,8 @@
+1. Spoken Query: "I'm really curious about the new James Bond movie, I wonder if there's a preview or teaser available?"
+   Named Entities: [James Bond (Character), preview or teaser (Trailer)]
+
+2. Spoken Query: "I'm looking for a film with a really catchy theme song, any suggestions?"
+   Named Entities: [catchy theme song (Song)]
+
+3. Spoken Query: "I heard there's a highly acclaimed director working on a new science fiction movie, do you know anything about it?"
+   Named Entities: [highly acclaimed director (Director), science fiction (Genre)]

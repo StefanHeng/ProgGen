@@ -1,0 +1,8 @@
+1. "Can you recommend a good road movie?"
+Named Entities: [Road Movie (Genre)]
+
+2. "What's the viewers' rating for the movie M?"
+Named Entities: [M (Title), viewers' rating (Viewers' Rating)]
+
+3. "Tell me about the plot of the movie My Girl"
+Named Entities: [My Girl (Title), plot (Plot)]

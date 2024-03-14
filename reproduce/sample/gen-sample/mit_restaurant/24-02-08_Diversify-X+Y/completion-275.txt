@@ -1,0 +1,8 @@
+Query: "Where can I find a superior café with outdoor seating?"
+Named Entities: [Superior café (Restaurant Name), outdoor seating (Amenity)]
+
+Query: "What is the best superior café in the downtown area for breakfast?"
+Named Entities: [Superior café (Restaurant Name), downtown (Location), breakfast (Cuisine)]
+
+Query: "I'm looking for a superior café with a cozy atmosphere and good coffee."
+Named Entities: [Superior café (Restaurant Name), cozy atmosphere (Amenity), good coffee (Dish)]

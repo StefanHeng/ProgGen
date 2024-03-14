@@ -1,0 +1,8 @@
+1. "Can you recommend a family-friendly movie featuring Shia LaBeouf?"
+Named Entities: [Shia LaBeouf (Actor), Family-friendly (MPAA Rating)]
+
+2. "What type of movie genre does Shia LaBeouf typically star in?"
+Named Entities: [Shia LaBeouf (Actor), movie genre (Genre)]
+
+3. "Could you show me a trailer for a family-friendly adventure movie with Shia LaBeouf?"
+Named Entities: [Shia LaBeouf (Actor), family-friendly (MPAA Rating), adventure (Genre), Trailer (Trailer)]

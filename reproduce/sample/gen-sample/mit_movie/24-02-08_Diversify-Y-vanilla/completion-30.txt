@@ -1,0 +1,8 @@
+1. Query: "Could you show me the trailer for the movie The Sound of Music, released in 2027?"
+   Named Entities: [The Sound of Music (Title), 2027 (Year), trailer (Trailer)]
+
+2. Query: "What's the viewers' rating for The Sound of Music?"
+   Named Entities: [The Sound of Music (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "Who directed The Sound of Music?"
+   Named Entities: [The Sound of Music (Title), directed (Director)]

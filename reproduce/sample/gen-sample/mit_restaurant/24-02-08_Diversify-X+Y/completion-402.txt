@@ -1,0 +1,8 @@
+Query: "Can you recommend a must-try lunch spot around the Las Vegas Strip?"
+Named Entities: [must-try (Rating), lunch (Amenity), Las Vegas (Location)]
+
+Query: "Where can I find a good lunch option near the Bellagio for a high school female student?"
+Named Entities: [good (Rating), lunch (Amenity), Bellagio (Location), high school (Amenity), female (Amenity)]
+
+Query: "I'm craving some delicious lunch, can you suggest a place like The Cheesecake Factory?"
+Named Entities: [delicious (Rating), lunch (Amenity), The Cheesecake Factory (Restaurant Name) ]

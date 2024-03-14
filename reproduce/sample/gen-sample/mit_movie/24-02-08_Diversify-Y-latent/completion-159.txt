@@ -1,0 +1,8 @@
+1. "Can you recommend a GP-rated fantasy movie featuring the character Jason Voorhees?"
+Named Entities: [GP (MPAA Rating), Fantasy (Genre), Jason Voorhees (Character)]
+
+2. "I'm in the mood for a rags to riches historical drama, can you suggest a good one?"
+Named Entities: [rags to riches (Plot), Historical drama (Genre)]
+
+3. "Show me an animation movie released in 2015 with a high viewers' rating."
+Named Entities: [2015 (Year), Animation (Genre), high viewers' rating (Viewers' Rating)]

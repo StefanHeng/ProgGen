@@ -1,0 +1,8 @@
+1. Query: "Are there any romantic comedy movies playing tonight where I can get tickets?"
+   Named Entities: [romantic comedy (Genre), tonight (Date)]
+
+2. Query: "Can I see the trailer for the new high school musical movie?"
+   Named Entities: [the new high school musical movie (Title), trailer (Trailer)]
+
+3. Query: "What's a good coming-of-age film that came out this year that I can watch?"
+   Named Entities: [coming-of-age (Genre), this year (Year)]

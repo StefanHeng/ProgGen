@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood restaurant with outdoor seating for dinner tonight?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), dinner tonight (Hours)]
+
+2. "What Mexican restaurants are open late in the downtown area?"
+Named Entities: [Mexican (Cuisine), open late (Hours), downtown area (Location)]
+
+3. "I'm craving sushi, do you know of any affordable sushi places nearby?"
+Named Entities: [sushi (Cuisine), affordable (Price), nearby (Location)]

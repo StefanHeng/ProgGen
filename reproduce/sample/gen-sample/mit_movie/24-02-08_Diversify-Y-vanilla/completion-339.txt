@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a low rating that came out in 1970?"
+Named Entities: [low rating (Viewers' Rating), 1970 (Year)]
+
+Query: "I'm looking for a historical war drama like Memento."
+Named Entities: [historical war drama (Genre), Memento (Title)]
+
+Query: "What is a cult classic film about terminal illness or a coming-of-age story?"
+Named Entities: [cult classic (Viewers' Rating), terminal illness (Plot), coming-of-age (Plot)]

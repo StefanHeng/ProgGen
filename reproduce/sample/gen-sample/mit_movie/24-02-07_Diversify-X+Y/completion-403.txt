@@ -1,0 +1,8 @@
+Query: "What is the main genre of the movie Parasite directed by Bong Joon-ho?"
+Named Entities: [Parasite (Title), Bong Joon-ho (Director)]
+
+Query: "Show me a movie starring Ryan Gosling in the crime subgenre."
+Named Entities: [Ryan Gosling (Actor), crime (Genre)]
+
+Query: "Can you recommend a romantic comedy movie featuring Julia Roberts?"
+Named Entities: [Julia Roberts (Actor), romantic comedy (Genre)]

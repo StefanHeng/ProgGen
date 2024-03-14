@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a superb brunch menu that's affordable?"
+Named Entities: [superb (Rating), brunch (Amenity), affordable (Price)]
+
+Query: "I'm looking for a place with a superb brunch, where can I find one with affordable prices?"
+Named Entities: [superb (Rating), brunch (Amenity), affordable prices (Price)]
+
+Query: "Do you know any restaurants around here that offer superb brunch at an affordable price?"
+Named Entities: [superb (Rating), brunch (Amenity), affordable price (Price)]

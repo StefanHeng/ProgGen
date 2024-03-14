@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a low-carb lunch spot with outdoor seating"
+   Named Entities: [low-carb (Dish), outdoor seating (Amenity)]
+
+2. Query: "Can you recommend a restaurant with salads and a lunch special?"
+   Named Entities: [salads (Cuisine), lunch special (Amenity)]
+
+3. Query: "I'm craving some protein for lunch, where can I find a steakhouse nearby?"
+   Named Entities: [protein (Dish), steakhouse (Restaurant Name)]

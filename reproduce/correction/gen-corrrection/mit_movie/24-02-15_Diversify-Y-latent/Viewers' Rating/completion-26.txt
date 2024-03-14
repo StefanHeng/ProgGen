@@ -1,0 +1,8 @@
+1. Text Span: "emotionally resonant"
+   Label: (C). The span is not a named entity. Entity Type: Genre
+
+2. Text Span: "amazing"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "high viewers' rating"
+   Label: (A). Correct Entity Annotation.

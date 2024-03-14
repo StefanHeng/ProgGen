@@ -1,0 +1,11 @@
+Spoken Movie Query: "Can you provide information about the cinematography of The King's Speech film?"
+Named Entities: [cinematography (Plot), The King's Speech (Title)]
+
+Spoken Movie Query: "What behind-the-scenes details can you provide about the making of Saving Private Ryan?"
+Named Entities: [behind-the-scenes (Plot), Saving Private Ryan (Title)]
+
+Spoken Movie Query: "I am interested in learning more about Alicia Vikander's role in which film?"
+Named Entities: [Alicia Vikander (Actor)]
+
+Spoken Movie Query: "Can you recommend a movie that delves into the technical aspects of filmmaking like lighting and sound design?"
+Named Entities: [lighting and sound design (Plot)]

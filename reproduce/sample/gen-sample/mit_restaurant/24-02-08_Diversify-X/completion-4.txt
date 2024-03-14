@@ -1,0 +1,8 @@
+1. "Where can I find a dairy-free food truck with affordable options nearby?"
+Named Entities: [dairy-free (Amenity), food truck (Cuisine), affordable (Price), nearby (Location)]
+
+2. "What are the top-rated dairy-free food trucks in the area?"
+Named Entities: [dairy-free (Amenity), food truck (Cuisine), top-rated (Rating), area (Location)]
+
+3. "Which food truck serves dairy-free dishes and stays open late?"
+Named Entities: [dairy-free (Amenity), food truck (Cuisine), open late (Hours)]

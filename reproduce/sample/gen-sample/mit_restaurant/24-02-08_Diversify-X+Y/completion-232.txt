@@ -1,0 +1,10 @@
+Sure, here are 3 synthetic spoken queries related to restaurants:
+
+1. "I'm looking for a late night buffet with a dessert bar for a gluten-free meal"
+Named Entities: [late night buffet (Amenity), dessert bar (Amenity), gluten-free (Dietary Restriction)]
+
+2. "What's the best gluten-free buffet restaurant in the area with a dessert bar?"
+Named Entities: [gluten-free (Dietary Restriction), buffet (Meal Category), dessert bar (Amenity)]
+
+3. "Find me a restaurant with a gluten-free late night buffet and a wide variety of dessert options"
+Named Entities: [gluten-free (Dietary Restriction), late night buffet (Amenity), dessert options (Amenity)]

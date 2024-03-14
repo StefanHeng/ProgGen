@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie with unforgettable performances by Stanley Donen?"
+Named Entities: [unforgettable performances (Review), Stanley Donen (Director)]
+
+2. Query: "Can you show me the trailer for the film directed by Stanley Donen?"
+Named Entities: [trailer (Trailer), Stanley Donen (Director)]
+
+3. Query: "What year did Stanley Donen direct the unforgettable movie with Cary Grant and Audrey Hepburn?"
+Named Entities: [Stanley Donen (Director), unforgettable (Review), Cary Grant (Actor), Audrey Hepburn (Actor)]

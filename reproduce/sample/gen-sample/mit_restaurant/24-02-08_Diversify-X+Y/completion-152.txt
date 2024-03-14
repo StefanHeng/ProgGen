@@ -1,0 +1,8 @@
+1. "Can you recommend a trendy café around here for brunch?"
+Named Entities: [brunch (Amenity), trendy (Amenity), café (Cuisine)]
+
+2. "I'm looking for a cool place to hang out with friends, maybe a café with outdoor seating?"
+Named Entities: [cool (Amenity), hang out with friends (Amenity), café (Cuisine), outdoor seating (Amenity)]
+
+3. "What's a good place for a quick bite to eat, maybe a trendy café with a cozy atmosphere?"
+Named Entities: [quick bite to eat (Amenity), trendy (Amenity), café (Cuisine), cozy atmosphere (Amenity), Chez Marie (Restaurant Name)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the director of the movie Inception?"
+Named Entities: [Inception (Title), director (Director)]
+
+2. "Show me a list of films starring Meryl Streep."
+Named Entities: [Meryl Streep (Actor)]
+
+3. "What's the viewers' rating for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]

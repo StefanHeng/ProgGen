@@ -1,0 +1,8 @@
+1. Text Span: "set designer"
+Label: (C). The span is a named entity but the category is not character. The correct entity type is Occupation.
+
+2. Text Span: "Luke Skywalker"
+Label: (A). The span is a named entity of type character.
+
+3. Text Span: "strong female leads"
+Label: (C). The span is a named entity but the category is not character. The correct entity type is other.

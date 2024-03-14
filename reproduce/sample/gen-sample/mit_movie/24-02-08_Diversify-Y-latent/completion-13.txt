@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie directed by Alfonso Cuarón that received an MA rating?"
+   Named Entities: [Alfonso Cuarón (Director), MA (MPAA Rating)]
+
+2. Query: "Show me a trailer for Captain Marvel."
+   Named Entities: [Captain Marvel (Title), Trailer]
+
+3. Query: "What year was Titanic released?"
+   Named Entities: [Titanic (Title), year (Year)]

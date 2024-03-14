@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a thought-provoking film with Qui-Gon Jinn as a character?"
+   Named Entities: [thought-provoking (Genre), Qui-Gon Jinn (Character)]
+
+2. Query: "I'm in the mood for a teen romance movie - can you suggest one with the song 'Don't Stop Believin'?"
+   Named Entities: [teen romance (Genre), Don't Stop Believin' (Song)]
+
+3. Query: "Who directed the movie that is a mix of fantasy and action and was released in 2010?"
+   Named Entities: [fantasy and action (Genre), 2010 (Year)]

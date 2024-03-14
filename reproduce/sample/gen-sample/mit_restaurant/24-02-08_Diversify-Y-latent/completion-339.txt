@@ -1,0 +1,8 @@
+Query: "Can you recommend a family-friendly restaurant with outdoor seating?"
+Named Entities: [family-friendly (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm craving Italian food, can you suggest a family-friendly restaurant nearby?"
+Named Entities: [Italian food (Cuisine), family-friendly (Amenity), nearby (Location)]
+
+Query: "What's the best family-friendly place for brunch on a Sunday morning?"
+Named Entities: [best (Rating), family-friendly (Amenity), brunch (Dish), Sunday morning (Hours)]

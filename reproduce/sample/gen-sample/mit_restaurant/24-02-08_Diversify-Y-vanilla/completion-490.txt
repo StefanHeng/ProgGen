@@ -1,0 +1,8 @@
+Query: "do you know any restaurants in the area with a smoking area?"
+Named Entities: [Smoking area (Amenity)]
+
+Query: "what's a highly-rated restaurant with outdoor seating, serving Italian cuisine?"
+Named Entities: [highly-rated (Rating), outdoor seating (Amenity), Italian cuisine (Cuisine)]
+
+Query: "where can I find a cheap burger joint that's open past midnight?"
+Named Entities: [cheap (Price), burger joint (Restaurant Name), past midnight (Hours)]

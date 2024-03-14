@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend a well-executed movie directed by Jordan Peele with an impeccable plot?"
+   Named Entities: [Jordan Peele (Director), well-executed (Review), impeccable (Plot)]
+
+2. Spoken Query: "What is the viewers' rating for the latest movie directed by Jordan Peele, known for its impeccable storyline?"
+   Named Entities: [Jordan Peele (Director), viewers' rating (Viewers' Rating), impeccable (Plot)]
+
+3. Spoken Query: "I'm looking for a movie with an impeccable director like Jordan Peele, that has received well-executed reviews. Can you suggest one?"
+   Named Entities: [Jordan Peele (Director), well-executed (Review), impeccable (Director)]

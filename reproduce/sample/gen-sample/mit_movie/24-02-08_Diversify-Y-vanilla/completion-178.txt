@@ -1,0 +1,8 @@
+Query: "What are some captivating movies released between 2008-2010"
+Named Entities: [captivating (Review), 2008-2010 (Year)]
+
+Query: "Show me the teaser trailer for the movie The Notebook"
+Named Entities: [teaser trailer (Trailer), The Notebook (Title)]
+
+Query: "Is there any movie starring Kevin Spacey and Rosamund Pike scheduled for release in 2024"
+Named Entities: [Kevin Spacey (Actor), Rosamund Pike (Actor), 2024 (Year)]

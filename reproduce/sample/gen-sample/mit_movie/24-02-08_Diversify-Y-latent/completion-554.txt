@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a romantic comedy with impressive production design?"
+Named Entities: [romantic comedy (Genre), impressive production design (Plot)]
+
+2. Query: "Show me a movie that is unrated and has an exciting plot"
+Named Entities: [unrated (MPAA Rating), exciting (Review)]
+
+3. Query: "Who is the director of the most impressive romantic comedy of the year?"
+Named Entities: [impressive (Review), romantic comedy (Genre), year (Year)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a nice place for brunch near me with upscale pricing?"
+Named Entities: [brunch (Amenity), upscale (Price)]
+
+Query: "What upscale restaurants in the area have a good brunch menu?"
+Named Entities: [upscale (Price), brunch (Amenity)]
+
+Query: "I'm looking for a fancy place to have brunch, any suggestions?"
+Named Entities: [fancy (Rating), brunch (Amenity)]

@@ -1,0 +1,396 @@
+{
+    "datasets": {
+        "conll2003": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence",
+                "Sentences"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Entity Names",
+                "Entities",
+                "Named Entities",
+                "Named Entity"
+            ],
+            "entity-types": [
+                "PER",
+                "LOC",
+                "ORG",
+                "MISC"
+            ],
+            "readable-entity-types": [
+                "person",
+                "location",
+                "organization",
+                "miscellaneous"
+            ],
+            "label2readable-label": {
+                "PER": "person",
+                "LOC": "location",
+                "ORG": "organization",
+                "MISC": "miscellaneous"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-person",
+                "I-person",
+                "B-location",
+                "I-location",
+                "B-organization",
+                "I-organization",
+                "B-miscellaneous",
+                "I-miscellaneous"
+            ]
+        },
+        "job-desc": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Named Entities"
+            ],
+            "entity-types": [
+                "Skill",
+                "Qualification",
+                "Experience",
+                "Domain",
+                "Occupation"
+            ],
+            "readable-entity-types": [
+                "Skill",
+                "Qualification",
+                "Experience",
+                "Domain",
+                "Occupation"
+            ]
+        },
+        "job-stack": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Named Entities"
+            ],
+            "entity-types": [
+                "Organization",
+                "Location",
+                "Profession",
+                "Contact",
+                "Name"
+            ],
+            "readable-entity-types": [
+                "Organization",
+                "Location",
+                "Profession",
+                "Contact",
+                "Name"
+            ]
+        },
+        "mit-movie": {
+            "x-name": "Query",
+            "x-name-pl": "Queries",
+            "x-decoded-name": [
+                "Query",
+                "Queries",
+                "Spoken Query"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Named Entities"
+            ],
+            "entity-types": [
+                "TITLE",
+                "RATINGS_AVERAGE",
+                "YEAR",
+                "GENRE",
+                "DIRECTOR",
+                "RATING",
+                "PLOT",
+                "ACTOR",
+                "TRAILER",
+                "SONG",
+                "REVIEW",
+                "CHARACTER"
+            ],
+            "readable-entity-types": [
+                "Title",
+                "Viewers' Rating",
+                "Year",
+                "Genre",
+                "Director",
+                "MPAA Rating",
+                "Plot",
+                "Actor",
+                "Trailer",
+                "Song",
+                "Review",
+                "Character"
+            ],
+            "label2readable-label": {
+                "TITLE": "Title",
+                "RATINGS_AVERAGE": "Viewers' Rating",
+                "YEAR": "Year",
+                "GENRE": "Genre",
+                "DIRECTOR": "Director",
+                "RATING": "MPAA Rating",
+                "PLOT": "Plot",
+                "ACTOR": "Actor",
+                "TRAILER": "Trailer",
+                "SONG": "Song",
+                "REVIEW": "Review",
+                "CHARACTER": "Character"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-Title",
+                "I-Title",
+                "B-Viewers' Rating",
+                "I-Viewers' Rating",
+                "B-Year",
+                "I-Year",
+                "B-Genre",
+                "I-Genre",
+                "B-Director",
+                "I-Director",
+                "B-MPAA Rating",
+                "I-MPAA Rating",
+                "B-Plot",
+                "I-Plot",
+                "B-Actor",
+                "I-Actor",
+                "B-Trailer",
+                "I-Trailer",
+                "B-Song",
+                "I-Song",
+                "B-Review",
+                "I-Review",
+                "B-Character",
+                "I-Character"
+            ]
+        },
+        "mit-restaurant": {
+            "x-name": "Query",
+            "x-name-pl": "Queries",
+            "x-decoded-name": [
+                "Query",
+                "Queries",
+                "Spoken Query"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Named Entities"
+            ],
+            "entity-types": [
+                "Restaurant_Name",
+                "Amenity",
+                "Cuisine",
+                "Dish",
+                "Hours",
+                "Location",
+                "Price",
+                "Rating"
+            ],
+            "readable-entity-types": [
+                "Restaurant Name",
+                "Amenity",
+                "Cuisine",
+                "Dish",
+                "Hours",
+                "Location",
+                "Price",
+                "Rating"
+            ],
+            "label2readable-label": {
+                "Restaurant_Name": "Restaurant Name",
+                "Amenity": "Amenity",
+                "Cuisine": "Cuisine",
+                "Dish": "Dish",
+                "Hours": "Hours",
+                "Location": "Location",
+                "Price": "Price",
+                "Rating": "Rating"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-Restaurant Name",
+                "I-Restaurant Name",
+                "B-Amenity",
+                "I-Amenity",
+                "B-Cuisine",
+                "I-Cuisine",
+                "B-Dish",
+                "I-Dish",
+                "B-Hours",
+                "I-Hours",
+                "B-Location",
+                "I-Location",
+                "B-Price",
+                "I-Price",
+                "B-Rating",
+                "I-Rating"
+            ]
+        },
+        "ncbi-disease": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence"
+            ],
+            "y-name": "Diseases",
+            "y-decoded-name": [
+                "Diseases"
+            ],
+            "entity-types": [
+                "Disease"
+            ],
+            "readable-entity-types": [
+                "disease"
+            ],
+            "label2readable-label": {
+                "Disease": "disease"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-disease",
+                "I-disease"
+            ]
+        },
+        "conll2003-no-misc": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence",
+                "Sentences"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Entity Names",
+                "Entities",
+                "Named Entities",
+                "Named Entity"
+            ],
+            "entity-types": [
+                "PER",
+                "LOC",
+                "ORG"
+            ],
+            "readable-entity-types": [
+                "person",
+                "location",
+                "organization"
+            ],
+            "label2readable-label": {
+                "PER": "person",
+                "LOC": "location",
+                "ORG": "organization"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-person",
+                "I-person",
+                "B-location",
+                "I-location",
+                "B-organization",
+                "I-organization"
+            ]
+        },
+        "wiki-gold": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence",
+                "Sentences"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Entity Names",
+                "Entities",
+                "Named Entities",
+                "Named Entity"
+            ],
+            "entity-types": [
+                "PER",
+                "LOC",
+                "ORG",
+                "MISC"
+            ],
+            "readable-entity-types": [
+                "person",
+                "location",
+                "organization",
+                "miscellaneous"
+            ],
+            "label2readable-label": {
+                "PER": "person",
+                "LOC": "location",
+                "ORG": "organization",
+                "MISC": "miscellaneous"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-person",
+                "I-person",
+                "B-location",
+                "I-location",
+                "B-organization",
+                "I-organization",
+                "B-miscellaneous",
+                "I-miscellaneous"
+            ]
+        },
+        "wiki-gold-no-misc": {
+            "x-name": "Sentence",
+            "x-name-pl": "Sentences",
+            "x-decoded-name": [
+                "Sentence",
+                "Sentences"
+            ],
+            "y-name": "Named Entities",
+            "y-decoded-name": [
+                "Entity Names",
+                "Entities",
+                "Named Entities",
+                "Named Entity"
+            ],
+            "entity-types": [
+                "PER",
+                "LOC",
+                "ORG"
+            ],
+            "readable-entity-types": [
+                "person",
+                "location",
+                "organization"
+            ],
+            "label2readable-label": {
+                "PER": "person",
+                "LOC": "location",
+                "ORG": "organization"
+            },
+            "readable-ner-tags": [
+                "O",
+                "B-person",
+                "I-person",
+                "B-location",
+                "I-location",
+                "B-organization",
+                "I-organization"
+            ]
+        }
+    },
+    "sub-directory-names": {
+        "step-wise": "step-wise",
+        "attr-prompt": "attr-prompt",
+        "diverse-context": "diverse-context",
+        "diverse-entity": "diverse-entity",
+        "diversity": "diversity-config"
+    }
+}

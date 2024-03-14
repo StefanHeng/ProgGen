@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Woody Allen movie that is both short and spellbinding?"
+   Named Entities: [Woody Allen (Director), short (Plot), spellbinding (Viewers' Rating)]
+
+2. Query: "Is The Princess Bride streamable on Netflix?"
+   Named Entities: [The Princess Bride (Title), streamable on Netflix (Genre)]
+
+3. Query: "What is the movie genre of The Princess Bride?"
+   Named Entities: [The Princess Bride (Title)]

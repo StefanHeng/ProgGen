@@ -1,0 +1,11 @@
+1. Sentence: "Kandahar Airfield is the largest NATO base in southern Afghanistan, providing vital support to the {{International Security Assistance Force}} (ISAF) mission."
+Text Span: "International Security Assistance Force"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Anna Wintour, the editor-in-chief of {{Vogue}}, is widely regarded as one of the most influential figures in the fashion industry."
+Text Span: "Vogue"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Machu Picchu, located in Peru, is a well-preserved ancient {{Incan}} city that is a UNESCO World Heritage site."
+Text Span: "Incan"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is other.

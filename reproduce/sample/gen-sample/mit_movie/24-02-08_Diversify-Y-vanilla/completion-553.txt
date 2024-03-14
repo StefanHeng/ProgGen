@@ -1,0 +1,8 @@
+1. "Can you recommend a tragic movie released in 2028 that has a behind-the-scenes featurette?"
+Named Entities: [tragic (Genre), 2028 (Year), behind-the-scenes featurette (Feature), movie (Title)]
+
+2. "What is the viewers' rating for Goodfellas?"
+Named Entities: [goodfellas (Title), viewers' rating (Viewers' Rating)]
+
+3. "Show me an exploitation film with a song that is considered the best of all time."
+Named Entities: [exploitation (Genre), best of all time (Review), song (Song)]

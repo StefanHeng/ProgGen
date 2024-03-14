@@ -1,0 +1,10 @@
+Synthetic Spoken Queries:
+
+1. "Can you recommend a sushi restaurant that opens until midnight?"
+Named Entities: [sushi (Cuisine), until midnight (Hours)]
+
+2. "I'm craving for some authentic Italian pasta, is there a place nearby?"
+Named Entities: [Italian (Cuisine)]
+
+3. "Where can I find a restaurant with a 5-star rating and outdoor seating area?"
+Named Entities: [5-star (Rating), outdoor seating area (Amenity)]

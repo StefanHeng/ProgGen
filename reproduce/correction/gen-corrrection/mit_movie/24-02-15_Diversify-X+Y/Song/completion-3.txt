@@ -1,0 +1,8 @@
+1. Text Span: "I Believe I Can Fly"
+Label: (A). The span is a named entity of type song
+
+2. Text Span: "soundtrack"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Enchanting music"
+Label: (C). Wrong Type. The correct entity type is other.

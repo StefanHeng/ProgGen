@@ -1,0 +1,8 @@
+1. The company has offices in New York, London, and Paris.
+Named Entities: [New York (location), London (location), Paris (location)]
+
+2. John Smith served as the CEO of XYZ Corporation from 2010 to 2015.
+Named Entities: [John Smith (person), XYZ Corporation (organization)]
+
+3. The Battle of Gettysburg was a turning point in the American Civil War.
+Named Entities: [Battle of Gettysburg (location), American Civil War (event)]

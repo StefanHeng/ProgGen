@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie directed by Wong Kar-wai that explores thought-provoking themes?"
+Named Entities: [Wong Kar-wai (Director), thought-provoking themes (Genre)]
+
+2. "Show me a trailer for the film featuring Ben Affleck and directed by Dario Argento"
+Named Entities: [trailer (Trailer), Ben Affleck (Actor), Dario Argento (Director)]
+
+3. "What is the MPAA rating for the movie with Ben Affleck that was released in 2019?"
+Named Entities: [Ben Affleck (Actor), 2019 (Year), MPAA rating (MPAA Rating)]

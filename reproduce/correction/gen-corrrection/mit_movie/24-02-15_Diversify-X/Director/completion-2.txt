@@ -1,0 +1,8 @@
+1. Text Span: "director"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "Steven Spielberg"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Ryan Coogler"
+Label: (A). Correct Entity Annotation.

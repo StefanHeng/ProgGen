@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a private dining room and a good wine selection"
+Named Entities: [restaurant (Amenity), private dining room (Amenity), good (Rating), wine selection (Amenity)]
+
+2. "Can you recommend a restaurant with a private dining room that serves Italian cuisine and is open until 10 pm?"
+Named Entities: [restaurant (Amenity), private dining room (Amenity), Italian (Cuisine), open until 10 pm (Hours)]
+
+3. "I need a place for dinner with a private dining room that has a romantic atmosphere and is within a moderate price range"
+Named Entities: [dinner (Amenity), private dining room (Amenity), romantic (Amenity), moderate price range (Price)]

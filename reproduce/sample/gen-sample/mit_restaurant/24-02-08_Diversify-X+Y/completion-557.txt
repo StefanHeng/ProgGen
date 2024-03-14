@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a parking lot in the Uptown area for lunch?"
+Named Entities: [Parking lot (Amenity), Uptown (Location), lunch (Hours)]
+
+Query: "I'm looking for a lunch spot with good ratings and a parking lot uptown, do you have any suggestions?"
+Named Entities: [good ratings (Rating), parking lot (Amenity), uptown (Location), lunch (Hours)]
+
+Query: "Where can I find a nice restaurant with a parking lot in Uptown for lunch?"
+Named Entities: [nice (Rating), parking lot (Amenity), Uptown (Location), lunch (Hours)]

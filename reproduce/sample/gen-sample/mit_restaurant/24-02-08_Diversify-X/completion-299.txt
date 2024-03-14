@@ -1,0 +1,8 @@
+Query: "do you know any brunch spots with outdoor seating"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm craving some eggs benedict, where's the best place for brunch"
+Named Entities: [eggs benedict (Dish), best (Rating), brunch (Amenity)]
+
+Query: "what's a good brunch place with bottomless mimosas"
+Named Entities: [good (Rating), brunch (Amenity), bottomless mimosas (Amenity)]

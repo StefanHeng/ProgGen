@@ -1,0 +1,8 @@
+Query: "I'm feeling really down. Can you recommend a drama movie that will make me cry?"
+Named Entities: [drama (Genre)]
+
+Query: "I'm in the mood for a tearjerker. Can you suggest a romance movie with a tragic plot?"
+Named Entities: [romance (Genre), tragic (Plot)]
+
+Query: "I need a movie to watch that will tug at my heartstrings. Do you have any recommendations for a coming-of-age film?"
+Named Entities: [coming-of-age (Genre)]

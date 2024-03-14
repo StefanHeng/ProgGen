@@ -1,0 +1,8 @@
+1. "Can you recommend any action-packed movies with compelling performances and a PG rating?"
+Named Entities: [action-packed (Genre), compelling performances (Review), PG (MPAA Rating)]
+
+2. "Have you heard of any military operation-themed movies directed by Alice Wu?"
+Named Entities: [military operation-themed (Genre), Alice Wu (Director)]
+
+3. "What movie features the song 'Livin’ on a Prayer' and has been receiving rave reviews?"
+Named Entities: [Livin’ on a Prayer (Song), rave reviews (Review)]

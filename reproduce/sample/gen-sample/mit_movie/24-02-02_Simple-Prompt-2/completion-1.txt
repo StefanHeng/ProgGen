@@ -1,0 +1,149 @@
+1. Can you recommend a good thriller movie from the 90s?
+   Named Entities: [thriller (Genre), 90s (Year)]
+
+2. Who directed the Lord of the Rings trilogy?
+   Named Entities: [Lord of the Rings (Title)]
+
+3. What is the viewers’ rating for The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), viewers’ rating (Rating)]
+
+4. Tell me about the latest Quentin Tarantino film.
+   Named Entities: [Quentin Tarantino (Director)]
+
+5. What is the plot of Inception?
+   Named Entities: [Inception (Title), plot (Plot)]
+
+6. Can you find a movie with Robert De Niro and Al Pacino together?
+   Named Entities: [Robert De Niro (Actor), Al Pacino (Actor)]
+
+7. Is there a trailer available for the new Batman movie?
+   Named Entities: [Batman (Title), trailer (Trailer)]
+
+8. What is the song featured in Titanic?
+   Named Entities: [Titanic (Title), song (Song)]
+
+9. Are there any good coming-of-age movies from the 2000s?
+   Named Entities: [coming-of-age (Genre), 2000s (Year)]
+
+10. Show me a movie with a strong female lead character.
+   Named Entities: [strong female lead (Character)]
+
+11. What is the MPAA rating for The Godfather?
+   Named Entities: [The Godfather (Title), MPAA rating (MPAA Rating)]
+
+12. Recommend a classic romantic comedy from the 80s.
+   Named Entities: [romantic comedy (Genre), 80s (Year)]
+
+13. Who is the director of The Matrix?
+   Named Entities: [The Matrix (Title), director (Director)]
+
+14. Can you find some reviews for the new Marvel movie?
+   Named Entities: [Marvel (Genre), reviews (Review)]
+
+15. Show me movies with Leonardo DiCaprio and Tom Hanks together.
+   Named Entities: [Leonardo DiCaprio (Actor), Tom Hanks (Actor)]
+
+16. What is the most recent sci-fi film that came out?
+   Named Entities: [sci-fi (Genre)]
+
+17. Tell me about the latest Steven Spielberg movie.
+   Named Entities: [Steven Spielberg (Director)]
+
+18. Is there a Harry Potter film with a dragon in it?
+   Named Entities: [Harry Potter (Title), dragon (Character)]
+
+19. Can you play a clip from the new Star Wars movie?
+   Named Entities: [Star Wars (Title), clip (Trailer)]
+
+20. Is there a documentary about space exploration?
+   Named Entities: [space exploration (Genre)]
+
+21. I'm looking for a feel-good film from the 90s.
+   Named Entities: [feel-good (Genre), 90s (Year)]
+
+22. What is the viewers’ rating for The Silence of the Lambs?
+   Named Entities: [The Silence of the Lambs (Title), viewers’ rating (Rating)]
+
+23. Who directed The Dark Knight?
+   Named Entities: [The Dark Knight (Title), director (Director)]
+
+24. What is the plot of The Prestige?
+   Named Entities: [The Prestige (Title), plot (Plot)]
+
+25. Can you find a movie with Meryl Streep and Tom Hanks together?
+   Named Entities: [Meryl Streep (Actor), Tom Hanks (Actor)]
+
+26. Is there a trailer available for the new James Bond movie?
+   Named Entities: [James Bond (Title), trailer (Trailer)]
+
+27. What is the song featured in Dirty Dancing?
+   Named Entities: [Dirty Dancing (Title), song (Song)]
+
+28. Are there any good independent films from the 2010s?
+   Named Entities: [independent (Genre), 2010s (Year)]
+
+29. Show me a movie with a strong male lead character.
+   Named Entities: [strong male lead (Character)]
+
+30. What is the MPAA rating for Titanic?
+   Named Entities: [Titanic (Title), MPAA rating (MPAA Rating)]
+
+31. Recommend a classic action movie from the 80s.
+   Named Entities: [action (Genre), 80s (Year)]
+
+32. Who is the director of The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), director (Director)]
+
+33. Can you find some reviews for the new horror movie?
+   Named Entities: [horror (Genre), reviews (Review)]
+
+34. Show me movies with Brad Pitt and Angelina Jolie together.
+   Named Entities: [Brad Pitt (Actor), Angelina Jolie (Actor)]
+
+35. What is the most recent animated film that came out?
+   Named Entities: [animated (Genre)]
+
+36. Tell me about the latest Christopher Nolan movie.
+   Named Entities: [Christopher Nolan (Director)]
+
+37. Is there a Pixar film with a talking fish in it?
+   Named Entities: [Pixar (Genre), talking fish (Character)]
+
+38. Can you play a clip from the new Jurassic Park movie?
+   Named Entities: [Jurassic Park (Title), clip (Trailer)]
+
+39. Is there a documentary about wildlife conservation?
+   Named Entities: [wildlife conservation (Genre)]
+
+40. I'm looking for a mind-bending film from the 2000s.
+   Named Entities: [mind-bending (Genre), 2000s (Year)]
+
+41. What is the viewers’ rating for The Dark Knight?
+   Named Entities: [The Dark Knight (Title), viewers’ rating (Rating)]
+
+42. Who directed Inglourious Basterds?
+   Named Entities: [Inglourious Basterds (Title), director (Director)]
+
+43. What is the plot of Pulp Fiction?
+   Named Entities: [Pulp Fiction (Title), plot (Plot)]
+
+44. Can you find a movie with Denzel Washington and Morgan Freeman together?
+   Named Entities: [Denzel Washington (Actor), Morgan Freeman (Actor)]
+
+45. Is there a trailer available for the new Fast and Furious movie?
+   Named Entities: [Fast and Furious (Title), trailer (Trailer)]
+
+46. What is the song featured in The Lion King?
+   Named Entities: [The Lion King (Title), song (Song)]
+
+47. Are there any good mystery films from the 2010s?
+   Named Entities: [mystery (Genre), 2010s (Year)]
+
+48. Show me a movie with a wise old mentor character.
+   Named Entities: [wise old mentor (Character)]
+
+49. What is the MPAA rating for The Wizard of Oz?
+   Named Entities: [The Wizard of Oz (Title), MPAA rating (MPAA Rating)]
+
+50. Recommend a classic fantasy movie from the 80s.
+   Named Entities: [fantasy (Genre), 80s (Year)]

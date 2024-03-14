@@ -1,0 +1,8 @@
+Sentence: "Regular physical activity can reduce the risk of chronic diseases such as cardiovascular disease, type 2 diabetes, and stroke."
+Named Entities: [cardiovascular disease (health), type 2 diabetes (health), stroke (health)]
+
+Sentence: "The World Health Organization (WHO) defines health as a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "Proper nutrition is essential for maintaining good health and preventing malnutrition-related diseases."
+Named Entities: []

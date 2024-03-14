@@ -1,0 +1,11 @@
+1. Query: "I heard that the latest {{action film}} starring Tom Hardy got mixed reviews. What's the story about anyway?"
+Text Span: "action film"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "I heard there's a new {{thriller}} movie out. What's the plot and who stars in it?"
+Text Span: "thriller"
+Label: (A). The span is a named entity of type genre
+
+3. Query: "I'm bored out of my mind, show me a classic {{romance}} movie featuring Audrey Hepburn."
+Text Span: "romance"
+Label: (A). The span is a named entity of type genre

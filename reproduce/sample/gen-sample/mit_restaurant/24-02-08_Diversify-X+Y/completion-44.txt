@@ -1,0 +1,8 @@
+1. "Where can I find a food truck serving Mexican cuisine for lunch?"
+Named Entities: [food truck (Amenity), Mexican (Cuisine), lunch (Meal Time)]
+
+2. "I'm looking for a nearby food truck with a good rating and affordable prices for a quick dinner after work."
+Named Entities: [food truck (Amenity), good rating (Rating), affordable (Price), dinner (Meal Time)]
+
+3. "I need to grab a snack from a food truck before my evening meeting. Any recommendations close by?"
+Named Entities: [food truck (Amenity), snack (Meal Type), evening (Meal Time)]

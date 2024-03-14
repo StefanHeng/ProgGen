@@ -1,0 +1,8 @@
+1. "I'm looking for a late-night dining spot with paleo options."
+Named Entities: [late-night dining (Amenity), paleo (Cuisine)]
+
+2. "Which restaurant nearby offers paleo dishes for late-night dining?"
+Named Entities: [paleo (Cuisine), late-night dining (Amenity)]
+
+3. "Can you recommend a place with paleo-friendly options for late-night dining?"
+Named Entities: [paleo-friendly (Cuisine), late-night dining (Amenity)]

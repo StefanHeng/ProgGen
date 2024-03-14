@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Italian food, where can I find a place with great eggplant parmesan?"
+Named Entities: [Italian (Cuisine), eggplant parmesan (Dish)]
+
+Query: "I need a restaurant with outdoor seating and good ratings for a birthday dinner"
+Named Entities: [outdoor seating (Amenity), good ratings (Rating), birthday dinner (Amenity)]
+
+Query: "which restaurant serves the best eggplant parmesan in the city?"
+Named Entities: [best (Rating), eggplant parmesan (Dish), city (Location)]

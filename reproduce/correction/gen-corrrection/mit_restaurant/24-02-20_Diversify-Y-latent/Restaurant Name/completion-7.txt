@@ -1,0 +1,11 @@
+1. Query: "What type of cuisine does {{Johnny Rockets}} serve?"
+Text Span: "Johnny Rockets"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Can you recommend any restaurants similar to {{Texas de Brazil}} in terms of ambiance and menu?"
+Text Span: "Texas de Brazil"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "I'm craving some seafood. Where is the nearest {{Eddie V's Prime Seafood}}?"
+Text Span: "Eddie V's Prime Seafood"
+Label: (A). The span is a named entity of type restaurant name

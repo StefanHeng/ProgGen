@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a great seafood cuisine?"
+Named Entities: [seafood cuisine (Cuisine)]
+
+2. "Do you know any place offering a twilight menu?"
+Named Entities: [twilight menu (Amenity)]
+
+3. "Where can I find the best pizza in town?"
+Named Entities: [best (Superlative)]

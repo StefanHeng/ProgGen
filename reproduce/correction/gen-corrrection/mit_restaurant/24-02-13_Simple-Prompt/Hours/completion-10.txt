@@ -1,0 +1,8 @@
+1. Text Span: "breakfast all day"
+Label: (A). The span is a named entity of type Hours
+
+2. Text Span: "dinner tonight"
+Label: (A). The span is a named entity of type Hours
+
+3. Text Span: "all-day breakfast"
+Label: (A). The span is a named entity of type Hours

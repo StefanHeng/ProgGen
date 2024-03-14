@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of Argo and who directed it?"
+Named Entities: [Argo (Title), directed (Director)]
+
+2. "What is the viewers' rating for the movie City of Stars?"
+Named Entities: [City of Stars (Title), viewers' rating (Viewers' Rating)]
+
+3. "Who is the actor that plays the main character in the movie M?"
+Named Entities: [M (Title), main character (Character), actor (Actor)]

@@ -1,0 +1,8 @@
+1. Text Span: "authentic Japanese cuisine"
+Label: (B). Wrong Boundary. The correct span boundary is "authentic Japanese".
+
+2. Text Span: "Indian cuisine"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Italian"
+Label: (A). Correct Entity Annotation.

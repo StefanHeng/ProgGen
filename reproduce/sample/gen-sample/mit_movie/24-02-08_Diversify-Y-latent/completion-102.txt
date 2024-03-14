@@ -1,0 +1,8 @@
+1. Query: "What movies are rated PG and have a viewers' rating of 4.8 stars out of 5"
+Named Entities: [PG (MPAA Rating), 4.8 stars out of 5 (Viewers' Rating)]
+
+2. Query: "Can you provide me with information on the movie featuring Clarice Starling"
+Named Entities: [Clarice Starling (Character)]
+
+3. Query: "I'm looking for a movie with the song A Whole New World"
+Named Entities: [A Whole New World (Song)]

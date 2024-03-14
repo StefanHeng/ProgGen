@@ -1,0 +1,6 @@
+1. "New York restaurant named the best in the world."
+Named Entities: [New York (location)]
+2. "Food supply chain disrupted due to severe weather conditions."
+Named Entities: []
+3. "Chef Gordon Ramsay opens new restaurant in Las Vegas."
+Named Entities: [Gordon Ramsay (person), Las Vegas (location)]

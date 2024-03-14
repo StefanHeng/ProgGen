@@ -1,0 +1,8 @@
+1. "Can you recommend a dog-friendly restaurant in the vicinity"
+Named Entities: [dog-friendly (Amenity), vicinity (Location)]
+
+2. "I'm looking for a good steakhouse, how is Sullivan's Steakhouse rated"
+Named Entities: [good (Rating), Sullivan's Steakhouse (Restaurant Name)]
+
+3. "I need to find a place to eat near here that serves seafood"
+Named Entities: [near here (Location), seafood (Cuisine)]

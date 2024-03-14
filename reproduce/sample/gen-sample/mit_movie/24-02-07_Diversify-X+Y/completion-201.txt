@@ -1,0 +1,8 @@
+Spoken Query: "Yo, where can I find the Indiana Jones movies to stream?"
+Named Entities: [Indiana Jones (Title), Streaming platform availability]
+
+Spoken Query: "Are there any cool Gothic movies rated NR or TV-MA to watch?"
+Named Entities: [Gothic (Genre), NR (MPAA Rating), TV-MA (MPAA Rating)]
+
+Spoken Query: "Hey, is there a streaming platform with West Side Story on it?"
+Named Entities: [West Side Story (Title), Streaming platform availability]

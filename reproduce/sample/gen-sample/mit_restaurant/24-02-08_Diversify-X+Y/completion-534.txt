@@ -1,0 +1,8 @@
+Query: "do you know any pet-friendly cafes with high customer satisfaction"
+Named Entities: [pet-friendly (Amenity), customer satisfaction (Rating), cafes (Amenity)]
+
+Query: "find me a café with free Wi-Fi and good food in the area"
+Named Entities: [free Wi-Fi (Amenity), good food (Rating), area (Location), café (Amenity)]
+
+Query: "which café has the best reviews and allows pets"
+Named Entities: [best reviews (Rating), pets (Amenity), café (Amenity)]

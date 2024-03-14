@@ -1,0 +1,8 @@
+1. Text Span: "re-release"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "2010s"
+Label: (A). The span is a named entity of type year
+
+3. Text Span: "recent ones"
+Label: (C). Wrong Type. The correct entity type is Genre.

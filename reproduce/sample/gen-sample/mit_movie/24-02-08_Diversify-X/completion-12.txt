@@ -1,0 +1,8 @@
+Query: "I want to see a trailer for a thriller film directed by Christopher Nolan"
+Named Entities: [trailer (Trailer), thriller (Genre), Christopher Nolan (Director)]
+
+Query: "Can you recommend a movie teaser with a strong female lead and a song by Beyoncé"
+Named Entities: [teaser (Trailer), strong female lead (Character), Beyoncé (Song)]
+
+Query: "Show me a preview of a sci-fi movie from the 90s that has a cult following"
+Named Entities: [preview (Trailer), sci-fi (Genre), 90s (Year), cult following (Review)]

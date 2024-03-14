@@ -1,0 +1,11 @@
+1. Sentence: "Archaeologists uncover ancient {{Roman}} ruins in southern France."
+Text Span: "Roman"
+Label: (C) organization
+
+2. Sentence: "{{local community}} comes together to raise funds for family of 6-year-old battling cancer."
+Text Span: "local community"
+Label: (C) other
+
+3. Sentence: "Elon Musk's {{SpaceX}} successfully launches another batch of Starlink satellites into orbit."
+Text Span: "SpaceX"
+Label: (A)

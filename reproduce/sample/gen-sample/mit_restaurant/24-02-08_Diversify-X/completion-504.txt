@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good ambiance and live music for dinner tonight?"
+Named Entities: [good (Rating), ambiance (Amenity), live music (Amenity), dinner (Amenity), tonight (Hours), mid-range (Price)]
+
+2. "I'm looking for a place with outdoor seating and a diverse menu for dinner this Friday."
+Named Entities: [outdoor seating (Amenity), diverse menu (Cuisine), dinner (Amenity), Friday (Hours), mid-range (Price)]
+
+3. "Where can I find a restaurant with a private dining area and a good wine selection for a dinner date next week?"
+Named Entities: [private dining area (Amenity), good wine selection (Cuisine), dinner (Amenity), next week (Hours), mid-range (Price)]

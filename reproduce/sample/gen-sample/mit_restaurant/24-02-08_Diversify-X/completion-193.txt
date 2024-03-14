@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast spot with a lounge/bar ambience nearby?"
+Named Entities: [breakfast (Cuisine), lounge/bar (Amenity), nearby (Location)]
+
+2. "What's a good place for a breakfast date at a lounge/bar?"
+Named Entities: [breakfast (Cuisine), date (Amenity), lounge/bar (Amenity)]
+
+3. "I'm looking for a breakfast place with a trendy lounge atmosphere."
+Named Entities: [breakfast (Cuisine), trendy (Amenity), lounge (Amenity)]

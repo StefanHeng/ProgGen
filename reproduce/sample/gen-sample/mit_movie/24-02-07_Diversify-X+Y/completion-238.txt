@@ -1,0 +1,10 @@
+Here are the synthetic spoken movie queries:
+
+1. "Hey, has The Artist received any awards or nominations for its amazing acting?"
+   Named Entities: [The Artist (Title), Awards and nominations (Recognition for acting)]
+
+2. "Have any movies about an undercover agent won big awards recently?"
+   Named Entities: [undercover agent (Character), Awards and nominations (Recognition for acting)]
+
+3. "I heard The Departed had a lot of recognition for acting, can you tell me more about that?"
+   Named Entities: [The Departed (Title), recognition for acting (Recognition for acting)]

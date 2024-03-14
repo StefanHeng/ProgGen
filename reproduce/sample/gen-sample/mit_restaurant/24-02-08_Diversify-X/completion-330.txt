@@ -1,0 +1,8 @@
+1. "Can you recommend any late-night dining spots with vegan options?"
+Named Entities: [late-night dining (Amenity), vegan (Cuisine)]
+
+2. "I'm craving some Korean BBQ after 11 pm, any suggestions?"
+Named Entities: [Korean BBQ (Cuisine), after 11 pm (Hours)]
+
+3. "I'm looking for a place with a trendy ambiance and a good cocktail menu for late-night dining."
+Named Entities: [trendy (Rating), cocktail menu (Amenity), late-night dining (Amenity)]

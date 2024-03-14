@@ -1,0 +1,8 @@
+1. "I'm craving avocado toast, is there a Bluestone Lane in the area?"
+Named Entities: [Bluestone Lane (Restaurant Name)]
+
+2. "What are the opening hours for Bluestone Lane?"
+Named Entities: [Bluestone Lane (Restaurant Name)]
+
+3. "Can you recommend a restaurant similar to Bluestone Lane with a similar price range?"
+Named Entities: [Bluestone Lane (Restaurant Name), similar price range (Price)]

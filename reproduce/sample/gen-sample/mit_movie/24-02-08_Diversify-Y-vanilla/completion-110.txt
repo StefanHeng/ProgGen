@@ -1,0 +1,8 @@
+1. Query: "what are some overhyped movies starring Chris Evans"
+   Named Entities: [overhyped (Review), Chris Evans (Actor)]
+
+2. Query: "show me a courtroom movie with a 3/10 rating"
+   Named Entities: [courtroom (Genre), 3/10 rating (Viewers' Rating)]
+
+3. Query: "who directed the top-rated movie of 1995"
+   Named Entities: [1995 (Year), top-rated (Review)]

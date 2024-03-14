@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with evocative storytelling and cinematography?"
+Named Entities: [evocative (Plot)]
+
+2. "What year did the movie Her come out and who directed it?"
+Named Entities: [Her (Title), year (Year), directed (Director)]
+
+3. "I heard Birdman has received mediocre ratings, is it worth watching?"
+Named Entities: [Birdman (Title), mediocre ratings (Viewers' Rating)]

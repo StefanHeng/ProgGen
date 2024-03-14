@@ -1,0 +1,8 @@
+1. Text Span: "suggestions"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "special occasion"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "gaming options"
+Label: (A). Correct Entity Annotation.

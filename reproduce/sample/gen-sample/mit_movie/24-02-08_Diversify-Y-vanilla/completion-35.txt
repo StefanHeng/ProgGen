@@ -1,0 +1,8 @@
+1. "Can you recommend any movies starring Tessa Thompson that are both spectacular and touching?"
+   Named Entities: [Tessa Thompson (Actor), spectacular (Review), touching (Review)]
+
+2. "Show me the trailer for the movie Selma directed by Ava DuVernay."
+   Named Entities: [Selma (Title), Ava DuVernay (Director), trailer (Trailer)]
+
+3. "What is the MPAA rating of the movie that features Mike Wazowski as a character?"
+   Named Entities: [Mike Wazowski (Character), R (MPAA Rating)]

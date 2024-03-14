@@ -1,0 +1,8 @@
+1. "Can you show me the film trailer for the dangerous cult movie starring Tom Cruise?"
+Named Entities: [film trailer (Trailer), dangerous cult (Plot), Tom Cruise (Actor)]
+
+2. "What is the viewers' rating for the dangerous cult movie released in 1988?"
+Named Entities: [dangerous cult (Plot), 1988 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Who directed the dangerous cult film featuring the song 'Paint It, Black' by the Rolling Stones?"
+Named Entities: [dangerous cult (Plot), Paint It, Black (Song), the Rolling Stones (Artist), directed (Director)]

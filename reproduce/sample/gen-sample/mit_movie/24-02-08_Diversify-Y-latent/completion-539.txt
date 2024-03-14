@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a whimsical soundtrack?"
+Named Entities: [whimsical soundtrack (Song)]
+
+2. "What is the viewers' rating for T'Challa's latest film?"
+Named Entities: [T'Challa (Character), viewers' rating (Viewers' Rating)]
+
+3. "I heard Chris Evans starred in a movie with the heart of glass. Can you tell me more about it?"
+Named Entities: [Chris Evans (Actor), heart of glass (Plot)]

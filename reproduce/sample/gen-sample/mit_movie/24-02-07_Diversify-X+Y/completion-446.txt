@@ -1,0 +1,8 @@
+1. "Can you tell me about the making of a historical movie directed by Michael Bay?"
+Named Entities: [historical (Genre), Michael Bay (Director)]
+
+2. "I'm interested in a movie with MA15+ rating and a mediocre 3 stars, maybe featuring Robert Redford."
+Named Entities: [MA15+ (MPAA Rating), 3 stars (Viewers' Rating), Robert Redford (Actor)]
+
+3. "Do you have any information about the behind-the-scenes of a film involving Michael Bay and a historical setting?"
+Named Entities: [Michael Bay (Director), historical (Genre)]

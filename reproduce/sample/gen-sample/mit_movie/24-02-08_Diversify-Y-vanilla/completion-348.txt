@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the movie Rocky"
+   Named Entities: [Rocky (Title), 7.5/10 rating (Viewers' Rating)]
+
+2. Query: "Could you show me an exclusive clip from the new Jane Campion film"
+   Named Entities: [Jane Campion (Director), Exclusive clip (Trailer)]
+
+3. Query: "Are there any movies from 1961 with a plot involving loss of memory"
+   Named Entities: [1961 (Year), Loss of memory (Plot)]

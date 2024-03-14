@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some top-notch burgers and fries, where can I find a good place?"
+Named Entities: [top-notch burgers and fries (Cuisine)]
+
+Query: "I need a quick bite, where is the nearest Sonic Drive-In?"
+Named Entities: [nearest (Location), Sonic Drive-In (Restaurant Name)]
+
+Query: "I want to grab a meal at a casual spot, what's the closest Five Guys?"
+Named Entities: [casual (Amenity), closest (Location), Five Guys (Restaurant Name)]

@@ -1,0 +1,11 @@
+1. Query: "Who are the {{main actors}} in the latest sci-fi movie directed by Christopher Nolan?"
+Text Span: "main actors"
+Label: (D). Not a Named Entity
+
+2. Query: "What's that movie where {{Tom Hanks}} plays a character stranded on an island?"
+Text Span: "Tom Hanks"
+Label: (A). Named entity of type Actor
+
+3. Query: "Can I find the movie Inception with {{Leonardo DiCaprio}} available on any streaming platform?"
+Text Span: "Leonardo DiCaprio"
+Label: (A). Named entity of type Actor

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me where to find a TV-MA movie trailer for an unbelievable spectacle"
+Named Entities: [TV-MA (MPAA Rating), unbelievable spectacle (Plot), trailer (Trailer)]
+
+2. Query: "I'm not sure if I'm interested, but have you seen any movie clips featuring an undercover operation with Luke Skywalker"
+Named Entities: [undercover operation (Plot), Luke Skywalker (Character), clips (Trailer)]
+
+3. Query: "I'm on the fence about it, but can you show me a teaser for a movie that has an unbelievable spectacle and is rated TV-MA"
+Named Entities: [unbelievable spectacle (Plot), TV-MA (MPAA Rating), teaser (Trailer)]

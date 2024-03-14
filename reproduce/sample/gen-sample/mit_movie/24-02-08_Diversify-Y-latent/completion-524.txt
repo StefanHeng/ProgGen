@@ -1,0 +1,8 @@
+Query: "what are some unrated movies from the American Civil War era"
+Named Entities: [Unrated (MPAA Rating), American Civil War (Genre)]
+
+Query: "is there a biopic about Bob Marley with a high viewers' rating"
+Named Entities: [Bob Marley (Character), biopic (Genre), high (Viewers' Rating)]
+
+Query: "who directed the 2015 film about the American Civil War with a strong female lead"
+Named Entities: [2015 (Year), American Civil War (Plot), strong (Character)]

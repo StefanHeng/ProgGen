@@ -1,0 +1,11 @@
+1. Sentence: "NASA rover discovers evidence of ancient life on {{Mars}}."
+Text Span: "Mars"
+Label: (A)
+
+2. Sentence: "{{El Salvador}} becomes first country to adopt Bitcoin as legal tender"
+Text Span: "El Salvador"
+Label: (A)
+
+3. Sentence: "{{British}} Prime Minister calls for national healthcare reform."
+Text Span: "British"
+Label: (C) - entity type: location

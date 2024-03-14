@@ -1,0 +1,8 @@
+1. "What are the hours of operation for Papa John's in this area?"
+Named Entities: [Papa John's (Restaurant Name)]
+
+2. "I'm craving pizza, can you recommend a place with a good selection of vegetarian dishes?"
+Named Entities: [pizza (Dish), vegetarian (Cuisine)]
+
+3. "I am looking for a restaurant with a high rating and outdoor seating, do you have any suggestions?"
+Named Entities: [high rating (Rating), outdoor seating (Amenity)]

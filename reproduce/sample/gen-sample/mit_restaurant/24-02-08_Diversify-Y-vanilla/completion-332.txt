@@ -1,0 +1,8 @@
+1. Query: "I'm craving a Bahn mi sandwich, where can I find the best one in town?"
+Named Entities: [Bahn mi sandwich (Dish), best (Rating), town (Location)]
+
+2. Query: "Do you have any recommendations for a restaurant that uses Chope for reservations?"
+Named Entities: [Chope (Amenity), reservations (Amenity), restaurant (Amenity)]
+
+3. Query: "I'm looking for a restaurant with affordable Vietnamese cuisine, any suggestions?"
+Named Entities: [affordable (Price), Vietnamese (Cuisine), suggestions (Amenity)]

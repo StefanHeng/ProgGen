@@ -1,0 +1,8 @@
+1. Text Span: "Orville"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "President George W. Bush"
+Label: (B). The span contains a named person entity but the span boundary is not precise. The correct span boundary is "George W. Bush".
+
+3. Text Span: "Frank Gehry"
+Label: (A). The span is a named entity of type person

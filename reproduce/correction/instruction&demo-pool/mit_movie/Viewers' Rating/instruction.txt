@@ -1,0 +1,4 @@
+A named viewers' rating entity can be a rating score such as "9 out of 10". Endorsement phrases such as "must see" and "highly recommended" are also named viewers' rating entities. Evaluative descriptors such as "best", "good", "popular", "famous" and "favorite" are named viewers' rating entities. Performance metrics such as "highest-grossing" and "best-rated" are also named viewers' rating entities.
+You should capture the complete descriptive phrase such as "high viewers' rating" as opposed to "high".
+Ensure to distinguish named viewers' rating entities from named genre entities. Named genre entities are broad and well-recognized movie categories, such as "documentary" and "comedy". Style descriptors such as "funny", "musical" and "animated" are also named genre entities.
+Ambiguous identifiers such as "rating" and "viewers' rating" are not named entities.

@@ -1,0 +1,8 @@
+1. Text Span: "Amazon rainforest"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Cambridge"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "European nations"
+Label: (C). Wrong Type. The correct entity type is location

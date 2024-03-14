@@ -1,0 +1,8 @@
+1. "I'm craving some fast food for dinner, can you recommend a restaurant with delivery service?"
+   Named Entities: [fast food (Cuisine), dinner (Meal), delivery (Amenity)]
+
+2. "I need to order a fine dining meal for delivery tonight, do you have any suggestions?"
+   Named Entities: [fine dining (Ambience), delivery (Amenity), tonight (Hours)]
+
+3. "Where can I find a delivery service that offers fast food options for a quick lunch?"
+   Named Entities: [delivery (Amenity), fast food (Cuisine), quick lunch (Meal)]

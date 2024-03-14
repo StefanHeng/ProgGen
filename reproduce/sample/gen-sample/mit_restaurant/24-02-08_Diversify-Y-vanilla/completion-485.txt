@@ -1,0 +1,8 @@
+Query: "Can you recommend a sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]
+
+Query: "What's the best Italian restaurant in the area according to customer reviews?"
+Named Entities: [Italian (Cuisine), best (Rating), customer reviews (Amenity)]
+
+Query: "What time does the Thai restaurant close on Sundays?"
+Named Entities: [Thai (Cuisine), close on Sundays (Hours)]

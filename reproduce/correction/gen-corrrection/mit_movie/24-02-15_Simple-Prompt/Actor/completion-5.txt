@@ -1,0 +1,8 @@
+1. Text Span: "actor"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "actor"
+   Label: (D). Not a Named Entity
+
+3. Text Span: "Michael Keaton"
+   Label: (A). Named Entity of type Actor

@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant with decadent vegetarian options for dinner"
+Named Entities: [buffet (Amenity), decadent (Amenity), vegetarian (Cuisine), dinner (Hours)] 
+
+Query: "Can you recommend a restaurant with a decadent vegetarian dinner menu in the area?"
+Named Entities: [decadent (Amenity), vegetarian (Cuisine), dinner (Hours)]
+
+Query: "Where can I find a buffet-style restaurant offering a vegetarian dinner?"
+Named Entities: [buffet (Amenity), vegetarian (Cuisine), dinner (Hours)]

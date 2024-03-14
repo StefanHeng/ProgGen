@@ -1,0 +1,8 @@
+Query: "can you recommend any 2000 movies with epic cinematography"
+Named Entities: [2000 (Year), Epic cinematography (Plot)]
+
+Query: "who directed the movie Road"
+Named Entities: [Road (Title)]
+
+Query: "what genre of movies has Ang Lee directed"
+Named Entities: [Ang Lee (Director)]

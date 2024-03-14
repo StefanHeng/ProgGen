@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a Michelin star in New York City?"
+Named Entities: [fine dining (Amenity), Michelin star (Rating), New York City (Location)]
+
+Query: "What is the best place for French cuisine in London?"
+Named Entities: [best (Rating), French cuisine (Cuisine), London (Location)]
+
+Query: "I'm looking for a high-end restaurant with a tasting menu in San Francisco. Can you suggest one?"
+Named Entities: [high-end (Price), tasting menu (Amenity), San Francisco (Location)]

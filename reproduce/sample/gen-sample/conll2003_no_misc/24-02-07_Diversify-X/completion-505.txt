@@ -1,0 +1,8 @@
+1. "The new airline service will provide direct flights from London to Tokyo starting next month."
+Named Entities: [London (location), Tokyo (location)]
+
+2. "The hotel chain has announced plans to open a new resort in the Caribbean."
+Named Entities: [Caribbean (location)]
+
+3. "The International Air Transport Association reported a 40% decrease in global air travel due to the ongoing pandemic."
+Named Entities: [International Air Transport Association (organization)]

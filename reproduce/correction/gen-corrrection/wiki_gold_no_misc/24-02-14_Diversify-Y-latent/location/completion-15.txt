@@ -1,0 +1,11 @@
+1. Sentence: "The 2017 {{Westminster}} attack was a terror attack in London, England, that killed five people including a police officer and injured about 50 others."
+Text Span: "Westminster"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Fort Bragg, North Carolina}} is home to the Airborne and Special Operations Forces, and it is known for being one of the largest military installations in the world."
+Text Span: "Fort Bragg, North Carolina"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The {{Eiffel Tower}}, located in Champ de Mars, Paris, was named after the engineer Gustave Eiffel."
+Text Span: "Eiffel Tower"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "Where can I find a budget-friendly fast food restaurant nearby?"
+Named Entities: [budget-friendly (Price), fast food (Cuisine), nearby (Location)]
+
+2. "What are the hours of operation for the nearest fast food joint?"
+Named Entities: [nearest (Location), fast food (Cuisine), hours of operation (Hours)]
+
+3. "I'm craving some affordable burgers. Can you recommend a fast food place with good ratings?"
+Named Entities: [affordable (Price), burgers (Dish), fast food (Cuisine), good ratings (Rating)]

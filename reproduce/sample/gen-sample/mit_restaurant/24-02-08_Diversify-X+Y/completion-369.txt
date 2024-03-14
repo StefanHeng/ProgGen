@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some sushi for lunch, where can I find a good spot nearby?"
+Named Entities: [sushi (Cuisine), lunch (Amenity), nearby (Location)]
+
+Query: "I need to grab a quick bite to eat for lunch, can you recommend a budget-friendly option?"
+Named Entities: [quick bite (Amenity), lunch (Amenity), budget-friendly (Price)]
+
+Query: "Do you know of any Italian restaurants with outdoor seating for lunch?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), lunch (Amenity)]

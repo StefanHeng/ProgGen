@@ -1,0 +1,8 @@
+1. "What is the latest NC-17 movie released this year"
+   Named Entities: [NC-17 (MPAA Rating), this year (Year)]
+
+2. "Can you recommend a movie with a powerhouse cast like Black Widow"
+   Named Entities: [powerhouse cast (Character), Black Widow (Title)]
+
+3. "Is the new Spider-Man movie getting good reviews"
+   Named Entities: [new (Year), Spider-Man (Title), good reviews (Review)]

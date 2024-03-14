@@ -1,0 +1,8 @@
+Query: "Can you recommend any Popular late-night eateries with an upscale and elegant ambience"
+Named Entities: [Popular late-night eateries (Amenity), upscale and elegant (Amenity)]
+
+Query: "I'm looking for a late-night dining option at a Popular late-night eatery with an upscale ambience"
+Named Entities: [late-night dining (Amenity), Popular late-night eatery (Amenity), upscale (Amenity)]
+
+Query: "Where can I find a late-night dining spot known for its upscale and elegant ambience"
+Named Entities: [late-night dining (Amenity), upscale and elegant (Amenity)]

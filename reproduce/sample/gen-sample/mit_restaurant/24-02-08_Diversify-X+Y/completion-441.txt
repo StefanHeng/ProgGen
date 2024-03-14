@@ -1,0 +1,8 @@
+Query: "Can you recommend any fine dining restaurants on the west side with exquisite menus"
+Named Entities: [fine dining (Amenity), west side (Location), exquisite (Rating)]
+
+Query: "I'm looking for a mid-range priced restaurant with exquisite fine dining options on the west side"
+Named Entities: [mid-range (Price), west side (Location), exquisite (Rating), fine dining (Amenity)]
+
+Query: "Where can I find a fine dining restaurant with mid-range prices on the west side that offers exquisite cuisine"
+Named Entities: [fine dining (Amenity), mid-range (Price), west side (Location), exquisite (Rating)]

@@ -1,0 +1,8 @@
+1. Text Span: "recommend"
+Label: (D). The span is not a named entity
+
+2. Text Span: "reservation"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "happy hour"
+Label: (A). The span is a named entity of type amenity

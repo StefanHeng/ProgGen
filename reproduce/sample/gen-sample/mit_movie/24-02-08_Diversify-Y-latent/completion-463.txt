@@ -1,0 +1,8 @@
+1. "Have there been any PG-rated movies directed by Sam Mendes that received an 8/10 rating?"
+Named Entities: [PG (MPAA Rating), Sam Mendes (Director), 8/10 rating (Viewers' Rating)]
+
+2. "Can you recommend a movie featuring the song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+3. "What is the best movie directed by Christopher Nolan according to reviews?"
+Named Entities: [Christopher Nolan (Director), best (Review)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any 5-star late-night dining options with positive feedback?"
+Named Entities: [5-star (Rating), late-night (Hours), positive feedback (Rating)]
+
+2. "I'm in the mood for Mexican food. Is there a top-rated restaurant nearby?"
+Named Entities: [Mexican (Cuisine), top-rated (Rating), nearby (Location)]
+
+3. "I'd like to grab a quick bite to eat. Any place with affordable prices and outdoor seating?"
+Named Entities: [affordable prices (Price), outdoor seating (Amenity)]

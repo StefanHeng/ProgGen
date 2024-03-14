@@ -1,0 +1,8 @@
+1. "I'm looking for a buffet restaurant with prominent happy hour deals"
+Named Entities: [buffet (Amenity), prominent (Amenity), happy hour (Amenity)]
+
+2. "Do you know any buffet places in the area that have a great steak menu?"
+Named Entities: [buffet (Amenity), great (Rating), steak (Dish)]
+
+3. "Can you recommend a buffet restaurant with a good happy hour special and a variety of steak options?"
+Named Entities: [buffet (Amenity), good (Rating), happy hour (Amenity), steak (Dish)]

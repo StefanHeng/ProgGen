@@ -1,0 +1,8 @@
+1. "Can you recommend a good Biography movie to watch this weekend?"
+Named Entities: [Biography (Genre)]
+
+2. "What is the viewers' rating for The Godfather Part II?"
+Named Entities: [The Godfather Part II (Title), viewers' rating (Viewers' Rating)]
+
+3. "Is The Princess Diaries classified as Not Rated?"
+Named Entities: [The Princess Diaries (Title), Not Rated (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. Query: "where can I watch the movie Solid directed by Spike Lee?"
+Named Entities: [Solid (Title), Spike Lee (Director)]
+
+2. Query: "what's the viewers' rating for the film noir released in 1987?"
+Named Entities: [film noir (Genre), 1987 (Year), viewers' rating (Viewers' Rating)]
+
+3. Query: "can you tell me the plot of the movie with Dolores Umbridge as one of the characters?"
+Named Entities: [Dolores Umbridge (Character)]

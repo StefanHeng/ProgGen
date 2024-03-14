@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant in the Tourist area that serves authentic Italian cuisine?"
+Named Entities: [Tourist area (Location), authentic Italian (Cuisine)]
+
+2. "I'm looking for a place with outdoor seating and a view, like The Garden Cafe."
+Named Entities: [outdoor seating (Amenity), The Garden Cafe (Restaurant Name)]
+
+3. "What are the hours of operation for The Sunrise Café?"
+Named Entities: [The Sunrise Café (Restaurant Name), hours of operation (Hours)]

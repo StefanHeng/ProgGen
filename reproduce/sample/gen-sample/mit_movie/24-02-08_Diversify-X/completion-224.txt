@@ -1,0 +1,8 @@
+1. Query: "Can you show me a trailer for the latest romantic comedy directed by Nancy Meyers?"
+   Named Entities: [romantic comedy (Genre), Nancy Meyers (Director)]
+
+2. Query: "What are the top-rated dramas from the 1980s that I should definitely watch?"
+   Named Entities: [dramas (Genre), 1980s (Year), top-rated (Viewers' Rating)]
+
+3. Query: "I'd like to see a teaser for the new action movie starring Tom Hardy."
+   Named Entities: [teaser (Trailer), action (Genre), Tom Hardy (Actor)]

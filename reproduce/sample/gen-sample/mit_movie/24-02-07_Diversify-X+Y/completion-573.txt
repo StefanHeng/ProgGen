@@ -1,0 +1,8 @@
+Query: "Can you recommend a melodrama film directed by Baz Luhrmann that has won multiple awards?"
+Named Entities: [melodrama (Genre), Baz Luhrmann (Director), multiple awards (Awards)]
+
+Query: "I'm looking for a movie by Lars von Trier that has been nominated for an Academy Award."
+Named Entities: [Lars von Trier (Director), nominated for an Academy Award (Awards)]
+
+Query: "Show me a Francis Ford Coppola film with a high viewers' rating and has received prestigious awards."
+Named Entities: [Francis Ford Coppola (Director), high viewers' rating (Viewers' Rating), prestigious awards (Awards)]

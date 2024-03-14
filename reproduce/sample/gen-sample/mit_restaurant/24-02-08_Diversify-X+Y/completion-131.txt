@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-end haul food truck in the downtown area"
+Named Entities: [high-end haul (Amenity), food truck (Cuisine), downtown area (Location)]
+
+Query: "I'm looking for a luxurious dining experience, do you know of any high-end haul food trucks nearby"
+Named Entities: [luxurious (Rating), high-end haul (Amenity), food truck (Cuisine), nearby (Location)]
+
+Query: "What's the best high-end haul food truck in the city for a special occasion dinner"
+Named Entities: [best (Rating), high-end haul (Amenity), food truck (Cuisine), special occasion (Amenity), city (Location)]

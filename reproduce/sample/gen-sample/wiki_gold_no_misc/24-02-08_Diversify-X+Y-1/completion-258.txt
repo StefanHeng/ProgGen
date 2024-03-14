@@ -1,0 +1,8 @@
+Sentence: "Anthropology is the study of human behavior, cultural beliefs, and social structures within diverse societies."
+Named Entities: []
+
+Sentence: "The World Council of Anthropological Associations promotes collaboration and communication among anthropologists from different regions around the globe."
+Named Entities: [World Council of Anthropological Associations (organization)]
+
+Sentence: "Clifford Geertz, a prominent anthropologist, is known for his influential work in the field of symbolic anthropology, particularly his concept of 'thick description'." 
+Named Entities: [Clifford Geertz (person)]

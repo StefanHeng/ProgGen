@@ -1,0 +1,8 @@
+1. Query: "Who was the costume designer for the latest Mission: Impossible movie starring Ethan Hunt?"
+   Named Entities: [Mission: Impossible (Title), costume designer (Character), Ethan Hunt (Character)]
+
+2. Query: "Can you tell me about the making-of documentary for the latest James Bond film with the code name M?"
+   Named Entities: [James Bond (Character), making-of (Plot), M (Character)]
+
+3. Query: "I'm interested in learning more about the musical numbers in the latest Oscar-winning movie."
+   Named Entities: [musical (Genre), Oscar-winning (Viewers' Rating)]

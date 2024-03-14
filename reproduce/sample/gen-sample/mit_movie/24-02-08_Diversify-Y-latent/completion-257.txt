@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a famous superhero origin story?"
+Named Entities: [superhero origin (Plot)]
+
+2. Query: "Who directed the movie approved by critics with the song 'Glory' by H.E.R. and Taylor Swift?"
+Named Entities: [approved by critics (Review), 'Glory' (Song), H.E.R. (Artist), Taylor Swift (Artist)]
+
+3. Query: "What year did Oliver Stone direct a war film with a strong anti-war message?"
+Named Entities: [Oliver Stone (Director), war film (Genre), anti-war (Plot)]

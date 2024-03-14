@@ -1,0 +1,8 @@
+Query: "can you recommend a place for brunch with outdoor seating"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+Query: "which restaurant serves a good mimosa during brunch hours"
+Named Entities: [good (Rating), mimosa (Dish), brunch hours (Hours)]
+
+Query: "where can I find a cozy restaurant for a brunch date"
+Named Entities: [cozy (Amenity), brunch date (Amenity)]

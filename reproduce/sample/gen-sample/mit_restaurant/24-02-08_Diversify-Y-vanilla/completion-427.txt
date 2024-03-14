@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with vegetarian options for lunch hours?"
+Named Entities: [vegetarian (Cuisine), lunch hours (Hours)]
+
+Query: "I'm looking for a place with outdoor seating and a high rating."
+Named Entities: [outdoor seating (Amenity), high rating (Rating)]
+
+Query: "Where can I find a cheap pizza place open at 2 a.m.?"
+Named Entities: [cheap (Price), pizza (Cuisine), open at 2 a.m. (Hours)]

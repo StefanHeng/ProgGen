@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a highly-rated movie with a gripping plot and stunning visuals?"
+   Named Entities: [highly-rated (Viewers' Rating), gripping plot (Plot), stunning visuals (Review)]
+
+2. Query: "What is the best movie of the year so far, according to the critics?"
+   Named Entities: [best movie (Review), year (Year), critics (Review)]
+
+3. Query: "I'm looking for an action-packed movie with a top-notch performance by the lead actor. Any recommendations?"
+   Named Entities: [action-packed (Genre), top-notch performance (Review), lead actor (Actor)]

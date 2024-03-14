@@ -1,0 +1,8 @@
+1. Query: "Who directed the making-of documentary for the movie Inception?"
+Named Entities: [Inception (Title), making-of documentary (Genre), director (Director)]
+
+2. Query: "Can you recommend a movie with a behind-the-scenes featurette about its special effects and stunts?"
+Named Entities: [behind-the-scenes featurette (Plot), special effects and stunts (Genre)]
+
+3. Query: "Is there a sci-fi film from the 90s with a bonus feature showing the actors' training for their roles?"
+Named Entities: [sci-fi film (Genre), 90s (Year), bonus feature (Plot), actors' training (Director)]

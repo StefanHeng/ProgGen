@@ -1,0 +1,8 @@
+1. Query: "what is the average rating for Aquaman"
+Named Entities: [Aquaman (Title), Average rating (Viewers' Rating)]
+
+2. Query: "is there a historical film set during the Battle of Waterloo"
+Named Entities: [Battle of Waterloo (Plot), historical (Genre)]
+
+3. Query: "who directed the movie Aquaman and what year was it released"
+Named Entities: [Aquaman (Title), year (Year), released (Plot)]

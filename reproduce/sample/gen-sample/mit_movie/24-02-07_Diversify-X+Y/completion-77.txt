@@ -1,0 +1,8 @@
+1. "I'm curious about the marketing campaign for a movie directed by Denis Villeneuve and starring Jared Leto, could you tell me more about it?"
+Named Entities: [Denis Villeneuve (Director), Jared Leto (Actor), marketing campaign (Plot)]
+
+2. "I heard that there is a film with stunning cinematography that starts with the letter A, do you have any recommendations?"
+Named Entities: [cinematography (Plot), A (Title)]
+
+3. "Is there a movie featuring Jared Leto that delves into the behind-the-scenes of filmmaking in a unique way?"
+Named Entities: [Jared Leto (Actor), behind-the-scenes (Plot)]

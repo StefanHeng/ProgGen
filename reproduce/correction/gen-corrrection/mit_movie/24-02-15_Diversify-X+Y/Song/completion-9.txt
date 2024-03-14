@@ -1,0 +1,8 @@
+1. Text Span: "spectacular music"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "I Am a Man of Constant Sorrow"
+Label: (A). The span is a named entity of type song
+
+3. Text Span: "rap"
+Label: (C). Wrong Type. The correct entity type is Genre.

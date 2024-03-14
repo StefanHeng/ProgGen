@@ -1,0 +1,8 @@
+Query: "I'm looking for a place to have a quick lunch with some sushi"
+Named Entities: [lunch (Amenity), sushi (Cuisine)]
+
+Query: "Which restaurant serves affordable Mexican dishes for lunch?"
+Named Entities: [affordable (Price), Mexican (Cuisine), lunch (Amenity)]
+
+Query: "Can you recommend a restaurant with outdoor seating for a casual lunch?"
+Named Entities: [outdoor seating (Amenity), casual (Rating), lunch (Amenity)]

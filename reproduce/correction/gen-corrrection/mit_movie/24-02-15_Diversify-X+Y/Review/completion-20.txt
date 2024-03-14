@@ -1,0 +1,8 @@
+1. Text Span: "eye-opening"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "terrible"
+Label: (A). The span is a named entity of type review
+
+3. Text Span: "a solid"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

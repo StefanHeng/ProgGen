@@ -1,0 +1,11 @@
+1. Sentence: "{{Procter & Gamble}} is a multinational consumer goods company headquartered in Cincinnati, Ohio."
+Text Span: "Procter & Gamble"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Xander Berkeley is an American actor known for his appearances in the television series 24 and {{The Walking Dead}}."
+Text Span: "The Walking Dead"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Founded in 1923, the University of Petroleum and Energy Studies, Dehradun, has been recognized by UGC under Section 2(f) of the {{UGC}} Act and is a member of the International Association of Universities."
+Text Span: "UGC"
+Label: (A). The span is a named entity of type organization

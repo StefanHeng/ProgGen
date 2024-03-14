@@ -1,0 +1,1051 @@
+[
+    {
+        "sentence": "Who directed the animated movie Finding Nemo?",
+        "entity_names": [
+            "animated",
+            "Finding Nemo",
+            "director"
+        ],
+        "entity_types": [
+            "Genre",
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "Who directed the film Gladiator",
+        "entity_names": [
+            "Gladiator",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "Which movie won the Best Picture Oscar in 2010?",
+        "entity_names": [
+            "Best Picture Oscar",
+            "2010"
+        ],
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "What's the top-rated sci-fi film from the 2010s?",
+        "entity_names": [
+            "[sci-fi",
+            "2010s",
+            "top-rated"
+        ],
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "[sci-fi"
+        ]
+    },
+    {
+        "sentence": "Who directed the film The Silence of the Lambs?",
+        "entity_names": [
+            "The Silence of the Lambs",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What movie is based on the novel by Stephen King?",
+        "entity_names": [
+            "Stephen King"
+        ],
+        "entity_types": [
+            "Author"
+        ],
+        "entity_names_not_allowed": [
+            "Stephen King"
+        ],
+        "entity_types_not_allowed": [
+            "Author"
+        ]
+    },
+    {
+        "sentence": "What movie has been adapted from a Shakespeare play?",
+        "entity_names": [
+            "Shakespeare"
+        ],
+        "entity_types": [
+            "Author"
+        ],
+        "entity_names_not_allowed": [
+            "Shakespeare"
+        ],
+        "entity_types_not_allowed": [
+            "Author"
+        ]
+    },
+    {
+        "sentence": "Tell me about the movie that won the Palme d'Or at Cannes",
+        "entity_names": [
+            "Palme d'Or",
+            "Cannes"
+        ],
+        "entity_types": [
+            "Award",
+            "Event"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or",
+            "Cannes"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Event"
+        ]
+    },
+    {
+        "sentence": "What movie is considered the scariest horror film of all time?",
+        "entity_names": [
+            "scariest of all time",
+            "horror film"
+        ],
+        "entity_types": [
+            "Viewers' Rating",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "scariest of all time"
+        ]
+    },
+    {
+        "sentence": "Who was the director of the movie The Shawshank Redemption?",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "directed"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "directed"
+        ]
+    },
+    {
+        "sentence": "Who directed the Titanic film",
+        "entity_names": [
+            "Titanic",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "Who directed the film The Godfather Part II",
+        "entity_names": [
+            "The Godfather Part II",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What are the best animated movies of all time",
+        "entity_names": [
+            "animated",
+            "best of all time"
+        ],
+        "entity_types": [
+            "Genre",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "best of all time"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie The Dark Knight Rises",
+        "entity_names": [
+            "The Dark Knight Rises",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "what year did the movie 'Titanic' win the Best Picture Oscar?",
+        "entity_names": [
+            "Titanic",
+            "Best Picture Oscar"
+        ],
+        "entity_types": [
+            "Title",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "what year did the movie 'Schindler's List' receive the Best Director Oscar?",
+        "entity_names": [
+            "Schindler's List",
+            "Best Director Oscar"
+        ],
+        "entity_types": [
+            "Title",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Best Director Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "what year did the movie 'Gladiator' win the Best Picture Oscar?",
+        "entity_names": [
+            "Gladiator",
+            "Best Picture Oscar"
+        ],
+        "entity_types": [
+            "Title",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "is there a trailer for the new james bond film",
+        "entity_names": [
+            "james bond",
+            "new (Year)"
+        ],
+        "entity_types": [
+            "Character",
+            "Trailer"
+        ],
+        "missing_entity_names": [
+            "new (Year)"
+        ]
+    },
+    {
+        "sentence": "What movie did Meryl Streep win an Oscar for?",
+        "entity_names": [
+            "Meryl Streep",
+            "Oscar"
+        ],
+        "entity_types": [
+            "Actor",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "What movie won the most Academy Awards?",
+        "entity_names": [
+            "most Academy Awards"
+        ],
+        "entity_types": [
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "most Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "What movie stars Audrey Hepburn and is set in Paris?",
+        "entity_names": [
+            "Audrey Hepburn",
+            "Paris"
+        ],
+        "entity_types": [
+            "Actor",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "Paris"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "What movie won the Palme d'Or at the Cannes Film Festival?",
+        "entity_names": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "entity_types": [
+            "Award",
+            "Event"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Event"
+        ]
+    },
+    {
+        "sentence": "Show me a Harrison Ford movie set in space.",
+        "entity_names": [
+            "Harrison Ford",
+            "space"
+        ],
+        "entity_types": [
+            "Actor",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "space"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "I want to watch a movie featuring Leonardo DiCaprio and Kate Winslet.",
+        "entity_names": [
+            "Leonardo DiCaprio, Kate Winslet"
+        ],
+        "entity_types": [
+            "Actor"
+        ],
+        "missing_entity_names": [
+            "Leonardo DiCaprio, Kate Winslet"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie \"Schindler's List\"?",
+        "entity_names": [
+            "Schindler's List",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "When did \"E.T. the Extra-Terrestrial\" come out?",
+        "entity_names": [
+            "E.T. the Extra-Terrestrial",
+            "came out"
+        ],
+        "entity_types": [
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "came out"
+        ]
+    },
+    {
+        "sentence": "Show me a movie featuring Tom Hanks and Meg Ryan.",
+        "entity_names": [
+            "Tom Hanks, Meg Ryan"
+        ],
+        "entity_types": [
+            "Actor"
+        ],
+        "missing_entity_names": [
+            "Tom Hanks, Meg Ryan"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie \"Interstellar\"?",
+        "entity_names": [
+            "Interstellar",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What year did the film Titanic come out?",
+        "entity_names": [
+            "Titanic",
+            "came out"
+        ],
+        "entity_types": [
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "came out"
+        ]
+    },
+    {
+        "sentence": "Who directed the film Gone with the Wind?",
+        "entity_names": [
+            "Gone with the Wind",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What year did the film Avatar come out?",
+        "entity_names": [
+            "Avatar",
+            "came out"
+        ],
+        "entity_types": [
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "came out"
+        ]
+    },
+    {
+        "sentence": "Who directed the film Psycho?",
+        "entity_names": [
+            "Psych",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "Psych",
+            "director"
+        ]
+    },
+    {
+        "sentence": "What MPAA rating does the Marvel movie Black Panther have?",
+        "entities": [
+            "Marvel (Director)",
+            "Black Panther (Title)",
+            "MPAA Rating"
+        ]
+    },
+    {
+        "sentence": "Is there a movie about the life of Coco Chanel?",
+        "entity_names": [
+            "Coco Chanel",
+            "biography"
+        ],
+        "entity_types": [
+            "Actor",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "biography"
+        ]
+    },
+    {
+        "sentence": "Who directed the war film Saving Private Ryan?",
+        "entity_names": [
+            "war",
+            "Saving Private Ryan",
+            "director"
+        ],
+        "entity_types": [
+            "Genre",
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What is the MPAA rating for the thriller movie Se7en?",
+        "entities": [
+            "thriller (Genre)",
+            "Se7en (Title)",
+            "MPAA Rating"
+        ]
+    },
+    {
+        "sentence": "which film stars morgan freeman and clint eastwood fighting in the old west",
+        "entity_names": [
+            "morgan freeman",
+            "clint eastwood",
+            "old west"
+        ],
+        "entity_types": [
+            "Actor",
+            "Actor",
+            "Setting"
+        ],
+        "entity_names_not_allowed": [
+            "old west"
+        ],
+        "entity_types_not_allowed": [
+            "Setting"
+        ]
+    },
+    {
+        "sentence": "which movie won the best picture award in 2018",
+        "entity_names": [
+            "best picture award",
+            "2018"
+        ],
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "best picture award"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "which movie won the most awards at the oscars last year",
+        "entity_names": [
+            "most awards",
+            "oscars",
+            "last year"
+        ],
+        "entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards",
+            "oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award"
+        ]
+    },
+    {
+        "sentence": "which movie won the best picture award at the academy awards in 2000",
+        "entity_names": [
+            "best picture award",
+            "academy awards",
+            "2000"
+        ],
+        "entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "best picture award",
+            "academy awards"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Who directed Titanic?",
+        "entity_names": [
+            "Titanic",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "Who directed Titanic?",
+        "entity_names": [
+            "Titanic",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "Who played the role of Jack Dawson in \"Titantic\"?",
+        "entity_names": [
+            "Jack Dawson",
+            "Titanic"
+        ],
+        "entity_types": [
+            "Character",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "Titanic"
+        ]
+    },
+    {
+        "sentence": "is the movie pulp fiction a comedy or a drama",
+        "entity_names": [
+            "pulp fiction",
+            "comedy or drama"
+        ],
+        "entity_types": [
+            "Title",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "comedy or drama"
+        ]
+    },
+    {
+        "sentence": "is the film the shining a thriller or a mystery",
+        "entity_names": [
+            "the shining",
+            "thriller or mystery"
+        ],
+        "entity_types": [
+            "Title",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "thriller or mystery"
+        ]
+    },
+    {
+        "sentence": "is the film the exorcist a horror or a thriller",
+        "entity_names": [
+            "the exorcist",
+            "horror or thriller"
+        ],
+        "entity_types": [
+            "Title",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "horror or thriller"
+        ]
+    },
+    {
+        "sentence": "What is the MPAA rating for The Godfather",
+        "entities": [
+            "The Godfather (Title)",
+            "MPAA Rating"
+        ]
+    },
+    {
+        "sentence": "What is the MPAA rating for Jaws",
+        "entities": [
+            "Jaws (Title)",
+            "MPAA Rating"
+        ]
+    },
+    {
+        "sentence": "What is the MPAA rating for The Matrix",
+        "entities": [
+            "The Matrix (Title)",
+            "MPAA Rating"
+        ]
+    },
+    {
+        "sentence": "What is the viewers' rating for The Shawshank Redemption?",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "viewers' rating"
+        ],
+        "entity_types": [
+            "Title",
+            "Rating"
+        ],
+        "reordered_entity_names": [
+            "viewers' rating",
+            "The Shawshank Redemption"
+        ],
+        "reordered_entity_types": [
+            "Rating",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "viewers' rating"
+        ],
+        "entity_types_not_allowed": [
+            "Rating"
+        ]
+    },
+    {
+        "sentence": "What is the viewers' rating for The Silence of the Lambs?",
+        "entity_names": [
+            "The Silence of the Lambs",
+            "viewers' rating"
+        ],
+        "entity_types": [
+            "Title",
+            "Rating"
+        ],
+        "reordered_entity_names": [
+            "viewers' rating",
+            "The Silence of the Lambs"
+        ],
+        "reordered_entity_types": [
+            "Rating",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "viewers' rating"
+        ],
+        "entity_types_not_allowed": [
+            "Rating"
+        ]
+    },
+    {
+        "sentence": "Who directed The Dark Knight?",
+        "entity_names": [
+            "The Dark Knight",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What is the viewers' rating for The Dark Knight?",
+        "entity_names": [
+            "The Dark Knight",
+            "viewers' rating"
+        ],
+        "entity_types": [
+            "Title",
+            "Rating"
+        ],
+        "reordered_entity_names": [
+            "viewers' rating",
+            "The Dark Knight"
+        ],
+        "reordered_entity_types": [
+            "Rating",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "viewers' rating"
+        ],
+        "entity_types_not_allowed": [
+            "Rating"
+        ]
+    },
+    {
+        "sentence": "Who directed Inglourious Basterds?",
+        "entity_names": [
+            "Inglourious Basterds",
+            "director"
+        ],
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What is the plot of The Godfather Part II?",
+        "entities": [
+            "The Godfather Part II (Title)",
+            "Plot"
+        ]
+    },
+    {
+        "sentence": "Is The Shawshank Redemption film suitable for kids?",
+        "entities": [
+            "The Shawshank Redemption (Title)",
+            "MPAA Rating"
+        ]
+    },
+    {
+        "sentence": "What are the reviews for Parasite?",
+        "entities": [
+            "Parasite (Title)",
+            "Review"
+        ]
+    },
+    {
+        "sentence": "Please show me a line from the trailer of The Matrix.",
+        "entities": [
+            "The Matrix (Title)",
+            "Trailer"
+        ]
+    },
+    {
+        "sentence": "What character did Heath Ledger play in The Dark Knight?",
+        "entities": [
+            "Heath Ledger (Actor)",
+            "The Dark Knight (Title)",
+            "Character"
+        ]
+    },
+    {
+        "sentence": "Which actress starred in the movie The Iron Lady?",
+        "entities": [
+            "The Iron Lady (Title)",
+            "Actress"
+        ]
+    },
+    {
+        "sentence": "Who directed the science fiction film Blade Runner?",
+        "entities": [
+            "science fiction (Genre)",
+            "Blade Runner (Title)",
+            "Director"
+        ]
+    },
+    {
+        "sentence": "What year was The Sound of Music released?",
+        "entities": [
+            "The Sound of Music (Title)",
+            "Year"
+        ]
+    },
+    {
+        "sentence": "Who played the lead in the romantic movie Titanic?",
+        "entities": [
+            "romantic (Genre)",
+            "Titanic (Title)",
+            "Lead Actor"
+        ]
+    },
+    {
+        "sentence": "Show me a scene from The Silence of the Lambs.",
+        "entities": [
+            "The Silence of the Lambs (Title)",
+            "Scene"
+        ]
+    },
+    {
+        "sentence": "What character did Daniel Radcliffe play in the Harry Potter series?",
+        "entities": [
+            "Daniel Radcliffe (Actor)",
+            "Harry Potter (Title)",
+            "Character"
+        ]
+    },
+    {
+        "sentence": "Can you provide a summary of the movie Psycho directed by Alfred Hitchcock?",
+        "entities": [
+            "Psycho (Title)",
+            "Alfred Hitchcock (Director)",
+            "Plot"
+        ]
+    },
+    {
+        "sentence": "Who played the lead role in the western film Unforgiven?",
+        "entities": [
+            "western (Genre)",
+            "Unforgiven (Title)",
+            "Lead Actor"
+        ]
+    },
+    {
+        "sentence": "Can you tell me the plot of the animated movie Finding Nemo?",
+        "entities": [
+            "animated (Genre)",
+            "Finding Nemo (Title)",
+            "Plot"
+        ]
+    },
+    {
+        "sentence": "Please show me a clip of the song \"Let It Go\" from the movie Frozen.",
+        "entities": [
+            "\"Let It Go\" (Song)",
+            "Frozen (Title)",
+            "Clip"
+        ]
+    },
+    {
+        "sentence": "What year was the movie E.T. the Extra-Terrestrial released?",
+        "entities": [
+            "E.T. the Extra-Terrestrial (Title)",
+            "Year"
+        ]
+    },
+    {
+        "sentence": "I want to watch a movie that won multiple Academy Awards, can you recommend one?",
+        "entities": [
+            "won multiple Academy Awards"
+        ]
+    },
+    {
+        "sentence": "Please provide a review for the film The Social Network.",
+        "entities": [
+            "The Social Network (Title)",
+            "Review"
+        ]
+    },
+    {
+        "sentence": "I want to watch a movie that features a strong ensemble cast, any suggestions?",
+        "entities": [
+            "strong ensemble cast"
+        ]
+    },
+    {
+        "sentence": "What character did Johnny Depp play in the Pirates of the Caribbean series?",
+        "entities": [
+            "Johnny Depp (Actor)",
+            "Pirates of the Caribbean (Title)",
+            "Character"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a good action movie to watch this weekend",
+        "entity_names": [
+            "action movie",
+            "this weekend"
+        ],
+        "entity_types": [
+            "Genre",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "this weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "What do people think about the movie Titanic",
+        "entity_names": [
+            "Titanic",
+            "people's thoughts"
+        ],
+        "entity_types": [
+            "Title",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "people's thoughts"
+        ]
+    },
+    {
+        "sentence": "Recommend a must-see film directed by Alfred Hitchcock.",
+        "entity_names": [
+            "Alfred Hitchcock",
+            "must see"
+        ],
+        "entity_types": [
+            "Director",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "must see"
+        ]
+    },
+    {
+        "sentence": "Recommend a must-see film starring Audrey Hepburn.",
+        "entity_names": [
+            "Audrey Hepburn",
+            "must see"
+        ],
+        "entity_types": [
+            "Actor",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "must see"
+        ]
+    },
+    {
+        "sentence": "Recommend a must-see film by Steven Spielberg.",
+        "entity_names": [
+            "Steven Spielberg",
+            "must see"
+        ],
+        "entity_types": [
+            "Director",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "must see"
+        ]
+    },
+    {
+        "sentence": "Recommend a must-see film starring Marilyn Monroe.",
+        "entity_names": [
+            "Marilyn Monroe",
+            "must see"
+        ],
+        "entity_types": [
+            "Actor",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "must see"
+        ]
+    }
+]

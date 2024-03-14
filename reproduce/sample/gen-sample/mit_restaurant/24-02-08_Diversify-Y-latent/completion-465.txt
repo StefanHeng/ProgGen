@@ -1,0 +1,8 @@
+1. "Can you recommend a low-cost restaurant with a good rating in the area?"
+Named Entities: [low-cost (Price), good (Rating), area (Location)]
+
+2. "I'm craving some pasta, is there a place nearby called The Italian Kitchen?"
+Named Entities: [pasta (Dish), The Italian Kitchen (Restaurant Name), nearby (Location)]
+
+3. "What are the hours of operation for the closest diner with a breakfast menu?"
+Named Entities: [closest (Location), diner (Venue Type), breakfast menu (Amenity), hours of operation (Hours)]

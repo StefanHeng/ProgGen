@@ -1,0 +1,8 @@
+1. Text Span: "timeless classic"
+   Label: (C). The span is not a named entity. Entity Type: other
+
+2. Text Span: "addictive"
+   Label: (C). The span is not a named entity. Entity Type: other
+
+3. Text Span: "high"
+   Label: (B). Wrong Boundary. The correct span boundary is "high viewers' rating".

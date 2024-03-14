@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you believe the high viewers' rating for the new action movie, Film preview?"
+   Named Entities: [action movie (Genre), Film preview (Title), high viewers' rating (Viewers' Rating)]
+
+2. Spoken Query: "I'm not sure about the director of the Film preview movie, can you confirm it?"
+   Named Entities: [Film preview (Title), director (Director)]
+
+3. Spoken Query: "I heard that the new romantic comedy, Film preview, has a great soundtrack. Can you tell me which song is featured in it?"
+   Named Entities: [romantic comedy (Genre), Film preview (Title), soundtrack (Song)]

@@ -1,0 +1,100 @@
+1. The Taj Mahal was designated as a UNESCO World Heritage Site in 1983.
+Named Entities: [Taj Mahal (location), UNESCO (organization)]
+2. The Mona Lisa is located in the Louvre Museum in Paris.
+Named Entities: [Mona Lisa (person), Louvre Museum (location), Paris (location)]
+3. NASA was established in 1958 and is responsible for the civilian space program.
+Named Entities: [NASA (organization)]
+4. The Great Barrier Reef is the world's largest coral reef system.
+Named Entities: [Great Barrier Reef (location)]
+5. Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields.
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+6. The Eiffel Tower was completed in 1889 and has become a global cultural icon of France.
+Named Entities: [Eiffel Tower (location), France (location)]
+7. The Red Cross is a humanitarian organization that provides emergency assistance, disaster relief, and education.
+Named Entities: [Red Cross (organization)]
+8. Albert Einstein's theory of relativity revolutionized the understanding of space, time, and gravity.
+Named Entities: [Albert Einstein (person)]
+9. The Serengeti National Park is located in Tanzania and is famous for its annual migration of over a million wildebeest.
+Named Entities: [Serengeti National Park (location), Tanzania (location)]
+10. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+11. Tokyo is the capital city of Japan and one of the most populous cities in the world.
+Named Entities: [Tokyo (location), Japan (location)]
+12. Leonardo da Vinci was a polymath who made significant contributions to art, science, and engineering.
+Named Entities: [Leonardo da Vinci (person)]
+13. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+14. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+15. Dr. Martin Luther King Jr. was a prominent leader in the American civil rights movement.
+Named Entities: [Martin Luther King Jr. (person)]
+16. The Vatican City is an independent city-state enclaved within Rome, Italy.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+17. The United Nations is an intergovernmental organization aiming to maintain international peace and security.
+Named Entities: [The United Nations (organization)]
+18. Ludwig van Beethoven was a German composer and pianist whose music is still widely celebrated.
+Named Entities: [Ludwig van Beethoven (person), Germany (location)]
+19. The Grand Canyon National Park is located in Arizona and is known for its stunning natural beauty.
+Named Entities: [Grand Canyon National Park (location), Arizona (location)]
+20. The European Union is a political and economic union of 27 member states.
+Named Entities: [European Union (organization)]
+21. Florence Nightingale was a trailblazing figure in modern nursing and healthcare reform.
+Named Entities: [Florence Nightingale (person)]
+22. The Amazon Rainforest is a vast tropical rainforest in South America, home to an incredible diversity of plant and animal species.
+Named Entities: [Amazon Rainforest (location), South America (location)]
+23. NASA's Apollo program was responsible for the successful moon landing in 1969.
+Named Entities: [NASA (organization)]
+24. Ernest Hemingway was an influential American novelist and short story writer.
+Named Entities: [Ernest Hemingway (person), American (location)]
+25. The Great Wall of China is one of the most famous historical landmarks in the world.
+Named Entities: [Great Wall of China (location), China (location)]
+26. Mahatma Gandhi was a leader of the Indian independence movement and a champion of nonviolent civil disobedience.
+Named Entities: [Mahatma Gandhi (person), Indian (location)]
+27. The Colosseum is an ancient amphitheater in Rome that is still a popular tourist attraction.
+Named Entities: [Colosseum (location), Rome (location)]
+28. The World Wildlife Fund is an international non-governmental organization working towards conservation and the reduction of human impact on the environment.
+Named Entities: [World Wildlife Fund (organization)]
+29. Sir Isaac Newton was an English mathematician, physicist, and astronomer who formulated the laws of motion and universal gravitation.
+Named Entities: [Isaac Newton (person), English (location)]
+30. The Great Sphinx of Giza is a monumental statue with the body of a lion and the head of a human.
+Named Entities: [Great Sphinx of Giza (location)]
+31. Oxford University is a prestigious institution of higher education in England.
+Named Entities: [Oxford University (organization), England (location)]
+32. Wolfgang Amadeus Mozart was a prolific and influential composer of the Classical era.
+Named Entities: [Wolfgang Amadeus Mozart (person)]
+33. The Sahara Desert is the largest hot desert in the world, covering much of North Africa.
+Named Entities: [Sahara Desert (location), North Africa (location)]
+34. The United States Congress is the legislative branch of the federal government of the United States.
+Named Entities: [United States Congress (organization), United States (location)]
+35. Marie Antoinette was the last Queen of France before the French Revolution.
+Named Entities: [Marie Antoinette (person), France (location)]
+36. The Galápagos Islands are a province of Ecuador in the Pacific Ocean, known for their unique biodiversity.
+Named Entities: [Galápagos Islands (location), Ecuador (location), Pacific Ocean (location)]
+37. Winston Churchill was a British statesman who led the United Kingdom during World War II.
+Named Entities: [Winston Churchill (person), United Kingdom (location), World War II (event)]
+38. Mount Kilimanjaro is the tallest mountain in Africa and a popular destination for hikers and climbers.
+Named Entities: [Mount Kilimanjaro (location), Africa (location)]
+39. The Metropolitan Museum of Art is located in New York City and houses an extensive collection of art and artifacts.
+Named Entities: [Metropolitan Museum of Art (organization), New York City (location)]
+40. Marie Skłodowska Curie was a pioneering physicist and chemist who conducted groundbreaking research on radioactivity.
+Named Entities: [Marie Skłodowska Curie (person)]
+41. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above Athens, Greece.
+Named Entities: [Acropolis of Athens (location), Athens (location), Greece (location)]
+42. The International Monetary Fund is an international financial institution that fosters global monetary cooperation and stability.
+Named Entities: [International Monetary Fund (organization)]
+43. Emily Dickinson was an American poet who is considered one of the most important figures in American literature.
+Named Entities: [Emily Dickinson (person), American (location)]
+44. The Nile River is the longest river in the world, flowing through 11 countries in northeastern Africa.
+Named Entities: [Nile River (location), Africa (location)]
+45. The Secretariat of the United Nations oversees the administration of the UN and its various programs.
+Named Entities: [Secretariat of the United Nations (organization), United Nations (organization)]
+46. Beethoven's Symphony No. 9 is one of the most famous and influential works in the Western classical music tradition.
+Named Entities: [Beethoven (person)]
+47. The Great Buddha of Kamakura is a monumental outdoor bronze statue in Kamakura, Japan.
+Named Entities: [Great Buddha of Kamakura (location), Kamakura (location), Japan (location)]
+48. William Shakespeare was an English playwright and poet, widely regarded as the greatest writer in the English language.
+Named Entities: [William Shakespeare (person), English (location)]
+49. The Spanish Steps is a set of steps in Rome, Italy, linking the Piazza di Spagna with the Trinità dei Monti church.
+Named Entities: [Spanish Steps (location), Rome (location), Italy (location)]
+50. The Nobel Peace Prize is awarded to individuals and organizations who have made significant contributions to peace efforts.
+Named Entities: [Nobel Peace Prize (organization)]

@@ -1,0 +1,8 @@
+1. "Can you tell me who directed the movie 12 Angry Men that was released between 1965 and 1970?"
+Named Entities: [12 Angry Men (Title), 1965-1970 (Year)]
+
+2. "I'm interested in a movie with an outstanding supporting cast, can you recommend one?"
+Named Entities: [outstanding supporting cast (Review)]
+
+3. "When was The Social Network trailer released and what is the MPAA Rating for the film?"
+Named Entities: [The Social Network (Title), Trailer release (Trailer), MPAA Rating (PG-13)]

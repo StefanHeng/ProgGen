@@ -1,0 +1,8 @@
+Query: "are there any survival adventure movies that came out in the past year"
+Named Entities: [survival adventure (Genre), past year (Year)]
+
+Query: "what is the viewers' rating for Black Panther"
+Named Entities: [Black Panther (Title), viewers' rating (Viewers' Rating)]
+
+Query: "who directed the movie Amadeus and is it appropriate for mature audiences"
+Named Entities: [Amadeus (Title), mature audiences (MPAA Rating), Directed (Director)]

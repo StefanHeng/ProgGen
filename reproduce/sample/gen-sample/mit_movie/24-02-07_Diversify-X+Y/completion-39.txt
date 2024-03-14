@@ -1,0 +1,8 @@
+1. "I heard there was a movie released in 2013 that received multiple nominations, can you tell me which one it is?"
+Named Entities: [2013 (Year), nominations (Awards)]
+
+2. "I'm looking for a mockumentary film that has a TV-MA rating, can you recommend one?"
+Named Entities: [mockumentary (Genre), TV-MA (MPAA Rating)]
+
+3. "I'm in the mood for a horror movie that has a breathtaking plot, do you have any recommendations?"
+Named Entities: [horror (Genre), breathtaking (Viewers' Rating)]

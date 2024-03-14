@@ -1,0 +1,8 @@
+Query: "Can you recommend a PG-rated movie from 1999 with a great dance soundtrack?"
+Named Entities: [1999 (Year), PG (MPAA Rating), Dance (Genre), soundtrack (Song)]
+
+Query: "I'm looking for a musical composition featured in a movie from 1999, can you help?"
+Named Entities: [1999 (Year), musical compositions (Song)]
+
+Query: "Show me a movie from 1999 with a soundtrack that includes dance music."
+Named Entities: [1999 (Year), soundtrack (Song), dance music (Genre)]

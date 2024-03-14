@@ -1,0 +1,6 @@
+1. "I'm looking for a good inspiring movie that has recently been released in the box office"
+Named Entities: [inspiring (Genre), box office (Box office availability)]
+2. "Can you recommend a PG-13 film featuring Spider-Man?"
+Named Entities: [PG-13 (MPAA Rating), Spider-Man (Character)]
+3. "What year did the movie 'The Matrix' come out and who directed it?"
+Named Entities: ['The Matrix' (Title), come out (Year), directed (Director)]

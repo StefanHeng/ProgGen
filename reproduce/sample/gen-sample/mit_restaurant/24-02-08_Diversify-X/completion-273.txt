@@ -1,0 +1,8 @@
+Query: "Can you recommend a nearby spot for a quick lunch?"
+Named Entities: [quick lunch (Amenity)]
+
+Query: "I'm craving sushi for lunch today, where's the best place to go?"
+Named Entities: [sushi (Cuisine), lunch (Amenity)]
+
+Query: "Do you know any restaurants that offer a lunch special for under 15 dollars?"
+Named Entities: [under 15 dollars (Price), lunch special (Amenity)]

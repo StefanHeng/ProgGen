@@ -1,0 +1,8 @@
+1. "Can you tell me the name of the movie directed by Christopher Nolan that has a surprise ending?"
+Named Entities: [Christopher Nolan (Director), surprise ending (Plot)]
+
+2. "I'm interested in a film starring Meryl Streep and Tom Hanks, can you recommend one?"
+Named Entities: [Meryl Streep (Actor), Tom Hanks (Actor)]
+
+3. "What is the highest-rated movie of Quentin Tarantino?"
+Named Entities: [Quentin Tarantino (Director), highest-rated (Viewers' Rating)]

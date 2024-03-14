@@ -1,0 +1,8 @@
+1. Query: "Who directed the making-of documentary for the movie Inception?"
+   Named Entities: [Inception (Title), making-of (Genre), directed (Director)]
+
+2. Query: "What is the song featured in the end credits of the latest James Bond movie?"
+   Named Entities: [end credits (Plot), James Bond (Character), latest (Year), song (Song)]
+
+3. Query: "Show me a trailer for the new Quentin Tarantino film, I can't wait any longer!"
+   Named Entities: [trailer (Trailer), Quentin Tarantino (Director), new (Year)]

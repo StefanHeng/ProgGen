@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a brunch spot with a great Sausage Gravy Biscuits"
+Named Entities: [brunch (Amenity), Sausage Gravy Biscuits (Dish)]
+
+2. Query: "Can you recommend a top-rated brunch place like Le Bernardin?"
+Named Entities: [top-rated (Rating), brunch (Amenity), Le Bernardin (Restaurant Name)]
+
+3. Query: "Where can I find a brunch place that's popular among business owners in their 50s?"
+Named Entities: [brunch (Amenity), popular among business owners in their 50s (Amenity)]

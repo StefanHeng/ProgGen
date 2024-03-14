@@ -1,0 +1,8 @@
+Query: "Can you recommend a family-friendly movie rated PG directed by Stephen Daldry"
+Named Entities: [PG (MPAA Rating), Stephen Daldry (Director), family-friendly (Genre)]
+
+Query: "Which movie starring Owen Wilson has the highest viewers' rating"
+Named Entities: [Owen Wilson (Actor), highest viewers' rating (Viewers' Rating)]
+
+Query: "Show me a list of R-13 movies released in 1983"
+Named Entities: [R-13 (MPAA Rating), 1983 (Year)]

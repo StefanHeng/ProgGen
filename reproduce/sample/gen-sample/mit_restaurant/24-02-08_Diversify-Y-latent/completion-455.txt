@@ -1,0 +1,8 @@
+Query: "I'm craving sushi, where can I find a good Japanese restaurant around here"
+Named Entities: [sushi (Dish), good (Rating), Japanese restaurant (Cuisine), around here (Location)]
+
+Query: "I need a reservation for 4 at a fine dining restaurant with outdoor seating"
+Named Entities: [reservation for 4 (Amenity), fine dining restaurant (Amenity), outdoor seating (Amenity)]
+
+Query: "What's the cheapest place to get Mexican food with a high rating"
+Named Entities: [cheapest (Price), Mexican food (Cuisine), high (Rating)]

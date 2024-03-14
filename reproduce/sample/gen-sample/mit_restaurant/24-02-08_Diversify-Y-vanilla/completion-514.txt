@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good burrito options and accepts reservations?"
+Named Entities: [good (Rating), burrito (Dish), Reservations accepted (Amenity)]
+
+2. "I'm craving Chinese food, where can I find a restaurant with good ratings on Expedia?"
+Named Entities: [Chinese (Cuisine), good ratings (Rating), Expedia (Amenity)]
+
+3. "Is there a nice restaurant with outdoor seating and a price range of $20-30 per plate nearby?"
+Named Entities: [nice (Rating), outdoor seating (Amenity), $20-30 per plate (Price)]

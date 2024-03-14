@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with an amazing soundtrack?"
+Named Entities: [amazing soundtrack (Review)]
+
+Query: "Who composed the music for the movie Inception?"
+Named Entities: [Inception (Title)]
+
+Query: "What are some of the best musical movies of all time?"
+Named Entities: [best musical (Genre)]

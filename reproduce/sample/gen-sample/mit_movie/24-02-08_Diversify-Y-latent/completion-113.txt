@@ -1,0 +1,8 @@
+1. "What is the genre of the movie where Bruce Wayne is the main character and it was released in 1965?"
+   Named Entities: [Bruce Wayne (Character), 1965 (Year)]
+
+2. "Can you recommend a highly-rated movie from the 90s with the actor Tom Hanks?"
+   Named Entities: [Tom Hanks (Actor), highly-rated (Viewers' Rating), 90s (Year)]
+
+3. "Show me a thriller movie directed by Alfred Hitchcock and released in the 1950s"
+   Named Entities: [thriller (Genre), Alfred Hitchcock (Director), 1950s (Year)]

@@ -1,0 +1,11 @@
+1. Query: "Is Brad Pitt a part of the {{cast}} in the movie Fight Club?"
+Text Span: "cast"
+Label: (C). The span is a named entity but the category is not character. Entity Type: Role
+
+2. Query: "What is the name of the {{character}} played by Johnny Depp in Pirates of the Caribbean?"
+Text Span: "character"
+Label: (D). Not a Named Entity.
+
+3. Query: "Show me a movie with a {{strong female lead}} character."
+Text Span: "strong female lead"
+Label: (D). Not a Named Entity.

@@ -1,0 +1,8 @@
+1. Query: "Who directed the making-of documentary for the Lord of the Rings trilogy?"
+   Named Entities: [Lord of the Rings (Title), making-of documentary (Plot)]
+
+2. Query: "Are there any good behind-the-scenes featurettes for the Harry Potter movies?"
+   Named Entities: [Harry Potter (Title), behind-the-scenes featurettes (Plot)]
+
+3. Query: "Can you recommend a film about the history and production of Disney animated classics?"
+   Named Entities: [Disney animated classics (Genre)]

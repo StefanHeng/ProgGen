@@ -1,0 +1,11 @@
+1. Query: "What's the title of the {{highest-grossing}} film of all time"
+Text Span: "highest-grossing"
+Label: (A). Viewers' Rating
+
+2. Query: "What's the {{best}} war movie from the 2000s"
+Text Span: "best"
+Label: (A). Viewers' Rating
+
+3. Query: "What movie received the {{most}} Oscar nominations in 2019?"
+Text Span: "most"
+Label: (A). Viewers' Rating

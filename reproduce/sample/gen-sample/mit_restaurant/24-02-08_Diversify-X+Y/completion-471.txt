@@ -1,0 +1,8 @@
+1. "I'm looking for a top-notch buffet restaurant that offers vegetarian options and delivery service."
+Named Entities: [top-notch buffet (Amenity, Cuisine), vegetarian (Dish), delivery (Amenity)]
+
+2. "Where can I find a buffet restaurant that delivers and serves vegetarian dishes, like Old Country Buffet?"
+Named Entities: [buffet (Amenity), delivery (Amenity), vegetarian (Dish), Old Country Buffet (Restaurant Name)]
+
+3. "I am craving a buffet meal from Eleven Madison Park. Can you help me find a restaurant that offers delivery service?"
+Named Entities: [buffet (Amenity), delivery (Amenity), Eleven Madison Park (Restaurant Name)]

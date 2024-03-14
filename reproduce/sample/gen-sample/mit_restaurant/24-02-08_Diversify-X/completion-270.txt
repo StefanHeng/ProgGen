@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some comfort food, can you recommend a good fast food restaurant in this area?"
+Named Entities: [comfort food (Cuisine), fast food (Amenity), this area (Location)]
+
+Query: "what's the best fast food joint with drive-thru in town?"
+Named Entities: [best (Rating), fast food (Amenity), drive-thru (Amenity), in town (Location)]
+
+Query: "where can I find a cheap burger and fries combo nearby?"
+Named Entities: [cheap (Price), burger and fries combo (Dish), nearby (Location)]

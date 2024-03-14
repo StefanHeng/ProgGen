@@ -1,0 +1,8 @@
+1. Text Span: "Dr. Patel"
+Label: (B). Wrong Boundary. The correct span boundary is "Patel".
+
+2. Text Span: "Mayor Johnson"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Princess Diana"
+Label: (A). The span is a named entity of type person

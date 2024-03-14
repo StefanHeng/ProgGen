@@ -1,0 +1,11 @@
+1. Query: "show me the trailers for the top 10 highest grossing movies of {{2021}}"
+Text Span: "2021"
+Label: (A). The span is a named entity of type year
+
+2. Query: "What is the title of the {{latest}} Marvel superhero movie"
+Text Span: "latest"
+Label: (D). The span is not a named entity
+
+3. Query: "Can you recommend a good movie from the {{1980s}}"
+Text Span: "1980s"
+Label: (A). The span is a named entity of type year

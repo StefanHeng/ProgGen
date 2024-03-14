@@ -1,0 +1,8 @@
+Sentence: "The study of geology also includes a wide variety of sub-disciplines that cover the Earth's overall natural processes and history."
+Named Entities: [Earth (location)]
+
+Sentence: "Geologists study the processes that form the Earth's core, mantle, and crust, as well as the forces that shape the planet's surface and create its geological features."
+Named Entities: [Earth (location)]
+
+Sentence: "Modern geology significantly advanced in the 20th century, with the development of the theory of plate tectonics and the understanding of the Earth's geological history through the use of radiometric dating and stratigraphic principles."
+Named Entities: [20th century (time)]

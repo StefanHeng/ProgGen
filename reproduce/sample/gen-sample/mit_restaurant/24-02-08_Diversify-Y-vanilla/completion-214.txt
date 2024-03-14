@@ -1,0 +1,8 @@
+1. "I'm craving some Bolivian cuisine, can you recommend a restaurant with Seniors discounts?"
+Named Entities: [Bolivian (Cuisine), Seniors discounts (Amenity)]
+
+2. "Do you know of any Indonesian restaurants with a high rating in this area?"
+Named Entities: [Indonesian (Cuisine), high rating (Rating), this area (Location)]
+
+3. "What's the closest restaurant with a good menu for Seniors discounts?"
+Named Entities: [closest (Location), Seniors discounts (Amenity)]

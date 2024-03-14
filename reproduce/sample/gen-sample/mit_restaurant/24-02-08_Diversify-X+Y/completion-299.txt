@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants with outstanding buffet options and formal ambience for Indian cuisine?"
+Named Entities: [outstanding buffet options (Amenity), formal (Amenity), Indian cuisine (Cuisine)]
+
+Query: "I'm looking for a formal restaurant with Indian cuisine and excellent buffet choices, can you help me?"
+Named Entities: [formal (Amenity), Indian cuisine (Cuisine), excellent buffet choices (Amenity)]
+
+Query: "Where can I find a place with a formal atmosphere and amazing buffet options for Indian cuisine?"
+Named Entities: [formal (Amenity), amazing buffet options (Amenity), Indian cuisine (Cuisine)]

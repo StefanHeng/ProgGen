@@ -1,0 +1,8 @@
+1. Text Span: "South"
+Label: (B). The span contains a named location entity but the span boundary is not precise. Correct span boundary: "South" should be "South" or "South region".
+
+2. Text Span: "London"
+Label: (A).
+
+3. Text Span: "United States"
+Label: (A).

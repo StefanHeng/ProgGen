@@ -1,0 +1,8 @@
+1. "Can you recommend a Mediterranean restaurant with outdoor seating?"
+Named Entities: [Mediterranean (Cuisine), outdoor seating (Amenity)]
+
+2. "What are the hours for the nearest Mediterranean grill?"
+Named Entities: [Mediterranean grill (Restaurant Name), hours (Hours)]
+
+3. "I'm looking for a place with Mediterranean food and a high rating."
+Named Entities: [Mediterranean (Cuisine), high rating (Rating)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a movie that won't leave me disappointed"
+Named Entities: [Disappointing (Review)]
+
+Query: "is there a production diary available for the movie Black Widow"
+Named Entities: [production diary (Plot), Black Widow (Title)]
+
+Query: "what type of movie genre is the southpaw that is rated MA15+"
+Named Entities: [Southpaw (Title), MA15+ (MPAA Rating), (Genre)]

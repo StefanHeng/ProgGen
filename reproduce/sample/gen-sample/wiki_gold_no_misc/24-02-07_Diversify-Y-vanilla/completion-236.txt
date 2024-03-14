@@ -1,0 +1,9 @@
+
+Sentence: "The International Space Station (ISS) serves as a microgravity and space environment research laboratory in which scientific research is conducted in astrobiology, astronomy, meteorology, physics, and other fields."
+Named Entities: [International Space Station (organization)]
+
+Sentence: "The actor won an Academy Award for Best Actor for his performance in the film."
+Named Entities: [Academy Award (organization)]
+
+Sentence: "She traveled to Paris, France to attend the fashion show."
+Named Entities: [Paris (location), France (location)]

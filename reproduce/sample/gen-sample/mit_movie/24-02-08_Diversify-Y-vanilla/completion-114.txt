@@ -1,0 +1,8 @@
+1. "Can you recommend a comedy movie with a screwball plot and high viewer rating?"
+Named Entities: [comedy (Genre), screwball (Plot), high viewer rating (Viewers' Rating)]
+
+2. "I'm looking for a film from the 90s with a captivating preview and a memorable song."
+Named Entities: [90s (Year), preview (Trailer), memorable song (Song)]
+
+3. "Who directed the action movie with intense fight scenes and a great soundtrack?"
+Named Entities: [action (Genre), intense fight scenes (Plot), great soundtrack (Song)]

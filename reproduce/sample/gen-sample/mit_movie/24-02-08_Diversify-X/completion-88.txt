@@ -1,0 +1,8 @@
+Query: "Can I watch the movie The Shawshank Redemption on any streaming platform?"
+Named Entities: [The Shawshank Redemption (Title)]
+
+Query: "Is the movie Inception available for streaming anywhere?"
+Named Entities: [Inception (Title)]
+
+Query: "I'm in the mood for a classic movie. Where can I watch Casablanca?"
+Named Entities: [Casablanca (Title)]

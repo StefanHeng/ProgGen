@@ -1,0 +1,11 @@
+1. Query: "What's a good seafood restaurant with a {{waterfront}} location?"
+Text Span: "waterfront"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "I need a recommendation for a restaurant with a {{timeout}} menu."
+Text Span: "timeout"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Query: "Can you recommend a place for a {{fancy dinner}} with a view within a reasonable price range?"
+Text Span: "fancy dinner"
+Label: (A). The span is a named entity of type amenity

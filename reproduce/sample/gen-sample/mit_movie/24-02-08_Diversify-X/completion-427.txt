@@ -1,0 +1,8 @@
+Query: "can you recommend any classic western films directed by John Ford"
+Named Entities: [classic western films (Genre), John Ford (Director)]
+
+Query: "what is the highest rated sci-fi movie from the 1990s"
+Named Entities: [highest rated (Viewers' Rating), sci-fi (Genre), 1990s (Year)]
+
+Query: "show me a thriller film from the 2000s with a plot twist"
+Named Entities: [thriller (Genre), 2000s (Year), plot twist (Plot)]

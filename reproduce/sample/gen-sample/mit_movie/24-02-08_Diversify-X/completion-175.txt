@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie 'The Princess Diaries' and what is its viewers' rating?"
+Named Entities: [The Princess Diaries (Title), Director (Director), viewers' rating (Viewers' Rating)]
+
+2. Query: "Is there a movie with Zac Efron and Vanessa Hudgens from the musical genre?"
+Named Entities: [Zac Efron (Actor), Vanessa Hudgens (Actor), musical (Genre)]
+
+3. Query: "Can you tell me the names of all the actors in the movie 'Frozen' and show me its trailer?"
+Named Entities: [Frozen (Title), actors (Actor), trailer (Trailer)]

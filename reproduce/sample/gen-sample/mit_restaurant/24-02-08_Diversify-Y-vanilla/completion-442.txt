@@ -1,0 +1,8 @@
+1. Query: "what restaurants in the neighborhood serve vegan dishes?"
+Named Entities: [neighborhood (Location), vegan dishes (Cuisine)]
+
+2. Query: "I need to find a restaurant with outdoor seating and a view of the ocean"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]
+
+3. Query: "can you recommend a high-rated Italian restaurant with a prix fixe menu?"
+Named Entities:[high-rated (Rating), Italian restaurant (Cuisine), prix fixe (Price)]

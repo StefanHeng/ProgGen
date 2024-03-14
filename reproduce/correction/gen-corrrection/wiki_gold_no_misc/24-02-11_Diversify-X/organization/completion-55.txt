@@ -1,0 +1,8 @@
+1. Text Span: "Trans-Siberian Railway"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "African elephant"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Environmental protection"
+Label: (C). Wrong Type. The correct entity type is other.

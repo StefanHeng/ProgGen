@@ -1,0 +1,8 @@
+1. Query: "could you recommend a movie with the song Waterfalls"
+Named Entities: [Waterfalls (Song)]
+
+2. Query: "what is the viewers' rating for the movie Mary Poppins"
+Named Entities: [Mary Poppins (Title), 2 out of 5 stars (Viewers' Rating)]
+
+3. Query: "who directed the film A and in which year was it released"
+Named Entities: [A (Title), 1945 (Year)]

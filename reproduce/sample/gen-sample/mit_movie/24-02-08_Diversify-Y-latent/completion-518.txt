@@ -1,0 +1,8 @@
+1. Query: "Can I watch the teaser trailer for a 1994 movie featuring Tom Hanks?"
+Named Entities: [teaser trailer (Trailer), 1994 (Year), Tom Hanks (Actor)]
+
+2. Query: "What is the best-rated romantic comedy of the 2000s?"
+Named Entities: [best-rated (Viewers' Rating), romantic comedy (Genre), 2000s (Year)]
+
+3. Query: "Who directed the action movie with a plot involving time travel and a dystopian future?"
+Named Entities: [action movie (Genre), time travel (Plot), dystopian future (Plot), directed (Director)]

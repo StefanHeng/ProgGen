@@ -1,0 +1,38 @@
+1. "I'm looking for a pizza place in the area"
+   Named Entities: [pizza place (Cuisine)]
+
+2. "What time does The Cheesecake Factory open for lunch?"
+   Named Entities: [The Cheesecake Factory (Restaurant Name), open for lunch (Hours)]
+
+3. "Where can I find a restaurant with outdoor seating?"
+   Named Entities: [outdoor seating (Amenity)]
+
+4. "I want to try some authentic sushi tonight"
+   Named Entities: [authentic sushi (Cuisine), tonight (Hours)]
+
+5. "What's the best Mexican restaurant in town?"
+   Named Entities: [best (Rating), Mexican (Cuisine)]
+
+6. "I'm in the mood for some chicken wings tonight"
+   Named Entities: [chicken wings (Dish), tonight (Hours)]
+
+7. "Where can I find a restaurant with a view of the ocean?"
+   Named Entities: [view of the ocean (Amenity)]
+
+8. "I'm looking for a cheap place to eat near downtown"
+   Named Entities: [cheap (Price), downtown (Location)]
+
+9. "Do you know any place that serves vegan food?"
+   Named Entities: [vegan food (Cuisine)]
+
+10. "What time does the Italian restaurant on Main Street close?"
+    Named Entities: [Italian restaurant (Cuisine), Main Street (Location), close (Hours)]
+
+11. "I need to find a 24-hour diner around here"
+    Named Entities: [24-hour (Hours), diner (Amenity)]
+ 
+12. "Is there a fancy French restaurant nearby?"
+    Named Entities: [fancy (Rating), French (Cuisine), nearby (Location)]
+
+13. "I'm craving some ice cream. Any good dessert places near me?"
+    Named Entities: [ice cream (Dish), good (Rating), dessert places (Amenity), near me (Location)]

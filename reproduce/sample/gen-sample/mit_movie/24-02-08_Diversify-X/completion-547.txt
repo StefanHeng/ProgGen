@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of the latest Avengers movie?"
+Named Entities: [latest Avengers movie (Title), Plot (Plot)]
+
+2. Query: "I'm in the mood for a heartwarming movie, can you recommend one with a great plot?"
+Named Entities: [heartwarming (Genre), great plot (Review)]
+
+3. Query: "Which movie directed by Christopher Nolan has the most intriguing plot?"
+Named Entities: [Christopher Nolan (Director), intriguing plot (Plot)]

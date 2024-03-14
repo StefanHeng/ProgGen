@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant that offers a budget-friendly menu"
+Named Entities: [fine dining (Amenity), budget-friendly (Price)]
+
+Query: "I'm looking for a high-quality restaurant with affordable options, any suggestions?"
+Named Entities: [high-quality (Rating), affordable options (Price)]
+
+Query: "Where can I enjoy a gourmet meal without breaking the bank?"
+Named Entities: [gourmet (Cuisine), without breaking the bank (Price)]

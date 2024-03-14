@@ -1,0 +1,8 @@
+Query: "Where is the closest Exclusive Eateries with Turkish cuisine?"
+Named Entities: [closest (Location), Exclusive Eateries (Restaurant Name), Turkish (Cuisine)]
+
+Query: "What's the The Diners Club's best choice for dinner?"
+Named Entities: [The Diners Club's best choice (Amenity), dinner (Amenity)]
+
+Query: "I want to steal a reservation at a fancy restaurant for tonight."
+Named Entities: [steal (Amenity), reservation (Amenity)]

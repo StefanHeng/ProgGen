@@ -1,0 +1,8 @@
+Query: "recommend a restaurant that offers a pocket-friendly buffet with a stellar fruit platter"
+Named Entities: [pocket-friendly (Price), buffet (Amenity), stellar (Rating), fruit platter (Dish)]
+
+Query: "I'm looking for a dine-in restaurant with a buffet featuring a fruit platter"
+Named Entities: [dine-in (Amenity), buffet (Amenity), fruit platter (Dish)]
+
+Query: "Where can I find a buffet restaurant with a delicious fruit platter and affordable prices"
+Named Entities: [buffet (Amenity), fruit platter (Dish), affordable (Price)]

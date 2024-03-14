@@ -1,0 +1,8 @@
+1. "I'm craving some burgers and fries, where can I find a Five Guys nearby?"
+Named Entities: [burgers and fries (Dish), Five Guys (Restaurant Name), nearby (Location)]
+
+2. "I need a quick bite to eat between classes, any fast food places with good milkshakes?"
+Named Entities: [quick bite (Amenity), fast food (Cuisine), milkshakes (Dish)]
+
+3. "I heard Five Guys has great options for vegetarians, is that true?"
+Named Entities: [Five Guys (Restaurant Name), great options for vegetarians (Amenity)]

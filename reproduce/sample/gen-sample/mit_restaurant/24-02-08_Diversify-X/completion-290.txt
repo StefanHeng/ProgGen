@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a breakfast tasting menu?"
+Named Entities: [breakfast (Cuisine), tasting menu (Amenity)]
+
+2. "I'm looking for a place that serves a breakfast tasting menu, do you have any suggestions?"
+Named Entities: [breakfast (Cuisine), tasting menu (Amenity)]
+
+3. "Where can I find a restaurant that offers a tasting menu for breakfast?"
+Named Entities: [tasting menu (Amenity), breakfast (Cuisine)]

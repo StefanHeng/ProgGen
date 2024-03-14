@@ -1,0 +1,8 @@
+1. "What is the most provocative movie of the 1990s directed by Alfred Hitchcock?"
+Named Entities: [provocative (Review), 1990s (Year), Alfred Hitchcock (Director)]
+
+2. "Have any movies starring Kevin Spacey been noted as terrific and must-see?"
+Named Entities: [Kevin Spacey (Actor), terrific (Viewers' Rating), must see (Review)]
+
+3. "Can you recommend a movie featuring Kate Winslet with the song 'Smells Like Teen Spirit' in its soundtrack?"
+Named Entities: [Kate Winslet (Actor), 'Smells Like Teen Spirit' (Song)]

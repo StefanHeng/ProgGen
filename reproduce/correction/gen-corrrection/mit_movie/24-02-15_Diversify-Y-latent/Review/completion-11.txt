@@ -1,0 +1,11 @@
+1. Query: "I'm curious to know if there were any notable stunt double scenes in the {{behind-the-scenes}} of a popular action movie."
+Text Span: "behind-the-scenes"
+Label: (C). Wrong Type. The correct entity type is Other.
+
+2. Query: "Show me the {{In-depth}} making-of featurette for the movie Happy"
+Text Span: "In-depth"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend a movie with an {{impressive ensemble}} cast"
+Text Span: "impressive ensemble"
+Label: (A). Correct Entity Annotation.

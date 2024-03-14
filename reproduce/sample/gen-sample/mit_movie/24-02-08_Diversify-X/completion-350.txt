@@ -1,0 +1,8 @@
+Query: "Are there any streaming platforms where I can watch the movie Titanic?"
+Named Entities: [Titanic (Title)]
+
+Query: "Can I find the movie Inception available for streaming anywhere?"
+Named Entities: [Inception (Title)]
+
+Query: "Is there a streaming service where I can watch the film The Godfather?"
+Named Entities: [The Godfather (Title),]

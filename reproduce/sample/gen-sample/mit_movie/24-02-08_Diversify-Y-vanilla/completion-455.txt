@@ -1,0 +1,8 @@
+1. "What movie features the song Bennie and the Jets by Elton John?"
+Named Entities: [Bennie and the Jets (Song), Elton John (Artist)]
+
+2. "Is there a film with an E rating that would be suitable for children?"
+Named Entities: [E (MPAA Rating), children (Viewers' Rating)]
+
+3. "Can you recommend a movie with a TV-Y7 rating that has a splendid plot?"
+Named Entities: [TV-Y7 (MPAA Rating), splendid (Plot)]

@@ -1,0 +1,8 @@
+Sentence: "New exhibition at the museum showcases the life and legacy of Mahatma Gandhi."
+Named Entities: [Mahatma Gandhi (person), museum (organization)]
+
+Sentence: "The prime minister announced a national holiday in honor of Mahatma Gandhi's birthday."
+Named Entities: [Mahatma Gandhi (person), prime minister (person)]
+
+Sentence: "Thousands gather for interfaith prayer ceremony inspired by the teachings of Mahatma Gandhi."
+Named Entities: [Mahatma Gandhi (person)]

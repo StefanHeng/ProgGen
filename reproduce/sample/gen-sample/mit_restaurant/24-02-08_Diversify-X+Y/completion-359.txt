@@ -1,0 +1,8 @@
+Query: "I'm looking for a place in Houston that serves delicious sandwiches for lunch"
+Named Entities: [Houston (Location), delicious sandwiches (Dish), lunch (Amenity)]
+
+Query: "Where can I find a restaurant in Houston with a good lunch menu featuring sandwiches"
+Named Entities: [Houston (Location), good lunch menu (Amenity), sandwiches (Dish)]
+
+Query: "I need a recommendation for a lunch spot in Houston specializing in gourmet sandwiches"
+Named Entities: [Houston (Location), lunch spot (Amenity), gourmet sandwiches (Dish)]

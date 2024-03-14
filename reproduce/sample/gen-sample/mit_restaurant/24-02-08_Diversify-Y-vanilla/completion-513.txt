@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Yemeni food, where can I find a Yemeni restaurant nearby?"
+Named Entities: [Yemeni (Cuisine), nearby (Location)]
+
+Query: "Do you know of any Yemeni restaurants with a high rating?"
+Named Entities: [Yemeni (Cuisine), high rating (Rating)]
+
+Query: "What is the price range for Yemeni restaurants in this area?"
+Named Entities: [Yemeni (Cuisine), price range (Price)]

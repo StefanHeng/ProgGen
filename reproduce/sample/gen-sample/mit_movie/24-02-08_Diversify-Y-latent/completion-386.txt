@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a powerful music score similar to that of Lady Gaga's A Star is Born?"
+Named Entities: [powerful music score (Review), Lady Gaga (Song), A Star is Born (Title)]
+
+2. Query: "Are there any movies that explore the theme of life after death like Coco?"
+Named Entities: [life after death (Plot), Coco (Title)]
+
+3. Query: "Who are the Misfit cast members in the movie Singin' in the Rain?"
+Named Entities: [Misfit (Character), Singin' in the Rain (Title)]

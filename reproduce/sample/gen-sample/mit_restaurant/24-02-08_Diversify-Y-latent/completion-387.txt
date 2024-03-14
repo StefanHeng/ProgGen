@@ -1,0 +1,8 @@
+Query: "I'm looking for some Breakfast economic choices around here"
+Named Entities: [Breakfast (Amenity), economic choices (Price)]
+
+Query: "I want to try a new place for Thai cuisine with high ratings"
+Named Entities: [Thai cuisine (Cuisine), high ratings (Rating)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a view of the river"
+Named Entities: [outdoor seating (Amenity), view of the river (Location)]

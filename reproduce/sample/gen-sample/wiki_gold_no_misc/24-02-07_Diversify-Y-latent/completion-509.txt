@@ -1,0 +1,8 @@
+Sentence: "Amazon.com is one of the largest online retailers in the world."
+Named Entities: [Amazon.com (organization)]
+
+Sentence: "Dubai is the most populous city in the United Arab Emirates."
+Named Entities: [Dubai (location), United Arab Emirates (location)]
+
+Sentence: "Most major international airlines operate flights to Frankfurt, Germany."
+Named Entities: [Frankfurt (location), Germany (location)]

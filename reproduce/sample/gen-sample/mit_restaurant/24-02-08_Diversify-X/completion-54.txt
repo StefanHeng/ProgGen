@@ -1,0 +1,8 @@
+Query: "Which Italian restaurants near me offer takeout for dinner"
+Named Entities: [Italian (Cuisine), near me (Location), takeout (Amenity), dinner (Amenity)]
+
+Query: "What are the hours for Chinese takeout restaurants open for dinner"
+Named Entities: [Chinese (Cuisine), takeout (Amenity), dinner (Amenity)]
+
+Query: "I'm looking for a sushi restaurant with takeout available for dinner"
+Named Entities: [sushi (Cuisine), takeout (Amenity), dinner (Amenity)]

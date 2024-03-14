@@ -1,0 +1,8 @@
+1. "What is the rating of Himalayan restaurant?"
+Named Entities: [Himalayan (Restaurant Name)] [rating (Rating)]
+
+2. "I'm craving some Bruschetta, where can I find it nearby?"
+Named Entities: [Bruschetta (Dish)] [nearby (Location)]
+
+3. "Is Granite City Food & Brewery open for dinner?"
+Named Entities: [Granite City Food & Brewery (Restaurant Name)] [dinner (Hours)]

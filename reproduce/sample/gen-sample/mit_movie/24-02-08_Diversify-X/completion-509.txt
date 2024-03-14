@@ -1,0 +1,8 @@
+1. Spoken query: "Has the movie Interstellar won any major awards?"
+   Named Entities: [Interstellar (Title), major awards (Awards and nominations)]
+
+2. Spoken query: "Is there a movie with Leonardo DiCaprio that won multiple Oscars?"
+   Named Entities: [Leonardo DiCaprio (Actor), multiple Oscars (Awards and nominations)]
+
+3. Spoken query: "What war film from the 2000s has received the most nominations?"
+   Named Entities: [war film (Genre), 2000s (Year), most nominations (Awards and nominations)]

@@ -1,0 +1,8 @@
+1. Text Span: "Avengers"
+   Label: (A). The span is a named entity of type title
+
+2. Text Span: "new James Bond film"
+   Label: (B). The correct span boundary is "James Bond"
+
+3. Text Span: "Blazing Saddles"
+   Label: (A). The span is a named entity of type title

@@ -1,0 +1,8 @@
+1. "What year was the movie American Sniper released, and who is the director?"
+Named Entities: [American Sniper (Title), released (Year)]
+
+2. "Can you recommend a film starring Anne Hathaway that is rated R?"
+Named Entities: [Anne Hathaway (Actor), rated R (MPAA Rating)]
+
+3. "I'm looking for a movie from 1976 with an NC-17 rating, can you help me find one?"
+Named Entities: [1976 (Year), NC-17 (MPAA Rating)]

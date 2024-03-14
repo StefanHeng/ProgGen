@@ -1,0 +1,8 @@
+Query: "Can you suggest an affordable, upscale and elegant restaurant with rave-reviewed cuisine for lunch today?"
+Named Entities: [Affordable (Price), upscale and elegant (Amenity), rave-reviewed (Rating), lunch (Hours)]
+
+Query: "I'm looking for a highly rated, affordable lunch spot with elegant ambiance. Any recommendations?"
+Named Entities: [highly rated (Rating), affordable (Price), lunch (Hours), elegant ambiance (Amenity)]
+
+Query: "Where can I find a lunch spot with upscale and rave-reviewed cuisine that won't break the bank?"
+Named Entities: [lunch (Hours), upscale (Amenity), rave-reviewed (Rating), won't break the bank (Price)]

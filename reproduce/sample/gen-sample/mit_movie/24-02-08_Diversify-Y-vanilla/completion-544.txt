@@ -1,0 +1,8 @@
+1. Query: "Can I get a first look at the movie A Beautiful Mind starring Russell Crowe?"
+   Named Entities: [First look (Trailer), A Beautiful Mind (Title), Russell Crowe (Actor)]
+
+2. Query: "Is there a historical film about the Holocaust directed by Steven Spielberg?"
+   Named Entities: [historical (Genre), Holocaust (Plot), Steven Spielberg (Director)]
+
+3. Query: "What is the viewers' rating for the movie Jurassic Park with Laura Dern as the main character?"
+   Named Entities: [viewers' rating (Viewers' Rating), Jurassic Park (Title), Laura Dern (Actor)]

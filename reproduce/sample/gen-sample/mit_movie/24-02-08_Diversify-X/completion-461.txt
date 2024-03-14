@@ -1,0 +1,8 @@
+1. "I'm not sure which movie has the best soundtrack, can you recommend one with a great song that sets the mood?"
+Named Entities: [best soundtrack (Review), great song (Song)]
+
+2. "I'm trying to find a movie with a memorable musical score, can you show me one with a captivating soundtrack?"
+Named Entities: [memorable musical score (Review), captivating soundtrack (Soundtrack)]
+
+3. "I'm not sure which movie to watch, can you suggest one with a memorable theme song that's worth listening to?"
+Named Entities: [memorable theme song (Song), worth listening to (Viewers' Rating)]

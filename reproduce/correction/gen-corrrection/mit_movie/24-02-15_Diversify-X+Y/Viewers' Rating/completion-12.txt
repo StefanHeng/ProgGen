@@ -1,0 +1,8 @@
+1. Text Span: "highly rewarded"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "respected by award voters"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Review
+
+3. Text Span: "viewers' rating"
+Label: (D). The span is not a named entity

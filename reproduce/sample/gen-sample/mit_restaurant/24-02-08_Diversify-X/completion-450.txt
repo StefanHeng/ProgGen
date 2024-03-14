@@ -1,0 +1,8 @@
+Query: "can you recommend a buffet restaurant with a high rating in this area"
+Named Entities: [buffet (Amenity), high rating (Rating), this area (Location)]
+
+Query: "what time does the sushi buffet close tonight"
+Named Entities: [sushi (Cuisine), buffet (Amenity), close tonight (Hours)]
+
+Query: "where can I find a budget-friendly Indian buffet for dinner"
+Named Entities: [budget-friendly (Price), Indian (Cuisine), buffet (Amenity), dinner (Meal Category)]

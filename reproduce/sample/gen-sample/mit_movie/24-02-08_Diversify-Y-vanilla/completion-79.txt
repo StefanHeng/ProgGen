@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with the song Livin’ on a Prayer?"
+Named Entities: [Livin’ on a Prayer (Song)]
+
+Query: "Are there any highly rated movies in the C category?"
+Named Entities: [C (MPAA Rating), highly rated (Viewers' Rating)]
+
+Query: "What genre is the movie G?"
+Named Entities: [G (Title)]

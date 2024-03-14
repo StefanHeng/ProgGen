@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a nice outdoor patio for Sunday brunch?"
+   Named Entities: [nice outdoor patio (Amenity), Sunday brunch (Amenity)]
+
+2. "I'm craving some spicy Indian food for dinner tonight, where can I find a good place?"
+   Named Entities: [spicy (Taste), Indian (Cuisine), dinner tonight (Hours)]
+
+3. "I need to find a family-friendly Italian restaurant with a kids menu and reasonable prices for lunch today."
+   Named Entities: [family-friendly (Amenity), Italian (Cuisine), kids menu (Amenity), reasonable prices (Price), lunch today (Hours)]

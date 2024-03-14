@@ -1,0 +1,8 @@
+1. "I'm craving some late-night eats, can you recommend a place that's still open?"
+Named Entities: [late-night eats (Amenity)]
+
+2. "I'm in the mood for some Greek food, do you know any good Greek restaurants nearby?"
+Named Entities: [Greek (Cuisine)]
+
+3. "I'm thinking of having seafood for dinner, how about Bubba Gump Shrimp Co.?"
+Named Entities: [Bubba Gump Shrimp Co. (Restaurant Name)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend an unrivaled seafood restaurant in the city center?"
+Named Entities: [unrivaled (Rating), seafood (Cuisine), city center (Location)]
+
+Query: "Where can I find a spectacular outdoor dining spot with a view of the river?"
+Named Entities: [spectacular (Rating), outdoor dining (Amenity), view of the river (Amenity)]
+
+Query: "I'm craving some unrivaled Italian cuisine, do you know any good places in the neighborhood?"
+Named Entities: [unrivaled (Rating), Italian (Cuisine), neighborhood (Location)]

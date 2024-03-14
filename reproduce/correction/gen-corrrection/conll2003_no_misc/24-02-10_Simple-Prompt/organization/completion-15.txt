@@ -1,0 +1,11 @@
+1. Sentence: "CEO of {{Google}} testifies before Congress."
+Text Span: "Google"
+Label: (A)
+
+2. Sentence: "NASA's {{Perseverance}} rover discovers evidence of ancient life on Mars."
+Text Span: "Perseverance"
+Label: (A)
+
+3. Sentence: "{{Australian government}} launches inquiry into banking industry practices."
+Text Span: "Australian government"
+Label: (A)

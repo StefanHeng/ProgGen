@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a wide selection of seafood dishes for dinner tonight?"
+   Named Entities: [seafood dishes (Cuisine), dinner (Hours)]
+
+2. "I'm looking for a restaurant with a happy hour special before 7pm. Do you have any recommendations?"
+   Named Entities: [happy hour (Amenity), before 7pm (Hours)]
+
+3. "I'm in the mood for Italian cuisine tonight. Can you find a restaurant with an early bird dinner special?"
+   Named Entities: [Italian cuisine (Cuisine), early bird dinner special (Amenity)]

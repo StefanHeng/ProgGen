@@ -1,0 +1,8 @@
+1. "I'm craving some late-night Indian cuisine with a rustic ambience, can you recommend any restaurants?"
+Named Entities: [late-night dining (Amenity), rustic (Amenity), Indian (Cuisine)]
+
+2. "Where can I find a cozy rustic place for late-night dining that serves Indian dishes?"
+Named Entities: [cozy (Amenity), rustic (Amenity), late-night dining (Amenity), Indian (Cuisine)]
+
+3. "I want to try some late-night dining that has a rustic atmosphere and offers authentic Indian food, do you have any suggestions?"
+Named Entities: [late-night dining (Amenity), rustic (Amenity), authentic (Amenity), Indian (Cuisine)]

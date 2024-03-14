@@ -1,0 +1,8 @@
+1. "can you recommend a spot for breakfast takeout with a good eggs benedict and coffee"
+Named Entities: [breakfast (Amenity), takeout (Amenity), eggs benedict (Dish), coffee (Dish)]
+
+2. "i need a place for takeout breakfast under 15 dollars with pancakes and bacon"
+Named Entities: [takeout (Amenity), breakfast (Amenity), under 15 dollars (Price), pancakes (Dish), bacon (Dish)]
+
+3. "where can i find a restaurant that offers takeout breakfast with a nice omelette and hash browns"
+Named Entities: [takeout (Amenity), breakfast (Amenity), omelette (Dish), hash browns (Dish)]

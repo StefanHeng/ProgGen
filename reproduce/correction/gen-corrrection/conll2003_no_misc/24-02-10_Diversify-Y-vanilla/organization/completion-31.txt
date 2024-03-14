@@ -1,0 +1,11 @@
+1. Sentence: "{{Doctors Without Borders}} provide medical aid to remote villages in Africa."
+Text Span: "Doctors Without Borders"
+Label: (A). Named entity of type organization
+
+2. Sentence: "Elon Musk's {{SpaceX}} successfully launches 60 more Starlink satellites."
+Text Span: "SpaceX"
+Label: (A). Named entity of type organization
+
+3. Sentence: "Mike Pence's visit to {{Japan}} strengthens bilateral trade ties."
+Text Span: "Japan"
+Label: (C). Named entity but the category is not organization. Correct entity type: location

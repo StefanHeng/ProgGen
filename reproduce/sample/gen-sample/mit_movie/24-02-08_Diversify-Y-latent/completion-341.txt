@@ -1,0 +1,8 @@
+1. Query: "could you play the trailer for the movie made in 2002 by a remarkable director"
+Named Entities: [trailer (Trailer), 2002 (Year), remarkable (Review)]
+
+2. Query: "can you recommend a film with a song from 1998"
+Named Entities: [1998 (Year), song (Song)]
+
+3. Query: "who directed the classic film from 2002 in the thriller genre"
+Named Entities: [2002 (Year), classic (Viewers' Rating), thriller (Genre)]

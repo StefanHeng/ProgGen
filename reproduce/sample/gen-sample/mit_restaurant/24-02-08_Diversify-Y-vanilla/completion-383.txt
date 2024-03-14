@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant in the community that serves delicious pulled pork?"
+Named Entities: [community (Location), delicious pulled pork (Dish)]
+
+Query: "Do you know of any restaurants with meeting rooms and a varied menu?"
+Named Entities: [meeting rooms (Amenity), varied menu (Amenity)]
+
+Query: "I'm looking for a restaurant with affordable prices and a diverse cuisine selection, any suggestions?"
+Named Entities: [affordable prices (Price), diverse cuisine selection (Cuisine)]

@@ -1,0 +1,8 @@
+1. Text Span: "strong female character"
+   Label: (C). The correct entity type is other.
+
+2. Text Span: "musician"
+   Label: (A). The span is a named entity of type character
+
+3. Text Span: "Kylo Ren"
+   Label: (A). The span is a named entity of type character

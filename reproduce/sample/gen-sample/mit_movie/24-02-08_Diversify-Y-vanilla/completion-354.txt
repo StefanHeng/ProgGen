@@ -1,0 +1,8 @@
+Query: "Can you recommend a comedy movie with a high viewers' rating?"
+Named Entities: [comedy (Genre), high viewers' rating (Viewers' Rating)]
+
+Query: "What is a good thriller movie that came out in 2020?"
+Named Entities: [thriller (Genre), 2020 (Year)]
+
+Query: "Show me a movie with Dwayne Johnson that involves sports and is suitable for children."
+Named Entities: [Dwayne Johnson (Actor), sports (Genre), suitable for children (MPAA Rating)]

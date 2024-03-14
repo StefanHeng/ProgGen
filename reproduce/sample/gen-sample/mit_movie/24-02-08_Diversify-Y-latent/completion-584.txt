@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good movie with Kevin Hart in a leading role?"
+Named Entities: [Kevin Hart (Actor)]
+
+2. Query: "I'm in the mood for a classic war film. Do you have any recommendations?"
+Named Entities: [War (Genre)]
+
+3. Query: "What animated movie was directed by F. Gary Gray?"
+Named Entities: [F. Gary Gray (Director), Animated (Genre)]

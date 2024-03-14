@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food restaurant with a high rating and a location close to downtown?"
+Named Entities: [fast food (Cuisine), high (Rating), location close to downtown (Location)]
+
+2. "What are the operating hours of the nearest burger joint?"
+Named Entities: [nearest (Location), burger joint (Restaurant Name), operating hours (Hours)]
+
+3. "I'm looking for a fast food place with cheap prices, can you suggest one?"
+Named Entities: [fast food (Cuisine), cheap prices (Price)]

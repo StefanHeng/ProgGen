@@ -1,0 +1,8 @@
+Query: "I'm looking for a dairy-free lunch spot with outdoor seating"
+Named Entities: [dairy-free (Amenity), lunch (Cuisine), outdoor seating (Amenity)]
+
+Query: "Can you recommend a restaurant with vegan lunch options and a 4-star rating?"
+Named Entities: [vegan (Cuisine), lunch (Cuisine), 4-star (Rating)]
+
+Query: "What are the hours for the Italian restaurant with dairy-free lunch options?"
+Named Entities: [Italian (Cuisine), dairy-free (Amenity), lunch (Cuisine), hours (Hours)]

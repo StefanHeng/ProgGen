@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me the plot of The Godfather, directed by Stanley Kubrick?"
+   Named Entities: [The Godfather (Title), Stanley Kubrick (Director)]
+
+2. Spoken Query: "I need a movie from 1988 that will blow me away, can you suggest one with an amazing plot?"
+   Named Entities: [1988 (Year), amazing plot (Review)]
+
+3. Spoken Query: "Show me a movie from 1995-2005 with a mind-blowing synopsis, please"
+   Named Entities: [1995-2005 (Year), mind-blowing (Review)]

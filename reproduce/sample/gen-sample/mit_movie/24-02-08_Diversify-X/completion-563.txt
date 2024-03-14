@@ -1,0 +1,8 @@
+1. "Can you hurry up and show me a trailer for the next James Bond movie already?"
+   Named Entities: [James Bond (Character), trailer (Trailer)]
+
+2. "I need to see a teaser for the upcoming Marvel movie right now!"
+   Named Entities: [Marvel (Genre), teaser (Trailer)]
+
+3. "I don't have all day, show me the preview for the new action movie with Tom Cruise in it."
+   Named Entities: [action (Genre), Tom Cruise (Actor), preview (Trailer)]

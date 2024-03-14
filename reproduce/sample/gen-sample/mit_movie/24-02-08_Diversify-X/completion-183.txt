@@ -1,0 +1,8 @@
+1. Query: "Can you tell me who directed the movie that won the most Oscars in 2020?"
+Named Entities: [Oscars (Viewers' Rating), 2020 (Year), Director]
+
+2. Query: "I need to watch a movie with an intense plot and a twist ending, do you have any recommendations?"
+Named Entities: [intense plot (Plot), twist ending (Plot)]
+
+3. Query: "Show me a trailer for a classic film that was both critically acclaimed and commercially successful."
+Named Entities: [trailer (Trailer), classic film (Title), critically acclaimed (Review)]

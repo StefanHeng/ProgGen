@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant close to the theater district?"
+Named Entities: [fine dining (Cuisine), close to (Location), theater district (Location)]
+
+Query: "Where can I find a high-rated restaurant close to the opera house?"
+Named Entities: [high-rated (Rating), close to (Location), opera house (Location)]
+
+Query: "I'm looking for a fancy restaurant close to the downtown area. Any suggestions?"
+Named Entities: [fancy (Amenity), close to (Location), downtown area (Location)]

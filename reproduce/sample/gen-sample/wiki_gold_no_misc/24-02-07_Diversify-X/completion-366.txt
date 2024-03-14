@@ -1,0 +1,8 @@
+Sentence: "The acclaimed author, Margaret Atwood, is known for her influential works such as The Handmaid's Tale and Cat's Eye."
+Named Entities: [Margaret Atwood (person)]
+
+Sentence: "In 1922, T.S. Eliot published his famous poem, The Waste Land, which is considered a landmark in modernist literature."
+Named Entities: [T.S. Eliot (person)]
+
+Sentence: "The Pulitzer Prize-winning novelist, Toni Morrison, is renowned for her powerful portrayal of African American life in works like Beloved and Song of Solomon."
+Named Entities: [Toni Morrison (person), Pulitzer Prize (organization)]

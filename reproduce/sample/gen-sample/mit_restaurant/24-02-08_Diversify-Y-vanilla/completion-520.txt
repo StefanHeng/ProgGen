@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Colombian restaurant with high ratings in the downtown area?"
+Named Entities: [Colombian (Cuisine), high ratings (Rating), downtown area (Location)]
+
+2. Query: "I'm in the mood for some authentic Colombian dishes. Any places with affordable prices?"
+Named Entities: [Colombian (Cuisine), authentic (Amenity), affordable prices (Price)]
+
+3. Query: "What are the operating hours of the nearest Colombian dining spot?"
+Named Entities: [Colombian (Cuisine), nearest (Location), operating hours (Hours)]

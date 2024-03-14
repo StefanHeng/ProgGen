@@ -1,0 +1,8 @@
+1. "Can you show me some historical assassination movie trailers directed by Rob Reiner or Tim Burton that came out in 2010?"
+Named Entities: [historical assassination (Genre), Rob Reiner (Director), Tim Burton (Director), 2010 (Year)]
+
+2. "I'm overwhelmed! Show me teasers for Pretty Woman and any movie involving a political conspiracy."
+Named Entities: [Pretty Woman (Title), political conspiracy (Plot)]
+
+3. "Find me trailers for movies with the song 'Fly Me to the Moon' and directed by Rob Reiner or Tim Burton."
+Named Entities: [Fly Me to the Moon (Song), Rob Reiner (Director), Tim Burton (Director)]

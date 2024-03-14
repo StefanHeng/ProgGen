@@ -1,0 +1,8 @@
+1. Text Span: "Planned Parenthood"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "tiger"
+Label: (D). Not a Named Entity
+
+3. Text Span: "rock band"
+Label: (A). The span is a named entity of type organization

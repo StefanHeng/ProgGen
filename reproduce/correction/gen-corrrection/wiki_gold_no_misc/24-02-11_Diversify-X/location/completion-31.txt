@@ -1,0 +1,8 @@
+1. Text Span: "German"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Arctic Circle"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Stanford"
+Label: (A). Correct Entity Annotation.

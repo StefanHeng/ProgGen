@@ -1,0 +1,19 @@
+{
+    "prompts": [
+        "Suppose you are a Wikipedia editor. Please generate 50 diverse named entities in Wikipedia articles that can be categorized as person.",
+        "Suppose you are a Wikipedia editor. Please generate 50 diverse named entities in Wikipedia articles that can be categorized as person.",
+        "Suppose you are a Wikipedia editor. Please generate 50 diverse named entities in Wikipedia articles that can be categorized as person.",
+        "Suppose you are a Wikipedia editor. Please generate 50 diverse named entities in Wikipedia articles that can be categorized as person.",
+        "Suppose you are a Wikipedia editor. Please generate 50 diverse named entities in Wikipedia articles that can be categorized as person.",
+        "Suppose you are a Wikipedia editor. Please generate 120 diverse named entities in Wikipedia articles that can be categorized as location.",
+        "Suppose you are a Wikipedia editor. Please generate 120 diverse named entities in Wikipedia articles that can be categorized as location.",
+        "Suppose you are a Wikipedia editor. Please generate 120 diverse named entities in Wikipedia articles that can be categorized as location.",
+        "Suppose you are a Wikipedia editor. Please generate 120 diverse named entities in Wikipedia articles that can be categorized as location.",
+        "Suppose you are a Wikipedia editor. Please generate 120 diverse named entities in Wikipedia articles that can be categorized as location.",
+        "Suppose you are a Wikipedia editor. Please generate 80 diverse named entities in Wikipedia articles that can be categorized as organization.",
+        "Suppose you are a Wikipedia editor. Please generate 80 diverse named entities in Wikipedia articles that can be categorized as organization.",
+        "Suppose you are a Wikipedia editor. Please generate 80 diverse named entities in Wikipedia articles that can be categorized as organization.",
+        "Suppose you are a Wikipedia editor. Please generate 80 diverse named entities in Wikipedia articles that can be categorized as organization.",
+        "Suppose you are a Wikipedia editor. Please generate 80 diverse named entities in Wikipedia articles that can be categorized as organization."
+    ]
+}

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a picnic area?" 
+Named Entities: [picnic area (Amenity)]
+
+2. "I'm looking for a place with outdoor seating, preferably with a view of the lake. Any recommendations?"
+Named Entities: [outdoor seating (Amenity), view of the lake (Location)]
+
+3. "What restaurants nearby offer a diverse menu with gluten-free options?"
+Named Entities: [diverse menu (Amenity), gluten-free (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby Italian restaurant for lunch?"
+Named Entities: [Italian (Cuisine), lunch (Price), nearby (Location)]
+
+2. "What are the top-rated sushi places in downtown for a midday meal?"
+Named Entities: [top-rated (Rating), sushi (Cuisine), downtown (Location), midday meal (Hours)]
+
+3. "I want to try a new burger joint with outdoor seating for a lunch date, any suggestions?"
+Named Entities: [burger joint (Cuisine), outdoor seating (Amenity), lunch date (Hours)]

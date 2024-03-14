@@ -1,0 +1,8 @@
+Query: "What is Quentin Tarantino's highest-rated film according to viewers"
+Named Entities: [Quentin Tarantino (Director), highest-rated (Viewers' Rating)]
+
+Query: "Can you recommend a good high school drama movie from the 90s"
+Named Entities: [high school drama (Genre), 90s (Year)]
+
+Query: "Is Chris Hemsworth starring in any action-packed movies that are PG-13 or lower"
+Named Entities: [Chris Hemsworth (Actor), action-packed (Genre), PG-13 (MPAA Rating)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a highly rated seafood restaurant nearby?"
+Named Entities: [highly rated (Rating), seafood restaurant (Cuisine), nearby (Location)]
+
+Query: "what Mexican restaurants are open for dinner?"
+Named Entities: [Mexican restaurants (Cuisine), open for dinner (Hours)]
+
+Query: "I'm in the mood for some sushi, where can I find a reasonably priced sushi place?"
+Named Entities: [sushi (Cuisine), reasonably priced (Price), sushi place (Amenity)]

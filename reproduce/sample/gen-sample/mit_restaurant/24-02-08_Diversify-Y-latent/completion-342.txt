@@ -1,0 +1,8 @@
+Query: "I'm craving some sushi, what's a good place for that around here?"
+Named Entities: [sushi (Cuisine), around here (Location), good (Rating)]
+
+Query: "Can you recommend a restaurant with outdoor seating?"
+Named Entities: [outdoor seating (Amenity)]
+
+Query: "I need to find a vegan-friendly restaurant with a patio and a good view"
+Named Entities: [vegan-friendly (Amenity), patio (Amenity), good view (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a Korean restaurant in the vicinity that serves halal lunch?"
+Named Entities: [Korean (Cuisine), in the vicinity (Location), halal (Dietary Restriction), lunch (Amenity)]
+
+Query: "I'm looking for a halal-friendly Korean restaurant nearby for lunch, any suggestions?"
+Named Entities: [halal-friendly (Amenity), Korean (Cuisine), nearby (Location), lunch (Amenity)]
+
+Query: "Where can I find a halal Korean restaurant for lunch around here?"
+Named Entities: [halal (Dietary Restriction), Korean (Cuisine), lunch (Amenity), around here (Location)]

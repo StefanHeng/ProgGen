@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for Moonlight?"
+   Named Entities: [Moonlight (Title), viewers' rating (Viewers' Rating)]
+
+2. Query: "Can you recommend a film directed by Laura Dern and released in 1967?"
+   Named Entities: [Laura Dern (Director), 1967 (Year)]
+
+3. Query: "Show me a trailer of The Twilight Saga that is rated Restricted"
+   Named Entities: [The Twilight Saga (Title), trailer (Trailer), Restricted (MPAA Rating)]

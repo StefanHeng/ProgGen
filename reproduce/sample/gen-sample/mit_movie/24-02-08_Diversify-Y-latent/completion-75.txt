@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an intense action movie released between 2014-2018 with a good viewers' rating?"
+Named Entities: [intense (Genre), action (Genre), 2014-2018 (Year), viewers' rating (Viewers' Rating)]
+
+2. Query: "I'm looking for an animation film with a time travel plot, can you show me a preview clip?"
+Named Entities: [animation (Genre), time travel (Plot), preview clip (Trailer)]
+
+3. Query: "Who directed the movie The Matrix, and what is the MPAA rating for it?"
+Named Entities: [The Matrix (Title), directed (Director), MPAA rating (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. Text Span: "Film teaser"
+Label: (B). The correct span boundary is "teaser".
+
+2. Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "promotional clip"
+Label: (B). The correct span boundary is "clip".

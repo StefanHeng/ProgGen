@@ -1,0 +1,8 @@
+Query: "What are the hours for Italian restaurants in Houston?"
+Named Entities: [Italian (Cuisine), Houston (Location), Hours]
+
+Query: "I'm craving Mexican food, where can I find a highly rated taco place in Houston?"
+Named Entities: [Mexican (Cuisine), highly rated (Rating), taco (Dish), Houston (Location)]
+
+Query: "Show me a list of seafood restaurants with outdoor seating and a view in Houston."
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), view (Amenity), Houston (Location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a repellant movie for me to watch this weekend?"
+   Named Entities: [repellant (Genre)]
+
+2. "Who directed the film where Ron Weasley plays a lead role?"
+   Named Entities: [Ron Weasley (Character)]
+
+3. "I'm looking for a Greta Gerwig movie that is rated NC-17."
+   Named Entities: [Greta Gerwig (Actor), NC-17 (MPAA Rating)]

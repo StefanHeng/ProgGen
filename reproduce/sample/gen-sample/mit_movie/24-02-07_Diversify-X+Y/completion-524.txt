@@ -1,0 +1,8 @@
+1. "I'm curious about a certain film... it's about time travel. Can you tell me the plot of that movie?"
+Named Entities: [time travel (Genre), plot (Plot)]
+
+2. "I'm in the mood for something musical. Do you have a synopsis for a musical movie?"
+Named Entities: [musical (Genre), synopsis (Plot)]
+
+3. "I'm interested in something adventurous, maybe with a rating of R. Can you tell me the plot of a movie like that?"
+Named Entities: [adventurous (Genre), R (MPAA Rating), plot (Plot)]

@@ -1,0 +1,8 @@
+Sentence: "The FBI is investigating the recent bank robbery in downtown Chicago."
+Named Entities: [FBI (organization), Chicago (location)]
+
+Sentence: "The suspect was apprehended by Officer Smith near the crime scene."
+Named Entities: [Officer Smith (person)]
+
+Sentence: "The International Criminal Court has jurisdiction over cases involving genocide, war crimes, and crimes against humanity."
+Named Entities: [International Criminal Court (organization)]

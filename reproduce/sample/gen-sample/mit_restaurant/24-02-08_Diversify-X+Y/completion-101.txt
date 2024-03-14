@@ -1,0 +1,8 @@
+1. "Can you recommend a trendy lunch spot around here, maybe Carrabba's Italian Grill?"
+Named Entities: [trendy (Amenity), lunch (Hours), Carrabba's Italian Grill (Restaurant Name)]
+
+2. "I'm looking for a chic place to have lunch, something like Carrabba's Italian Grill."
+Named Entities: [chic (Amenity), lunch (Hours), Carrabba's Italian Grill (Restaurant Name)]
+
+3. "Where can I find a trendy restaurant with a lunch menu, maybe Carrabba's Italian Grill?"
+Named Entities: [trendy (Amenity), lunch (Hours), Carrabba's Italian Grill (Restaurant Name)]

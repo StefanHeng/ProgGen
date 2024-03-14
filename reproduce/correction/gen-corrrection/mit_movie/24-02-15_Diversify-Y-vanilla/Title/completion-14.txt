@@ -1,0 +1,11 @@
+1. Query: "Is the new {{Harry Potter}} film worth watching?"
+Text Span: "Harry Potter"
+Label: (A). The span is a named entity of type title
+
+2. Query: "What film in {{The Twilight Saga}} has the best viewers' rating?"
+Text Span: "The Twilight Saga"
+Label: (A). The span is a named entity of type title
+
+3. Query: "Show me the trailer for {{Apocalypse}}, the movie with the song from Dirty Dancing."
+Text Span: "Apocalypse"
+Label: (A). The span is a named entity of type title

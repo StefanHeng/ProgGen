@@ -1,0 +1,8 @@
+Query: "Who composed the music for the movie The Lion King"
+Named Entities: [The Lion King (Title), Composer (Entity Type)]
+
+Query: "Can you find a short film featuring Mickey Mouse"
+Named Entities: [Short (Entity Type), Mickey Mouse (Character)]
+
+Query: "Which dynamic duo starred in a movie together in 1987"
+Named Entities: [Dynamic duo (Character), 1987 (Year)]

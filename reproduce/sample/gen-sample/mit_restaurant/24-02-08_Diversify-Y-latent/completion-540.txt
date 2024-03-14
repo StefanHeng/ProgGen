@@ -1,0 +1,8 @@
+1. "Where can I find a Spanish restaurant for Brunch Bites?"
+Named Entities: [Spanish (Cuisine), Brunch Bites (Amenity)]
+
+2. "Is there a place with a good brunch cost comparison nearby?"
+Named Entities: [good (Rating), brunch cost comparison (Amenity), nearby (Location)]
+
+3. "What's the best-rated restaurant for brunch in terms of cost?"
+Named Entities: [best-rated (Rating), brunch (Amenity), cost (Price)]

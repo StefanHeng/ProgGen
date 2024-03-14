@@ -1,0 +1,8 @@
+1. "Can you recommend a Mexican restaurant with outdoor seating for lunch"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), lunch (Hours)]
+
+2. "I'd like to find a Chinese restaurant with a rating of at least 4 stars for lunch"
+Named Entities: [Chinese (Cuisine), at least 4 stars (Rating), lunch (Hours)]
+
+3. "Where can I get a vegetarian dish near the park for $15 or less for lunch"
+Named Entities: [vegetarian (Dish), near the park (Location), $15 or less (Price), lunch (Hours)]

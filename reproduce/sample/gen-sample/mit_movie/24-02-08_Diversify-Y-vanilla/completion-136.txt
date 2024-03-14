@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a cheesy coming-of-age movie with iconic scenes?"
+Named Entities: [cheesy (Viewers' Rating), coming-of-age (Genre), iconic scenes (Plot)]
+
+2. Query: "What year was the movie The Breakfast Club released and what is its viewers' rating?"
+Named Entities: [The Breakfast Club (Title), viewers' rating (Review), year (Year)]
+
+3. Query: "Show me a 4.2-star rated action movie directed by Steven Spielberg"
+Named Entities: [4.2-star rated (Viewers' Rating), action (Genre), Steven Spielberg (Director)]

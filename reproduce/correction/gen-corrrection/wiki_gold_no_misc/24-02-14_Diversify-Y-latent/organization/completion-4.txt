@@ -1,0 +1,8 @@
+1. Text Span: "Detroit Institute of Arts"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Pulitzer Prize"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Harvard"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. The correct span boundary is "Harvard Classification Scheme"

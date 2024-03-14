@@ -1,0 +1,8 @@
+Query: "What's the deal with that new Tarantino movie, is it any good?"
+Named Entities: [Tarantino movie (Director), any good (Review)]
+
+Query: "Hey, have you heard about that horror movie with the killer clown? What's the viewers' rating on that one?"
+Named Entities: [horror movie (Genre), killer clown (Character), viewers' rating (Viewers' Rating)]
+
+Query: "Can you tell me a cool action movie from the 90s, something like Die Hard or Terminator?"
+Named Entities: [action movie (Genre), 90s (Year), Die Hard (Title), Terminator (Title)]

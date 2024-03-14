@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the film Piano Man?"
+Named Entities: [Piano Man (Title), viewers' rating (Viewers' Rating)]
+
+2. "Can you show me the teaser trailer for the latest film directed by Quentin Tarantino?"
+Named Entities: [teaser trailer (Trailer), Quentin Tarantino (Director)]
+
+3. "Who is the actor in the movie that was released in 1995 and falls under the thriller genre?"
+Named Entities: [1995 (Year), thriller (Genre)]

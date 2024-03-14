@@ -1,0 +1,8 @@
+1. Query: "Where is the nearest Yard House located?"
+Named Entities: [nearest (Location), Yard House (Restaurant Name)]
+
+2. Query: "Can you recommend any Yard House dishes for vegetarians?"
+Named Entities: [Yard House (Restaurant Name), vegetarians (Amenity), dishes (Dish)]
+
+3. Query: "What are the opening hours of Yard House on weekends?"
+Named Entities: [Yard House (Restaurant Name), opening hours (Hours), weekends (Hours)]

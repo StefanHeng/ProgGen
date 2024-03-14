@@ -1,0 +1,8 @@
+1. "Can you recommend any TV-G rated movies for family movie night?"
+Named Entities: [TV-G (MPAA Rating), family movie night (Viewers' Rating)]
+
+2. "I'd like to watch a sneak peek of Dunkirk before deciding if I want to see the whole movie."
+Named Entities: [sneak peek (Trailer), Dunkirk (Title)]
+
+3. "What is the genre of the movie that features the song 'A Whole New World'?"
+Named Entities: ['A Whole New World' (Song)]

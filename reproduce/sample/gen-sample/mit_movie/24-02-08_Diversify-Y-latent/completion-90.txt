@@ -1,0 +1,8 @@
+Query: "Where can I find an extended look of the new Star Wars movie starring Lupita Nyong'o?"
+Named Entities: [extended look (Trailer), Star Wars (Title), Lupita Nyong'o (Actor)]
+
+Query: "What movie features the song Hakuna Matata?"
+Named Entities: [Hakuna Matata (Song)]
+
+Query: "Is there a highly-rated movie directed by Guillermo del Toro?"
+Named Entities: [Guillermo del Toro (Director), highly-rated (Viewers' Rating)]

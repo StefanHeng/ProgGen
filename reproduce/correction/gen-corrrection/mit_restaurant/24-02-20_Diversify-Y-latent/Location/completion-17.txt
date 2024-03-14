@@ -1,0 +1,8 @@
+1. Text Span: "nearby"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Panera Bread"
+Label: (C). The span is a named entity but the category is not location. Entity Type: Restaurant Name
+
+3. Text Span: "this area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area"

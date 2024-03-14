@@ -1,0 +1,149 @@
+1. Tesla announces plans to build new gigafactory in Texas.
+Named Entities: [Tesla (organization), Texas (location)]
+
+2. Senator Kamala Harris to visit small businesses in Ohio.
+Named Entities: [Kamala Harris (person), Ohio (location)]
+
+3. Apple releases new iPhone model with advanced camera technology.
+Named Entities: [Apple (organization)]
+
+4. Famous chef Gordon Ramsay launches new cooking show on Netflix.
+Named Entities: [Gordon Ramsay (person), Netflix (organization)]
+
+5. President Biden signs executive order to address climate change.
+Named Entities: [Biden (person)]
+
+6. Massive wildfire destroys thousands of acres in California.
+Named Entities: [California (location)]
+
+7. Microsoft acquires cybersecurity firm for $10 billion.
+Named Entities: [Microsoft (organization)]
+
+8. World Health Organization warns of new COVID-19 variant.
+Named Entities: [World Health Organization (organization)]
+
+9. Olympic gold medalist Simone Biles discusses mental health struggles.
+Named Entities: [Simone Biles (person)]
+
+10. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+11. New York City to invest $1 billion in public transportation.
+Named Entities: [New York City (location)]
+
+12. Former president Barack Obama speaks at climate change conference.
+Named Entities: [Barack Obama (person)]
+
+13. Google announces partnership with leading research institution.
+Named Entities: [Google (organization)]
+
+14. Wild weather causes power outages across the Midwest.
+Named Entities: [Midwest (location)]
+
+15. Amazon founder Jeff Bezos sets new record for space travel.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+16. European Union imposes sanctions on Russian officials.
+Named Entities: [European Union (organization), Russian (organization)]
+
+17. Celebrated author J.K. Rowling releases new book.
+Named Entities: [J.K. Rowling (person)]
+
+18. UNICEF delivers aid to refugee camps in the Middle East.
+Named Entities: [UNICEF (organization), Middle East (location)]
+
+19. Australian Open tennis tournament to allow limited spectators.
+Named Entities: [Australian Open (organization)]
+
+20. Los Angeles Lakers trade star player to New York Knicks.
+Named Entities: [Los Angeles (location), Lakers (organization), New York Knicks (organization)]
+
+21. Environmental activist Greta Thunberg speaks at climate rally.
+Named Entities: [Greta Thunberg (person)]
+
+22. Paris Fashion Week attracts top designers from around the world.
+Named Entities: [Paris (location)]
+
+23. Uber and Lyft reach settlement in driver classification lawsuit.
+Named Entities: [Uber (organization), Lyft (organization)]
+
+24. Surge in COVID-19 cases overwhelms hospitals in the South.
+Named Entities: [South (location)]
+
+25. Facebook unveils new initiative to combat misinformation.
+Named Entities: [Facebook (organization)]
+
+26. Football legend Tom Brady announces retirement.
+Named Entities: [Tom Brady (person)]
+
+27. National Hurricane Center issues warning for Gulf Coast.
+Named Entities: [National Hurricane Center (organization), Gulf Coast (location)] 
+
+28. Black Lives Matter protests erupt in major cities across the country.
+Named Entities: [Black Lives Matter (organization)]
+
+29. Supreme Court rules in favor of LGBTQ+ rights.
+Named Entities: [Supreme Court (organization)]
+
+30. SpaceX CEO Elon Musk plans mission to Mars.
+Named Entities: [SpaceX (organization), Elon Musk (person)]
+
+31. National Park Service celebrates 150 years of preservation.
+Named Entities: [National Park Service (organization)]
+
+32. Golden State Warriors star Stephen Curry scores 50 points in win.
+Named Entities: [Golden State Warriors (organization), Stephen Curry (person)]
+
+33. United Nations General Assembly convenes in New York City.
+Named Entities: [United Nations (organization), New York City (location)]
+
+34. World Bank approves loan for rural development in Africa.
+Named Entities: [World Bank (organization), Africa (location)]
+
+35. Major earthquake rattles residents in Japan.
+Named Entities: [Japan (location)]
+
+36. Grammy-winning artist Taylor Swift releases surprise album.
+Named Entities: [Taylor Swift (person)]
+
+37. European Central Bank announces stimulus package.
+Named Entities: [European Central Bank (organization)]
+
+38. New study links air pollution to increased health risks.
+Named Entities: []
+
+39. London Stock Exchange closes at record high.
+Named Entities: [London Stock Exchange (organization), London (location)]
+
+40. Pro-democracy protests continue in Hong Kong.
+Named Entities: [Hong Kong (location)]
+
+41. Ford Motor Company announces plans for electric vehicle production.
+Named Entities: [Ford Motor Company (organization)]
+
+42. Major flooding displaces thousands in Southeast Asia.
+Named Entities: [Southeast Asia (location)]
+
+43. Pop icon Madonna celebrates 40 years in music industry.
+Named Entities: [Madonna (person)]
+
+44. International Monetary Fund projects global economic recovery.
+Named Entities: [International Monetary Fund (organization)]
+
+45. Florida Governor Ron DeSantis signs controversial bill into law.
+Named Entities: [Florida (location), Ron DeSantis (person)]
+
+46. Chicago Blackhawks trade veteran defenseman to Florida Panthers.
+Named Entities: [Chicago Blackhawks (organization), Florida Panthers (organization), Chicago (location), Florida (location)]
+
+47. Social media giant Twitter announces new privacy features.
+Named Entities: [Twitter (organization)]
+
+48. Severe drought impacts agriculture in the Midwest.
+Named Entities: [Midwest (location)]
+
+49. Hollywood actress Jennifer Lawrence stars in new film.
+Named Entities: [Jennifer Lawrence (person), Hollywood (location)]
+
+50. WHO declares global pandemic as COVID-19 cases surge.
+Named Entities: [World Health Organization (organization)]

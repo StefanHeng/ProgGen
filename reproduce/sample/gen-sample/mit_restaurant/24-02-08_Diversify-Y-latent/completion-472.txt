@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant serving Cajun cuisine near me with economical dishes?"
+Named Entities: [Cajun (Cuisine), economical dishes (Price)]
+
+2. "Is there a Chipotle or Chick-fil-A restaurant with good ratings open past 10 pm?"
+Named Entities: [Chipotle (Restaurant Name), Chick-fil-A (Restaurant Name), past 10 pm (Hours), good ratings (Rating)]
+
+3. "I'm craving some Cajun food, can you find a restaurant with a high rating and a location close to the city center?"
+Named Entities: [Cajun (Cuisine), high rating (Rating), city center (Location)]

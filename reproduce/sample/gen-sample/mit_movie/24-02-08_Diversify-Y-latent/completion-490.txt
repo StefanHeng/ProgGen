@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an innovative GP movie from the 1990s?"
+   Named Entities: [1990s (Year), innovative (GP)]
+
+2. Query: "What is the GP rating for the film Inception directed by Christopher Nolan?"
+   Named Entities: [Inception (Title), Christopher Nolan (Director), GP (MPAA Rating)]
+
+3. Query: "Show me a trailer for the movie Avatar with the song I See You"
+   Named Entities: [Avatar (Title), I See You (Song), trailer (Trailer)]

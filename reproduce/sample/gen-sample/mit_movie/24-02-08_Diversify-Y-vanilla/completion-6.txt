@@ -1,0 +1,8 @@
+1. "Can you tell me if Zooey Deschanel is starring in any new comedy films"
+Named Entities: [Zooey Deschanel (Actor), comedy (Genre)]
+
+2. "I'm looking for a cyberpunk movie released in 1968"
+Named Entities: [cyberpunk (Genre), 1968 (Year)]
+
+3. "Is there a family-friendly movie with a TV-Y rating featuring the song 'Take Me Out to the Ball Game'"
+Named Entities: [family-friendly (Genre), TV-Y (MPAA Rating), Take Me Out to the Ball Game (Song)]

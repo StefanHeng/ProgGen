@@ -1,0 +1,8 @@
+Query: "I'm looking for a breakfast spot with a high rating"
+Named Entities: [breakfast (Amenity), high rating (Rating)]
+
+Query: "show me the nearest cafe that serves croissants before 10 am"
+Named Entities: [nearest (Location), cafe (Restaurant Name), croissants (Dish), before 10 am (Hours)]
+
+Query: "where can I find a budget-friendly breakfast place with outdoor seating"
+Named Entities: [budget-friendly (Price), breakfast (Amenity), outdoor seating (Amenity)]

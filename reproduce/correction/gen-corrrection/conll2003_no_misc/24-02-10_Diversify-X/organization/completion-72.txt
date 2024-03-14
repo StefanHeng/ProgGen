@@ -1,0 +1,11 @@
+1. Sentence: "{{Activist group}} calls for reform in the criminal justice system."
+Text Span: "Activist group"
+Label: (A)
+
+2. Sentence: "{{Electric car}} sales surge as consumers seek environmentally-friendly options."
+Text Span: "Electric car"
+Label: (C) entity type: other
+
+3. Sentence: "{{Stanford University}} leads the way in AI research breakthrough."
+Text Span: "Stanford University"
+Label: (A)

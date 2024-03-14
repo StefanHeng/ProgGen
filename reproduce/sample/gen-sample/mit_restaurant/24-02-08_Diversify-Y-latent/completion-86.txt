@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a [Greek] restaurant with outdoor seating in the downtown area?"
+Named Entities: [Greek (Cuisine), outdoor seating (Amenity), downtown area (Location)]
+
+2. Query: "What are the hours for [Greek] Taverna on Main Street?"
+Named Entities: [Greek Taverna (Restaurant Name), Main Street (Location), hours (Hours)]
+
+3. Query: "I'm craving some [Greek] food, where can I find a reasonably priced gyro in the city?"
+Named Entities: [Greek (Cuisine), reasonably priced (Price), gyro (Dish), city (Location)]

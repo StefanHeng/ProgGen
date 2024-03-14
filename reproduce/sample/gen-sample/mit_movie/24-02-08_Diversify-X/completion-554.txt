@@ -1,0 +1,8 @@
+1. "Is the movie Inception available to stream anywhere?"
+   Named Entities: [Inception (Title), stream (Action)]
+
+2. "Where can I watch the latest Spider-Man movie online?"
+   Named Entities: [Spider-Man (Title), watch online (Action)]
+
+3. "I need to find a platform to stream the new James Bond film, No Time to Die, quickly."
+   Named Entities: [James Bond (Title), No Time to Die (Title), stream (Action)]

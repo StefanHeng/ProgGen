@@ -1,0 +1,8 @@
+1. Query: "What year did the movie Back to the Future come out?"
+Named Entities: [Back to the Future (Title), 1985 (Year)]
+
+2. Query: "Are there any movies with stellar performances by Benedict Cumberbatch?"
+Named Entities: [stellar performances (Review), Benedict Cumberbatch (Actor)]
+
+3. Query: "Can you recommend a good movie released in 2022 that is rated R-13?"
+Named Entities: [2022 (Year), R-13 (MPAA Rating)]

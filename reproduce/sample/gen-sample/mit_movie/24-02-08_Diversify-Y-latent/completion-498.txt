@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a classic movie, maybe something with the song 'You're the One That I Want'"
+Named Entities: [You're the One That I Want (Song)]
+
+Query: "Can you recommend a good war movie released in the past year?"
+Named Entities: [war (Genre), past year (Year)]
+
+Query: "What horror films have been highly rated by viewers recently?"
+Named Entities: [horror (Genre), highly rated (Viewers' Rating)]

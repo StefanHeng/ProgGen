@@ -1,0 +1,8 @@
+1. "Can you recommend a café with outdoor seating and a vegan menu?"
+Named Entities: [café (Amenity), outdoor seating (Amenity), vegan (Cuisine)]
+
+2. "What's the best café in the downtown area with a rating of 4 stars or above?"
+Named Entities: [best (Rating), café (Amenity), downtown area (Location), 4 stars or above (Rating)]
+
+3. "I'm looking for a café open past 10 pm that serves gluten-free pastries."
+Named Entities: [café (Amenity), past 10 pm (Hours), gluten-free (Cuisine)]

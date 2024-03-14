@@ -1,0 +1,8 @@
+1. "I need to know if The Irishman is still playing. I want to watch it tonight."
+Named Entities: [The Irishman (Title)]
+
+2. "Can you tell me the showtimes for The Irishman? I don't have much time."
+Named Entities: [The Irishman (Title)]
+
+3. "I'm looking for gripping movies. Are there any showtimes for The Irishman?"
+Named Entities: [gripping (Genre), The Irishman (Title)]

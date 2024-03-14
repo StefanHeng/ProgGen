@@ -1,0 +1,8 @@
+1. "I'm craving Brazilian cuisine, can you recommend a restaurant with late opening hours?"
+   Named Entities: [Brazilian (Cuisine), opening hours (Hours)]
+
+2. "I want to try Ethiopian food, is there a place with a good rating nearby?"
+   Named Entities: [Ethiopian (Cuisine), good (Rating)]
+
+3. "I need to find a restaurant with outdoor seating, do you know any places with a patio?"
+   Named Entities: [outdoor seating (Amenity), patio (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can I watch an extended preview of the upcoming movie directed by Christopher Nolan?"
+   Named Entities: [Christopher Nolan (Director), upcoming (Year), Extended preview (Trailer)]
+
+2. Query: "Show me a movie with an excellent rating from 2020"
+   Named Entities: [2020 (Year), Excellent rating (Review)]
+
+3. Query: "Is there any exclusive footage of the R-rated drama film featuring Viola Davis?"
+   Named Entities: [R-rated (MPAA Rating), Viola Davis (Actor), Exclusive footage (Trailer)]

@@ -1,0 +1,10 @@
+Queries:
+
+1. "Can you recommend a high-end restaurant with a great breakfast menu for the morning shift?"
+   Named Entities: [high-end (Price), breakfast (Cuisine), morning shift (Hours), recommended (Rating)]
+
+2. "I'm looking for a top-notch place to have breakfast in the morning. Any suggestions?"
+   Named Entities: [top-notch (Rating), breakfast (Cuisine), morning (Hours)]
+
+3. "Where can I find a luxury restaurant that serves a fantastic breakfast in the morning?"
+   Named Entities: [luxury (Price), breakfast (Cuisine), morning (Hours)]

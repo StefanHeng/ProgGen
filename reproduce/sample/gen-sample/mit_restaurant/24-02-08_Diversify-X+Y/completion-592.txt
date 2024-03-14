@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Italian cuisine in a residential neighborhood."
+Named Entities: [Italian cuisine (Cuisine), Residential neighborhood (Location)]
+
+Query: "Is there a cozy café like Le Pain Quotidien nearby?"
+Named Entities: [Le Pain Quotidien (Restaurant Name)]
+
+Query: "I'm looking for a café with a nice outdoor seating area, preferably in a residential neighborhood."
+Named Entities: [café (Amenity), outdoor seating area (Amenity), Residential neighborhood (Location)]

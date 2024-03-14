@@ -1,0 +1,8 @@
+Query: "What is the genre of The Wizard of Oz movie"
+Named Entities: [The Wizard of Oz (Title)]
+
+Query: "Can I see the Trailer for The Wizard of Oz"
+Named Entities: [The Wizard of Oz (Title), Trailer]
+
+Query: "What year did The Wizard of Oz X"
+Named Entities: [The Wizard of Oz (Title), X (Year)]

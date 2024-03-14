@@ -1,0 +1,8 @@
+1. Text Span: "John J. Pershing"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Martha Graham"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "leaders"
+Label: (D). The span is not a named entity

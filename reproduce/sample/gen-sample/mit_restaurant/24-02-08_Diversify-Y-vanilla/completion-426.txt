@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Pakistani food, can you recommend a place in the neighborhood?"
+Named Entities: [Pakistani (Cuisine), Neighborhood (Location)]
+
+2. "Do you know where I can find some delicious chicken parmesan in the area?"
+Named Entities: [chicken parmesan (Dish), area (Location)]
+
+3. "I'm looking for a restaurant with a good rating and reasonable prices, can you help me out?"
+Named Entities: [good rating (Rating), reasonable prices (Price)]

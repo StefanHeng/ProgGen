@@ -1,0 +1,8 @@
+1. "What movie from the early 1970s has the highest viewers' rating?"
+Named Entities: [early 1970s (Year), highest viewers' rating (Review)]
+
+2. "Could you tell me the director of The Birds?"
+Named Entities: [The Birds (Title), director (Director)]
+
+3. "Is Ava DuVernay's latest film rated PG-13?"
+Named Entities: [Ava DuVernay (Director), rated PG-13 (MPAA Rating)]

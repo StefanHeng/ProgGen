@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a happy hour menu and takeout options?"
+   Named Entities: [fine dining (Price), happy hour (Amenity), takeout (Amenity)]
+
+2. "I'm looking for a high-end restaurant that has a happy hour and also provides takeout service. Any suggestions?"
+   Named Entities: [high-end (Price), happy hour (Amenity), takeout (Amenity)]
+
+3. "Where can I find a fancy restaurant that offers happy hour deals and takeout?"
+   Named Entities: [fancy (Price), happy hour (Amenity), takeout (Amenity)]

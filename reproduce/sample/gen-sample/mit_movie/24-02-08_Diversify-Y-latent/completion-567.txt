@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies with a technological revolution theme?"
+Named Entities: [technological revolution (Genre)]
+
+2. Query: "I'm looking for a movie about a time-traveling scientist with a 4-star rating."
+Named Entities: [time-traveling scientist (Character), 4-star rating (Viewers' Rating)]
+
+3. Query: "Do you have any unrated movies with an intense plot?"
+Named Entities: [unrated (MPAA Rating), intense (Plot)]

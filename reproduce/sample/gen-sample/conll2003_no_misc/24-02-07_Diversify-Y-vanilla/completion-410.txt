@@ -1,0 +1,8 @@
+Sentence: "Elon Musk's SpaceX successfully launches another batch of Starlink satellites into orbit."
+Named Entities: [Elon Musk (person), SpaceX (organization), Starlink (organization)]
+
+Sentence: "The United Nations condemns the recent human rights violations in Syria."
+Named Entities: [United Nations (organization), Syria (location)]
+
+Sentence: "Angela Merkel, the Chancellor of Germany, visits the United States to discuss trade agreements."
+Named Entities: [Angela Merkel (person), Germany (location), United States (location)]

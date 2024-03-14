@@ -1,0 +1,8 @@
+1. "What is the MPAA rating for the movie I Wanna Dance with Somebody"
+Named Entities: [I Wanna Dance with Somebody (Title), MPAA rating (MPAA Rating)]
+
+2. "Who directed The Grand Budapest Hotel"
+Named Entities: [The Grand Budapest Hotel (Title), Director (Director)]
+
+3. "Can you recommend a movie from the 1980s starring Woody"
+Named Entities: [1980s (Year), Woody (Actor)]

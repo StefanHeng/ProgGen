@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of the plot for any action film released between 1995 and 2000?"
+   Named Entities: [action film (Genre), 1995-2000 (Year)]
+
+2. "I'm looking for a movie from the late 90s with an intense plot, could you recommend one?"
+   Named Entities: [late 90s (Year), intense plot (Plot)]
+
+3. "What's a good thriller movie from the late 90s with a gripping storyline?"
+   Named Entities: [thriller movie (Genre), late 90s (Year), gripping storyline (Plot)]

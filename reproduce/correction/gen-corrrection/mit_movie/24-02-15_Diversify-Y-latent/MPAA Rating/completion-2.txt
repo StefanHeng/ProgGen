@@ -1,0 +1,8 @@
+1. Text Span: "R"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Text Span: "PG-14"
+Label: (C). The span is not a named entity
+
+3. Text Span: "B-"
+Label: (A). The span is a named entity of type mpaa rating

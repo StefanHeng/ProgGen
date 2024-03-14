@@ -1,0 +1,8 @@
+1. "I'm in the mood for something from a food truck, can you recommend a high-end option?"
+Named Entities: [food truck (Amenity), high-end (Price)]
+
+2. "What is the most luxurious food truck in the area?"
+Named Entities: [luxurious (Rating), food truck (Amenity)]
+
+3. "I'm looking for an upscale food truck with a diverse menu, where can I find one?"
+Named Entities: [upscale (Price), food truck (Amenity), diverse (Amenity)]

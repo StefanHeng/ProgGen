@@ -1,0 +1,8 @@
+1. "I'm craving some Popeyes chicken, do you know where I can find it?"
+Named Entities: [Popeyes (Restaurant Name)]
+
+2. "I need to grab some delicious French fries, any recommendations?"
+Named Entities: [French fries (Dish)]
+
+3. "Is there a restaurant nearby that serves Belgian cuisine for a reasonable price?"
+Named Entities: [Belgian (Cuisine), reasonable price (Price)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie similar to The Hunger Games with a TV-G rating?"
+Named Entities: [The Hunger Games (Title), TV-G (MPAA Rating)]
+
+2. Query: "I want to see a behind-the-scenes glimpse of a new character teaser for the upcoming action movie."
+Named Entities: [behind-the-scenes glimpse (Trailer), character teaser (Trailer)]
+
+3. Query: "What year did the movie The Hunger Games come out, and who is the main character?"
+Named Entities: [The Hunger Games (Title), main character (Character)]

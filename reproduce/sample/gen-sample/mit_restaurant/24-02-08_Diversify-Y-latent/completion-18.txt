@@ -1,0 +1,8 @@
+Query: "What seafood restaurants are in the proximity?"
+Named Entities: [Seafood (Cuisine), Proximity (Location)]
+
+Query: "I'm in the mood for some Pho soup, can you recommend a place?"
+Named Entities: [Pho soup (Dish)]
+
+Query: "Where is the nearest restaurant that serves seafood and has a good price?"
+Named Entities: [Seafood (Cuisine), nearest (Location), good price (Price)]

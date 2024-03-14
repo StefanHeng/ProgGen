@@ -1,0 +1,8 @@
+1. "Can you recommend a chic restaurant with gluten-free options for lunch?"
+Named Entities: [chic (Amenity), gluten-free (Amenity), lunch (Hours)]
+
+2. "I'm looking for a gluten-free lunch spot with an urban vibe, please suggest a place."
+Named Entities: [gluten-free (Amenity), urban (Amenity), lunch (Hours)]
+
+3. "Where can I find a trendy restaurant with gluten-free lunch options nearby?"
+Named Entities: [trendy (Amenity), gluten-free (Amenity), lunch (Hours)]

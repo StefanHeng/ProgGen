@@ -1,0 +1,8 @@
+Query: "I'm looking for showtimes and tickets for the movie Inception directed by Christopher Nolan"
+Named Entities: [Inception (Title), Christopher Nolan (Director)]
+
+Query: "Can you find me tickets for the latest Marvel movie, with a high viewers' rating?"
+Named Entities: [Marvel (Genre), high viewers' rating (Viewers' Rating)]
+
+Query: "I want to watch a movie released in 2020 with a compelling plot and a great soundtrack."
+Named Entities: [2020 (Year), compelling plot (Plot), great soundtrack (Song)]

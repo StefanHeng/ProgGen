@@ -1,0 +1,11 @@
+1. Query: "Who directed the action movie Lethal Weapon and what {{year}} did it come out?"
+Text Span: "year"
+Label: (A). The span is a named entity of type year
+
+2. Query: "What is the viewers' rating of the movie that features an apocalyptic event and was released in {{1984}}?"
+Text Span: "1984"
+Label: (A). The span is a named entity of type year
+
+3. Query: "In the movie Moonlight, who played the role of the main character in {{2016}}?"
+Text Span: "2016"
+Label: (A). The span is a named entity of type year

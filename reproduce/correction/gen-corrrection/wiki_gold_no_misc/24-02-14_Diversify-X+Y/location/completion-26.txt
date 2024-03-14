@@ -1,0 +1,11 @@
+1. Sentence: "The Hollywood Walk of Fame is a famous landmark in {{Los Angeles}}, California that honors the achievements of those in the entertainment industry."
+Text Span: "Los Angeles"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Wimbledon Championships, often referred to simply as {{Wimbledon}}, is one of the oldest and most prestigious tennis tournaments in the world, held annually at the All England Club in London, England."
+Text Span: "Wimbledon"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{Tokyo}}, Japan is a vibrant and bustling city known for its blend of modern skyscrapers and historic temples."
+Text Span: "Tokyo"
+Label: (A). The span is a named entity of type location

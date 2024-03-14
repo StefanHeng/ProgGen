@@ -1,0 +1,8 @@
+1. Text Span: "We Will Rock You"
+Label: (A). The span is a named entity of type song
+
+2. Text Span: "EDM"
+Label: (C). The span is a named entity but the category is not song
+
+3. Text Span: "You've Got a Friend In Me"
+Label: (A). The span is a named entity of type song

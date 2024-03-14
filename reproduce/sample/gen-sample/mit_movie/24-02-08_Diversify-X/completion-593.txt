@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Titanic?"
+Named Entities: [Titanic (Title), directed (Director)]
+
+2. Query: "Show me a film starring Leonardo DiCaprio and Tom Hanks."
+Named Entities: [Leonardo DiCaprio (Actor), Tom Hanks (Actor)]
+
+3. Query: "What is the viewers' rating for the film Inception?"
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]

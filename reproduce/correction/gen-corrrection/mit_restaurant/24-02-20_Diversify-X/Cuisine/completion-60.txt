@@ -1,0 +1,11 @@
+1. Query: "recommend a {{café}} with live music and a cozy ambiance"
+Text Span: "café"
+Label: (A). Cuisine
+
+2. Query: "I'm looking for a café with {{vegan}} options and outdoor seating"
+Text Span: "vegan"
+Label: (A). Cuisine
+
+3. Query: "Can you recommend a restaurant nearby with a good selection of {{vegetarian}} dishes for lunch takeout?"
+Text Span: "vegetarian"
+Label: (A). Cuisine

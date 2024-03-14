@@ -1,0 +1,8 @@
+1. Text Span: "firefighter"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Text Span: "Renowned Artist"
+Label: (A)
+
+3. Text Span: "Woman"
+Label: (C). The span is a named entity but the category is not person. Entity type: other

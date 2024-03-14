@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Lucy Walker that has intense action sequences?"
+   Named Entities: [Lucy Walker (Director), intense action sequences (Plot)]
+
+2. "What movie with a courtroom setting and a B- rating would you recommend for a family feud event?"
+   Named Entities: [courtroom (Setting), B- rating (MPAA Rating), family feud (Plot)]
+
+3. "Are there any movies that portray the theme of respect, directed by Lucy Walker?"
+   Named Entities: [respect (Theme), Lucy Walker (Director)]

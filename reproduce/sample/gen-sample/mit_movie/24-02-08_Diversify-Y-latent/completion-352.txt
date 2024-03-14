@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie starring Mark Ruffalo with a slice of life genre?"
+Named Entities: [Mark Ruffalo (Actor), slice of life (Genre)]
+
+2. Query: "I'm looking for a movie released in 2008 with a PG-13 rating and directed by a female director"
+Named Entities: [2008 (Year), PG-13 (MPAA Rating)]
+
+3. Query: "What was the highest-grossing movie in 2016?"
+Named Entities: [2016 (Year), highest-grossing (Review)]

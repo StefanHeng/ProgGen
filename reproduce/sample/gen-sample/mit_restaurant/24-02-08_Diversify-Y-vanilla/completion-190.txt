@@ -1,0 +1,8 @@
+1. Query: "which restaurants offer bottomless mimosa brunches on Sundays"
+Named Entities: [bottomless mimosa (Amenity), Sundays (Hours)]
+
+2. Query: "find a romantic Italian restaurant with outdoor seating and a 4-star rating"
+Named Entities: [romantic (Amenity), Italian (Cuisine), outdoor seating (Amenity), 4-star (Rating)]
+
+3. Query: "is there a seafood restaurant nearby with a waterfront view"
+Named Entities: [seafood (Cuisine), nearby (Location), waterfront view (Amenity)]

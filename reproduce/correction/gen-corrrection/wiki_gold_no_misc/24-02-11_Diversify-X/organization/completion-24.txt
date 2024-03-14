@@ -1,0 +1,8 @@
+1. Text Span: "Higher education"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Metropolitan Museum of Art"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Olympic Games"
+Label: (A). Correct Entity Annotation.

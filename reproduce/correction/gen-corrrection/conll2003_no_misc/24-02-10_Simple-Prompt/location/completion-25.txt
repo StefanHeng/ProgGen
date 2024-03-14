@@ -1,0 +1,8 @@
+1. Text Span: "Gulf Coast"
+Label: (A)
+
+2. Text Span: "North Korean"
+Label: (B). The correct span boundary is "North Korean leader"
+
+3. Text Span: "Paris"
+Label: (A)

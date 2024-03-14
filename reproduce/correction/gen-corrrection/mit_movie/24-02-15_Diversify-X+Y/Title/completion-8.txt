@@ -1,0 +1,11 @@
+1. Query: "Hey, can you play a preview of the soundtrack for the movie {{M}}?"
+Text Span: "M"
+Label: (D). The span is not a named entity
+
+2. Query: "Show me a glimpse of the {{Rocky Balboa}} film, please."
+Text Span: "Rocky Balboa"
+Label: (A). The span is a named entity of type title
+
+3. Query: "Yo, who directed {{Slumdog Millionaire}} and when did it come out?"
+Text Span: "Slumdog Millionaire"
+Label: (A). The span is a named entity of type title

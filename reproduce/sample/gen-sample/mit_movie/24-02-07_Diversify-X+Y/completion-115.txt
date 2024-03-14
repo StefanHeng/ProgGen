@@ -1,0 +1,8 @@
+1. "Who directed the PG-rated movie The Terminator and who are the main cast members?"
+Named Entities: [PG (MPAA Rating), The Terminator (Title), main cast (Character)]
+
+2. "Can you recommend a movie with Wolverine as one of the main cast members and is rated NR?"
+Named Entities: [Wolverine (Character), NR (MPAA Rating)]
+
+3. "I'm looking for a movie directed by James Cameron with a PG rating and the main cast information."
+Named Entities: [James Cameron (Director), PG (MPAA Rating), main cast (Character)]

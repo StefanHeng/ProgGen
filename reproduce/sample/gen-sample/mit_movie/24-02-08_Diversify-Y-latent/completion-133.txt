@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with energetic music?"
+Named Entities: [energetic music (Song)]
+
+2. Query: "What year did Breakfast at Tiffany's come out and who directed it?"
+Named Entities: [Breakfast at Tiffany's (Title), year (Year), directed (Director)]
+
+3. Query: "I want to watch a suspenseful movie, can you suggest one?"
+Named Entities: [suspenseful (Genre)]

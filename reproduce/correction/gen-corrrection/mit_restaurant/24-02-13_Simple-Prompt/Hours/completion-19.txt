@@ -1,0 +1,8 @@
+1. Text Span: "weekends"
+Label: (A). The span is a named entity of type hours
+
+2. Text Span: "24-hour"
+Label: (A). The span is a named entity of type hours
+
+3. Text Span: "24-hour diner"
+Label: (B). Wrong Boundary. The correct span boundary is "24-hour".

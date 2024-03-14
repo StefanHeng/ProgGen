@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie similar to Jurassic Park?"
+Named Entities: [Jurassic Park (Title)]
+
+Query: "Show me a trailer featuring Katniss Everdeen in a dystopian society rebel role"
+Named Entities: [Katniss Everdeen (Character), dystopian society rebel (Plot), Trailer (Trailer)]
+
+Query: "Which movie from 1994 is considered outstanding and impressive?"
+Named Entities: [1994 (Year), outstanding (Review), impressive (Review)]

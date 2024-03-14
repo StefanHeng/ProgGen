@@ -1,0 +1,8 @@
+1. "Can you tell me about any movies with 5-star ratings that received high praise for their visual effects?"
+Named Entities: [5-star rating (Viewers' Rating), visual effects (Plot)]
+
+2. "I'm looking for a film released between 1995 and 2000 that was directed by James Cameron and starred Al Pacino. Also, do you have any G or PG-rated movies that fit that description?"
+Named Entities: [1995-2000 (Year), James Cameron (Director), Al Pacino (Actor), G/PG (MPAA Rating)]
+
+3. "Could you recommend a documentary about the behind-the-scenes discovery of a successful movie?"
+Named Entities: [behind-the-scenes (Plot), discovery (Plot)]

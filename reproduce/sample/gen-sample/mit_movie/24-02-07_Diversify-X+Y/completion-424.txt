@@ -1,0 +1,8 @@
+1. "Hey, can you tell me about the cult classic movie with amazing production design?"
+   Named Entities: [cult classic (Viewers' Rating), production design (Plot)]
+
+2. "Yo, do you have any info on that horror flick's behind-the-scenes stuff?"
+   Named Entities: [horror flick (Genre), behind-the-scenes (Plot)]
+
+3. "I wanna know about the making of this cult film, can you help me out?"
+   Named Entities: [cult film (Title), making of (Plot)]

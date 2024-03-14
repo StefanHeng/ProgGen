@@ -1,0 +1,74 @@
+1. "I'm craving Italian food, can you recommend a good Italian restaurant nearby?"
+Named Entities: [Italian (Cuisine)]
+
+2. "What are the hours of operation for the steakhouse downtown?"
+Named Entities: [steakhouse (Restaurant Name), downtown (Location)]
+
+3. "Where can I find a restaurant with outdoor seating and a view of the ocean?"
+Named Entities: [outdoor seating (Amenity), ocean (Location)]
+
+4. "I'm looking for a place to have brunch with bottomless mimosas"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+5. "Which restaurants in the area offer a prix fixe menu?"
+Named Entities: [prix fixe (Price)]
+
+6. "I need to find a kid-friendly restaurant with a play area."
+Named Entities: [kid-friendly (Amenity), play area (Amenity)]
+
+7. "What's the best sushi place in town?"
+Named Entities: [sushi (Cuisine)]
+
+8. "I want to try some authentic Mexican food for dinner tonight."
+Named Entities: [authentic (Amenity), Mexican (Cuisine)]
+
+9. "Where's the cheapest place for a quick bite to eat?"
+Named Entities: [cheapest (Price)]
+
+10. "Can you recommend a restaurant with a high Zagat rating?"
+Named Entities: [high (Rating), Zagat (Rating)]
+
+11. "I need to find a place that serves late-night dessert."
+Named Entities: [late-night (Hours), dessert (Dish)]
+
+12. "Do you know of any Chinese restaurants that are open for lunch?"
+Named Entities: [Chinese (Cuisine), lunch (Hours)]
+
+13. "I'm in the mood for some barbecue, where's the best place to go?"
+Named Entities: [barbecue (Cuisine), best (Rating)]
+
+14. "Find me a restaurant with a private dining room for a special occasion."
+Named Entities: [private dining room (Amenity), special occasion (Amenity)]
+
+15. "I want to take my date to a romantic restaurant with a prix fixe menu."
+Named Entities: [romantic (Amenity), prix fixe (Price)]
+
+16. "What are the prices like at the new Thai restaurant downtown?"
+Named Entities: [Thai (Cuisine), downtown (Location)]
+
+17. "Where can I get a good burger and fries around here?"
+Named Entities: [burger and fries (Dish)]
+
+18. "I need to find a place with a gluten-free menu for my friend."
+Named Entities: [gluten-free (Amenity)]
+
+19. "Give me a list of vegetarian-friendly restaurants in the area."
+Named Entities: [vegetarian-friendly (Amenity)]
+
+20. "I'm searching for a restaurant with live music and outdoor seating."
+Named Entities: [live music (Amenity), outdoor seating (Amenity)]
+
+21. "Can you recommend a 24-hour diner in the vicinity?"
+Named Entities: [24-hour (Hours)]
+
+22. "Where can I find a good seafood restaurant with a view of the harbor?"
+Named Entities: [seafood (Cuisine), view of the harbor (Location)]
+
+23. "Do you know of any Michelin-starred restaurants in this city?"
+Named Entities: [Michelin-starred (Rating), city (Location)]
+
+24. "I'm looking for a casual place with a build-your-own salad option."
+Named Entities: [casual (Amenity), build-your-own salad (Amenity)]
+
+25. "Find a family-friendly restaurant with a kids' menu."
+Named Entities: [family-friendly (Amenity), kids' menu (Amenity)]

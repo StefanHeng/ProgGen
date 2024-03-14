@@ -1,0 +1,8 @@
+1. "What are some top-notch coming-of-age story movies released in the 90s"
+   Named Entities: [top-notch (Viewers' Rating), coming-of-age story (Genre), 90s (Year)]
+
+2. "Who directed the movie Trinity and what is the viewers' rating for it"
+   Named Entities: [Trinity (Title), viewers' rating (Viewers' Rating)]
+
+3. "Can you recommend a movie with a great soundtrack similar to the one in A Star is Born"
+   Named Entities: [A Star is Born (Title), great soundtrack (Song)]

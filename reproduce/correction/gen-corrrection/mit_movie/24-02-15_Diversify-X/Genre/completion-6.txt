@@ -1,0 +1,11 @@
+1. Query: "Hey, can you tell me if the movie 'The Shawshank Redemption' won any {{awards}}?"
+Text Span: "awards"
+Label: (C). Other
+
+2. Query: "Can you show me a movie trailer for the {{latest horror film}} directed by Jordan Peele"
+Text Span: "latest horror film"
+Label: (B). Wrong Boundary. The correct span boundary is "horror film"
+
+3. Query: "Is the theater showing the {{romantic comedy}} film this weekend?"
+Text Span: "romantic comedy"
+Label: (A). Named entity of type genre

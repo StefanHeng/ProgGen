@@ -1,0 +1,8 @@
+Query: "Can you recommend a Stellar movie from 2019?"
+Named Entities: [2019 (Year), Stellar (Review)]
+
+Query: "I'm looking for a Preview clip of the movie Mamma Mia! with the song Dancing Queen."
+Named Entities: [Preview clip (Trailer), Mamma Mia! (Title), Dancing Queen (Song)]
+
+Query: "Do you have any recommendations for an Exquisite haunted house film from the 2000s?"
+Named Entities: [Exquisite (Viewers' Rating), haunted house (Genre), 2000s (Year)]

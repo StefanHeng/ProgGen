@@ -1,0 +1,8 @@
+1. Text Span: "subtle psychological thriller"
+Label: (B). The correct span boundary is "psychological thriller".
+
+2. Text Span: "musical film"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "mafia family"
+Label: (C). Wrong Type. The correct entity type is Plot.

@@ -1,0 +1,11 @@
+1. Query: "Can you find a {{fantasy}} film with magical creatures?"
+Text Span: "fantasy"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "What are some historical {{war}} films that are worth watching?"
+Text Span: "war"
+Label: (A). The span is a named entity of type genre
+
+3. Query: "What is your favorite {{animated}} movie?"
+Text Span: "animated"
+Label: (A). The span is a named entity of type genre

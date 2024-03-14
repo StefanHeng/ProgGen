@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with free Wi-Fi and good vegetarian options"
+Named Entities: [free Wi-Fi (Amenity), good vegetarian options (Cuisine)]
+
+2. "Do you know of any Italian restaurants with outdoor seating and a kids menu"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), kids menu (Amenity)]
+
+3. "I'm looking for a place with live music and a late-night menu"
+Named Entities: [live music (Amenity), late-night menu (Hours)]

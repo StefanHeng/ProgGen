@@ -1,0 +1,8 @@
+Query: "what are some expensive brunch spots in the area"
+Named Entities: [Expensive (Price), brunch spots (Amenity)]
+
+Query: "show me the nearest expensive restaurants with outdoor seating"
+Named Entities: [Expensive (Price), outdoor seating (Amenity)]
+
+Query: "I'm looking for a fancy place to have an expensive dinner tonight"
+Named Entities: [fancy (Amenity), expensive (Price)]

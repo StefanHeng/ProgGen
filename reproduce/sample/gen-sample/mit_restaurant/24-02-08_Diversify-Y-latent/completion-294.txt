@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants in the neighborhood with great feedback?"
+Named Entities: [neighborhood (Location), great feedback (Rating)]
+
+2. "Do you know any restaurants with an open kitchen and early morning hours?"
+Named Entities: [open kitchen (Amenity), early morning hours (Hours)]
+
+3. "What are the opening hours for Italian restaurants with great feedback?"
+Named Entities: [Italian (Cuisine), opening hours (Hours), great feedback (Rating)]

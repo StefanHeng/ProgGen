@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a movie with the song Johnny B. Goode, it has to be superb."
+   Named Entities: [Johnny B. Goode (Song), superb (Viewers' Rating)]
+
+2. Query: "Can you recommend a film about a mercenary mission?"
+   Named Entities: [mercenary mission (Plot)]
+
+3. Query: "What is the year of release for the movie with the song Superb American?"
+   Named Entities: [Superb American (Title)]

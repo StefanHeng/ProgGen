@@ -1,0 +1,8 @@
+1. "Hey, what's the plot of that dance movie with the terrific storyline?"
+   Named Entities: [Dance (Genre), Terrific (Review)]
+
+2. "Can you tell me about the movie Bong Joon-ho directed about Wolverine?"
+   Named Entities: [Bong Joon-ho (Director), Wolverine (Character)]
+
+3. "I heard there's a movie with a really cool plot, can you tell me more about it?"
+   Named Entities: [Plot (Plot)]

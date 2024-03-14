@@ -1,0 +1,8 @@
+1. "Can you tell me if the movie Glory received any awards or nominations?"
+Named Entities: [Glory (Title), awards or nominations (Review)]
+
+2. "I'm interested in finding a coming of age story that has won any major awards, can you recommend one?"
+Named Entities: [coming of age story (Plot), major awards (Review)]
+
+3. "Have any coming of age films from the 90s been nominated for Academy Awards?"
+Named Entities: [coming of age films (Genre), 90s (Year), Academy Awards (Awards)]

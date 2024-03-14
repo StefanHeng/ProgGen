@@ -1,0 +1,8 @@
+1. "I'm in the mood for a buffet, do you know any restaurants that offer dine-in and serve Cicis Pizza?"
+Named Entities: [buffet (Amenity), dine-in (Amenity), Cicis Pizza (Restaurant Name)]
+
+2. "Which restaurant in the area has a buffet with dine-in option and specializes in Cicis Pizza?"
+Named Entities: [buffet (Amenity), dine-in (Amenity), Cicis Pizza (Restaurant Name)]
+
+3. "Can you recommend a place with a dine-in buffet that serves Cicis Pizza?"
+Named Entities: [dine-in (Amenity), buffet (Amenity), Cicis Pizza (Restaurant Name)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a Mexican restaurant with outdoor seating and good margaritas?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), good (Rating)]
+
+2. "What's the best Chinese place in the area that's open past midnight?"
+Named Entities: [Chinese (Cuisine), past midnight (Hours)]
+
+3. "I'm craving some sushi. Is there a place nearby with affordable all-you-can-eat options?"
+Named Entities: [sushi (Cuisine), nearby (Location), affordable (Price), all-you-can-eat (Amenity)]

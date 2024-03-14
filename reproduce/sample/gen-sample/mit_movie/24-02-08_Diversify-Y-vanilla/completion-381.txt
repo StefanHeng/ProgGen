@@ -1,0 +1,8 @@
+1. "Can you recommend any Children's movies with the song Don't Stop Believin' in them?"
+Named Entities: [Children's (Genre), Don't Stop Believin' (Song)]
+
+2. "Show me the trailer for a movie about a Battle for survival starring Katniss Everdeen."
+Named Entities: [Battle for survival (Plot), Katniss Everdeen (Character)]
+
+3. "What Sports movies are rated TV-PG and were directed in the 1990s?"
+Named Entities: [Sports (Genre), TV-PG (MPAA Rating), 1990s (Year)]

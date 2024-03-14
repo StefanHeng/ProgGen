@@ -1,0 +1,8 @@
+1. "Can you recommend a movie involving an undercover operation with a supernatural theme that was released in 2003?"
+   Named Entities: [undercover operation (Plot), supernatural (Genre), 2003 (Year)]
+
+2. "What is the viewers' rating for Doctor Strange?"
+   Named Entities: [Doctor Strange (Title), 7 out of 10 stars (Viewers' Rating)]
+
+3. "Who directed the movie Affecting and what is the genre of the film?"
+   Named Entities: [Affecting (Title), Director, Genre]

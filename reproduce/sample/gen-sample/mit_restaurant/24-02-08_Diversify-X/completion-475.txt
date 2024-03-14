@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good low-carb buffet for lunch?"
+Named Entities: [good (Rating), low-carb (Dietary Restriction), buffet (Amenity), lunch (Hours)]
+
+Query: "I'm looking for a nearby place that offers a low-carb buffet for dinner. Any suggestions?"
+Named Entities: [nearby (Location), low-carb (Dietary Restriction), buffet (Amenity), dinner (Hours)]
+
+Query: "I need to find a restaurant with a high rating that serves a low-carb buffet for a reasonable price. Can you help?"
+Named Entities: [high rating (Rating), low-carb (Dietary Restriction), buffet (Amenity), reasonable price (Price)]

@@ -1,0 +1,8 @@
+1. "What are some family-friendly restaurants with outdoor seating in the area?"
+   Named Entities: [Family-friendly Restaurants (Amenity), outdoor seating (Amenity), area (Location)]
+
+2. "I'm craving some authentic Italian cuisine. Can you recommend a well-rated Italian restaurant nearby?"
+   Named Entities: [authentic Italian cuisine (Cuisine), well-rated (Rating), Italian restaurant (Restaurant Name), nearby (Location)]
+
+3. "Do you know of any budget-friendly restaurants with a kids menu and a play area?"
+   Named Entities: [budget-friendly (Price), kids menu (Amenity), play area (Amenity)]

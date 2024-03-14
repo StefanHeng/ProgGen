@@ -1,0 +1,11 @@
+1. Query: "Is there an exclusive look at the new World War II movie available on any {{Streaming platform}}?"
+Text Span: "Streaming platform"
+Label: (C). The span is a named entity but the category is not title. Category: Other
+
+2. Query: "I'm feeling pumped up and ready for some action! Can you suggest a movie similar to '{{snatch}}' or 'John Wick'?"
+Text Span: "snatch"
+Label: (A). The span is a named entity of type title
+
+3. Query: "Can you tell me the genre and subgenre classification of the movie '{{Not Rated}}'?"
+Text Span: "Not Rated"
+Label: (A). The span is a named entity of type title

@@ -1,0 +1,8 @@
+1. "Can you recommend a cost-saving restaurant with neighboring parking?"
+Named Entities: [cost-saving (Price), neighboring (Location)]
+
+2. "What's the best place for seafood in the neighborhood with a happy hour menu?"
+Named Entities: [seafood (Cuisine), happy hour (Amenity), neighborhood (Location)]
+
+3. "I'm looking for a low-priced Chinese restaurant with nearby delivery service."
+Named Entities: [low-priced (Price), Chinese (Cuisine), nearby (Location), delivery service (Amenity)]

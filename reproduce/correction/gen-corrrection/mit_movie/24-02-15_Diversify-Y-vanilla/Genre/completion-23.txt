@@ -1,0 +1,8 @@
+1. Text Span: "Artistic"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "ocean exploration"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+3. Text Span: "comedy"
+Label: (A). The span is a named entity of type genre

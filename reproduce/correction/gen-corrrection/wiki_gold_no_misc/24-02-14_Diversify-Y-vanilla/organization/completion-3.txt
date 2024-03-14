@@ -1,0 +1,8 @@
+1. Text Span: "NCAA Division I Football Bowl Subdivision"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Nobel Prize in Physics"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "political organization"
+Label: (A). The span is a named entity of type organization

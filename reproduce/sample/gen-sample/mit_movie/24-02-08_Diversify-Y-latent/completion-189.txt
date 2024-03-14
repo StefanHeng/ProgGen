@@ -1,0 +1,8 @@
+1. Query: "Could you recommend an unrated movie directed by Peter Jackson"
+   Named Entities: [unrated (MPAA Rating), Peter Jackson (Director)]
+
+2. Query: "Show me a movie with the character Gollum from The Lord of the Rings"
+   Named Entities: [Gollum (Character), The Lord of the Rings (Title)]
+
+3. Query: "What is the viewers' rating for the film directed by Peter Jackson in 2005"
+   Named Entities: [Peter Jackson (Director), 2005 (Year)]

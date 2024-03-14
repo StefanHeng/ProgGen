@@ -1,0 +1,8 @@
+1. "Can you recommend any Mexican restaurants with a good rating for nightlife?"
+Named Entities: [Mexican (Cuisine), good rating (Rating), Nightlife (Amenity)]
+
+2. "I'm looking for a place with outdoor seating and live music near downtown."
+Named Entities: [outdoor seating (Amenity), live music (Amenity), downtown (Location)]
+
+3. "Where can I find a sushi restaurant open after 10 pm nearby?"
+Named Entities: [sushi (Cuisine), after 10 pm (Hours), nearby (Location)]

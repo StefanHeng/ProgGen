@@ -1,0 +1,8 @@
+1. Spoken Movie Query: "Can you recommend a well-reviewed movie with perfectly paced action and adventure, targeted for pre-teen girls?"
+   Named Entities: [well-reviewed (Review), perfectly paced (Plot), pre-teen girls (Viewers' Rating)]
+
+2. Spoken Movie Query: "I have mixed feelings about horror movies, but can you suggest a G-rated one for me to watch with my friends?"
+   Named Entities: [mixed feelings (Review), horror (Genre), G-rated (MPAA Rating)]
+
+3. Spoken Movie Query: "Is there a movie with a G rating that has received great reviews and is perfect for a pre-teen girl like me?"
+   Named Entities: [G rating (MPAA Rating), great reviews (Review), pre-teen girl (Viewers' Rating)]

@@ -1,0 +1,11 @@
+1. Sentence: "Record-breaking heatwave hits the {{western United States}}."
+Text Span: "western United States"
+Label: (A).
+
+2. Sentence: "Local High School Wins {{State Championship}} in Basketball."
+Text Span: "State Championship"
+Label: (C). Entity type: other
+
+3. Sentence: "{{Japanese}} prime minister announces economic reforms to boost the country's GDP."
+Text Span: "Japanese"
+Label: (C). Entity type: other

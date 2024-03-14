@@ -1,0 +1,8 @@
+1. "Can you recommend a high-cost dining establishment with a diverse seafood menu?"
+Named Entities: [high-cost dining (Price), diverse seafood (Cuisine)]
+
+2. "Where can I find a top-rated sushi restaurant that's open past midnight?"
+Named Entities: [top-rated (Rating), sushi (Cuisine), past midnight (Hours)]
+
+3. "I'm looking for a restaurant with outdoor seating and a wide selection of vegetarian dishes."
+Named Entities: [outdoor seating (Amenity), wide selection of vegetarian dishes (Dish)]

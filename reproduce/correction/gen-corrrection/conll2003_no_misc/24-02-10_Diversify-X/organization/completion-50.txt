@@ -1,0 +1,12 @@
+1. Sentence: "NASA's {{Perseverance}} rover successfully collects rock samples from Mars."
+Text Span: "Perseverance"
+Label: (A)
+
+2. Sentence: "New {{Study}} Finds Meditation Can Reduce Stress and Improve Mental Health."
+Text Span: "Study"
+Label: (C) 
+Correct entity type: other
+
+3. Sentence: "Sales of {{plant-based meat}} alternatives soar as consumers seek sustainable food options."
+Text Span: "plant-based meat"
+Label: (A)

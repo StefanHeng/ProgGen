@@ -1,0 +1,8 @@
+1. "I'm curious about the director behind the scenes of that action-packed film with the intense fight scenes. Can you tell me who directed it?"
+   Named Entities: [action-packed (Genre), intense fight scenes (Plot), director (Director)]
+
+2. "I heard there was a must-see movie from the 90s that had a really interesting making-of story. Do you know which one I'm talking about?"
+   Named Entities: [90s (Year), must-see (Viewers' Rating), making-of story (Plot)]
+
+3. "I'm looking for a film with a legendary actor known for their dedication to perfecting their roles, like in those behind-the-scenes documentaries. Can you recommend one?"
+   Named Entities: [legendary actor (Actor), dedication to perfecting their roles (Plot)]

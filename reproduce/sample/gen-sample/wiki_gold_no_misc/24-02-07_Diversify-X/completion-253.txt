@@ -1,0 +1,8 @@
+Sentence: "The United States Department of Defense is the largest employer in the world, with over 3.2 million personnel."
+Named Entities: [United States Department of Defense (organization)]
+
+Sentence: "The Battle of Gettysburg, fought in 1863, was a turning point in the American Civil War."
+Named Entities: [Battle of Gettysburg (location), American Civil War (event)]
+
+Sentence: "The United Nations Peacekeeping Forces have been deployed to various conflict zones around the world to help maintain peace and stability."
+Named Entities: [United Nations Peacekeeping Forces (organization)]

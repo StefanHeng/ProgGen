@@ -1,0 +1,8 @@
+1. "Can you recommend a high-end restaurant with a lunch menu near me?"
+Named Entities: [high-end (Price), lunch (Amenity), near me (Location)]
+
+2. "I'm in the mood for a fancy lunch spot, do you know any upscale restaurants with a good rating?"
+Named Entities: [fancy (Amenity), upscale (Price), good rating (Rating), lunch (Amenity)]
+
+3. "Where can I find a restaurant with upscale lunch options and a high rating?"
+Named Entities: [upscale (Price), lunch (Amenity), high rating (Rating)]

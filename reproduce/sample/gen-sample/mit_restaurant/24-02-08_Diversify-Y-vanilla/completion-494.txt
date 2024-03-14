@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with stellar customer reviews and meeting rooms for a business lunch"
+Named Entities: [Stellar customer reviews (Rating), Meeting rooms (Amenity)]
+
+2. "Do you know of any place with barista service and a cozy atmosphere?"
+Named Entities: [Barista service (Amenity)]
+
+3. "Find me a restaurant with Italian cuisine and a scenic location for a romantic dinner"
+Named Entities: [Italian cuisine (Cuisine), Scenic location (Location)]

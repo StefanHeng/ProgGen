@@ -1,0 +1,8 @@
+1. "I'm craving French onion soup, do you know any place that serves it?"
+   Named Entities: [French onion soup (Dish)]
+
+2. "I'm in the mood for pancakes, can you find me the nearest IHOP location?"
+   Named Entities: [pancakes (Dish), IHOP (Restaurant Name), nearest (Location)]
+
+3. "I need a restaurant with affordable French cuisine, any recommendations?"
+   Named Entities: [French cuisine (Cuisine), affordable (Price)]

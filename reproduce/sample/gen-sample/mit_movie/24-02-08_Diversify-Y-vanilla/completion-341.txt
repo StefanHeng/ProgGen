@@ -1,0 +1,8 @@
+1. Query: "What incredible movie features a song by Kate Winslet?"
+Named Entities: [incredible (Review), Kate Winslet (Actor), song (Song)]
+
+2. Query: "Could you recommend an excellent historical film with Harley Quinn as a character?"
+Named Entities: [excellent (Viewers' Rating), historical (Genre), Harley Quinn (Character)]
+
+3. Query: "When was The Revenant released and who directed it?"
+Named Entities: [The Revenant (Title), released (Year), directed (Director)]

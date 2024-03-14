@@ -1,0 +1,8 @@
+Query: "What's the highest rated Italian restaurant in the area?"
+Named Entities: [highest rated (Rating), Italian (Cuisine)]
+
+Query: "I want some sushi around 7 pm"
+Named Entities: [sushi (Cuisine), around 7 pm (Hours)]
+
+Query: "Where can I find a restaurant with outdoor seating and a view of the water?"
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]

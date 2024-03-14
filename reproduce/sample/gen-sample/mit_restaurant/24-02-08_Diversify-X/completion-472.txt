@@ -1,0 +1,8 @@
+1. "I'm in the mood for a buffet dinner. Can you recommend any mid-range restaurants nearby?"
+Named Entities: [buffet (Amenity), mid-range (Price)]
+
+2. "What are the best buffet options in this area with reasonable prices?"
+Named Entities: [buffet (Amenity), reasonable prices (Price)]
+
+3. "I want to take my friends out for a nice buffet lunch. Any suggestions for mid-range restaurants?"
+Named Entities: [buffet (Amenity), nice (Rating), mid-range (Price)]

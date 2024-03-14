@@ -1,0 +1,149 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+2. She is a member of the National Academy of Engineering and the National Academy of Sciences.
+Named Entities: [National Academy of Engineering (organization), National Academy of Sciences (organization)]
+
+3. The company was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne.
+Named Entities: [Steve Jobs (person), Steve Wozniak (person), Ronald Wayne (person)]
+
+4. They won the award for Best Animated Feature at the 92nd Academy Awards.
+Named Entities: [92nd Academy Awards (organization)]
+
+5. The Great Barrier Reef is the world's largest coral reef system, abundant with marine life.
+Named Entities: [Great Barrier Reef (location)]
+
+6. She attended Harvard University and later worked at the World Health Organization.
+Named Entities: [Harvard University (organization), World Health Organization (organization)]
+
+7. The novel was published by Penguin Random House in 2017.
+Named Entities: [Penguin Random House (organization)]
+
+8. He served as the Secretary-General of the United Nations from 2007 to 2016.
+Named Entities: [United Nations (organization)]
+
+9. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+10. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+11. She was awarded the Nobel Prize in Physics for her groundbreaking research.
+Named Entities: [Nobel Prize (organization)]
+
+12. The Louvre Museum is the world's largest art museum and a historic monument in Paris.
+Named Entities: [Louvre Museum (organization), Paris (location)]
+
+13. They visited the Taj Mahal during their trip to India.
+Named Entities: [Taj Mahal (location), India (location)] 
+
+14. The United States Navy is the naval warfare service branch of the United States Armed Forces.
+Named Entities: [United States Navy (organization), United States (location), United States Armed Forces (organization)]
+
+15. He was appointed as the Chief Executive Officer of Microsoft in 2014.
+Named Entities: [Microsoft (organization)]
+
+16. The London Stock Exchange is one of the oldest stock exchanges in the world.
+Named Entities: [London Stock Exchange (organization), London (location)]
+
+17. She received a Grammy Award for Best New Artist in 2019.
+Named Entities: [Grammy Award (organization)]
+
+18. They participated in the United Nations Climate Change Conference in 2020.
+Named Entities: [United Nations Climate Change Conference (organization)]
+
+19. The Statue of Liberty is a symbol of freedom and democracy in the United States.
+Named Entities: [Statue of Liberty (location), United States (location)]
+
+20. She studied at the University of Cambridge and later became a professor at Stanford University.
+Named Entities: [University of Cambridge (organization), Stanford University (organization)]
+
+21. Disneyland Resort is a popular amusement park in Anaheim, California.
+Named Entities: [Disneyland Resort (organization), Anaheim (location), California (location)]
+
+22. He co-founded Apple Inc. with Steve Wozniak and Ronald Wayne.
+Named Entities: [Apple Inc. (organization), Steve Wozniak (person), Ronald Wayne (person)]
+
+23. The European Union is a political and economic union of member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+
+24. She wrote a best-selling novel that was published by HarperCollins.
+Named Entities: [HarperCollins (organization)]
+
+25. They attended the 2016 Summer Olympics in Rio de Janeiro.
+Named Entities: [2016 Summer Olympics (organization), Rio de Janeiro (location)]
+
+26. The Metropolitan Museum of Art is one of the largest art museums in the world.
+Named Entities: [Metropolitan Museum of Art (organization)]
+
+27. He was sworn in as the President of the United States in 2021.
+Named Entities: [President of the United States (organization), United States (location)]
+
+28. Google LLC is an American multinational technology company specializing in Internet-related services and products.
+Named Entities: [Google LLC (organization), United States (location)]
+
+29. She visited the Sydney Opera House during her trip to Australia.
+Named Entities: [Sydney Opera House (location), Australia (location)]
+
+30. The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations.
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (organization), United Nations (organization)]
+
+31. They attended a conference at the World Economic Forum in Davos, Switzerland.
+Named Entities: [World Economic Forum (organization), Davos (location), Switzerland (location)]
+
+32. The Smithsonian Institution is a group of museums and research centers in the United States.
+Named Entities: [Smithsonian Institution (organization), United States (location)]
+
+33. He was elected as the Mayor of New York City in 2013.
+Named Entities: [Mayor of New York City (organization), New York City (location)]
+
+34. NASA's Mars rover successfully landed on the Red Planet in 2021.
+Named Entities: [NASA (organization), Mars (location), Red Planet (location)]
+
+35. She founded the Malala Fund to advocate for girls' education.
+Named Entities: [Malala Fund (organization)]
+
+36. They explored the ancient ruins of Machu Picchu in Peru.
+Named Entities: [Machu Picchu (location), Peru (location)]
+
+37. The World Health Organization declared COVID-19 a global pandemic in 2020.
+Named Entities: [World Health Organization (organization), COVID-19 (organization)]
+
+38. He is a member of the International Olympic Committee.
+Named Entities: [International Olympic Committee (organization)]
+
+39. The Vatican City is an independent city-state enclaved within Rome, Italy.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+
+40. She won an Academy Award for Best Actress for her role in the film.
+Named Entities: [Academy Award (organization)]
+
+41. They visited the Great Wall of China during their trip to Asia.
+Named Entities: [Great Wall of China (location), Asia (location)]
+
+42. The Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester.
+Named Entities: [Manchester United Football Club (organization), Old Trafford (location), Greater Manchester (location)]
+
+43. He served as the Director-General of the World Trade Organization from 2013 to 2021.
+Named Entities: [World Trade Organization (organization)]
+
+44. The Imperial War Museum is a British national museum founded in 1917.
+Named Entities: [Imperial War Museum (organization), British (location)]
+
+45. She attended the Cannes Film Festival where her film premiered.
+Named Entities: [Cannes Film Festival (organization)]
+
+46. They visited the Acropolis of Athens during their trip to Greece.
+Named Entities: [Acropolis of Athens (location), Greece (location)]
+
+47. The International Space Station is a space station in low Earth orbit.
+Named Entities: [International Space Station (organization), Earth (location)]
+
+48. She directed a documentary that premiered at the Sundance Film Festival.
+Named Entities: [Sundance Film Festival (organization)]
+
+49. The Chicago Symphony Orchestra is one of the "Big Five" orchestras in the United States.
+Named Entities: [Chicago Symphony Orchestra (organization), United States (location)]
+
+50. They visited the Vatican City and St. Peter's Basilica during their trip to Italy.
+Named Entities: [Vatican City (location), St. Peter's Basilica (location), Italy (location)]

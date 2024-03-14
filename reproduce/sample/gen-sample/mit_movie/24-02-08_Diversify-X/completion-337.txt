@@ -1,0 +1,8 @@
+Query: "What movie has the best soundtrack of all time?"
+Named Entities: [best (Review), soundtrack (Song)]
+
+Query: "Can you recommend a movie with iconic music from the 80s?"
+Named Entities: [iconic music (Song), 80s (Year)]
+
+Query: "Which movie features the song 'My Heart Will Go On' by Celine Dion?"
+Named Entities: ['My Heart Will Go On' (Song), Celine Dion (Actor)]

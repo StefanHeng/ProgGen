@@ -1,0 +1,8 @@
+1. Query: "Can you provide an exclusive look at a movie directed by Park Chan-wook that is rated 18A?"
+   Named Entities: [Park Chan-wook (Director), exclusive look (Trailer), 18A (MPAA Rating)]
+
+2. Query: "What cast members were in the film Harry Potter and the Sorcerer's Stone?"
+   Named Entities: [Harry Potter and the Sorcerer's Stone (Title)]
+
+3. Query: "I'd like a glimpse of the new movie with the working title of Harry Potter and the Sorcerer's Stone."
+   Named Entities: [glimpse (Trailer), Harry Potter and the Sorcerer's Stone (Title)]

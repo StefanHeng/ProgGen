@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a song by Ariana Grande?"
+Named Entities: [Ariana Grande (Actor/Singer), song (Song)]
+
+2. Query: "When did Christopher Nolan direct a film that is rated R?"
+Named Entities: [Christopher Nolan (Director), R (MPAA Rating)]
+
+3. Query: "What is the viewers' rating for the latest movie featuring Tom Hanks?"
+Named Entities: [Tom Hanks (Actor), viewers' rating (Viewers' Rating)]

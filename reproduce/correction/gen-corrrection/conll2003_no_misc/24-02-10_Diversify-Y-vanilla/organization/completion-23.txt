@@ -1,0 +1,11 @@
+1. Sentence: "The {{government}} announced a new transportation infrastructure plan for Jakarta."
+Text Span: "government"
+Label: (C). Not a Named Entity (organization)
+
+2. Sentence: "{{Apple Inc.}} unveils its latest iPhone model with enhanced camera features"
+Text Span: "Apple Inc."
+Label: (A). Named Entity of type organization
+
+3. Sentence: "{{Greenpeace}} protests outside London headquarters of oil company."
+Text Span: "Greenpeace"
+Label: (A). Named Entity of type organization

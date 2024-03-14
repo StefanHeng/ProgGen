@@ -1,0 +1,8 @@
+Query: "What breathtaking movie did Cameron Diaz star in"
+Named Entities: [breathtaking (Review), Cameron Diaz (Actor)]
+
+Query: "have any movies been made based on the theme of loss of memory"
+Named Entities: [loss of memory (Plot)]
+
+Query: "Which movie from 1954 is Jolene's favorite"
+Named Entities: [1954 (Year), Jolene (Viewer's Rating)]

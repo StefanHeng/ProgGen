@@ -1,0 +1,8 @@
+Query: "I'm looking for a sushi restaurant within walking distance"
+Named Entities: [sushi (Cuisine), walking distance (Distance)]
+
+Query: "Can you recommend a budget-friendly Italian restaurant with a view of the city?"
+Named Entities: [budget-friendly (Price), Italian (Cuisine), view of the city (Amenity)]
+
+Query: "I need a place to eat dinner that won't break the bank, somewhere with a steep discount"
+Named Entities: [dinner (Amenity), won't break the bank (Price), steep discount (Price)]

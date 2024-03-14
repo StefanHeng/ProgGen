@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a food truck with waterfront views?"
+Named Entities: [food truck (Amenity), waterfront views (Amenity)]
+
+2. Query: "I'm looking for a food truck by the water, any suggestions?"
+Named Entities: [food truck (Amenity), by the water (Location)]
+
+3. Query: "Which food truck has the best waterfront views in the area?"
+Named Entities: [food truck (Amenity), best (Rating), waterfront views (Amenity)]

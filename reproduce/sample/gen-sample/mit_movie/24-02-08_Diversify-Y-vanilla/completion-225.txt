@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the movie directed by Jon Favreau and released in 2016?"
+Named Entities: [Jon Favreau (Director), 2016 (Year)]
+
+2. Query: "Can you recommend a movie featuring Jon Favreau as both actor and director?"
+Named Entities: [Jon Favreau (Actor, Director)]
+
+3. Query: "Show me a trailer for a movie with a high viewers' rating that stars Jon Favreau."
+Named Entities: [Jon Favreau (Actor), high viewers' rating (Viewers' Rating)]

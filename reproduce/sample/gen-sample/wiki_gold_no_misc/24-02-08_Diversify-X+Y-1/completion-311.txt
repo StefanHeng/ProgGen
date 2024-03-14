@@ -1,0 +1,8 @@
+Sentence: "Frank Lloyd Wright is considered one of the greatest American architects of all time."
+Named Entities: [Frank Lloyd Wright (person), American (location)]
+
+Sentence: "His innovative use of materials and integration of natural elements revolutionized modern architecture."
+Named Entities: []
+
+Sentence: "The Fallingwater house, designed by Frank Lloyd Wright, is a prime example of his organic architecture style."
+Named Entities: [Fallingwater (location), Frank Lloyd Wright (person)]

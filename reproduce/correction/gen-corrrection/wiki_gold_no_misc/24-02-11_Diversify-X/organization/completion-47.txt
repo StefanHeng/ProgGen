@@ -1,0 +1,11 @@
+1. Sentence: "The film industry in Hollywood experienced a major boom during the Golden Age of Hollywood in the 1920s and 1930s, leading to the establishment of several iconic movie studios such as {{Paramount Pictures}}, Warner Bros., and MGM."
+Text Span: "Paramount Pictures"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Coco Chanel, a pioneer of women's fashion and the founder of the famous {{Chanel}} brand, revolutionized the way women dressed in the early 20th century."
+Text Span: "Chanel"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{NASA}}, the National Aeronautics and Space Administration, is responsible for the U.S. civilian space program and for aeronautics and aerospace research."
+Text Span: "NASA"
+Label: (A). The span is a named entity of type organization

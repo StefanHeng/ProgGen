@@ -1,0 +1,8 @@
+Query: "What kind of cuisine does Fleming's Prime Steakhouse offer?"
+Named Entities: [Fleming's Prime Steakhouse (Restaurant Name), cuisine (Amenity)]
+
+Query: "When does Fleming's Prime Steakhouse close on weekends?"
+Named Entities: [Fleming's Prime Steakhouse (Restaurant Name), close (Hours), weekends (Hours)]
+
+Query: "Is Fleming's Prime Steakhouse considered to be a high-end restaurant?"
+Named Entities: [Fleming's Prime Steakhouse (Restaurant Name), high-end (Price)]

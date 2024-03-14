@@ -1,0 +1,8 @@
+Sentence: "The company announced a new partnership with the National Environmental Protection Agency."
+Named Entities: [National Environmental Protection Agency (organization)]
+
+Sentence: "She was born and raised in Tokyo, Japan but moved to London for college."
+Named Entities: [Tokyo (location), Japan (location), London (location)]
+
+Sentence: "The Nobel Prize in Physics was awarded to Marie Curie in 1903 for her contributions to the field."
+Named Entities: [Marie Curie (person)]

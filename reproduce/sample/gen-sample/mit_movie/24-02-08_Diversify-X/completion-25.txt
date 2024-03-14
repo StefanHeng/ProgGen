@@ -1,0 +1,8 @@
+1. "Can you tell me about the director of the latest Marvel movie and any special features on the Blu-ray edition?"
+Named Entities: [Marvel movie (Title), director (Director), special features (Plot)]
+
+2. "I'm looking for a movie from the 90s with a popular soundtrack and some bloopers from the filming."
+Named Entities: [90s (Year), popular soundtrack (Song), bloopers (Plot)]
+
+3. "Are there any recent action movies with an audio commentary by the director or main cast members?"
+Named Entities: [action movies (Genre), audio commentary (Plot), director (Director), main cast members (Actor)]

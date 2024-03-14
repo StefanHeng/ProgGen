@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that is Top Chef's favorite and serves lasagna?"
+Named Entities: [Top Chef's favorite (Rating), lasagna (Dish)]
+
+2. "I'm craving some good Italian food, where can I find a place with great lasagna?"
+Named Entities: [Italian (Cuisine), great lasagna (Dish)]
+
+3. "Is there a place known for its lasagna that is open late?"
+Named Entities: [lasagna (Dish), open late (Hours)]

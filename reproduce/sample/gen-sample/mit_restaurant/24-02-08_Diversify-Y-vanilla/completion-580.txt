@@ -1,0 +1,8 @@
+1. Query: "What are the restaurant options in the shopping district with a good menu for happy hour?"
+Named Entities: [Shopping district (Location), good menu for happy hour (Amenity)]
+
+2. Query: "I'm craving some sushi around the corner, can you recommend a place?"
+Named Entities: [Around the corner (Location), sushi (Cuisine)]
+
+3. Query: "Where can I find a budget-friendly restaurant with vegetarian dishes?"
+Named Entities: [budget-friendly (Price), vegetarian dishes (Dish)]

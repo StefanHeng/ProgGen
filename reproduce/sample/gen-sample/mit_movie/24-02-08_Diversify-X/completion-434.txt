@@ -1,0 +1,8 @@
+1. "Hey, what's that super scary horror movie with the killer clown that came out in 2017?"
+Named Entities: [killer clown (Character), horror (Genre), 2017 (Year)]
+
+2. "Can you recommend a good action movie from the 90s with Bruce Willis in it?"
+Named Entities: [Bruce Willis (Actor), action (Genre), 90s (Year)]
+
+3. "I'm in the mood for a romantic comedy, can you suggest one that's really heartwarming?"
+Named Entities: [romantic comedy (Genre), heartwarming (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Text Span: "outstanding"
+Label: (C). The span is a named entity but the category is not rating. Entity Type: other
+
+2. Text Span: "5-star"
+Label: (B). Wrong Boundary. The correct span boundary is "5-star rating"
+
+3. Text Span: "best in town"
+Label: (A). The span is a named entity of type rating

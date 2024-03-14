@@ -1,0 +1,8 @@
+Sentence: "The Catholic Church is the largest non-government provider of education and health care in the world."
+Named Entities: [Catholic Church (organization)]
+
+Sentence: "The pilgrimage has been held in the month of Dhu al-Hijjah, the Islamic calendar, since Muhammad's time."
+Named Entities: [Dhu al-Hijjah (location), Muhammad (person)]
+
+Sentence: "Hinduism is an ancient religion with no founder or known date of origin."
+Named Entities: [Hinduism (organization)]

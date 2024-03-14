@@ -1,0 +1,8 @@
+Sentence: "The United States Army is the largest and oldest established branch of the U.S. military."
+Named Entities: [United States Army (organization), U.S. (location)]
+
+Sentence: "The Battle of Gettysburg was a significant turning point in the American Civil War."
+Named Entities: [Battle of Gettysburg (location), American Civil War (event)]
+
+Sentence: "General Douglas MacArthur played a prominent role in the Pacific theater during World War II."
+Named Entities: [General Douglas MacArthur (person), Pacific theater (location), World War II (event)]

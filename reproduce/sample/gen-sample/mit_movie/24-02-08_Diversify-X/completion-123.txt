@@ -1,0 +1,8 @@
+1. "Can you check out the trailer for that new action flick starring Keanu Reeves?"
+Named Entities: [trailer (Trailer), action (Genre), Keanu Reeves (Actor)]
+
+2. "Hey, could you recommend a cool movie preview to watch later?"
+Named Entities: [movie preview (Trailer)]
+
+3. "Do you have any teasers for the upcoming Marvel superhero film?"
+Named Entities: [teasers (Trailer), Marvel (Genre)]

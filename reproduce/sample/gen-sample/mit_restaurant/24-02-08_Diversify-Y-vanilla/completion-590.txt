@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a fusion restaurant with outdoor seating and high ratings?"
+   Named Entities: [fusion (Cuisine), outdoor seating (Amenity), high ratings (Rating)]
+
+2. Query: "I'm looking for a sushi place with all-you-can-eat options and a budget-friendly menu."
+   Named Entities: [sushi (Cuisine), all-you-can-eat options (Amenity), budget-friendly (Price)]
+
+3. Query: "Find a nearby Italian restaurant open late with live music."
+   Named Entities: [Italian (Cuisine), nearby (Location), open late (Hours), live music (Amenity)]

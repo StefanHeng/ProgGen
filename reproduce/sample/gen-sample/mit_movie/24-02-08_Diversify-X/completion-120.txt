@@ -1,0 +1,8 @@
+1. Query: "What awards did the movie La La Land win? Hurry up, I don't have all day."
+Named Entities: [La La Land (Title), Awards and nominations received]
+
+2. Query: "Which director's films have won the most Oscars? I need an answer now."
+Named Entities: [director (Director), Films, Oscars, Awards and nominations received]
+
+3. Query: "Can you tell me the top-rated movie of all time? Chop chop, I'm in a hurry."
+Named Entities: [top-rated (Viewers' Rating), movie, all time]

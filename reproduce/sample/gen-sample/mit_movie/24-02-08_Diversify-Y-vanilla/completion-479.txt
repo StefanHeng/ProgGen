@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie that is epic in scale and features Keanu Reeves"
+Named Entities: [epic in scale (Genre), Keanu Reeves (Actor)]
+
+2. Query: "What is the viewers' rating for The Matrix film directed by the Wachowskis"
+Named Entities: [The Matrix (Title), Wachowskis (Director), viewers' rating (Viewers' Rating)]
+
+3. Query: "Can you provide me with the plot of the movie that has the character Neo in it"
+Named Entities: [plot (Plot), character Neo (Character)]

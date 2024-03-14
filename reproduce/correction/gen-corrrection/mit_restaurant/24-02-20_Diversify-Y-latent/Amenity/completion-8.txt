@@ -1,0 +1,8 @@
+1. Text Span: "view of the ocean"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "families"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Text Span: "view of the lake"
+Label: (A). The span is a named entity of type amenity

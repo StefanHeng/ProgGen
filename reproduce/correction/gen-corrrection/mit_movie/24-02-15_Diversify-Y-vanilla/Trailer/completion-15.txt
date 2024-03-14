@@ -1,0 +1,8 @@
+1. Text Span: "movie snippet"
+Label: (B). The correct span boundary is "snippet".
+
+2. Text Span: "preview"
+Label: (A). The span is a named entity of type trailer.
+
+3. Text Span: "preview clip"
+Label: (B). The correct span boundary is "clip".

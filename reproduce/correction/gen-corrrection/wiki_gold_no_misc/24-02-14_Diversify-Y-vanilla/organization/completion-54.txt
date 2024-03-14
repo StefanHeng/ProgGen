@@ -1,0 +1,8 @@
+1. Text Span: "Olympic Games"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Opportunity"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "United States Army"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with impeccable direction that was released in the 1990s?"
+   Named Entities: [impeccable direction (Review), 1990s (Year)]
+   
+2. "I want to see a TV spot for a movie like Amélie, can you help me find one?"
+   Named Entities: [TV spot (Trailer), Amélie (Title)]
+   
+3. "What is the viewers' rating for the film Amélie?"
+   Named Entities: [Amélie (Title), viewers' rating (Review)]

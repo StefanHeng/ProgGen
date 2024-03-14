@@ -1,0 +1,8 @@
+1. "Can you recommend an adrenaline-pumping action movie released in the 2000s?"
+Named Entities: [adrenaline-pumping (Genre), action movie (Genre), 2000s (Year)]
+
+2. "Is the movie Come Together a musical or a romantic comedy?"
+Named Entities: [Come Together (Title), musical (Genre), romantic comedy (Genre)]
+
+3. "Tell me about the crime drama Purple Rain and its viewers' rating."
+Named Entities: [crime drama (Genre), Purple Rain (Title), viewers' rating (Viewers' Rating)]

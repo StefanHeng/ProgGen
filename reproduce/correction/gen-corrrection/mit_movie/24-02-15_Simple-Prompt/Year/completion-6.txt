@@ -1,0 +1,11 @@
+1. Query: "When was the film The Shawshank Redemption {{released}}?"
+Text Span: "released"
+Label: (D). Not a Named Entity
+
+2. Query: "Are there any good movies from the {{1950s}} in the crime genre?"
+Text Span: "1950s"
+Label: (A). The span is a named entity of type year
+
+3. Query: "can you recommend a good horror movie released in the {{1990s}}?"
+Text Span: "1990s"
+Label: (A). The span is a named entity of type year

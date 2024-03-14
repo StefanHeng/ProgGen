@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a drama with an in-depth behind-the-scenes look at the making of the film, maybe something related to Princess Leia?"
+Named Entities: [drama (Genre), behind-the-scenes (Plot), Princess Leia (Character)]
+
+2. Query: "I'm looking for a movie that's a bit picky and has a musical comedy flair like Mamma Mia!, with some interesting making-of tidbits."
+Named Entities: [musical comedy (Genre), picky (Viewers' Rating), Mamma Mia! (Title)]
+
+3. Query: "I want to watch a classic musical like Singin' in the Rain, but with a detailed behind-the-scenes feature. Can you suggest something similar?"
+Named Entities: [musical (Genre), behind-the-scenes (Plot), Singin' in the Rain (Title)]

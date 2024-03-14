@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the latest Marvel movie for me?"
+   Named Entities: [Marvel movie (Title), trailer (Trailer)]
+
+2. "What are the top-rated horror movies from the 2010s?"
+   Named Entities: [horror movies (Genre), 2010s (Year), top-rated (Viewers' Rating)]
+
+3. "Who directed the action movie with Tom Cruise that came out last year?"
+   Named Entities: [action movie (Genre), Tom Cruise (Actor), last year (Year), directed (Director)]

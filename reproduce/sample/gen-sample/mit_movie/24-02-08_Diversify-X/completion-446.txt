@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an iconic 80s soundtrack?"
+Named Entities: [80s (Year), iconic (Review), soundtrack (Song)]
+
+2. "I miss classic musicals with great songs. Can you suggest one for me?"
+Named Entities: [classic musicals (Genre), great songs (Plot)]
+
+3. "Do you know any famous movies featuring a legendary song by Queen?"
+Named Entities: [famous movies (Viewers' Rating), legendary song (Song), Queen (Band/Artist)]

@@ -1,0 +1,8 @@
+Sentence: "The fashion industry has been criticized for promoting unrealistic body image standards."
+Named Entities: []
+
+Sentence: "The fashion show featured designs by renowned designer Coco Chanel."
+Named Entities: [Coco Chanel (person)]
+
+Sentence: "The Council of Fashion Designers of America is a trade association of over 500 fashion designers."
+Named Entities: [Council of Fashion Designers of America (organization)]

@@ -1,0 +1,8 @@
+1. Spoken Query: "Are there any showtimes for a movie directed by Dwayne Johnson that has a TV-MA rating?"
+   Named Entities: [Dwayne Johnson (Director), TV-MA (MPAA Rating)]
+
+2. Spoken Query: "Can you find me a movie playing this week starring Dwayne Johnson?"
+   Named Entities: [Dwayne Johnson (Actor)]
+
+3. Spoken Query: "What movies directed by Dwayne Johnson are showing in theaters right now?"
+   Named Entities: [Dwayne Johnson (Director)]

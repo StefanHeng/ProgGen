@@ -1,0 +1,8 @@
+1. "I'm craving The Brunch Bowl, where can I find it?"
+Named Entities: [The Brunch Bowl (Dish)]
+
+2. "I'm looking for a restaurant that serves The Brunch Box in the downtown area."
+Named Entities: [The Brunch Box (Dish), downtown area (Location)]
+
+3. "What's a good restaurant near me that offers dishes similar to The Brunch Bowl?"
+Named Entities: [good (Rating), The Brunch Bowl (Dish), near me (Location)]

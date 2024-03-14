@@ -1,0 +1,8 @@
+1. Text Span: "this year"
+Label: (C). The span is a named entity but the category is not year. The correct entity type is other.
+
+2. Text Span: "1980s"
+Label: (A). The span is a named entity of type year.
+
+3. Text Span: "year it was released"
+Label: (C). The span is a named entity but the category is not year. The correct entity type is other.

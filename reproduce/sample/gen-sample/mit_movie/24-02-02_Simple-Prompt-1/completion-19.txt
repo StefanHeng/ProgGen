@@ -1,0 +1,149 @@
+1. "Is there a movie called The Godfather"
+Named Entities: [The Godfather (Title)]
+
+2. "What is the viewers' rating for the Shawshank Redemption"
+Named Entities: [Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+3. "When was the movie Inception released"
+Named Entities: [Inception (Title)]
+
+4. "Show me some action movies"
+Named Entities: [action (Genre)]
+
+5. "Who directed the Titanic film"
+Named Entities: [Titanic (Title), director (Director)]
+
+6. "What is the MPAA rating for The Dark Knight"
+Named Entities: [The Dark Knight (Title), MPAA rating (MPAA Rating)]
+
+7. "What is the plot of the movie The Matrix"
+Named Entities: [The Matrix (Title), plot (Plot)]
+
+8. "I want to see movies with Brad Pitt"
+Named Entities: [Brad Pitt (Actor)]
+
+9. "Can I watch the trailer for Avengers: Endgame"
+Named Entities: [Avengers: Endgame (Title), trailer (Trailer)]
+
+10. "Is there a movie featuring the song My Heart Will Go On"
+Named Entities: [My Heart Will Go On (Song)]
+
+11. "What are the top 10 movies of all time"
+Named Entities: [top 10 (Review)]
+
+12. "Where can I watch Lord of the Rings: The Fellowship of the Ring"
+Named Entities: [Lord of the Rings: The Fellowship of the Ring (Title)]
+
+13. "Is there a romance movie that was released in 1995"
+Named Entities: [1995 (Year), romance (Genre)]
+
+14. "What is the name of the director of The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), director (Director)]
+
+15. "Show me animated movies"
+Named Entities: [animated (Genre)]
+
+16. "Which MPAA rating is suitable for children"
+Named Entities: [MPAA rating (MPAA Rating)]
+
+17. "What is the IMDB rating for Pulp Fiction"
+Named Entities: [Pulp Fiction (Title), IMDB rating (Viewers' Rating)]
+
+18. "Can you tell me the plot of The Silence of the Lambs"
+Named Entities: [The Silence of the Lambs (Title), plot (Plot)]
+
+19. "Who is the actor in the movie The Great Gatsby"
+Named Entities: [The Great Gatsby (Title), actor (Actor)]
+
+20. "Do you have the trailer for the movie Interstellar"
+Named Entities: [Interstellar (Title), trailer (Trailer)]
+
+21. "Is there a movie with the song I Will Always Love You"
+Named Entities: [I Will Always Love You (Song)]
+
+22. "What is a good thriller film"
+Named Entities: [thriller (Genre)]
+
+23. "I want to see the reviews for The Godfather"
+Named Entities: [The Godfather (Title), reviews (Review)]
+
+24. "Where can I watch the movie Forrest Gump"
+Named Entities: [Forrest Gump (Title)]
+
+25. "Name a famous comedy movie"
+Named Entities: [comedy (Genre)]
+
+26. "What is the MPAA rating for Jaws"
+Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+
+27. "Can you summarize the plot of The Lion King"
+Named Entities: [The Lion King (Title), plot (Plot)]
+
+28. "Who are the main actors in the film Fight Club"
+Named Entities: [Fight Club (Title), actors (Actor)]
+
+29. "Show me the trailer for the film Gladiator"
+Named Entities: [Gladiator (Title), trailer (Trailer)]
+
+30. "Which movie features the song Eye of the Tiger"
+Named Entities: [Eye of the Tiger (Song)]
+
+31. "What are the reviews for The Dark Knight"
+Named Entities: [The Dark Knight (Title), reviews (Review)]
+
+32. "Where can I watch Star Wars: A New Hope"
+Named Entities: [Star Wars: A New Hope (Title)]
+
+33. "I'm looking for a science fiction movie from the 1980s"
+Named Entities: [science fiction (Genre), 1980s (Year)]
+
+34. "Who directed the film The Godfather Part II"
+Named Entities: [The Godfather Part II (Title), director (Director)]
+
+35. "What are the best animated movies of all time"
+Named Entities: [animated (Genre), best of all time (Review)]
+
+36. "What is the best MPAA rating for a family movie"
+Named Entities: [MPAA rating (MPAA Rating)]
+
+37. "What is the viewers' rating for The Lord of the Rings: The Two Towers"
+Named Entities: [The Lord of the Rings: The Two Towers (Title), viewers' rating (Viewers' Rating)]
+
+38. "What is the plot of the movie The Usual Suspects"
+Named Entities: [The Usual Suspects (Title), plot (Plot)]
+
+39. "I want to watch a movie starring Tom Hanks"
+Named Entities: [Tom Hanks (Actor)]
+
+40. "Can you show me the trailer for The Matrix"
+Named Entities: [The Matrix (Title), trailer (Trailer)]
+
+41. "Which movie features the song My Heart Will Go On"
+Named Entities: [My Heart Will Go On (Song)]
+
+42. "What are the reviews for the film Inception"
+Named Entities: [Inception (Title), reviews (Review)]
+
+43. "Where can I watch The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title)]
+
+44. "Can you recommend a romance movie released in the 2000s"
+Named Entities: [romance (Genre), 2000s (Year)]
+
+45. "Who directed the movie The Dark Knight Rises"
+Named Entities: [The Dark Knight Rises (Title), director (Director)]
+
+46. "What is the plot of the movie The Godfather Part III"
+Named Entities: [The Godfather Part III (Title), plot (Plot)]
+
+47. "I want to see a movie with Leonardo DiCaprio"
+Named Entities: [Leonardo DiCaprio (Actor)]
+
+48. "Do you have the trailer for the film Inception"
+Named Entities: [Inception (Title), trailer (Trailer)]
+
+49. "Which movie features the song A Whole New World"
+Named Entities: [A Whole New World (Song)]
+
+50. "What are the reviews for the movie The Dark Knight Rises"
+Named Entities: [The Dark Knight Rises (Title), reviews (Review)]

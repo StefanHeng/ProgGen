@@ -1,0 +1,8 @@
+1. Query: "Do you know any Korean restaurants with a good Meal Deal?"
+   Named Entities: [Korean (Cuisine), Meal Deal (Amenity)]
+
+2. Query: "Can you recommend a restaurant with Korean barbecue for dinner tonight?"
+   Named Entities: [Korean (Cuisine), dinner tonight (Hours)]
+
+3. Query: "Where is the nearest place where I can get bibimbap for a reasonable price?"
+   Named Entities: [bibimbap (Dish), reasonable price (Price)]

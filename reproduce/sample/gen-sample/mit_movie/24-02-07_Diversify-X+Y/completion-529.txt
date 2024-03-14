@@ -1,0 +1,8 @@
+1. Query: "I heard that there were some controversies during the making of a Colin Firth film at a Hollywood studio, can you give me some details about it?"
+Named Entities: [Colin Firth (Actor), Hollywood studio]
+
+2. Query: "Is it true that there were significant production challenges during the filming of The Lion King movie? I find it hard to believe."
+Named Entities: [The Lion King (Title)]
+
+3. Query: "I have my doubts about the authenticity of the behind-the-scenes footage from a Hollywood studio for a recent movie. Can you show it to me?"
+Named Entities: [Hollywood studio]

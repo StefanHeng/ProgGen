@@ -1,0 +1,8 @@
+1. Spoken Query: "Are you sure the movie 'The Lion King' has the best soundtrack of all time?"
+   Named Entities: ['The Lion King' (Title), best soundtrack of all time (Review)]
+
+2. Spoken Query: "Can you really find the song 'I Will Always Love You' in the movie 'The Bodyguard'?"
+   Named Entities: ['I Will Always Love You' (Song), 'The Bodyguard' (Title)]
+
+3. Spoken Query: "Do you really think the movie 'A Star is Born' has a soundtrack worth listening to?"
+   Named Entities: ['A Star is Born' (Title), soundtrack worth listening to (Review)]

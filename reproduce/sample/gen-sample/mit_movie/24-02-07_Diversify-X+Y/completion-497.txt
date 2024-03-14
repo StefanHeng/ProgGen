@@ -1,0 +1,10 @@
+
+
+Query: "Has any movie won multiple awards for Best Picture directed by Christopher Nolan"
+Named Entities: [multiple awards (Awards), Best Picture (Awards), Christopher Nolan (Director)]
+
+Query: "Show me the top rated movie with Albus Dumbledore in a leading role"
+Named Entities: [top rated (Viewers' Rating), Albus Dumbledore (Character)]
+
+Query: "I'm looking for a critically acclaimed film that features a scene with a chandelier and is rated R"
+Named Entities: [critically acclaimed (Review), chandelier (Plot), rated R (MPAA Rating)]

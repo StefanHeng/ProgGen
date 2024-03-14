@@ -1,0 +1,8 @@
+1. "Can you recommend a good barbecue restaurant near [Texas Roadhouse] with outdoor seating?"
+   Named Entities: [barbecue (Cuisine), [Texas Roadhouse] (Restaurant Name), outdoor seating (Amenity)]
+
+2. "What are the hours of operation for [Texas Roadhouse] on Fridays?"
+   Named Entities: [[Texas Roadhouse] (Restaurant Name), Fridays (Hours)]
+
+3. "I'm looking for a moderately priced Italian restaurant close to [Texas Roadhouse]."
+   Named Entities: [moderately priced (Price), Italian (Cuisine), [Texas Roadhouse] (Location)]

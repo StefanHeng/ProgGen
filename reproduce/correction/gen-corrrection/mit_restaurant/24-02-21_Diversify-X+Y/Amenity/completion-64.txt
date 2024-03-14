@@ -1,0 +1,8 @@
+1. Text Span: "parking"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "prominent"
+Label: (C). Wrong Type. The correct entity type is Amenity
+
+3. Text Span: "all-you-can-eat buffet"
+Label: (A). The span is a named entity of type amenity

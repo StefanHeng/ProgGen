@@ -1,0 +1,8 @@
+1. Text Span: "Anubis"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Dr. Maria Gomez"
+Label: (B). Wrong Boundary. The correct span boundary is "Maria Gomez".
+
+3. Text Span: "Anne"
+Label: (A). Correct Entity Annotation.

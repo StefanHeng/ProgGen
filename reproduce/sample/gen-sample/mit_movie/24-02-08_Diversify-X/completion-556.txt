@@ -1,0 +1,8 @@
+1. Query: "Can you tell me what the heck happens in the movie Inception?"
+   Named Entities: [Inception (Title), what the heck happens (Plot)]
+
+2. Query: "I need to know the deal with the movie Pulp Fiction, can you give me a quick rundown?"
+   Named Entities: [Pulp Fiction (Title), the deal (Plot), quick rundown (Review)]
+
+3. Query: "Hey, what's the scoop on The Shawshank Redemption? I want to know what it's all about."
+   Named Entities: [The Shawshank Redemption (Title), the scoop (Plot), what it's all about (Review)]

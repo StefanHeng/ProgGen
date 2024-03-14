@@ -1,0 +1,8 @@
+1. "What is the plot of Scarface?"
+Named Entities: [Scarface (Title), plot (Plot)]
+
+2. "Can I see a cinematic preview for the movie M?"
+Named Entities: [cinematic preview (Trailer), M (Title)]
+
+3. "Is the movie Stupendous suitable for kids, or is it rated as TV-14?"
+Named Entities: [Stupendous (Title), TV-14 (MPAA Rating)]

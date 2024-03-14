@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the movie with the song 'A Whole New World'?"
+Named Entities: [trailer (Trailer), A Whole New World (Song)]
+
+2. "How many excellent rating movies came out in 1983?"
+Named Entities: [excellent rating (Viewers' Rating), 1983 (Year)]
+
+3. "Is Hugh Jackman in any monster movies?"
+Named Entities: [Hugh Jackman (Actor), monster (Genre)]

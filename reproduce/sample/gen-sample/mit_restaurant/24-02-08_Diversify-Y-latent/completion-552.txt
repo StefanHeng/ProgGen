@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet within walking distance?"
+Named Entities: [Buffet (Amenity), Within walking distance (Location)]
+
+Query: "I'm in the mood for some Italian cuisine, is there a good place nearby?"
+Named Entities: [Italian (Cuisine), nearby (Location)]
+
+Query: "Is there a reasonably priced restaurant with outdoor seating in this area?"
+Named Entities: [reasonably priced (Price), outdoor seating (Amenity), this area (Location)]

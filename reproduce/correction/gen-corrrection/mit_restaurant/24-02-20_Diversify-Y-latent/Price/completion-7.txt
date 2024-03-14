@@ -1,0 +1,8 @@
+1. Text Span: "within budget"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "priced at 30 dollars or less"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "reasonably priced"
+Label: (A). Correct Entity Annotation.

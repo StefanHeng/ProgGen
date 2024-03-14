@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating and a good wine selection?"
+Named Entities: [outdoor seating (Amenity), good wine selection (Amenity)]
+
+2. "I'm craving some authentic Italian pizza. Where can I find a highly-rated pizzeria nearby?"
+Named Entities: [authentic Italian pizza (Cuisine), highly-rated (Rating), pizzeria (Restaurant Name), nearby (Location)]
+
+3. "What are the operating hours for the barbecue joint on Main Street?"
+Named Entities: [operating hours (Hours), barbecue (Cuisine), Main Street (Location)]

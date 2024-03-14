@@ -1,0 +1,8 @@
+Query: "Hey, can you tell me if the movie 'The Shawshank Redemption' won any awards?"
+Named Entities: ['The Shawshank Redemption' (Title), awards (Genre)]
+
+Query: "I'm curious, did 'La La Land' get any nominations for its music?"
+Named Entities: ['La La Land' (Title), nominations (Genre), music (Song)]
+
+Query: "Do you know if 'Forrest Gump' received any honors for its special effects?"
+Named Entities: ['Forrest Gump' (Title), honors (Viewers' Rating), special effects (Genre)]

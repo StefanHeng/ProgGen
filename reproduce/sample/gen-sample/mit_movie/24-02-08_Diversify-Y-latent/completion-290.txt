@@ -1,0 +1,8 @@
+Query: "Can you recommend a superhero movie with a terrific plot?"
+Named Entities: [superhero (Genre), terrific (Review)]
+
+Query: "What G-rated animated movie was released in 2017 and has a catchy theme song?"
+Named Entities: [G-rated (MPAA Rating), 2017 (Year), catchy theme song (Song)]
+
+Query: "Who directed the action movie starring Tom Hanks and Sandra Bullock?"
+Named Entities: [action (Genre), Tom Hanks (Actor), Sandra Bullock (Actor)]

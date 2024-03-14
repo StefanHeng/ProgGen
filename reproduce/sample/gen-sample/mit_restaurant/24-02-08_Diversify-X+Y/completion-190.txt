@@ -1,0 +1,8 @@
+Query: "I'm looking for an expensive café with an express lunch menu"
+Named Entities: [expensive (Price), express lunch menu (Amenity), café (Cuisine)]
+
+Query: "Where can I find a café with an express lunch menu that's on the pricier side"
+Named Entities: [express lunch menu (Amenity), pricier side (Price), café (Cuisine)]
+
+Query: "Do you know of any upscale cafés that offer an express lunch menu"
+Named Entities: [upscale (Rating), express lunch menu (Amenity), café (Cuisine)]

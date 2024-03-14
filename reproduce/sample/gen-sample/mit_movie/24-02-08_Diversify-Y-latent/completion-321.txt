@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any powerful and moving films similar to The Shape of Water?"
+Named Entities: [powerful and moving (Viewers' Rating), The Shape of Water (Title)]
+
+2. Query: "What is Kate Winslet's best performance in a movie?"
+Named Entities: [Kate Winslet (Actor)]
+
+3. Query: "Show me a trailer for a movie directed by Kate Winslet."
+Named Entities: [Kate Winslet (Director), trailer (Trailer)]

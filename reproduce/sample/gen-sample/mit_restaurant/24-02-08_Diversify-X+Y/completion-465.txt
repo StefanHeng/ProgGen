@@ -1,0 +1,8 @@
+Query: "Can you recommend a lunch spot with American cuisine and mid-range prices?"
+Named Entities: [lunch (Amenity), American cuisine (Cuisine), mid-range prices (Price)]
+
+Query: "What are the kitchen hours for LongHorn Steakhouse?"
+Named Entities: [kitchen hours (Hours), LongHorn Steakhouse (Restaurant Name)]
+
+Query: "I'm looking for a restaurant with a diverse menu and mid-range prices, preferably a LongHorn Steakhouse."
+Named Entities: [diverse menu (Amenity), mid-range prices (Price), LongHorn Steakhouse (Restaurant Name)]

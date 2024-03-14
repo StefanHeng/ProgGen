@@ -1,0 +1,8 @@
+1. Query: "what is the genre of the new indiana jones movie directed by terrence malick"
+   Named Entities: [new indiana jones movie (Title), terrence malick (Director)]
+
+2. Query: "can you show me a multi-layered movie promo with jennifer garner and will turner"
+   Named Entities: [multi-layered (Review), movie promo (Trailer), jennifer garner (Actor), will turner (Character)]
+
+3. Query: "does the teaser trailer for i want to hold your hand feature any famous song"
+   Named Entities: [teaser trailer (Trailer), i want to hold your hand (Title), famous song (Song)]

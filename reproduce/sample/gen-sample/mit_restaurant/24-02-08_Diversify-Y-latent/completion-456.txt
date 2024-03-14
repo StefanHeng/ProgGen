@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Value Fries, where can I find them nearby?"
+Named Entities: [Value Fries (Dish), nearby (Location)]
+
+2. "Is there a restaurant with a self-serve Beverage station in this area?"
+Named Entities: [self-serve (Amenity), Beverage station (Dish), this area (Location)]
+
+3. "Can you recommend a place with a good selection of vegetarian dishes and a patio?"
+Named Entities: [good (Rating), vegetarian (Cuisine), patio (Amenity)]

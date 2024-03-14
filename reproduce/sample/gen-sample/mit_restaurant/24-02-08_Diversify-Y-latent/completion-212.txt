@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a high-end Japanese restaurant with a decadent menu"
+   Named Entities: [high-end (Price), Japanese (Cuisine), decadent (Amenity)]
+
+2. Query: "Can you recommend a Yard House with moderate prices and great happy hour deals"
+   Named Entities: [Yard House (Restaurant Name), moderate (Price), happy hour (Amenity)]
+
+3. Query: "Where can I find a place with delicious desserts and a good rating"
+   Named Entities: [delicious desserts (Dish), good (Rating)]

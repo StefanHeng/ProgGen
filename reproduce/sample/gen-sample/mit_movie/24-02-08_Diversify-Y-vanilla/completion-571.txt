@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with the song Pour Some Sugar on Me"
+Named Entities: [Pour Some Sugar on Me (Song)]
+
+Query: "are there any movies about a political scandal"
+Named Entities: [political scandal (Plot)]
+
+Query: "is Christian Bale starring in any movies with family secrets"
+Named Entities: [Christian Bale (Actor), family secrets (Plot)]

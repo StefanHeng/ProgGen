@@ -1,0 +1,8 @@
+1. Query: "do you know any casual cafés around here that offer tasting menus"
+Named Entities: [casual (Amenity), café (Cuisine), tasting menus (Amenity)]
+
+2. Query: "what is a good café nearby with a casual atmosphere and a tasting menu"
+Named Entities: [good (Rating), nearby (Location), café (Cuisine), casual (Amenity), tasting menu (Amenity)]
+
+3. Query: "can you recommend a café with a casual vibe and tasting menus"
+Named Entities: [recommend (Rating), café (Cuisine), casual (Amenity), tasting menus (Amenity)]

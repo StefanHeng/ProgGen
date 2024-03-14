@@ -1,0 +1,8 @@
+1. "Can you recommend a Thai restaurant with free parking nearby?"
+Named Entities: [Thai (Cuisine), free parking (Amenity), nearby (Location)]
+
+2. "I'm craving some sushi, where can I find a restaurant with outdoor seating and a high rating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), high rating (Rating)]
+
+3. "I need to grab a quick bite, is there a fast food place with drive-through open after 10 pm?"
+Named Entities: [fast food (Cuisine), drive-through (Amenity), after 10 pm (Hours)]

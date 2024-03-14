@@ -1,0 +1,8 @@
+1. Text Span: "dinner"
+Label: (B). Wrong Boundary. The correct span boundary is "gluten-free dinner".
+
+2. Text Span: "breakfast"
+Label: (A). The span is a named entity of type cuisine
+
+3. Text Span: "brunch"
+Label: (A). The span is a named entity of type cuisine

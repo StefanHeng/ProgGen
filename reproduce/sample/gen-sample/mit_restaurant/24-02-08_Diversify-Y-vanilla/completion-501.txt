@@ -1,0 +1,8 @@
+1. "What are the hours of The Cheesecake Factory in Hong Kong?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), Hong Kong (Location), hours (Hours)]
+
+2. "I'm in the mood for Ukrainian cuisine, can you recommend a restaurant with high ratings?"
+Named Entities: [Ukrainian (Cuisine), high ratings (Rating)]
+
+3. "Where can I find a restaurant with a diverse menu in Hong Kong for a reasonable price?"
+Named Entities: [diverse menu (Amenity), Hong Kong (Location), reasonable price (Price)]

@@ -1,0 +1,11 @@
+1. Query: "what is the viewers' rating for {{X}} movie"
+Text Span: "X"
+Label: (C). Title
+
+2. Query: "What is the plot of {{Schindler's List}}?"
+Text Span: "Schindler's List"
+Label: (A). Title
+
+3. Query: "Can you recommend a movie similar to {{The Lion King}} with a high viewers' rating?"
+Text Span: "The Lion King"
+Label: (A). Title

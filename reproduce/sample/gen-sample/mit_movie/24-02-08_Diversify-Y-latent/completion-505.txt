@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie about corporate corruption?"
+Named Entities: [corporate corruption (Plot)]
+
+2. Query: "Who won the Australian Academy of Cinema and Television Arts award for best actress between 1996 and 2000?"
+Named Entities: [Australian Academy of Cinema and Television Arts winner (Award), best actress (Character), 1996-2000 (Year)]
+
+3. Query: "Are there any good movies from 1996 with a theme of corporate corruption?"
+Named Entities: [1996 (Year), corporate corruption (Plot)]

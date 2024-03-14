@@ -1,0 +1,8 @@
+1. "Do you know any food trucks around serving Mexican cuisine?"
+Named Entities: [food trucks (Amenity), Mexican (Cuisine)]
+
+2. "I'm craving some street food, where can I find a food truck with affordable prices?"
+Named Entities: [street food (Amenity), food truck (Amenity), affordable prices (Price)]
+
+3. "Which food truck in the area has a high customer rating for their dishes?"
+Named Entities: [food truck (Amenity), high customer rating (Rating)]

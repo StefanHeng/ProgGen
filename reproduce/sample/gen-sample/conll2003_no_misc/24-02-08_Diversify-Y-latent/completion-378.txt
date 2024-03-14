@@ -1,0 +1,8 @@
+1. "The Louvre museum in Paris houses a priceless collection of Rembrandt's works."
+Named Entities: [Louvre (location), Rembrandt (person)]
+
+2. "Claude Monet's famous water lilies will be displayed at the National Gallery in London next month."
+Named Entities: [Claude Monet (person), National Gallery (organization), London (location)]
+
+3. "Authorities have confirmed the authenticity of a newly discovered painting by Rembrandt."
+Named Entities: [Rembrandt (person)]

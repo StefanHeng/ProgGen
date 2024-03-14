@@ -1,0 +1,8 @@
+1. "Do you know of any pet-friendly area with Mediterranean cuisine?"
+Named Entities: [pet-friendly area (Amenity), Mediterranean (Cuisine)]
+
+2. "Can you suggest some lunch options within my budget in the downtown area?"
+Named Entities: [Lunch options within my budget (Price), downtown area (Location)]
+
+3. "I'm craving some Mediterranean food, can you recommend a restaurant with outdoor seating?"
+Named Entities: [Mediterranean (Cuisine), outdoor seating (Amenity)]

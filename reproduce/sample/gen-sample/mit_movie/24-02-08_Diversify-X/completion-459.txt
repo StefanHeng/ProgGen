@@ -1,0 +1,8 @@
+Query: "Hey, what's the plot of the new action movie with Tom Cruise?"
+Named Entities: [action (Genre), Tom Cruise (Actor)]
+
+Query: "I heard about a new thriller film, can you tell me the plot?"
+Named Entities: [thriller (Genre)]
+
+Query: "I can't wait to see a romantic comedy this weekend, can you give me a summary of a good one?"
+Named Entities: [romantic comedy (Genre)]

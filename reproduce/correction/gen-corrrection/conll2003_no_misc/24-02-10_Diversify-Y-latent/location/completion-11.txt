@@ -1,0 +1,11 @@
+1. Sentence: "{{New York City}} Mayor announces public transportation improvements"
+Text Span: "New York City"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Dubai}} named host city for 2020 World Expo."
+Text Span: "Dubai"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{Heavy rain}} causes flooding in Los Angeles area."
+Text Span: "Heavy rain"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

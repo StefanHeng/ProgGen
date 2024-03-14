@@ -1,0 +1,8 @@
+Query: "where can I find a restaurant that serves Spaghetti Carbonara"
+Named Entities: [Spaghetti Carbonara (Dish)]
+
+Query: "what are the operating hours for the Italian restaurant that serves Spaghetti Carbonara"
+Named Entities: [Spaghetti Carbonara (Dish), Italian (Cuisine), operating hours (Hours)]
+
+Query: "recommend a high-rated restaurant with Spaghetti Carbonara on the menu"
+Named Entities: [Spaghetti Carbonara (Dish), high-rated (Rating)]

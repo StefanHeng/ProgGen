@@ -1,0 +1,8 @@
+Query: "Which food truck has the best Mexican cuisine in the downtown area?"
+Named Entities: [best (Rating), food truck (Amenity), Mexican cuisine (Cuisine), downtown area (Location)]
+
+Query: "What food trucks are open late at night and serve vegetarian dishes?"
+Named Entities: [open late at night (Hours), food truck (Amenity), vegetarian dishes (Cuisine)]
+
+Query: "I'm craving some BBQ from a food truck with a 4-star rating, can you recommend one nearby?"
+Named Entities: [BBQ (Cuisine), food truck (Amenity), 4-star (Rating), nearby (Location)]

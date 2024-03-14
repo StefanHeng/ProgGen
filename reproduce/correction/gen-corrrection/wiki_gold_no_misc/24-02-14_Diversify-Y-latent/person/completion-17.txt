@@ -1,0 +1,11 @@
+1. Sentence: "After being wounded at the Battle of Gettysburg, General {{John Sedgwick}} took a leave of absence to recover."
+Text Span: "John Sedgwick"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "The founder of {{Louis Vuitton}}, Louis Vuitton himself, was a French fashion designer and businessman who established the iconic brand known for its luxury goods."
+Text Span: "Louis Vuitton"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is organization.
+
+3. Sentence: "{{Dave Thomas}}, the founder of Wendy's, revolutionized the fast-food industry with his emphasis on quality, freshness, and customer satisfaction."
+Text Span: "Dave Thomas"
+Label: (A). The span is a named entity of type person

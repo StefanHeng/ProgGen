@@ -1,0 +1,8 @@
+Query: "Where can I find a restaurant with amazing French cuisine?"
+Named Entities: [amazing (Rating), French cuisine (Cuisine)]
+
+Query: "I'm craving something sweet, can you recommend a place with the best croissants in town?"
+Named Entities: [best croissants (Dish), town (Location)]
+
+Query: "I'm looking for a restaurant with a cozy ambiance and good coffee, maybe The Croissant Corner?"
+Named Entities: [cozy ambiance (Amenity), good coffee (Amenity), The Croissant Corner (Restaurant Name)]

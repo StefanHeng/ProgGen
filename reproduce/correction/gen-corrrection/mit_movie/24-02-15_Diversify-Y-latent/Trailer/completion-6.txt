@@ -1,0 +1,8 @@
+1. Text Span: "trailer"
+   Label: (A). The span is a named entity of type trailer
+
+2. Text Span: "film preview"
+   Label: (B). The span contains a named trailer entity but the span boundary is not precise. The correct span boundary is "preview".
+
+3. Text Span: "catchy"
+   Label: (D). The span is not a named entity

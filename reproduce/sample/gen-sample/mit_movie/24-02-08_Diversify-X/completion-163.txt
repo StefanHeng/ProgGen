@@ -1,0 +1,8 @@
+1. Query: "can I watch any good classic romance movies on Netflix tonight"
+   Named Entities: [classic romance (Genre), Netflix (Streaming platform), tonight (Time)]
+
+2. Query: "are there any comedy movies from the 2000s available on Amazon Prime"
+   Named Entities: [comedy (Genre), 2000s (Year), Amazon Prime (Streaming platform)]
+
+3. Query: "show me some action-packed films with strong female leads that I can stream on Hulu"
+   Named Entities: [action-packed (Genre), female leads (Character), Hulu (Streaming platform)]

@@ -1,0 +1,10 @@
+1. The New York City Subway is the largest rapid transit system in the world by number of stations, with 472 stations.
+Named Entities: [New York City (location)]
+
+2. The Boeing Company, an American multinational corporation, is the largest global aircraft manufacturer by revenue, orders, and deliveries.
+
+Named Entities: [Boeing Company (organization), American (location)]
+
+3. The invention of the wheel revolutionized transportation, allowing for the movement of goods and people over long distances more efficiently than ever before.
+
+Named Entities: [wheel (object)]

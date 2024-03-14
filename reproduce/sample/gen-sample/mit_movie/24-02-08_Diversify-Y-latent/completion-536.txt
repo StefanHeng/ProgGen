@@ -1,0 +1,8 @@
+1. "What movie starring Jake Gyllenhaal has a fair rating and a sensational plot?"
+   Named Entities: [Jake Gyllenhaal (Actor), fair rating (Viewers' Rating), sensational (Plot)]
+
+2. "Could you recommend a movie with a breathtaking theatrical trailer?"
+   Named Entities: [breathtaking (Viewers' Rating), theatrical trailer (Trailer)]
+
+3. "Show me a list of action movies from the 1990s with a fair rating."
+   Named Entities: [action (Genre), 1990s (Year), fair rating (Viewers' Rating)]

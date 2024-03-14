@@ -1,0 +1,8 @@
+1. "What movie is set in a prison and has a high viewers' rating?"
+Named Entities: [prison (Plot), high viewers' rating (Viewers' Rating)]
+
+2. "Which movie features the song 'Lose Yourself' by Eminem?"
+Named Entities: ['Lose Yourself' (Song), Eminem (Artist)]
+
+3. "Can you recommend a recent action movie with a strong female lead?"
+Named Entities: [recent (Year), action (Genre), strong female lead (Character)]

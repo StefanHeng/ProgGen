@@ -1,0 +1,8 @@
+Query: "Is there a restaurant nearby that serves Chicken Alfredo?"
+Named Entities: [Chicken Alfredo (Dish)]
+
+Query: "I'm craving BBQ, can you recommend a place with good ribs?"
+Named Entities: [BBQ (Cuisine), ribs (Dish)]
+
+Query: "I want to have dinner at Red Robin tonight, what time does it close?"
+Named Entities: [Red Robin (Restaurant Name)]

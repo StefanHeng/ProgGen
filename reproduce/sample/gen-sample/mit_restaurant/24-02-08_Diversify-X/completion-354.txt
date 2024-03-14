@@ -1,0 +1,8 @@
+1. "Can you recommend any fine dining restaurants with a Michelin-starred menu?"
+   Named Entities: [fine dining (Amenity), Michelin-starred (Rating)]
+
+2. "I'm craving some authentic Italian cuisine. Is there a high-end Italian restaurant nearby?"
+   Named Entities: [authentic Italian (Cuisine), high-end (Price), Italian (Cuisine)]
+
+3. "What are the operating hours for the upscale French restaurant in the downtown area?"
+   Named Entities: [operating hours (Hours), upscale (Price), French (Cuisine), downtown area (Location)]

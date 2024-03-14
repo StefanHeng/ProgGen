@@ -1,0 +1,8 @@
+1. "I'm craving some delicious risotto for dinner tonight, can you recommend any restaurants that serve it?"
+   Named Entities: [delicious (Rating), risotto (Dish)]
+
+2. "I'm too lazy to cook tonight, can you help me find a restaurant that offers food delivery in this area?"
+   Named Entities: [food delivery (Amenity), this area (Location)]
+
+3. "I need to find a place with tremendous reviews for lunch, any suggestions?"
+   Named Entities: [tremendous (Rating), lunch (Amenity)]

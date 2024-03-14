@@ -1,0 +1,8 @@
+1. Text Span: "business park"
+Label: (D). The span is not a named entity
+
+2. Text Span: "canyons"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "New Orleans"
+Label: (A). The span is a named entity of type location

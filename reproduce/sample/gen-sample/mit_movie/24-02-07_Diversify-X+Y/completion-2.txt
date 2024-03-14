@@ -1,0 +1,8 @@
+1. "I'm looking for some thrilling musical arrangements in a movie. Can you recommend anything with EDM or rock and roll legend in the soundtrack?"
+Named Entities: [thrilling musical arrangements (Song)]
+ 
+2. "I'm in the mood for some captivating theme music. Do you know any movies featuring 'I Wanna Dance with Somebody' or Ska?"
+Named Entities: [captivating theme music (Song), I Wanna Dance with Somebody (Song), Ska (Genre)]
+
+3. "I'm not sure what I'm in the mood for. Can you show me a movie with an awesome EDM soundtrack?"
+Named Entities: [EDM (Song)]

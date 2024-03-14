@@ -1,0 +1,8 @@
+1. "Is there a movie about an environmental disaster directed by Orson Welles?"
+Named Entities: [environmental disaster (Plot), Orson Welles (Director)]
+
+2. "Can I watch a movie teaser for a Todd Phillips film?"
+Named Entities: [teaser (Trailer), Todd Phillips (Director)]
+
+3. "What is the viewers' rating for the movie with the song 'My Heart Will Go On'?"
+Named Entities: [My Heart Will Go On (Song), viewers' rating (Viewers' Rating)]

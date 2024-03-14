@@ -1,0 +1,10 @@
+
+
+Query: "Hey, I'm looking for a vegan restaurant in the [Urban] area, can you recommend one?"
+Named Entities: [vegan (Cuisine), [Urban] (Location)
+
+Query: "I need a reservation for two at a fine dining restaurant with a 5-star rating in the [Urban] area"
+Named Entities: [reservation for two (Amenity), fine dining (Amenity), 5-star (Rating), [Urban] (Location)
+
+Query: "What's the best seafood restaurant near me that's open late?"
+Named Entities: [best (Rating), seafood (Cuisine), near me (Location), open late (Hours)]

@@ -1,0 +1,8 @@
+1. Text Span: "Museum of Modern Art"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Yangon Heritage Trust"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Titanic"
+Label: (C). Wrong Type. The correct entity type is other.

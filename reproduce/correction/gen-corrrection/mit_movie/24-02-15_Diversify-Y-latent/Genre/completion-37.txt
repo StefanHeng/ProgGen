@@ -1,0 +1,8 @@
+1. Text Span: "Dance"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "heavy metal band"
+Label: (C). The span is a named entity but the category is not genre. The correct entity type is Plot.
+
+3. Text Span: "action-packed"
+Label: (A). The span is a named entity of type genre

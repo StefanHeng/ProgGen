@@ -1,0 +1,100 @@
+1. What is the rating for the movie Inception directed by Christopher Nolan
+   Named Entities: [Inception (Title), Christopher Nolan (Director)]
+2. Are there any good western movies from the 1960s
+   Named Entities: [western (Genre), 1960s (Year)]
+3. Show me a trailer for the latest James Bond film
+   Named Entities: [trailer (Trailer), James Bond (Character)]
+4. Who are the main actors in the movie Ocean's Eleven
+   Named Entities: [Ocean's Eleven (Title), actors (Actor)]
+5. Recommend a highly rated horror film from the 1980s
+   Named Entities: [highly rated (Viewers' Rating), horror (Genre), 1980s (Year)]
+6. What is the genre of the film The Godfather
+   Named Entities: [The Godfather (Title)]
+7. Can you play the song "My Heart Will Go On" from the movie Titanic
+   Named Entities: [song "My Heart Will Go On" (Song), Titanic (Title)]
+8. Give me a list of sci-fi movies directed by Ridley Scott
+   Named Entities: [sci-fi (Genre), Ridley Scott (Director)]
+9. What is the plot of the movie Shawshank Redemption
+   Named Entities: [Shawshank Redemption (Title), plot (Plot)]
+10. What's your review of the movie Pulp Fiction
+    Named Entities: [Pulp Fiction (Title), review (Review)]
+11. I want to see a film with strong female characters
+    Named Entities: [strong female characters (Character)]
+12. Who directed Saving Private Ryan and what year was it released
+    Named Entities: [Saving Private Ryan (Title), directed (Director), released (Year)]
+13. Tell me about the movie Avatar, including the director and genre
+    Named Entities: [Avatar (Title), director (Director), genre (Genre)]
+14. Can you show me a scene from The Matrix
+    Named Entities: [scene (Plot), The Matrix (Title)]
+15. Is the movie A Clockwork Orange suitable for teenagers
+    Named Entities: [A Clockwork Orange (Title), suitable (MPAA Rating), teenagers (Character)]
+16. Are there any action movies starring Tom Cruise
+    Named Entities: [action (Genre), Tom Cruise (Actor)]
+17. Name a popular romance movie from the 1990s
+    Named Entities: [popular (Viewers' Rating), romance (Genre), 1990s (Year)]
+18. Can you recommend a good comedy film from the 2000s
+    Named Entities: [good (Viewers' Rating), comedy (Genre), 2000s (Year)]
+19. Who played the lead role in the film Gladiator
+    Named Entities: [Gladiator (Title), lead role (Character)]
+20. How many parts are there in the movie series Harry Potter
+    Named Entities: [Harry Potter (Title)]
+21. Show me a famous film by the director Alfred Hitchcock
+    Named Entities: [Alfred Hitchcock (Director), famous (Review)]
+22. What is the best crime thriller from the 1970s
+    Named Entities: [best (Viewers' Rating), crime thriller (Genre), 1970s (Year)]
+23. What is the MPAA rating for the movie Jaws
+    Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+24. Is the actor Leonardo DiCaprio in the film The Departed
+    Named Entities: [Leonardo DiCaprio (Actor), The Departed (Title)]
+25. Are there any classic films directed by Steven Spielberg
+    Named Entities: [classic (Review), Steven Spielberg (Director)]
+26. What song is featured in the movie The Graduate
+    Named Entities: [song (Song), The Graduate (Title)]
+27. Can you recommend a family-friendly movie from the 1980s
+    Named Entities: [family-friendly (MPAA Rating), 1980s (Year)]
+28. What is the viewers' rating for the film Fight Club
+    Named Entities: [Fight Club (Title), viewers' rating (Viewers' Rating)]
+29. Who is the main antagonist in The Dark Knight
+    Named Entities: [main antagonist (Character), The Dark Knight (Title)]
+30. What's your opinion on the film Schindler's List
+    Named Entities: [Schindler's List (Title), opinion (Review)]
+31. What is the genre of the movie The Shawshank Redemption
+    Named Entities: [The Shawshank Redemption (Title), genre (Genre)]
+32. Can you play the trailer for the latest Fast and Furious movie
+    Named Entities: [trailer (Trailer), Fast and Furious (Title)]
+33. Recommend a thriller directed by David Fincher
+    Named Entities: [thriller (Genre), David Fincher (Director)]
+34. Who are the main characters in The Lord of the Rings trilogy
+    Named Entities: [main characters (Character), The Lord of the Rings (Title)]
+35. Show me a scene from the classic film Casablanca
+    Named Entities: [scene (Plot), classic (Review), Casablanca (Title)]
+36. Is the actor Will Smith in the movie Independence Day
+    Named Entities: [Will Smith (Actor), Independence Day (Title)]
+37. Can you recommend a good science fiction movie from the 2010s
+    Named Entities: [good (Viewers' Rating), science fiction (Genre), 2010s (Year)]
+38. What year was the movie E.T. the Extra-Terrestrial released
+    Named Entities: [E.T. the Extra-Terrestrial (Title), released (Year)]
+39. What is the plot of the movie The Usual Suspects
+    Named Entities: [The Usual Suspects (Title), plot (Plot)]
+40. Who directed the film A Beautiful Mind
+    Named Entities: [A Beautiful Mind (Title), directed (Director)]
+41. Are there any romantic comedy movies starring Jennifer Aniston
+    Named Entities: [romantic comedy (Genre), Jennifer Aniston (Actor)]
+42. Name a famous heist movie from the 2000s
+    Named Entities: [famous (Review), heist (Genre), 2000s (Year)]
+43. Can you show me a scene from the film Goodfellas
+    Named Entities: [scene (Plot), Goodfellas (Title)]
+44. Is the movie Se7en considered a psychological thriller
+    Named Entities: [Se7en (Title), psychological thriller (Genre)]
+45. Who are the main actors in the movie The Matrix
+    Named Entities: [The Matrix (Title), main actors (Actor)]
+46. Recommend a highly rated drama film from the 1990s
+    Named Entities: [highly rated (Viewers' Rating), drama (Genre), 1990s (Year)]
+47. What's your review of the film The Silence of the Lambs
+    Named Entities: [The Silence of the Lambs (Title), review (Review)]
+48. I want to see a movie starring Meryl Streep
+    Named Entities: [starring (Character), Meryl Streep (Actor)]
+49. Who played the lead role in the movie Psycho
+    Named Entities: [Psycho (Title), lead role (Character)]
+50. How many parts are there in the movie series Star Wars
+    Named Entities: [Star Wars (Title)]

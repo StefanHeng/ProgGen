@@ -1,0 +1,8 @@
+Query: "Can you recommend a trendy fine dining restaurant with a low-carb menu in the suburbs?"
+Named Entities: [trendy (Amenity), fine dining (Cuisine), low-carb (Dietary restriction), suburbs (Location)]
+
+Query: "I'm looking for a fine dining restaurant with a trendy atmosphere and a low-carb menu in the suburbs, any recommendations?"
+Named Entities: [trendy (Amenity), fine dining (Cuisine), low-carb (Dietary restriction), suburbs (Location)]
+
+Query: "Where in the suburbs can I find a fine dining restaurant with a trendy ambience and a low-carb menu?"
+Named Entities: [suburbs (Location), trendy (Amenity), fine dining (Cuisine), low-carb (Dietary restriction)]

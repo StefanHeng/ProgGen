@@ -1,0 +1,11 @@
+1. Query: "What is the {{best}} environmental disaster movie of all time?"
+Text Span: "best"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "What is a {{phenomenal}} movie with Jennifer Lawrence as the main character"
+Text Span: "phenomenal"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Is the movie Grease considered a {{classic}}?"
+Text Span: "classic"
+Label: (A). Correct Entity Annotation.

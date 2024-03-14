@@ -1,0 +1,8 @@
+1. Text Span: "Freemason"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "BBC Radio"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Indian"
+Label: (C). Wrong Type. The correct entity type is other.

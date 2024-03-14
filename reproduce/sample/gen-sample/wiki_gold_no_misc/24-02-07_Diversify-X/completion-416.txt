@@ -1,0 +1,8 @@
+Sentence: "The African elephant is the largest living terrestrial animal, with males reaching a height of 10-13 feet and weighing between 10,000 and 13,000 pounds."
+Named Entities: [African elephant (location)]
+
+Sentence: "The International Union for Conservation of Nature has listed the Javan rhinoceros as one of the world's 25 most endangered species."
+Named Entities: [International Union for Conservation of Nature (organization), Javan rhinoceros (location)]
+
+Sentence: "Cetaceans are aquatic mammals that include whales, dolphins, and porpoises."
+Named Entities: [Cetaceans (organization)]

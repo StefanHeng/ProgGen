@@ -1,0 +1,8 @@
+1. Text Span: "Chinese"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Seoul"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Universal City"
+Label: (A). Correct Entity Annotation.

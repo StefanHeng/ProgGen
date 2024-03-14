@@ -1,0 +1,8 @@
+Query: "I'm craving some Pho soup, where can I find the best bowl in town?"
+Named Entities: [Pho soup (Dish), best (Rating), town (Location)]
+
+Query: "I need a restaurant with a cozy ambiance that serves authentic Italian cuisine"
+Named Entities: [cozy ambiance (Amenity), authentic Italian (Cuisine)]
+
+Query: "What's a good seafood place with outdoor seating and a view of the ocean?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), ocean (Location)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a brunch spot with delicious vegetarian options?"
+   Named Entities: [brunch (Amenity), vegetarian (Dietary Restriction)]
+
+2. Query: "What are the top-rated vegetarian brunch places in the city?"
+   Named Entities: [brunch (Amenity), vegetarian (Dietary Restriction)]
+
+3. Query: "I need to find a restaurant that serves vegetarian brunch dishes before 11 am"
+   Named Entities: [brunch (Amenity), vegetarian (Dietary Restriction), before 11 am (Hours)]

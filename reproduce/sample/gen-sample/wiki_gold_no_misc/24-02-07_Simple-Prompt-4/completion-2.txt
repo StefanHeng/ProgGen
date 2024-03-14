@@ -1,0 +1,30 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+2. The company has offices in New York, London, and Tokyo.
+Named Entities: [New York (location), London (location), Tokyo (location)]
+3. In his bestselling book, The Power of Habit, Charles Duhigg explores the science behind why habits exist and how they can be changed.
+Named Entities: [Charles Duhigg (person)]
+4. The United Nations is an intergovernmental organization that aims to maintain international peace and security.
+Named Entities: [United Nations (organization)]
+5. The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers.
+Named Entities: [Great Barrier Reef (location)]
+6. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+7. Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century.
+Named Entities: [Jane Austen (person), British (organization)]
+8. The Louvre or the Louvre Museum is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [The Louvre (organization), Louvre Museum (organization), Paris (location), France (location)]
+9. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+10. In Shakespeare's play, Romeo and Juliet, the two young lovers' tragic fate has made the play famous.
+Named Entities: [Shakespeare (person), Romeo and Juliet (organization)]
+11. Apple Inc. is an American multinational technology company headquartered in Cupertino, California.
+Named Entities: [Apple Inc. (organization), Cupertino (location), California (location)]
+12. The Arctic Circle is one of the two polar circles and the most northerly of the five major circles of latitude.
+Named Entities: [Arctic Circle (location)]
+13. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person), German (organization)]
+14. The Declaration of Independence was adopted by the Second Continental Congress in a meeting at the Pennsylvania State House in 1776.
+Named Entities: [Second Continental Congress (organization), Pennsylvania State House (location)]
+15. The Smithsonian Institution is a group of museums and research centers administered by the United States government.
+Named Entities: [Smithsonian Institution (organization), United States (location)]

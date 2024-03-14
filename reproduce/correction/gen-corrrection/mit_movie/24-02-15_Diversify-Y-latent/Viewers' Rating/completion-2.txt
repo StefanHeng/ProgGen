@@ -1,0 +1,8 @@
+1. Text Span: "compelling"
+   Label: (C). The span is not a named entity. Entity type: other
+
+2. Text Span: "exceptional"
+   Label: (C). The span is not a named entity. Entity type: other
+
+3. Text Span: "phenomenal"
+   Label: (A). The span is a named entity of type viewers' rating

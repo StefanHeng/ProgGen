@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a women's sports movie from 1993?"
+Named Entities: [1993 (Year), Women's (Genre), sports (Genre)]
+   
+2. Query: "Please provide some information about the movie The Matrix that came out in 1973."
+Named Entities: [The Matrix (Title), 1973 (Year)]
+
+3. Query: "Who directed the movie from 1993 that is rated PG-13?"
+Named Entities: [1993 (Year), PG-13 (MPAA Rating)]

@@ -1,0 +1,8 @@
+Query: "what is a solid documentary about the making of the lord of the rings trilogy"
+Named Entities: [lord of the rings (Title), Making-of glimpses (Production video), A solid (Viewers' Rating)]
+
+Query: "is there a sci-fi movie from 1997 with the song i don't want to miss a thing"
+Named Entities: [1997 (Year), i don't want to miss a thing (Song), sci-fi (Genre)]
+
+Query: "show me a thriller film directed by david fincher with brad pitt as the main character"
+Named Entities: [thriller (Genre), david fincher (Director), brad pitt (Actor)]

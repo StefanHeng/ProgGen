@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie Parasite?"
+Named Entities: [Parasite (Title), viewers' rating (Viewers' Rating)]
+
+2. "Is The Usual Suspects considered to be overrated by critics?"
+Named Entities: [The Usual Suspects (Title), overrated (Review)]
+
+3. "Can you recommend a captivating movie directed by John Woo?"
+Named Entities: [captivating (Viewers' Rating), John Woo (Director)]

@@ -1,0 +1,8 @@
+1. Text Span: "Parisians"
+Label: (C). Location
+
+2. Text Span: "Joe Biden"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "President of Iceland"
+Label: (C). Other

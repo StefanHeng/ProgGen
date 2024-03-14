@@ -1,0 +1,149 @@
+1. The Statue of Liberty is a figure of a robed woman representing Libertas, a Roman liberty goddess.
+Named Entities: [Statue of Liberty (location), Libertas (person)]
+
+2. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+3. NASA's Artemis program intends to land "the first woman and the next man" on the Moon by 2024.
+Named Entities: [NASA (organization), Artemis (person)]
+
+4. The Great Barrier Reef is the world's largest coral reef system.
+Named Entities: [Great Barrier Reef (location)]
+
+5. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+6. Albert Einstein developed the theory of relativity.
+Named Entities: [Albert Einstein (person)]
+
+7. The United Nations is an intergovernmental organization.
+Named Entities: [United Nations (organization)]
+
+8. Leonardo da Vinci was an Italian polymath of the Renaissance.
+Named Entities: [Leonardo da Vinci (person), Italian (location), Renaissance (location)]
+
+9. The Amazon rainforest is the world's largest tropical rainforest.
+Named Entities: [Amazon rainforest (location)]
+
+10. Marie Curie was the first woman to win a Nobel Prize.
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+
+11. Mount Everest is the Earth's highest mountain above sea level.
+Named Entities: [Mont Everest (location), Earth (location)]
+
+12. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+13. J.K. Rowling is a British author best known for writing the Harry Potter series.
+Named Entities: [J.K. Rowling (person), British (location), Harry Potter (organization)]
+
+14. The Louvre Museum is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+15. Vincent van Gogh was a Dutch post-impressionist painter.
+Named Entities: [Vincent van Gogh (person), Dutch (location)]
+
+16. The Vatican City is an independent city-state enclaved within Rome, Italy.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+
+17. Jane Goodall is a British primatologist known for her work with chimpanzees.
+Named Entities: [Jane Goodall (person), British (location)]
+
+18. The Great Wall of China is the collective name of a series of fortification systems generally built across the historical northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+
+19. Nelson Mandela was a South African anti-apartheid revolutionary and political leader.
+Named Entities: [Nelson Mandela (person), South African (location)]
+
+20. The White House is the official residence and workplace of the President of the United States.
+Named Entities: [White House (location), President of the United States (organization)]
+
+21. Leningrad was a city in the Russian Soviet Federative Socialist Republic.
+Named Entities: [Leningrad (location), Russian Soviet Federative Socialist Republic (location)]
+
+22. The Taj Mahal is an ivory-white marble mausoleum in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Indian (location), Agra (location)]
+
+23. Mark Zuckerberg is an American technology entrepreneur and philanthropist.
+Named Entities: [Mark Zuckerberg (person), American (location)]
+
+24. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza in Egypt.
+Named Entities: [Great Pyramid of Giza (location), Giza pyramid complex (location), El Giza (location), Egypt (location)]
+
+25. Helen Keller was an American author, political activist, and lecturer.
+Named Entities: [Helen Keller (person), American (location)]
+
+26. The Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru.
+Named Entities: [Machu Picchu (location), Inca (organization), Eastern Cordillera (location), Peru (location)]
+
+27. Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author.
+Named Entities: [Isaac Newton (person), English (location)]
+
+28. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens.
+Named Entities: [Acropolis of Athens (location), Athens (location)]
+
+29. Mother Teresa was an Albanian-Indian Roman Catholic nun and missionary.
+Named Entities: [Mother Teresa (person), Albanian (location), Indian (location), Roman Catholic (organization)]
+
+30. The Sydney Opera House is a multi-venue performing arts center in Sydney, New South Wales, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), New South Wales (location), Australia (location)]
+
+31. Stephen Hawking was an English theoretical physicist, cosmologist, and author.
+Named Entities: [Stephen Hawking (person), English (location)]
+
+32. The Nile is a major north-flowing river in northeastern Africa.
+Named Entities: [Nile (location), Africa (location)]
+
+33. Beethoven was a German composer and pianist.
+Named Entities: [Beethoven (person), German (location)]
+
+34. The Bank of England is the central bank of the United Kingdom.
+Named Entities: [Bank of England (organization), United Kingdom (location)]
+
+35. Anne Frank was a German-born Jewish diarist and writer.
+Named Entities: [Anne Frank (person), German (location), Jewish (organization)]
+
+36. The Forbidden City is a palace complex in Beijing, China.
+Named Entities: [Forbidden City (location), Beijing (location), China (location)]
+
+37. Marie Antoinette was the last Queen of France before the French Revolution.
+Named Entities: [Marie Antoinette (person), France (location), French Revolution (organization)]
+
+38. The Colosseum is an oval amphitheater in the center of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+39. Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist.
+Named Entities: [Nikola Tesla (person), Serbian (location), American (location)]
+
+40. The Great Smoky Mountains National Park is an American national park and a UNESCO World Heritage site.
+Named Entities: [Great Smoky Mountains National Park (location), American (location), UNESCO (organization), World Heritage (organization)]
+
+41. Princess Diana was a member of the British royal family.
+Named Entities: [Princess Diana (person), British (location)]
+
+42. The Colosseum is an oval amphitheater in the center of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+43. Anna Pavlova was a Russian prima ballerina.
+Named Entities: [Anna Pavlova (person), Russian (location)]
+
+44. The Berlin Wall was a guarded concrete barrier that physically divided Berlin from 1961 to 1989.
+Named Entities: [Berlin Wall (location), Berlin (location)]
+
+45. Amelia Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+Named Entities: [Amelia Earhart (person), Atlantic Ocean (location)]
+
+46. St. Peter's Basilica is a church in the Vatican City.
+Named Entities: [St. Peter's Basilica (location), Vatican City (location)]
+
+47. Pocahontas was a Native American woman notable for her association with the colonial settlement at Jamestown, Virginia.
+Named Entities: [Pocahontas (person), Native American (location), Jamestown (location), Virginia (location)]
+
+48. The Guggenheim Museum is a museum in New York City.
+Named Entities: [Guggenheim Museum (organization), New York City (location)]
+
+49. Charles Dickens was an English writer and social critic.
+Named Entities: [Charles Dickens (person), English (location)]
+
+50. The Great Pyramids of Giza are ancient monuments in Egypt.
+Named Entities: [Great Pyramids of Giza (location), Egypt (location)]

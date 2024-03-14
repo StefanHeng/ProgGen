@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a great plot twist? [NR]"
+Named Entities: [great plot twist (Plot)]
+
+2. "I'm looking for a comedy film with Sandra Bullock. Do you have any suggestions? [NR]"
+Named Entities: [comedy (Genre), Sandra Bullock (Actor)]
+
+3. "Show me a trailer for a classic horror movie from the 1970s. [NR]"
+Named Entities: [trailer (Trailer), classic horror (Genre), 1970s (Year)]

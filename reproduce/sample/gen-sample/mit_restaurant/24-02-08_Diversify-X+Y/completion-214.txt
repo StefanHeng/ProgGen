@@ -1,0 +1,8 @@
+1. "I'm craving some Lebanese fast food, where can I find it?"
+Named Entities: [Lebanese (Cuisine), fast food (Amenity)]
+
+2. "Do you know any fast food places near me that serve Mozzarella sticks?"
+Named Entities: [fast food (Amenity), Mozzarella sticks (Dish)]
+
+3. "I'm in the mood for fast food, is there a restaurant nearby that offers Lebanese cuisine?"
+Named Entities: [fast food (Amenity), Lebanese (Cuisine)]

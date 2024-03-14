@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any EDM DJ-related movies from the 90s?"
+   Named Entities: [EDM DJ (Genre), 90s (Year)]
+
+2. Query: "What PG-13 movie from 1993 features an iconic character portrayed by Tom Hanks?"
+   Named Entities: [PG-13 (MPAA Rating), 1993 (Year), Tom Hanks (Actor), iconic character (Character)]
+
+3. Query: "Show me a trailer for a fantasy movie directed by a well-known filmmaker from the 80s."
+   Named Entities: [trailer (Trailer), fantasy (Genre), well-known filmmaker (Director), 80s (Year)]

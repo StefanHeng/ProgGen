@@ -1,0 +1,8 @@
+1. Query: "Which movie received the most awards last year?"
+   Named Entities: [most awards (Awards), last year (Year)]
+
+2. Query: "Can you recommend a movie directed by a woman that has won multiple awards?"
+   Named Entities: [directed by a woman (Director), multiple awards (Awards)]
+
+3. Query: "What is the highest-rated musical film of all time?"
+   Named Entities: [highest-rated (Viewers' Rating), musical (Genre)]

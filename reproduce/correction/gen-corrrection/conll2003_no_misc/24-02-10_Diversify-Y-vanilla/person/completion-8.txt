@@ -1,0 +1,8 @@
+1. Text Span: "Prime Minister of Australia"
+Label: (C). Other
+
+2. Text Span: "Marco Rubio"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Mayor"
+Label: (D). Not a Named Entity

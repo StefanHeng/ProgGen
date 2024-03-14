@@ -1,0 +1,11 @@
+1. Sentence: "The European Union announces new trade agreements with {{China}}."
+Text Span: "China"
+Label: (A).
+
+2. Sentence: "The Prime Minister of {{Japan}} meets with world leaders to discuss economic cooperation."
+Text Span: "Japan"
+Label: (A).
+
+3. Sentence: "The {{South Korean}} government has unveiled a new plan to boost the economy through infrastructure investments."
+Text Span: "South Korean"
+Label: (C), entity type: location

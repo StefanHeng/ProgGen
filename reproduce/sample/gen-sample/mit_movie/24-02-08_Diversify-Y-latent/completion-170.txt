@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any surrealist films from the silent film era that are worth watching"
+Named Entities: [surrealist (Genre), silent film era (Year)]
+
+2. Query: "What type of movie genre is Black Panther considered to be"
+Named Entities: [Black Panther (Title), genre (Genre)]
+
+3. Query: "Is General Grievous in any documentary film about independent cinema"
+Named Entities: [General Grievous (Character), documentary (Genre), independent film (Genre)]

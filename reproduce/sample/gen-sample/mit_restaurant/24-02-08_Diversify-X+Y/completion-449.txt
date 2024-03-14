@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a mid-range buffet restaurant with a gluten-free menu in the area?"
+   Named Entities: [mid-range (Price), buffet (Amenity), gluten-free (Amenity)]
+
+2. Query: "What are the top-rated buffet restaurants with gluten-free options nearby?"
+   Named Entities: [top-rated (Rating), buffet (Amenity), gluten-free (Amenity), nearby (Location)]
+
+3. Query: "I'm looking for a buffet restaurant offering gluten-free options, can you help me find one with good reviews?"
+   Named Entities: [buffet (Amenity), gluten-free (Amenity), good reviews (Rating)]

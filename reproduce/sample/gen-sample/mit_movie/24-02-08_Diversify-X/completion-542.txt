@@ -1,0 +1,8 @@
+Query: "Can you recommend a romantic comedy film with a high viewers' rating?"
+Named Entities: [romantic comedy (Genre), high (Viewers' Rating)]
+
+Query: "I'm looking for a sci-fi movie that was released in the 1980s directed by James Cameron"
+Named Entities: [sci-fi (Genre), 1980s (Year), James Cameron (Director)]
+
+Query: "Show me a classic action movie with a lead role by Arnold Schwarzenegger and a song by Queen"
+Named Entities: [classic action (Genre), Arnold Schwarzenegger (Actor), Queen (Song)]

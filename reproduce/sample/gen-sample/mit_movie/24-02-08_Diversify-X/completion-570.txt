@@ -1,0 +1,8 @@
+Query: "Can you provide me with the director of the making-of documentary for the movie Inception?"
+Named Entities: [making-of documentary (Genre), Inception (Title)]
+
+Query: "I'm interested in the cinematographer for the behind-the-scenes footage of the film Avatar, can you assist me with that?"
+Named Entities: [cinematographer (Job Title), behind-the-scenes footage (Plot), Avatar (Title)]
+
+Query: "Which production company was responsible for creating the behind-the-scenes featurette for the movie Gravity?"
+Named Entities: [production company (Job Title), behind-the-scenes featurette (Plot), Gravity (Title)]

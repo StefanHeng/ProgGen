@@ -1,0 +1,8 @@
+1. Text Span: "COVID-19"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+2. Text Span: "The Steppes"
+Label: (A). The span is a named entity of type location.
+
+3. Text Span: "The Australian Outback"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,11 @@
+1. Sentence: "{{Berlin}} reports a surge in tourism after the easing of travel restrictions in Europe."
+Text Span: "Berlin"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "New Harry Potter theme park opens in Orlando, {{Florida}} featuring attractions based on J.K. Rowling's books."
+Text Span: "Florida"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{Rio de Janeiro}} to host international film festival next month."
+Text Span: "Rio de Janeiro"
+Label: (A). The span is a named entity of type location

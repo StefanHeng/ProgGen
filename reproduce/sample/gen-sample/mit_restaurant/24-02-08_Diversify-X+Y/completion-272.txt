@@ -1,0 +1,8 @@
+1. "I'm craving some fast food for dinner, where can I get a good burger for takeout?"
+Named Entities: [fast food (Cuisine), dinner (Hours), takeout (Amenity)]
+
+2. "Can you recommend a fast food restaurant near me that offers dinner service and has a drive-thru?"
+Named Entities: [fast food (Cuisine), dinner (Hours), drive-thru (Amenity)]
+
+3. "I need a place for takeout dinner service with fast food options, where should I go?"
+Named Entities: [takeout (Amenity), dinner (Hours), fast food (Cuisine)]

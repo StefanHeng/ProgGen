@@ -1,0 +1,8 @@
+1. "Could you recommend an engaging black comedy film directed by Rob Reiner and starring Anne Bancroft?"
+Named Entities: [engaging (Viewers' Rating), black comedy (Genre), Rob Reiner (Director), Anne Bancroft (Actor)]
+
+2. "Show me a trailer of the new horror movie set in a haunted house."
+Named Entities: [trailer (Trailer), haunted house (Setting)]
+
+3. "What movies featuring ghosts were released in the 1990s?"
+Named Entities: [ghosts (Character), 1990s (Year)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant on the west side with a great lunch menu"
+Named Entities: [west side (Location), lunch (Amenity)]
+
+Query: "Where can I find some good Mexican food for lunch around the west side"
+Named Entities: [Mexican (Cuisine), lunch (Amenity), west side (Location)]
+
+Query: "What's the best place for a quick lunch on the west side"
+Named Entities: [quick (Amenity), lunch (Amenity), west side (Location)]

@@ -1,0 +1,8 @@
+1. Query: "Is Schindler's List a movie from the 1992-1998 era?"
+   Named Entities: [Schindler's List (Title), 1992-1998 (Year)]
+
+2. Query: "Who directed the movie starring Channing Tatum as the lead actor?"
+   Named Entities: [Channing Tatum (Actor)]
+
+3. Query: "Can you recommend a horror film by John Carpenter?"
+   Named Entities: [John Carpenter (Director), horror (Genre)]

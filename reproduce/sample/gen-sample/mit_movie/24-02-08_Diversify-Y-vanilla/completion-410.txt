@@ -1,0 +1,8 @@
+Query: "Can I watch the official trailer of the new horror movie directed by Clint Eastwood"
+Named Entities: [official trailer (Trailer), horror (Genre), Clint Eastwood (Director)]
+
+Query: "What is the viewers' rating for the international trailer of the movie starring Emma Stone"
+Named Entities: [viewers' rating (Viewers' Rating), international trailer (Trailer), Emma Stone (Actor)]
+
+Query: "Are there any historical films from the 1990s that are considered a must-see"
+Named Entities: [historical (Genre), 1990s (Year), must-see (Viewers' Rating)]

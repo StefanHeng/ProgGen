@@ -1,0 +1,8 @@
+1. Text Span: "orangutans"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+2. Text Span: "India"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Perseverance"
+Label: (C). The span is a named entity but the category is not location. Entity type: other

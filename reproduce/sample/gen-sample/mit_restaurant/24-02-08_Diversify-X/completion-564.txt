@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a breakfast spot with vegan options?"
+Named Entities: [breakfast (Amenity), vegan (Cuisine)]
+
+2. Query: "What are some brunch places with outdoor seating?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+3. Query: "I'm looking for a coffee shop with early morning hours, maybe a bakery too."
+Named Entities: [early morning hours (Hours), coffee shop (Amenity), bakery (Amenity)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a food truck listed in the Michelin Guide?"
+Named Entities: [food truck (Amenity), Michelin Guide (Rating)]
+
+Query: "find me a Michelin Guide recommended upscale food truck nearby"
+Named Entities: [upscale (Price), food truck (Amenity), Michelin Guide (Rating)]
+
+Query: "which food truck in the Michelin Guide has upscale dining options?"
+Named Entities: [food truck (Amenity), Michelin Guide (Rating), upscale (Price)]

@@ -1,0 +1,149 @@
+1. Can you recommend any nearby Italian restaurants?
+Named Entities: [Italian (Cuisine), nearby (Location)]
+
+2. What's the best place for sushi in the area?
+Named Entities: [sushi (Cuisine), area (Location)]
+
+3. Where can I find a restaurant with outdoor seating?
+Named Entities: [outdoor seating (Amenity)]
+
+4. I want to try some authentic Mexican food, where should I go?
+Named Entities: [authentic (Rating), Mexican (Cuisine)]
+
+5. Are there any 24-hour diners in the vicinity?
+Named Entities: [24-hour (Hours), diners (Amenity), vicinity (Location)]
+
+6. Can you suggest a good seafood restaurant with a view of the ocean?
+Named Entities: [seafood (Cuisine), view of the ocean (Amenity)]
+
+7. What's the cheapest place to grab a quick bite?
+Named Entities: [cheapest (Price), quick bite (Amenity)]
+
+8. Which restaurant has the best happy hour deals?
+Named Entities: [best (Rating), happy hour (Amenity)]
+
+9. I need a reservation for 3 at the French bistro downtown.
+Named Entities: [reservation (Amenity), 3 (Quantity), French bistro (Restaurant Name), downtown (Location)]
+
+10. Is there a restaurant nearby that serves vegan options?
+Named Entities: [vegan options (Cuisine), nearby (Location)]
+
+11. Do you know any steakhouses that are open late?
+Named Entities: [steakhouses (Cuisine), open late (Hours)]
+
+12. I'm craving some Korean BBQ, where's the best place to go?
+Named Entities: [craving (Amenity), Korean BBQ (Cuisine), best (Rating)]
+
+13. What are your thoughts on the new Thai place that opened last week?
+Named Entities: [new (Amenity), Thai (Cuisine), last week (Hours)]
+
+14. I want to take my date to a romantic Italian restaurant. Any recommendations?
+Named Entities: [romantic (Amenity), Italian (Cuisine)]
+
+15. Can you find a family-friendly diner with affordable prices?
+Named Entities: [family-friendly (Amenity), diner (Amenity), affordable prices (Price)]
+
+16. I'm looking for a place to have brunch this weekend. Suggestions?
+Named Entities: [brunch (Amenity), weekend (Hours)]
+
+17. Where can I get a good burger in this area?
+Named Entities: [good (Rating), burger (Dish), area (Location)]
+
+18. Any recommendations for a trendy new sushi spot in town?
+Named Entities: [trendy (Amenity), new (Amenity), sushi (Cuisine), town (Location)]
+
+19. What's the best place to get a classic American breakfast?
+Named Entities: [best (Rating), classic American (Cuisine), breakfast (Amenity)]
+
+20. Are there any upscale restaurants with a prix fixe menu?
+Named Entities: [upscale (Price), prix fixe menu (Amenity)]
+
+21. Can you book a table for 5 at that Italian place we went to last month?
+Named Entities: [book a table (Amenity), 5 (Quantity), Italian (Cuisine), last month (Hours)]
+
+22. I need a bar with craft cocktails and live music. Any suggestions?
+Named Entities: [bar (Amenity), craft cocktails (Amenity), live music (Amenity)]
+
+23. Where can I find a casual diner with a kids' menu?
+Named Entities: [casual (Amenity), kids' menu (Amenity)]
+
+24. I'm in the mood for some pizza, where's the best place to get it?
+Named Entities: [mood (Amenity), pizza (Cuisine), best (Rating)]
+
+25. Can you recommend a place for a business lunch that won't break the bank?
+Named Entities: [business lunch (Amenity), won't break the bank (Price)]
+
+26. I'm looking for a Chinese restaurant that's open on Sundays.
+Named Entities: [Chinese (Cuisine), open on Sundays (Hours)]
+
+27. What's the closest place for a quick breakfast on the go?
+Named Entities: [closest (Location), quick breakfast (Amenity)]
+
+28. Do you know if there's a Greek restaurant with outdoor seating nearby?
+Named Entities: [Greek (Cuisine), outdoor seating (Amenity), nearby (Location)]
+
+29. Any recommendations for a romantic dinner spot with a view of the city?
+Named Entities: [romantic (Amenity), dinner spot (Amenity), view of the city (Amenity)]
+
+30. I want to try the best ramen in town, where should I go?
+Named Entities: [best (Rating), ramen (Dish), town (Location)]
+
+31. Can you find a restaurant that serves both sushi and Korean BBQ?
+Named Entities: [sushi (Cuisine), Korean BBQ (Cuisine)]
+
+32. I need a reservation for 8 at the steakhouse by the waterfront.
+Named Entities: [reservation (Amenity), 8 (Quantity), steakhouse (Cuisine), waterfront (Location)]
+
+33. Where's the best place to get a late-night snack in the area?
+Named Entities: [best (Rating), late-night (Hours), snack (Amenity), area (Location)]
+
+34. Can you recommend a popular brunch spot with bottomless mimosas?
+Named Entities: [popular (Rating), brunch (Amenity), bottomless mimosas (Amenity)]
+
+35. I'm craving some Mexican street food, where should I go?
+Named Entities: [craving (Amenity), Mexican street food (Cuisine)]
+
+36. What's the most authentic Italian restaurant in the city?
+Named Entities: [most authentic (Rating), Italian (Cuisine), city (Location)]
+
+37. Are there any French cafes with outdoor seating in this neighborhood?
+Named Entities: [French (Cuisine), cafes (Amenity), outdoor seating (Amenity), neighborhood (Location)]
+
+38. Which Italian place has the best pasta in town?
+Named Entities: [Italian (Cuisine), best (Rating), pasta (Dish), town (Location)]
+
+39. Do you know a good spot for dim sum with a large group?
+Named Entities: [good (Rating), dim sum (Cuisine), large group (Quantity)]
+
+40. Can you make a reservation for 4 at the seafood restaurant on Main Street?
+Named Entities: [reservation (Amenity), 4 (Quantity), seafood restaurant (Cuisine), Main Street (Location)]
+
+41. I heard there's a new Indian restaurant with a lunch buffet. Is that true?
+Named Entities: [new (Amenity), Indian (Cuisine), lunch buffet (Amenity)]
+
+42. I'm looking for a place that serves vegetarian-friendly options, any suggestions?
+Named Entities: [vegetarian-friendly (Cuisine), suggestions (Amenity)]
+
+43. What's the best place for a pre-theater dinner in the area?
+Named Entities: [best (Rating), pre-theater dinner (Amenity), area (Location)]
+
+44. Can you find a French bakery with fresh pastries and good coffee?
+Named Entities: [French (Cuisine), bakery (Amenity), fresh pastries (Amenity), good coffee (Amenity)]
+
+45. I'm craving some comfort food, where's the best place for that?
+Named Entities: [craving (Amenity), comfort food (Cuisine), best (Rating)]
+
+46. What's the fanciest restaurant with a tasting menu in the city?
+Named Entities: [fanciest (Rating), tasting menu (Amenity), city (Location)]
+
+47. Can you recommend a casual Mexican restaurant with outdoor seating?
+Named Entities: [casual (Amenity), Mexican (Cuisine), outdoor seating (Amenity)]
+
+48. Is there a pizza place that offers gluten-free crust?
+Named Entities: [pizza place (Cuisine), gluten-free (Amenity), crust (Dish)]
+
+49. Can you find a Thai place with a good lunch special?
+Named Entities: [Thai (Cuisine), good (Rating), lunch special (Amenity)]
+
+50. I'm looking for a vegan-friendly cafe with free WiFi. Any suggestions?
+Named Entities: [vegan-friendly (Cuisine), cafe (Amenity), free WiFi (Amenity), suggestions (Amenity)

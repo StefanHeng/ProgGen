@@ -1,0 +1,8 @@
+Sentence: "Culinary art is the art of the preparation, cooking, and presentation of food, usually in the form of meals."
+Named Entities: []
+
+Sentence: "Italian cuisine has developed through centuries of social and political changes, with roots stretching to antiquity."
+Named Entities: [Italian cuisine (organization)]
+
+Sentence: "The spread of cultivation and livestock breeding across the world has influenced cuisine." 
+Named Entities: [world (location)]

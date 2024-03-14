@@ -1,0 +1,8 @@
+1. "What are some AAA Diamond Rated restaurants in the area?"
+Named Entities: [AAA Diamond Rating (Rating), area (Location)]
+
+2. "I'm craving a burger, can you recommend any Red Robin locations nearby?"
+Named Entities: [burger (Dish), Red Robin (Restaurant Name), nearby (Location)]
+
+3. "Where can I find the best croissants in town?"
+Named Entities: [best (Rating), croissants (Dish), town (Location)]

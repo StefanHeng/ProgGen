@@ -1,0 +1,8 @@
+1. "Do you know of any Spanish restaurants that serve brunch on Wednesday morning?"
+Named Entities: [Spanish (Cuisine), Wednesday morning (Hours)]
+
+2. "I'm looking for a brunch spot with Spanish cuisine for this Wednesday morning, can you recommend any?"
+Named Entities: [brunch (Amenity), Spanish (Cuisine), Wednesday morning (Hours)]
+
+3. "Where can I find a Spanish brunch place open on Wednesday morning?"
+Named Entities: [Spanish (Cuisine), brunch (Amenity), Wednesday morning (Hours)]

@@ -1,0 +1,8 @@
+Query: "what year did the movie Cinderella come out"
+Named Entities: [Cinderella (Title)]
+
+Query: "is Maleficent considered an intense and gripping film"
+Named Entities: [Maleficent (Title), Intense and gripping (Review)]
+
+Query: "show me a preview of the movie 2010-2015"
+Named Entities: [2010-2015 (Title), Preview (Trailer)]

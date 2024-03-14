@@ -1,0 +1,8 @@
+1. "Can you recommend any vegetarian-friendly restaurants with a good fruit display?"
+Named Entities: [vegetarian-friendly (Amenity), fruit display (Amenity)]
+
+2. "I'm craving some fruit display, can you suggest a restaurant nearby?"
+Named Entities: [fruit display (Amenity)]
+
+3. "Do you know of any vegetarian restaurants with high ratings in this area?"
+Named Entities: [vegetarian (Cuisine), high ratings (Rating)]

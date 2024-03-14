@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie with a {{phenomenal ensemble}} cast, like Ocean's Eleven?"
+Text Span: "phenomenal ensemble"
+Label: (A). Named Entity of type Review
+
+2. Query: "Can you recommend a movie with a {{powerful music score}} similar to that of Lady Gaga's A Star is Born?"
+Text Span: "powerful music score"
+Label: (A). Named Entity of type Review
+
+3. Query: "Can you recommend a {{compelling}} movie from 1975?"
+Text Span: "compelling"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

@@ -1,0 +1,8 @@
+1. Text Span: "authentic Italian pizza"
+Label: (B). Wrong Boundary. The correct span boundary is "authentic Italian".
+
+2. Text Span: "authentic Dominican"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Chinese"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Text Span: "dim sum"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "breakfast"
+Label: (C). The span is a named entity but the category is not dish. The correct entity type is Hours.
+
+3. Text Span: "breakfast bite"
+Label: (B). The span contains a named dish entity but the span boundary is not precise. The correct span boundary is "breakfast bite".

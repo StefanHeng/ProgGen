@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a cyberpunk movie that has {{Exceeded expectations}}?"
+Text Span: "Exceeded expectations"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "Please recommend a superhero movie with {{mind-blowing visuals}}"
+Text Span: "mind-blowing visuals"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "recommend a {{mesmerizing}} and intense science fiction movie with supernatural forces"
+Text Span: "mesmerizing"
+Label: (A). The span is a named entity of type Review

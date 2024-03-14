@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with handicap accessibility for dinner tonight?"
+Named Entities: [Handicap accessibility (Amenity), dinner tonight (Hours)]
+
+Query: "I'm looking for a restaurant with a diverse menu, preferably in the mid-range price, such as Le Coucou."
+Named Entities: [diverse menu (Amenity), mid-range price (Price), Le Coucou (Restaurant Name)]
+
+Query: "Which restaurants near me offer vegetarian cuisine, preferably with a rating of 4 stars or higher?"
+Named Entities: [vegetarian cuisine (Cuisine), rating of 4 stars or higher (Rating)]

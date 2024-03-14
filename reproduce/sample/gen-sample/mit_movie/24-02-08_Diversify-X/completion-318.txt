@@ -1,0 +1,8 @@
+Query: "What are some good horror movies with a supernatural plot?"
+Named Entities: [horror (Genre), supernatural (Plot)]
+
+Query: "Can you recommend any action-packed spy movies from the 2000s?"
+Named Entities: [action-packed (Genre), spy (Plot), 2000s (Year)]
+
+Query: "Who directed the classic comedy film about a dysfunctional family?"
+Named Entities: [classic comedy (Genre), dysfunctional family (Plot)]

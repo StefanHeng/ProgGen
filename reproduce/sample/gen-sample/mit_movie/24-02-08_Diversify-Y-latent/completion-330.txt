@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a character named Simba?"
+Named Entities: [Simba (Character)]
+
+2. Query: "Are there any movies from the year 1811 that are worth watching?"
+Named Entities: [1811 (Year)]
+
+3. Query: "Is there a movie featuring the song Let It Go that has received high viewers' ratings?"
+Named Entities: [Let It Go (Song), high viewers' ratings (Viewers' Rating)]

@@ -1,0 +1,11 @@
+1. Sentence: "{{NATO}}, or the North Atlantic Treaty Organization, is an intergovernmental military alliance between 30 North American and European countries."
+Text Span: "NATO"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The history of {{Western philosophy}} is generally divided into three periods: ancient, medieval, and modern."
+Text Span: "Western philosophy"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "In 2008, the Indian Space Research Organisation successfully launched its first lunar mission, {{Chandrayaan-1}}, marking a significant milestone in the country's space exploration efforts."
+Text Span: "Chandrayaan-1"
+Label: (A). The span is a named entity of type organization

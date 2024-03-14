@@ -1,0 +1,8 @@
+Query: "Yo, does Brie Larson have any new movies on streaming? I need that exclusive look, you know what I'm saying?"
+Named Entities: [Brie Larson (Actor), Exclusive look (Trailer)]
+
+Query: "I'm chilling at home tonight, can you find me an awful horror movie to stream? Something with killer suspense."
+Named Entities: [awful (Viewers' Rating), horror (Genre), killer suspense (Plot)]
+
+Query: "Hey, are there any Brie Larson flicks available for streaming? I need a movie to watch while I'm chilling this weekend."
+Named Entities: [Brie Larson (Actor), chilling (Viewers' Rating)]

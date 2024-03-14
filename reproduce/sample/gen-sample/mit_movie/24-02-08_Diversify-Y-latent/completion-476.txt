@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie with the song Uptown Funk in it"
+   Named Entities: [Uptown Funk (Song)]
+
+2. Query: "I'm looking for a film featuring an archaeologist adventurer in the lead role"
+   Named Entities: [archaeologist adventurer (Character)]
+
+3. Query: "what is the best movie directed by steven spielberg with a sci-fi theme"
+   Named Entities: [steven spielberg (Director), sci-fi (Genre)]

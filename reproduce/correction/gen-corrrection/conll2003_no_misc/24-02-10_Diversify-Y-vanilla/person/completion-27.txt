@@ -1,0 +1,8 @@
+1. Text Span: "CEO"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Queen Elizabeth II"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Jay-Z"
+Label: (A). The span is a named entity of type person

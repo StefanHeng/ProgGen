@@ -1,0 +1,8 @@
+1. "Can you play an independent film with the song 'Lose Yourself' by Eminem?"
+Named Entities: [independent film (Genre), Lose Yourself (Song), Eminem (Artist)]
+
+2. "Show me an extended trailer for the movie 'Inception' directed by Christopher Nolan."
+Named Entities: [extended trailer (Trailer), Inception (Title), Christopher Nolan (Director)]
+
+3. "Could you provide an excerpt from the film 'The Social Network' released in 2010?"
+Named Entities: [excerpt (Trailer), The Social Network (Title), 2010 (Year)]

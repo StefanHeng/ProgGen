@@ -1,0 +1,8 @@
+1. Text Span: "domestic"
+Label: (C). The span is not a named entity. 
+
+2. Text Span: "seafood"
+Label: (A). The span is a named entity of type cuisine.
+
+3. Text Span: "sushi"
+Label: (A). The span is a named entity of type cuisine.

@@ -1,0 +1,11 @@
+1. Query: "Are there any {{classic}} films directed by Steven Spielberg"
+Text Span: "classic"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Query: "how was the {{reception}} of the matrix reloaded movie"
+Text Span: "reception"
+Label: (A). The span is a named entity of type review.
+
+3. Query: "Is The Godfather a {{classic}}?"
+Text Span: "classic"
+Label: (A). The span is a named entity of type review.

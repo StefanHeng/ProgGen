@@ -1,0 +1,8 @@
+Sentence: "Meteorologist Emily Rodriguez predicts a high chance of thunderstorms tonight."
+Named Entities: [Emily Rodriguez (person), Earth Networks (organization)]
+
+Sentence: "According to Earth Networks, a cold front will bring a drastic drop in temperature next week."
+Named Entities: [Earth Networks (organization)]
+
+Sentence: "Following the forecast from meteorologist Emily Rodriguez, a heatwave is expected to hit the East Coast this weekend."
+Named Entities: [Emily Rodriguez (person)]

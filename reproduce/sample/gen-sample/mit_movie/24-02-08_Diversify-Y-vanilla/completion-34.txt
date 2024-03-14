@@ -1,0 +1,8 @@
+Query: "what are some of the best World War II movies with a high viewers' rating"
+Named Entities: [World War II (Genre), high (Viewers' Rating)]
+
+Query: "who played the lead character in the World War I movie Paths of Glory"
+Named Entities: [World War I (Genre), Paths of Glory (Title)]
+
+Query: "show me the trailer for the World War II film Saving Private Ryan"
+Named Entities: [trailer (Trailer), World War II (Genre), Saving Private Ryan (Title)]

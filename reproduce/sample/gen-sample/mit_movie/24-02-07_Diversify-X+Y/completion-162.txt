@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a great dance soundtrack from the mid 2000s?"
+   Named Entities: [dance (Genre), mid 2000s (Year), soundtrack (Song)]
+
+2. "I'm looking for a PG-13 movie with a musical theme, perhaps something like School of Rock."
+   Named Entities: [PG-13 (MPAA Rating), School of Rock (Title)]
+
+3. "Could you show me a movie with a catchy song, similar to the style of School of Rock?"
+   Named Entities: [catchy song (Song), School of Rock (Title)]

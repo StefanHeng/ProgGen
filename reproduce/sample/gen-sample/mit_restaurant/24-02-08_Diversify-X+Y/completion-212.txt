@@ -1,0 +1,8 @@
+1. "Where can I grab a croissant for breakfast at a local fast-casual spot?"
+Named Entities: [croissant (Dish), local (Location), breakfast (Amenity), fast-casual (Amenity)]
+
+2. "I'm craving a breakfast burrito from a fast-casual restaurant, can you recommend one?"
+Named Entities: [breakfast burrito (Dish), fast-casual (Amenity)]
+
+3. "Find me a local fast-casual restaurant with a variety of breakfast options, like pancakes and omelettes."
+Named Entities: [pancakes (Dish), omelettes (Dish), local (Location), breakfast (Amenity), fast-casual (Amenity)]

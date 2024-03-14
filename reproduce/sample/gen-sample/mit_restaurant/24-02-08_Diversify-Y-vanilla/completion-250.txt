@@ -1,0 +1,8 @@
+1. "Is there a promotional deal for pizza delivery near me?"
+Named Entities: [promotional deal (Amenity), pizza (Cuisine), near me (Location)]
+
+2. "I'm craving some Chicken Katsu, where can I find a good place to eat it?"
+Named Entities: [Chicken Katsu (Dish)]
+
+3. "What's the rating of the Italian restaurant downtown?"
+Named Entities: [Italian restaurant (Cuisine), downtown (Location)]

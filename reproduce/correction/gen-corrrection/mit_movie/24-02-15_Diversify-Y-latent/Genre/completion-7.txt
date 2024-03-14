@@ -1,0 +1,8 @@
+1. Text Span: "environmental activism"
+   Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "Superhero"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "feel-good"
+   Label: (A). Correct Entity Annotation.

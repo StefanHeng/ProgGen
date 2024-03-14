@@ -1,0 +1,11 @@
+1. Sentence: "Researchers from the World Wildlife Fund discover a new species of {{frog}} in the Amazon rainforest."
+Text Span: "frog"
+Label: (D)
+
+2. Sentence: "Local {{firefighter}} rescues kitten from burning building."
+Text Span: "firefighter"
+Label: (A)
+
+3. Sentence: "Local {{musician}} serenades travelers at airport during holiday season."
+Text Span: "musician"
+Label: (A)

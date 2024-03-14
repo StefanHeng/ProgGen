@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with a budget-friendly price range and bottomless mimosas?"
+Named Entities: [buffet (Amenity), budget-friendly (Price), bottomless mimosas (Amenity)]
+
+2. "Where can I find a place for brunch that offers bottomless mimosas and a budget-friendly buffet?"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity), budget-friendly (Price), buffet (Amenity)]
+
+3. "I'm looking for a restaurant with a buffet and bottomless mimosas that won't break the bank. Do you have any suggestions?"
+Named Entities: [buffet (Amenity), bottomless mimosas (Amenity), budget-friendly (Price)]

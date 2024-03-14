@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a song that features a jungle theme?"
+Named Entities: [jungle (Genre)]
+
+2. "Is there a movie where Jules Winnfield plays a central character?"
+Named Entities: [Jules Winnfield (Character)]
+
+3. "I'm interested in watching a historical war drama, can you suggest one from the 1950s?"
+Named Entities: [historical war drama (Genre), 1950s (Year)]

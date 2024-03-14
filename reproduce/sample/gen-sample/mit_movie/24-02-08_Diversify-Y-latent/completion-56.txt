@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with captivating chemistry between the main characters"
+Named Entities: [captivating chemistry (Review)]
+
+Query: "did Dolly Parton star in any movies released in 1978"
+Named Entities: [Dolly Parton (Actor), 1978 (Year)]
+
+Query: "who was the director of the movie Singin' in the Rain"
+Named Entities: [Singin' in the Rain (Title), Director (Director)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the movie featuring the song My Sharona?"
+   Named Entities: [My Sharona (Song)]
+
+2. "What is the plot of the movie Mulan?"
+   Named Entities: [Mulan (Title)]
+
+3. "Could you give me a synopsis for the movie with the letter 'E' as its title?"
+   Named Entities: [E (Title)]

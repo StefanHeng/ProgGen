@@ -1,0 +1,11 @@
+1. Query: "I'm craving fast food, where can I find a {{high-end}} burger joint?"
+Text Span: "high-end"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+2. Query: "I'm looking for an {{upscale}} food truck with a diverse menu, where can I find one?"
+Text Span: "upscale"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+3. Query: "where can I have a {{hearty}} paleo lunch in a quaint and charming setting"
+Text Span: "hearty"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Dish.

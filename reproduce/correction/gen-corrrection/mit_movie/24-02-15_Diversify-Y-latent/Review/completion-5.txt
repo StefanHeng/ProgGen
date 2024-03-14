@@ -1,0 +1,11 @@
+1. Query: "What movie has the most {{cinematic}} visual effects of all time?"
+Text Span: "cinematic"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "I heard Viola Davis gave {{Lackluster performances}} in a movie in 2002. Can you tell me which one?"
+Text Span: "Lackluster performances"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "is Maleficent considered an {{Intense and gripping}} film"
+Text Span: "Intense and gripping"
+Label: (A). The span is a named entity of type Review

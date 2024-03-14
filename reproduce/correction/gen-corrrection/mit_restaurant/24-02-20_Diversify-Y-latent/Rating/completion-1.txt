@@ -1,0 +1,8 @@
+1. Text Span: "authentic"
+   Label: (C). The span is not a named entity. Entity type: Cuisine
+
+2. Text Span: "best"
+   Label: (A). The span is a named entity of type rating
+
+3. Text Span: "high rating"
+   Label: (B). The correct span boundary is "high rating"

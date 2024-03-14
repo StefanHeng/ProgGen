@@ -1,0 +1,8 @@
+1. "What are the best vegetarian dishes at [Five Guys]?"
+Named Entities: [Five Guys (Restaurant Name), vegetarian dishes (Dish)]
+
+2. "I'm looking for a restaurant with outdoor seating and a view of the ocean."
+Named Entities: [outdoor seating (Amenity), view of the ocean (Location)]
+
+3. "I need to find a sushi place that's open past midnight."
+Named Entities: [sushi (Cuisine), past midnight (Hours)]

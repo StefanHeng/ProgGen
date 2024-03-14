@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for The Notebook?"
+Named Entities: [The Notebook (Title), trailer (Trailer)]
+
+2. Query: "What is the viewers' rating for Born to Run?"
+Named Entities: [Born to Run (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "Which movie did Clint Eastwood direct that was released in 1982?"
+Named Entities: [Clint Eastwood (Director), 1982 (Year)]

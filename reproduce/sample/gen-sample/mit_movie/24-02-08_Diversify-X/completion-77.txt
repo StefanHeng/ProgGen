@@ -1,0 +1,8 @@
+1. Query: "What is the title of the movie featuring the song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+2. Query: "Can you tell me the name of a movie with a great soundtrack?"
+Named Entities: [great soundtrack (Review)]
+
+3. Query: "Do you have any information on a movie with a famous song by Elvis Presley?"
+Named Entities: [famous song by Elvis Presley (Song)]

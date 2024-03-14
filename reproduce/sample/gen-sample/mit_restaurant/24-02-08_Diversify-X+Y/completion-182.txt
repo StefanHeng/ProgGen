@@ -1,0 +1,8 @@
+1. "Is there a restaurant nearby that offers a buffet option for vegetarians?"
+Named Entities: [buffet (Amenity), Vegetarian (Amenity)]
+
+2. "I'm looking for a place with a diverse buffet menu including vegetarian options"
+Named Entities: [diverse (Cuisine), buffet (Amenity), Vegetarian (Amenity)]
+
+3. "Can you recommend a restaurant with a good buffet and vegetarian choices?"
+Named Entities: [buffet (Amenity), Vegetarian (Amenity)]

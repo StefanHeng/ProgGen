@@ -1,0 +1,8 @@
+1. Text Span: "Gyeonggi"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Sagrada Família"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Text Span: "Tucson"
+Label: (A). The span is a named entity of type location

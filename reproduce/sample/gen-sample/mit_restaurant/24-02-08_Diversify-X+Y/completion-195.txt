@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with a wheelchair-accessible entrance and a mid-range price range?"
+Named Entities: [café (Cuisine), wheelchair-accessible entrance (Amenity), mid-range (Price)]
+
+Query: "Where can I find a wheelchair-accessible café with mid-range prices?"
+Named Entities: [wheelchair-accessible entrance (Amenity), café (Cuisine), mid-range (Price)]
+
+Query: "I'm looking for a café with a mid-range price range and a wheelchair-accessible entrance, any suggestions?"
+Named Entities: [café (Cuisine), mid-range (Price), wheelchair-accessible entrance (Amenity)]

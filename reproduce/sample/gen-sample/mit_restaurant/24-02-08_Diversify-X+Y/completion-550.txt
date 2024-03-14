@@ -1,0 +1,8 @@
+1. "Can you recommend an impressive seafood restaurant for late-night dining that caters to pescatarians?"
+   Named Entities: [impressive (Rating), seafood (Cuisine), late-night dining (Hours), pescatarians (Amenity)]
+
+2. "I'm looking for an impressive sushi place that's open late and offers pescatarian options."
+   Named Entities: [impressive (Rating), sushi (Cuisine), late (Hours), pescatarian (Amenity)]
+
+3. "Find me an impressive spot with a late-night seafood menu suitable for pescatarians."
+   Named Entities: [impressive (Rating), seafood (Cuisine), late-night (Hours), pescatarians (Amenity)]

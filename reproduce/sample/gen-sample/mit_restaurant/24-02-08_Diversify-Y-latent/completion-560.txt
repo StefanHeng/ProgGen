@@ -1,0 +1,8 @@
+1. "Where can I find the best-reviewed Margherita pizza in town?"
+Named Entities: [best-reviewed (Rating), Margherita pizza (Dish), town (Location)]
+
+2. "Which restaurant offers the best value for money in the area? I'm thinking of trying Yard House."
+Named Entities: [best value for money (Price), Yard House (Restaurant Name), area (Location)]
+
+3. "I'm craving Texas Roadhouse, can you tell me the nearest location?"
+Named Entities: [Texas Roadhouse (Restaurant Name), nearest location (Location)]

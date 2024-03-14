@@ -1,0 +1,8 @@
+1. "Can you recommend any fine dining restaurants that serve stuffed mushrooms?"
+Named Entities: [fine dining (Amenity), Stuffed mushrooms (Dish)]
+
+2. "What are the top-rated fine dining restaurants in the area that offer stuffed mushrooms on their menu?"
+Named Entities: [top-rated (Rating), fine dining (Amenity), Stuffed mushrooms (Dish), area (Location)]
+
+3. "I'm looking for a high-end restaurant with an outdoor patio that specializes in stuffed mushrooms. Any suggestions?"
+Named Entities: [high-end (Price), outdoor patio (Amenity), Stuffed mushrooms (Dish)]

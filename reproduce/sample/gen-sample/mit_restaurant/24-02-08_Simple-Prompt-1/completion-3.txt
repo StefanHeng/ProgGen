@@ -1,0 +1,44 @@
+1. I'm looking for a Mexican restaurant with vegan options in the downtown area
+   Named Entities: [Mexican (Cuisine), vegan options (Amenity), downtown area (Location)]
+   
+2. What are the opening hours for the Italian place on 5th street?
+   Named Entities: [Italian (Cuisine), 5th street (Location)]
+   
+3. Show me the nearest sushi spot with outdoor seating
+   Named Entities: [sushi (Cuisine), nearest (Location), outdoor seating (Amenity)]
+   
+4. Recommend a family-friendly restaurant with a playground nearby
+   Named Entities: [family-friendly (Amenity), playground (Amenity)]
+   
+5. Where can I find a good steakhouse with a 4-star rating?
+   Named Entities: [steakhouse (Cuisine), 4-star (Rating)]
+   
+6. I need a reservation at the French bistro for 7 o'clock tonight
+   Named Entities: [French bistro (Restaurant Name), 7 o'clock (Hours)]
+   
+7. Is the Thai place on Main Street open late tonight?
+   Named Entities: [Thai (Cuisine), Main Street (Location), open late (Hours)]
+   
+8. What's the price range at the seafood restaurant by the waterfront?
+   Named Entities: [seafood (Cuisine), waterfront (Location), price range (Price)]
+   
+9. Any charming cafes in the area with live music on weekends?
+   Named Entities: [cafes (Amenity), live music (Amenity), weekends (Hours)]
+   
+10. Can you find a pizza place with delivery within 30 minutes?
+    Named Entities: [pizza (Cuisine), delivery (Amenity), 30 minutes (Hours)]
+    
+11. I'm craving some barbecue, is there a place nearby with outdoor seating?
+    Named Entities: [barbecue (Cuisine), nearby (Location), outdoor seating (Amenity)]
+    
+12. Where can I get a good burger for under $10?
+    Named Entities: [burger (Dish), under $10 (Price)]
+    
+13. What's the best Italian restaurant in town?
+    Named Entities: [Italian (Cuisine)]
+    
+14. Find a place for brunch with bottomless mimosas
+    Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+    
+15. I need a table for 2 at the Indian restaurant for tomorrow evening
+    Named Entities: [table for 2 (Amenity), Indian (Cuisine), tomorrow evening (Hours)]

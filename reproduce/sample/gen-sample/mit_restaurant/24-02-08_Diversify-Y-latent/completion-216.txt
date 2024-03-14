@@ -1,0 +1,8 @@
+Query: "What are the popular late-night restaurant reviews in this area?"
+Named Entities: [popular late-night restaurant reviews (Amenity), this area (Location)]
+
+Query: "I'm craving some takeout. Can you recommend a place for me?"
+Named Entities: [takeout (Amenity)]
+
+Query: "Where can I have dinner late around here?"
+Named Entities: [dinner late (Amenity), around here (Location)]

@@ -1,0 +1,8 @@
+1. Query: "What genre is the movie Gothic?"
+Named Entities: [Gothic (Title)]
+
+2. Query: "Can you show me some clips from The Departed directed by Martin Scorsese?"
+Named Entities: [The Departed (Title), Martin Scorsese (Director)]
+
+3. Query: "Is Mr. Incredible considered a must-see film for families?"
+Named Entities: [Mr. Incredible (Title), must-see (Viewers' Rating), families (Genre)]

@@ -1,0 +1,8 @@
+1. "What's the plot of the movie Inception?"
+Named Entities: [Inception (Title), plot (Plot)]
+
+2. "Can you give me a summary of the movie Goodfellas directed by Martin Scorsese?"
+Named Entities: [Goodfellas (Title), Martin Scorsese (Director), summary (Plot)]
+
+3. "I'm looking for a movie with a mysterious plot twist, can you recommend one?"
+Named Entities: [mysterious plot twist (Plot)]

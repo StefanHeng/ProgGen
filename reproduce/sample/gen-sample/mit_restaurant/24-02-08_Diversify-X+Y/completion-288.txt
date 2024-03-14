@@ -1,0 +1,8 @@
+Query: "can you recommend a formal restaurant with vegetarian options"
+Named Entities: [formal (Amenity), vegetarian (Cuisine)]
+
+Query: "what are the top-rated formal dining spots in the area"
+Named Entities: [top-rated (Rating), formal (Amenity)]
+
+Query: "where can I have a fancy dinner with a view tonight"
+Named Entities: [fancy (Amenity), dinner (Meal), tonight (Hours)]

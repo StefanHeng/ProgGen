@@ -1,0 +1,8 @@
+Query: "show me Italian restaurants with outdoor seating"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "what time does Rasa Indian Cuisine close tonight"
+Named Entities: [Rasa Indian Cuisine (Restaurant Name), close tonight (Hours)]
+
+Query: "recommend a seafood place with a high rating"
+Named Entities: [seafood (Cuisine), high rating (Rating)]

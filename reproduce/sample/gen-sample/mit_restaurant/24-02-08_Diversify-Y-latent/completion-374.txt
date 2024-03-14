@@ -1,0 +1,8 @@
+Query: "Can you recommend a seafood restaurant close to the hotel?"
+Named Entities: [Seafood (Cuisine), Close to the hotel (Location)]
+
+Query: "What are the hours of operation for PF Chang's?"
+Named Entities: [PF Chang's (Restaurant Name), hours of operation (Hours)]
+
+Query: "Where can I find a good place with a high rating for dinner tonight?"
+Named Entities: [good (Rating), dinner tonight (Amenity)]

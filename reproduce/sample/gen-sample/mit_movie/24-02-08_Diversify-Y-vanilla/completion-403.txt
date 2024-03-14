@@ -1,0 +1,8 @@
+1. "What is the best adventure film released in 1975?"
+Named Entities: [1975 (Year), adventure (Genre)]
+
+2. "Are there any zombie apocalypse movies with a found footage style?"
+Named Entities: [zombie apocalypse (Genre), found footage (Plot)]
+
+3. "Can you recommend a movie with an adventurous plot and a high viewers' rating?"
+Named Entities: [adventurous (Genre), high viewers' rating (Viewers' Rating)]

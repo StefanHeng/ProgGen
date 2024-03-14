@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a high-rated action movie from the 1990s?"
+   Named Entities: [high-rated (Viewers' Rating), action movie (Genre), 1990s (Year)]
+
+2. Query: "What is the viewer rating for the latest James Cameron film?"
+   Named Entities: [James Cameron (Director), latest (Year), viewer rating (Viewers' Rating)]
+
+3. Query: "Tell me about the sci-fi movie Interstellar directed by Christopher Nolan."
+   Named Entities: [sci-fi movie (Genre), Interstellar (Title), Christopher Nolan (Director)]

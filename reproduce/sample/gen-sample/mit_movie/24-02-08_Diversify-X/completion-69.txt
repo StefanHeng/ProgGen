@@ -1,0 +1,8 @@
+1. "Who directed the movie Inception?"
+Named Entities: [Inception (Title), directed (Director)]
+
+2. "What is the viewers' rating of the film The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+3. "Could you recommend a movie with Meryl Streep as the lead actress?"
+Named Entities: [Meryl Streep (Actor)]

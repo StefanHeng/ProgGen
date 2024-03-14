@@ -1,0 +1,8 @@
+1. Query: "Can I find The Dark Knight on any streaming platforms?"
+   Named Entities: [The Dark Knight (Title)]
+
+2. Query: "Is there a movie with Tom Hanks on Netflix?"
+   Named Entities: [Tom Hanks (Actor)]
+
+3. Query: "What's a good horror movie I can watch on Hulu?"
+   Named Entities: [horror (Genre), Hulu (Streaming platform)]

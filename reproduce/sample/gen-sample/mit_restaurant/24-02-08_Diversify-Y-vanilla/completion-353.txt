@@ -1,0 +1,8 @@
+1. "What are the hours for Papa John's pizza?"
+Named Entities: [Papa John's pizza (Restaurant Name), Hours]
+
+2. "I want to try some authentic Italian pasta, can you recommend a good restaurant?"
+Named Entities: [Italian (Cuisine), pasta (Dish), good (Rating)]
+
+3. "Where is the closest sushi place with outdoor seating?"
+Named Entities: [closest (Location), sushi (Cuisine), outdoor seating (Amenity)]

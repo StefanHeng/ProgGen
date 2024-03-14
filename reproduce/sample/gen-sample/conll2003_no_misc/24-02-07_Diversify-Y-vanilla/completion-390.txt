@@ -1,0 +1,8 @@
+1. "Actress Emma Stone wins Oscar for Best Actress."
+Named Entities: [Emma Stone (person)]
+
+2. "Emma Stone to star in new Netflix series."
+Named Entities: [Emma Stone (person), Netflix (organization)]
+
+3. "Emma Stone visits children's hospital in Los Angeles."
+Named Entities: [Emma Stone (person), Los Angeles (location)]

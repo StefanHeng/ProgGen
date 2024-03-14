@@ -1,0 +1,14 @@
+Query: "I'm in the mood for some Modest-priced Bistros. Any recommendations?"
+Named Entities: [Modest-priced Bistros (Price)]
+
+Query: "I'm craving some Dutch food. Where can I find a good Dutch restaurant?"
+Named Entities: [Dutch (Cuisine)]
+
+Query: "I want to try some Swiss cuisine. Do you know any Swiss restaurants with high ratings?"
+Named Entities: [Swiss (Cuisine), high ratings (Rating)]
+
+Query: "What are the top-notch dining options in the area?"
+Named Entities: [Top-notch Dining (Amenity)]
+
+Query: "Can you make a reservation for me at Bonefish Grill for 7 p.m.?"
+Named Entities: [Bonefish Grill (Restaurant Name), 7 p.m. (Hours)]

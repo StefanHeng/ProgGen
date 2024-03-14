@@ -1,0 +1,11 @@
+1. Sentence: "The Hubble Space Telescope, operated by the {{Space Telescope Science Institute}}, has provided invaluable data and images that revolutionized our understanding of the universe."
+Text Span: "Space Telescope Science Institute"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "She has also been a strong advocate for {{organic}} gardening and sustainable agriculture practices."
+Text Span: "organic"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is other.
+
+3. Sentence: "{{Cognitive behavioral therapy (CBT)}} is a psycho-social intervention that aims to improve mental health by focusing on challenging and changing unhelpful cognitive distortions and behaviors, improving emotional regulation, and the development of personal coping strategies."
+Text Span: "Cognitive behavioral therapy (CBT)"
+Label: (A). The span is a named entity of type organization

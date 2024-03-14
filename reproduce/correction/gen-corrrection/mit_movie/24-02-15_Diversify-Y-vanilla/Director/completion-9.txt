@@ -1,0 +1,11 @@
+1. Query: "What's the viewers' rating for the latest {{Quentin Tarantino}} film"
+Text Span: "Quentin Tarantino"
+Label: (A). Named entity of type director
+
+2. Query: "Who {{directed}} the adventure film with Dwayne Johnson and what year was it released?"
+Text Span: "directed"
+Label: (D). Not a Named Entity
+
+3. Query: "What is the most recent film directed by {{Christopher Nolan}}"
+Text Span: "Christopher Nolan"
+Label: (A). Named entity of type director

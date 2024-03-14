@@ -1,0 +1,8 @@
+1. "Can you recommend a TV-PG movie with an awe-inducing plot and a bitter rivalry?"
+Named Entities: [TV-PG (MPAA Rating), Awe-inducing (Review), Bitter rivalry (Plot)]
+
+2. "I'm looking for a movie that provides a glimpse into the life of a famous musician. Any recommendations?"
+Named Entities: [glimpse (Plot)]
+
+3. "What year did the director of the action-packed movie 'Die Hard' win an award for best director?"
+Named Entities: ['Die Hard' (Title), best director (Review)]

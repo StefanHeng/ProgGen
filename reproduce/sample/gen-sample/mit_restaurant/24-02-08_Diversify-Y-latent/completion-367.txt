@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant in Portland with a good brunch menu?"
+Named Entities: [Portland (Location), brunch (Amenity)]
+
+2. "I'm looking for a place in Portland that serves vegan cuisine and is open for dinner"
+Named Entities: [Portland (Location), vegan (Cuisine), dinner (Hours)]
+
+3. "What are the top-rated Italian restaurants in Portland with outdoor seating?"
+Named Entities: [Portland (Location), Italian (Cuisine), top-rated (Rating), outdoor seating (Amenity)]

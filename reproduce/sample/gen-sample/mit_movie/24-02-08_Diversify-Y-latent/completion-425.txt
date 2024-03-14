@@ -1,0 +1,8 @@
+Query: "tell me about a raw and mind-bending science fiction film"
+Named Entities: [Raw (Title), mind-bending science fiction (Genre)]
+
+Query: "who directed the movie The Babadook"
+Named Entities: [The Babadook (Title), Andrea Arnold (Director)]
+
+Query: "can you recommend a movie by Joel and Ethan Coen that is worth watching"
+Named Entities: [Joel and Ethan Coen (Director), worth watching (Viewers' Rating)]

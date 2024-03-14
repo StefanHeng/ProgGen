@@ -1,0 +1,8 @@
+1. Query: "Can you give me a brief summary of the movie Inception?"
+Named Entities: [Inception (Title), summary (Plot)]
+
+2. Query: "What is the plot of the film Interstellar directed by Christopher Nolan?"
+Named Entities: [Interstellar (Title), Christopher Nolan (Director), plot (Plot)]
+
+3. Query: "Could you tell me the storyline of the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), storyline (Plot)]

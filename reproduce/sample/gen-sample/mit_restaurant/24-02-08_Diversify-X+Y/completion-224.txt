@@ -1,0 +1,8 @@
+Query: "can you recommend a good Italian restaurant nearby for dinner"
+Named Entities: [Italian (Cuisine), nearby (Location), dinner (Amenity)]
+
+Query: "what are the top-rated seafood restaurants open for dinner tonight"
+Named Entities: [top-rated (Rating), seafood (Cuisine), open for dinner tonight (Hours)]
+
+Query: "where can I find a budget-friendly Mexican restaurant that serves dinner"
+Named Entities: [budget-friendly (Price), Mexican (Cuisine), serves dinner (Amenity)]

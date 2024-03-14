@@ -1,0 +1,8 @@
+1. "Can you recommend any nut-free late-night dining options in the area?"
+   Named Entities: [nut-free (Amenity), late-night dining (Amenity)]
+
+2. "I'm looking for a restaurant with nut-free options that is open after midnight. Any suggestions?"
+   Named Entities: [nut-free (Amenity), open after midnight (Hours)]
+
+3. "Where can I find a late-night dining place with nut-free dishes?"
+   Named Entities: [late-night dining (Amenity), nut-free (Amenity)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a fancy spot for breakfast, preferably with a good view"
+Named Entities: [fancy (Amenity), breakfast (Cuisine), expensive (Price)]
+
+Query: "What are the top-rated breakfast places with a high price range in this area?"
+Named Entities: [top-rated (Rating), breakfast (Cuisine), high price range (Price)]
+
+Query: "Can you recommend a high-end morning eatery with a diverse breakfast menu?"
+Named Entities: [high-end (Amenity), morning (Hours), diverse (Amenity), breakfast (Cuisine), high price range (Price)]

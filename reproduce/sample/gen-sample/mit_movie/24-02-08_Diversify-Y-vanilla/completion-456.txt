@@ -1,0 +1,8 @@
+1. "Can you find me the trailer for the movie Bennie and the Jets?"
+Named Entities: [Bennie and the Jets (Title), trailer (Trailer)]
+
+2. "Who directed the film that features the character Jack Dawson?"
+Named Entities: [Jack Dawson (Character), directed (Director)]
+
+3. "Is the movie AA in the action genre?"
+Named Entities: [AA (Title), action (Genre)]

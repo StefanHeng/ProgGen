@@ -1,0 +1,8 @@
+1. "Do you know of any vegan-friendly restaurants with wifi in the downtown area?"
+Named Entities: [vegan-friendly (Cuisine), wifi (Amenity), downtown area (Location)]
+
+2. "I'm craving some authentic Italian pasta, where can I find a highly rated restaurant with wifi?"
+Named Entities: [authentic Italian (Cuisine), highly rated (Rating), wifi (Amenity)]
+
+3. "Can you recommend a budget-friendly restaurant with vegan options and outdoor seating?"
+Named Entities: [budget-friendly (Price), vegan options (Cuisine), outdoor seating (Amenity)]

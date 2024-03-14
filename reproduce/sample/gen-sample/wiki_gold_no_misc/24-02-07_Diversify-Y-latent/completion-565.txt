@@ -1,0 +1,8 @@
+Sentence: The Mumbai Indians are one of the most successful teams in the history of the Indian Premier League.
+Named Entities: [Mumbai Indians (organization), Indian Premier League (organization), Mumbai (location), India (location)]
+
+Sentence: With its headquarters in Mumbai, India, the company has expanded its operations to various countries around the world.
+Named Entities: [Mumbai (location), India (location)]
+
+Sentence: Anushka Sharma is a popular Bollywood actress who was born and raised in Mumbai, India.
+Named Entities: [Anushka Sharma (person), Bollywood (organization), Mumbai (location), India (location)]

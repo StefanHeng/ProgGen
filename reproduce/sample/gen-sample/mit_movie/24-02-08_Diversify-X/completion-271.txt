@@ -1,0 +1,8 @@
+1. Query: "Can I watch a movie with Humphrey Bogart on any streaming platforms?"
+   Named Entities: [Humphrey Bogart (Actor), streaming platforms]
+
+2. Query: "Is there a classic musical film available to watch on streaming platforms?"
+   Named Entities: [classic musical film (Genre), streaming platforms]
+
+3. Query: "Show me a romantic comedy movie from the 1950s that I can watch online"
+   Named Entities: [romantic comedy (Genre), 1950s (Year), streaming platforms]

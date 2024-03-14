@@ -1,0 +1,11 @@
+1. Query: "What are the top-rated Italian restaurants in the {{vicinity}}?"
+Text Span: "vicinity"
+Label: (A). The span is a named entity of type location
+
+2. Query: "What's the top-rated seafood restaurant in {{this area}}?"
+Text Span: "this area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area".
+
+3. Query: "I'm craving some pasta, is there a place {{nearby}} called The Italian Kitchen?"
+Text Span: "nearby"
+Label: (A). The span is a named entity of type location

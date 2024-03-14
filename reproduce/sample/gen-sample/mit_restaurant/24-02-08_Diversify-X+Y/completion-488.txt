@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, where can I get a delicious burger and fries?"
+Named Entities: [fast food (Cuisine)]
+
+Query: "What's the nearest In-N-Out Burger location with a drive-thru?"
+Named Entities: [In-N-Out Burger (Restaurant Name), nearest (Location), drive-thru (Amenity)]
+
+Query: "Can you recommend a budget-friendly fast-food joint near my office?"
+Named Entities: [budget-friendly (Price), fast-food (Cuisine), office (Location)]

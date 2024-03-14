@@ -1,0 +1,8 @@
+Query: "Could you recommend a fine dining restaurant with craft cocktails on the way to the theater?"
+Named Entities: [fine dining (Amenity), craft cocktails (Amenity), theater (Location)]
+
+Query: "Where can I find a restaurant with a dinner menu and craft cocktails nearby?"
+Named Entities: [dinner (Amenity), craft cocktails (Amenity), nearby (Location)]
+
+Query: "I'm looking for a fine dining spot with great dinner options and craft cocktails, can you help?"
+Named Entities: [fine dining (Amenity), dinner (Amenity), craft cocktails (Amenity)]

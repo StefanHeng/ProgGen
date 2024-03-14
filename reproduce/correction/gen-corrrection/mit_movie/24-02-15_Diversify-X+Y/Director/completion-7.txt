@@ -1,0 +1,8 @@
+1. Text Span: "Francis Ford Coppola"
+Label: (A). The span is a named entity of type director
+
+2. Text Span: "Alfred Hitchcock"
+Label: (A). The span is a named entity of type director
+
+3. Text Span: "director"
+Label: (D). Not a Named Entity.

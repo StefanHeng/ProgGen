@@ -1,0 +1,8 @@
+1. "I'm looking for a five-star seafood restaurant around here, preferably with outdoor seating."
+Named Entities: [five-star (Rating), seafood (Cuisine), outdoor seating (Amenity)]
+
+2. "What's the best nighttime noshery in the area?"
+Named Entities: [best (Rating), nighttime noshery (Amenity), area (Location)]
+
+3. "Can you make a reservation for two at The Night Owl Tavern for 7 p.m. tomorrow?"
+Named Entities: [reservation for two (Amenity), The Night Owl Tavern (Restaurant Name), 7 p.m. tomorrow (Hours)]

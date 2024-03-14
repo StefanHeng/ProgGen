@@ -1,0 +1,8 @@
+Sentence: "Attenborough's naturalist, Jane Goodall, to receive lifetime achievement award."
+Named Entities: [Attenborough's naturalist (organization), Jane Goodall (person)]
+
+Sentence: "New study shows decline in wildlife population due to climate change."
+Named Entities: []
+
+Sentence: "Attenborough's naturalist, WWF, launches campaign to protect endangered species."
+Named Entities: [Attenborough's naturalist (organization), WWF (organization)]

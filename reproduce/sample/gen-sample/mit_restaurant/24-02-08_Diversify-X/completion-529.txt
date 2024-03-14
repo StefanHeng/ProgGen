@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly place for dinner with Italian cuisine?"
+Named Entities: [budget-friendly (Price), dinner (Amenity), Italian cuisine (Cuisine)]
+
+2. "I'm looking for a restaurant with outdoor seating and a good rating for dinner."
+Named Entities: [outdoor seating (Amenity), good rating (Rating), dinner (Amenity)]
+
+3. "Where can I find a local diner with American cuisine open for dinner?"
+Named Entities: [local diner (Restaurant Name), American cuisine (Cuisine), dinner (Amenity)]

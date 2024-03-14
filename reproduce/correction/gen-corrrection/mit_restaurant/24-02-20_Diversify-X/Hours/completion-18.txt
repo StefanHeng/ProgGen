@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a food truck with outdoor seating for {{dinner}} tonight?"
+Text Span: "dinner"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Can you recommend a good Italian restaurant with outdoor seating for lunch {{tomorrow}}?"
+Text Span: "tomorrow"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What are the {{operating hours}} of the French restaurant with a Michelin star rating"
+Text Span: "operating hours"
+Label: (A). Correct Entity Annotation.

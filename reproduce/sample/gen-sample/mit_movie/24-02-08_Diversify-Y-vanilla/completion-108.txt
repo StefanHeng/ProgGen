@@ -1,0 +1,8 @@
+1. "Can you provide me with the trailer for the movie Selma that is rated PG?"
+Named Entities: [Selma (Title), trailer (Trailer), PG (MPAA Rating)]
+
+2. "What is the viewers' rating for the movie Parental Guidance?"
+Named Entities: [Parental Guidance (Title), viewers' rating (Viewers' Rating)]
+
+3. "Who directed the movie Selma that came out in 2014?"
+Named Entities: [Selma (Title), 2014 (Year), directed (Director)]

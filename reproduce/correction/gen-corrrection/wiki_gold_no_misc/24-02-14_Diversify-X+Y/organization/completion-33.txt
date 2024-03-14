@@ -1,0 +1,11 @@
+1. Sentence: "The Department of Pure Mathematics and Mathematical Statistics at {{Cambridge University}} is known for its research in algebraic geometry and number theory."
+Text Span: "Cambridge University"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The {{American Psychological Association}} (APA) headquarters is located in Washington, D.C., and serves as a hub for psychological research and practice."
+Text Span: "American Psychological Association"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Sociology is the study of {{society}}, patterns of social relationships, social interaction, and culture of everyday life, and it's considered one of the topics that falls under the field of social sciences."
+Text Span: "society"
+Label: (C). Wrong Type. The correct entity type is other.

@@ -1,0 +1,8 @@
+1. Query: "Hey, what's the deal with that new movie, The Wizard of Oz? Is it really as exemplary as people say?"
+   Named Entities: [The Wizard of Oz (Title), exemplary (Viewers' Rating)]
+
+2. Query: "Have you seen that psychological thriller with the supernatural elements? Can you find me a preview clip?"
+   Named Entities: [psychological thriller (Genre), supernatural (Genre), Preview clip (Trailer)]
+
+3. Query: "I heard there's a new movie out, can you tell me about the reviews and ratings for it?"
+   Named Entities: [reviews and ratings (Review)]

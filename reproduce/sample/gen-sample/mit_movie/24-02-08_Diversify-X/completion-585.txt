@@ -1,0 +1,8 @@
+1. Query: "I'm so bored, is there a movie with the song 'My Heart Will Go On' available on any streaming platform?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+2. Query: "I need something to watch, is there a comedy movie from the 1990s available to stream?"
+Named Entities: [comedy (Genre), 1990s (Year)]
+
+3. Query: "I'm bored out of my mind, can I find any action movies directed by James Cameron on any streaming platform?"
+Named Entities: [action (Genre), James Cameron (Director)]

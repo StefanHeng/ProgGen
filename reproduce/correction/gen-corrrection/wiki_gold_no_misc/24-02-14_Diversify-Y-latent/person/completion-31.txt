@@ -1,0 +1,8 @@
+1. Text Span: "Tom Hanks"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Annie Jump Cannon"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "John Smith"
+Label: (B). The span contains a named person entity but the span boundary is not precise. The correct span boundary is "John Smith"

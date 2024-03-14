@@ -1,0 +1,8 @@
+1. "What is the rating for the movie directed by Steven Spielberg and starring The Dude?"
+Named Entities: [Steven Spielberg (Director), The Dude (Actor)]
+
+2. "Can you recommend a movie with Steven Spielberg as the director and a strong female character?"
+Named Entities: [Steven Spielberg (Director), strong female character (Character)]
+
+3. "Show me a movie with The Dude that has a soundtrack composed by Hans Zimmer."
+Named Entities: [The Dude (Actor), Hans Zimmer (Composer)]

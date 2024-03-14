@@ -1,0 +1,8 @@
+1. "Can I watch any TV-G movies on Netflix suitable for young children?"
+   Named Entities: [TV-G (MPAA Rating), Netflix (Streaming platform), young children (Viewers' Rating)]
+
+2. "Are there any family-friendly movies from the early 1980s available to stream on Disney+?"
+   Named Entities: [early 1980s (Year), Disney+ (Streaming platform), family-friendly (Viewers' Rating)]
+
+3. "Is Avatar with the song 'I Will Always Love You' available for streaming on Amazon Prime Video?"
+   Named Entities: [Avatar (Title), 'I Will Always Love You' (Song), Amazon Prime Video (Streaming platform)]

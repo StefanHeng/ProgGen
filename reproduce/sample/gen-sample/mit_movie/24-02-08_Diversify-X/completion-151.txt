@@ -1,0 +1,8 @@
+Query: "What is the name of the movie with the iconic song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+Query: "Can you recommend a film with an amazing soundtrack that I won't be able to stop listening to?"
+Named Entities: [amazing soundtrack (Review)]
+
+Query: "I'm looking for a movie that has an unforgettable musical number. Can you help me find one?"
+Named Entities: [unforgettable musical number (Review)]

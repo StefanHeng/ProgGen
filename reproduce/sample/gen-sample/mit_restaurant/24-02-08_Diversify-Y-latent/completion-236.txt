@@ -1,0 +1,8 @@
+Query: "What are the best Chinese restaurants in the area?"
+Named Entities: [Chinese (Cuisine)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a view of the water."
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]
+
+Query: "Can you recommend a sushi place with a 5-star rating?"
+Named Entities: [sushi (Cuisine), 5-star (Rating)]

@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the most Academy Awards in 2020?"
+Named Entities: [2020 (Year), most Academy Awards (Awards)]
+
+2. "I'm interested in knowing if the film 'The Godfather' received any nominations for the Golden Globe Awards?"
+Named Entities: ['The Godfather' (Title), Golden Globe Awards (Awards)]
+
+3. "I'd like to watch a classic movie that won the Palme d'Or at the Cannes Film Festival. Can you recommend one?"
+Named Entities: [Palme d'Or (Awards), Cannes Film Festival (Title)]

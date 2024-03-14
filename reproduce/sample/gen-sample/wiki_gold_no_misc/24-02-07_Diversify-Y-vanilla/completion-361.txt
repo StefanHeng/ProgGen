@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The World Health Organization declared the COVID-19 outbreak a Public Health Emergency of International Concern."
+Named Entities: [World Health Organization (organization), COVID-19 (organization)]
+
+Sentence: "She won the Nobel Prize in Physiology or Medicine in 1983 for her discovery of mobile genetic elements."
+Named Entities: [Nobel Prize (organization)]

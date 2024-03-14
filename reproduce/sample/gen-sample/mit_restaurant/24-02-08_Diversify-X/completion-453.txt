@@ -1,0 +1,8 @@
+1. "What food trucks with a romantic ambience are open late tonight?"
+Named Entities: [food trucks (Restaurant Name), open late tonight (Hours), romantic (Amenity)]
+
+2. "I'm looking for a romantic food truck serving Italian cuisine in the downtown area."
+Named Entities: [romantic (Amenity), Italian (Cuisine), downtown area (Location)]
+
+3. "Do you know any food trucks with a romantic atmosphere that offer vegetarian options?"
+Named Entities: [food trucks (Restaurant Name), romantic (Amenity), vegetarian (Cuisine)]

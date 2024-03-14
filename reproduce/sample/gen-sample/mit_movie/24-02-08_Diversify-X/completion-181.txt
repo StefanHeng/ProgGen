@@ -1,0 +1,8 @@
+Query: "What movie won the most Oscars in 1997"
+Named Entities: [Oscars (Awards), 1997 (Year)]
+
+Query: "Has Clint Eastwood's directed films ever received Golden Globe nominations"
+Named Entities: [Clint Eastwood (Director), Golden Globe (Awards), nominations (Awards)]
+
+Query: "Can you tell me about the movie with the most Bafta nominations in the 1980s"
+Named Entities: [Bafta (Awards), most (Viewers' Rating), 1980s (Year)]

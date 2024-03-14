@@ -1,0 +1,8 @@
+1. Query: "What movie with a 2.5-star rating stars Hugh Jackman and Al Pacino"
+Named Entities: [2.5-star rating (Viewers' Rating), Hugh Jackman (Actor), Al Pacino (Actor)]
+
+2. Query: "Show me an action-comedy film with Keanu Reeves"
+Named Entities: [Action-comedy (Genre), Keanu Reeves (Actor)]
+
+3. Query: "Is there an unwatchable movie from the 1980s"
+Named Entities: [Unwatchable (Viewers' Rating), 1980s (Year)]

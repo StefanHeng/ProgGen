@@ -1,0 +1,8 @@
+Query: "What restaurants around here offer a price range of 20-30 dollars per person?"
+Named Entities: [20-30 dollars per person (Price range)]
+
+Query: "I'm craving some Italian food, can you recommend a place that serves pasta and pizza?"
+Named Entities: [Italian (Cuisine), pasta and pizza (Dish)]
+
+Query: "Where can I find a restaurant with outdoor seating and a view of the beach?"
+Named Entities: [outdoor seating (Amenity), view of the beach (Location)]

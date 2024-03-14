@@ -1,0 +1,8 @@
+Query: "I'm not sure what to watch tonight, can you give me a brief overview of a movie with a thrilling plot?"
+Named Entities: [thrilling (Genre), brief overview (Plot)]
+
+Query: "I can't decide what movie to watch, do you have any recommendations for a film with a suspenseful storyline?"
+Named Entities: [suspenseful (Genre), recommendations (Viewers' Rating)]
+
+Query: "I'm in the mood for a movie with an engaging storyline, can you tell me about a film that has a captivating plot?"
+Named Entities: [engaging (Genre), captivating plot (Plot)]

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of the latest James Bond movie?"
+Named Entities: [James Bond (Character)]
+
+2. Query: "I need to know the storyline of the highest-rated horror film of 2021 ASAP"
+Named Entities: [highest-rated horror film (Genre), 2021 (Year)]
+
+3. Query: "What's the premise of the upcoming Christopher Nolan movie?"
+Named Entities: [Christopher Nolan (Director)]

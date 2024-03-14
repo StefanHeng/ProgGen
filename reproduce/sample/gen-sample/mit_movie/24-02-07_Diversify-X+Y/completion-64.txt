@@ -1,0 +1,8 @@
+1. "What genre and subgenre does the movie The Apartment, directed by Billy Wilder, fall into?"
+Named Entities: [The Apartment (Title), Billy Wilder (Director)]
+
+2. "Is there a genre classification for GP movies that features the character Poe Dameron?"
+Named Entities: [GP (MPAA Rating), Poe Dameron (Character)]
+
+3. "Can you recommend a movie with a subgenre related to adventure and mystery in the year 1977?"
+Named Entities: [adventure (Genre), mystery (Genre), 1977 (Year)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a science fiction movie that is a must see?"
+Named Entities: [science fiction (Genre), must see (Viewers' Rating)]
+
+2. "Show me the trailer for the film Lara Croft: Tomb Raider."
+Named Entities: [Lara Croft: Tomb Raider (Title), Trailer]
+
+3. "What movie did Martin Scorsese direct that is known for its stellar special effects?"
+Named Entities: [Martin Scorsese (Director), stellar (Review)]

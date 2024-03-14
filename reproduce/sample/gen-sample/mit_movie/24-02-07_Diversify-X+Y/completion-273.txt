@@ -1,0 +1,8 @@
+1. Spoken Query: "Hey, can you show me a preview of that new sci-fi movie with an unmissable trailer?"
+Named Entities: [sci-fi (Genre), unmissable (Viewers' Rating)]
+
+2. Spoken Query: "Yo, I'm looking for a movie teaser with the song Uptown Funk. Can you hook me up?"
+Named Entities: [Uptown Funk (Song)]
+
+3. Spoken Query: "I need a sneak peek of an unmissable action movie. Can you show me a cool trailer?"
+Named Entities: [unmissable (Viewers' Rating), action (Genre), cool (Review)]

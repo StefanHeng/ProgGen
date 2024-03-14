@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you show me the trailer for the movie Identity Theft starring Cameron Diaz?"
+Named Entities: [Identity Theft (Title), Cameron Diaz (Actor), trailer (Trailer)]
+
+2. Spoken Query: "I'm looking for a teaser of a movie that will make me happy, any suggestions?"
+Named Entities: [happy (Viewers' Rating)]
+
+3. Spoken Query: "Show me a movie featuring Cameron Diaz that has a captivating plot"
+Named Entities: [Cameron Diaz (Actor), captivating plot (Plot)]

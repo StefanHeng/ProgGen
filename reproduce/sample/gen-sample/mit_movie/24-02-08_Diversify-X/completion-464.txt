@@ -1,0 +1,8 @@
+Query: "what is the showtime for the movie 'Inception' at the nearest theater"
+Named Entities: ['Inception' (Title)]
+
+Query: "are there any available tickets for the new James Bond movie"
+Named Entities: [James Bond (Character)]
+
+Query: "can I see the trailer for the latest Marvel movie"
+Named Entities: [trailer (Trailer), Marvel (Genre)]

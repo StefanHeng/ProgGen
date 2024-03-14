@@ -1,0 +1,8 @@
+Query: "Can you recommend a good Chinese restaurant nearby?"
+Named Entities: [good (Rating), Chinese (Cuisine), nearby (Location)]
+
+Query: "I'm in the mood for Chinese food. What are the hours for Golden Dragon?"
+Named Entities: [Chinese (Cuisine), Golden Dragon (Restaurant Name), hours (Hours)]
+
+Query: "Where can I find a Chinese restaurant with affordable prices?"
+Named Entities: [Chinese (Cuisine), affordable prices (Price)]

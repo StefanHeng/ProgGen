@@ -1,0 +1,8 @@
+1. "Can you recommend a mid-range restaurant nearby with vegan options for lunch?"
+Named Entities: [mid-range (Price), vegan (Cuisine), lunch (Amenity)]
+
+2. "I'm craving Italian food for a lunch meeting, can you suggest a restaurant with outdoor seating?"
+Named Entities: [Italian (Cuisine), lunch (Amenity), outdoor seating (Amenity)]
+
+3. "Which mid-range restaurant around here serves a good seafood lunch menu?"
+Named Entities: [mid-range (Price), seafood (Cuisine), lunch (Amenity)]

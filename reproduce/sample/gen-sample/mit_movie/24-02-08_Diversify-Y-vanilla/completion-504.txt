@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a restricted animation film from 1989 with a high viewers' rating?"
+   Named Entities: [restricted (MPAA Rating), Animation (Genre), 1989 (Year), high viewers' rating (Viewers' Rating)]
+
+2. Query: "Show me a trailer of the movie The Little Mermaid from 1989."
+   Named Entities: [trailer (Trailer), The Little Mermaid (Title), 1989 (Year)]
+
+3. Query: "Who directed the action movie Lethal Weapon and what year did it come out?"
+   Named Entities: [action (Genre), Lethal Weapon (Title), year (Year)]

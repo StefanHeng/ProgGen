@@ -1,0 +1,8 @@
+Query: "can you recommend any restaurants with a brunch menu for Saturday morning"
+Named Entities: [brunch (Amenity), Saturday morning (Hours)]
+
+Query: "which restaurants have a good reputation for their Saturday morning brunch"
+Named Entities: [Saturday morning (Hours), good reputation (Rating), brunch (Amenity)]
+
+Query: "where are the best places to have brunch on a Saturday morning"
+Named Entities: [best places (Rating), brunch (Amenity), Saturday morning (Hours)]

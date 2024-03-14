@@ -1,0 +1,10 @@
+Queries:
+
+1. "I'm craving some Dollar Fries, where's the nearest fast food joint?"
+   Named Entities: [Dollar Fries (Dish), nearest (Location), fast food (Cuisine)]
+
+2. "Hey, I need a quick bite for lunch, can you find a Taco Bell nearby?"
+   Named Entities: [quick bite (Amenity), Taco Bell (Restaurant Name), nearby (Location)]
+
+3. "I'm looking for a casual place to grab a meal after work, any recommendations for a good fast food restaurant?"
+   Named Entities: [casual (Amenity), after work (Hours), good (Rating), fast food (Cuisine)]

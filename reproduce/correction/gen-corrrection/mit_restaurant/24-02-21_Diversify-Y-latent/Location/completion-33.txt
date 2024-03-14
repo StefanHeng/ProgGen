@@ -1,0 +1,11 @@
+1. Query: "I'm a vegetarian, do you have any recommendations for a good veggie burger in the {{area}}?"
+Text Span: "area"
+Label: (A). The span is a named entity of type location
+
+2. Query: "Where is the {{nearest}} spot to grab a quick cup of coffee and avocado toast?"
+Text Span: "nearest"
+Label: (A). The span is a named entity of type location
+
+3. Query: "I'm craving something sweet, can you recommend a place with the best croissants in {{town}}?"
+Text Span: "town"
+Label: (A). The span is a named entity of type location

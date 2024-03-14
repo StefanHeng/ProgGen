@@ -1,0 +1,8 @@
+1. "Hey there! Can you show me a trailer for the new James Bond movie?"
+   Named Entities: [trailer (Trailer), new James Bond (Title)]
+
+2. "Hi! I'm in the mood for some action. Can you recommend a movie teaser with lots of explosions?"
+   Named Entities: [teaser (Trailer), action (Genre), explosions (Plot)]
+
+3. "Hello! I'm looking for a romantic comedy. Could you show me a teaser for a popular one?"
+   Named Entities: [teaser (Trailer), romantic comedy (Genre), popular (Viewers' Rating)]

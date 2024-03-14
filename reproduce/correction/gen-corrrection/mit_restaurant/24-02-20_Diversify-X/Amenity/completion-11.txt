@@ -1,0 +1,8 @@
+1. Text Span: "food trucks"
+Label: (B). The correct span boundary is "food trucks" 
+
+2. Text Span: "late-night dining"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "casual"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,11 @@
+1. Query: "Is Snow White and the Seven Dwarfs considered an {{Unforgettable}} movie"
+Text Span: "Unforgettable"
+Label: (A). Named Entity of type Review
+
+2. Query: "Can you recommend a movie with atmospheric scores that adds {{excitement}} to the scenes?"
+Text Span: "excitement"
+Label: (A). Named Entity of type Review
+
+3. Query: "What movie starring Charlize Theron has a four-star rating and is {{perfectly crafted}} by Tim Burton?"
+Text Span: "perfectly crafted"
+Label: (A). Named Entity of type Review

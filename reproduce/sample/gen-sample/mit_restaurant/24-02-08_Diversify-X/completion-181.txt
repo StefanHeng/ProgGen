@@ -1,0 +1,8 @@
+1. "I'm craving fast food, where can I find a high-end burger joint?"
+Named Entities: [fast food (Cuisine), high-end (Price)]
+
+2. "What's the best fancy fast food spot in the area?"
+Named Entities: [fancy (Rating), fast food (Cuisine)]
+
+3. "I need a suggestion for a pricey fast food place with great reviews."
+Named Entities: [pricey (Price), fast food (Cuisine), great reviews (Rating)]

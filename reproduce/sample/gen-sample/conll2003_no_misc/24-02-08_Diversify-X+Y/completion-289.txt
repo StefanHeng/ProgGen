@@ -1,0 +1,8 @@
+Sentence: "In a recent interview, Dr. Smith from the Mayo Clinic discussed the latest breakthroughs in cancer treatment."
+Named Entities: [Dr. Smith (person), Mayo Clinic (organization)]
+
+Sentence: "The Delhi government announces new health initiatives to improve access to care for residents."
+Named Entities: [Delhi (location)]
+
+Sentence: "Expert from Mayo Clinic shares tips for maintaining mental health during the pandemic."
+Named Entities: [Mayo Clinic (organization)]

@@ -1,0 +1,11 @@
+1. Query: "What's the price range for that {{fancy}} French restaurant?"
+Text Span: "fancy"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "Suggest a good seafood spot with {{outdoor seating}}."
+Text Span: "outdoor seating"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I'm looking for a place with a {{view}}, any ideas?"
+Text Span: "view"
+Label: (A). The span is a named entity of type amenity

@@ -1,0 +1,8 @@
+1. "I'm craving a vegetarian-friendly café for breakfast near the hotel"
+Named Entities: [vegetarian-friendly (Amenity), breakfast (Amenity), hotel (Location)]
+
+2. "What are the top-rated vegetarian cafés with outdoor seating in the downtown area?"
+Named Entities: [top-rated (Rating), vegetarian (Cuisine), outdoor seating (Amenity), downtown area (Location)]
+
+3. "Can you recommend a budget-friendly café with vegan options open for dinner?"
+Named Entities: [budget-friendly (Price), vegan (Amenity), dinner (Hours)]

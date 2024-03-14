@@ -1,0 +1,38 @@
+1. "Elon Musk's SpaceX successfully launches 60 Starlink satellites into orbit."
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+2. "New York City Mayor announces plan to improve public transportation system."
+Named Entities: [New York City (location)]
+
+3. "Apple Inc. unveils new iPhone with groundbreaking features."
+Named Entities: [Apple Inc. (organization)]
+
+4. "President Biden signs executive order on climate change."
+Named Entities: [Biden (person)]
+
+5. "Tokyo Olympics officially postponed until 2021."
+Named Entities: [Tokyo (location)]
+
+6. "Microsoft acquires cybersecurity firm for $10 billion."
+Named Entities: [Microsoft (organization)]
+
+7. "Famous actor faces backlash for controversial social media post."
+Named Entities: [actor (person)]
+
+8. "California experiences record-breaking heatwave."
+Named Entities: [California (location)]
+
+9. "United Nations report highlights worsening global hunger crisis."
+Named Entities: [United Nations (organization)]
+
+10. "Amazon CEO Jeff Bezos steps down from his position."
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+11. "Miami Beach imposes new restrictions to control spring break crowds."
+Named Entities: [Miami Beach (location)]
+
+12. "NASA's Perseverance rover successfully lands on Mars."
+Named Entities: [NASA (organization), Perseverance (location), Mars (location)]
+
+13. "World Health Organization declares Ebola outbreak a global health emergency."
+Named Entities: [World Health Organization (organization), Ebola (organization)]

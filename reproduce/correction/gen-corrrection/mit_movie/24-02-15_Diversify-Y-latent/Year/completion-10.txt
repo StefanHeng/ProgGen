@@ -1,0 +1,11 @@
+1. Query: "Show me the trailer for the movie with the song Take My Breath Away from {{1991}}."
+Text Span: "1991"
+Label: (A). The span is a named entity of type year
+
+2. Query: "What movie from the {{80s}} is known for its remarkable use of special effects?"
+Text Span: "80s"
+Label: (A). The span is a named entity of type year
+
+3. Query: "Can you show me the trailer for Lupita Nyong'o's {{latest}} movie?"
+Text Span: "latest"
+Label: (D). Not a Named Entity

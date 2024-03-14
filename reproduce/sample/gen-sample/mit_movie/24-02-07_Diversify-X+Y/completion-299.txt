@@ -1,0 +1,8 @@
+1. Spoken Query: "Hey, what's that Tom Cruise movie with a really intense psychological plot?"
+   Named Entities: [Tom Cruise (Actor), psychological (Genre)]
+
+2. Spoken Query: "I'm in the mood for a sci-fi movie. Any suggestions for a really good sci-fi film from the 90s?"
+   Named Entities: [sci-fi (Genre), 90s (Year)]
+
+3. Spoken Query: "I want to watch something drama-filled tonight. Can you recommend a gripping drama movie for me?"
+   Named Entities: [drama-filled (Genre)]

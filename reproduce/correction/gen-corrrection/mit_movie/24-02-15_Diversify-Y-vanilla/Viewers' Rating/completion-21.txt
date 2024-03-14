@@ -1,0 +1,11 @@
+1. Query: "Is there an {{Unwatchable}} movie from the 1980s"
+Text Span: "Unwatchable"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other
+
+2. Query: "Show me a survival in the wilderness movie similar to Van Helsing with a {{high viewers' rating}}."
+Text Span: "high viewers' rating"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Query: "What is the {{viewers' rating}} for the international trailer of the movie starring Emma Stone"
+Text Span: "viewers' rating"
+Label: (D). The span is not a named entity

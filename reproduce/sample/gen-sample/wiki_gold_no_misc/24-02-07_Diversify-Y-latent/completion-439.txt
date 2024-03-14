@@ -1,0 +1,8 @@
+1. The company, founded by computer scientists Larry Page and Sergey Brin, went public in 2004.
+Named Entities: [Larry Page (person), Sergey Brin (person)]
+
+2. The concert will take place at the historic Hollywood Bowl in Los Angeles, California.
+Named Entities: [Hollywood Bowl (location), Los Angeles (location), California (location)]
+
+3. The organization's new initiative aims to address climate change through sustainable agriculture practices.
+Named Entities: [climate change (location)]

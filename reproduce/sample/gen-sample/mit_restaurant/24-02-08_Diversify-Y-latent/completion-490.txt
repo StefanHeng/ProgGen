@@ -1,0 +1,8 @@
+1. "I'm looking for a high-priced restaurant with an outstanding buffet option"
+Named Entities: [high-priced (Price), outstanding buffet (Amenity)]
+
+2. "Where can I find a good seafood restaurant with a view of the ocean"
+Named Entities: [good (Rating), seafood (Cuisine), view of the ocean (Amenity)]
+
+3. "Do you know any 24-hour diners with a diverse menu in the downtown area"
+Named Entities: [24-hour (Hours), diverse menu (Amenity), downtown area (Location)]

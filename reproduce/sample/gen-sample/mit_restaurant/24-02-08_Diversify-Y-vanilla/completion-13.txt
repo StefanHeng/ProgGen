@@ -1,0 +1,8 @@
+1. Query: "What restaurants around here offer lakeside dining?"
+Named Entities: [Lakeside (Amenity)]
+
+2. Query: "I'm looking for a widely praised restaurant with gluten-free options. Any recommendations?"
+Named Entities: [Widely praised (Rating), gluten-free options (Amenity)]
+
+3. Query: "Can you suggest a restaurant with a good gluten-free menu and lakeside dining?"
+Named Entities: [Gluten-free options (Amenity), Lakeside (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a high rating in the city?"
+Named Entities: [fine dining (Amenity), high rating (Rating), city (Location)]
+
+Query: "What are the operating hours for El Celler de Can Roca?"
+Named Entities: [El Celler de Can Roca (Restaurant Name), operating hours (Hours)]
+
+Query: "I'm looking for a fine dining restaurant that serves Mediterranean cuisine, where can I find one?"
+Named Entities: [fine dining (Amenity), Mediterranean cuisine (Cuisine)]

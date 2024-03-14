@@ -1,0 +1,8 @@
+1. Text Span: "Trailer"
+Label: (A). The span is a named entity of type trailer
+
+2. Text Span: "excerpt"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: Plot
+
+3. Text Span: "preview"
+Label: (A). The span is a named entity of type trailer

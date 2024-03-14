@@ -1,0 +1,8 @@
+1. "I'm in the mood for some comfort food, where can I find a good grilled cheese near me?"
+Named Entities: [comfort food (Cuisine), grilled cheese (Dish), near me (Location)]
+
+2. "What's a highly rated restaurant in the area that serves grilled cheese sandwiches?"
+Named Entities: [highly rated (Rating), restaurant (Amenity), grilled cheese sandwiches (Dish), in the area (Location)]
+
+3. "Can you recommend a budget-friendly place with grilled cheese on their menu?"
+Named Entities: [budget-friendly (Price), grilled cheese (Dish), on their menu (Amenity) ]

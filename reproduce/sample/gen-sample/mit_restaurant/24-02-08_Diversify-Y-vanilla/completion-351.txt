@@ -1,0 +1,8 @@
+1. "What are the operating hours for Olive Garden in downtown?"
+   Named Entities: [Olive Garden (Restaurant Name), downtown (Location), operating hours (Hours)]
+
+2. "Recommend a restaurant with outdoor seating and a great view."
+   Named Entities: [outdoor seating (Amenity), great view (Amenity)]
+
+3. "I'm in the mood for some sushi. Can you suggest a highly-rated sushi restaurant nearby?"
+   Named Entities: [sushi (Cuisine), highly-rated (Rating), nearby (Location)]

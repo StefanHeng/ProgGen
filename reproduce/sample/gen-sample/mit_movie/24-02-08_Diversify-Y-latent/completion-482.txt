@@ -1,0 +1,8 @@
+1. "Could you show me a movie with a soaring musical score?"
+   Named Entities: [soaring musical score (Song)]
+
+2. "Is Rey in any World War II resistance fighter films?"
+   Named Entities: [Rey (Character), World War II resistance fighter (Genre)]
+
+3. "What movie has Darth Vader in the preview?"
+   Named Entities: [Darth Vader (Character), Preview (Trailer)]

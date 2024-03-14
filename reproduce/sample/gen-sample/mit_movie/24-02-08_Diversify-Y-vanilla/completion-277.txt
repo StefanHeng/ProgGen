@@ -1,0 +1,8 @@
+1. "Can you recommend a Virtual reality movie starring Emma Stone?"
+Named Entities: [Virtual reality (Genre), Emma Stone (Actor)]
+
+2. "What Featurette films were released in 1993?"
+Named Entities: [Featurette (Genre), 1993 (Year)]
+
+3. "Is there a movie from 1993 with a high Viewers' Rating about Virtual reality?"
+Named Entities: [1993 (Year), Virtual reality (Genre), high (Viewers' Rating)]

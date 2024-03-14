@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a forbidden love theme that has an appalling rating?"
+Named Entities: [Forbidden love (Plot), Appalling (Review)]
+
+2. Query: "Is there a Robert Zemeckis movie from 1959 that is considered binge-worthy?"
+Named Entities: [Robert Zemeckis (Director), 1959 (Year), Binge-worthy (Viewers' Rating)]
+
+3. Query: "What are the top-rated movies from 1978 that I should watch?"
+Named Entities: [1978 (Year), top-rated (Viewers' Rating)]

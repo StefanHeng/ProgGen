@@ -1,0 +1,8 @@
+1. "Can you play the motion picture teaser for the new Joker movie?"
+   Named Entities: [motion picture teaser (Trailer), Joker (Title)]
+
+2. "I'm looking for a unique and original movie teaser, maybe something like The Avengers."
+   Named Entities: [unique and original (Review), The Avengers (Title)]
+
+3. "Show me a three-star urban fantasy movie teaser featuring Obi-Wan Kenobi as a character."
+   Named Entities: [three-star (Viewers' Rating), urban fantasy (Genre), Obi-Wan Kenobi (Character)]

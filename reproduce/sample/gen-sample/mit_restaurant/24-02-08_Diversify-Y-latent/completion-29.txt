@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any Brazilian restaurants nearby?"
+Named Entities: [Brazilian (Cuisine)]
+
+2. Query: "What are the operating hours for the Brazilian steakhouse in the city center?"
+Named Entities: [Brazilian steakhouse (Restaurant Name), city center (Location), operating hours (Hours)]
+
+3. Query: "I'm looking for a high-rated Brazilian BBQ place with reasonable prices."
+Named Entities: [high-rated (Rating), Brazilian BBQ (Cuisine), reasonable prices (Price)]

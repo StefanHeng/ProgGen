@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant serving dinner time in this area?"
+Named Entities: [dinner time (Amenity), this area (Location)]
+
+2. "I'm craving Beef stroganoff, can you recommend a good place serving it nearby?"
+Named Entities: [Beef stroganoff (Dish), nearby (Location)]
+
+3. "I need a restaurant with a diverse cuisine selection for dinner time with good ratings."
+Named Entities: [diverse cuisine selection (Cuisine), dinner time (Amenity), good ratings (Rating)]

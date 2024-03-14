@@ -1,0 +1,8 @@
+1. Query: "I'm not sure which movie to watch tonight, can you recommend a film with a high viewers' rating and a compelling plot?"
+   Named Entities: [high viewers' rating (Viewers' Rating), compelling plot (Plot)]
+
+2. Query: "I can't decide on a movie, do you have any suggestions for a classic film directed by Alfred Hitchcock?"
+   Named Entities: [classic film (Genre), Alfred Hitchcock (Director)]
+
+3. Query: "I'm looking for a movie with a strong female lead and a great soundtrack, any recommendations?"
+   Named Entities: [strong female lead (Character), great soundtrack (Song)]

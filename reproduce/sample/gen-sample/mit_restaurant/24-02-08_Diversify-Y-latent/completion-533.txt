@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for a delicious Frittata for breakfast, where can I find one?"
+   Named Entities: [Frittata (Dish), breakfast (Amenity)]
+
+2. Query: "Are there any coffee & croissants places open at this time of the night?"
+   Named Entities: [coffee & croissants (Cuisine), open at this time of the night (Hours)]
+
+3. Query: "I'm craving some Lebanese food, do you know any affordable Lebanese restaurants nearby?"
+   Named Entities: [Lebanese (Cuisine), affordable (Price), nearby (Location)]

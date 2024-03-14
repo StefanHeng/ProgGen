@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a great wine selection that has received the Wine Spectator Award of Excellence?"
+Named Entities: [fine dining (Amenity), Wine Spectator Award of Excellence (Rating)]
+
+2. "I'm looking for a place with superior quality food and a mid-range price point, do you have any suggestions?"
+Named Entities: [superior quality (Rating), mid-range (Price)]
+
+3. "Where can I find a fine dining establishment with exceptional cuisine and a good atmosphere for a 30-year-old female stay-at-home parent?"
+Named Entities: [fine dining (Amenity), exceptional cuisine (Cuisine), 30-year-old female stay-at-home parent (Amenity)]

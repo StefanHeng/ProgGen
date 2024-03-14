@@ -1,0 +1,8 @@
+Query: "can you recommend an Academy Award nominee with a great plot and action-packed scenes"
+Named Entities: [Academy Award nominee (Title), great plot (Plot), action-packed (Genre)]
+
+Query: "show me a movie with a song that has collected accolades"
+Named Entities: [collected accolades (Review)]
+
+Query: "what is the highest Viewers' Rating comedy film from the 1990s"
+Named Entities: [highest Viewers' Rating (Review), comedy (Genre), 1990s (Year)]

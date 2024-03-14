@@ -1,0 +1,8 @@
+1. Query: "Can I watch a classic western movie on Netflix?"
+   Named Entities: [classic (Genre), western (Genre), Netflix (Streaming platform)]
+
+2. Query: "I want to watch a suspenseful movie from the 1950s, is there anything available on Amazon Prime?"
+   Named Entities: [suspenseful (Genre), 1950s (Year), Amazon Prime (Streaming platform)]
+
+3. Query: "Are there any action movies on Hulu with a high viewers' rating?"
+   Named Entities: [action (Genre), Hulu (Streaming platform), high (Viewers' Rating)]

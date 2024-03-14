@@ -1,0 +1,8 @@
+Query: "recommend a vegan-friendly restaurant with outdoor seating for dinner"
+Named Entities: [vegan-friendly (Cuisine), outdoor seating (Amenity), dinner (Hours)]
+
+Query: "where can I find a vegan restaurant with high ratings and affordable prices for dinner"
+Named Entities: [vegan (Cuisine), high ratings (Rating), affordable prices (Price), dinner (Hours)]
+
+Query: "show me the best vegan spot in the area for dinner"
+Named Entities: [vegan (Cuisine), best (Rating), dinner (Hours)]

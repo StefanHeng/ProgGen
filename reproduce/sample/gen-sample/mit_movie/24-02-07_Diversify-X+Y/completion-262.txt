@@ -1,0 +1,8 @@
+1. Spoken Movie Query: "Can you tell me about the cinematography highlights of the classic movie directed by Nancy Meyers?"
+   Named Entities: [Nancy Meyers (Director)]
+
+2. Spoken Movie Query: "I'm feeling nostalgic for some behind-the-scenes info on science fiction films from the 1980s. Got any recommendations?"
+   Named Entities: [1980s (Year), science fiction (Genre)]
+
+3. Spoken Movie Query: "Do you have any details about the making-of process for the iconic science fiction movie that received critical acclaim?"
+   Named Entities: [science fiction (Genre), critical acclaim (Review)]

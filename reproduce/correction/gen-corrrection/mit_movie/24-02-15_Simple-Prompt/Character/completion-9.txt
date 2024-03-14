@@ -1,0 +1,8 @@
+1. Text Span: "luke skywalker"
+Label: (A). The span is a named entity of type character
+
+2. Text Span: "Indiana Jones"
+Label: (A). The span is a named entity of type character
+
+3. Text Span: "Here's looking at you, kid"
+Label: (D). The span is not a named entity

@@ -1,0 +1,8 @@
+Query: "Hey, can you show me a trailer for the upcoming James Bond movie?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+Query: "I heard there's a new superhero movie coming out soon, can you give me a sneak peek?"
+Named Entities: [sneak peek (Trailer), superhero (Genre)]
+
+Query: "Is there a teaser for the new animated Disney movie with the song 'Let It Go'?"
+Named Entities: [teaser (Trailer), Disney (Title), Let It Go (Song)]

@@ -1,0 +1,8 @@
+1. Text Span: "controversial"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "superhero"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "political"
+Label: (A). Correct Entity Annotation.

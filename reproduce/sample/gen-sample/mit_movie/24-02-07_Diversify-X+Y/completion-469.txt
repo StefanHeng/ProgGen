@@ -1,0 +1,8 @@
+1. Spoken query: "Can you tell me about the making of the movie American Beauty?"
+   Named Entities: [American Beauty (Title)]
+
+2. Spoken query: "I'm interested in learning more about the behind-the-scenes details of Dirty Dancing, can you help me with that?"
+   Named Entities: [Dirty Dancing (Title)]
+
+3. Spoken query: "I'm open to watching a mystery movie, can you recommend one with Ed Harris in it?"
+   Named Entities: [Mystery (Genre), Ed Harris (Actor)]

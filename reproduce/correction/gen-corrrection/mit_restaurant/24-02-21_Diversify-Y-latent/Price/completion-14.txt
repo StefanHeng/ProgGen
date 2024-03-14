@@ -1,0 +1,8 @@
+1. Text Span: "Value for money"
+Label: (C). Wrong Type. The correct entity type is Rating.
+
+2. Text Span: "expensive"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "affordable"
+Label: (A). Correct Entity Annotation.

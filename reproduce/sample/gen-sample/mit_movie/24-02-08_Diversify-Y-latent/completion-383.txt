@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Solid"
+   Named Entities: [Solid (Title)]
+
+2. Query: "Which movie has received a 9/10 rating and is related to war"
+   Named Entities: [9/10 rating (Viewers' Rating), war (Genre)]
+
+3. Query: "Who is the director of the film Annie"
+   Named Entities: [Annie (Title)]

@@ -1,0 +1,8 @@
+1. "Can you provide me with the official trailer for the movie 500 Days of Summer?"
+   Named Entities: [500 Days of Summer (Title), official trailer (Trailer)]
+
+2. "Which director is behind the teaser of 500 Days of Summer?"
+   Named Entities: [500 Days of Summer (Title), director (Director), teaser (Trailer)]
+
+3. "Are there any reviews available for the film 500 Days of Summer's teaser?"
+   Named Entities: [500 Days of Summer (Title), reviews (Review), teaser (Trailer)]

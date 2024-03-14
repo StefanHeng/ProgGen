@@ -1,0 +1,8 @@
+1. "Can you recommend a French restaurant with BYOB option?"
+   Named Entities: [French (Cuisine), BYOB (Amenity)]
+
+2. "What are the hours of operation for the nearest sushi place?"
+   Named Entities: [nearest (Location), sushi (Cuisine)]
+
+3. "I'm looking for a high-rated vegetarian-friendly spot for dinner tonight"
+   Named Entities: [high-rated (Rating), vegetarian-friendly (Amenity)]

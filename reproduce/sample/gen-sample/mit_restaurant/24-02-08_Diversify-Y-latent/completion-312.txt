@@ -1,0 +1,8 @@
+Query: "Can you recommend any late night restaurants with vegan options?"
+Named Entities: [late night (Hours), vegan (Cuisine)]
+
+Query: "I'm craving some late night comfort food, where can I find a place with a good mac and cheese?"
+Named Entities: [late night (Hours), mac and cheese (Dish)]
+
+Query: "I need to grab a quick bite to eat late night, any affordable options nearby?"
+Named Entities: [late night (Hours), affordable (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "vegetarian options"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "best seafood"
+Label: (B). The correct span boundary is "seafood" and the correct entity type is Dish.
+
+3. Text Span: "vegetarian"
+Label: (A). Correct Entity Annotation.

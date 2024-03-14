@@ -1,0 +1,8 @@
+1. "I'm craving some Brazilian Grill, where can I find a top-rated one nearby?"
+   Named Entities: [Brazilian Grill (Cuisine), top-rated (Rating), nearby (Location)]
+
+2. "What are the opening hours for the Brazilian Grill restaurant on Main Street?"
+   Named Entities: [Brazilian Grill (Restaurant Name), Main Street (Location), opening hours (Hours)]
+
+3. "Can you recommend any Brazilian Grill places with affordable prices for a group dinner?"
+   Named Entities: [Brazilian Grill (Cuisine), affordable prices (Price), group dinner (Amenity)]

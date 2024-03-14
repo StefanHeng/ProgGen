@@ -1,0 +1,8 @@
+Query: "What are the hours of operation for Taco Bell in this area"
+Named Entities: [Taco Bell (Restaurant Name), hours of operation (Hours), this area (Location)]
+
+Query: "I want to have some sushi for dinner tonight. Can you recommend a good sushi place?"
+Named Entities: [sushi (Cuisine), dinner (Amenity), good (Rating)]
+
+Query: "I'm looking for a Mexican restaurant with outdoor seating and a budget-friendly menu. Any suggestions?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), budget-friendly (Price)]

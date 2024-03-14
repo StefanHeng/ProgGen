@@ -1,0 +1,8 @@
+1. "I'm looking for a reservation at French Laundry for tonight"
+Named Entities: [French Laundry (Restaurant Name), tonight (Hours)]
+
+2. "Is there a wallet-friendly restaurant nearby with a good vegetarian menu?"
+Named Entities: [wallet-friendly (Price), vegetarian (Cuisine)]
+
+3. "What's the top-rated seafood restaurant in this area?"
+Named Entities: [top-rated (Rating), seafood (Cuisine), this area (Location)]

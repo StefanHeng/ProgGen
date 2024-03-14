@@ -1,0 +1,8 @@
+1. Query: "What are some good comedy movies from 1965?"
+Named Entities: [1965 (Year), comedy (Genre)]
+
+2. Query: "Who directed the movie The 40-Year-Old Virgin?"
+Named Entities: [The 40-Year-Old Virgin (Title), Judd Apatow (Director)]
+
+3. Query: "Can I have a first look at Terry Gilliam's new film?"
+Named Entities: [first look (Trailer), Terry Gilliam (Director)]

@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for Mamma Mia!?"
+   Named Entities: [Mamma Mia! (Title), trailer (Trailer)]
+
+2. Query: "What are some PG-13 detective investigation movies from the Sci-fi era?"
+   Named Entities: [PG-13 (MPAA Rating), detective investigation (Genre), Sci-fi era (Year)]
+
+3. Query: "Is Grand Admiral Thrawn featured in any engaging sci-fi films?"
+   Named Entities: [Grand Admiral Thrawn (Character), engaging (Viewers' Rating), sci-fi (Genre)]

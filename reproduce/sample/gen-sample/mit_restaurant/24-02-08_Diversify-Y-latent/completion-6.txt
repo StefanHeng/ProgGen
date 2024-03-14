@@ -1,0 +1,8 @@
+1. "Where can I find a good Brunch Nook around here?"
+Named Entities: [good (Rating), Brunch Nook (Amenity), around here (Location)]
+
+2. "I'm craving a delicious Frittata. Is there a place nearby that serves it?"
+Named Entities: [delicious (Rating), Frittata (Dish), nearby (Location)]
+
+3. "Do you know of any Industrial-style restaurants in the area?"
+Named Entities: [Industrial (Amenity), area (Location)]

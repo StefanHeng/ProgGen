@@ -1,0 +1,8 @@
+1. Query: "What Wes Anderson movie came out in 1997 with a brilliant plot and a G rating?"
+   Named Entities: [Wes Anderson (Director), 1997 (Year), brilliant (Review), G (MPAA Rating)]
+
+2. Query: "Can you recommend a movie from 1997 with a Wes Anderson direction and a fascinating plot?"
+   Named Entities: [1997 (Year), Wes Anderson (Director), fascinating (Review)]
+
+3. Query: "Show me a film from 1997 that has a G rating and was directed by Wes Anderson"
+   Named Entities: [1997 (Year), G (MPAA Rating), Wes Anderson (Director)]

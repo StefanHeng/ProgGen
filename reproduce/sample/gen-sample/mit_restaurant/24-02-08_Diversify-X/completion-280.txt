@@ -1,0 +1,8 @@
+Query: "where can I find a late-night dining option with a high rating"
+Named Entities: [late-night dining (Amenity), high rating (Rating)]
+
+Query: "show me a restaurant that serves affordable late-night dining"
+Named Entities: [affordable (Price), late-night dining (Amenity)]
+
+Query: "I'm craving some late-night Mexican cuisine, what's open after midnight"
+Named Entities: [late-night (Hours), Mexican cuisine (Cuisine), after midnight (Hours)]

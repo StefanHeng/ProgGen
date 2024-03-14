@@ -1,0 +1,8 @@
+1. Query: "can you tell me about the set design of the newest animated family movie"
+Named Entities: [newest animated family movie (Title), Set design (Plot), families with young children]
+
+2. Query: "show me a drama film suitable for kids that was released in the last year"
+Named Entities: [drama film (Genre), kids (Viewers' Rating), last year (Year)]
+
+3. Query: "who was the set designer for the latest fantasy movie for families"
+Named Entities: [latest fantasy movie (Title), Set designer (Director), families with young children]

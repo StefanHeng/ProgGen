@@ -1,0 +1,8 @@
+1. Text Span: "nearest location"
+Label: (C). The span is a named entity but the category is not location. Entity Type: Amenity
+
+2. Text Span: "Borough"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "city center"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "I'm craving a steak. Is there a 24-hour restaurant nearby that serves late-night dining?"
+Named Entities: [steak (Dish), 24-hour (Hours), late-night dining (Amenity)]
+
+2. "I need a place to eat after work that won't break the bank. Any affordable late-night dining spots around here?"
+Named Entities: [after work (Hours), affordable (Price), late-night dining (Amenity)]
+
+3. "I'm looking for a quiet place to grab a bite around midnight. What are the options for late-night dining in this area?"
+Named Entities: [quiet (Amenity), midnight (Hours), late-night dining (Amenity)]

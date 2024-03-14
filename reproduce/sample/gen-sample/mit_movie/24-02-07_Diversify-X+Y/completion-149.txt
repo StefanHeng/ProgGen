@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with dynamic musical arrangements and a heartfelt soundtrack?"
+   Named Entities: [dynamic musical arrangements (Song), heartfelt soundtrack (Song)]
+
+2. "Is there a movie that features the song 'Don't You' and includes themes of oppression and resistance?"
+   Named Entities: [Don't You (Song), oppression and resistance (Plot)]
+
+3. "I'm looking for a movie with the song 'Cruella de Vil' and maybe something similar to 'Mamma Mia!', but I'm open to anything unrated."
+   Named Entities: [Cruella de Vil (Song), Mamma Mia! (Title), unrated (MPAA Rating)]

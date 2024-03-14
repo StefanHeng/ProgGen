@@ -1,0 +1,8 @@
+Query: "What are the hours for Joe's Pizza?"
+Named Entities: [Joe's Pizza (Restaurant Name), hours (Hours)]
+
+Query: "I'm in the mood for some sushi, where is the closest sushi restaurant?"
+Named Entities: [sushi (Cuisine), closest (Location), sushi restaurant (Amenity)]
+
+Query: "Find me a highly rated Mexican restaurant in the downtown area"
+Named Entities: [highly rated (Rating), Mexican (Cuisine), downtown area (Location)]

@@ -1,0 +1,8 @@
+Query: "What restaurants are recommended by the Georgia Straight in this area?"
+Named Entities: [recommended (Amenity), Georgia Straight (Amenity), area (Location)]
+
+Query: "I want to try some authentic Japanese cuisine near me, any suggestions?"
+Named Entities: [authentic Japanese cuisine (Cuisine), near me (Location)]
+
+Query: "Can you help me find a restaurant with a high rating and outdoor seating, according to the Georgia Straight?"
+Named Entities: [high rating (Rating), outdoor seating (Amenity), Georgia Straight (Amenity)]

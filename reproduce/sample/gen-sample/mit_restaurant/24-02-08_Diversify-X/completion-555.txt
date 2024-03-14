@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast spot with outdoor seating?"
+   Named Entities: [breakfast (Cuisine), outdoor seating (Amenity)]
+
+2. "What's a highly-rated breakfast place with bottomless coffee?"
+   Named Entities: [breakfast (Cuisine), highly-rated (Rating), bottomless coffee (Amenity)]
+
+3. "I'm looking for a breakfast joint with a cozy atmosphere, in the midtown area"
+   Named Entities: [breakfast (Cuisine), cozy atmosphere (Amenity), midtown area (Location)]

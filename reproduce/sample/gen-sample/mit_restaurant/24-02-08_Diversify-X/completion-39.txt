@@ -1,0 +1,8 @@
+Query: "I'm craving some seafood, can you recommend a good restaurant for dinner with a waterfront view?"
+Named Entities: [seafood (Cuisine), dinner (Amenity), waterfront view (Amenity)]
+
+Query: "I need a place with a romantic atmosphere and a good wine selection for dinner tonight"
+Named Entities: [romantic atmosphere (Amenity), good wine selection (Amenity), dinner (Amenity)]
+
+Query: "I want to try something new for dinner, can you suggest a restaurant with authentic sushi?"
+Named Entities: [authentic sushi (Cuisine), dinner (Amenity)]

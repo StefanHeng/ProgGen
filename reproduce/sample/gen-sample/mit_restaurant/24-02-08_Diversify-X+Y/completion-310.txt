@@ -1,0 +1,8 @@
+1. "I'm craving a burger and fries, can you recommend a nearby fast food restaurant with dine-in option?"
+   Named Entities: [burger and fries (Dish), fast food (Cuisine), dine-in (Amenity)]
+
+2. "What's the best fast food place in the area for a quick dine-in meal?"
+   Named Entities: [fast food (Cuisine), dine-in (Amenity)]
+
+3. "Is there a fast food spot nearby that offers dine-in and has good reviews?"
+   Named Entities: [fast food (Cuisine), dine-in (Amenity), good reviews (Rating)]

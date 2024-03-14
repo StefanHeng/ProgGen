@@ -1,0 +1,8 @@
+1. "Can you recommend a highly acclaimed restaurant with a great view in the downtown area?"
+Named Entities: [highly acclaimed (Rating), great view (Amenity), downtown area (Location)]
+
+2. "I'm craving some Thai cuisine, could you find me a top-rated Thai restaurant that's open until 10 pm tonight?"
+Named Entities: [Thai (Cuisine), top-rated (Rating), open until 10 pm (Hours)]
+
+3. "I need to book a reservation at a fancy Italian place for a party of 6 at 7:30 pm."
+Named Entities: [fancy (Amenity), Italian (Cuisine), party of 6 (Amenity), 7:30 pm (Hours)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a romantic comedy movie from the 1990s with a high viewers' rating?"
+   Named Entities: [romantic comedy (Genre), 1990s (Year), high (Viewers' Rating)]
+
+2. "I'm looking for a drama film directed by a female director that received positive reviews."
+   Named Entities: [drama (Genre), female director (Director), positive reviews (Review)]
+
+3. "Which movie starring Tom Hanks has the highest viewers' rating?"
+   Named Entities: [Tom Hanks (Actor), highest (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Text Span: "Wikimedia Foundation"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "ECO Summit"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. The correct span boundary is "ECO Summit"
+
+3. Text Span: "United Nations"
+Label: (A). The span is a named entity of type organization

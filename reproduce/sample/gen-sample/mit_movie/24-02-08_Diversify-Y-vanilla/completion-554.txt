@@ -1,0 +1,8 @@
+Query: "Can you recommend a mesmerizing movie from 2018?"
+Named Entities: [mesmerizing (Viewers' Rating), 2018 (Year)]
+
+Query: "Show me a trailer for the film Sweet Home Alabama"
+Named Entities: [Sweet Home Alabama (Title), trailer (Trailer)]
+
+Query: "Who is the director of the movie Sweet Home Alabama"
+Named Entities: [Sweet Home Alabama (Title), director (Director)]

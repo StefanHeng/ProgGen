@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie starring Rachel McAdams with an Unrated rating?"
+Named Entities: [Rachel McAdams (Actor), Unrated (MPAA Rating)]
+
+2. Query: "Is Eddie Redmayne in The Fugitive, and if so, what is his role in the movie?"
+Named Entities: [Eddie Redmayne (Actor), The Fugitive (Title)]
+
+3. Query: "I'm interested in watching a movie with Morgan Freeman and a mind-bending plot like Inception. Can you suggest a film?"
+Named Entities: [Morgan Freeman (Actor), Inception (Title), mind-bending plot (Plot)]

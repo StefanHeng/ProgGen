@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a place with a trendy ambiance and a good {{cocktail menu}} for late-night dining."
+Text Span: "cocktail menu"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "I'm craving a {{rustic and charming}} brunch spot, preferably with a good rating"
+Text Span: "rustic and charming"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I'm looking for a {{fancy}} restaurant with a Michelin star in the downtown area"
+Text Span: "fancy"
+Label: (A). The span is a named entity of type amenity

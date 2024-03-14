@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a drama movie with a 7/10 rating and involving terminal illness"
+   Named Entities: [drama (Genre), 7/10 rating (Viewers' Rating), terminal illness (Plot)]
+
+2. Query: "Who directed the action movie with a 7/10 rating released in 2010"
+   Named Entities: [action (Genre), 7/10 rating (Viewers' Rating), 2010 (Year)]
+
+3. Query: "Show me a romance movie with a 7/10 rating and featuring the song 'Can't Help Falling in Love'"
+   Named Entities: [romance (Genre), 7/10 rating (Viewers' Rating), 'Can't Help Falling in Love' (Song)]

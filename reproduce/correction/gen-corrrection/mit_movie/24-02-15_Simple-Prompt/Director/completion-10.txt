@@ -1,0 +1,11 @@
+1. Query: "what is the {{director's cut}} of blade runner"
+Text Span: "director's cut"
+Label: (C). Other
+
+2. Query: "Who {{directed}} the movie Forrest Gump?"
+Text Span: "directed"
+Label: (D). Not a Named Entity
+
+3. Query: "who is the {{director}} of the movie inception starring leonardo dicaprio"
+Text Span: "director"
+Label: (D). Not a Named Entity

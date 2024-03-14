@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about any movies that have won big awards?"
+   Named Entities: [big awards (Awards)]
+
+2. Query: "I'm curious about any highly acclaimed films, could you share some with me?"
+   Named Entities: [highly acclaimed films (Awards)]
+
+3. Query: "Do you know any movies that have been nominated for prestigious awards recently?"
+   Named Entities: [prestigious awards (Awards), recently (Year)]

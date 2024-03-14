@@ -1,0 +1,8 @@
+1. "Where can I find a buffet restaurant with a drive-thru?"
+Named Entities: [buffet (Amenity), drive-thru (Amenity)]
+
+2. "Which restaurant offers buffet and drive-thru options?"
+Named Entities: [buffet (Amenity), drive-thru (Amenity)]
+
+3. "Can you recommend a buffet restaurant that has a drive-thru service?"
+Named Entities: [buffet (Amenity), drive-thru (Amenity)]

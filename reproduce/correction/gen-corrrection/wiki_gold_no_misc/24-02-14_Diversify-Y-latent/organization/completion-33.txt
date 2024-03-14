@@ -1,0 +1,11 @@
+1. Sentence: "The organization behind {{Lollapalooza}}, C3 Presents, also produces other notable music festivals such as Austin City Limits and Voodoo Experience."
+Text Span: "Lollapalooza"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Located in the heart of Paris, the {{Louvre Museum}} is one of the world's largest and most visited museums, housing iconic works of art such as the Mona Lisa and the Venus de Milo."
+Text Span: "Louvre Museum"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "As a young soldier in the {{British Army}}, William served in Iraq during the Gulf War."
+Text Span: "British Army"
+Label: (A). The span is a named entity of type organization

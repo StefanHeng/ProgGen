@@ -1,0 +1,8 @@
+1. "I'm craving some authentic Portuguese cuisine, where can I find a place in Boston with late-night snacking hours?"
+Named Entities: [Portuguese (Cuisine), Boston (Location), late-night snacking hours (Hours)]
+
+2. "What's a good restaurant near here with a diverse menu and great ratings, like Olive Garden?"
+Named Entities: [diverse menu (Amenity), great ratings (Rating), Olive Garden (Restaurant Name)]
+
+3. "I only have $15, so I need a restaurant with a affordable price in this area. Can you help me find one?"
+Named Entities: [$15 (Price), this area (Location) ]

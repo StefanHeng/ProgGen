@@ -1,0 +1,8 @@
+Query: "Can you recommend a good [Chinese] restaurant nearby?"
+Named Entities: [Chinese (Cuisine), nearby (Location)]
+
+Query: "What are the [Chinese] restaurants that are open now?"
+Named Entities: [Chinese (Cuisine), open now (Hours)]
+
+Query: "I'm looking for a [Chinese] restaurant with high ratings and reasonable prices."
+Named Entities: [Chinese (Cuisine), high ratings (Rating), reasonable prices (Price)]

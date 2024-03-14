@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a café with brunch menu for this {{weekend}}"
+Text Span: "weekend"
+Label: (A). The span is a named entity of type hours
+
+2. Query: "show me a breakfast restaurant with a {{24-hour}} menu"
+Text Span: "24-hour"
+Label: (A). The span is a named entity of type hours
+
+3. Query: "what are the {{opening hours}} for the nearest café with vegan options"
+Text Span: "opening hours"
+Label: (A). The span is a named entity of type hours

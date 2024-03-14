@@ -1,0 +1,8 @@
+Query: "Hey, what's a really good movie to watch this weekend?"
+Named Entities: []
+
+Query: "Can you find me a movie with a great soundtrack playing nearby?"
+Named Entities: [great soundtrack (Song)]
+
+Query: "Any idea what movies are playing at the theater down the street?"
+Named Entities: [theater down the street (Location)]

@@ -1,0 +1,10 @@
+
+
+Sentence: "Tesla unveils new electric car model."
+Named Entities: [Tesla (organization)]
+
+Sentence: "President Biden announces new infrastructure plan."
+Named Entities: [President Biden (person)]
+
+Sentence: "Japan's Tokyo Olympics officially kick off."
+Named Entities: [Japan (location), Tokyo (location), Olympics (organization)]

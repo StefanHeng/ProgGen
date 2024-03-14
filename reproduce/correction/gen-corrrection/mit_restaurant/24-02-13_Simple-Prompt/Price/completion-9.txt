@@ -1,0 +1,11 @@
+1. Query: "What's the most {{affordable}} restaurant in the area?"
+Text Span: "affordable"
+Label: (C). Wrong Type. The correct entity type is Rating.
+
+2. Query: "Are there any {{all-you-can-eat}} buffets in this area?"
+Text Span: "all-you-can-eat"
+Label: (C). Correct Type. The span is a named entity but the category is not price.
+
+3. Query: "Where can I get a good slice of pizza for {{under $5}}?"
+Text Span: "under $5"
+Label: (A). Correct Entity Annotation.

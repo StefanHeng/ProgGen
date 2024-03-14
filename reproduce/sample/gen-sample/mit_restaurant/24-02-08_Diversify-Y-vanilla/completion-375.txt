@@ -1,0 +1,8 @@
+Query: "I'm craving some [spring rolls], where can I find the best ones in town?"
+Named Entities: [spring rolls (Dish), best (Rating), town (Location)]
+
+Query: "What are the [spring roll] options at the Thai restaurant downtown?"
+Named Entities: [spring roll (Dish), Thai (Cuisine), downtown (Location)]
+
+Query: "Can you recommend a [restaurant] with a diverse menu that includes [spring rolls]?"
+Named Entities: [restaurant (Restaurant Name), diverse (Amenity), spring rolls (Dish)]

@@ -1,0 +1,8 @@
+Query: "which bistro in the area serves a good breakfast and has wifi"
+Named Entities: [bistro (Restaurant Name), good (Rating), breakfast (Cuisine), wifi (Amenity)]
+
+Query: "i need to find a breakfast spot with wifi that opens before 8 am"
+Named Entities: [breakfast spot (Cuisine), wifi (Amenity), before 8 am (Hours)]
+
+Query: "where can I have a delicious breakfast with wifi that is affordable"
+Named Entities: [delicious (Rating), breakfast (Cuisine), wifi (Amenity), affordable (Price)]

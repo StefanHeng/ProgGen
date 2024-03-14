@@ -1,0 +1,8 @@
+Sentence: "The film was directed by Christopher Nolan and starred Leonardo DiCaprio."
+Named Entities: [Christopher Nolan (person), Leonardo DiCaprio (person)]
+
+Sentence: "It was filmed on location in Paris and Tokyo."
+Named Entities: [Paris (location), Tokyo (location)]
+
+Sentence: "The film was produced by Warner Bros. Pictures."
+Named Entities: [Warner Bros. Pictures (organization)]

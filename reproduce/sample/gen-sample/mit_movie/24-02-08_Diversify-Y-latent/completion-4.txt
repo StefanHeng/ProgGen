@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a cyberpunk movie that has exceeded expectations?"
+Named Entities: [Cyberpunk (Genre), Exceeded expectations (Review)]
+
+2. Query: "Which movie has Ron Weasley as a character?"
+Named Entities: [Ron Weasley (Character)]
+
+3. Query: "Show me a riveting thriller directed by Alfred Hitchcock"
+Named Entities: [Riveting (Review), Alfred Hitchcock (Director)]

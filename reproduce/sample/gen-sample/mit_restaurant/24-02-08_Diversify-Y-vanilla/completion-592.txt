@@ -1,0 +1,8 @@
+1. "I'm looking for a prestigious restaurant in the area serving Finnish cuisine, do you have any recommendations?"
+Named Entities: [prestigious (Amenity), Finnish (Cuisine)]
+
+2. "Can you find a restaurant with a high rating and outdoor seating?"
+Named Entities: [high rating (Rating), outdoor seating (Amenity)]
+
+3. "What are the business hours for the Italian restaurant near the park?"
+Named Entities: [Italian (Cuisine), near the park (Location)]

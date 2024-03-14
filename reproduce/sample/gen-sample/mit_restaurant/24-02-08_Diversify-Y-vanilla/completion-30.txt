@@ -1,0 +1,8 @@
+Query: "I'm craving some French cuisine, where can I find L'Atelier de Joël Robuchon?"
+Named Entities: [L'Atelier de Joël Robuchon (Restaurant Name), French cuisine (Cuisine)]
+
+Query: "What are the best seafood restaurants in Mexico City?"
+Named Entities: [seafood (Cuisine), Mexico City (Location)]
+
+Query: "I want to try some classic American dishes, can you recommend a place near Central with a good variety?"
+Named Entities: [classic American dishes (Cuisine), Central (Location)]

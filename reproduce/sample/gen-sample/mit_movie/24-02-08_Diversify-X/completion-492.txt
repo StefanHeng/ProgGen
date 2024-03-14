@@ -1,0 +1,8 @@
+Query: "Can I find the movie Inception with Leonardo DiCaprio available on any streaming platform?"
+Named Entities: [Inception (Title), Leonardo DiCaprio (Actor)]
+
+Query: "I'm looking for a comedy from the 1990s that has a viewers' rating of at least 4 stars. Is there any streaming platform offering such a movie?"
+Named Entities: [comedy (Genre), 1990s (Year), 4 stars (Viewers' Rating)]
+
+Query: "Is there a movie directed by Quentin Tarantino with Samuel L. Jackson that is available for streaming?"
+Named Entities: [Quentin Tarantino (Director), Samuel L. Jackson (Actor)]

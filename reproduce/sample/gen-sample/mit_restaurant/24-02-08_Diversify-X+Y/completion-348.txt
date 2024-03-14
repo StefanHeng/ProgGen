@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-rated French restaurant with outdoor seating?"
+Named Entities: [French (Cuisine), high-rated (Rating), outdoor seating (Amenity)]
+
+Query: "What are the operating hours of the best Italian restaurant in the downtown area?"
+Named Entities: [Italian (Cuisine), operating hours (Hours), downtown area (Location)]
+
+Query: "I'm looking for a top-notch seafood restaurant that is within a reasonable price range."
+Named Entities: [seafood (Cuisine), top-notch (Rating), reasonable price range (Price)]

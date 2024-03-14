@@ -1,0 +1,8 @@
+1. Query: "Is it true that the movie 'Arrival' received an Academy Award nomination for Best Director?"
+Named Entities: ['Arrival' (Title), Academy Award nominee (Awards), Best Director (Award category)]
+
+2. Query: "I heard that the film 'Mean Girls' was nominated for an award, but can you confirm if it's for a remarkable achievement?"
+Named Entities: ['Mean Girls' (Title), nominated (Awards), remarkable achievement (Award category)]
+
+3. Query: "Are there any alien invasion movies with Tina Fey in them that were approved by critics and received a nominated trailer?"
+Named Entities: [alien invasion (Genre), Tina Fey (Actor), approved (Review), nominated trailer (Awards)]

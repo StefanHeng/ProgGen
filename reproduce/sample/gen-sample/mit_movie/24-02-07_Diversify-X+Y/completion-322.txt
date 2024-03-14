@@ -1,0 +1,8 @@
+1. "I'm not sure where to find it, but is the movie Scar available for streaming on Disney+?"
+Named Entities: [Scar (Title), Disney+ (Streaming Platform)]
+
+2. "Do you know if there's a movie about cybercrime that's not rated NR?"
+Named Entities: [cybercrime (Plot), NR (MPAA Rating)]
+
+3. "I'm curious if there are any streamable movies on Disney+ that involve a character named Mark and are about cybercrime?"
+Named Entities: [Mark (Character), cybercrime (Plot), Disney+ (Streaming Platform)]

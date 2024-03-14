@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with WiFi and outdoor seating for dinner tonight?"
+Named Entities: [WiFi (Amenity), outdoor seating (Amenity), dinner tonight (Hours)]
+
+2. "I'm craving for some authentic Italian pizza, where can I find a place with WiFi and a reasonable price?"
+Named Entities: [Italian (Cuisine), pizza (Dish), WiFi (Amenity), reasonable price (Price)]
+
+3. "What's the highest rated restaurant in the area that serves brunch and has WiFi?"
+Named Entities: [highest rated (Rating), brunch (Amenity), WiFi (Amenity)]

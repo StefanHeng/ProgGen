@@ -1,0 +1,8 @@
+1. "Is there a restaurant within walking distance from here that serves halal cuisine?"
+Named Entities: [Within walking distance (Amenity), halal cuisine (Cuisine)]
+
+2. "I want to have dinner at Arby's tonight, what time do they close?"
+Named Entities: [Arby's (Restaurant Name), tonight (Hours)]
+
+3. "Can you recommend a place with high ratings and outdoor seating for brunch?"
+Named Entities: [high ratings (Rating), outdoor seating (Amenity), brunch (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants nearby with a high rating for seafood dishes?"
+Named Entities: [seafood (Cuisine), high (Rating)]
+
+2. "I'm looking for a casual dining restaurant with outdoor seating and a moderate price range for dinner."
+Named Entities: [outdoor seating (Amenity), moderate (Price), dinner (Hours)]
+
+3. "What's the best Italian restaurant in the area with a price range of $30-50 per person for dinner?"
+Named Entities: [Italian (Cuisine), $30-50 per person (Price), dinner (Hours)]

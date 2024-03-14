@@ -1,0 +1,8 @@
+1. "Hey there! Can you tell me the reviews and ratings for the mind-blowing haunted house movie that came out last year?"
+Named Entities: [mind-blowing (Review), haunted house (Genre), last year (Year)]
+
+2. "I'm super excited to find out about the chilling spy movie that got an excellent rating. Can you show me a movie clip for it?"
+Named Entities: [chilling (Genre), spy (Plot), excellent rating (Viewers' Rating), movie clip (Trailer)]
+
+3. "I need to know the name of the movie with the excellent rating that everyone's talking about! It's gotta be a spy movie, right?"
+Named Entities: [excellent rating (Viewers' Rating), spy (Plot)]

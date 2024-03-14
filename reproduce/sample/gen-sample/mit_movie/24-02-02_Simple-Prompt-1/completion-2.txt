@@ -1,0 +1,100 @@
+1. "what is the viewers' rating for the movie inception"
+   Named Entities: [inception (Title), viewers' rating (Viewers' Rating)]
+2. "can you tell me the year when the movie jaws was released"
+   Named Entities: [jaws (Title), year (Year)]
+3. "who directed the movie the shawshank redemption"
+   Named Entities: [the shawshank redemption (Title), directed (Director)]
+4. "what genre does the movie the godfather belong to"
+   Named Entities: [the godfather (Title), genre (Genre)]
+5. "what is the MPAA rating of the movie titanic"
+   Named Entities: [titanic (Title), MPAA rating (MPAA Rating)]
+6. "can you provide the plot of the movie the matrix"
+   Named Entities: [the matrix (Title), plot (Plot)]
+7. "which actor starred in the movie cast away"
+   Named Entities: [cast away (Title), actor (Actor)]
+8. "show me the trailer for the movie avatar"
+   Named Entities: [avatar (Title), trailer (Trailer)]
+9. "what movie features the song my heart will go on"
+   Named Entities: [my heart will go on (Song)]
+10. "what are the reviews for the movie the dark knight"
+    Named Entities: [the dark knight (Title), reviews (Review)]
+11. "who is the director of the film the social network"
+    Named Entities: [the social network (Title), director (Director)]
+12. "can you tell me the MPAA rating of the film the lion king"
+    Named Entities: [the lion king (Title), MPAA rating (MPAA Rating)]
+13. "give me the year when the movie the silence of the lambs was released"
+    Named Entities: [the silence of the lambs (Title), year (Year)]
+14. "what genre does the movie the notebook fall into"
+    Named Entities: [the notebook (Title), genre (Genre)] 
+15. "what is the viewers' rating for the film the shawshank redemption"
+    Named Entities: [the shawshank redemption (Title), viewers' rating (Viewers' Rating)]
+16. "how many characters does harry potter and the prisoner of azkaban have"
+    Named Entities: [harry potter and the prisoner of azkaban (Title), characters (Character)]
+17. "show me a movie with the song eye of the tiger"
+    Named Entities: [eye of the tiger (Song)]
+18. "what are the reviews for the film the godfather"
+    Named Entities: [the godfather (Title), reviews (Review)]
+19. "who is the director of the movie the empire strikes back"
+    Named Entities: [the empire strikes back (Title), director (Director)]
+20. "can you tell me the MPAA rating of the movie pulp fiction"
+    Named Entities: [pulp fiction (Title), MPAA rating (MPAA Rating)]
+21. "give me the plot of the film the great gatsby"
+    Named Entities: [the great gatsby (Title), plot (Plot)]
+22. "which actor played the lead role in the movie forrest gump"
+    Named Entities: [forrest gump (Title), actor (Actor)]
+23. "show me the trailer for the movie the avengers"
+    Named Entities: [the avengers (Title), trailer (Trailer)]
+24. "what movie features the song my heart will go on"
+    Named Entities: [my heart will go on (Song)]
+25. "can you tell me the year when the movie the lord of the rings: the fellowship of the ring was released"
+    Named Entities: [the lord of the rings: the fellowship of the ring (Title), year (Year)]
+26. "what genre does the movie the matrix belong to"
+    Named Entities: [the matrix (Title), genre (Genre)]
+27. "what is the viewers' rating for the film Jurassic Park"
+    Named Entities: [Jurassic Park (Title), viewers' rating (Viewers' Rating)]
+28. "how many characters does the movie the lion king have"
+    Named Entities: [the lion king (Title), characters (Character)]
+29. "show me a movie with the song over the rainbow"
+    Named Entities: [over the rainbow (Song)]
+30. "what are the reviews for the film the dark knight"
+    Named Entities: [the dark knight (Title), reviews (Review)]
+31. "who is the director of the movie the social network"
+    Named Entities: [the social network (Title), director (Director)]
+32. "can you tell me the MPAA rating of the film the lion king"
+    Named Entities: [the lion king (Title), MPAA rating (MPAA Rating)]
+33. "give me the year when the movie the sound of music was released"
+    Named Entities: [the sound of music (Title), year (Year)]
+34. "what genre does the movie the notebook fall into"
+    Named Entities: [the notebook (Title), genre (Genre)] 
+35. "what is the viewers' rating for the film the shawshank redemption"
+    Named Entities: [the shawshank redemption (Title), viewers' rating (Viewers' Rating)]
+36. "how many characters does harry potter and the prisoner of azkaban have"
+    Named Entities: [harry potter and the prisoner of azkaban (Title), characters (Character)]
+37. "show me a movie with the song eye of the tiger"
+    Named Entities: [eye of the tiger (Song)]
+38. "what are the reviews for the film the godfather"
+    Named Entities: [the godfather (Title), reviews (Review)]
+39. "who is the director of the movie the empire strikes back"
+    Named Entities: [the empire strikes back (Title), director (Director)]
+40. "can you tell me the MPAA rating of the movie pulp fiction"
+    Named Entities: [pulp fiction (Title), MPAA rating (MPAA Rating)]
+41. "give me the plot of the film the great gatsby"
+    Named Entities: [the great gatsby (Title), plot (Plot)]
+42. "which actor played the lead role in the movie forrest gump"
+    Named Entities: [forrest gump (Title), actor (Actor)]
+43. "show me the trailer for the movie the avengers"
+    Named Entities: [the avengers (Title), trailer (Trailer)]
+44. "what movie features the song my heart will go on"
+    Named Entities: [my heart will go on (Song)]
+45. "can you tell me the year when the movie the lord of the rings: the fellowship of the ring was released"
+    Named Entities: [the lord of the rings: the fellowship of the ring (Title), year (Year)]
+46. "what genre does the movie the matrix belong to"
+    Named Entities: [the matrix (Title), genre (Genre)]
+47. "what is the viewers' rating for the film Jurassic Park"
+    Named Entities: [Jurassic Park (Title), viewers' rating (Viewers' Rating)]
+48. "how many characters does the movie the lion king have"
+    Named Entities: [the lion king (Title), characters (Character)]
+49. "show me a movie with the song over the rainbow"
+    Named Entities: [over the rainbow (Song)]
+50. "what are the reviews for the film the dark knight"
+    Named Entities: [the dark knight (Title), reviews (Review)]

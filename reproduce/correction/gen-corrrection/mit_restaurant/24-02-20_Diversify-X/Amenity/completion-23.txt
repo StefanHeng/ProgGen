@@ -1,0 +1,8 @@
+1. Text Span: "fine dining"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "diverse menu"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "30s"
+Label: (D). The span is not a named entity

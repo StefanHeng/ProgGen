@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby Italian restaurant with a good wine selection?"
+Named Entities: [Italian (Cuisine), nearby (Location), good (Rating), wine selection (Amenity)]
+
+2. "What are the operating hours for Burger King on Main Street?"
+Named Entities: [Burger King (Restaurant Name), Main Street (Location), operating hours (Hours)]
+
+3. "I'm in the mood for some sushi, is there a place with affordable lunch specials?"
+Named Entities: [sushi (Cuisine), affordable (Price), lunch specials (Amenity)]

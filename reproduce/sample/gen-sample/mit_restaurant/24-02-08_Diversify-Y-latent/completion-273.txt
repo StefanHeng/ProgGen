@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with weekend buffet timings in my neighborhood?"
+Named Entities: [Weekend buffet timings (Amenity), In my neighborhood (Location)]
+
+2. "I'm looking for a restaurant in Vancouver that serves authentic Thai cuisine."
+Named Entities: [Vancouver (Location), authentic Thai (Cuisine)]
+
+3. "Where can I find a place with a good menu and affordable prices for dinner tonight?"
+Named Entities: [good (Rating), affordable prices (Price), dinner tonight (Amenity)]

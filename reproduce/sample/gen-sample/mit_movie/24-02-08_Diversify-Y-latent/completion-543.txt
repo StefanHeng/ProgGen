@@ -1,0 +1,8 @@
+1. "Can you suggest a movie directed by Steven Soderbergh with a supernatural plot?"
+   Named Entities: [Steven Soderbergh (Director), supernatural (Genre)]
+
+2. "What is the viewers' rating for the 2017 film Logan, starring Hugh Jackman?"
+   Named Entities: [2017 (Year), Logan (Title), Hugh Jackman (Actor)]
+
+3. "Show me the trailer for the movie Inception, directed by Christopher Nolan."
+   Named Entities: [Inception (Title), Christopher Nolan (Director), trailer (Trailer)]

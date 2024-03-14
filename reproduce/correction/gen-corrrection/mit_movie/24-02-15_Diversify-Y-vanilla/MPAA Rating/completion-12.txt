@@ -1,0 +1,5 @@
+1. Text Span: "all ages"
+Label: (C). The span is a named entity but the category is not mpaa rating. The correct entity type is other.
+
+2. Text Span: "S-rated"
+Label: (D). The span is not a named entity.

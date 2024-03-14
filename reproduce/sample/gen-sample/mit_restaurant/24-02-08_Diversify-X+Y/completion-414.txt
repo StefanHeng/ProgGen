@@ -1,0 +1,8 @@
+Query: "Can you recommend any San Pellegrino Top 50 fine dining restaurants with quirky and eccentric ambience?"
+Named Entities: [San Pellegrino Top 50 (Rating), fine dining (Cuisine)]
+
+Query: "I'm looking for a restaurant with early bird specials that offers quirky and eccentric fine dining experience."
+Named Entities: [early bird specials (Amenity), quirky and eccentric (Amenity), fine dining (Cuisine)]
+
+Query: "Where can I find a fine dining restaurant known for its quirky and eccentric ambience and also listed in the San Pellegrino Top 50 rankings?"
+Named Entities: [fine dining (Cuisine), quirky and eccentric (Amenity), San Pellegrino Top 50 (Rating)]

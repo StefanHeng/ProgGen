@@ -1,0 +1,8 @@
+1. "Can you recommend any good action movies with a 2-star rating?"
+Named Entities: [action (Genre), 2-star rating (Viewers' Rating)]
+
+2. "I'm looking for a movie with the song Smooth Criminal, can you help me find one?"
+Named Entities: [Smooth Criminal (Song)]
+
+3. "What are the top 10 movies from 2016 with a 2/10 rating?"
+Named Entities: [2016 (Year), 2/10 rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Spoken Query: "What movie falls under the category of science fiction and has a strong emphasis on time travel?"
+   Named Entities: [science fiction (Genre), time travel (Plot)]
+
+2. Spoken Query: "Show me a movie that belongs to the horror genre and features a haunted house as the main setting."
+   Named Entities: [horror (Genre), haunted house (Plot)]
+
+3. Spoken Query: "Can you recommend a comedy film that is categorized as a romantic comedy and revolves around a workplace romance?"
+   Named Entities: [comedy (Genre), romantic comedy (Subgenre), workplace romance (Plot)]

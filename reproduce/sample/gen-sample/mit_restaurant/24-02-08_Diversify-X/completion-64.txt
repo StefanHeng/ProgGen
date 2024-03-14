@@ -1,0 +1,8 @@
+Query: "Can you recommend a fast food restaurant with outdoor seating?"
+Named Entities: [fast food (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm in the mood for fast food with a nice outdoor dining area, can you suggest a place?"
+Named Entities: [fast food (Cuisine), outdoor dining area (Amenity)]
+
+Query: "Is there a fast food joint nearby that has a patio?"
+Named Entities: [fast food (Cuisine), patio (Amenity)]

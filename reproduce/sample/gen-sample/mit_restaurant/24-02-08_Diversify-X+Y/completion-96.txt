@@ -1,0 +1,8 @@
+Query: "I'm in the mood for Cajun cuisine, where can I get some bacon and eggs for breakfast?"
+Named Entities: [Cajun (Cuisine), bacon and eggs (Dish), breakfast (Amenity)]
+
+Query: "Which restaurant serves Cajun style bacon and eggs for breakfast?"
+Named Entities: [Cajun (Cuisine), bacon and eggs (Dish), breakfast (Amenity)]
+
+Query: "I want to try some Cajun breakfast, where can I find bacon and eggs on the menu?"
+Named Entities: [Cajun (Cuisine), bacon and eggs (Dish), breakfast (Amenity)]

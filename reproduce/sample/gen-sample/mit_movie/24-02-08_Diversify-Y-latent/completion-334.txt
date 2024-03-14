@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with brilliant acting from 1975?"
+Named Entities: [brilliant acting (Review), 1975 (Year)]
+
+2. Query: "What is the genre of the movie Harry Potter and the Sorcerer's Stone?"
+Named Entities: [Harry Potter and the Sorcerer's Stone (Title)]
+
+3. Query: "Show me a war movie from 1974."
+Named Entities: [war (Genre), 1974 (Year)]

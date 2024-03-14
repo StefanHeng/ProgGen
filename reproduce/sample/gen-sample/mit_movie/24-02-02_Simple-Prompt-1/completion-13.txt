@@ -1,0 +1,47 @@
+1. What is the viewers' rating for Inception?
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]
+
+2. Please show me a trailer for The Dark Knight.
+Named Entities: [trailer (Trailer), The Dark Knight (Title)]
+
+3. Can you suggest a good science fiction movie from the 1980s?
+Named Entities: [science fiction (Genre), 1980s (Year)]
+
+4. Who directed The Shawshank Redemption?
+Named Entities: [The Shawshank Redemption (Title), directed (Director)]
+
+5. I want to watch a comedy film with Jim Carrey.
+Named Entities: [comedy (Genre), Jim Carrey (Actor)]
+
+6. What is the MPAA rating for The Godfather?
+Named Entities: [The Godfather (Title), MPAA rating (MPAA Rating)]
+
+7. Recommend a movie with a strong female lead character.
+Named Entities: [strong female lead character (Character)]
+
+8. Could you play the song "My Heart Will Go On" the Titanic movie soundtrack?
+Named Entities: ["My Heart Will Go On" (Song), Titanic (Title)]
+
+9. I'm looking for a movie with a high IMDb rating.
+Named Entities: [high IMDb rating (Viewers' Rating)]
+
+10. What is the plot of The Silence of the Lambs?
+Named Entities: [The Silence of the Lambs (Title), plot (Plot)]
+
+11. Can you display the viewers' reviews for Avengers: Endgame?
+Named Entities: [Avengers: Endgame (Title), viewers' reviews (Review)]
+
+12. Who is the lead actor in the movie Pulp Fiction?
+Named Entities: [Pulp Fiction (Title), lead actor (Actor)]
+
+13. Show me a list of action movies from the 1990s.
+Named Entities: [action (Genre), 1990s (Year)]
+
+14. What is the name of the character played by Johnny Depp in Pirates of the Caribbean?
+Named Entities: [character (Character), Johnny Depp (Actor), Pirates of the Caribbean (Title)]
+
+15. Can you find a feel-good romantic comedy released in the past year?
+Named Entities: [feel-good (Review), romantic comedy (Genre)]
+
+16. I want to watch a horror movie with a high Rotten Tomatoes rating.
+Named Entities: [horror (Genre), high Rotten Tomatoes rating (Viewers' Rating)]

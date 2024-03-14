@@ -1,0 +1,8 @@
+1. "I'm looking for a movie with supernatural forces and a strong viewers' rating"
+Named Entities: [supernatural forces (Plot), strong (Viewers' Rating)]
+  
+2. "What is your opinion on the casting choices critique in the PG-13/R film directed by James Mangold?"
+Named Entities: [PG-13/R (MPAA Rating), James Mangold (Director), casting choices critique (Review)]
+
+3. "Can you recommend a film with the song 'I Will Survive' and excellent makeup and hairstyling assessment?"
+Named Entities: ['I Will Survive' (Song), excellent (Makeup and hairstyling assessment)]

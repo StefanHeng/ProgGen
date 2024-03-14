@@ -1,0 +1,8 @@
+1. Text Span: "Recommended for Adults"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "rated R"
+Label: (B). Wrong Boundary. The correct span boundary is "R".
+
+3. Text Span: "highest MPAA rating"
+Label: (C). Wrong Type. The correct entity type is other.

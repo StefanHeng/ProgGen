@@ -1,0 +1,11 @@
+1. Query: "Is there a film that has some interesting behind-the-scenes stories, maybe directed by someone like {{Akira Kurosawa}}?"
+Text Span: "Akira Kurosawa"
+Label: (A). The span is a named entity of type director
+
+2. Query: "Can you recommend a well-executed movie directed by {{Jordan Peele}} with an impeccable plot?"
+Text Span: "Jordan Peele"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Can you recommend a movie directed by {{Terry Gilliam}} that has a high viewers' rating?"
+Text Span: "Terry Gilliam"
+Label: (A). The span is a named entity of type director

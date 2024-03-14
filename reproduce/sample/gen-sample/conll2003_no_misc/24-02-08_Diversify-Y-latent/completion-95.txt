@@ -1,0 +1,8 @@
+Sentence: "Los Angeles mayor announces new traffic control measures."
+Named Entities: [Los Angeles (location), mayor (person)]
+
+Sentence: "The Los Angeles Lakers will face the Golden State Warriors in their next game."
+Named Entities: [Los Angeles (location), Lakers (organization), Golden State Warriors (organization)]
+
+Sentence: "Heavy rain causes flooding in Los Angeles area."
+Named Entities: [Heavy rain (location), Los Angeles (location)]

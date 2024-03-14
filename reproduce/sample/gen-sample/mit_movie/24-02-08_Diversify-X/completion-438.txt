@@ -1,0 +1,8 @@
+Query: "Has the movie 'The Shawshank Redemption' won any awards or nominations?"
+Named Entities: [The Shawshank Redemption (Title), awards or nominations (Review)]
+
+Query: "What awards did 'Parasite' win in the year it was released?"
+Named Entities: [Parasite (Title), awards (Review), year it was released (Year)]
+
+Query: "I need to know if 'La La Land' received any nominations for its music and songs in the film"
+Named Entities: [La La Land (Title), nominations (Review), music and songs (Song)]

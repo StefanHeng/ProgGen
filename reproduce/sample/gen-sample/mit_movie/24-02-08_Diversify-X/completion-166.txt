@@ -1,0 +1,8 @@
+1. "Can you tell me about the director of the movie Casablanca and some interesting behind-the-scenes stories?"
+   Named Entities: [Casablanca (Title), director (Director), behind-the-scenes (Plot)]
+
+2. "What are some highly rated classic musical films from the 1950s that I should watch?"
+   Named Entities: [musical (Genre), 1950s (Year), highly rated (Viewers' Rating)]
+
+3. "I'm interested in learning about the making of the movie The Godfather and the impact it had on the crime genre."
+   Named Entities: [The Godfather (Title), making of (Plot), crime (Genre)]

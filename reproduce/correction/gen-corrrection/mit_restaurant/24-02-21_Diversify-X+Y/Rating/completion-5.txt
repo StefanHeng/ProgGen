@@ -1,0 +1,8 @@
+1. Text Span: "good"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "five-star"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "good rating"
+Label: (A). Correct Entity Annotation.

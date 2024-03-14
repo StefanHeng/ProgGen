@@ -1,0 +1,8 @@
+1. "Can you recommend a film from the 80s that falls into the horror genre?"
+   Named Entities: [80s (Year), horror (Genre)]
+
+2. "What's a good mystery movie with a unique plot twist?"
+   Named Entities: [mystery (Genre), unique plot twist (Plot)]
+
+3. "I'm looking for a movie that blends romance with comedy. Any suggestions?"
+   Named Entities: [romance (Genre), comedy (Genre)]

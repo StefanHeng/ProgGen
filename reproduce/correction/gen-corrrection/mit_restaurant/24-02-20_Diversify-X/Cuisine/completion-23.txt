@@ -1,0 +1,8 @@
+1. Text Span: "low-carb"
+Label: (C). Wrong Type. The correct entity type is Dish.
+
+2. Text Span: "sushi"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "vegetarian options"
+Label: (B). Wrong Boundary. The correct span boundary is "vegetarian".

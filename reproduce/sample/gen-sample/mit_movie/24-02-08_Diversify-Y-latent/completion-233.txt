@@ -1,0 +1,8 @@
+Query: "what year was the movie The Terminator released and who directed it"
+Named Entities: [The Terminator (Title), released (Year), directed (Director)]
+
+Query: "can you recommend a movie directed by Kelly Reichardt"
+Named Entities: [Kelly Reichardt (Director)]
+
+Query: "show me a thriller movie with a viewers' rating of 5 stars"
+Named Entities: [thriller (Genre), 5 stars (Viewers' Rating)]

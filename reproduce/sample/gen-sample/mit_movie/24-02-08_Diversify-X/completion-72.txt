@@ -1,0 +1,8 @@
+1. "What kind of movie is The Dark Knight? Like, is it action or thriller or what?"
+Named Entities: [The Dark Knight (Title)]
+
+2. "Can you recommend a rom-com from the 90s? You know, something lighthearted and funny?"
+Named Entities: [rom-com (Genre), 90s (Year)]
+
+3. "Who directed that sci-fi movie about time travel and stuff? I think it's called Inception or something like that."
+Named Entities: [sci-fi (Genre), time travel (Plot), Inception (Title)]

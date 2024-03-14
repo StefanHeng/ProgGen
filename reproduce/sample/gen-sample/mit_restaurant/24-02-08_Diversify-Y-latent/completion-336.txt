@@ -1,0 +1,8 @@
+Query: "Can you recommend any [Chipotle Mexican Grill] locations nearby with outdoor seating and vegan options?"
+Named Entities: [Chipotle Mexican Grill (Restaurant Name), nearby (Location), outdoor seating (Amenity), vegan options (Cuisine)]
+
+Query: "What are the operating [hours] for [Chipotle Mexican Grill] on Sundays?"
+Named Entities: [hours (Hours), Chipotle Mexican Grill (Restaurant Name), Sundays (Hours)]
+
+Query: "I'm in the mood for some [Chipotle Mexican Grill], but I want to make sure it's within my [budget]. What are the [prices] like?"
+Named Entities: [Chipotle Mexican Grill (Restaurant Name), budget (Price), prices (Price)]

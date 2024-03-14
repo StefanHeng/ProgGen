@@ -1,0 +1,8 @@
+Query: "Can you provide information on any movies with underwhelming performances by the cast?"
+Named Entities: [underwhelming performances (Plot)]
+
+Query: "I'm interested in learning about movies in which John Lennon was involved as a composer. Can you suggest any?"
+Named Entities: [John Lennon (Composer)]
+
+Query: "Could you recommend any sports movies with remarkable casting?"
+Named Entities: [Sport (Genre), remarkable casting (Review)]

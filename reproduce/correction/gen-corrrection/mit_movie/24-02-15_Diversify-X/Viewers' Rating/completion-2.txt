@@ -1,0 +1,8 @@
+1. Text Span: "visual effects"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "terrifying"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "tickets"
+Label: (D). Not a Named Entity.

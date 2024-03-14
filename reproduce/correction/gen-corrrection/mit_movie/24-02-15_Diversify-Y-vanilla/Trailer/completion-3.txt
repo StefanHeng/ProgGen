@@ -1,0 +1,8 @@
+1. Text Span: "film snippet"
+Label: (B). The correct span boundary is "snippet".
+
+2. Text Span: "Movie clip"
+Label: (C). The span is a named entity but the category is not trailer. Category: Genre
+
+3. Text Span: "final trailer"
+Label: (A). Correct Entity Annotation.

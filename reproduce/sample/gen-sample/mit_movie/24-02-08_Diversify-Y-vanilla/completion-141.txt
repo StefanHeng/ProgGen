@@ -1,0 +1,8 @@
+1. "Can you tell me the name of the director of the movie Psycho from 1996?"
+Named Entities: [Psycho (Title), 1996 (Year)]
+
+2. "I want to watch a superhero film, do you have any recommendations?"
+Named Entities: [superhero (Genre)]
+
+3. "What is the viewers' rating for the movie Yellow Submarine? I heard it's a B+"
+Named Entities: [Yellow Submarine (Title), B+ (Viewers' Rating)]

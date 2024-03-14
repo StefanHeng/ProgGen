@@ -1,0 +1,9 @@
+1. Text Span: "John Smith"
+   Label: (C). The span is a named entity but the category is not actor. 
+   Correct entity type: Character
+
+2. Text Span: "Tom Cruise"
+   Label: (A). The span is a named entity of type actor
+
+3. Text Span: "Dev Patel"
+   Label: (A). The span is a named entity of type actor

@@ -1,0 +1,8 @@
+Sentence: "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits."
+Named Entities: []
+
+Sentence: "John Dewey, an influential American philosopher, psychologist, and educational reformer, is recognized as one of the founders of pragmatism and a leader in progressive education."
+Named Entities: [John Dewey (person)]
+
+Sentence: "Harvard University, a renowned institution of higher education located in Cambridge, Massachusetts, is known for its rigorous academic programs and esteemed faculty members."
+Named Entities: [Harvard University (organization), Cambridge (location), Massachusetts (location)]

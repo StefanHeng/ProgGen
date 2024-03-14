@@ -1,0 +1,8 @@
+1. "Can you recommend a lunch spot with outdoor seating near the park?"
+Named Entities: [lunch (Amenity), outdoor seating (Amenity), park (Location)]
+
+2. "I want to have a nice outdoor lunch, where can I find a restaurant with a good patio?"
+Named Entities: [lunch (Amenity), outdoor (Amenity), patio (Amenity)]
+
+3. "Do you know any restaurants with outdoor seating that serve lunch specials?"
+Named Entities: [outdoor seating (Amenity), lunch specials (Amenity)]

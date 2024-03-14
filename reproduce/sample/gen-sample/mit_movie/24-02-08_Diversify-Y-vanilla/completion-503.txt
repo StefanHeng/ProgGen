@@ -1,0 +1,8 @@
+1. "Can you recommend an engrossing thriller directed by David Fincher?"
+Named Entities: [engrossing (Viewers' Rating), thriller (Genre), David Fincher (Director)]
+
+2. "What film starring Amy Adams has the most heartwarming plot?"
+Named Entities: [Amy Adams (Actor), heartwarming (Plot)]
+
+3. "Show me a frightening horror movie with a high viewers' rating."
+Named Entities: [frightening (Viewers' Rating), horror (Genre)]

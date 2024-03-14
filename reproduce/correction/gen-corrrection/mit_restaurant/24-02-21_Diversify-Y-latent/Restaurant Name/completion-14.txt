@@ -1,0 +1,11 @@
+1. Query: "what type of cuisine does {{The Coffee House}} offer?"
+Text Span: "The Coffee House"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What are the best vegetarian dishes at {{Five Guys}} ?"
+Text Span: "Five Guys"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "Which {{burger joint}} has the highest rating in this area?"
+Text Span: "burger joint"
+Label: (C). The span is a named entity but the category is not restaurant name. The correct entity type is Cuisine.

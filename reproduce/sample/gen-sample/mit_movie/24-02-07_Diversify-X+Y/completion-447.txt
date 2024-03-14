@@ -1,0 +1,8 @@
+1. Query: "I can't wait to see the trailer for the new movie with Helen Mirren. Can you show it to me?"
+Named Entities: [Helen Mirren (Actor)]
+
+2. Query: "I'm so excited for the Maleficent sequel! Can you give me a sneak peek with the trailer?"
+Named Entities: [Maleficent (Title)]
+
+3. Query: "I'm dying to get a glimpse of the upcoming movie starring Helen Mirren. Show me the teaser, please!"
+Named Entities: [Helen Mirren (Actor)]

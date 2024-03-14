@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a nice café with a cozy atmosphere and takeout options"
+Named Entities: [nice (Rating), cozy atmosphere (Amenity), takeout (Amenity), café (Cuisine)]
+
+Query: "can you recommend a café with outdoor seating that offers takeout"
+Named Entities: [outdoor seating (Amenity), takeout (Amenity), café (Cuisine)]
+
+Query: "show me a café with a good reputation and takeout services"
+Named Entities: [good reputation (Rating), takeout (Amenity), café (Cuisine)]

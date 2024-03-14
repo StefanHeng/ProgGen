@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with an urban/chic ambience near The French Laundry?"
+Named Entities: [buffet (Amenity), urban/chic (Amenity), The French Laundry (Restaurant Name)]
+
+Query: "What are the best-rated buffet restaurants with an urban/chic ambience in the vicinity of The French Laundry?"
+Named Entities: [best-rated (Rating), buffet (Amenity), urban/chic (Amenity), The French Laundry (Restaurant Name)]
+
+Query: "I'm looking for a buffet restaurant near The French Laundry that offers high-quality cuisine and an urban/chic atmosphere."
+Named Entities: [buffet (Amenity), high-quality cuisine (Cuisine), urban/chic (Amenity), The French Laundry (Restaurant Name)]

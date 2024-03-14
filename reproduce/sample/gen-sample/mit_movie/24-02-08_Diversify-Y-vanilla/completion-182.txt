@@ -1,0 +1,8 @@
+Query: "what are some survival movies with high viewers' ratings"
+Named Entities: [survival (Genre), high viewers' ratings (Review)]
+
+Query: "who directed the movie about mountain climbing called Everest"
+Named Entities: [mountain climbing (Plot), Everest (Title)]
+
+Query: "can you recommend a good survival film from the 1990s"
+Named Entities: [survival (Genre), 1990s (Year), good (Review)]

@@ -1,0 +1,8 @@
+Query 1: "Can you recommend a buffet restaurant with mid-range prices?"
+Named Entities: [buffet (Amenity), mid-range (Price)]
+
+Query 2: "I'm looking for a buffet place with reasonable prices, can you help?"
+Named Entities: [buffet (Amenity), reasonable prices (Price)]
+
+Query 3: "Where can I find a mid-range buffet restaurant in the area?"
+Named Entities: [mid-range (Price), buffet (Amenity)]

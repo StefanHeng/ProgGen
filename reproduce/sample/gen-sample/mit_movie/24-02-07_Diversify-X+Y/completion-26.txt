@@ -1,0 +1,11 @@
+1. "Can I watch a suspense movie featuring Charlize Theron on any streaming platform?"
+
+Named Entities: [suspense (Genre), Charlize Theron (Actor)]
+
+2. "Is there a romance movie titled 'Stairway to Heaven' available for streaming?"
+
+Named Entities: [romance (Genre), Stairway to Heaven (Title)]
+
+3. "What streaming service offers movies with Charlize Theron in suspense genre or romantic films like 'Stairway to Heaven'?"
+
+Named Entities: [Charlize Theron (Actor), suspense (Genre), romantic (Genre), Stairway to Heaven (Title)]

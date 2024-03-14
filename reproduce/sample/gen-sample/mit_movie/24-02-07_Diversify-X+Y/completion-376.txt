@@ -1,0 +1,8 @@
+1. Query: "What subgenre does The Departed belong to?"
+Named Entities: [The Departed (Title)]
+
+2. Query: "Can you recommend a historical drama directed by Brian De Palma?"
+Named Entities: [historical drama (Genre), Brian De Palma (Director)]
+
+3. Query: "Is The Shape of Water considered a dramatic film?"
+Named Entities: [The Shape of Water (Title), dramatic (Genre)]

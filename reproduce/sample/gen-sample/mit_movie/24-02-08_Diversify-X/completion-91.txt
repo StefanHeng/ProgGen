@@ -1,0 +1,8 @@
+Query: "which movie won the most awards in the year 2020"
+Named Entities: [2020 (Year), most awards (Awards)]
+
+Query: "what film received the most nominations at the Oscars"
+Named Entities: [Oscars (Awards), most nominations (Awards)]
+
+Query: "show me a movie that won the Palme d'Or at the Cannes Film Festival" 
+Named Entities: [Palme d'Or (Awards), Cannes Film Festival (Awards)]

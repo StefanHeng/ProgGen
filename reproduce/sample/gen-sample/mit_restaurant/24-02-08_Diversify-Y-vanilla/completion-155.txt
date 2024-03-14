@@ -1,0 +1,8 @@
+Query: "Where can I find some after hours dining"
+Named Entities: [after hours dining (Amenity)]
+
+Query: "I want to make a reservation at T.G.I. Friday's"
+Named Entities: [T.G.I. Friday's (Restaurant Name)]
+
+Query: "I'm craving Brazilian food, do you know a good place like Fogo de Chão"
+Named Entities: [Brazilian (Cuisine), Fogo de Chão (Restaurant Name)]

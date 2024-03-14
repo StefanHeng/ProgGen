@@ -1,0 +1,8 @@
+1. "Which restaurant offers a dinner special with gourmet burgers?"
+Named Entities: [dinner (Hours), gourmet burgers (Cuisine)]
+
+2. "Find me a place with a burger promotion for dinner tonight"
+Named Entities: [burger promotion (Amenity), dinner (Hours)]
+
+3. "Can you recommend a restaurant that serves juicy burgers for dinner?"
+Named Entities: [juicy burgers (Dish), dinner (Hours)]

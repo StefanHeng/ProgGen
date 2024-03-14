@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a soundtrack featuring a reggae musician?"
+Named Entities: [Reggae musician (Song/Genre)]
+
+2. "Is there a movie from 1988 with a scene at an album release party?"
+Named Entities: [1988 (Year), album release party (Plot)]
+
+3. "Which movie features a character similar to Ron Weasley and has a soundtrack that appeals to middle-aged women?"
+Named Entities: [Ron Weasley (Character), middle-aged women (Viewers' Rating)]

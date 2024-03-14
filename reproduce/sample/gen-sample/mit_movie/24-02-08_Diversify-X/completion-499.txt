@@ -1,0 +1,8 @@
+1. "Do you have any showtimes for the new animated movie 'Sing 2'?"
+Named Entities: ['Sing 2' (Title)]
+
+2. "Is the movie 'Encanto' suitable for young kids to watch?"
+Named Entities: ['Encanto' (Title)]
+
+3. "Could you recommend a family-friendly movie that came out this year?"
+Named Entities: [this year (Year), family-friendly (Viewers' Rating)]

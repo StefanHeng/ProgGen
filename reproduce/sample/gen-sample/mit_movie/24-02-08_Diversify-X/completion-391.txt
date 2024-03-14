@@ -1,0 +1,8 @@
+1. Query: "Yo, where can I stream that new Spider-Man flick?"
+   Named Entities: [new Spider-Man flick (Title)]
+
+2. Query: "Can I find any 80s action movies starring Arnold Schwarzenegger on any streaming service?"
+   Named Entities: [80s action movies (Genre), Arnold Schwarzenegger (Actor)]
+
+3. Query: "Yo, what's the deal with that horror movie from 2019 with the killer clown? Can I watch it anywhere?"
+   Named Entities: [horror movie (Genre), 2019 (Year), killer clown (Character)]

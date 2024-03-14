@@ -1,0 +1,8 @@
+1. "Can you recommend any upscale steakhouses in the area with outdoor seating?"
+Named Entities: [upscale steakhouses (Amenity), outdoor (Amenity), area (Location)]
+
+2. "What are the coffee service hours at the nearest cafe?"
+Named Entities: [coffee service hours (Hours), nearest (Location), cafe (Amenity)]
+
+3. "I'm looking for a restaurant with a diverse menu that offers vegan options and is within a reasonable price range."
+Named Entities: [diverse (Rating), vegan (Cuisine), reasonable price range (Price)]

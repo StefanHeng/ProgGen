@@ -1,0 +1,8 @@
+1. Text Span: "high"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "old"
+Label: (C). Wrong Type. The correct entity type is Year.
+
+3. Text Span: "good"
+Label: (A). The span is a named entity of type viewers' rating

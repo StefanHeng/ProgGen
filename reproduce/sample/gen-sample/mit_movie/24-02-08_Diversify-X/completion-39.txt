@@ -1,0 +1,8 @@
+1. Query: "Who's in that new action movie where stuff explodes?"
+Named Entities: [new action movie (Genre)]
+
+2. Query: "What's that movie where Tom Hanks plays a character stranded on an island?"
+Named Entities: [Tom Hanks (Actor)]
+
+3. Query: "Do you know who directed the latest comedy film with Jennifer Lawrence?"
+Named Entities: [latest comedy film (Genre), Jennifer Lawrence (Actor)]

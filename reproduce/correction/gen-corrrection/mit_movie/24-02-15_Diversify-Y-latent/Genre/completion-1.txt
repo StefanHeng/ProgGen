@@ -1,0 +1,11 @@
+1. Query: "What is the viewers' rating for the {{cyberpunk}} movie featuring a character named Neo?"
+Text Span: "cyberpunk"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "What {{psychological}} thriller films has Baz Luhrmann directed?"
+Text Span: "psychological"
+Label: (B). Wrong Boundary. The correct span boundary is "psychological thriller"
+
+3. Query: "What is the viewers' rating for the {{drama}} film in post-production directed by Christopher Nolan?"
+Text Span: "drama"
+Label: (A). The span is a named entity of type genre

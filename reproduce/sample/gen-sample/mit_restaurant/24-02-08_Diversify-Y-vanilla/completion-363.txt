@@ -1,0 +1,8 @@
+1. Query: "I'm looking for some Expensive Gastro-pubs in the area with a good wine selection"
+   Named Entities: [Expensive Gastro-pubs (Restaurant Name), good (Rating), wine selection (Amenity)]
+
+2. Query: "What are the operating hours for The Bazaar by José Andrés?"
+   Named Entities: [The Bazaar by José Andrés (Restaurant Name), operating hours (Hours)]
+
+3. Query: "Can you recommend a place for a fancy dinner with a view within a reasonable price range?"
+   Named Entities: [fancy dinner (Amenity), reasonable price range (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any mid-priced late night restaurants in the area?"
+Named Entities: [mid-priced (Price), late night (Hours), restaurants (Amenity), area (Location)]
+
+2. "I'm in the mood for Italian cuisine, where can I find a good Italian restaurant nearby?"
+Named Entities: [Italian (Cuisine), good (Rating), nearby (Location), restaurant (Amenity)]
+
+3. "What's the best seafood place in town that's open for lunch?"
+Named Entities: [best (Rating), seafood (Cuisine), place (Amenity), lunch (Hours), town (Location)]

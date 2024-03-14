@@ -1,0 +1,8 @@
+1. Query: "What movie genre was popular from 1965-1967?"
+Named Entities: [1965-1967 (Year)]
+
+2. Query: "Can you show me the official preview for the film Predators?"
+Named Entities: [official preview (Trailer), Predators (Title)]
+
+3. Query: "Who directed the movie set to be released in 2027, and what is the MPAA rating?"
+Named Entities: [2027 (Year), MPAA (MPAA Rating)]

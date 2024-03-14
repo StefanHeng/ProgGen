@@ -1,0 +1,149 @@
+1. Mark Zuckerberg was a Harvard undergraduate when he started Facebook.
+Named Entities: [Mark Zuckerberg (person), Harvard (organization)]
+
+2. The Eiffel Tower is a wrought-iron lattice tower
+Named Entities: [Eiffel Tower (location)]
+
+3. The United Nations is an intergovernmental organization
+Named Entities: [United Nations (organization)]
+
+4. Shakespeare was an English playwright and poet.
+Named Entities: [Shakespeare (person), English (location)]
+
+5. The Great Wall of China is a series of fortifications
+Named Entities: [Great Wall of China (location)]
+
+6. Angela Merkel is a German politician.
+Named Entities: [Angela Merkel (person), German (location)]
+
+7. The Louvre is the world's largest art museum.
+Named Entities: [Louvre (organization)]
+
+8. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+9. Chernobyl is a city in Ukraine.
+Named Entities: [Chernobyl (location), Ukraine (location)]
+
+10. Albert Einstein was a German-born theoretical physicist.
+Named Entities: [Albert Einstein (person), German (location)]
+
+11. Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom.
+Named Entities: [Buckingham Palace (location), London (location), United Kingdom (location)]
+
+12. George Washington was the first President of the United States.
+Named Entities: [George Washington (person), United States (location)]
+
+13. The Vatican is the headquarters of the Roman Catholic Church.
+Named Entities: [Vatican (location), Roman Catholic Church (organization)]
+
+14. The iPhone is a line of smartphones designed and marketed by Apple Inc.
+Named Entities: [iPhone (organization), Apple Inc. (organization)]
+
+15. Mozart was a prolific and influential composer of the Classical era.
+Named Entities: [Mozart (person), Classical era (organization)]
+
+16. Harvard University is a private Ivy League research university in Cambridge, Massachusetts.
+Named Entities: [Harvard University (organization), Ivy League (organization), Cambridge (location), Massachusetts (location)]
+
+17. Amazon is an American multinational technology company.
+Named Entities: [Amazon (organization), American (location)]
+
+18. William Shakespeare was an English playwright and actor.
+Named Entities: [William Shakespeare (person), English (location)]
+
+19. The Grand Canyon is a steep-sided canyon carved by the Colorado River.
+Named Entities: [Grand Canyon (location), Colorado River (location)]
+
+20. Beyoncé is an American singer, songwriter, and actress.
+Named Entities: [Beyoncé (person), American (location)]
+
+21. Microsoft is an American multinational technology company.
+Named Entities: [Microsoft (organization), American (location)]
+
+22. Leonardo da Vinci was an Italian polymath.
+Named Entities: [Leonardo da Vinci (person), Italian (location)]
+
+23. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+24. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+25. Rome is the capital city of Italy.
+Named Entities: [Rome (location), Italy (location)]
+
+26. Albert Einstein was a German-born theoretical physicist.
+Named Entities: [Albert Einstein (person), German (location)]
+
+27. The Eiffel Tower is a wrought-iron lattice tower
+Named Entities: [Eiffel Tower (location)]
+
+28. The Great Wall of China is a series of fortifications
+Named Entities: [Great Wall of China (location)]
+
+29. Leonardo da Vinci was an Italian polymath.
+Named Entities: [Leonardo da Vinci (person), Italian (location)]
+
+30. The Louvre is the world's largest art museum.
+Named Entities: [Louvre (organization)]
+
+31. George Washington was the first President of the United States.
+Named Entities: [George Washington (person), United States (location)]
+
+32. Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom.
+Named Entities: [Buckingham Palace (location), London (location), United Kingdom (location)]
+
+33. Amazon is an American multinational technology company.
+Named Entities: [Amazon (organization), American (location)]
+
+34. Harvard University is a private Ivy League research university in Cambridge, Massachusetts.
+Named Entities: [Harvard University (organization), Ivy League (organization), Cambridge (location), Massachusetts (location)]
+
+35. The Vatican is the headquarters of the Roman Catholic Church.
+Named Entities: [Vatican (location), Roman Catholic Church (organization)]
+
+36. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+37. Beyoncé is an American singer, songwriter, and actress.
+Named Entities: [Beyoncé (person), American (location)]
+
+38. The Grand Canyon is a steep-sided canyon carved by the Colorado River.
+Named Entities: [Grand Canyon (location), Colorado River (location)]
+
+39. Rome is the capital city of Italy.
+Named Entities: [Rome (location), Italy (location)]
+
+40. Mozart was a prolific and influential composer of the Classical era.
+Named Entities: [Mozart (person), Classical era (organization)]
+
+41. Microsoft is an American multinational technology company.
+Named Entities: [Microsoft (organization), American (location)]
+
+42. William Shakespeare was an English playwright and actor.
+Named Entities: [William Shakespeare (person), English (location)]
+
+43. The iPhone is a line of smartphones designed and marketed by Apple Inc.
+Named Entities: [iPhone (organization), Apple Inc. (organization)]
+
+44. Angela Merkel is a German politician.
+Named Entities: [Angela Merkel (person), German (location)]
+
+45. The Louvre is the world's largest art museum.
+Named Entities: [Louvre (organization)]
+
+46. The United Nations is an intergovernmental organization
+Named Entities: [United Nations (organization)]
+
+47. The Eiffel Tower is a wrought-iron lattice tower
+Named Entities: [Eiffel Tower (location)]
+
+48. The Great Wall of China is a series of fortifications
+Named Entities: [Great Wall of China (location)]
+
+49. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location),]
+
+50. Chernobyl is a city in Ukraine
+Named Entities: [Chernobyl (location), Ukraine (location)]

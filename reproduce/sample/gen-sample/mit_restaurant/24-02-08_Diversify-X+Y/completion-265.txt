@@ -1,0 +1,8 @@
+Query: "I am craving some authentic Italian cuisine. Can you recommend any fine dining restaurants nearby?"
+Named Entities: [authentic (Rating), Italian (Cuisine), fine dining (Amenity)]
+
+Query: "What are the operating hours for the top-rated French restaurant in the city?"
+Named Entities: [top-rated (Rating), French (Cuisine)]
+
+Query: "I'm looking for a high-end steakhouse that offers a private dining experience. Any suggestions?"
+Named Entities: [high-end (Price), steakhouse (Cuisine), private dining (Amenity)]

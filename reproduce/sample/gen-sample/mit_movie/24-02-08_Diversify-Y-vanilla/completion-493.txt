@@ -1,0 +1,8 @@
+Query: "are there any movies starring Samuel L. Jackson and with a song from Hotel California"
+Named Entities: [Samuel L. Jackson (Actor), Hotel California (Song)]
+
+Query: "show me a legal film directed by Quentin Tarantino"
+Named Entities: [Legal (Genre), Quentin Tarantino (Director)]
+
+Query: "what is the viewers' rating for the movie about organized crime with Al Pacino"
+Named Entities: [viewers' rating (Viewers' Rating), organized crime (Plot), Al Pacino (Actor)]

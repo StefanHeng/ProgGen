@@ -1,0 +1,8 @@
+1. "suggest a rustic and charming restaurant with paleo options for lunch"
+Named Entities: [rustic and charming (Amenity), paleo (Cuisine), lunch (Hours)]
+
+2. "find me a lunch spot with a cozy ambience and paleo-friendly menu"
+Named Entities: [cozy ambience (Amenity), paleo-friendly (Cuisine), lunch (Hours)]
+
+3. "where can I have a hearty paleo lunch in a quaint and charming setting"
+Named Entities: [hearty (Price), paleo (Cuisine), quaint and charming (Amenity), lunch (Hours)]

@@ -1,0 +1,1335 @@
+[
+    {
+        "sentence": "In 1987, AIDS became the focus of collaborations between the Princess of Wales and organisations, such as the British Red Cross and the National AIDS Trust, to support people affected by the disease.",
+        "entity_names": [
+            "AIDS",
+            "Princess of Wales",
+            "British Red Cross",
+            "National AIDS Trust",
+            "Princess Diana"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "organization",
+            "organization",
+            "organization",
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Princess Diana"
+        ]
+    },
+    {
+        "sentence": "The Budapest Festival Orchestra is a world-renowned symphony orchestra founded by conductor Ivan Fischer.",
+        "entity_names": [
+            "Budapest Festival Orchestra",
+            "Ivan Fischer",
+            "Budapest"
+        ],
+        "filename": "completion-12",
+        "entity_types": [
+            "organization",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Budapest"
+        ]
+    },
+    {
+        "sentence": "Anita Hill is a law professor who is known for her testimony during the Supreme Court confirmation hearings for Clarence Thomas.",
+        "entities": [
+            "Anita Hill (person)",
+            "Supreme Court, Clarence Thomas"
+        ]
+    },
+    {
+        "sentence": "The city of Paris is renowned for its iconic landmarks such as the Eiffel Tower, Notre Dame Cathedral, and the Louvre Museum.",
+        "entities": [
+            "Paris (location)",
+            "Eiffel Tower, Notre Dame Cathedral, Louvre Museum"
+        ]
+    },
+    {
+        "sentence": "The University of Oxford is one of the leading universities in the world.",
+        "entity_names": [
+            "Oxford University"
+        ],
+        "filename": "completion-57",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Oxford University"
+        ]
+    },
+    {
+        "sentence": "Joan of Arc is considered a national heroine of France and a Catholic Saint.",
+        "entity_names": [
+            "Joan of Arc",
+            "France",
+            "Catholic Church"
+        ],
+        "filename": "completion-58",
+        "entity_types": [
+            "person",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Catholic Church"
+        ]
+    },
+    {
+        "sentence": "The protest was organized at the [Martin Luther King Jr.] Memorial in Washington D.C.",
+        "entity_names": [
+            "Martin Luther King Jr.",
+            "Washington D.C."
+        ],
+        "filename": "completion-61",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Martin Luther King Jr."
+        ]
+    },
+    {
+        "sentence": "The United Nations is an international organization founded in 1945 after the Second World War to promote peace, security, and cooperation among nations.",
+        "entity_names": [
+            "United Nations",
+            "Second World War"
+        ],
+        "filename": "completion-62",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Second World War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Stephen Hawking was diagnosed with amyotrophic lateral sclerosis (ALS) at the age of 21, but he continued his groundbreaking work in theoretical physics despite the physical challenges.",
+        "entity_names": [
+            "Stephen Hawking",
+            "amyotrophic lateral sclerosis"
+        ],
+        "filename": "completion-69",
+        "entity_types": [
+            "person",
+            "medical condition"
+        ],
+        "entity_names_not_allowed": [
+            "amyotrophic lateral sclerosis"
+        ],
+        "entity_types_not_allowed": [
+            "medical condition"
+        ]
+    },
+    {
+        "sentence": "The event took place in Montgomery, Alabama, where Parks boarded a bus and refused to give up her seat to a white man.",
+        "entity_names": [
+            "Montgomery",
+            "Alabama",
+            "Rosa Parks"
+        ],
+        "filename": "completion-78",
+        "entity_types": [
+            "location",
+            "location",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Rosa Parks"
+        ]
+    },
+    {
+        "sentence": "The company was acquired by World Wrestling Entertainment (WWE) in 2001.",
+        "entities": [
+            "World Wrestling Entertainment (WWE)",
+            "company"
+        ]
+    },
+    {
+        "sentence": "She trained at the Performance Center operated by World Wrestling Entertainment (WWE).",
+        "entity_names": [
+            "Performance Center, World Wrestling Entertainment"
+        ],
+        "filename": "completion-80",
+        "entity_types": [
+            "WWE"
+        ],
+        "missing_entity_names": [
+            "Performance Center, World Wrestling Entertainment"
+        ]
+    },
+    {
+        "sentence": "The event was held at the Barclays Center in Brooklyn, New York, and was sponsored by World Wrestling Entertainment (WWE).",
+        "entity_names": [
+            "Barclays Center",
+            "Brooklyn",
+            "New York",
+            "World Wrestling Entertainment"
+        ],
+        "filename": "completion-80",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "WWE"
+        ],
+        "entity_names_not_allowed": [
+            "World Wrestling Entertainment"
+        ],
+        "entity_types_not_allowed": [
+            "WWE"
+        ]
+    },
+    {
+        "sentence": "The Jakarta Convention Center was built in 1974 to host the 1974 Asian Games.",
+        "entity_names": [
+            "Jakarta Convention Center",
+            "1974 Asian Games"
+        ],
+        "filename": "completion-81",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "1974 Asian Games"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "He was a keynote speaker at the National Institute of Standards and Technology (NIST) conference on quantum computing.",
+        "entity_names": [
+            "Stephen Hawking",
+            "National Institute of Standards and Technology"
+        ],
+        "filename": "completion-87",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Stephen Hawking"
+        ]
+    },
+    {
+        "sentence": "The University of Oxford is known for its famous alumni, including former U.S. President Bill Clinton.",
+        "entity_names": [
+            "Oxford University",
+            "Bill Clinton"
+        ],
+        "filename": "completion-91",
+        "entity_types": [
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Oxford University"
+        ]
+    },
+    {
+        "sentence": "She was appointed as the new CEO of Oslo International Airport.",
+        "entity_names": [
+            "Oslo International Airport",
+            "Oslo"
+        ],
+        "filename": "completion-104",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Oslo"
+        ]
+    },
+    {
+        "sentence": "In 1928, the International Committee of the Red Cross was awarded the Nobel Peace Prize for the third time in recognition of its work during World War I and II.",
+        "entity_names": [
+            "International Committee of the Red Cross",
+            "Nobel Peace Prize",
+            "World War I",
+            "World War II"
+        ],
+        "filename": "completion-117",
+        "entity_types": [
+            "organization",
+            "organization",
+            "event",
+            "event"
+        ],
+        "missing_entity_names": [
+            "World War II"
+        ]
+    },
+    {
+        "sentence": "Anne Frank's diary, The Diary of a Young Girl, documents her experiences hiding during the German occupation of the Netherlands in World War II.",
+        "entity_names": [
+            "Anne Frank",
+            "Netherlands",
+            "World War II"
+        ],
+        "filename": "completion-140",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The University of Texas at Austin was founded in 1883.",
+        "entity_names": [
+            "University of Texas at Austin",
+            "Austin"
+        ],
+        "filename": "completion-144",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Austin"
+        ]
+    },
+    {
+        "sentence": "The Austin Symphony Orchestra is composed of more than 80 musicians.",
+        "entity_names": [
+            "Austin Symphony Orchestra",
+            "Austin"
+        ],
+        "filename": "completion-144",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Austin"
+        ]
+    },
+    {
+        "sentence": "The company was founded on October 1, 1979, and was the world's first independent developer and distributor of video games for gaming consoles.",
+        "entity_names": [
+            "Activision Blizzard"
+        ],
+        "filename": "completion-147",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Activision Blizzard"
+        ]
+    },
+    {
+        "sentence": "The investigation was conducted with the assistance of [International Criminal Police Organization (INTERPOL)].",
+        "entity_names": [
+            "International Criminal Polic Organization"
+        ],
+        "filename": "completion-164",
+        "entity_types": [
+            "INTERPOL"
+        ],
+        "missing_entity_names": [
+            "International Criminal Polic Organization"
+        ]
+    },
+    {
+        "sentence": "UNICEF works in over 190 countries and territories to save children's lives, to defend their rights, and to help them fulfil their potential, from early childhood through adolescence.",
+        "entity_names": [
+            "United Nations Children's Fund"
+        ],
+        "filename": "completion-165",
+        "entity_types": [
+            "UNICEF"
+        ],
+        "missing_entity_names": [
+            "United Nations Children's Fund"
+        ]
+    },
+    {
+        "sentence": "The company announced a new partnership with Chongqing University to research and develop sustainable energy solutions.",
+        "entity_names": [
+            "Chongqing University",
+            "Chongqing"
+        ],
+        "filename": "completion-171",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Chongqing"
+        ]
+    },
+    {
+        "sentence": "Winston Churchill served as the Prime Minister of the United Kingdom during World War II.",
+        "entity_names": [
+            "Winston Churchill",
+            "United Kingdom",
+            "World War II"
+        ],
+        "filename": "completion-174",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Andy Warhol, an American artist, was a leading figure in the visual art movement known as pop art.",
+        "entities": [
+            "Andy Warhol (person)",
+            "American"
+        ]
+    },
+    {
+        "sentence": "The company [Merck & Co.] is a leading pharmaceutical organization, known for its development of innovative drugs and vaccines.",
+        "entity_names": [
+            "Merck & Co."
+        ],
+        "filename": "completion-222",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Merck & Co."
+        ]
+    },
+    {
+        "sentence": "Marie Antoinette was the last Queen of France before the French Revolution.",
+        "entity_names": [
+            "Marie Antoinette",
+            "the French Revolution"
+        ],
+        "filename": "completion-224",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "the French Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Marie Antoinette was the last Queen of France before the French Revolution.",
+        "entity_names": [
+            "Marie Antoinette",
+            "France",
+            "French Revolution"
+        ],
+        "filename": "completion-226",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "French Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "In 1939, [Queen Elizabeth II] and her sister embarked on a historic visit to America, which helped to bolster Anglo-American relations before the U.S. entry into World War II.",
+        "entity_names": [
+            "Queen Elizabeth II",
+            "America",
+            "World War II"
+        ],
+        "filename": "completion-257",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The company was founded in 1852 and is headquartered in San Francisco, California.",
+        "entity_names": [
+            "Wells Fargo",
+            "San Francisco",
+            "California"
+        ],
+        "filename": "completion-267",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Wells Fargo"
+        ]
+    },
+    {
+        "sentence": "Emily Dickinson's poetry has had a significant impact on American literature and culture.",
+        "entity_names": [
+            "Emily Dickinson",
+            "United States"
+        ],
+        "filename": "completion-279",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The United States Agency for International Development is a government agency that provides economic and humanitarian assistance to foreign countries.",
+        "entity_names": [
+            "United States Agency for International Development",
+            "United States"
+        ],
+        "filename": "completion-279",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The Vincent van Gogh Museum in Amsterdam houses the largest collection of artworks by the Dutch painter, including \"Sunflowers\" and \"Irises\".",
+        "entity_names": [
+            "Vincent van Gogh",
+            "Vincent van Gogh Museum",
+            "Amsterdam"
+        ],
+        "filename": "completion-281",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Vincent van Gogh"
+        ]
+    },
+    {
+        "sentence": "The Detroit Symphony Orchestra (DSO) is an American symphony orchestra based in Detroit, Michigan.",
+        "entity_names": [
+            "Detroit Symphony Orchestra",
+            "Detroit",
+            "Michigan",
+            "United States"
+        ],
+        "filename": "completion-288",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "George Washington was the first President of the United States and a key figure in the American Revolution.",
+        "entity_names": [
+            "George Washington",
+            "United States",
+            "American Revolution"
+        ],
+        "filename": "completion-297",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The 2008 Summer Olympics, officially known as the Games of the XXIX Olympiad and commonly known as Beijing 2008, was an international multi-sport event that was held from 8 to 24 August 2008 in Beijing, China.",
+        "entity_names": [
+            "2008 Summer Olympics",
+            "Beijing",
+            "China"
+        ],
+        "filename": "completion-304",
+        "entity_types": [
+            "event",
+            "location",
+            "location"
+        ],
+        "entity_names_after_add": [
+            "Beijing",
+            "2008 Summer Olympics",
+            "Beijing",
+            "China"
+        ],
+        "entity_types_after_add": [
+            "location",
+            "event",
+            "location",
+            "location"
+        ],
+        "reordered_entity_names": [
+            "2008 Summer Olympics",
+            "Beijing",
+            "Beijing",
+            "China"
+        ],
+        "reordered_entity_types": [
+            "event",
+            "location",
+            "location",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "2008 Summer Olympics"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The company was founded in 2009 and has since grown into a multinational corporation.",
+        "entity_names": [
+            "2009",
+            "multinational corporation"
+        ],
+        "filename": "completion-315",
+        "entity_types": [
+            "time",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "2009"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "The company [Merck & Co.] was founded in Darmstadt, Germany, in 1668.",
+        "entity_names": [
+            "Merck & Co.",
+            "Darmstadt",
+            "Germany"
+        ],
+        "filename": "completion-318",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Merck & Co."
+        ]
+    },
+    {
+        "sentence": "She previously served as the CEO of [Merck & Co.], a global pharmaceutical company.",
+        "entity_names": [
+            "Merck & Co."
+        ],
+        "filename": "completion-318",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Merck & Co."
+        ]
+    },
+    {
+        "sentence": "The scientist collaborated with researchers from [Merck & Co.] on a new drug development project.",
+        "entity_names": [
+            "Merck & Co."
+        ],
+        "filename": "completion-318",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Merck & Co."
+        ]
+    },
+    {
+        "sentence": "The company headquarters are located in Benton Harbor, Michigan, United States.",
+        "entity_names": [
+            "Benton Harbor",
+            "Michigan",
+            "Whirlpool Corporation",
+            "United States"
+        ],
+        "filename": "completion-327",
+        "entity_types": [
+            "location",
+            "location",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Whirlpool Corporation"
+        ]
+    },
+    {
+        "sentence": "The PlayStation 5, produced by Sony, was released in November 2020.",
+        "entity_names": [
+            "PlayStation 5",
+            "Sony"
+        ],
+        "filename": "completion-331",
+        "entity_types": [
+            "product",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "PlayStation 5"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "The film studio, Sony Pictures Entertainment, is known for producing blockbuster movies such as Spider-Man and Jumanji.",
+        "entity_names": [
+            "Sony Pictures Entertainment",
+            "Spider-Man",
+            "Jumanji"
+        ],
+        "filename": "completion-331",
+        "entity_types": [
+            "organization",
+            "product",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "Spider-Man",
+            "Jumanji"
+        ],
+        "entity_types_not_allowed": [
+            "product",
+            "product"
+        ]
+    },
+    {
+        "sentence": "In 1999, Sony released the Aibo robotic dog, which received significant attention in the consumer electronics market.",
+        "entity_names": [
+            "Sony",
+            "Aibo"
+        ],
+        "filename": "completion-331",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "Aibo"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "The company operates as a subsidiary of World Wrestling Entertainment, Inc.",
+        "entity_names": [
+            "World Wrestling Entertainment",
+            "Inc."
+        ],
+        "filename": "completion-332",
+        "entity_types": [
+            "WWE",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "World Wrestling Entertainment"
+        ],
+        "entity_types_not_allowed": [
+            "WWE"
+        ]
+    },
+    {
+        "sentence": "She became the first woman to win the NXT Championship in World Wrestling Entertainment history.",
+        "entity_names": [
+            "NXT Championship",
+            "World Wrestling Entertainment"
+        ],
+        "filename": "completion-332",
+        "entity_types": [
+            "organization",
+            "WWE"
+        ],
+        "entity_names_not_allowed": [
+            "World Wrestling Entertainment"
+        ],
+        "entity_types_not_allowed": [
+            "WWE"
+        ]
+    },
+    {
+        "sentence": "The wrestler was known for his time with World Wrestling Entertainment and his iconic finishing move, the Stone Cold Stunner.",
+        "entity_names": [
+            "World Wrestling Entertainment"
+        ],
+        "filename": "completion-332",
+        "entity_types": [
+            "WWE"
+        ],
+        "entity_names_not_allowed": [
+            "World Wrestling Entertainment"
+        ],
+        "entity_types_not_allowed": [
+            "WWE"
+        ]
+    },
+    {
+        "sentence": "The city is famous for its vibrant street life and cultural landmarks such as the Grand Palace.",
+        "entity_names": [
+            "Bangkok",
+            "Grand Palace"
+        ],
+        "filename": "completion-342",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Bangkok"
+        ]
+    },
+    {
+        "sentence": "The ECO was founded by Iran, Pakistan, and Turkey in 1985.",
+        "entity_names": [
+            "Iran",
+            "Pakistan",
+            "Turkey",
+            "Economic Cooperation Organization"
+        ],
+        "filename": "completion-346",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Economic Cooperation Organization"
+        ]
+    },
+    {
+        "sentence": "The Battle of Palmito Ranch, also known as the Battle of Palmito Hill, is generally recognized as the final battle of the American Civil War.",
+        "entity_names": [
+            "Battle of Palmito Ranch",
+            "Battle of Palmito Hill",
+            "American Civil War"
+        ],
+        "filename": "completion-347",
+        "entity_types": [
+            "location",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Sony Corporation is a Japanese multinational conglomerate corporation headquartered in K\u014dnan, Minato, Tokyo.",
+        "entity_names": [
+            "Sony Corporation",
+            "K\u014dnan",
+            "Minato",
+            "Tokyo",
+            "Japan"
+        ],
+        "filename": "completion-353",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "The Liechtenstein National Museum, located in Vaduz, showcases the history and culture of the principality.",
+        "entity_names": [
+            "Liechtenstein National Museum",
+            "Vaduz",
+            "Liechtenstein"
+        ],
+        "filename": "completion-362",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Liechtenstein"
+        ]
+    },
+    {
+        "sentence": "The Olympic Games in 1980 were boycotted by several countries in response to the Soviet invasion of Afghanistan.",
+        "entity_names": [
+            "Soviet Union",
+            "Afghanistan",
+            "Olympic Games"
+        ],
+        "filename": "completion-364",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Soviet Union"
+        ]
+    },
+    {
+        "sentence": "The song \"Imagine\" by John Lennon is considered one of the greatest songs of all time.",
+        "entity_names": [
+            "Imagine"
+        ],
+        "filename": "completion-376",
+        "entity_types": [
+            "song"
+        ],
+        "entity_names_not_allowed": [
+            "Imagine"
+        ],
+        "entity_types_not_allowed": [
+            "song"
+        ]
+    },
+    {
+        "sentence": "The Ashgabat International Airport serves as the main hub for Turkmenistan Airlines.",
+        "entity_names": [
+            "Ashgabat International Airport",
+            "Turkmenistan Airlines",
+            "Ashgabat"
+        ],
+        "filename": "completion-381",
+        "entity_types": [
+            "location",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Ashgabat"
+        ]
+    },
+    {
+        "sentence": "Ulysses S. Grant held the position of Commanding General of the United States Army during the American Civil War.",
+        "entity_names": [
+            "Ulysses S. Grant",
+            "United States Army",
+            "American Civil War"
+        ],
+        "filename": "completion-382",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Dalai Lama fled to India in 1959 following a failed uprising against the Chinese rule in Tibet.",
+        "entity_names": [
+            "India",
+            "Tibet",
+            "China"
+        ],
+        "filename": "completion-384",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "His experiments on electricity gained him recognition and worldwide fame, and his discoveries led to important applications in modern technology.",
+        "entity_names": [
+            "electricity"
+        ],
+        "filename": "completion-387",
+        "entity_types": [
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "electricity"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "The city has a diverse and multicultural population, including indigenous peoples, Afro-Venezuelans, and immigrants from Europe and the Middle East.",
+        "entity_names": [
+            "Caracas"
+        ],
+        "filename": "completion-404",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Caracas"
+        ]
+    },
+    {
+        "sentence": "Alibaba Group is a Chinese multinational technology company specializing in e-commerce, retail, internet, and technology.",
+        "entity_names": [
+            "Alibaba Group",
+            "China"
+        ],
+        "filename": "completion-408",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Jack Ma, the co-founder and former executive chairman of Alibaba Group, is a Chinese business magnate, investor, and philanthropist.",
+        "entity_names": [
+            "Jack Ma",
+            "Alibaba Group",
+            "China"
+        ],
+        "filename": "completion-408",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "During his time in office, Winston Churchill played a key role in shaping Allied strategy in World War II.",
+        "entity_names": [
+            "Winston Churchill",
+            "Allied",
+            "World War II"
+        ],
+        "filename": "completion-412",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Vardar River flows through the city, dividing it into two parts.",
+        "entity_names": [
+            "Vardar River",
+            "Skopje"
+        ],
+        "filename": "completion-425",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Skopje"
+        ]
+    },
+    {
+        "sentence": "Alexander the Great was a king of Macedonia who created one of the largest empires in ancient history, spreading Greek culture across the known world.",
+        "entity_names": [
+            "Alexander the Great",
+            "Macedonia",
+            "Greek"
+        ],
+        "filename": "completion-430",
+        "entity_types": [
+            "person",
+            "location",
+            "culture"
+        ],
+        "entity_names_not_allowed": [
+            "Greek"
+        ],
+        "entity_types_not_allowed": [
+            "culture"
+        ]
+    },
+    {
+        "sentence": "[The Steppes] experienced a period of significant cultural and economic growth during the Middle Ages, as trade routes connected the region to various civilizations.",
+        "entity_names": [
+            "The Steppes",
+            "Middle Ages"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "location",
+            "time period"
+        ],
+        "entity_names_not_allowed": [
+            "Middle Ages"
+        ],
+        "entity_types_not_allowed": [
+            "time period"
+        ]
+    },
+    {
+        "sentence": "The founder of [Levi Strauss & Co.] was a German immigrant named Levi Strauss.",
+        "entity_names": [
+            "Levi Strauss & Co.",
+            "Levi Strauss",
+            "Germany"
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "organization",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Levi Strauss & Co.",
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "[Levi Strauss & Co.] is a well-known clothing company that specializes in denim jeans and casual wear.",
+        "entity_names": [
+            "Levi Strauss & Co."
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Levi Strauss & Co."
+        ]
+    },
+    {
+        "sentence": "In 1873, [Levi Strauss & Co.] received a patent for their copper riveted denim jeans, which revolutionized the clothing industry.",
+        "entity_names": [
+            "Levi Strauss & Co."
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Levi Strauss & Co."
+        ]
+    },
+    {
+        "sentence": "The city is home to multiple professional sports teams, including the Tennessee Titans, Nashville Predators, and Nashville SC.",
+        "entity_names": [
+            "Tennessee Titans",
+            "Nashville Predators",
+            "Nashville SC",
+            "Nashville"
+        ],
+        "filename": "completion-521",
+        "entity_types": [
+            "organization",
+            "organization",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Nashville"
+        ]
+    },
+    {
+        "sentence": "In 2019, the organization announced a partnership with a local nonprofit to provide clean drinking water in the region.",
+        "entity_names": [
+            "2019",
+            "nonprofit"
+        ],
+        "filename": "completion-530",
+        "entity_types": [
+            "time",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "2019"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "The famous sprinter set a new world record in the 100-meter dash during the 2020 Olympics.",
+        "entity_names": [
+            "sprinter",
+            "100-meter dash",
+            "2020 Olympics"
+        ],
+        "filename": "completion-530",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "2020 Olympics"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Nintendo Entertainment System (NES) and the Super Nintendo Entertainment System (SNES), introduced multi-platform games to consumers, including Yoshi and Super Mario Kart.",
+        "entity_names": [
+            "Nintendo Entertainment System - NES",
+            "Super Nintendo Entertainment System - SNES",
+            "Yoshi",
+            "Super Mario Kart"
+        ],
+        "filename": "completion-534",
+        "entity_types": [
+            "organization",
+            "organization",
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Nintendo Entertainment System - NES",
+            "Super Nintendo Entertainment System - SNES"
+        ]
+    },
+    {
+        "sentence": "The research was conducted by a team of scientists from various organizations, including MIT and the University of California, Berkeley.",
+        "entity_names": [
+            "Massachusetts Institute of Technology",
+            "University of California, Berkeley"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Massachusetts Institute of Technology"
+        ]
+    },
+    {
+        "sentence": "[Gap Inc.] is a leading global retailer that offers clothing, accessories, and personal care products for men, women, and children.",
+        "entity_names": [
+            "Gap Inc."
+        ],
+        "filename": "completion-552",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Gap Inc."
+        ]
+    },
+    {
+        "sentence": "One of [Gap Inc.]'s most famous brands is Old Navy, which provides customers with quality fashion at an affordable price.",
+        "entity_names": [
+            "Gap Inc.",
+            "Old Navy"
+        ],
+        "filename": "completion-552",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Gap Inc."
+        ]
+    },
+    {
+        "sentence": "The Vestasshare price rose by 2.4% after the announcement of a new collaboration with a leading energy company.",
+        "entity_names": [
+            "Vestas"
+        ],
+        "filename": "completion-567",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Vestas"
+        ]
+    },
+    {
+        "sentence": "The company was founded in 1998 and has since become a major player in the technology industry.",
+        "entity_names": [
+            "]"
+        ],
+        "filename": "completion-592",
+        "entity_types": [
+            "no named entities found"
+        ],
+        "missing_entity_names": [
+            "]"
+        ]
+    },
+    {
+        "sentence": "The University of Vienna, founded in 1365, is one of the oldest universities in the German-speaking world.",
+        "entity_names": [
+            "University of Vienna",
+            "Vienna",
+            "German-speaking"
+        ],
+        "filename": "completion-596",
+        "entity_types": [
+            "organization",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Vienna"
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+Query: "Are there any showtimes for the noir movie Remarkable tonight?"
+Named Entities: [noir (Genre), Remarkable (Title)]
+
+Query: "Can I get tickets for the movie Hairspray this weekend?"
+Named Entities: [Hairspray (Title)]
+
+Query: "Do you have an extended preview for the movie Remarkable?"
+Named Entities: [extended preview (Trailer), Remarkable (Title)]

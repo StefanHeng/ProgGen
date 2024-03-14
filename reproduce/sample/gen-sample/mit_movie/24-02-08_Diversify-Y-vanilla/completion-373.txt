@@ -1,0 +1,8 @@
+1. Query: "what are some good action movies with a TV-14 rating from 1989"
+Named Entities: [action (Genre), TV-14 (MPAA Rating), 1989 (Year)]
+
+2. Query: "I'm looking for a romantic movie from 1987 featuring Halle Berry"
+Named Entities: [romantic (Genre), 1987 (Year), Halle Berry (Actor)]
+
+3. Query: "who directed the thriller movie with a PG-13 rating released in 1989"
+Named Entities: [thriller (Genre), PG-13 (MPAA Rating), 1989 (Year)]

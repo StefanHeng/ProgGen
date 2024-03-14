@@ -1,0 +1,8 @@
+1. "What year did the movie Billie Jean come out?"
+Named Entities: [Billie Jean (Title)]
+
+2. "Can you tell me the viewers' rating of the film A haunted house?"
+Named Entities: [A haunted house (Title)]
+
+3. "Who directed the movie Tarzan and in which year was it released?"
+Named Entities: [Tarzan (Title), Director, Year]

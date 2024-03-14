@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with free Wi-Fi and outdoor seating" 
+Named Entities: [free Wi-Fi (Amenity), outdoor seating (Amenity)]
+
+Query: "Can you recommend a place with affordable seafood and a high rating?" 
+Named Entities: [affordable seafood (Cuisine), high rating (Rating)]
+
+Query: "Where can I find a burger joint open late tonight?" 
+Named Entities: [open late tonight (Hours), burger joint (Cuisine)]

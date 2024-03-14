@@ -1,0 +1,8 @@
+Spoken Query 1: "Can you tell me the viewers' rating for the movie Into the Woods?"
+Named Entities: [Into the Woods (Title)]
+
+Spoken Query 2: "What is the MPAA rating for GP movie?"
+Named Entities: [GP (MPAA Rating)]
+
+Spoken Query 3: "Could you show me a review of Into the Woods?"
+Named Entities: [Into the Woods (Title), review (Review)]

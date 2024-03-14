@@ -1,0 +1,149 @@
+1. Apple announces new iPhone release.
+Named Entities: [Apple (organization)]
+
+2. London mayor approves new public transportation plan.
+Named Entities: [London (location)]
+
+3. CEO of Google steps down.
+Named Entities: [Google (organization)]
+
+4. United Nations report warns of climate change crisis.
+Named Entities: [United Nations (organization)]
+
+5. New study shows link between coffee consumption and lower risk of heart disease.
+Named Entities: []
+
+6. President of France visits Canada.
+Named Entities: [France (location), Canada (location)]
+
+7. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+8. Supreme Court rules in favor of same-sex marriage.
+Named Entities: [Supreme Court (organization)]
+
+9. Amazon to open new distribution center in Texas.
+Named Entities: [Amazon (organization), Texas (location)]
+
+10. Famous actor announces retirement from Hollywood.
+Named Entities: []
+
+11. New York Times wins Pulitzer Prize for investigative journalism.
+Named Entities: [New York Times (organization), Pulitzer Prize (organization)]
+
+12. Hurricane warning issued for Florida coast.
+Named Entities: [Florida (location)]
+
+13. CEO of Microsoft unveils new product line.
+Named Entities: [Microsoft (organization)]
+
+14. Paris Fashion Week attracts international designers.
+Named Entities: [Paris (location)]
+
+15. British Prime Minister calls for national healthcare reform.
+Named Entities: [British (location)]
+
+16. Starbucks introduces new eco-friendly coffee cup.
+Named Entities: [Starbucks (organization)]
+
+17. California wildfires leave thousands homeless.
+Named Entities: [California (location)]
+
+18. Australian scientist makes breakthrough in cancer research.
+Named Entities: [Australian (location)]
+
+19. World Health Organization declares pandemic.
+Named Entities: [World Health Organization (organization)]
+
+20. Facebook founder testifies before Congress.
+Named Entities: [Facebook (organization), Congress (organization)]
+
+21. German chancellor announces economic stimulus plan.
+Named Entities: [German (location)]
+
+22. New regulations proposed for cryptocurrency trading.
+Named Entities: []
+
+23. Tokyo Olympics postponed due to COVID-19 pandemic.
+Named Entities: [Tokyo (location), COVID-19 (location)]
+
+24. NBA player breaks record for most points in a single game.
+Named Entities: [NBA (organization)]
+
+25. Italian government unveils plan to reduce carbon emissions.
+Named Entities: [Italian (location)]
+
+26. Bill Gates donates $1 million to charity.
+Named Entities: [Bill Gates (person)]
+
+27. London Stock Exchange experiences record high trading volume.
+Named Entities: [London Stock Exchange (organization)]
+
+28. Russia accuses United States of election interference.
+Named Entities: [Russia (location), United States (location)]
+
+29. Famous singer cancels world tour due to illness.
+Named Entities: []
+
+30. Japan launches new satellite into space.
+Named Entities: [Japan (location)]
+
+31. British royal family welcomes new addition.
+Named Entities: [British (location)]
+
+32. Volkswagen recalls millions of vehicles over safety concerns.
+Named Entities: [Volkswagen (organization)]
+
+33. Australian Open tennis tournament kicks off.
+Named Entities: [Australian Open (organization)]
+
+34. New report shows rising sea levels in the Maldives.
+Named Entities: [Maldives (location)]
+
+35. Major earthquake strikes California.
+Named Entities: [California (location)]
+
+36. Spanish government announces new immigration policy.
+Named Entities: [Spanish (location)]
+
+37. Intel reveals new chip technology.
+Named Entities: [Intel (organization)]
+
+38. CEO of Amazon becomes world's richest person.
+Named Entities: [Amazon (organization)]
+
+39. South Korean president meets with North Korean leader for peace talks.
+Named Entities: [South Korean (location), North Korean (location)]
+
+40. World Bank approves loan for infrastructure development in Africa.
+Named Entities: [World Bank (organization), Africa (location)]
+
+41. British Prime Minister resigns amid political scandal.
+Named Entities: [British (location)]
+
+42. New study shows link between air pollution and increased respiratory illnesses.
+Named Entities: []
+
+43. NASA announces plans for manned mission to Mars.
+Named Entities: [NASA (organization), Mars (location)]
+
+44. New York City to invest billions in public housing renovations.
+Named Entities: [New York City (location)]
+
+45. Brazilian president faces impeachment proceedings.
+Named Entities: [Brazilian (location)]
+
+46. Tesla stocks surge after strong earnings report.
+Named Entities: [Tesla (organization)]
+
+47. Hong Kong protests escalate as government crackdown intensifies.
+Named Entities: [Hong Kong (location)]
+
+48. Famous author wins Nobel Prize for Literature.
+Named Entities: [Nobel Prize (organization)]
+
+49. Paris to implement new measures to combat air pollution.
+Named Entities: [Paris (location)]
+
+50. World Economic Forum to be held in Davos.
+Named Entities: [World Economic Forum (organization), Davos (location)]

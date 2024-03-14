@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie directed by Robert Rodriguez and featuring Jennifer Lopez?"
+Named Entities: [Robert Rodriguez (Director), Jennifer Lopez (Actor)]
+
+2. Query: "Show me a movie with an opera scene and a 5-star rating"
+Named Entities: [opera scene (Plot), 5-star rating (Viewers' Rating)]
+
+3. Query: "What movie directed by Richard Linklater has received the highest viewers' rating?"
+Named Entities: [Richard Linklater (Director), highest viewers' rating (Viewers' Rating)]

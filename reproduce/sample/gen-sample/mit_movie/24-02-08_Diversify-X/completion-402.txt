@@ -1,0 +1,8 @@
+1. "Can you tell me the story of the movie 'Jurassic Park'?"
+Named Entities: ['Jurassic Park' (Title)]
+
+2. "Is there a movie from the 2000s with really cool action scenes?"
+Named Entities: [2000s (Year), action (Genre)]
+
+3. "I want to watch a film about a superhero who can fly - do you know any?"
+Named Entities: [superhero (Genre), fly (Plot)]

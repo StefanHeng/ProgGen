@@ -1,0 +1,149 @@
+1. What are the top 5 highest grossing movies of all time?
+Named Entities: [top 5 (Review)]
+
+2. Can you recommend a good horror movie from the 1980s?
+Named Entities: [horror (Genre), 1980s (Year)]
+
+3. Who directed the movie "The Dark Knight"?
+Named Entities: [The Dark Knight (Title)]
+
+4. What is the IMDB rating for "The Shawshank Redemption"?
+Named Entities: [The Shawshank Redemption (Title), IMDB rating (Viewers' Rating)]
+
+5. Show me some action movies directed by Christopher Nolan.
+Named Entities: [action (Genre), Christopher Nolan (Director)]
+
+6. Can you play the trailer for "Inception"?
+Named Entities: [Inception (Title), trailer (Trailer)]
+
+7. What is the MPAA rating for "Jurassic Park"?
+Named Entities: [Jurassic Park (Title), MPAA rating (MPAA Rating)]
+
+8. I want to watch a movie featuring Leonardo DiCaprio and Kate Winslet.
+Named Entities: [Leonardo DiCaprio, Kate Winslet (Actor)]
+
+9. Give me a summary of the movie "Forrest Gump".
+Named Entities: [Forrest Gump (Title), summary (Plot)]
+
+10. What is the name of the song in the movie "Titanic"?
+Named Entities: [Titanic (Title), song (Song)]
+
+11. What is Roger Ebert's review of "Casablanca"?
+Named Entities: [Roger Ebert (Review), Casablanca (Title)]
+
+12. How many movies has Steven Spielberg directed?
+Named Entities: [Steven Spielberg (Director)]
+
+13. Can you tell me the name of the character played by Heath Ledger in "The Dark Knight"?
+Named Entities: [Heath Ledger (Actor), The Dark Knight (Title), character (Character)]
+
+14. What genre is the movie "The Matrix"?
+Named Entities: [The Matrix (Title), genre (Genre)]
+
+15. When was "The Godfather" released?
+Named Entities: [The Godfather (Title), released (Year)]
+
+16. What is the viewers' rating for "The Lord of the Rings: The Return of the King"?
+Named Entities: [The Lord of the Rings: The Return of the King (Title), viewers' rating (Viewers' Rating)]
+
+17. Can you show me a comedy directed by Judd Apatow?
+Named Entities: [comedy (Genre), Judd Apatow (Director)]
+
+18. Tell me about the plot of "Pulp Fiction".
+Named Entities: [Pulp Fiction (Title), plot (Plot)] 
+
+19. Is "The Exorcist" a movie worth watching?
+Named Entities: [The Exorcist (Title), worth watching (Review)]
+
+20. Show me a trailer for a sci-fi movie.
+Named Entities: [sci-fi (Genre), trailer (Trailer)]
+
+21. What is the name of the actor who portrayed Captain Jack Sparrow in "Pirates of the Caribbean"?
+Named Entities: [Captain Jack Sparrow (Character), Pirates of the Caribbean (Title), actor (Actor)]
+
+22. Can you recommend a family-friendly movie from the 1990s?
+Named Entities: [family-friendly (Genre), 1990s (Year)]
+
+23. Who directed the movie "Schindler's List"?
+Named Entities: [Schindler's List (Title), director (Director)]
+
+24. What is the MPAA rating for "The Silence of the Lambs"?
+Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+25. I want to watch a movie with a strong female lead character.
+Named Entities: [strong female lead (Character)]
+
+26. What genre is the movie "The Shawshank Redemption"?
+Named Entities: [The Shawshank Redemption (Title), genre (Genre)]
+
+27. When did "E.T. the Extra-Terrestrial" come out?
+Named Entities: [E.T. the Extra-Terrestrial (Title), came out (Year)]
+
+28. What is the viewers' rating for "Goodfellas"?
+Named Entities: [Goodfellas (Title), viewers' rating (Viewers' Rating)]
+
+29. Show me a movie with a plot twist.
+Named Entities: [plot twist (Plot)]
+
+30. Who sings the theme song for "Skyfall"?
+Named Entities: [Skyfall (Title), theme song (Song)]
+
+31. What is the review of "The Godfather Part II" by Rotten Tomatoes?
+Named Entities: [The Godfather Part II (Title), Rotten Tomatoes (Review)]
+
+32. Can you recommend a romantic comedy directed by Nora Ephron?
+Named Entities: [romantic comedy (Genre), Nora Ephron (Director)]
+
+33. Tell me about the character Han Solo in "Star Wars".
+Named Entities: [Han Solo (Character), Star Wars (Title)]
+
+34. What genre is the movie "Fight Club"?
+Named Entities: [Fight Club (Title), genre (Genre)]
+
+35. When was Quentin Tarantino born?
+Named Entities: [Quentin Tarantino (Director), born (Year)]
+
+36. What is the MPAA rating for "The Green Mile"?
+Named Entities: [The Green Mile (Title), MPAA rating (MPAA Rating)]
+
+37. What is the viewers' rating for "The Departed"?
+Named Entities: [The Departed (Title), viewers' rating (Viewers' Rating)]
+
+38. Show me a movie featuring Tom Hanks and Meg Ryan.
+Named Entities: [Tom Hanks, Meg Ryan (Actor)]
+
+39. Recommend a fantasy movie from the 2000s.
+Named Entities: [fantasy (Genre), 2000s (Year)]
+
+40. Who directed the movie "Interstellar"?
+Named Entities: [Interstellar (Title), director (Director)]
+
+41. Is "Inglourious Basterds" a violent movie?
+Named Entities: [Inglourious Basterds (Title), violent (MPAA Rating)]
+
+42. Show me a movie with a twist ending.
+Named Entities: [twist ending (Plot)]
+
+43. What song does Whitney Houston sing in "The Bodyguard"?
+Named Entities: [Whitney Houston (Actor), The Bodyguard (Title), song (Song)]
+
+44. What is the review of "The Matrix" by Rolling Stone?
+Named Entities: [The Matrix (Title), Rolling Stone (Review)]
+
+45. Can you recommend a science fiction movie directed by Ridley Scott?
+Named Entities: [science fiction (Genre), Ridley Scott (Director)]
+
+46. Tell me about the character Darth Vader in "Star Wars".
+Named Entities: [Darth Vader (Character), Star Wars (Title)]
+
+47. What genre is the movie "The Usual Suspects"?
+Named Entities: [The Usual Suspects (Title), genre (Genre)]
+
+48. When was "Gladiator" released?
+Named Entities: [Gladiator (Title), released (Year)]
+
+49. What is the viewers' rating for "The Pianist"?
+Named Entities: [The Pianist (Title), viewers' rating (Viewers' Rating)]
+
+50. Can you show me a movie with a compelling storyline?
+Named Entities: [compelling storyline (Plot)]

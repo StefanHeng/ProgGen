@@ -1,0 +1,8 @@
+1. "Where can I find a vegan food truck with a drive-thru nearby?"
+Named Entities: [vegan (Cuisine), drive-thru (Amenity), nearby (Location)]
+
+2. "What food trucks have a drive-thru and offer vegan options?"
+Named Entities: [drive-thru (Amenity), vegan (Cuisine)]
+
+3. "Are there any food trucks with a drive-thru that are known for their vegan dishes?"
+Named Entities: [drive-thru (Amenity), vegan (Cuisine)]

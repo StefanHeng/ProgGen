@@ -1,0 +1,8 @@
+Query: "I'm looking for high-priced food truck fare in the area, can you recommend one?"
+Named Entities: [high-priced (Price), food truck (Amenity), GPS coordinates (Location)]
+
+Query: "What food truck around here offers a high-priced menu with GPS coordinates?"
+Named Entities: [high-priced (Price), food truck (Amenity), GPS coordinates (Location)]
+
+Query: "Where can I find a food truck with high-priced fare and GPS coordinates nearby?"
+Named Entities: [high-priced (Price), food truck (Amenity), GPS coordinates (Location)]

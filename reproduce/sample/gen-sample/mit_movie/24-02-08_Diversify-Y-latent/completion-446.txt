@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a comedy movie directed by Rian Johnson?" 
+Named Entities: [comedy (Genre), Rian Johnson (Director)]
+
+2. Query: "Show me a trailer of a movie starring Sandra Oh and Alfred Hitchcock." 
+Named Entities: [Sandra Oh (Actor), Alfred Hitchcock (Actor)]
+
+3. Query: "What year was the movie GP released?" 
+Named Entities: [GP (Title), released (Year)]

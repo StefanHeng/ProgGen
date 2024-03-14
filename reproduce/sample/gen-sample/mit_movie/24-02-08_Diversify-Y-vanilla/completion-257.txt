@@ -1,0 +1,8 @@
+1. "Can you recommend any highly-rated movies from 1982 directed by Darren Aronofsky?"
+Named Entities: [1982 (Year), highly-rated (Viewers' Rating), Darren Aronofsky (Director)]
+
+2. "What is the genre of the movie A Tale of Two Cities?"
+Named Entities: [A Tale of Two Cities (Title)]
+
+3. "I'm looking for a movie with a gripping plot and intense characters, any suggestions?"
+Named Entities: [gripping plot (Plot), intense characters (Character)]

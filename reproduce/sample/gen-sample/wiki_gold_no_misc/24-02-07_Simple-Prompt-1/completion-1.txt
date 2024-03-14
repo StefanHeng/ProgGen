@@ -1,0 +1,90 @@
+1. The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+2. John F. Kennedy International Airport is a major international airport in Queens, New York City.
+Named Entities: [John F. Kennedy International Airport (location), Queens (location), New York City (location)]
+3. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+4. She won the Nobel Prize in Physics in 1903 and the Nobel Prize in Chemistry in 1911.
+Named Entities: [Nobel Prize in Physics (organization), Nobel Prize in Chemistry (organization)]
+5. The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+6. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person)]
+7. The United Nations is an intergovernmental organization responsible for maintaining international peace and security.
+Named Entities: [United Nations (organization)]
+8. The Amazon River in South America is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location), South America (location)]
+9. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+10. Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different sciences.
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+11. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+12. The United Nations Educational, Scientific and Cultural Organization is a specialized agency of the United Nations aimed at promoting world peace and security through education, science, and culture.
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (organization), United Nations (organization)]
+13. William Shakespeare was an English playwright, poet, and actor.
+Named Entities: [William Shakespeare (person), English (location)]
+14. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along the northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+15. NASA is an independent agency of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research.
+Named Entities: [NASA (organization), United States (location)]
+16. Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+Named Entities: [Leonardo da Vinci (person), Italian (location)]
+17. The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land.
+Named Entities: [Mediterranean Sea (location), Atlantic Ocean (location)]
+18. Microsoft Corporation is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, and personal computers and services.
+Named Entities: [Microsoft Corporation (organization), American (location)]
+19. The Louvre Museum, located in Paris, is the world's largest art museum and a historic monument in France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+20. Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist.
+Named Entities: [Mahatma Gandhi (person), Indian (location)]
+21. The Nile is a major north-flowing river in northeastern Africa, and is the longest river in the world.
+Named Entities: [Nile (location), Africa (location)]
+22. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+23. Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent van Gogh (person), Dutch (location)]
+24. The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+25. The World Bank is an international financial institution that provides loans and grants to the governments of poorer countries for the purpose of pursuing capital projects.
+Named Entities: [World Bank (organization)]
+26. Frida Kahlo was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico.
+Named Entities: [Frida Kahlo (person), Mexican (location), Mexico (location)]
+27. The Sahara is the largest hot desert in the world and the third largest desert overall, after Antarctica and the Arctic.
+Named Entities: [Sahara (location), Antarctica (location), Arctic (location)]
+28. The United States Capitol is the home of the United States Congress and the seat of the legislative branch of the U.S. federal government.
+Named Entities: [United States Capitol (location), United States Congress (organization), U.S. (location)]
+29. Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+Named Entities: [Alexander Graham Bell (person), Scottish (location)]
+30. The Vatican City, an independent city-state enclaved within Rome, Italy, is the smallest internationally recognized independent state in the world.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+31. The Sahara Desert is the largest hot desert, and the third largest desert after Antarctica and the Arctic Desert.
+Named Entities: [Sahara Desert (location), Antarctica (location), Arctic Desert (location)]
+32. Harvard University is a private Ivy League research university in Cambridge, Massachusetts, with about 6,700 undergraduate students and about 15,250 postgraduate students.
+Named Entities: [Harvard University (organization), Ivy League (organization), Cambridge (location), Massachusetts (location)]
+33. The Himalayas or Himalaya is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Named Entities: [Himalayas (location), Himalaya (location), Asia (location), Indian subcontinent (location), Tibetan Plateau (location)]
+34. The Apollo program was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration, which succeeded in landing the first humans on the Moon.
+Named Entities: [Apollo program (organization), United States (location), National Aeronautics and Space Administration (organization), Moon (location)]
+35. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt.
+Named Entities: [Great Pyramid of Giza (location), Giza pyramid complex (location), El Giza (location), Egypt (location)]
+36. Julia Child was an American cooking teacher, author, and television personality
+Named Entities: [Julia Child (person), American (location)]
+37. Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.
+Named Entities: [Mount Everest (location), Earth (location), Mahalangur Himal (location), Himalayas (location)]
+38. The British Museum, located in the Bloomsbury area of London, United Kingdom, is a public institution dedicated to human history, art and culture.
+Named Entities: [British Museum (organization), Bloomsbury (location), London (location), United Kingdom (location)]
+39. Vincent van Gogh's paintings are among the most valuable in the world, and his dotted masterpieces, from his "Sunflowers" series to his self-portraits, have moved people deeply.
+Named Entities: [Vincent van Gogh (person)]
+40. The Tokyo Tower is a communications and observation tower in Tokyo, Japan.
+Named Entities: [Tokyo Tower (location), Tokyo (location), Japan (location)]
+41. Florence Nightingale was an English social reformer and statistician, and the founder of modern nursing.
+Named Entities: [Florence Nightingale (person), English (location)]
+42. The Pacific Ocean is the largest and deepest of Earth's oceanic divisions, extending from the Arctic Ocean in the north to the Southern Ocean in the south and bounded by the continents of Asia and Australia in the west and the Americas in the east.
+Named Entities: [Pacific Ocean (location), Earth (location), Arctic Ocean (location), Southern Ocean (location), Asia (location), Australia (location), Americas (location)]
+43. The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain.
+Named Entities: [Alhambra (location), Granada (location), Andalusia (location), Spain (location)]
+44. Orville and Wilbur Wright were two American aviation pioneers credited with inventing, building, and flying the world's first successful motor-operated airplane.
+Named Entities: [Orville (person), Wilbur Wright (person), American (location)]
+45. The Dead Sea is a salt lake bordered by Jordan to the east and Israel and Palestine to the west.
+Named Entities: [Dead Sea (location), Jordan (location), Israel (location), Palestine (

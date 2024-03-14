@@ -1,0 +1,8 @@
+1. "Can you recommend a movie about a bank robbery that was released in 1952?"
+Named Entities: [bank robbery (Plot), 1952 (Year)]
+
+2. "I'm interested in watching a movie set in an underground society, similar to Blade Runner."
+Named Entities: [underground (Plot), Blade Runner (Title)]
+
+3. "Who directed the movie Blade Runner and what is the viewers' rating for it?"
+Named Entities: [Blade Runner (Title), viewers' rating (Viewers' Rating), directed (Director)]

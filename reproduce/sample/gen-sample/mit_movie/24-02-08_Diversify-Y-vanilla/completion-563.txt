@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a song by Beyoncé?"
+   Named Entities: [Beyoncé (Actor), song (Song)]
+
+2. Query: "What D rated movie did Steven Spielberg direct in the 1980s?"
+   Named Entities: [D rated (MPAA Rating), Steven Spielberg (Director), 1980s (Year)]
+
+3. Query: "Show me a trailer of the latest action movie with Tom Hardy."
+   Named Entities: [trailer (Trailer), action (Genre), Tom Hardy (Actor)]

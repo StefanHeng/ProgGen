@@ -1,0 +1,8 @@
+1. Query: "Is there a movie with a character named Jack Dawson?"
+   Named Entities: [Jack Dawson (Character)]
+
+2. Query: "Do you have a movie with the song 'Wind Beneath My Wings'?"
+   Named Entities: [Wind Beneath My Wings (Song)]
+
+3. Query: "Can you recommend an electronic genre film from the 2000s?"
+   Named Entities: [Electronic (Genre), 2000s (Year)]

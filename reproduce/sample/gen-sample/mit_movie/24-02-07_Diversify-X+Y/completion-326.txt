@@ -1,0 +1,8 @@
+1. "Hey, I heard that Meryl Streep won a lot of awards for her role in The Iron Lady. Can you tell me which awards she received for that movie?"
+   Named Entities: [Meryl Streep (Actor), The Iron Lady (Title), Awards and nominations (Genre)]
+
+2. "I love Leonardo DiCaprio in Titanic, but did Jack Dawson win any awards for his performance? Or maybe the movie itself?"
+   Named Entities: [Leonardo DiCaprio (Actor), Titanic (Title), Jack Dawson (Character), Awards and nominations (Genre)]
+
+3. "I'm a huge fan of Game of Thrones, and Jon Snow is my favorite character. Did the show win any awards and nominations throughout its run?"
+   Named Entities: [Game of Thrones (Title), Jon Snow (Character), Awards and nominations (Genre)]

@@ -1,0 +1,11 @@
+1. Sentence: "The {{Houston Engineering Department}} is responsible for the design, construction, and maintenance of the city's infrastructure."
+Text Span: "Houston Engineering Department"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Grace Hopper, a pioneering computer scientist and {{United States Navy}} rear admiral, played a crucial role in the development of early computer programming languages and contributed to the field of software engineering through her work on the COBOL programming language."
+Text Span: "United States Navy"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{Aesir}}, in Norse mythology, are a group of deities who were associated with war, wisdom, and fertility."
+Text Span: "Aesir"
+Label: (A). The span is a named entity of type organization

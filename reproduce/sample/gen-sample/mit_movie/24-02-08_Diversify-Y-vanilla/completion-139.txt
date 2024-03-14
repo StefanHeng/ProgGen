@@ -1,0 +1,8 @@
+1. "What biographical films has Matthew McConaughey starred in?"
+Named Entities: [biographical (Genre), Matthew McConaughey (Actor)]
+
+2. "Are there any movies directed by Clint Eastwood that focus on women's rights?"
+Named Entities: [Clint Eastwood (Director), women's rights (Plot)]
+
+3. "Can I watch a trailer of a movie featuring the character Olaf from Frozen?"
+Named Entities: [Olaf (Character), Frozen (Title)]

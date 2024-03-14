@@ -1,0 +1,11 @@
+1. Query: "What's a good restaurant for seafood with a {{high rating}}?"
+Text Span: "high rating"
+Label: (A). The span is a named entity of type rating
+
+2. Query: "I'm craving some authentic sushi. Where can I find a {{highly-rated}} sushi bar?"
+Text Span: "highly-rated"
+Label: (A). The span is a named entity of type rating
+
+3. Query: "What is the {{best}} Italian restaurant in the area for dinner tonight?"
+Text Span: "best"
+Label: (A). The span is a named entity of type rating

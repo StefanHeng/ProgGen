@@ -1,0 +1,8 @@
+1. "What are the business hours for a Spanish restaurant in the downtown area?"
+Named Entities: [Spanish (Cuisine), downtown area (Location), business hours (Hours)]
+
+2. "Can you recommend a restaurant with outdoor seating and a good rating?"
+Named Entities: [outdoor seating (Amenity), good rating (Rating)]
+
+3. "I'm looking for a budget-friendly place to eat with vegetarian options after 7 p m"
+Named Entities: [budget-friendly (Price), vegetarian options (Cuisine), after 7 p m (Hours)]

@@ -1,0 +1,8 @@
+1. "Can you tell me about the director of the movie Ray and any behind-the-scenes details?"
+Named Entities: [Ray (Title), director (Director)]
+
+2. "I'm interested in finding a 1960-1970s movie that focuses on environmental issues. Can you recommend any?"
+Named Entities: [1960-1970s (Year), environmental (Genre)]
+
+3. "I heard that Idris Elba stars in an adventure film. Can you provide me with more information about it, including any behind-the-scenes details?"
+Named Entities: [Idris Elba (Actor), adventure (Genre)]

@@ -1,0 +1,8 @@
+1. Text Span: "diner"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "celebrity chef"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Text Span: "live music"
+Label: (A). The span is a named entity of type amenity

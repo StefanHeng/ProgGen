@@ -1,0 +1,8 @@
+1. "I'm craving a hearty breakfast, where can I find a good diner nearby?"
+   Named Entities: [hearty (Amenity), breakfast (Cuisine), diner (Restaurant Name), nearby (Location)]
+
+2. "What's the best place for a quick breakfast sandwich?"
+   Named Entities: [best (Rating), quick (Amenity), breakfast sandwich (Dish)]
+
+3. "Do you know of any breakfast spots with outdoor seating?"
+   Named Entities: [breakfast (Cuisine), outdoor seating (Amenity)]

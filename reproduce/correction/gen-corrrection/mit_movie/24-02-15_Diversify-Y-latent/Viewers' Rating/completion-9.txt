@@ -1,0 +1,11 @@
+1. Query: "What is the {{viewers' rating}} for the movie Superman"
+Text Span: "viewers' rating"
+Label: (D). Not a Named Entity
+
+2. Query: "What is the {{highest-rated}} James Bond movie of all time?"
+Text Span: "highest-rated"
+Label: (A). Named Entity of type viewers' rating
+
+3. Query: "Can I find any {{impactful}} movies by Robert De Niro?"
+Text Span: "impactful"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: other

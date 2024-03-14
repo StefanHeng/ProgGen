@@ -1,0 +1,8 @@
+Query: "Can you recommend an excellent breakfast spot nearby?"
+Named Entities: [Excellent (Rating), breakfast (Cuisine), nearby (Location)]
+
+Query: "I'm looking for a place with an excellent breakfast menu, do you have any suggestions?"
+Named Entities: [Excellent (Rating), breakfast (Cuisine)]
+
+Query: "Where can I find an excellent breakfast place that opens before 8 am?"
+Named Entities: [Excellent (Rating), breakfast (Cuisine), before 8 am (Hours)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a family-friendly movie from the 1990s starring a talking deer?"
+Named Entities: [family-friendly (Viewers' Rating), 1990s (Year), Bambi (Title)]
+
+Query: "I'm looking for a movie directed by Taylor Hackford that received a lot of respect."
+Named Entities: [Taylor Hackford (Director), respect (Review)]
+
+Query: "What's a GP-rated action movie from the 1980s?"
+Named Entities: [GP-rated (MPAA Rating), 1980s (Year), action (Genre)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with breakfast hours and a reasonable price?"
+Named Entities: [breakfast hours (Hours), reasonable (Price)]
+
+2. "I'm craving some Indian cuisine, where can I find a restaurant with a lunch buffet?"
+Named Entities: [Indian (Cuisine), lunch buffet (Amenity)]
+
+3. "Do you know of any Italian restaurants with a good rating and a location near the beach?"
+Named Entities: [Italian (Cuisine), good (Rating), location near the beach (Location)]

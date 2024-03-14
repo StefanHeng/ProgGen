@@ -1,0 +1,11 @@
+1. Sentence: "The {{Mauna Kea Observatory}} in Hawaii is one of the most prominent astronomical research facilities in the world."
+Text Span: "Mauna Kea Observatory"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The first Starbucks Corporation store was located in {{Seattle}}'s Pike Place Market in 1971."
+Text Span: "Seattle"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The World Health Organization has declared the {{COVID-19}} outbreak a global pandemic."
+Text Span: "COVID-19"
+Label: (D). The span is not a named entity

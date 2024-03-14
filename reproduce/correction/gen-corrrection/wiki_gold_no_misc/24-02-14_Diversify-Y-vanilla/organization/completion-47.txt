@@ -1,0 +1,8 @@
+1. Text Span: "Roman"
+Label: (C). Wrong Type. The correct entity type is location.
+
+2. Text Span: "British"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "NASA"
+Label: (A). The span is a named entity of type organization

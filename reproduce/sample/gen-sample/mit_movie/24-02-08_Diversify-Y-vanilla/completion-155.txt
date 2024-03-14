@@ -1,0 +1,8 @@
+1. "Can you recommend a Stanley Kubrick film with Natalie Portman in it?"
+Named Entities: [Stanley Kubrick (Director), Natalie Portman (Actor)]
+
+2. "Show me a trailer for a sci-fi film starring Natalie Portman"
+Named Entities: [sci-fi (Genre), Natalie Portman (Actor)]
+
+3. "What is the viewers' rating for the Stanley Kubrick movie featuring Natalie Portman?"
+Named Entities: [Stanley Kubrick (Director), Natalie Portman (Actor), viewers' rating (Viewers' Rating)]

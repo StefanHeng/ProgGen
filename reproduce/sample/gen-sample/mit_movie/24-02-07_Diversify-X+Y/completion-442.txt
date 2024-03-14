@@ -1,0 +1,8 @@
+Query: "I'm not sure what to watch, can you recommend a movie with Diane Keaton?"
+Named Entities: [Diane Keaton (Actor)]
+
+Query: "I'm in the mood for a movie with music, maybe something related to Elphaba?"
+Named Entities: [music (Genre), Elphaba (Character)]
+
+Query: "I can't decide, do you know any G-rated movies directed by M. Night Shyamalan?"
+Named Entities: [G (MPAA Rating), M. Night Shyamalan (Director)]

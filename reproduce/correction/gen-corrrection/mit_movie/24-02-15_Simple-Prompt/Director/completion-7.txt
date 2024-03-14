@@ -1,0 +1,11 @@
+1. Query: "Which movie did David Fincher direct that is based on a novel by {{Chuck Palahniuk}}"
+Text Span: "Chuck Palahniuk"
+Label: (C). The span is a named entity but the category is not director. Correct Entity Type: Author
+
+2. Query: "who is the {{director}} of the movie the matrix"
+Text Span: "director"
+Label: (D). The span is not a named entity
+
+3. Query: "Have you seen the latest {{Tarantino}} film"
+Text Span: "Tarantino"
+Label: (A). The span is a named entity of type director

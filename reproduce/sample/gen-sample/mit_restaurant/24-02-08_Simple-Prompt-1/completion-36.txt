@@ -1,0 +1,149 @@
+1. "I'm in the mood for sushi, any good sushi restaurants nearby?"
+Named Entities: [sushi (Cuisine)]
+
+2. "What's the best Italian restaurant in town?"
+Named Entities: [Italian (Cuisine)]
+
+3. "I need a table for two at a steakhouse tonight"
+Named Entities: [two (Amenity), steakhouse (Cuisine)]
+
+4. "What time does the Indian restaurant close tonight?"
+Named Entities: [Indian (Cuisine), tonight (Hours)]
+
+5. "I want to try a new place, any recommendations for Mexican food?"
+Named Entities: [Mexican (Cuisine)]
+
+6. "Where can I find a cheap place to grab a quick bite?"
+Named Entities: [cheap (Price)]
+
+7. "I'm craving some seafood, which restaurant has the best selection?"
+Named Entities: [seafood (Cuisine)]
+
+8. "Do you know a BBQ joint with outdoor seating?"
+Named Entities: [BBQ (Cuisine), outdoor seating (Amenity)]
+
+9. "I'd like to make a reservation at that fancy French restaurant downtown"
+Named Entities: [French (Cuisine), downtown (Location)]
+
+10. "What's the highest rated burger spot in the area?"
+Named Entities: [highest rated (Rating), burger (Cuisine)]
+
+11. "Are there any 24-hour diners in this neighborhood?"
+Named Entities: [24-hour (Hours)]
+
+12. "I'm looking for a vegan-friendly cafe nearby"
+Named Entities: [vegan-friendly (Amenity)]
+
+13. "Where can I find a place with live music and a cocktail bar?"
+Named Entities: [live music (Amenity), cocktail bar (Amenity)]
+
+14. "What's the best spot for brunch in town?"
+Named Entities: [brunch (Amenity)]
+
+15. "I'm on a budget, where can I get a filling meal for under $15?"
+Named Entities: [under $15 (Price)]
+
+16. "Is there a Thai restaurant open late tonight?"
+Named Entities: [Thai (Cuisine), open late (Hours)]
+
+17. "I need a reservation for a party of six at an upscale steakhouse"
+Named Entities: [six (Amenity), upscale (Price), steakhouse (Cuisine)]
+
+18. "Are there any Mediterranean places nearby with outdoor seating?"
+Named Entities: [Mediterranean (Cuisine), outdoor seating (Amenity)]
+
+19. "Where's the closest coffee shop with WiFi?"
+Named Entities: [closest (Location), coffee shop (Amenity), WiFi (Amenity)]
+
+20. "I'm in the mood for some barbecue, is there a good spot in the area?"
+Named Entities: [barbecue (Cuisine)]
+
+21. "What's the best place for dim sum in town?"
+Named Entities: [dim sum (Cuisine)]
+
+22. "Find me a nearby pizzeria with delivery options"
+Named Entities: [nearby (Location), pizzeria (Cuisine), delivery options (Amenity)]
+
+23. "I'm looking for a place that serves authentic Korean dishes."
+Named Entities: [authentic Korean (Cuisine)]
+
+24. "I want to make a reservation for a family-friendly restaurant"
+Named Entities: [family-friendly (Amenity)]
+
+25. "I'm in the mood for tapas, where can I find a good tapas bar?"
+Named Entities: [tapas (Cuisine)]
+
+26. "I need a reservation at a Michelin-starred restaurant for tomorrow night"
+Named Entities: [Michelin-starred (Rating), tomorrow night (Hours)]
+
+27. "Where can I grab a quick sandwich for lunch?"
+Named Entities: [quick (Amenity)]
+
+28. "I'm allergic to shellfish, can you recommend a seafood restaurant that's safe for me?"
+Named Entities: [allergic to shellfish (Amenity), seafood (Cuisine)]
+
+29. "I'm looking for a place that serves breakfast all day"
+Named Entities: [serves breakfast all day (Hours)]
+
+30. "What's the best place for a romantic dinner in this area?"
+Named Entities: [romantic (Amenity)]
+
+31. "Is there a 24-hour diner that serves pancakes nearby?"
+Named Entities: [24-hour (Hours), pancakes (Dish)]
+
+32. "I need a reservation at a vegetarian-friendly restaurant for tonight"
+Named Entities: [vegetarian-friendly (Amenity), tonight (Hours)]
+
+33. "Where can I find a good deli for a sandwich?"
+Named Entities: [good (Rating), deli (Cuisine), sandwich (Dish)]
+
+34. "Which burger joint has the best milkshakes in town?"
+Named Entities: [burger joint (Cuisine), best (Rating), milkshakes (Dish)]
+
+35. "Are there any Italian places that offer outdoor seating for lunch?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), lunch (Hours)]
+
+36. "I'm looking for a place to have a business lunch, any recommendations?"
+Named Entities: [business lunch (Amenity)]
+
+37. "Where can I go for a bottomless brunch in this area?"
+Named Entities: [bottomless brunch (Amenity)]
+
+38. "I need a reservation for a birthday dinner at a sushi restaurant"
+Named Entities: [birthday dinner (Amenity), sushi (Cuisine)]
+
+39. "Where can I find a late-night diner that serves breakfast?"
+Named Entities: [late-night (Hours), diner (Amenity), breakfast (Dish)]
+
+40. "Which Mexican restaurant is known for its margaritas?"
+Named Entities: [Mexican (Cuisine), margaritas (Dish)]
+
+41. "I want to try some authentic Vietnamese pho, any recommendations?"
+Named Entities: [authentic Vietnamese (Cuisine), pho (Dish)]
+
+42. "Is there a Thai place with outdoor seating and good vegetarian options?"
+Named Entities: [Thai (Cuisine), outdoor seating (Amenity), good vegetarian options (Amenity)]
+
+43. "Where's the best place for a quick bite on the go?"
+Named Entities: [quick (Amenity)]
+
+44. "I'm looking for a sports bar that serves pub food"
+Named Entities: [sports bar (Amenity), pub food (Cuisine)]
+
+45. "Find me a nearby Italian place with a good wine selection"
+Named Entities: [nearby (Location), Italian (Cuisine), good wine selection (Amenity)]
+
+46. "I need a reservation for a date night at a fancy French restaurant"
+Named Entities: [date night (Amenity), fancy (Price), French (Cuisine)]
+
+47. "I want to try some authentic Greek cuisine, where can I find a good Greek restaurant?"
+Named Entities: [authentic Greek (Cuisine), Greek (Cuisine)]
+
+48. "I'm in the mood for some comfort food, can you recommend a good diner?"
+Named Entities: [comfort food (Amenity), good diner (Amenity)]
+
+49. "Where can I find a casual cafe with good pastries?"
+Named Entities: [casual (Price), cafe (Amenity), good pastries (Amenity)]
+
+50. "What time does the popular brunch spot open on weekends?"
+Named Entities: [popular (Rating), brunch spot (Amenity), weekends (Hours)

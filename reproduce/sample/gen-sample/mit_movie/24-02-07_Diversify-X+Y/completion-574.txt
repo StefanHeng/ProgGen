@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the most awards for fantasy-comedy genre?"
+Named Entities: [fantasy-comedy (Genre), Awards]
+
+2. "I'm looking for a highly acclaimed movie rated G with the song 'City of Stars' in it. Any recommendations?"
+Named Entities: [G (MPAA Rating), City of Stars (Song)]
+
+3. "Could you provide me with a list of courtroom dramas released in 2016 that were nominated for major awards?"
+Named Entities: [2016 (Year), Courtroom (Genre), Awards]

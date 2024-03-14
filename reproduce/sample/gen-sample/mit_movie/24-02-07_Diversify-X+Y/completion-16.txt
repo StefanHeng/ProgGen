@@ -1,0 +1,10 @@
+Spoken Queries:
+
+1. "Hey, what's a super cool movie with a rating of 10/10 in the action genre?"
+Named Entities: [10/10 (Viewers' Rating), action (Genre)]
+
+2. "Do you know any splendid mystery movies like Sherlock Holmes?"
+Named Entities: [splendid (Review), mystery (Genre), Sherlock Holmes (Title)]
+
+3. "I'm looking for a mind-blowing thriller that's also a 10/10 movie, can you recommend one?"
+Named Entities: [mind-blowing (Review), thriller (Genre), 10/10 (Viewers' Rating)]

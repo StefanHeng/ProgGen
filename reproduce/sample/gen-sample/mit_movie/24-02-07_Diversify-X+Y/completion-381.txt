@@ -1,0 +1,8 @@
+Query: "Can you tell me about the making of a movie from the 1970s or 1980s that was directed by a legendary filmmaker?"
+Named Entities: [1970-1985 (Year), Akira Kurosawa (Director)]
+
+Query: "I'm looking for a movie with some exclusive behind-the-scenes footage, maybe something like Crazy Heart."
+Named Entities: [Crazy Heart (Title), Exclusive footage]
+
+Query: "Is there a film that has some interesting behind-the-scenes stories, maybe directed by someone like Akira Kurosawa?"
+Named Entities: [Akira Kurosawa (Director), Behind-the-scenes (Plot)]

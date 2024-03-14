@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a breakfast spot in Seattle on Monday morning"
+   Named Entities: [breakfast (Cuisine), Seattle (Location), Monday morning (Hours)]
+
+2. Query: "Can you recommend a restaurant with outdoor seating and a view of the water in Seattle"
+   Named Entities: [outdoor seating (Amenity), view of the water (Amenity), Seattle (Location)]
+
+3. Query: "I'd like to find a sushi place with a high rating and reasonable prices"
+   Named Entities: [sushi (Cuisine), high rating (Rating), reasonable prices (Price)]

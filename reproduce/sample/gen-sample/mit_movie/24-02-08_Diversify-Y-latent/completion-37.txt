@@ -1,0 +1,8 @@
+1. Query: "What is the TV-MA movie directed by Tim Story that is about a high school misfit?"
+Named Entities: [TV-MA (MPAA Rating), Tim Story (Director), high school misfit (Plot)]
+
+2. Query: "Which Harry Potter movie has the highest viewers' rating?"
+Named Entities: [Harry Potter (Title), highest (Viewers' Rating)]
+
+3. Query: "Can you recommend a movie with the title 'NR'?"
+Named Entities: [NR (Title)]

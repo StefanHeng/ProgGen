@@ -1,0 +1,8 @@
+1. Text Span: "Outstanding animation"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "propaganda"
+Label: (B). Wrong Boundary. The correct span boundary is "M/PG rated movies that are considered propaganda".
+
+3. Text Span: "action"
+Label: (A). Correct Entity Annotation.

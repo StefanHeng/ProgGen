@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the movie rated B- that came out in 1999?"
+Named Entities: [B- (MPAA Rating), 1999 (Year)]
+
+2. "I'm looking for an unrated film with a soundtrack by Randy Newman, can you recommend one?"
+Named Entities: [Randy Newman (Song), Unrated (MPAA Rating)]
+
+3. "Could you list some titles of movies with a strong character development and a thrilling plot from the 2000s?"
+Named Entities: [strong character development (Character), thrilling plot (Plot), 2000s (Year)]

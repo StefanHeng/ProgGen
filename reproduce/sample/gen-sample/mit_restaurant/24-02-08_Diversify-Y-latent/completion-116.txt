@@ -1,0 +1,8 @@
+1. "What's the best Italian restaurant in town?"
+Named Entities: [best (Rating), Italian (Cuisine), town (Location), Restaurant Name]
+
+2. "Where can I find a cheap place to eat on the westside?"
+Named Entities: [cheap (Price), westside (Location)]
+
+3. "Which restaurant has the most variety on their menu?"
+Named Entities: [most variety (Superlative), menu (Amenity), Restaurant Name]

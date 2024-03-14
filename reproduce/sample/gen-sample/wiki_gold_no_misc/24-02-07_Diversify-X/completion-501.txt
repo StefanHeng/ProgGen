@@ -1,0 +1,8 @@
+Sentence: "The mythological figure Medusa is commonly depicted as a woman with snakes for hair and a gaze that turns people into stone."
+Named Entities: [Medusa (person)]
+
+Sentence: "Mount Olympus, in Greek mythology, is often considered the home of the twelve Olympian gods."
+Named Entities: [Mount Olympus (location), Olympian gods (organization)]
+
+Sentence: "The Norse mythology includes stories of gods such as Odin, Thor, and Loki, along with various other mythical creatures and realms."
+Named Entities: [Odin (person), Thor (person), Loki (person), Norse mythology (organization)]

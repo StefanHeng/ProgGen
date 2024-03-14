@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly-rated sushi restaurant in the downtown area?"
+Named Entities: [highly-rated (Rating), sushi (Cuisine), downtown area (Location)]
+
+Query: "I'm craving some authentic Italian pasta, preferably in the midtown area. What's open late?"
+Named Entities: [authentic Italian pasta (Dish), midtown area (Location), open late (Hours)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a view of the ocean. Any suggestions?"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

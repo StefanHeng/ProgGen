@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an amazing soundtrack that features the song 'Bohemian Rhapsody'?"
+Named Entities: ['Bohemian Rhapsody' (Song)]
+
+2. "I'm looking for a movie from the 80s with a fantastic soundtrack that has a high viewers' rating."
+Named Entities: [80s (Year), high viewers' rating (Viewers' Rating)]
+
+3. "Who directed the film with the best original song in the past decade?"
+Named Entities: [best original song (Song), past decade (Year)]

@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a movie with seamless special effects and action like the Avengers series."
+   Named Entities: [seamless special effects (Plot), Avengers (Title)]
+
+2. Query: "Could you show me some part of the new Indiana Jones movie teaser trailer?"
+   Named Entities: [some part (Trailer), Indiana Jones (Character)]
+
+3. Query: "Is there a movie with a paranormal theme and a storyline revolving around revenge?"
+   Named Entities: [paranormal (Genre), revenge (Plot)]

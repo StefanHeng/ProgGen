@@ -1,0 +1,8 @@
+Query: "can you recommend a fine dining restaurant with takeout options"
+Named Entities: [fine dining (Amenity), takeout (Amenity)]
+
+Query: "what are some high-end restaurants that offer takeout in the area"
+Named Entities: [high-end (Price), takeout (Amenity)]
+
+Query: "find me a fancy restaurant that does takeout for dinner tonight"
+Named Entities: [fancy (Rating), takeout (Amenity), dinner tonight (Hours)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with an NC-17 rating"
+Named Entities: [NC-17 (MPAA Rating)]
+
+Query: "what was the name of the reggae musician who appeared in the 1981 film"
+Named Entities: [reggae musician (Genre), 1981 (Year)]
+
+Query: "show me a movie set in the 1930s with instrumental music"
+Named Entities: [1930s (Year), instrumental music (Genre)]

@@ -1,0 +1,8 @@
+1. "I need tickets for a coming-of-age story, is there a movie theater nearby showing it?"
+Named Entities: [Coming-of-age story (Genre)]
+
+2. "I'm looking for showtimes for a movie directed by Jon M. Chu, can you help me out?"
+Named Entities: [Jon M. Chu (Director)]
+
+3. "Do you have any tickets left for the new film starring Mel Gibson and also show Top Gun?"
+Named Entities: [Mel Gibson (Actor), Top Gun (Title)]

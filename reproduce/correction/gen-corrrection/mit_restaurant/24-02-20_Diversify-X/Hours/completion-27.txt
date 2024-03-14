@@ -1,0 +1,11 @@
+1. Query: "Which upscale Italian restaurants are open for {{dinner past 9 o'clock}}?"
+Text Span: "dinner past 9 o'clock"
+Label: (A). The span is a named entity of type hours
+
+2. Query: "What fast food places with a drive-thru are {{open late}} tonight?"
+Text Span: "open late"
+Label: (A). The span is a named entity of type hours
+
+3. Query: "Which diner serves breakfast foods during {{lunch hours}}?"
+Text Span: "lunch hours"
+Label: (A). The span is a named entity of type hours

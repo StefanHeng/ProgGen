@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly sushi restaurant with good ratings for dinner tonight?"
+Named Entities: [budget-friendly (Price), sushi (Cuisine), good (Rating), dinner (Amenity)]
+
+2. "I'm in the mood for sushi for dinner. Is there a reasonably priced place with a variety of sushi rolls?"
+Named Entities: [sushi (Cuisine), reasonably priced (Price), dinner (Amenity)]
+
+3. "I'm a male doctor in my 30s looking for a sushi place with affordable prices and a relaxed atmosphere for dinner. Any recommendations?"
+Named Entities: [male (demographic), doctor (demographic), 30s (demographic), sushi (Cuisine), affordable (Price), relaxed atmosphere (Amenity), dinner (Amenity)]

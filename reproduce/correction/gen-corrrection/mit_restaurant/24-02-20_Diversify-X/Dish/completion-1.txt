@@ -1,0 +1,8 @@
+1. Text Span: "milkshake"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "gluten-free"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Text Span: "pancakes"
+Label: (A). The span is a named entity of type dish

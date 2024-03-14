@@ -1,0 +1,8 @@
+1. Query: "Can you give me a motion capture assessment of the latest Avengers movie?"
+Named Entities: [motion capture assessment (Review), Avengers (Title)]
+
+2. Query: "What behind-the-scenes stories can you share about Jennifer Aniston's most recent film?"
+Named Entities: [behind-the-scenes (Plot), Jennifer Aniston (Actor)]
+
+3. Query: "Is Tony Stark the main character in any action movies from the 2000s?"
+Named Entities: [Tony Stark (Character), action (Genre), 2000s (Year)]

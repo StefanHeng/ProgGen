@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food restaurant with a quiet and peaceful ambience?"
+Named Entities: [fast food (Cuisine), quiet and peaceful (Amenity)]
+
+2. "I'm craving fast food, but I want to find a place that has a high rating"
+Named Entities: [fast food (Cuisine), high rating (Rating)]
+
+3. "What are the hours of operation for the nearest fast food restaurant with a peaceful environment?"
+Named Entities: [fast food (Cuisine), hours of operation (Hours), nearest (Location), peaceful environment (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Who directed the making-of documentary for the movie Inception"
+Named Entities: [Inception (Title), making-of documentary (Plot), directed (Director)]
+
+2. Query: "What are some popular behind-the-scenes features for fantasy movies from the 2010s"
+Named Entities: [fantasy movies (Genre), 2010s (Year), behind-the-scenes features (Plot)]
+
+3. Query: "Can you recommend a movie with a director's commentary by a non-binary filmmaker"
+Named Entities: [director's commentary (Plot), non-binary (Director)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any M. Night Shyamalan movies available for streaming?"
+Named Entities: [M. Night Shyamalan (Director), Accessible through streaming]
+
+2. "What G-rated martial arts movies are popular right now?"
+Named Entities: [G (MPAA Rating), martial arts (Genre)]
+
+3. "Which movie directed by M. Night Shyamalan has the best plot?"
+Named Entities: [M. Night Shyamalan (Director), best plot (Review)]

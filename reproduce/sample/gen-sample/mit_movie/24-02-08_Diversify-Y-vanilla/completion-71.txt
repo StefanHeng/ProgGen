@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie with the song Black Velvet and set in a war-torn country?"
+   Named Entities: [Black Velvet (Song), war-torn country (Plot)]
+
+2. Query: "What film from the 1990s has the most action-packed plot?"
+   Named Entities: [1990s (Year), action-packed (Plot)]
+
+3. Query: "Who is the director of the romantic comedy with Julia Roberts and Hugh Grant?"
+   Named Entities: [Julia Roberts (Actor), Hugh Grant (Actor), romantic comedy (Genre)]

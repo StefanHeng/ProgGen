@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with a captivating A plot"
+Named Entities: [captivating (Viewers' Rating), A (Plot)]
+
+Query: "is there an unrated movie directed by Ben Affleck"
+Named Entities: [unrated (MPAA Rating), Ben Affleck (Director)]
+
+Query: "show me a promotional clip for the movie Django Unchained"
+Named Entities: [promotional clip (Trailer), Django Unchained (Title)]

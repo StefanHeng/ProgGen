@@ -1,0 +1,11 @@
+1. Query: "I'm craving tacos, where can I find a food truck serving {{Mexican}} cuisine?"
+Text Span: "Mexican"
+Label: (A). The span is a named entity of type cuisine
+
+2. Query: "What are the breakfast hours for {{kosher}} restaurants in the area?"
+Text Span: "kosher"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "Where can I find a dairy-free {{food truck}} with affordable options nearby?"
+Text Span: "food truck"
+Label: (C). The span is a named entity but the category is not cuisine. The correct entity type is Amenity.

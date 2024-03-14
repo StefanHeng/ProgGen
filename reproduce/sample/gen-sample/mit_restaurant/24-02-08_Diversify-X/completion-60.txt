@@ -1,0 +1,8 @@
+Query: "I'm craving tacos, can you recommend a food truck with authentic Mexican cuisine?"
+Named Entities: [tacos (Dish), food truck (Amenity), authentic Mexican cuisine (Cuisine)]
+
+Query: "I need to grab a quick bite, where can I find a food truck with vegan options?"
+Named Entities: [quick bite (Amenity), food truck (Amenity), vegan options (Cuisine)]
+
+Query: "I want to try some gourmet burgers from a food truck, where can I find one with high ratings?"
+Named Entities: [gourmet burgers (Dish), food truck (Amenity), high ratings (Rating)]

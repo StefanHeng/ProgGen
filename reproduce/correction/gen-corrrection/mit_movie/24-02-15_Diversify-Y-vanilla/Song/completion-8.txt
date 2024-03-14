@@ -1,0 +1,8 @@
+1. Text Span: "Don't Stop Believin'"
+   Label: (A). The span is a named entity of type song
+
+2. Text Span: "a song by prince"
+   Label: (B). The span contains a named song entity but the span boundary is not precise. The correct span boundary is "song by prince"
+
+3. Text Span: "Adele"
+   Label: (C). The span is a named entity but the category is not song. The correct entity type is Actor.

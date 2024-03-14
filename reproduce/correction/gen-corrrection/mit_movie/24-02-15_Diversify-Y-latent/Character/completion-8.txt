@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a movie with a character similar to {{Leia Organa}} from Star Wars."
+Text Span: "Leia Organa"
+Label: (A). The span is a named entity of type character
+
+2. Query: "Are there any recent movies with a strong female lead character like {{Wonder Woman}}?"
+Text Span: "Wonder Woman"
+Label: (A). The span is a named entity of type character
+
+3. Query: "Can you find me a movie featuring the song 'Let It Go' performed by {{Elsa}} from Frozen?"
+Text Span: "Elsa"
+Label: (A). The span is a named entity of type character

@@ -1,0 +1,8 @@
+1. "What is Mel Brooks' highest-rated movie according to viewers"
+   Named Entities: [Mel Brooks (Actor), highest-rated (Viewers' Rating)]
+
+2. "Can you recommend a movie directed by Peter Weir that was released in 2012 and received an 8/10 rating"
+   Named Entities: [Peter Weir (Director), 2012 (Year), 8/10 rating (Viewers' Rating)]
+
+3. "I'm looking for a film approved for all audiences that features the song 'Circle of Life'"
+   Named Entities: [Approved (MPAA Rating), Circle of Life (Song)]

@@ -1,0 +1,8 @@
+1. Text Span: "mature audiences"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "AO"
+Label: (D). The span is not a named entity
+
+3. Text Span: "rated R-13"
+Label: (C). Wrong Type. The correct entity type is other.

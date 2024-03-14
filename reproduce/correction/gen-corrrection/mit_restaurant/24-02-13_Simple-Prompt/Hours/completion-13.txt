@@ -1,0 +1,11 @@
+1. Query: "Is there a place around here that serves {{late-night}} tacos?"
+Text Span: "late-night"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "What time does the Italian restaurant on Main Street close {{tonight}}?"
+Text Span: "tonight"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What's the best place to get brunch in the {{morning}}?"
+Text Span: "morning"
+Label: (A). Correct Entity Annotation.

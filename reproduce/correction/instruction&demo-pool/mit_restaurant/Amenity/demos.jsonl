@@ -1,0 +1,6 @@
+{"sentence": "Is there a place nearby that has a good happy hour deal?", "entity_span": "happy hour", "label": "CORRECT"}
+{"sentence": "Where's the best place to get a big breakfast in this town?", "entity_span": "breakfast", "label": "WRONG_TYPE", "correct_type": "Hours"}
+{"sentence": "Is there a vegan-friendly cafe with gluten-free options?", "entity_span": "cafe", "label": "WRONG_TYPE", "correct_type": "Cuisine"}
+{"sentence": "Can you recommend a food truck with Korean BBQ?", "entity_span": "food truck", "label": "WRONG_TYPE", "correct_type": "Cuisine"}
+{"sentence": "What is the Foodies' Choice for Italian cuisine in the city center?", "entity_span": "Foodies' Choice", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "Can you recommend a restaurant with great calamari?", "entity_span": "restaurant", "label": "NA"}

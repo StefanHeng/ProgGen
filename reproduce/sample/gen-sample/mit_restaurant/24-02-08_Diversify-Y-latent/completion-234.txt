@@ -1,0 +1,8 @@
+Query: "What are the hours for Chick-fil-A on Sundays?"
+Named Entities: [Chick-fil-A (Restaurant Name), Sundays (Hours)]
+
+Query: "I want to try some southern cuisine, can you recommend a restaurant?"
+Named Entities: [southern cuisine (Cuisine)]
+
+Query: "Is there a highly rated restaurant with outdoor seating and a view of the water?"
+Named Entities: [highly rated (Rating), outdoor seating (Amenity), view of the water (Amenity)]

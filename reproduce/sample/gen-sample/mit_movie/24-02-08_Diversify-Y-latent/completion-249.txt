@@ -1,0 +1,8 @@
+1. "Can you recommend any Sci-Fi movies directed by John Doe that have a strong Plot and are highly rated?"
+   Named Entities: [John Doe (Director), Sci-Fi (Genre), Plot (Plot), highly rated (Viewers' Rating)]
+
+2. "Is there a movie with the song 'Let It Go' that was released in the 90s?"
+   Named Entities: ['Let It Go' (Song), 90s (Year)]
+
+3. "Show me a Promo for the new action movie starring John Doe and featuring a memorable Character."
+   Named Entities: [Promo (Trailer), John Doe (Actor), memorable Character (Character)]

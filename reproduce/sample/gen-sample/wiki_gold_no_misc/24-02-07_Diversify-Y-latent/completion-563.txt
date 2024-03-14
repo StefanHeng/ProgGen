@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower was completed in 1889 and was originally intended as a temporary structure for the 1889 World's Fair in Paris."
+Named Entities: [Eiffel Tower (location), World's Fair (event), Paris (location)]
+
+Sentence: "She became the first woman to win a Nobel Prize when she was awarded the Nobel Prize in Physics in 1903."
+Named Entities: [Nobel Prize (organization), Physics (field)]
+
+Sentence: "The band's lead singer, Freddie Mercury, was known for his powerful voice and energetic stage presence."
+Named Entities: [Freddie Mercury (person)]

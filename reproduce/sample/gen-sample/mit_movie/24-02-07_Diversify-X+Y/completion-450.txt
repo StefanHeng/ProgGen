@@ -1,0 +1,8 @@
+1. "Hey, who directed The Grand Budapest Hotel? And is it rated PG?"
+Named Entities: [The Grand Budapest Hotel (Title), PG (MPAA Rating)]
+
+2. "I heard that M is a classic film. What's the name of the actor who stars in it?"
+Named Entities: [M (Title), actor (Actor)]
+
+3. "Do you know the genre of Life of Pi? And who's the director?"
+Named Entities: [Life of Pi (Title), genre (Genre), director (Director)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a horror movie from 2004 directed by Abbas Kiarostami and starring Lupita Nyong'o?"
+   Named Entities: [horror (Genre), 2004 (Year), Abbas Kiarostami (Director), Lupita Nyong'o (Actor)]
+
+2. Query: "I'm looking for a movie with seamless editing and Keanu Reeves, can you help me find one?"
+   Named Entities: [seamless editing (Plot), Keanu Reeves (Actor)]
+
+3. Query: "What is the viewers' rating for the horror movie directed by Abbas Kiarostami in 2004?"
+   Named Entities: [horror (Genre), 2004 (Year), Abbas Kiarostami (Director), viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "I'm craving some Antiguan dishes, is there a restaurant nearby that serves them?"
+Named Entities: [Antiguan (Cuisine), nearby (Location)]
+
+2. "Where can I find Cambodian cuisine with a good rating?"
+Named Entities: [Cambodian (Cuisine), good (Rating)]
+
+3. "I have late-night cravings, can you recommend a place that's open late and has a diverse menu?"
+Named Entities: [late-night cravings (Amenity), open late (Hours), diverse (Amenity)]

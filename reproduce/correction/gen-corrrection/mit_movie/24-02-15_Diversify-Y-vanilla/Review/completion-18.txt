@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a movie with an {{Affecting}} storyline and a princess rescue plot."
+Text Span: "Affecting"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "can you show me the teaser trailer for the movie with {{heartfelt performances}}"
+Text Span: "heartfelt performances"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "Show me a {{Remarkable}} movie featuring the song 'Belle'."
+Text Span: "Remarkable"
+Label: (A). The span is a named entity of type Review

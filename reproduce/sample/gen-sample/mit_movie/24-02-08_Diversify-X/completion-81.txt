@@ -1,0 +1,8 @@
+Query: "I need a quick rundown of the plot for the latest James Bond film"
+Named Entities: [James Bond (Character)]
+
+Query: "Can you tell me what the new Marvel superhero movie is all about?"
+Named Entities: [Marvel (Genre), superhero (Plot)]
+
+Query: "I'm in a rush, but I need to know the storyline of that award-winning romantic movie from last year"
+Named Entities: [romantic (Genre), last year (Year)]

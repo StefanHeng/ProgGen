@@ -1,0 +1,11 @@
+1. Sentence: "In 2006, {{Grigori Perelman}} was awarded the Fields Medal for his groundbreaking work on the Poincaré conjecture."
+Text Span: "Grigori Perelman"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "{{Beck}}'s Cognitive Triad, a concept developed by Aaron Beck, describes how individuals may develop negative views of themselves, the world, and the future."
+Text Span: "Beck"
+Label: (B). The span contains a named person entity but the span boundary is not precise. The correct span boundary is "Aaron Beck".
+
+3. Sentence: "{{Rosalind Creasy}} is a notable American landscape designer, author, and authority on edible landscaping."
+Text Span: "Rosalind Creasy"
+Label: (A). The span is a named entity of type person

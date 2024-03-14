@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant in Tokyo with a great seafood menu"
+Named Entities: [fine dining (Amenity), Tokyo (Location), seafood (Cuisine)]
+
+Query: "I'm looking for a dinner spot in Tokyo with a view of the city"
+Named Entities: [dinner (Amenity), Tokyo (Location)]
+
+Query: "What are some high-end restaurants in Tokyo offering French cuisine for dinner"
+Named Entities: [high-end (Rating), Tokyo (Location), French (Cuisine), dinner (Amenity)]

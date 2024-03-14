@@ -1,0 +1,8 @@
+1. Text Span: "classic film"
+Label: (A). The span is a named entity of type movie genre
+
+2. Text Span: "hacker"
+Label: (C). The span is a named entity but the category is not movie genre. The correct entity type is Plot.
+
+3. Text Span: "underdog story"
+Label: (A). The span is a named entity of type movie genre

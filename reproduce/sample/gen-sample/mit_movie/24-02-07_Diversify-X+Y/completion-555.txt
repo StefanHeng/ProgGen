@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a disco soundtrack that adds excitement to the scenes?"
+   Named Entities: [disco (Genre), adds excitement to the scenes (Review)]
+
+2. "I'm looking for a rags-to-riches film with a memorable song. Can you help?"
+   Named Entities: [rags-to-riches (Plot), memorable song (Song)]
+
+3. "Which movie in the action genre has a soundtrack that adds excitement to the scenes?"
+   Named Entities: [action (Genre), adds excitement to the scenes (Review)]

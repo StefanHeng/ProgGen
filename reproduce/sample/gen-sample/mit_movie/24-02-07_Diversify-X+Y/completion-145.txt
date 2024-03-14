@@ -1,0 +1,8 @@
+1. Query: "I heard Kathryn Bigelow has directed some intense films, are there any with high viewers' ratings?"
+Named Entities: [Kathryn Bigelow (Director), intense (Genre), high viewers' ratings (Viewers' Rating)]
+
+2. Query: "I'm curious if La La Land received any awards, it seems like a popular film"
+Named Entities: [La La Land (Title), awards (Review), popular (Viewers' Rating)]
+
+3. Query: "Has Jennifer Lopez starred in any critically acclaimed movies?"
+Named Entities: [Jennifer Lopez (Actor), critically acclaimed (Review)]

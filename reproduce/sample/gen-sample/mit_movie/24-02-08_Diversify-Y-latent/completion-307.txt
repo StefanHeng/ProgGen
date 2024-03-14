@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Captain Phillips and what is the rating"
+   Named Entities: [Captain Phillips (Title), Paul Greengrass (Director), PG (MPAA Rating)]
+
+2. Query: "Can I watch a teaser clip of the movie Colossus with giant robots"
+   Named Entities: [teaser clip (Trailer), Colossus (Title)]
+
+3. Query: "What genre is the movie The Bourne Ultimatum directed by Paul Greengrass"
+   Named Entities: [The Bourne Ultimatum (Title), Paul Greengrass (Director), thriller (Genre)]

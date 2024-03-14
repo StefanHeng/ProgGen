@@ -1,0 +1,8 @@
+Query: "Can you recommend a formal restaurant in the area for a lunch meeting?"
+Named Entities: [formal (Amenity), lunch (Cuisine), area (Location)]
+
+Query: "I'm looking for a fancy place for a business lunch, preferably serving French cuisine"
+Named Entities: [fancy (Amenity), business lunch (Amenity), French (Cuisine), lunch (Cuisine)]
+
+Query: "Where can I find a high-end restaurant with a lunch menu in the downtown area?"
+Named Entities: [high-end (Amenity), lunch menu (Cuisine), downtown area (Location)]

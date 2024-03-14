@@ -1,0 +1,8 @@
+Query: "Did the movie 'The Godfather' really win three Academy Awards?"
+Named Entities: ['The Godfather' (Title), three Academy Awards (Awards and nominations received)]
+
+Query: "I heard 'Schindler's List' was nominated for seven BAFTA Awards, is that true?"
+Named Entities: ['Schindler's List' (Title), seven BAFTA Awards (Awards and nominations received)]
+
+Query: "Can you confirm if 'Titanic' actually won 11 Oscars?"
+Named Entities: ['Titanic' (Title), 11 Oscars (Awards and nominations received)]

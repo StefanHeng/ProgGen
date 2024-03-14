@@ -1,0 +1,8 @@
+1. "What are some 24-hour diners with good reviews in the area?"
+Named Entities: [24-hour (Hours), diners (Amenity), good reviews (Rating)]
+
+2. "I'm in the mood for some cheap Chinese food after midnight, any suggestions?"
+Named Entities: [cheap (Price), Chinese (Cuisine), after midnight (Hours)]
+
+3. "Can you recommend a restaurant serving late-night burgers and fries with outdoor seating?"
+Named Entities: [late-night (Hours), burgers and fries (Dish), outdoor seating (Amenity)]

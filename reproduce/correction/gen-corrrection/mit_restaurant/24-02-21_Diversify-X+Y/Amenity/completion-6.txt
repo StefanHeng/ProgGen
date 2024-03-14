@@ -1,0 +1,11 @@
+1. Query: "Where can I find a nice {{breakfast}} spot at Sunrise Diner?"
+Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Query: "Where can I find a brunch place that's {{popular among business owners in their 50s}}?"
+Text Span: "popular among business owners in their 50s"
+Label: (D). Not a Named Entity
+
+3. Query: "Can you recommend a café with a stellar experience for a {{quick bite to eat}} after 5 pm"
+Text Span: "quick bite to eat"
+Label: (A). Correct Entity Annotation.

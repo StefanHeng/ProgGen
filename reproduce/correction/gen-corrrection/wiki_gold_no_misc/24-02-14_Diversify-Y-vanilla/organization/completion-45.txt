@@ -1,0 +1,8 @@
+1. Text Span: "Harvard University"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Lady Sings the Blues"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Spanish"
+Label: (C). Wrong Type. The correct entity type is other.

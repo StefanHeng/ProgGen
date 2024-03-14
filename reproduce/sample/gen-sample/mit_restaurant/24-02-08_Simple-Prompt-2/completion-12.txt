@@ -1,0 +1,149 @@
+1. Can you recommend any Italian restaurants in the area?
+Named Entities: [Italian (Cuisine)]
+
+2. What time does The Cheesecake Factory close?
+Named Entities: [The Cheesecake Factory (Restaurant Name), close (Hours)]
+
+3. I'm craving some sushi - any good sushi bars nearby?
+Named Entities: [sushi (Cuisine)]
+
+4. Is there a Mexican place with outdoor seating and a kids menu?
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), kids menu (Amenity)]
+
+5. Where can I find the best burgers in town?
+Named Entities: [burgers (Dish)]
+
+6. Are there any vegan-friendly places to eat around here?
+Named Entities: [vegan-friendly (Amenity)]
+
+7. What's the best steakhouse in the city?
+Named Entities: [steakhouse (Cuisine)]
+
+8. Can I get a table for two at Ruth's Chris Steak House tonight?
+Named Entities: [table for two (Amenity), Ruth's Chris Steak House (Restaurant Name)]
+
+9. I'm hungry for some BBQ - where's the nearest BBQ joint?
+Named Entities: [BBQ (Cuisine)]
+
+10. Is there a 24-hour diner in this area?
+Named Entities: [24-hour (Hours)]
+
+11. Any good brunch spots with bottomless mimosas?
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+12. I need a reservation at Olive Garden for this Friday.
+Named Entities: [reservation (Amenity), Olive Garden (Restaurant Name), Friday (Hours)]
+
+13. Where can I find a place with a 5-star rating?
+Named Entities: [5-star (Rating)]
+
+14. I'm in the mood for Chinese - what are the options?
+Named Entities: [Chinese (Cuisine)]
+
+15. What's the price range for The Capital Grille?
+Named Entities: [The Capital Grille (Restaurant Name), price range (Price)]
+
+16. Is there a Thai place that's open late?
+Named Entities: [Thai (Cuisine), open late (Hours)]
+
+17. I want to try some authentic Indian food - any suggestions?
+Named Entities: [Indian (Cuisine)]
+
+18. Any great seafood restaurants near the waterfront?
+Named Entities: [seafood (Cuisine), waterfront (Location)]
+
+19. I'm looking for a place with a live band and cocktails.
+Named Entities: [live band (Amenity), cocktails (Amenity)]
+
+20. Where can I get a good slice of pizza for under $5?
+Named Entities: [slice of pizza (Dish), under $5 (Price)]
+
+21. Can you recommend a place with a nice outdoor patio?
+Named Entities: [nice outdoor patio (Amenity)]
+
+22. I need a place that serves breakfast all day.
+Named Entities: [breakfast (Cuisine), all day (Hours)]
+
+23. What's the best place for date night in the area?
+Named Entities: [date night (Amenity)]
+
+24. Where can I find a place with a Michelin star rating?
+Named Entities: [Michelin star (Rating)]
+
+25. Do you know of any Irish pubs with a happy hour?
+Named Entities: [Irish (Cuisine), happy hour (Amenity)]
+
+26. I want to dine at a celebrity chef's restaurant - any recommendations?
+Named Entities: [celebrity chef (Amenity)]
+
+27. I'm craving some dessert - where can I find the best cheesecake?
+Named Entities: [dessert (Amenity), cheesecake (Dish)]
+
+28. What time does the nearest diner open?
+Named Entities: [nearest diner (Location), open (Hours)]
+
+29. Are there any upscale French restaurants in the area?
+Named Entities: [upscale (Price), French (Cuisine)]
+
+30. Can I make a reservation at Red Lobster for tomorrow?
+Named Entities: [reservation (Amenity), Red Lobster (Restaurant Name), tomorrow (Hours)]
+
+31. I'm looking for a place with a great view and a seafood menu.
+Named Entities: [great view (Amenity), seafood (Cuisine)]
+
+32. What's the price range for The Melting Pot?
+Named Entities: [The Melting Pot (Restaurant Name), price range (Price)]
+
+33. Is there a place with a 24-hour breakfast menu?
+Named Entities: [24-hour (Hours), breakfast (Cuisine)]
+
+34. I'm craving some authentic Mexican street tacos - where's the best spot?
+Named Entities: [authentic (Amenity), Mexican (Cuisine)]
+
+35. Can I get a table at The Olive Garden for 7 pm?
+Named Entities: [table (Amenity), The Olive Garden (Restaurant Name), 7 pm (Hours)]
+
+36. Is there a place with a good wine selection and charcuterie board?
+Named Entities: [good wine selection (Amenity), charcuterie board (Dish)]
+
+37. Where can I find a place with a 4-star rating?
+Named Entities: [4-star (Rating)]
+
+38. I'm looking for a place that offers a prix fixe menu.
+Named Entities: [prix fixe (Price)]
+
+39. Is there a Greek restaurant with a patio?
+Named Entities: [Greek (Cuisine), patio (Amenity)]
+
+40. Can you recommend any Asian fusion restaurants in the area?
+Named Entities: [Asian fusion (Cuisine)]
+
+41. Do you know of any Italian places with a private dining room?
+Named Entities: [Italian (Cuisine), private dining room (Amenity)]
+
+42. I want to try some Southern comfort food - any suggestions?
+Named Entities: [Southern (Cuisine)]
+
+43. Where can I find a place with a kids eat free promotion?
+Named Entities: [kids eat free (Amenity)]
+
+44. What time does the nearest steakhouse close?
+Named Entities: [nearest steakhouse (Location), close (Hours)]
+
+45. Can I make a reservation at The Capital Grille for a party of 6?
+Named Entities: [reservation (Amenity), The Capital Grille (Restaurant Name), party of 6 (Amenity)]
+
+46. I'm looking for a place with a weekend brunch buffet.
+Named Entities: [weekend brunch (Amenity), buffet (Amenity)]
+
+47. Is there a place with a vegan tasting menu?
+Named Entities: [vegan (Cuisine), tasting menu (Amenity)]
+
+48. What's the best place for late-night eats in this area?
+Named Entities: [late-night eats (Hours)]
+
+49. I heard there's a new Korean BBQ spot in town - have you been?
+Named Entities: [Korean BBQ (Cuisine)]
+
+50. Is there a place with a good happy hour and outdoor games?
+Named Entities: [good happy hour (Amenity), outdoor games (Amenity)]

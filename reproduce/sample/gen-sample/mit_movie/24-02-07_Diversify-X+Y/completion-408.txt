@@ -1,0 +1,8 @@
+1. "Can you recommend a romantic comedy film from the 2000s that will make me happy?"
+   Named Entities: [romantic comedy (Genre), 2000s (Year), happy (Viewers' Rating)]
+
+2. "I'm in the mood for a thought-provoking space exploration movie, can you suggest one?"
+   Named Entities: [thought-provoking (Genre), space exploration (Subgenre)]
+
+3. "I need a fascinating film noir to lift my spirits, do you have any suggestions?"
+   Named Entities: [fascinating (Viewers' Rating), film noir (Genre)]

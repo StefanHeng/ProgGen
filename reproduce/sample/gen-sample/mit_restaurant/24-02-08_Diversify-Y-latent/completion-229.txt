@@ -1,0 +1,8 @@
+1. "I'm craving some chocolate fountain, where can I find a restaurant that offers it?"
+Named Entities: [chocolate fountain (Dish)]
+
+2. "What's the best restaurant in town that offers a chocolate fountain dessert?"
+Named Entities: [best (Rating), chocolate fountain (Dish)]
+
+3. "I'm looking for a restaurant with a chocolate fountain for a special occasion, can you recommend one?"
+Named Entities: [chocolate fountain (Dish), special occasion (Amenity)]

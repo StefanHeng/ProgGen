@@ -1,0 +1,17 @@
+Query: "Can I buy tickets for A Winner at the movie theater now?"
+Named Entities: [A Winner (Title)]
+
+Query: "Is the movie Frozen playing at any theaters near me?"
+Named Entities: [Frozen (Title)]
+
+Query: "Can I see Ronald Weasley in any of the movies currently playing at the theaters?"
+Named Entities: [Ronald Weasley (Character)]
+
+Query: "Are there any showtimes for Alfonso Cuarón's latest film?"
+Named Entities: [Alfonso Cuarón (Director)]
+
+Query: "I want to watch a movie directed by Lars von Trier, what's playing?"
+Named Entities: [Lars von Trier (Director)]
+
+Query: "Do you have any information on where I can see The Grinch this weekend?"
+Named Entities: [The Grinch (Title)]

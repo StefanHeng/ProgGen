@@ -1,0 +1,8 @@
+1. "I'm craving pizza, where can I find a place that offers delivery?"
+Named Entities: [pizza (Dish), delivery (Amenity)]
+
+2. "What are the opening hours for the closest sushi restaurant?"
+Named Entities: [sushi (Cuisine), closest (Location), opening hours (Hours)]
+
+3. "I want to have a fancy dinner tonight, can you recommend a high-rated restaurant with a romantic atmosphere?"
+Named Entities: [fancy (Price), high-rated (Rating), romantic atmosphere (Amenity)]

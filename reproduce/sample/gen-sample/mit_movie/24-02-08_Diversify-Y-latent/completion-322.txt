@@ -1,0 +1,8 @@
+1. Query: "Recommend a superb fantasy adventure directed by Sofia Coppola."
+Named Entities: [superb (Viewers' Rating), fantasy adventure (Genre), Sofia Coppola (Director)]
+
+2. Query: "I want to watch a mind-bending movie starring Dwayne Johnson."
+Named Entities: [mind-bending (Plot), Dwayne Johnson (Actor)]
+
+3. Query: "Find me a movie from the 90s with a character named 'Indiana Jones'."
+Named Entities: [Indiana Jones (Character), 90s (Year)]

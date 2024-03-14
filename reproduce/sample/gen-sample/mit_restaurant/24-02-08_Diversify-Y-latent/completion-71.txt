@@ -1,0 +1,8 @@
+Query: "what are the best Mexican restaurants in town"
+Named Entities: [best (Rating), Mexican (Cuisine), town (Location)]
+
+Query: "show me a place where I can have a fancy dinner"
+Named Entities: [fancy (Amenity), dinner (Amenity)]
+
+Query: "are there any Italian restaurants open past midnight"
+Named Entities: [Italian (Cuisine), past midnight (Hours)]

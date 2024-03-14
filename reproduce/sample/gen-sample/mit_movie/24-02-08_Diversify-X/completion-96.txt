@@ -1,0 +1,8 @@
+1. "Can you tell me who directed the movie 'The Goonies', and if it's as good as I remember?"
+Named Entities: ['The Goonies' (Title), directed (Director)]
+
+2. "I remember a movie with Tom Hanks and Meg Ryan, can you remind me of the title and the year it came out?"
+Named Entities: [Tom Hanks (Actor), Meg Ryan (Actor), title (Title), year (Year)]
+
+3. "I loved the soundtrack in 'Dirty Dancing', can you tell me the name of the song that played during the final dance scene?"
+Named Entities: ['Dirty Dancing' (Title), final dance scene (Plot), soundtrack (Song)]

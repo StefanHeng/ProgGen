@@ -1,0 +1,11 @@
+1. Query: "What historical film did an indie director, like {{Tarantino}}, direct?"
+Text Span: "Tarantino"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Director
+
+2. Query: "Could you recommend a movie with unforgettable performances by {{Stanley Donen}}?"
+Text Span: "Stanley Donen"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Show me the trailer for the movie featuring a mercenary mission with Salma Hayek and directed by {{Darren Aronofsky}}."
+Text Span: "Darren Aronofsky"
+Label: (A). The span is a named entity of type director

@@ -1,0 +1,8 @@
+1. Query: "can you show me the trailer for the movie with the song Circle of Life"
+   Named Entities: [Circle of Life (Song), trailer (Trailer)]
+
+2. Query: "is Dobby in any of the Harry Potter movies directed by Chris Columbus"
+   Named Entities: [Dobby (Character), Harry Potter (Title), Chris Columbus (Director)]
+
+3. Query: "who directed the documentary film featuring Agnès Varda"
+   Named Entities: [documentary (Genre), Agnès Varda (Director)]

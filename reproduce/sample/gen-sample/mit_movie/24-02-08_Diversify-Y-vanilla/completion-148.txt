@@ -1,0 +1,8 @@
+1. Query: "What are some good period films to watch this weekend?"
+   Named Entities: [good (Viewers' Rating), period (Genre), weekend (Time Period)]
+
+2. Query: "Can you recommend a movie with a song as catchy as 'Under the Sea' from The Little Mermaid?"
+   Named Entities: [Under the Sea (Song), The Little Mermaid (Title)]
+
+3. Query: "What is the 1/10 rating movie that I should avoid at all costs?"
+   Named Entities: [1/10 rating (Review), avoid (Viewers' Rating)]

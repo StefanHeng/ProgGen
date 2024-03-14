@@ -1,0 +1,44 @@
+1. The Eiffel Tower was constructed in 1889 for the Exposition Universelle.
+Named Entities: [Eiffel Tower (location), Exposition Universelle (organization)]
+
+2. She visited Japan, China, and South Korea during her Asia trip.
+Named Entities: [Japan (location), China (location), South Korea (location)]
+
+3. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+4. He was a student at Harvard University and later became a professor there.
+Named Entities: [Harvard University (organization)]
+
+5. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+6. The United Nations was established in 1945 to promote international cooperation.
+Named Entities: [United Nations (organization)]
+
+7. She works for Apple Inc. as a software engineer.
+Named Entities: [Apple Inc. (organization)]
+
+8. He traveled to Italy, France, and Spain on his European vacation.
+Named Entities: [Italy (location), France (location), Spain (location)]
+
+9. Leonardo da Vinci was an Italian polymath of the Renaissance.
+Named Entities: [Leonardo da Vinci (person), Italian (location), Renaissance (organization)]
+
+10. The Great Wall of China is one of the most famous landmarks in the world.
+Named Entities: [Great Wall of China (location)]
+
+11. She studied at the University of Oxford before pursuing a career in politics.
+Named Entities: [University of Oxford (organization), politics (organization)]
+
+12. Microsoft Corporation is a multinational technology company based in Redmond, Washington.
+Named Entities: [Microsoft Corporation (organization), Redmond (location), Washington (location)]
+
+13. He competed in the Summer Olympics in Athens, Greece.
+Named Entities: [Summer Olympics (organization), Athens (location), Greece (location)]
+
+14. Jane Austen was an English novelist known for her literary works in the 19th century.
+Named Entities: [Jane Austen (person), English (location)]
+
+15. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]

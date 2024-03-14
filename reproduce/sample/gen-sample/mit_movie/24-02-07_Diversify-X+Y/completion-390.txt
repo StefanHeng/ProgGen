@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me about the casting process for the movie Whiplash?"
+   Named Entities: [Whiplash (Title), Casting process]
+
+2. Spoken Query: "I'm not sure about the film The Time of My Life. How can I find out if it's worth watching?"
+   Named Entities: [The Time of My Life (Title), 3 stars (Viewers' Rating)]
+
+3. Spoken Query: "Did the director of The Graduate face any challenges while making the film?"
+   Named Entities: [The Graduate (Title)]

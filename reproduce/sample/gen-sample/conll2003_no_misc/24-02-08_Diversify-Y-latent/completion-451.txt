@@ -1,0 +1,8 @@
+1. Carla Hall announced as the new CEO of XYZ Corporation.
+Named Entities: [Carla Hall (person), XYZ Corporation (organization)]
+
+2. "Severe storm warning for the Midwest issued by the National Weather Service," explained meteorologist Carla Hall.
+Named Entities: [Midwest (location), National Weather Service (organization), Carla Hall (person)]
+
+3. "Carla Hall, a renowned chef, to open a new restaurant in downtown Chicago."
+Named Entities: [Carla Hall (person), Chicago (location)]

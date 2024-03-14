@@ -1,0 +1,8 @@
+Query: "I'm looking for a good Italian restaurant near me"
+Named Entities: [good (Rating), Italian (Cuisine), Near me (Location)]
+
+Query: "what time does The Bagel Barn close tonight"
+Named Entities: [The Bagel Barn (Restaurant Name), tonight (Hours)]
+
+Query: "I want to find a place with outdoor seating and good seafood dishes"
+Named Entities: [outdoor seating (Amenity), good (Rating), seafood (Cuisine)]

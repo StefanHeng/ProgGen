@@ -1,0 +1,8 @@
+1. "What movie did Sandra Bullock star in and was directed by Sofia Coppola, with a rating of MA15+?"
+Named Entities: [Sandra Bullock (Actor), Sofia Coppola (Director), MA15+ (MPAA Rating)]
+
+2. "Is the movie Joker from 2019 worth watching and has the song 'You've Got a Friend in Me' in its soundtrack?"
+Named Entities: [Joker (Title), 2019 (Year), 'You've Got a Friend in Me' (Song)]
+
+3. "Who directed the film starring Tim Robbins that falls under the genre of political thriller?"
+Named Entities: [Tim Robbins (Actor), political thriller (Genre)]

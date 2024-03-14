@@ -1,0 +1,8 @@
+1. Query: "Can I watch the movie Sleepless in Seattle on any streaming platforms?"
+   Named Entities: [Sleepless in Seattle (Title)]
+
+2. Query: "Is the movie When Harry Met Sally available to stream anywhere?"
+   Named Entities: [When Harry Met Sally (Title)]
+
+3. Query: "Are there any classic romantic comedies like Pretty Woman that I can watch on a streaming service?"
+   Named Entities: [Pretty Woman (Title), romantic comedies (Genre)]

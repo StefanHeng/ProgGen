@@ -1,0 +1,8 @@
+Query: "What time does Bubba Gump Shrimp Co. close tonight?"
+Named Entities: [Bubba Gump Shrimp Co. (Restaurant Name), close tonight (Hours)]
+
+Query: "Do you know if The Melting Pot offers delivery services?"
+Named Entities: [The Melting Pot (Restaurant Name), delivery services (Amenity)]
+
+Query: "I'm craving some seafood, where can I find a good crab dish for dinner?"
+Named Entities: [seafood (Cuisine), crab dish (Dish), dinner (Hours)]

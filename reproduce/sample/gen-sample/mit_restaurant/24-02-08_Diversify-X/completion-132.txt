@@ -1,0 +1,8 @@
+1. "Find a buffet restaurant with senior discounts"
+Named Entities: [buffet (Amenity), senior discounts (Price)]
+
+2. "Where can I go for a buffet dinner with early bird specials"
+Named Entities: [buffet (Amenity), dinner (Amenity), early bird specials (Price)]
+
+3. "Recommend a buffet place that is popular among retired women"
+Named Entities: [buffet (Amenity), retired (Amenity), women (Amenity), popular (Rating)]

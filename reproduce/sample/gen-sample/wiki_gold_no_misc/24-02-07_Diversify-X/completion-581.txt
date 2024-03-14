@@ -1,0 +1,8 @@
+Sentence: "The film premiered at the Cannes Film Festival."
+Named Entities: [Cannes Film Festival (organization)]
+
+Sentence: "The director, Steven Spielberg, won an Academy Award for Best Director for his work on the film."
+Named Entities: [Steven Spielberg (person), Academy Award (organization)]
+
+Sentence: "The movie was filmed on location in New Zealand."
+Named Entities: [New Zealand (location)]

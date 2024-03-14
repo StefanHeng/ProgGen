@@ -1,0 +1,8 @@
+1. "Can you recommend a war movie that is both entertaining and suitable for a mature audience?"
+Named Entities: [war (Genre), entertaining (Viewers' Rating), mature audiences (MPAA Rating)]
+
+2. "I'm looking for the announcement trailer of a movie released in 2021. Do you have any suggestions?"
+Named Entities: [2021 (Year), announcement trailer (Trailer)]
+
+3. "Which director is known for making movies with gripping plots and intense action scenes?"
+Named Entities: [gripping plots (Plot), intense action scenes (Plot)]

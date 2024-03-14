@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie featurette that reveals the behind-the-scenes makeup and hairstyling process?"
+   Named Entities: [Featurette (Plot), Behind-the-scenes (Genre), Makeup and hairstyling assessment (Review)]
+
+2. Query: "I'm looking for a decent behind-the-scenes must-see film. What do you recommend?"
+   Named Entities: [Behind-the-scenes (Genre), decent (Viewers' Rating), must-see (Viewers' Rating)]
+
+3. Query: "Is there a movie where I can learn about the making-of process? I don't want to miss a thing when it comes to film production."
+   Named Entities: [making-of (Plot), I Don't Want to Miss a Thing (Song)]

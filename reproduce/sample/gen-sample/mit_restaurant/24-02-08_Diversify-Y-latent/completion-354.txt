@@ -1,0 +1,8 @@
+1. "I'm looking for a kid-friendly restaurant with Mediterranean cuisine."
+   Named Entities: [kid-friendly (Amenity), Mediterranean (Cuisine)]
+
+2. "What are the hours of The Omelette Place?"
+   Named Entities: [The Omelette Place (Restaurant Name), hours (Hours)]
+
+3. "Can you recommend a restaurant with a good menu for happy hour?"
+   Named Entities: [good (Rating), happy hour (Amenity)]

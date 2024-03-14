@@ -1,0 +1,8 @@
+Sentence: "Queen Elizabeth II celebrates her 95th birthday with family."
+Named Entities: [Queen Elizabeth II (person)]
+
+Sentence: "Pyongyang fires ballistic missile into Sea of Japan."
+Named Entities: [Pyongyang (location)]
+
+Sentence: "United Nations issues statement condemning latest attack in Yemen."
+Named Entities: [United Nations (organization), Yemen (location)]

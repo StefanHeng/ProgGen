@@ -1,0 +1,8 @@
+1. "Can you recommend any Ecuadorian restaurants in the area where I can get a good meal for under $20?"
+Named Entities: [Ecuadorian (Cuisine), under $20 (Price)]
+
+2. "What are the hours of operation for Brio Tuscan Grille and do they have a happy hour special?"
+Named Entities: [Brio Tuscan Grille (Restaurant Name), happy hour (Amenity)]
+
+3. "I'm craving some Italian food, can you find me a top-rated place with outdoor seating nearby?"
+Named Entities: [Italian (Cuisine), top-rated (Rating), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+1. "Is the Avengers movie considered a must-see action film?"
+Named Entities: [Avengers (Title), action (Genre), must-see (Viewers' Rating)]
+
+2. "What's your favorite war movie that was released before 1960?"
+Named Entities: [favorite (Viewers' Rating), war (Genre)]
+
+3. "Can you tell me about the plot of The Social Network, directed by David Fincher?"
+Named Entities: [The Social Network (Title), David Fincher (Director), plot (Plot)]

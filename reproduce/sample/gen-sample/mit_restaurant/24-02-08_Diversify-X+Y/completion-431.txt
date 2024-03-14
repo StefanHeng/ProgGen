@@ -1,0 +1,8 @@
+Query: "what are the opening hours for the top food truck in town"
+Named Entities: [Opening hours (Hours), Top food truck in town (Restaurant Name)]
+
+Query: "where can I find the tasty tacos truck"
+Named Entities: [Tasty Tacos Truck (Restaurant Name)]
+
+Query: "is the top food truck in town known for any particular cuisine"
+Named Entities: [Top food truck in town (Restaurant Name), particular cuisine (Cuisine)]

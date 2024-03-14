@@ -1,0 +1,8 @@
+1. "Rachael Ray's new cookbook tops the bestseller list."
+Named Entities: [Rachael Ray (person)]
+
+2. "Seoul experiences record-breaking heatwave."
+Named Entities: [Seoul (location)]
+
+3. "South Korea's Ministry of Health announces new COVID-19 guidelines."
+Named Entities: [South Korea (location), Ministry of Health (organization)]

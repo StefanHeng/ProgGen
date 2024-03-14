@@ -1,0 +1,8 @@
+1. "Could you recommend a rustic restaurant with a good rating for dinner?"
+Named Entities: [rustic (Amenity), good rating (Rating), dinner (Meal Category)]
+
+2. "Where can I find a rustic Italian restaurant with a varied menu for dinner?"
+Named Entities: [rustic (Amenity), Italian (Cuisine), varied menu (Amenity), dinner (Meal Category)]
+
+3. "I'm looking for a cozy, rustic steakhouse that's open late for dinner. Any suggestions?"
+Named Entities: [cozy (Amenity), rustic (Amenity), steakhouse (Cuisine), open late (Hours), dinner (Meal Category)]

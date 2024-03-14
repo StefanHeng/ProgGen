@@ -1,0 +1,8 @@
+1. "Can you find an unimpressive featurette for a movie from 2008"
+Named Entities: [unimpressive (Review), featurette (Trailer), 2008 (Year)]
+
+2. "Please recommend a movie with a TV-Y7 rating that has an amazing plot"
+Named Entities: [TV-Y7 (MPAA Rating), amazing plot (Review)]
+
+3. "Who directed the action movie with intense fighting scenes and is highly rated by viewers"
+Named Entities: [action (Genre), intense fighting scenes (Plot), highly rated (Viewers' Rating)]

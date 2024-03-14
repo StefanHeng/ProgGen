@@ -1,0 +1,8 @@
+Query: "I'm looking for a dairy-free café with mid-range prices"
+Named Entities: [dairy-free (Amenity), café (Cuisine), mid-range (Price)]
+
+Query: "What are the best dairy-free café options in the area with mid-range prices"
+Named Entities: [dairy-free (Amenity), café (Cuisine), mid-range (Price)]
+
+Query: "Can you recommend a dairy-free café with mid-range prices for lunch"
+Named Entities: [dairy-free (Amenity), café (Cuisine), mid-range (Price)]

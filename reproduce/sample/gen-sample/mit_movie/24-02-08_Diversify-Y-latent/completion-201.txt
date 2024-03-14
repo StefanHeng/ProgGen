@@ -1,0 +1,8 @@
+1. Query: "who is the director of the movie The Lord of the Rings"
+Named Entities: [The Lord of the Rings (Title), director (Director)]
+
+2. Query: "show me a movie with an intriguing forbidden romance"
+Named Entities: [intriguing (Plot), forbidden romance (Plot)]
+
+3. Query: "are there any movies from 1990-1999 that feature the character Simba"
+Named Entities: [1990-1999 (Year), Simba (Character)]

@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie starring Laura Dern as an undercover agent?"
+Named Entities: [Laura Dern (Actor), undercover agent (Character)]
+
+2. Query: "What is the viewers' rating for the film where Laura Dern plays an undercover agent?"
+Named Entities: [Laura Dern (Actor), undercover agent (Character), viewers' rating (Viewers' Rating)]
+
+3. Query: "I'm looking for a trailer of a movie featuring Laura Dern as an undercover agent"
+Named Entities: [trailer (Trailer), Laura Dern (Actor), undercover agent (Character)]

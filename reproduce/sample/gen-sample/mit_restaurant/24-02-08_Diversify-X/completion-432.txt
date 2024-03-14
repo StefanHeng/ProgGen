@@ -1,0 +1,8 @@
+1. "I'm craving some pancakes, where can I find a good breakfast spot with outdoor seating?"
+Named Entities: [pancakes (Dish), breakfast (Cuisine), outdoor seating (Amenity)]
+
+2. "Which diner in the area offers breakfast all day?"
+Named Entities: [diner (Restaurant Name), breakfast (Cuisine), all day (Hours)]
+
+3. "Where can I get a delicious breakfast burrito on a budget?"
+Named Entities: [breakfast burrito (Dish), budget (Price)]

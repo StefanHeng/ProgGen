@@ -1,0 +1,8 @@
+1. "Is Gerard Butler in any G-rated movies?"
+Named Entities: [Gerard Butler (Actor), G (MPAA Rating)]
+
+2. "Can you tell me about any horror movies related to cybercrime?"
+Named Entities: [horror (Genre), cybercrime (Plot)]
+
+3. "I want to watch a movie with the song 'Love Shack' in it, can you recommend one?"
+Named Entities: [Love Shack (Song)]

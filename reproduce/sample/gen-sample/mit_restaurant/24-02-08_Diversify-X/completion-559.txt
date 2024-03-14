@@ -1,0 +1,8 @@
+1. "Can you recommend a quirky fine dining restaurant with a good wine selection?"
+Named Entities: [quirky (Amenity), fine dining (Cuisine), good wine selection (Amenity)]
+
+2. "I'm looking for a fine dining restaurant with a unique and eccentric atmosphere. Any suggestions?"
+Named Entities: [fine dining (Cuisine), unique and eccentric atmosphere (Amenity)]
+
+3. "Where can I find a fine dining restaurant with a diverse and eclectic menu in this area?"
+Named Entities: [fine dining (Cuisine), diverse and eclectic menu (Amenity)]

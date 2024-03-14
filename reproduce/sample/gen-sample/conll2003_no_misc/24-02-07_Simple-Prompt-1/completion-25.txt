@@ -1,0 +1,44 @@
+1. New York City declares state of emergency due to extreme weather conditions.
+Named Entities: [New York City (location)]
+
+2. Tesla unveils new electric pickup truck.
+Named Entities: [Tesla (organization)]
+
+3. Soccer player Lionel Messi signs $500 million contract with Paris Saint-Germain.
+Named Entities: [Lionel Messi (person), Paris Saint-Germain (organization)]
+
+4. India surpasses China as world's most populous country.
+Named Entities: [India (location), China (location)]
+
+5. President Biden announces new infrastructure plan to rebuild roads and bridges.
+Named Entities: [President Biden (person)]
+
+6. Google faces antitrust lawsuit in European Union.
+Named Entities: [Google (organization), European Union (organization)]
+
+7. Senator Elizabeth Warren proposes legislation to cancel student loan debt.
+Named Entities: [Senator Elizabeth Warren (person)]
+
+8. SpaceX launches new mission to International Space Station.
+Named Entities: [SpaceX (organization), International Space Station (location)]
+
+9. Amazon CEO Jeff Bezos steps down, handing over reins to Andy Jassy.
+Named Entities: [Amazon (organization), Jeff Bezos (person), Andy Jassy (person)]
+
+10. Brazil experiences record-breaking heatwave, prompting health warnings.
+Named Entities: [Brazil (location)]
+
+11. Olympic gold medalist Simone Biles announces retirement from gymnastics.
+Named Entities: [Simone Biles (person)]
+
+12. UNICEF provides aid to children affected by conflict in Syria.
+Named Entities: [UNICEF (organization), Syria (location)]
+
+13. Apple introduces new iPhone with advanced camera features.
+Named Entities: [Apple (organization)]
+
+14. Former President Donald Trump launches new social media platform.
+Named Entities: [Donald Trump (person)]
+
+15. Wildfires continue to ravage California, prompting evacuations.
+Named Entities: [California (location)]

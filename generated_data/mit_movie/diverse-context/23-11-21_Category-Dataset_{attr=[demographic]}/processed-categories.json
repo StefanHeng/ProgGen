@@ -1,0 +1,33 @@
+{
+    "attribute2categories": {
+        "demographic": [
+            "Teenage girl",
+            "Middle-aged man",
+            "Senior woman",
+            "Young adult",
+            "Preteen boy",
+            "Gender-neutral individual",
+            "Teenage boys",
+            "Middle-aged women",
+            "Senior citizens",
+            "Young adults",
+            "Families with young children",
+            "Gender-neutral individuals",
+            "Teenage female",
+            "Young adult male",
+            "Middle-aged female",
+            "Senior male",
+            "Pre-teen female",
+            "Young adult non-binary"
+        ]
+    },
+    "meta": {
+        "dataset-name": "mit-movie",
+        "attributes": [
+            "demographic"
+        ],
+        "entity-sizes": {
+            "demographic": 18
+        }
+    }
+}

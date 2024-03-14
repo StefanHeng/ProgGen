@@ -1,0 +1,8 @@
+1. Text Span: "BBQ"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "seafood"
+Label: (A). The span is a named entity of type cuisine
+
+3. Text Span: "sushi place"
+Label: (B). The span contains a named cuisine entity but the span boundary is not precise. The correct span boundary is "sushi"

@@ -1,0 +1,8 @@
+1. "The poverty rate in the inner city has risen by 10% in the past year."
+Named Entities: [inner city (location)]
+
+2. "Nonprofit organizations are seeing a 20% increase in demand for food assistance programs."
+Named Entities: [Nonprofit organizations (organization)]
+
+3. "Environmental activists protest outside of city hall, demanding stricter regulations on industrial pollution."
+Named Entities: [city hall (location), Environmental activists (organization)]

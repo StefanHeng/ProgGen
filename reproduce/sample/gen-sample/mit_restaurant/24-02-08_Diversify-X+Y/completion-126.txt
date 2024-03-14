@@ -1,0 +1,8 @@
+Query: "I'm looking for a trendy café with an outdoor terrace"
+Named Entities: [trendy (Amenity), café (Cuisine), outdoor terrace (Amenity)]
+
+Query: "where can I find a hip café with an outdoor terrace"
+Named Entities: [hip (Amenity), café (Cuisine), outdoor terrace (Amenity)]
+
+Query: "recommend a cool café with an outdoor terrace for me"
+Named Entities: [cool (Amenity), café (Cuisine), outdoor terrace (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the showtimes for a mockumentary film playing today?"
+Named Entities: [mockumentary (Genre)]
+
+2. "I'm looking for tickets for the movie Black Panther. Do you have any available?"
+Named Entities: [Black Panther (Title)]
+
+3. "I'm interested in seeing a historical film. What options do you have?"
+Named Entities: [historical (Genre)]

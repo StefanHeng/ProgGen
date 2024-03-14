@@ -1,0 +1,8 @@
+Query: "Can you tell me about a movie directed by Usher?"
+Named Entities: [Usher (Director)]
+
+Query: "I'm interested in getting a glimpse of a movie with Tom Hanks"
+Named Entities: [Tom Hanks (Actor), a glimpse (Trailer)]
+
+Query: "What type of movie genre does the film with Lupita Nyong'o belong to?"
+Named Entities: [Lupita Nyong'o (Actor)]

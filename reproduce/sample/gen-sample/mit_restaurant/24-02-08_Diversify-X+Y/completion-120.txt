@@ -1,0 +1,8 @@
+1. "I'm craving some late-night dining with a beachfront ambience, can you recommend any places?"
+Named Entities: [late-night dining (Amenity), beachfront (Location)]
+
+2. "Where can I find waterfront restaurants open past midnight for a late-night meal?"
+Named Entities: [waterfront (Location), past midnight (Hours), late-night (Amenity)]
+
+3. "Which restaurants around here offer late-night dining with a beachfront view?"
+Named Entities: [late-night dining (Amenity), beachfront (Location)]

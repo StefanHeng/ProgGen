@@ -1,0 +1,8 @@
+1. "What are the hours for Noma?"
+Named Entities: [Noma (Restaurant Name), hours (Hours)]
+
+2. "I'm in the mood for some comfort food, can you recommend a dish at Black Bear Diner?"
+Named Entities: [comfort food (Cuisine), Black Bear Diner (Restaurant Name), dish (Dish)]
+
+3. "Do you know of any highly-rated restaurants with outdoor seating and a view of the water?"
+Named Entities: [highly-rated (Rating), outdoor seating (Amenity), view of the water (Amenity)]

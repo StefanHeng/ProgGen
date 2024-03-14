@@ -1,0 +1,11 @@
+1. Query: "Who is the {{lead actress}} in the movie Titanic?"
+Text Span: "lead actress"
+Label: (C). The span is a named entity but the category is not actor. Category: Character
+
+2. Query: "Is there a classic movie with {{Humphrey Bogart}}?"
+Text Span: "Humphrey Bogart"
+Label: (A). The span is a named entity of type actor
+
+3. Query: "which actor played the {{lead role}} in the movie jaws"
+Text Span: "lead role"
+Label: (D). Not a Named Entity

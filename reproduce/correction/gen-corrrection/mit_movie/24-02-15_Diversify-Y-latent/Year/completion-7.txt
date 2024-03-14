@@ -1,0 +1,11 @@
+1. Query: "Who directed the highest-rated vampire movie of the {{21st century}}?"
+Text Span: "21st century"
+Label: (A). The span is a named entity of type year
+
+2. Query: "What year did the movie 'The Matrix' {{come out}} and who directed it?"
+Text Span: "come out"
+Label: (D). Not a Named Entity
+
+3. Query: "What is the viewers' rating for the {{most recent}} Spider-Man movie?"
+Text Span: "most recent"
+Label: (D). Not a Named Entity

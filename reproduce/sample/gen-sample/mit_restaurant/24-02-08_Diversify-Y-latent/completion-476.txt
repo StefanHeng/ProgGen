@@ -1,0 +1,8 @@
+1. Query: "What are the top Italian restaurants in the area"
+   Named Entities: [Top (Amenity), Italian (Cuisine), area (Location)]
+
+2. Query: "Find me the closest seafood restaurant with outdoor seating"
+   Named Entities: [closest (Location), seafood (Cuisine), outdoor seating (Amenity)]
+
+3. Query: "I'm looking for a place with a rating of at least 4 stars for dinner tonight"
+   Named Entities: [at least 4 stars (Rating), dinner (Amenity), tonight (Hours) ]

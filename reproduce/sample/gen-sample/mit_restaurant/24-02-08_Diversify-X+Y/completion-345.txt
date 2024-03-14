@@ -1,0 +1,8 @@
+1. "I'm looking for a quirky and eccentric place for an excellent brunch with bagels and lox on Thursday."
+Named Entities: [brunch (Amenity), bagels and lox (Dish), Thursday (Hours), excellent (Rating)]
+
+2. "Where can I find a place with a quirky ambience for a Thursday brunch featuring bagels and lox?"
+Named Entities: [quirky (Amenity), Thursday (Hours), bagels and lox (Dish)]
+
+3. "Can you suggest a restaurant with an eccentric atmosphere that serves excellent bagels and lox for brunch on Thursdays?"
+Named Entities: [eccentric (Amenity), excellent (Rating), bagels and lox (Dish), Thursdays (Hours)]

@@ -1,0 +1,8 @@
+1. "I am craving sushi, is there a good sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), nearby (Location), good (Rating)]
+
+2. "I'm looking for a restaurant that serves vegan dishes, can you recommend one?"
+Named Entities: [vegan (Dish), restaurant (Amenity)]
+
+3. "What is the price range for Italian restaurants in the downtown area?"
+Named Entities: [Italian (Cuisine), downtown area (Location), price range (Price)]

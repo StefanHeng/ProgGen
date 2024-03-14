@@ -1,0 +1,8 @@
+1. Text Span: "psychological"
+Label: (B). The correct span boundary is "psychological thriller"
+
+2. Text Span: "superhero origin story"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "sports"
+Label: (A). The span is a named entity of type genre

@@ -1,0 +1,5 @@
+{"tokens": ["is", "there", "any", "place", "around", "here", "that", "has", "a", "good", "menu", "for", "happy", "hour"], "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-Rating", "O", "O", "B-Amenity", "I-Amenity"], "sentence": "is there any place around here that has a good menu for happy hour"}
+{"tokens": ["call", "mcdonalds"], "labels": ["O", "B-Restaurant Name"], "sentence": "call mcdonalds"}
+{"tokens": ["find", "us", "a", "place", "to", "eat", "for", "under", "10", "dollars", "a", "plate"], "labels": ["O", "O", "O", "O", "O", "O", "O", "B-Price", "I-Price", "I-Price", "I-Price", "I-Price"], "sentence": "find us a place to eat for under 10 dollars a plate"}
+{"tokens": ["im", "thirsty", "take", "me", "to", "the", "closest", "slurpee"], "labels": ["O", "O", "O", "O", "O", "O", "B-Location", "B-Dish"], "sentence": "im thirsty take me to the closest slurpee"}
+{"tokens": ["where", "can", "i", "get", "afghan", "cuisine", "before", "9", "a", "m"], "labels": ["O", "O", "O", "O", "B-Cuisine", "O", "B-Hours", "I-Hours", "I-Hours", "I-Hours"], "sentence": "where can i get afghan cuisine before 9 a m"}

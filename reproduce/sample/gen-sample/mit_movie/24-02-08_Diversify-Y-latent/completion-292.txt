@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with Miley Cyrus in it?"
+Named Entities: [Miley Cyrus (Actor)]
+
+Query: "Is there an LGBT-themed movie directed by Ryan Gosling?"
+Named Entities: [LGBT (Genre), Ryan Gosling (Director)]
+
+Query: "I'm interested in watching a movie similar to Star Wars: Episode IV with a character like Rapunzel."
+Named Entities: [Star Wars: Episode IV (Title), Rapunzel (Character)]

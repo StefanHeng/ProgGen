@@ -1,0 +1,8 @@
+1. "Can you recommend an upscale and elegant restaurant with a great brunch menu, especially with delicious breakfast sandwiches?"
+Named Entities: [brunch (Amenity), upscale and elegant (Amenity), breakfast sandwiches (Dish)]
+
+2. "I'm looking for a fancy place for brunch that serves amazing breakfast sandwiches. Any suggestions?"
+Named Entities: [fancy (Amenity), brunch (Amenity), breakfast sandwiches (Dish)]
+
+3. "Where can I find a high-end restaurant in the area that offers a delightful brunch experience, including tasty breakfast sandwiches?"
+Named Entities: [high-end (Amenity), brunch (Amenity), breakfast sandwiches (Dish)]

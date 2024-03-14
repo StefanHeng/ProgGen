@@ -1,0 +1,11 @@
+1. Query: "I want to see a critically acclaimed romantic comedy from the 2000s with {{Hugh Grant}} in it, can you help me find showtimes?"
+Text Span: "Hugh Grant"
+Label: (A). The span is a named entity of type actor
+
+2. Query: "Show me a film with a compelling plot and strong performances from {{Meryl Streep}}."
+Text Span: "Meryl Streep"
+Label: (A). The span is a named entity of type actor
+
+3. Query: "Show me a movie with {{Meryl Streep}} as the lead character."
+Text Span: "Meryl Streep"
+Label: (A). The span is a named entity of type actor

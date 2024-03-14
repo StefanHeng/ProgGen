@@ -1,0 +1,8 @@
+Query: "can you recommend a superbly written psychological thriller movie"
+Named Entities: [superbly written (Review), psychological thriller (Genre)]
+
+Query: "show me an international trailer for the new film directed by Niki Caro"
+Named Entities: [international trailer (Trailer), Niki Caro (Director)]
+
+Query: "what year was Willy Wonka and the Chocolate Factory released"
+Named Entities: [Willy Wonka and the Chocolate Factory (Title), released (Year)]

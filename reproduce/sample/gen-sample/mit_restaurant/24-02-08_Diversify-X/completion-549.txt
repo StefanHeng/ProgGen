@@ -1,0 +1,8 @@
+1. "Where can I find a food truck with happy hour specials for takeout"
+Named Entities: [food truck (Cuisine), happy hour (Amenity), takeout (Amenity)]
+
+2. "I'm craving some takeout from a food truck with happy hour deals. Any suggestions?"
+Named Entities: [takeout (Amenity), food truck (Cuisine), happy hour (Amenity)]
+
+3. "What food truck in the area has the best happy hour specials for takeout?"
+Named Entities: [food truck (Cuisine), happy hour (Amenity), takeout (Amenity)]

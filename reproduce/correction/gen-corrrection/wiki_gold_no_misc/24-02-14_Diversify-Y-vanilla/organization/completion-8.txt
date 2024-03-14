@@ -1,0 +1,8 @@
+1. Text Span: "International Association of Universities"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "American Civil War"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "British royal family"
+Label: (A). The span is a named entity of type organization

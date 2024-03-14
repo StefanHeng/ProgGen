@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from 1992 that features Tony Stark?"
+Named Entities: [1992 (Year), Tony Stark (Character)]
+
+2. "What film is rated TV-PG and similar to Shrek?"
+Named Entities: [TV-PG (MPAA Rating), Shrek (Title)]
+
+3. "Who directed The Hurt Locker and what is the genre of the film?"
+Named Entities: [The Hurt Locker (Title), genre (Genre)]

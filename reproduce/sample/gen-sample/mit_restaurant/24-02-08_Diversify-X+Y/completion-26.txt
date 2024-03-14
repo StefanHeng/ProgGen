@@ -1,0 +1,8 @@
+Query: "can you recommend a sushi restaurant with outdoor seating and a good rating"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), good rating (Rating)]
+
+Query: "what are the dinner hours for the nearest sushi place"
+Named Entities: [dinner hours (Hours), nearest (Location), sushi (Cuisine)]
+
+Query: "find a sushi spot with affordable prices and a casual ambiance"
+Named Entities: [sushi (Cuisine), affordable prices (Price), casual ambiance (Amenity)]

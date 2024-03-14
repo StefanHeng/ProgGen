@@ -1,0 +1,8 @@
+Sentence: "The concept of education is broad and continually evolving."
+Named Entities: []
+
+Sentence: "Harvard University, located in Cambridge, Massachusetts, is one of the most prestigious institutions of higher education in the world."
+Named Entities: [Harvard University (organization), Cambridge (location), Massachusetts (location)]
+
+Sentence: "She received her education at the University of Oxford, where she studied philosophy and literature."
+Named Entities: [University of Oxford (organization)]

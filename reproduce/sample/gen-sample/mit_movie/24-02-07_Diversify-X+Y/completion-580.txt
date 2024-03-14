@@ -1,0 +1,8 @@
+1. "Can you give me a sizzle reel of a movie released in 2016 with a gripping plot?"
+Named Entities: [sizzle reel (Trailer), 2016 (Year), gripping (Plot)]
+
+2. "What was the synopsis of the movie from 1979 that was a major hit?"
+Named Entities: [1979 (Year), major hit (Viewers' Rating)]
+
+3. "I'm looking for a movie with a captivating plot from 2016 that has received rave reviews. Can you suggest one?"
+Named Entities: [captivating (Plot), 2016 (Year), rave reviews (Review)]

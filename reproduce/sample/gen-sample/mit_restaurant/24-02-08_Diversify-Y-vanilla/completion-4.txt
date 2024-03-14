@@ -1,0 +1,8 @@
+Query: "What are the best Italian restaurants in the area?"
+Named Entities: [Italian (Cuisine)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a view of the ocean"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]
+
+Query: "Can you recommend a high-rated sushi place with affordable prices?"
+Named Entities: [high-rated (Rating), sushi (Cuisine), affordable prices (Price)]

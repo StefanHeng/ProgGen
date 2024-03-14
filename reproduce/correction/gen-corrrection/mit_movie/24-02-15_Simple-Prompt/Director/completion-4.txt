@@ -1,0 +1,11 @@
+1. Query: "what movies have been adapted from {{stephen king}} novels"
+Text Span: "stephen king"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Author
+
+2. Query: "Can you tell me about the movie Inception directed by {{Christopher Nolan}}"
+Text Span: "Christopher Nolan"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Is there a crime movie directed by {{Martin Scorsese}} that I should watch?"
+Text Span: "Martin Scorsese"
+Label: (A). The span is a named entity of type director

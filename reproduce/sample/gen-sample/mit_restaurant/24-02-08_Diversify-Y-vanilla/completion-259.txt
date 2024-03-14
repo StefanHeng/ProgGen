@@ -1,0 +1,8 @@
+1. "What is the Foodies' Choice for Italian cuisine in the city center?"
+Named Entities: [Foodies' Choice (Amenity), Italian cuisine (Cuisine), city center (Location)]
+
+2. "Find me a restaurant near Elephant Bar with a 4-star rating or higher"
+Named Entities: [Elephant Bar (Location), 4-star rating (Rating)]
+
+3. "Can you recommend a place with outdoor seating and a budget-friendly menu?"
+Named Entities: [outdoor seating (Amenity), budget-friendly (Price)]

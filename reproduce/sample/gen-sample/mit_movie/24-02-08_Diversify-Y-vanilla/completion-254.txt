@@ -1,0 +1,8 @@
+Query: "What women's rights film has the highest viewers' rating?"
+Named Entities: [women's rights (Genre), highest (Viewers' Rating)]
+
+Query: "Can you recommend a movie featuring Al Pacino that showcases his acting highlights?"
+Named Entities: [Al Pacino (Actor), acting highlights (Review)]
+
+Query: "I'm looking for a movie from the 1980s that isn't uninteresting, can you suggest one?"
+Named Entities: [1980s (Year), uninteresting (Review)]

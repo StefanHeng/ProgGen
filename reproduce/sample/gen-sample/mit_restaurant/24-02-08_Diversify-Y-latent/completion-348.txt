@@ -1,0 +1,8 @@
+1. "Which restaurant serves authentic Italian pizza in this area?"
+Named Entities: [authentic Italian (Cuisine), pizza (Dish), this area (Location)]
+
+2. "I'm looking for a restaurant with a waterfront view for dinner."
+Named Entities: [waterfront (Amenity), dinner (Amenity)]
+
+3. "What are the opening hours of the seafood restaurant on Main Street?"
+Named Entities: [seafood (Cuisine), Main Street (Location), opening hours (Hours)]

@@ -1,0 +1,8 @@
+1. "Could you recommend a movie starring Jennifer Garner?"
+Named Entities: [Jennifer Garner (Actor)]
+
+2. "What is the plot of Dr. Strange?"
+Named Entities: [Dr. Strange (Title), plot (Plot)]
+
+3. "Show me the trailer for My Girl, a movie from the 90s with a high viewers' rating"
+Named Entities: [My Girl (Title), 90s (Year), high viewers' rating (Viewers' Rating)]

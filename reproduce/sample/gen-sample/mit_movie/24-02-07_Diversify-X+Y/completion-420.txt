@@ -1,0 +1,8 @@
+1. "I'm so bored. Can you tell me a movie with the song Bohemian Rhapsody?"
+Named Entities: [Bohemian Rhapsody (Song)]
+
+2. "Hey, I need something to lift my spirits. How about a movie with some iconic cinematic music?"
+Named Entities: [cinematic music (Genre)]
+
+3. "I'm feeling kind of down. Show me a movie where Peter Parker sings or listens to a great soundtrack."
+Named Entities: [Peter Parker (Character), soundtrack (Plot)]

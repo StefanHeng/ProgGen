@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any buffet restaurants that offer dine-in service?"
+   Named Entities: [buffet (Cuisine), dine-in (Amenity)]
+
+2. Query: "I'm looking for a dine-in buffet place with a good rating"
+   Named Entities: [dine-in (Amenity), buffet (Cuisine), good rating (Rating)]
+
+3. Query: "Where can I find a buffet restaurant with dine-in option and reasonable prices?"
+   Named Entities: [buffet (Cuisine), dine-in (Amenity), reasonable prices (Price)]

@@ -1,0 +1,11 @@
+1. Sentence: "Luxury fashion brand {{Gucci}} reports record-breaking sales in the first quarter of 2022."
+Text Span: "Gucci"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{European Space Agency}} announces plans for first manned mission to Mars."
+Text Span: "European Space Agency"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{Organization}} provides resources for immigrant entrepreneurs to start businesses in their new communities."
+Text Span: "Organization"
+Label: (C). The span is a named entity but the category is not organization. (organization)

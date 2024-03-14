@@ -1,0 +1,8 @@
+Query: "Could you tell me the name of the director for the film Inception?"
+Named Entities: [Inception (Title), director (Director)]
+
+Query: "I'm looking for a movie with Meryl Streep in it. Can you recommend one with a high viewers' rating?"
+Named Entities: [Meryl Streep (Actor), high viewers' rating (Viewers' Rating)]
+
+Query: "Show me a movie directed by Christopher Nolan that has a trailer available."
+Named Entities: [Christopher Nolan (Director), trailer (Trailer)]

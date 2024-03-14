@@ -1,0 +1,8 @@
+1. "Hey, can you tell me which movie Emily Blunt starred in that got a phenomenal review?"
+Named Entities: [Emily Blunt (Actor), phenomenal (Review)]
+
+2. "I heard Emily Blunt was amazing in a recent film - can you tell me the title and director?"
+Named Entities: [Emily Blunt (Actor)]
+
+3. "I'm looking for a movie where Emily Blunt plays a lead role - something really phenomenal, you know?"
+Named Entities: [Emily Blunt (Actor), phenomenal (Viewers' Rating)]

@@ -1,0 +1,8 @@
+Sentence: "The Acropolis is located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance."
+Named Entities: [The Acropolis (location), Athens (location)]
+
+Sentence: "New Orleans is known for its distinct French and Spanish Creole architecture, as well as its cross-cultural and multilingual heritage."
+Named Entities: [New Orleans (location), French (organization), Spanish (organization)]
+
+Sentence: "The festival featured a diverse lineup of musicians, including rock, jazz, and blues artists from around the world."
+Named Entities: []

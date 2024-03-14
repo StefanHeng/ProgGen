@@ -1,0 +1,8 @@
+1. "Can you recommend any budget-friendly late night dining options nearby?"
+Named Entities: [budget-friendly (Price), late night dining (Amenity)]
+
+2. "I'm in the mood for some Customer-reviewed late-night dining. Any suggestions?"
+Named Entities: [Customer-reviewed (Rating), late-night dining (Amenity)]
+
+3. "Where can I find a good spot for Brunch that serves Moroccan cuisine and excellent burgers?"
+Named Entities: [Brunch (Amenity), Moroccan (Cuisine), burgers (Dish)]

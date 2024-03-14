@@ -1,0 +1,8 @@
+1. "I'm craving Korean food, where can I find a bargain for a family-friendly section?"
+Named Entities: [Korean (Cuisine), Bargain (Price), family-friendly section (Amenity)]
+
+2. "What's the rating for the nearest sushi restaurant?"
+Named Entities: [nearest (Location), sushi (Cuisine)]
+
+3. "Can you recommend a place with outdoor seating and a good wine selection?"
+Named Entities: [outdoor seating (Amenity), good (Rating), wine selection (Amenity)]

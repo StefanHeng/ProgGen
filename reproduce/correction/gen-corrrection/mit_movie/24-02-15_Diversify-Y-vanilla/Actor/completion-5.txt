@@ -1,0 +1,8 @@
+1. Text Span: "Stevie Wonder"
+Label: (C). The span is a named entity but the category is not actor (Song)
+
+2. Text Span: "Samuel L. Jackson"
+Label: (A). The span is a named entity of type actor
+
+3. Text Span: "Julia Roberts"
+Label: (A). The span is a named entity of type actor

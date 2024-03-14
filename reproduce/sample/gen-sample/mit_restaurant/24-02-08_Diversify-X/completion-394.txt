@@ -1,0 +1,8 @@
+Query: "I'm craving some sushi for lunch, any recommendations?"
+Named Entities: [sushi (Cuisine), lunch (Amenity)]
+
+Query: "Where's the best place to grab a quick bite to eat for lunch near the mall?"
+Named Entities: [quick bite (Amenity), lunch (Amenity), mall (Location)]
+
+Query: "I want to try something new for lunch, can you suggest a trendy spot with affordable prices?"
+Named Entities: [trendy (Amenity), lunch (Amenity), affordable prices (Price)]

@@ -1,0 +1,8 @@
+1. "I'm craving burritos for dinner, where's the best Mexican restaurant in town?"
+Named Entities: [burritos (Dish), dinner (Amenity), Mexican (Cuisine)]
+
+2. "Can you recommend a place with outdoor seating for dinner and a good beer selection?"
+Named Entities: [outdoor seating (Amenity), dinner (Amenity), good beer selection (Amenity)]
+
+3. "What are the operating hours for the nearest Italian restaurant that serves dinner?"
+Named Entities: [operating hours (Hours), Italian (Cuisine), dinner (Amenity)]

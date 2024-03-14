@@ -1,0 +1,10 @@
+Spoken Movie Queries:
+1. "Can you recommend a mystery movie with a good viewer rating?"
+2. "How did viewers rate the latest Christopher Nolan film?"
+3. "I heard the new movie was a bit disappointing, do you have any reviews for me?"
+
+
+Named Entities:
+1. [Mystery (Genre), viewer rating (Viewers' Rating)]
+2. [Christopher Nolan (Director)]
+3. [disappointing (Review)]

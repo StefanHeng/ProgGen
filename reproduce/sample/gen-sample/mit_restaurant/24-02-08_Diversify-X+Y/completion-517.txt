@@ -1,0 +1,8 @@
+1. "Can you recommend a café with a nice atmosphere and affordable prices for a high school student hangout?"
+Named Entities: [café (Cuisine), affordable prices (Price), high school student (Amenity)]
+
+2. "I'm craving some delicious dessert, is there a cafe nearby known for its yummy pastries and sweet treats?"
+Named Entities: [dessert (Dish), pastries (Dish), sweet treats (Amenity), nearby (Location)]
+
+3. "Where can I find a cute café with good study vibes for a group of teenage girls?"
+Named Entities: [café (Cuisine), good study vibes (Amenity), teenage girls (Amenity)]

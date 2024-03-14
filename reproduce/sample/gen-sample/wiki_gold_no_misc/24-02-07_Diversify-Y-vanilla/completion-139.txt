@@ -1,0 +1,8 @@
+1. The Roche Group is a Swiss multinational healthcare company.
+Named Entities: [Roche (organization)]
+
+2. Chicago Mercantile Exchange (CME) is a global markets company.
+Named Entities: [Chicago Mercantile Exchange (organization)]
+
+3. She attended a conference at the University of Chicago in Illinois.
+Named Entities: [University of Chicago (organization), Illinois (location)]

@@ -1,0 +1,8 @@
+1. Text Span: "desserts"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "quick"
+Label: (B). The correct span boundary is "quick bite".
+
+3. Text Span: "new"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

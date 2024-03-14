@@ -1,0 +1,8 @@
+1. "show me a brunch spot with vegan options"
+   Named Entities: [brunch (Amenity), vegan (Cuisine)]
+
+2. "find a budget-friendly place for brunch near downtown"
+   Named Entities: [budget-friendly (Price), brunch (Amenity), downtown (Location)]
+
+3. "what's a good brunch place with outdoor seating and a kids menu?"
+   Named Entities: [good (Rating), brunch (Amenity), outdoor seating (Amenity), kids menu (Amenity)]

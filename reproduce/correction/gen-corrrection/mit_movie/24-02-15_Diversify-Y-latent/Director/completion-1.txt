@@ -1,0 +1,11 @@
+1. Query: "show me a trailer of the latest action movie directed by {{Kathryn Bigelow}}"
+Text Span: "Kathryn Bigelow"
+Label: (A). The span is a named entity of type director
+
+2. Query: "What is the highest viewers' rated movie directed by {{JJ Abrams}} and starring Will Smith"
+Text Span: "JJ Abrams"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Who {{directed}} the original Jurassic Park and what year was it released?"
+Text Span: "directed"
+Label: (D). Not a Named Entity.

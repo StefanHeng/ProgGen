@@ -1,0 +1,8 @@
+1. "I heard there was a movie with a thrilling trailer directed by James Cameron in 1997. Do you know the title?"
+   Named Entities: [thrilling (Plot), James Cameron (Director), 1997 (Year)]
+
+2. "I'm curious if there are any movie teasers featuring Cameron Diaz and Seth Rogen from 1991. Have you come across any?"
+   Named Entities: [teasers (Trailer), Cameron Diaz (Actor), Seth Rogen (Actor), 1991 (Year)]
+
+3. "I've been wondering if JJ Abrams directed any movies with The Joker in the teaser. Can you find out?"
+   Named Entities: [JJ Abrams (Director), The Joker (Character), teaser (Trailer)]

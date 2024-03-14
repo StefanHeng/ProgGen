@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where can I find a place with affordable prices?"
+Named Entities: [fast food (Cuisine), affordable (Price)]
+
+2. "What's the closest spot for quick eats that won't break the bank?"
+Named Entities: [quick eats (Amenity), closest (Location), affordable (Price)]
+
+3. "Do you know of any inexpensive fast food joints in the area with good ratings?"
+Named Entities: [inexpensive (Price), fast food (Cuisine), good ratings (Rating)]

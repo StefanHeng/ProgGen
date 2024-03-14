@@ -1,0 +1,8 @@
+1. "I'm craving some delicious kebab, can you recommend a nearby restaurant?"
+Named Entities: [kebab (Dish), nearby (Location)]
+
+2. "Where can I find a restaurant with karaoke tonight?"
+Named Entities: [karaoke (Amenity), tonight (Hours)]
+
+3. "Do you know of any affordable restaurants with a good rating in this area?"
+Named Entities: [affordable (Price), good rating (Rating), area (Location)]

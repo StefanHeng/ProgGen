@@ -1,0 +1,8 @@
+Spoken Query 1: "Are there any streaming platforms that have movies with Jessica Chastain?"
+Named Entities: [Jessica Chastain (Actor)]
+
+Spoken Query 2: "Can I find a high school drama movie to watch on any streaming services?"
+Named Entities: [high school drama (Genre)]
+
+Spoken Query 3: "Where can I watch a movie like The Notebook with a GR or X rating?"
+Named Entities: [The Notebook (Title), GR (MPAA Rating), X (MPAA Rating)]

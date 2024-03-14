@@ -1,0 +1,8 @@
+1. Text Span: "breakfast"
+Label: (C). The correct entity type is Hours.
+
+2. Text Span: "cuisine"
+Label: (D). The span is not a named entity.
+
+3. Text Span: "café"
+Label: (A). The span is a named entity of type cuisine.

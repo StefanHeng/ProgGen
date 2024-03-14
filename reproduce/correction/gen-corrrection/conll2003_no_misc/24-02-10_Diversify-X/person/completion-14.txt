@@ -1,0 +1,11 @@
+1. Sentence: "Manhunt underway for {{fugitive}} wanted in connection with multiple homicides."
+Text Span: "fugitive"
+Label: (D)
+
+2. Sentence: "FAMOUS FASHION BRAND ANNOUNCES COLLABORATION WITH RISING {{ARTIST}}."
+Text Span: "ARTIST"
+Label: (A)
+
+3. Sentence: "{{High school student}} creates charity to help elderly in need."
+Text Span: "High school student"
+Label: (A)

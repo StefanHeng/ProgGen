@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie from the 1880s with a science fiction genre?"
+Named Entities: [1880s (Year), science fiction (Genre)]
+
+Query: "Is The Godfather considered a must-see movie by most viewers?"
+Named Entities: [The Godfather (Title), must see (Viewers' Rating)]
+
+Query: "Tell me a movie directed by Ridley Scott that has received a Meh rating from critics"
+Named Entities: [Ridley Scott (Director), Meh (Review)]

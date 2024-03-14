@@ -1,0 +1,8 @@
+Query: "show me the nearest Italian restaurant for lunch"
+Named Entities: [nearest (Location), Italian (Cuisine), lunch (Amenity)]
+
+Query: "what are some good places to eat lunch for under $15"
+Named Entities: [good (Rating), under $15 (Price), lunch (Amenity)]
+
+Query: "can you recommend a restaurant with outdoor seating for lunch"
+Named Entities: [outdoor seating (Amenity), lunch (Amenity)]

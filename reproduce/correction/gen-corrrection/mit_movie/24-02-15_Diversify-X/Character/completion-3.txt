@@ -1,0 +1,8 @@
+1. Text Span: "young adults"
+   Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "cast"
+   Label: (A). The span is a named entity of type character
+
+3. Text Span: "killer clown"
+   Label: (A). The span is a named entity of type character

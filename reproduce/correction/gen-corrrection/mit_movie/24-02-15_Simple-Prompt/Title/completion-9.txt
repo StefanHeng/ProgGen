@@ -1,0 +1,11 @@
+1. Query: "Is there a film adaptation of the book {{1984}}?"
+Text Span: "1984"
+Label: (D). The span is not a named entity
+
+2. Query: "Who is the director of {{The Matrix}}?"
+Text Span: "The Matrix"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: "What type of movie genre is the film {{The Godfather}}?"
+Text Span: "The Godfather"
+Label: (A). The span is a named entity of type movie title

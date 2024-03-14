@@ -1,0 +1,8 @@
+Query: "what are the operating hours for Sunnyside Cafe"
+Named Entities: [Sunnyside Cafe (Restaurant Name), operating hours (Hours)]
+
+Query: "do you know any restaurants that serve a good granola bowl for breakfast"
+Named Entities: [good (Rating), granola bowl (Dish), breakfast (Amenity)]
+
+Query: "can you recommend a moderately priced restaurant in the downtown area"
+Named Entities: [moderately priced (Price), downtown area (Location)]

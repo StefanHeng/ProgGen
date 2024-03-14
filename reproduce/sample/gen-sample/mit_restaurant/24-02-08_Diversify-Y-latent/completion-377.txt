@@ -1,0 +1,8 @@
+Query: "What are the operating hours for the nearest Italian restaurant?"
+Named Entities: [operating hours (Hours), nearest (Location), Italian (Cuisine)]
+
+Query: "Is there a nearby place with a good rating for seafood dishes?"
+Named Entities: [nearby (Location), good rating (Rating), seafood (Cuisine)]
+
+Query: "Find me a restaurant with outdoor seating and a price range under 20 dollars per person"
+Named Entities: [outdoor seating (Amenity), under 20 dollars per person (Price)]

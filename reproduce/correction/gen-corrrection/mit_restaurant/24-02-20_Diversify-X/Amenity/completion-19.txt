@@ -1,0 +1,8 @@
+1. Text Span: "lunch"
+   Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "free wifi"
+   Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "casual"
+   Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "casual late-night dining spot"

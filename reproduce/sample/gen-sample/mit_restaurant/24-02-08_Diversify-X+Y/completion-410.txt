@@ -1,0 +1,8 @@
+1. "Can you recommend a late-night dining place that offers gluten-free options?"
+Named Entities: [late-night dining (Amenity), gluten-free (Amenity)]
+
+2. "I'm craving some gluten-free late-night snacks. What's available around here?"
+Named Entities: [gluten-free (Amenity), late-night (Amenity)]
+
+3. "I need to find a restaurant with gluten-free options that is open past midnight."
+Named Entities: [gluten-free (Amenity), past midnight (Hours)]

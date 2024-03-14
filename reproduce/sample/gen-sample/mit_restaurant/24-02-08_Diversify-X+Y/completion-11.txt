@@ -1,0 +1,8 @@
+Query: "show me a food truck in Seattle that offers takeout"
+Named Entities: [food truck (Amenity), Seattle (Location), takeout (Amenity)]
+
+Query: "I'm in Seattle and craving some food truck cuisine, where should I go for takeout"
+Named Entities: [Seattle (Location), food truck cuisine (Cuisine), takeout (Amenity)]
+
+Query: "I want to grab some takeout from a food truck in Seattle, where's the best place"
+Named Entities: [takeout (Amenity), food truck (Amenity), Seattle (Location), best place (Rating)]

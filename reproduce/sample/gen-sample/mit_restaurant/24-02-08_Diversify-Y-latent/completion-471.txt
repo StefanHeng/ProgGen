@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-rated Indian restaurant with outdoor seating?"
+Named Entities: [highly-rated (Rating), Indian (Cuisine), outdoor seating (Amenity)]
+
+2. "What's the best Italian place for a romantic dinner tonight?"
+Named Entities: [best (Rating), Italian (Cuisine), romantic dinner (Amenity), tonight (Hours)]
+
+3. "I'm craving sushi, where can I find a budget-friendly sushi spot nearby?"
+Named Entities: [budget-friendly (Price), sushi (Cuisine), nearby (Location)]

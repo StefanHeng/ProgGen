@@ -1,0 +1,8 @@
+Query: "Are there any waterfront restaurants known for their popular brunch destinations"
+Named Entities: [waterfront (Amenity), popular (Rating), brunch (Amenity)]
+
+Query: "I'm looking for a brunch place with industrial vibes, maybe Rise and Shine Cafe?"
+Named Entities: [brunch (Amenity), industrial (Amenity), Rise and Shine Cafe (Restaurant Name)]
+
+Query: "Can you recommend a beachfront restaurant that offers brunch with great ratings?"
+Named Entities: [beachfront (Amenity), brunch (Amenity), great ratings (Rating)]

@@ -1,0 +1,11 @@
+1. Sentence: "The {{Pulitzer Prize}}-winning novelist, Toni Morrison, is renowned for her powerful portrayal of African American life in works like Beloved and Song of Solomon."
+Text Span: "Pulitzer Prize"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The Greek mythological figure, Hercules, is known for his incredible strength and his famous {{Twelve Labors}}."
+Text Span: "Twelve Labors"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "The famous music festival, {{Coachella}}, has become synonymous with top-tier musical performances and celebrity appearances since its inception in 1999."
+Text Span: "Coachella"
+Label: (A). The span is a named entity of type organization

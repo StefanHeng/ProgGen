@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a memorable soundtrack similar to Ghostbusters?"
+Named Entities: [memorable soundtrack (Song), Ghostbusters (Title)]
+
+2. "What year did Alexander Payne direct the film Frankenstein?"
+Named Entities: [Alexander Payne (Director), Frankenstein (Title)]
+
+3. "Do you have any information about movies featuring Darth Vader, the character from Jurassic Park?"
+Named Entities: [Darth Vader (Character), Jurassic Park (Title)]

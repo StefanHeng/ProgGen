@@ -1,0 +1,8 @@
+1. "Can you recommend a well-regarded Italian restaurant in the area?"
+   Named Entities: [well-regarded (Rating), Italian (Cuisine), area (Location)]
+
+2. "What time does TGI Fridays close tonight?"
+   Named Entities: [TGI Fridays (Restaurant Name), close tonight (Hours)]
+
+3. "I'm in the mood for some barbecue, where can I find a place with a good selection?"
+   Named Entities: [barbecue (Cuisine), good selection (Amenity)]

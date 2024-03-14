@@ -1,0 +1,8 @@
+Query: "are there any mockumentary films featuring Owen Wilson"
+Named Entities: [mockumentary (Genre), Owen Wilson (Actor)]
+
+Query: "can you recommend a movie with a strong female lead like Katniss Everdeen"
+Named Entities: [strong female lead (Character), Katniss Everdeen (Character)]
+
+Query: "I want to see a film preview for a movie with Cersei Lannister"
+Named Entities: [film preview (Trailer), Cersei Lannister (Character)]

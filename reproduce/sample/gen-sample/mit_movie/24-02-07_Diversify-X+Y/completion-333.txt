@@ -1,0 +1,8 @@
+1. "Can you tell me who directed The Shape of Water?"
+Named Entities: [The Shape of Water (Title), directed (Director)]
+
+2. "I'm curious, is The Shape of Water known for its skillful depiction of emotions?"
+Named Entities: [The Shape of Water (Title), skillful depiction of emotions (Plot)]
+
+3. "What is your favorite Danny Boyle movie that you would rate a 10/10?"
+Named Entities: [favorite (Viewers' Rating), Danny Boyle (Director), 10/10 (Viewers' Rating)]

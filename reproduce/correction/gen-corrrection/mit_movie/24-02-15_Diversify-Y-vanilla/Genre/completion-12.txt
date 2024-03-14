@@ -1,0 +1,11 @@
+1. Query: "is there a {{historical}} film set during the Battle of Waterloo"
+Text Span: "historical"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "What year was 12 Angry Men, the {{classic legal drama}}, released?"
+Text Span: "classic legal drama"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "legal drama".
+
+3. Query: "What {{indie}} films were released in 2020 directed by Benedict Cumberbatch?"
+Text Span: "indie"
+Label: (A). The span is a named entity of type genre

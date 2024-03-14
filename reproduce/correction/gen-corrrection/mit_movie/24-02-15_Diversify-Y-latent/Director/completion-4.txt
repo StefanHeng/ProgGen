@@ -1,0 +1,11 @@
+1. Query: "Show me the trailer for the new Spider-Man movie directed by {{Sam Raimi}}."
+Text Span: "Sam Raimi"
+Label: (A). The span is a named entity of type director
+
+2. Query: "Can you play a preview for the movie Flawless directed by {{Joel Schumacher}}"
+Text Span: "Joel Schumacher"
+Label: (A). The span is a named entity of type director
+
+3. Query: "I want to watch a film with an amazing song, maybe one with a song by {{Spike Lee}}?"
+Text Span: "Spike Lee"
+Label: (A). The span is a named entity of type director

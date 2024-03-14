@@ -1,0 +1,11 @@
+1. Query: "Which restaurant in this area has a patio and serves {{vegetarian}} dishes?"
+Text Span: "vegetarian"
+Label: (A). The span is a named entity of type dish
+
+2. Query: "I want to try some authentic Italian {{pasta}}, do you know a place with good reviews and reasonable prices Closing soon ?"
+Text Span: "pasta"
+Label: (A). The span is a named entity of type dish
+
+3. Query: "Can you recommend a place that serves a good {{cheeseburger}}?"
+Text Span: "cheeseburger"
+Label: (A). The span is a named entity of type dish

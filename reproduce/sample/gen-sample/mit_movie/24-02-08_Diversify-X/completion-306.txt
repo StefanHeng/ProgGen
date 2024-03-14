@@ -1,0 +1,8 @@
+1. Query: "Who directed the 1994 film The Shawshank Redemption and what is the viewers' rating for it?"
+   Named Entities: [1994 (Year), The Shawshank Redemption (Title), viewers' rating (Viewers' Rating), Director]
+
+2. Query: "Can you recommend a good action film from the 1980s featuring Arnold Schwarzenegger?"
+   Named Entities: [action (Genre), 1980s (Year), Arnold Schwarzenegger (Actor)]
+
+3. Query: "I'm a big fan of Quentin Tarantino's work. Can you tell me the plot of his latest movie and if there's a trailer available?"
+   Named Entities: [Quentin Tarantino (Director), plot (Plot), latest movie (Title), trailer (Trailer)]

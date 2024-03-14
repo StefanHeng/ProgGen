@@ -1,0 +1,8 @@
+1. Query: "I'm craving some breakfast burritos, where can I find a good spot for that?"
+Named Entities: [breakfast burritos (Dish), good (Rating)]
+
+2. Query: "Which restaurant serves delicious pancakes and is open early in the morning?"
+Named Entities: [pancakes (Dish), early in the morning (Hours)]
+
+3. Query: "I need a breakfast place with affordable prices, where should I go?"
+Named Entities: [breakfast (Amenity), affordable prices (Price)]

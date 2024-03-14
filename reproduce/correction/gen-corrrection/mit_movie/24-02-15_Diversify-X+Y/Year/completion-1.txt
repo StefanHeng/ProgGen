@@ -1,0 +1,8 @@
+1. Text Span: "2008"
+Label: (A). The span is a named entity of type year
+
+2. Text Span: "upcoming"
+Label: (D). The span is not a named entity
+
+3. Text Span: "2000"
+Label: (A). The span is a named entity of type year

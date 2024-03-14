@@ -1,0 +1,8 @@
+1. Query: "Where is the closest café with a highly recommended menu?"
+Named Entities: [closest (Location), highly recommended (Rating), café (Amenity)]
+
+2. Query: "Do you know of any moderate-priced café around Perimeter area?"
+Named Entities: [moderate (Price), Perimeter (Location), café (Amenity)]
+
+3. Query: "I'm interested in trying out Cherry Blossom Café. Can you tell me their operating hours?"
+Named Entities: [Cherry Blossom Café (Restaurant Name), operating hours (Hours)]

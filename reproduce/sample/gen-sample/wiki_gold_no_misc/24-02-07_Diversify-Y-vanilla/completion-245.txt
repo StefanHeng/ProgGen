@@ -1,0 +1,8 @@
+1. "The company's headquarters is located in downtown New York City."
+Named Entities: [New York City (location)]
+
+2. "She graduated from Harvard University with a degree in economics and went on to work for the World Bank."
+Named Entities: [Harvard University (organization), World Bank (organization)]
+
+3. "The artist's latest exhibition at the Tate Modern received rave reviews from art critics."
+Named Entities: [Tate Modern (organization)]

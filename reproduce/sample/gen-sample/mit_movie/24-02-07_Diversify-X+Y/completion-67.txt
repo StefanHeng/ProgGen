@@ -1,0 +1,8 @@
+1. "Can you provide a teaser clip of the film Titanic and give me a brief synopsis of the plot?"
+Named Entities: [Titanic (Title), teaser clip (Trailer), plot (Plot)]
+
+2. "I'm looking for an unforgettable movie with a heartwarming plot. Do you have any recommendations?"
+Named Entities: [heartwarming (Genre), unforgettable (Viewers' Rating)]
+
+3. "What's the plot summary of the classic film Casablanca? Can you also show me a teaser clip if possible?"
+Named Entities: [Casablanca (Title), plot summary (Plot), teaser clip (Trailer)]

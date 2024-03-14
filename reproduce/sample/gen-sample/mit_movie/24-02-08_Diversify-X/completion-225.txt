@@ -1,0 +1,8 @@
+1. Query: "I'm bored, can you show me a teaser for the latest James Bond movie?"
+Named Entities: [teaser (Trailer), James Bond (Character)]
+
+2. Query: "I need something to watch, how about a movie with an epic battle scene?"
+Named Entities: [epic battle scene (Plot)]
+
+3. Query: "I'm feeling uninspired, could you recommend a film directed by Christopher Nolan?"
+Named Entities: [Christopher Nolan (Director)]

@@ -1,0 +1,29 @@
+1. The Eiffel Tower was constructed using distinctive puddled iron, a type of wrought iron.
+Named Entities: [Eiffel Tower (location)]
+
+2. The new main library at the University of Iowa, which houses all major libraries in the campus, creates a creative wind in the field of research.
+Named Entities: [University of Iowa (organization)]
+
+3. Roger Stone is an American political consultant, lobbyist, author, and convicted felon.
+Named Entities: [Roger Stone (person), American (organization)]
+
+4. The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands.
+Named Entities: [Great Barrier Reef (location)]
+
+5. The International Space Station is a space station, or a habitable artificial satellite, in low Earth orbit.
+Named Entities: [International Space Station (organization)]
+
+6. Lucy Maud Montgomery OBE was a Canadian author best known for a series of novels beginning in 1908 with Anne of Green Gables.
+Named Entities: [Lucy Maud Montgomery (person), Canadian (location)]
+
+7. The Louvre Museum in Paris, France, is the world's most visited museum.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+8. The Metropolitan Opera House in New York City is home to some of the most iconic opera performances in the world.
+Named Entities: [Metropolitan Opera House (organization), New York City (location)]
+
+9. The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait connecting San Francisco Bay and the Pacific Ocean.
+Named Entities: [Golden Gate Bridge (location), Golden Gate (location), San Francisco Bay (location), Pacific Ocean (location)]
+
+10. Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.
+Named Entities: [Marie Curie (person), Polish (location), French (location)]

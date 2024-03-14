@@ -1,0 +1,8 @@
+1. "Can you recommend any movies directed by Lulu Wang?"
+Named Entities: [Lulu Wang (Director)]
+
+2. "Do you have any movies from the 2000s with Yoda as a character?"
+Named Entities: [2000s (Year), Yoda (Character)]
+
+3. "Show me a Russell Crowe movie from 2000-2010 with a G rating directed by Sam Raimi and featuring the song 'My Girl'."
+Named Entities: [Russell Crowe (Actor), 2000-2010 (Year), G (MPAA Rating), Sam Raimi (Director), My Girl (Song)]

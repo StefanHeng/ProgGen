@@ -1,0 +1,8 @@
+1. Query: "Could you show me a trailer for The Flash movie featuring Alicia Vikander?"
+Named Entities: [The Flash (Title), Alicia Vikander (Actor), trailer (Trailer)]
+
+2. Query: "What movie features the song Eye of the Tiger and was directed by Jason Reitman?"
+Named Entities: [Eye of the Tiger (Song), Jason Reitman (Director)]
+
+3. Query: "Is Frodo Baggins a character in any of Denzel Washington's films?"
+Named Entities: [Frodo Baggins (Character), Denzel Washington (Actor)]

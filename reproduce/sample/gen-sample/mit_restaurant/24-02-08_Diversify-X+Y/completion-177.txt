@@ -1,0 +1,8 @@
+1. "I'm craving a breakfast delivery with a good coffee machine. Any recommendations?"
+Named Entities: [breakfast (Cuisine), delivery (Amenity), coffee machine (Amenity)]
+
+2. "Where can I find a breakfast locale that offers delivery service?"
+Named Entities: [breakfast (Cuisine), delivery (Amenity), locale (Amenity)]
+
+3. "Is there a restaurant around here that serves breakfast and has a locale suitable for delivery orders?"
+Named Entities: [breakfast (Cuisine), locale (Amenity), delivery (Amenity)]

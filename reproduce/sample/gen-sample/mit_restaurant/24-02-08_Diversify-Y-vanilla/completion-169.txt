@@ -1,0 +1,8 @@
+1. "What are the operating hours of A&W in this area?"
+Named Entities: [A&W (Restaurant Name), operating hours (Hours), area (Location)]
+
+2. "I'm craving some American cuisine, where can I find a good burger joint?"
+Named Entities: [American (Cuisine), good (Rating), burger joint (Amenity)]
+
+3. "Recommend a restaurant with outdoor seating and a view near the waterfront."
+Named Entities: [outdoor seating (Amenity), waterfront (Location)]

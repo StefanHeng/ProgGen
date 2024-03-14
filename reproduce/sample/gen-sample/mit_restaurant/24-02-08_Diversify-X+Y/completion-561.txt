@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with outdoor seating, that is high-cost?"
+Named Entities: [buffet (Cuisine), outdoor seating (Amenity), High-cost (Price)]
+
+2. "I'm looking for a high-cost restaurant with an outdoor seating area that offers buffet-style dining."
+Named Entities: [High-cost (Price), outdoor seating (Amenity), buffet-style (Cuisine)]
+
+3. "Where can I find an upscale restaurant with outdoor seating and a buffet option?"
+Named Entities: [upscale (Rating), outdoor seating (Amenity), buffet (Cuisine), option (Amenity)]

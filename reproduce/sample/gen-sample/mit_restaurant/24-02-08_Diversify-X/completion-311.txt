@@ -1,0 +1,8 @@
+Query: "show me a breakfast spot with a view of the ocean"
+Named Entities: [breakfast (Meal Category), view of the ocean (Amenity)]
+
+Query: "what's a good place for breakfast that opens at 7 am"
+Named Entities: [breakfast (Meal Category), opens at 7 am (Hours)]
+
+Query: "recommend a restaurant serving delicious pancakes for breakfast"
+Named Entities: [delicious pancakes (Dish), breakfast (Meal Category)]

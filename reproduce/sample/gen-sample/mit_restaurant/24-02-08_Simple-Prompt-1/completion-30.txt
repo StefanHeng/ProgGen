@@ -1,0 +1,41 @@
+1. What is the best Italian restaurant in town?
+Named Entities: [Italian (Cuisine)]
+2. I'm craving some authentic sushi, where should I go?
+Named Entities: [sushi (Dish)]
+3. Can you recommend a restaurant with outdoor seating?
+Named Entities: [outdoor seating (Amenity)]
+4. What time does Chili's close tonight?
+Named Entities: [Chili's (Restaurant Name), close tonight (Hours)]
+5. I need to find a place with a 5-star rating.
+Named Entities: [5-star (Rating)]
+6. Where can I get the best burger in the city?
+Named Entities: [burger (Dish)]
+7. Is there a Mexican restaurant nearby with affordable prices?
+Named Entities: [Mexican (Cuisine), affordable prices (Price)]
+8. I'm looking for a restaurant with a kids' menu.
+Named Entities: [kids' menu (Amenity)]
+9. What's the most popular brunch spot in the area?
+Named Entities: [brunch spot (Amenity)]
+10. Do you know of any restaurants with a view?
+Named Entities: [view (Amenity)]
+
+11. I want to order a pizza, which place has the best delivery?
+Named Entities: [pizza (Dish), best delivery (Amenity)]
+12. Are there any vegan-friendly restaurants in this neighborhood?
+Named Entities: [vegan-friendly (Amenity)]
+13. Where can I find a place with live music and good cocktails?
+Named Entities: [live music (Amenity), good cocktails (Amenity)]
+14. What's a good place for a romantic dinner?
+Named Entities: [romantic dinner (Amenity)]
+15. I'm in the mood for some Chinese food, what's the closest option?
+Named Entities: [Chinese (Cuisine), closest option (Location)]
+16. I need a late-night snack, where's a good 24-hour diner?
+Named Entities: [late-night snack (Amenity), 24-hour (Hours)]
+17. Can you recommend a restaurant with a great wine selection?
+Named Entities: [great wine selection (Amenity)]
+18. What's the best barbecue joint in town?
+Named Entities: [barbecue (Cuisine)]
+19. I'm looking for a place that serves a good seafood buffet.
+Named Entities: [seafood (Cuisine), buffet (Amenity)]
+20. I want to have dinner with a beautiful sunset view, where should I go?
+Named Entities: [dinner (Amenity), beautiful sunset view (Amenity)]

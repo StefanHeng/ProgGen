@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with a low-carb brunch menu and a nice bar/lounge area"
+Named Entities: [low-carb (Dietary Restriction), brunch (Amenity), bar/lounge area (Amenity)]
+
+Query: "Where can I find a restaurant with a low-carb brunch and a bar/lounge area?"
+Named Entities: [low-carb (Dietary Restriction), brunch (Amenity), bar/lounge area (Amenity)]
+
+Query: "I need a recommendation for a brunch place with a bar/lounge area that offers low-carb options"
+Named Entities: [brunch (Amenity), bar/lounge area (Amenity), low-carb (Dietary Restriction)]

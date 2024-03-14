@@ -1,0 +1,8 @@
+Query: "I'm craving sushi, can you recommend any good sushi restaurants close to home?"
+Named Entities: [sushi (Cuisine), close to home (Location)]
+
+Query: "What's a popular restaurant with outdoor seating that serves sushi?"
+Named Entities: [popular (Rating), outdoor seating (Amenity), sushi (Cuisine)]
+
+Query: "I want to find a budget-friendly sushi place that's open late, any recommendations?"
+Named Entities: [budget-friendly (Price), open late (Hours), sushi (Cuisine)]

@@ -1,0 +1,134 @@
+Sentence: "The Eiffel Tower is located in Paris, France."
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+Sentence: "The United Nations is an international organization founded in 1945."
+Named Entities: [United Nations (organization)]
+
+Sentence: "She studied at Harvard University in Cambridge, Massachusetts."
+Named Entities: [Harvard University (organization), Cambridge (location), Massachusetts (location)]
+
+Sentence: "John F. Kennedy served as the 35th president of the United States."
+Named Entities: [John F. Kennedy (person), United States (location)]
+
+Sentence: "She works for Google as a software engineer."
+Named Entities: [Google (organization)]
+
+Sentence: "Mount Everest is the highest mountain in the world, located in the Himalayas."
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+Sentence: "Elon Musk is the CEO of SpaceX and Tesla."
+Named Entities: [Elon Musk (person), SpaceX (organization), Tesla (organization)]
+
+Sentence: "The Beatles were an influential musical group from Liverpool, England."
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+
+Sentence: "She is a member of the World Health Organization."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "Michael Jordan is widely regarded as one of the greatest basketball players of all time."
+Named Entities: [Michael Jordan (person)]
+
+Sentence: "The Great Wall of China is a significant historical landmark."
+Named Entities: [Great Wall of China (location), China (location)]
+
+Sentence: "She attended the University of Oxford in England."
+Named Entities: [University of Oxford (organization), England (location)]
+
+Sentence: "Nelson Mandela was a key figure in the fight against apartheid in South Africa."
+Named Entities: [Nelson Mandela (person), South Africa (location)]
+
+Sentence: "The Louvre Museum in Paris is home to many famous works of art."
+Named Entities: [Louvre Museum (organization), Paris (location)]
+
+Sentence: "IBM is a multinational technology company based in New York City."
+Named Entities: [IBM (organization), New York City (location)]
+
+Sentence: "Albert Einstein was a renowned physicist from Germany."
+Named Entities: [Albert Einstein (person), Germany (location)]
+
+Sentence: "She visited the Statue of Liberty in New York Harbor."
+Named Entities: [Statue of Liberty (location), New York Harbor (location)]
+
+Sentence: "The World Bank is an international financial institution headquartered in Washington, D.C."
+Named Entities: [World Bank (organization), Washington, D.C. (location)]
+
+Sentence: "Marie Curie was the first woman to win a Nobel Prize."
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+
+Sentence: "Tokyo is the capital city of Japan."
+Named Entities: [Tokyo (location), Japan (location)]
+
+Sentence: "She is a member of the American Red Cross."
+Named Entities: [American Red Cross (organization)]
+
+Sentence: "Steve Jobs co-founded Apple Inc."
+Named Entities: [Steve Jobs (person), Apple Inc. (organization)]
+
+Sentence: "The Great Pyramid of Giza is a famous archaeological site in Egypt."
+Named Entities: [Great Pyramid of Giza (location), Egypt (location)]
+
+Sentence: "She worked for the World Health Organization."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "Harvard University is one of the oldest institutions of higher learning in the United States."
+Named Entities: [Harvard University (organization), United States (location)]
+
+Sentence: "Mark Zuckerberg is the CEO of Facebook."
+Named Entities: [Mark Zuckerberg (person), Facebook (organization)]
+
+Sentence: "The Amazon Rainforest is the largest tropical rainforest in the world."
+Named Entities: [Amazon Rainforest (location)]
+
+Sentence: "She took a trip to the Colosseum in Rome, Italy."
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+Sentence: "The International Monetary Fund is a global financial organization."
+Named Entities: [International Monetary Fund (organization)]
+
+Sentence: "Leonardo da Vinci was a talented artist and inventor from Italy."
+Named Entities: [Leonardo da Vinci (person), Italy (location)]
+
+Sentence: "She visited the Taj Mahal, a famous mausoleum in India."
+Named Entities: [Taj Mahal (location), India (location)]
+
+Sentence: "The World Health Organization is dedicated to global public health issues."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "Pablo Picasso was a pioneering figure in the world of modern art."
+Named Entities: [Pablo Picasso (person)]
+
+Sentence: "She donated to the American Cancer Society."
+Named Entities: [American Cancer Society (organization)]
+
+Sentence: "The Acropolis in Athens is a symbol of ancient Greek civilization."
+Named Entities: [Acropolis (location), Athens (location), Greece (location)]
+
+Sentence: "She is a member of the United Nations."
+Named Entities: [United Nations (organization)]
+
+Sentence: "Elie Wiesel was a Holocaust survivor and Nobel Laureate."
+Named Entities: [Elie Wiesel (person), Nobel Laureate (organization)]
+
+Sentence: "The Nile River is the longest river in the world, flowing through several African countries."
+Named Entities: [Nile River (location), Africa (location)]
+
+Sentence: "She attended Stanford University in California."
+Named Entities: [Stanford University (organization), California (location)]
+
+Sentence: "Walt Disney is the founder of The Walt Disney Company."
+Named Entities: [Walt Disney (person), The Walt Disney Company (organization)]
+
+Sentence: "The Vatican City is the smallest independent state in the world."
+Named Entities: [Vatican City (location)]
+
+Sentence: "She is a member of Médecins Sans Frontières."
+Named Entities: [Médecins Sans Frontières (organization)]
+
+Sentence: "Claude Monet was a prominent French Impressionist painter."
+Named Entities: [Claude Monet (person), France (location)]
+
+Sentence: "She volunteered for the United Way."
+Named Entities: [United Way (organization)]
+
+Sentence: "The Great Barrier Reef in Australia is the largest coral reef system in the world."
+Named Entities: [Great Barrier Reef (location), Australia (location)]

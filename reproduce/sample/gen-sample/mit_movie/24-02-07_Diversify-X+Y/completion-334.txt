@@ -1,0 +1,8 @@
+1. Query: "I heard the movie Can You Feel the Love Tonight has been recognized with prestigious accolades. Can you tell me more about this?"
+Named Entities: [Can You Feel the Love Tonight (Song), recognized with prestigious accolades (Review)]
+
+2. Query: "I'm curious about any awards or nominations received by movies that are considered spectacular. Can you provide some information on this?"
+Named Entities: [spectacular (Review), awards or nominations (Awards and nominations)]
+
+3. Query: "I remember hearing about Forrest Gump and Terms of Endearment receiving rave reviews. Can you share any details about their accolades and recognitions?"
+Named Entities: [Forrest Gump (Title), Terms of Endearment (Title), rave reviews (Review)]

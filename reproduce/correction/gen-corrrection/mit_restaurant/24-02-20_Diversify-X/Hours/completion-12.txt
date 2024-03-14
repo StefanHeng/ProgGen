@@ -1,0 +1,8 @@
+1. Text Span: "after midnight"
+Label: (A). Named Entity of type Hours
+
+2. Text Span: "midday meal"
+Label: (A). Named Entity of type Hours
+
+3. Text Span: "lunch"
+Label: (A). Named Entity of type Hours

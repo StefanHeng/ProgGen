@@ -1,0 +1,11 @@
+1. Query: "Are there any movies directed by {{Steven Spielberg}} that I should watch?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+2. Query: "how many james bond films were directed by {{martin campbell}}"
+Text Span: "martin campbell"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Can you tell me about the character of T'Challa in the {{Marvel}} movie Black Panther?"
+Text Span: "Marvel"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Genre

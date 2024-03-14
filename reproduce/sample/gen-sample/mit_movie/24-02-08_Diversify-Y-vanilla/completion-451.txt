@@ -1,0 +1,8 @@
+1. "What is the most recent film directed by Luc Besson with an intense plot?"
+   Named Entities: [Luc Besson (Director), Intense (Plot)]
+
+2. "Can you recommend a movie with a song performed by Jolene and directed by John Lasseter?"
+   Named Entities: [Jolene (Song), John Lasseter (Director)]
+
+3. "Is Kylo Ren a character in any of the Star Wars movies?"
+   Named Entities: [Kylo Ren (Character)]

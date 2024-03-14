@@ -1,0 +1,8 @@
+1. "Where can I find the best seafood in town?"
+Named Entities: [best (Rating), seafood (Cuisine), town (Location)]
+
+2. "I'm looking for a restaurant with a cozy atmosphere and superior quality cocktails."
+Named Entities: [cozy atmosphere (Amenity), superior quality (Price)]
+
+3. "What are the most popular Italian restaurants nearby?"
+Named Entities: [most popular (Rating), Italian (Cuisine), nearby (Location)]

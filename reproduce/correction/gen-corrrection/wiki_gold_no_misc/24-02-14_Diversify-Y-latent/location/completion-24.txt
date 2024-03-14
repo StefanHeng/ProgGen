@@ -1,0 +1,11 @@
+1. Sentence: "The Harlem Renaissance was a cultural, social, and artistic explosion that took place in Harlem, {{New York}}, spanning the 1920s."
+Text Span: "New York"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Seoul National University}} is located in the heart of Seoul, South Korea."
+Text Span: "Seoul National University"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.
+
+3. Sentence: "The {{Kennedy Space Center}} is located in Florida."
+Text Span: "Kennedy Space Center"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "Hey, what kind of movie is The Avengers? Like, is it an action movie or something else?"
+Named Entities: [The Avengers (Title), action (Genre)]
+
+2. "I'm in the mood for a scary movie. Can you recommend a good horror film from the 80s or 90s?"
+Named Entities: [scary movie (Genre), horror film (Genre), 80s or 90s (Year)]
+
+3. "Do you know if there are any good romantic comedy movies coming out soon? I could use a good laugh and some lovey-dovey stuff."
+Named Entities: [romantic comedy (Genre)]

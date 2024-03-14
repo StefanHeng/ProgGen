@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the awards and nominations received by the movie La La Land?"
+Named Entities: [La La Land (Title), awards and nominations (Review)]
+
+2. Query: "Which movie, directed by Steven Spielberg, has the most nominations for the Academy Awards?"
+Named Entities: [Steven Spielberg (Director), most nominations (Review), Academy Awards (Review)]
+
+3. Query: "I'm curious about the Golden Globe Awards won by the movie The Shape of Water. Can you provide me with some information?"
+Named Entities: [The Shape of Water (Title), Golden Globe Awards (Review)]

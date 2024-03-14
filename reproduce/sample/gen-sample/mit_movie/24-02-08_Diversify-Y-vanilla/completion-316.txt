@@ -1,0 +1,8 @@
+1. "Can you recommend any movies starring Morgan Freeman?"
+Named Entities: [Morgan Freeman (Actor)]
+
+2. "I'm looking for a comedy movie similar to Clueless."
+Named Entities: [Clueless (Title)]
+
+3. "Show me a movie with at least an 8.5/10 rating."
+Named Entities: [8.5/10 rating (Viewers' Rating)]

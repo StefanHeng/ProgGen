@@ -1,0 +1,11 @@
+1. Sentence: "As a pioneer in the field of algebraic geometry, {{David Mumford}} was awarded the Fields Medal in 1974 for his groundbreaking work on geometric invariant theory."
+Text Span: "David Mumford"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: 'Aretha Franklin, also known as the "{{Queen of Soul}}", was an American singer, songwriter, and pianist.'
+Text Span: "Queen of Soul"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.
+
+3. Sentence: "The renowned archaeologist Dr. {{Mary Leakey}} made significant discoveries at the Olduvai Gorge in Tanzania, uncovering early human fossils and stone tools."
+Text Span: "Mary Leakey"
+Label: (A). The span is a named entity of type person

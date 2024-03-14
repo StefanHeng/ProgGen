@@ -1,0 +1,8 @@
+Sentence: "The World Wildlife Fund is an international non-governmental organization working in the field of the wilderness preservation."
+Named Entities: [World Wildlife Fund (organization)]
+
+Sentence: "The African lion is a large predatory feline found in Africa's savannas and grasslands."
+Named Entities: [African (location)]
+
+Sentence: "Dr. Jane Goodall is a renowned primatologist known for her extensive research on chimpanzees' behavior in the wild."
+Named Entities: [Jane Goodall (person)]

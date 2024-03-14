@@ -1,0 +1,11 @@
+1. Query: "Do you know any restaurants that serve {{vegan}} options?"
+Text Span: "vegan"
+Label: (A). Cuisine
+
+2. Query: "I want to take my date to a romantic {{Italian}} restaurant. Any recommendations?"
+Text Span: "Italian"
+Label: (A). Cuisine
+
+3. Query: "I'm craving some {{seafood}}, which restaurant has the best selection?"
+Text Span: "seafood"
+Label: (A). Cuisine

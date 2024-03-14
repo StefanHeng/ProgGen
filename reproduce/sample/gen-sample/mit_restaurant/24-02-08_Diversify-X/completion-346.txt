@@ -1,0 +1,8 @@
+1. "I'm craving some pancakes and coffee for breakfast, where can I find a restaurant that serves both?"
+Named Entities: [pancakes (Dish), coffee (Dish), breakfast (Amenity)]
+
+2. "I need to grab a quick breakfast on my way to work, do you know of any nearby places that open before 7 am?"
+Named Entities: [breakfast (Amenity), before 7 am (Hours)]
+
+3. "I want to treat my friend to a fancy breakfast for her birthday, can you recommend a restaurant with a high rating and a nice ambiance?"
+Named Entities: [fancy (Amenity), high rating (Rating), birthday (Amenity)]

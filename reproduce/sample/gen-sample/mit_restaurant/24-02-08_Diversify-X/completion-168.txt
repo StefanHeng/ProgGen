@@ -1,0 +1,8 @@
+1. Query: "I'm craving some delicious brunch, can you recommend a nearby spot with outdoor seating?"
+Named Entities: [delicious (Rating), brunch (Cuisine), nearby (Location), outdoor seating (Amenity)]
+
+2. Query: "Where can I find a trendy brunch place in the downtown area with bottomless mimosas?"
+Named Entities: [trendy (Rating), brunch (Cuisine), downtown area (Location), bottomless mimosas (Amenity)]
+
+3. Query: "I'm looking for a cozy brunch spot serving organic dishes, do you know of any in the city?"
+Named Entities: [cozy (Rating), brunch (Cuisine), organic (Amenity), city (Location)]

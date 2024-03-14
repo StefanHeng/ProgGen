@@ -1,0 +1,8 @@
+Query: "find me a restaurant with a great avocado toast for brunch"
+Named Entities: [avocado toast (Dish), brunch (Amenity)]
+
+Query: "what's the nearest place that serves avocado toast for brunch"
+Named Entities: [avocado toast (Dish), brunch (Amenity)]
+
+Query: "recommend a restaurant with a hip ambiance and delicious avocado toast for brunch"
+Named Entities: [avocado toast (Dish), brunch (Amenity)]

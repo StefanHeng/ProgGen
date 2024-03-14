@@ -1,0 +1,8 @@
+Sentence: The Budapest Opera House was designed by Miklós Ybl, one of the most renowned architects of his time.
+Named Entities: [Miklós Ybl (person), Budapest (location)]
+
+Sentence: The Budapest Festival Orchestra is a world-renowned symphony orchestra founded by conductor Ivan Fischer.
+Named Entities: [Budapest Festival Orchestra (organization), Ivan Fischer (person), Budapest (location)]
+
+Sentence: The Hungarian Parliament Building is one of the most iconic landmarks in Budapest, known for its stunning architecture.
+Named Entities: [Hungarian Parliament Building (location), Budapest (location)]

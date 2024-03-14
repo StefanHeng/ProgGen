@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with special discounts for a romantic dinner?"
+   Named Entities: [fine dining (Amenity), special discounts (Amenity), romantic dinner (Amenity)]
+   
+2. "I'm looking for a high-end restaurant with happy hour deals in the downtown area"
+   Named Entities: [high-end (Price), happy hour (Amenity), downtown area (Location)]
+   
+3. "Where can I find a fancy place with a prix fixe menu for lunch?"
+   Named Entities: [fancy (Rating), prix fixe menu (Amenity), lunch (Hours)]

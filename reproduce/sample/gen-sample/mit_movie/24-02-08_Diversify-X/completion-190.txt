@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a feel-good movie with a strong female lead and a great soundtrack?"
+   Named Entities: [feel-good (Viewers' Rating), strong female lead (Character), great soundtrack (Song)]
+
+2. Query: "What are some highly-rated movies from the 80s that are suitable for family viewing?"
+   Named Entities: [80s (Year), highly-rated (Review), family viewing (MPAA Rating)]
+
+3. Query: "Who directed the top-rated romantic comedy of the past decade?"
+   Named Entities: [top-rated (Review), romantic comedy (Genre), past decade (Year)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant in the area that takes reservations for dinner tonight?"
+Named Entities: [reservations (Amenity), dinner (Cuisine), tonight (Hours)]
+
+2. "What's the best Italian restaurant with outdoor seating and a prix fixe menu?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), prix fixe menu (Price)]
+
+3. "I'm looking for a family-friendly place with a playground and a diverse menu. Any suggestions?"
+Named Entities: [family-friendly (Amenity), playground (Amenity), diverse menu (Amenity)]

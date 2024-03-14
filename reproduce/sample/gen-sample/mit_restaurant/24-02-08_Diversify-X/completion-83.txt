@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a French cuisine?"
+Named Entities: [fine dining (Amenity), French cuisine (Cuisine)]
+
+2. "What are the operating hours for the upscale Italian restaurant in the downtown area?"
+Named Entities: [operating hours (Hours), upscale Italian restaurant (Restaurant Name), downtown area (Location)]
+
+3. "I'm looking for an expensive restaurant with a high rating and a waterfront location."
+Named Entities: [expensive (Price), high rating (Rating), waterfront location (Location)]

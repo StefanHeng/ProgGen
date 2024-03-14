@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a particularly engaging love triangle storyline?"
+Named Entities: [love triangle (Plot)]
+
+2. "I heard mixed reviews about the latest action film. Can you give me some details about its mediocre feedback?"
+Named Entities: [mixed reviews (Review), action film (Genre), mediocre feedback (Viewers' Rating)]
+
+3. "I'm in the mood for a martial arts movie. Can you suggest a recent one featuring a character similar to Thor?"
+Named Entities: [martial arts (Genre), Thor (Character)]

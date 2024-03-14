@@ -1,0 +1,8 @@
+Sentence: "Germany announces plans to invest in renewable energy projects in developing countries."
+Named Entities: [Germany (location)]
+
+Sentence: "United Nations urges ceasefire in conflict-torn region of Africa."
+Named Entities: [United Nations (organization), Africa (location)]
+
+Sentence: "Russian President meets with Chinese Premier to discuss trade and security agreements."
+Named Entities: [Russian President (person), Chinese Premier (person)]

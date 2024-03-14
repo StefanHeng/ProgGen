@@ -1,0 +1,8 @@
+1. Query: "Can you give me a quick overview of the plot for the latest action thriller film?"
+   Named Entities: [action thriller (Genre), latest (Year), plot overview (Plot)]
+
+2. Query: "What's the storyline for the highest rated animated movie of all time?"
+   Named Entities: [highest rated (Viewers' Rating), animated (Genre), storyline (Plot)]
+
+3. Query: "I'm curious, could you tell me the basic premise of the most recent romantic comedy?"
+   Named Entities: [most recent (Year), romantic comedy (Genre), basic premise (Plot)]

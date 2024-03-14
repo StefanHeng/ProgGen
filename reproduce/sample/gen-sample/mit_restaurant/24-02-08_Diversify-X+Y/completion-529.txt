@@ -1,0 +1,8 @@
+Query: "Where is the most popular café located?"
+Named Entities: [Most popular café (Amenity), located (Location)]
+
+Query: "Can you recommend the most popular café with a cozy ambience?"
+Named Entities: [most popular café (Amenity), cozy ambience (Amenity)]
+
+Query: "I'm craving some breakfast at the most popular café, do you have any suggestions?"
+Named Entities: [breakfast (Dish), most popular café (Amenity)]

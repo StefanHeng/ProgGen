@@ -1,0 +1,11 @@
+1. Sentence: "The {{Federal Reserve}}, commonly referred to as the Fed, plays a crucial role in regulating the nation's monetary policy and overseeing the banking system."
+Text Span: "Federal Reserve"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "In Hindu and {{Buddhist}} mythology, the Apsaras are celestial nymphs renowned for their beauty, grace, and musical talents, often depicted as the companions of gods and heavenly dancers."
+Text Span: "Buddhist"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "The analysis of the ancient pottery fragments uncovered at the dig site provided valuable insights into the {{trade networks}} and socio-economic structure of the ancient civilization, highlighting its interconnectedness with neighboring cultures."
+Text Span: "trade networks"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is other.

@@ -1,0 +1,8 @@
+1. Query: "I'm craving some Southern food, where can I find a good restaurant for that?"
+Named Entities: [Southern (Cuisine)]
+
+2. Query: "What regional cuisine options do you have for dinner tonight?"
+Named Entities: [regional (Cuisine), dinner (Amenity)]
+
+3. Query: "Can you recommend a restaurant with Southern dishes and a good rating?"
+Named Entities: [Southern (Cuisine), good (Rating)]

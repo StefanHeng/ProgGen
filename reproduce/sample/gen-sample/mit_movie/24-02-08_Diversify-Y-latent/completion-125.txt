@@ -1,0 +1,8 @@
+1. Query: "What is the movie Trinity's viewers' rating?"
+   Named Entities: [Trinity (Title), viewers' rating (Viewers' Rating)]
+
+2. Query: "When is the trailer release of the movie Touching Love Story?"
+   Named Entities: [Touching Love Story (Title), trailer release (Trailer)]
+
+3. Query: "Can you recommend a film with a touching love song?"
+   Named Entities: [touching love song (Song)]

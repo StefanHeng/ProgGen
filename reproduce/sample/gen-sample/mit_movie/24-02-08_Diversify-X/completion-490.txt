@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for a musical! Can you recommend a movie with a catchy soundtrack from the 1980s?"
+   Named Entities: [musical (Genre), 1980s (Year), catchy soundtrack (Song)]
+
+2. Query: "I'm looking for a feel-good movie with an uplifting song that will brighten my day. Can you suggest one that's family-friendly?"
+   Named Entities: [feel-good (Plot), uplifting song (Song), family-friendly (MPAA Rating)]
+
+3. Query: "I'm hosting a movie night and want to feature a film with a memorable love theme. Can you recommend a romantic movie from the 1990s?"
+   Named Entities: [memorable love theme (Song), romantic (Genre), 1990s (Year)]

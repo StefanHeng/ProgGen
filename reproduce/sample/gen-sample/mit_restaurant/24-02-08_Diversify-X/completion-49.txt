@@ -1,0 +1,8 @@
+Query: "are there any seafood food trucks nearby"
+Named Entities: [seafood (Cuisine), food trucks (Amenity), nearby (Location)]
+
+Query: "show me the highest rated pescatarian food truck in the area"
+Named Entities: [highest rated (Rating), pescatarian (Dietary restriction), food truck (Amenity), area (Location)]
+
+Query: "what are the operating hours for the fish taco food truck downtown"
+Named Entities: [operating hours (Hours), fish taco (Dish), food truck (Amenity), downtown (Location)]

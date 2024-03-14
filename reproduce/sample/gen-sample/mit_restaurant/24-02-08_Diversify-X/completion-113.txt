@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a 5-star rating?"
+Named Entities: [fine dining (Amenity), 5-star (Rating)]
+
+Query: "What are the operating hours for the French cuisine restaurant downtown?"
+Named Entities: [French cuisine (Cuisine), downtown (Location), operating hours (Hours)]
+
+Query: "I'm looking for a high-end restaurant with a seafood menu, preferably in the evening."
+Named Entities: [high-end (Price), seafood (Cuisine), evening (Hours)]

@@ -1,0 +1,8 @@
+Query: "Hey, are there any showtimes for the new James Bond movie?"
+Named Entities: [James Bond (Title)]
+
+Query: "Do you know if the new horror movie is playing tonight?"
+Named Entities: [horror (Genre)]
+
+Query: "Can I get tickets for the new Marvel movie at the theater near me?"
+Named Entities: [Marvel (Title)]

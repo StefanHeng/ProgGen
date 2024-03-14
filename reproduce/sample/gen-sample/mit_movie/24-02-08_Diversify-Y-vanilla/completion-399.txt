@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with astonishing visuals and a strong mystery plot?"
+Named Entities: [astonishing visuals (Review), mystery (Plot)]
+
+2. Query: "Who directed the spectacular sci-fi film that came out in 2010?"
+Named Entities: [spectacular (Review), sci-fi (Genre), 2010 (Year)]
+
+3. Query: "What movie with a mind-bending plot has the best viewers' rating?"
+Named Entities: [mind-bending (Plot), best viewers' rating (Review)]

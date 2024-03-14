@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of the movie where Angelica Huston played the role of the wicked witch opposite Dorothy Gale?"
+   Named Entities: [Angelica Huston (Actor), wicked witch (Character), Dorothy Gale (Character)]
+
+2. Query: "Could you recommend a good movie from the 1980s with Angelica Huston as the lead actress?"
+   Named Entities: [1980s (Year), Angelica Huston (Actor)]
+
+3. Query: "Show me a trailer from a fantasy film where Dorothy Gale is the main character."
+   Named Entities: [trailer (Trailer), fantasy (Genre), Dorothy Gale (Character)]

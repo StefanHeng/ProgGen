@@ -1,0 +1,8 @@
+1. "Yo, can you hook me up with a sneak peek of that new action flick with Dwayne Johnson?"
+Named Entities: [sneak peek (Trailer), action (Genre), Dwayne Johnson (Actor)]
+
+2. "Hey, what's the deal with that horror movie trailer everyone's talking about?"
+Named Entities: [horror (Genre), trailer (Trailer)]
+
+3. "I heard there's a new rom-com dropping soon, can I get a taste of the trailer?"
+Named Entities: [rom-com (Genre), taste (Trailer)]

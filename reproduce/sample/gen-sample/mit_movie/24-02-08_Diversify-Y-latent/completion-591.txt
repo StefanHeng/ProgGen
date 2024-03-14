@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies from 1973 directed by Steven Soderbergh that feature instrumental music?"
+Named Entities: [1973 (Year), Steven Soderbergh (Director), instrumental music (Genre)]
+
+2. Query: "I'm looking for a movie with a character similar to Leia Organa from Star Wars."
+Named Entities: [Leia Organa (Character), Star Wars (Title)]
+
+3. Query: "What movie has a memorable music score from the 80s?"
+Named Entities: [80s (Year), Music (Genre)]

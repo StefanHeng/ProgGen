@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any G-rated movies suitable for kids to watch?"
+Named Entities: [G (MPAA Rating), kids (Viewers' Rating)]
+
+2. Query: "Have you seen any decent movies with a thoughtful commentary on society recently?"
+Named Entities: [decent (Viewers' Rating), thoughtful commentary on society (Plot)]
+
+3. Query: "Is the new Harry Potter film worth watching?"
+Named Entities: [Harry Potter (Title), worth watching (Viewers' Rating)]

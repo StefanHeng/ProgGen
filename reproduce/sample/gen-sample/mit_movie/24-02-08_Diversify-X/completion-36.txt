@@ -1,0 +1,8 @@
+Query: "can you give me a brief summary of the film Inception"
+Named Entities: [Inception (Title), summary (Plot)]
+
+Query: "what is the storyline for the movie The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), storyline (Plot)]
+
+Query: "tell me about the plot of the action movie Mad Max: Fury Road"
+Named Entities: [Mad Max: Fury Road (Title), plot (Plot)]

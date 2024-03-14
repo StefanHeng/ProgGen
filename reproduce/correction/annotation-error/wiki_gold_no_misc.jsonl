@@ -1,0 +1,17 @@
+{"sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.", "span": "Dr. James E. Webb", "entity_type": "person"}
+{"sentence": "President of the United States is the head of state and head of government of the United States of America.", "span": "President of the United States", "entity_type": "person"}
+{"sentence": "In Greek mythology, Apollo was the god of music, poetry, art, oracles, archery, plague, medicine, sun, light, and knowledge.", "span": "Apollo", "entity_type": "person"}
+{"sentence": "The Mona Lisa is a famous painting created by Leonardo da Vinci.", "span": "Mona Lisa", "entity_type": "person"}
+{"sentence": "She is a well-known entrepreneur who has founded several successful companies in the tech industry.", "span": "entrepreneur", "entity_type": "person"}
+{"sentence": "The African elephant is the largest living terrestrial animal.", "span": "African", "entity_type": "location"}
+{"sentence": "According to the National Weather Service, Hurricane Katrina was the costliest natural disaster in the history of the United States.", "span": "Hurricane Katrina", "entity_type": "location"}
+{"sentence": "The new business park, located in the heart of the city, aims to attract both local and international companies looking to expand their presence in the region.", "span": "the city", "entity_type": "location"}
+{"sentence": "Sylvia Earle, an American marine biologist, has dedicated her life to the exploration and conservation of the world's oceans.", "span": "American", "entity_type": "organization"}
+{"sentence": "The director, Steven Spielberg, won an Academy Award for Best Director for his work on the film.", "span": "Academy Award", "entity_type": "organization"}
+{"sentence": "The film premiered at the Cannes Film Festival.", "span": "Cannes Film Festival", "entity_type": "organization"}
+{"sentence": "The 2020 Summer Olympics was postponed to 2021 due to the COVID-19 pandemic.", "span": "COVID-19", "entity_type": "organization"}
+{"sentence": "NASA's Artemis program aims to return humans to the Moon by 2024, with the goal of establishing a sustainable human presence on the lunar surface.", "span": "Artemis program", "entity_type": "organization"}
+{"sentence": "The Harry Potter series, produced by Warner Bros., has been a massive success worldwide.", "span": "Harry Potter", "entity_type": "organization"}
+{"sentence": "The Battle of Helm's Deep, a fictional battle in the novel The Two Towers by J.R.R. Tolkien, is one of the most iconic scenes in the book and its film adaptation.", "span": "The Two Towers", "entity_type": "organization"}
+{"sentence": "The Battle of Gettysburg was a significant turning point in the American Civil War.", "span": "American Civil War", "entity_type": "organization"}
+{"sentence": "The band released a music video for their latest single on YouTube, which quickly gained millions of views.", "span": "band", "entity_type": "organization"}

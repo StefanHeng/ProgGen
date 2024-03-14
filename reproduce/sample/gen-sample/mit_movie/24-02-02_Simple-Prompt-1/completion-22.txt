@@ -1,0 +1,149 @@
+1. What is the best action movie of all time?
+Named Entities: [best (Review), action (Genre)]
+
+2. Can you recommend a movie with a great soundtrack?
+Named Entities: [great soundtrack (Review)]
+
+3. Is there a 2010s film with a powerful female lead?
+Named Entities: [2010s (Year)]
+
+4. Can you find a famous movie with a surprise ending?
+Named Entities: [famous (Review), surprise ending (Plot)]
+
+5. What movie should I watch if I like Leonardo DiCaprio?
+Named Entities: [Leonardo DiCaprio (Actor)]
+
+6. Show me a movie with the highest Rotten Tomatoes rating.
+Named Entities: [highest Rotten Tomatoes rating (Review)]
+
+7. Recommend a comedy film from the 1990s.
+Named Entities: [comedy (Genre), 1990s (Year)]
+
+8. What movie did Meryl Streep win an Oscar for?
+Named Entities: [Meryl Streep (Actor), Oscar (Award)]
+
+9. Can you find a thriller with a plot twist?
+Named Entities: [thriller (Genre), plot twist (Plot)]
+
+10. Is there a movie coming out with Tom Hanks as the lead actor?
+Named Entities: [Tom Hanks (Actor)]
+
+11. What is the highest-grossing animated movie of all time?
+Named Entities: [highest-grossing (Review), animated (Genre)]
+
+12. Show me a sci-fi movie from the 1980s.
+Named Entities: [sci-fi (Genre), 1980s (Year)]
+
+13. Can you recommend a Steven Spielberg film with a memorable soundtrack?
+Named Entities: [Steven Spielberg (Director), memorable soundtrack (Review)]
+
+14. Is there a classic movie with Humphrey Bogart?
+Named Entities: [Humphrey Bogart (Actor), classic (Review)]
+
+15. What movie won the most Academy Awards?
+Named Entities: [most Academy Awards (Award)]
+
+16. Can you find a cult classic horror film?
+Named Entities: [cult classic (Review), horror (Genre)]
+
+17. What 1970s movie stars Al Pacino?
+Named Entities: [1970s (Year), Al Pacino (Actor)]
+
+18. Show me a romantic movie with a memorable love song.
+Named Entities: [romantic (Genre), memorable love song (Song)]
+
+19. Recommend a Quentin Tarantino film with a strong female character.
+Named Entities: [Quentin Tarantino (Director), strong female character (Character)]
+
+20. What is the lowest-rated movie on IMDB?
+Named Entities: [lowest-rated (Review)]
+
+21. Can you find a musical with a catchy soundtrack?
+Named Entities: [musical (Genre), catchy soundtrack (Song)]
+
+22. Is there a war movie from the 1950s?
+Named Entities: [war (Genre), 1950s (Year)]
+
+23. What Alfred Hitchcock film is considered a masterpiece?
+Named Entities: [Alfred Hitchcock (Director), masterpiece (Review)]
+
+24. Show me an indie film from the 2000s.
+Named Entities: [indie (Genre), 2000s (Year)]
+
+25. Recommend a buddy cop movie from the 1980s.
+Named Entities: [buddy cop (Genre), 1980s (Year)]
+
+26. What movie stars Audrey Hepburn and is set in Paris?
+Named Entities: [Audrey Hepburn (Actor), Paris (Location)]
+
+27. Can you find a romance movie with a bittersweet ending?
+Named Entities: [romance (Genre), bittersweet ending (Plot)]
+
+28. Is there a space-themed film directed by Christopher Nolan?
+Named Entities: [space-themed (Plot), Christopher Nolan (Director)]
+
+29. What is the most critically-acclaimed documentary?
+Named Entities: [most critically-acclaimed (Review), documentary (Genre)]
+
+30. Can you recommend a sports movie with an inspiring story?
+Named Entities: [sports (Genre), inspiring story (Plot)]
+
+31. Show me a coming-of-age film with a memorable soundtrack.
+Named Entities: [coming-of-age (Genre), memorable soundtrack (Song)]
+
+32. What is the highest-grossing superhero movie?
+Named Entities: [highest-grossing (Review), superhero (Genre)]
+
+33. Recommend a family-friendly animated film from the 1990s.
+Named Entities: [family-friendly (Review), animated (Genre), 1990s (Year)]
+
+34. Is there a courtroom drama with a surprising plot twist?
+Named Entities: [courtroom drama (Genre), surprising plot twist (Plot)]
+
+35. Can you find a film directed by Martin Scorsese and starring Robert De Niro?
+Named Entities: [Martin Scorsese (Director), Robert De Niro (Actor)]
+
+36. What movie has the most iconic movie quote of all time?
+Named Entities: [most iconic (Review)]
+
+37. Show me a coming-of-age film set in the 1980s.
+Named Entities: [coming-of-age (Genre), 1980s (Year)]
+
+38. Is there a biographical drama based on a famous musician?
+Named Entities: [biographical drama (Genre), famous musician (Character)]
+
+39. What is the best gangster movie according to critics?
+Named Entities: [best (Review), gangster (Genre)]
+
+40. Can you recommend a feel-good movie for a family movie night?
+Named Entities: [feel-good (Review), family (Genre)]
+
+41. Recommend a psychological thriller with an unexpected ending.
+Named Entities: [psychological thriller (Genre), unexpected ending (Plot)]
+
+42. What movie won the Palme d'Or at the Cannes Film Festival?
+Named Entities: [Palme d'Or (Award), Cannes Film Festival (Event)]
+
+43. Can you find a fantasy film with magical creatures?
+Named Entities: [fantasy (Genre)]
+
+44. Is there a political thriller directed by Oliver Stone?
+Named Entities: [political thriller (Genre), Oliver Stone (Director)]
+
+45. What 1960s film stars Audrey Hepburn and features a famous fashion icon?
+Named Entities: [1960s (Year), Audrey Hepburn (Actor)]
+
+46. Show me a Harrison Ford movie set in space.
+Named Entities: [Harrison Ford (Actor), space (Location)]
+
+47. Recommend a horror film with a chilling soundtrack.
+Named Entities: [horror (Genre), chilling soundtrack (Song)]
+
+48. What is the highest-rated foreign language film on Rotten Tomatoes?
+Named Entities: [highest-rated (Review), foreign language (Genre)]
+
+49. Can you find a Hitchcock film with a plot twist?
+Named Entities: [Hitchcock (Director), plot twist (Plot)]
+
+50. Is there a movie with a memorable villain character?
+Named Entities: [memorable villain character (Character)]

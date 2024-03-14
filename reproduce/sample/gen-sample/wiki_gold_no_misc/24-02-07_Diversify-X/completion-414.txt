@@ -1,0 +1,8 @@
+Sentence: "The United States Department of Defense is the largest employer in the world."
+Named Entities: [United States Department of Defense (organization)]
+
+Sentence: "General George Washington commanded the Continental Army during the American Revolutionary War."
+Named Entities: [George Washington (person), Continental Army (organization), American Revolutionary War (event)]
+
+Sentence: "The Naval Postgraduate School provides education and research specifically to support the needs of the United States Navy and other branches of the armed forces."
+Named Entities: [Naval Postgraduate School (organization), United States Navy (organization)]

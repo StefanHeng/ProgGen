@@ -1,0 +1,29 @@
+1. "What are the hours of operation for Burger King?"
+Named Entities: [Burger King (Restaurant Name), hours of operation (Hours)]
+
+2. "I want to try some authentic Italian pasta. Can you suggest a restaurant?"
+Named Entities: [Italian (Cuisine), pasta (Dish)]
+
+3. "Where can I find a fancy steakhouse with a good wine selection?"
+Named Entities: [fancy (Amenity), steakhouse (Cuisine), wine selection (Amenity)]
+
+4. "Is there a 24-hour diner in the area with reasonable prices?"
+Named Entities: [24-hour (Hours), diner (Amenity), reasonable prices (Price)]
+
+5. "Can you recommend a place with a great view of the city skyline for a romantic dinner?"
+Named Entities: [great view (Amenity), city skyline (Location), romantic (Amenity)]
+
+6. "I'm craving some spicy Mexican food. Any suggestions?"
+Named Entities: [spicy (Amenity), Mexican (Cuisine)]
+
+7. "What's the best sushi restaurant nearby?"
+Named Entities: [best (Rating), sushi (Cuisine)]
+
+8. "I'm looking for a budget-friendly vegetarian restaurant."
+Named Entities: [budget-friendly (Price), vegetarian (Cuisine)]
+
+9. "Is there a pub with a wide selection of craft beers in town?"
+Named Entities: [pub (Amenity), wide selection of craft beers (Amenity)]
+
+10. "Where can I grab a quick bite to eat on my lunch break?"
+Named Entities: [quick (Amenity), lunch break (Hours)]

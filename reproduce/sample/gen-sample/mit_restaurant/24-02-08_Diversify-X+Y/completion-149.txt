@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant close to the beach"
+Named Entities: [buffet (Amenity), close to the beach (Location)]
+
+Query: "Can you recommend a buffet restaurant that's close to the city center?"
+Named Entities: [buffet (Amenity), close to the city center (Location)]
+
+Query: "Where can I find a buffet restaurant nearby that's affordable?"
+Named Entities: [buffet (Amenity), nearby (Location), affordable (Price)]

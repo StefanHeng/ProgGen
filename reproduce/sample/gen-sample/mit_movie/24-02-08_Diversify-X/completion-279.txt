@@ -1,0 +1,8 @@
+Query: "Can you show me the trailer for the film Inception?"
+Named Entities: [trailer (Trailer), Inception (Title)]
+
+Query: "What type of movie genre is the trailer for the new Spider-Man movie?"
+Named Entities: [trailer (Trailer), Spider-Man (Title)]
+
+Query: "Is there a teaser for the upcoming James Bond movie?"
+Named Entities: [teaser (Trailer), James Bond (Character)]

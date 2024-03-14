@@ -1,0 +1,9 @@
+
+Sentence: In 1923, the famous Wembley Stadium was completed, becoming one of the most iconic sports venues in the world.
+Named Entities: [Wembley Stadium (location)]
+
+Sentence: The historic Wembley Stadium has hosted numerous significant sporting events, including the 1948 Summer Olympics and the 1966 FIFA World Cup final.
+Named Entities: [Wembley Stadium (location), 1948 Summer Olympics (event), 1966 FIFA World Cup (event)]
+
+Sentence: Many legendary athletes have competed at Wembley Stadium, such as Pele, Bobby Moore, and Diego Maradona.
+Named Entities: [Wembley Stadium (location), Pele (person), Bobby Moore (person), Diego Maradona (person)]

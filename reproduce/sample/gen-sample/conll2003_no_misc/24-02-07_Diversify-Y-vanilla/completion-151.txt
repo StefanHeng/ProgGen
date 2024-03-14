@@ -1,0 +1,8 @@
+1. "The president of Turkey held a press conference in Ankara."
+Named Entities: [president of Turkey (person), Ankara (location)]
+
+2. "Ankara sees record high temperatures as heatwave hits the city."
+Named Entities: [Ankara (location)]
+
+3. "The CEO of a major tech company in Ankara announced a new product launch."
+Named Entities: [CEO (person), tech company (organization), Ankara (location)]

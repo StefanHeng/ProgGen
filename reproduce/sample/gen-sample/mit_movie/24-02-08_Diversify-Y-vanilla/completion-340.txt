@@ -1,0 +1,8 @@
+Query: "Can you recommend a satisfying cult movie released in 1974"
+Named Entities: [satisfying (Viewers' Rating), cult (Genre), 1974 (Year)]
+
+Query: "I'm looking for a coming-of-age journey movie with a gothic theme"
+Named Entities: [coming-of-age journey (Plot), gothic (Genre)]
+
+Query: "Show me a teaser video for the movie Quest for treasure released in 2014"
+Named Entities: [teaser video (Trailer), quest for treasure (Title), 2014 (Year)]

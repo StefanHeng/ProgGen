@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant near Viale dei Romani with outdoor seating"
+Named Entities: [Viale dei Romani (Location), outdoor seating (Amenity)]
+
+Query: "what time does Viale dei Romani open for dinner"
+Named Entities: [Viale dei Romani (Restaurant Name), open for dinner (Hours)]
+
+Query: "i'm craving Italian food, is there a good Italian restaurant close to Viale dei Romani"
+Named Entities: [Italian (Cuisine), close to Viale dei Romani (Location), good (Rating)]

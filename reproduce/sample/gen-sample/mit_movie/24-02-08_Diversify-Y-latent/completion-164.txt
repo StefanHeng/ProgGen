@@ -1,0 +1,8 @@
+1. "Can you recommend a top-notch movie directed by Rob Marshall?"
+Named Entities: [Rob Marshall (Director), top-notch (Viewers' Rating)]
+
+2. "I'm looking for an engrossing film featuring Sandra Bullock."
+Named Entities: [Sandra Bullock (Actor), engrossing (Viewers' Rating)]
+
+3. "Show me a family animation with a song by a whole new world."
+Named Entities: [a whole new world (Song), family animation (Genre)]

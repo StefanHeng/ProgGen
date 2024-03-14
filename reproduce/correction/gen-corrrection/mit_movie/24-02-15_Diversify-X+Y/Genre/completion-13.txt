@@ -1,0 +1,11 @@
+1. Query: "Can you tell me the plot of a multilayered {{science fiction}} movie with a G rating?"
+Text Span: "science fiction"
+Label: (A). The span is a named entity of type movie genre
+
+2. Query: "I'm looking for a movie with a {{mature theme}}, something along the lines of a psychological thriller."
+Text Span: "mature theme"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+3. Query: "I want to watch a movie with Mark Wahlberg and some cool {{jazz}} music in it, do you have any suggestions?"
+Text Span: "jazz"
+Label: (A). The span is a named entity of type movie genre

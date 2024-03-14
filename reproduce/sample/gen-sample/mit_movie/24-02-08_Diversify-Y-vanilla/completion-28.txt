@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from 1984 directed by Francis Ford Coppola?"
+Named Entities: [1984 (Year), Francis Ford Coppola (Director)]
+
+2. "What is a popular film featuring the song Uptown Funk?"
+Named Entities: [Uptown Funk (Song)]
+
+3. "Show me a movie where the main character is a detective and it's rated R."
+Named Entities: [detective (Character), R (MPAA Rating)]

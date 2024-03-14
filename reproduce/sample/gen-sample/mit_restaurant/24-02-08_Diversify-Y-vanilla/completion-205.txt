@@ -1,0 +1,8 @@
+Query: "What are the popular area options for Italian restaurants in the city?"
+Named Entities: [Italian (Cuisine), Popular area (Location), city (Location)]
+
+Query: "I'm craving sushi, can you recommend any popular area sushi bars with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), Popular area (Location)]
+
+Query: "Where can I find a popular area bakery that opens before 7 am for breakfast pastries?"
+Named Entities: [bakery (Amenity), before 7 am (Hours), breakfast pastries (Dish), Popular area (Location)]

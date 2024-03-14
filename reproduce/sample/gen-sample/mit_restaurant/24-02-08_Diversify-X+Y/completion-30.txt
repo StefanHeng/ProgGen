@@ -1,0 +1,8 @@
+Query: "Do you know any waterfront restaurants with a good brunch menu?"
+Named Entities: [waterfront (Amenity), brunch (Cuisine)]
+
+Query: "What is the best place for a waterfront brunch in the area?"
+Named Entities: [waterfront (Amenity), brunch (Cuisine)]
+
+Query: "Can you recommend a waterfront restaurant that serves brunch?"
+Named Entities: [waterfront (Amenity), brunch (Cuisine)]

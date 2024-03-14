@@ -1,0 +1,8 @@
+1. Text Span: "community"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+2. Text Span: "United States Olympic & Paralympic Committee"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Coachella"
+Label: (A). The span is a named entity of type organization

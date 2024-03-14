@@ -1,0 +1,8 @@
+Query: "show me the nearest café with outdoor seating"
+Named Entities: [nearest (Location), café (Cuisine), outdoor seating (Amenity)]
+
+Query: "what's a highly rated café that serves breakfast all day"
+Named Entities: [highly rated (Rating), café (Cuisine), breakfast all day (Hours)]
+
+Query: "recommend a cozy café with free wifi and a vegan menu"
+Named Entities: [cozy (Amenity), free wifi (Amenity), café (Cuisine), vegan (Dish)]

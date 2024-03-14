@@ -1,0 +1,8 @@
+1. "Can you recommend any intimate restaurants with a high rating for dinner?"
+Named Entities: [intimate (Amenity), high rating (Rating), dinner (Cuisine)]
+
+2. "Where is the best place to have a romantic dinner with a view?"
+Named Entities: [romantic (Amenity), dinner (Cuisine), view (Amenity)]
+
+3. "What are the top-rated Italian restaurants for a quiet dinner date?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), quiet (Amenity), dinner (Cuisine)]

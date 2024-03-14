@@ -1,0 +1,8 @@
+Query: "I'm looking for a Mediterranean restaurant with breakfast options"
+Named Entities: [Mediterranean (Cuisine)]
+
+Query: "where can I find an affordable Mediterranean breakfast place with parking nearby"
+Named Entities: [Mediterranean (Cuisine), affordable (Price), parking (Amenity)]
+
+Query: "which breakfast spot around here serves Mediterranean dishes and has affordable prices and parking"
+Named Entities: [Mediterranean (Cuisine), affordable (Price), parking (Amenity)]

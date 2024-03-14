@@ -1,0 +1,8 @@
+1. "I'm not sure which movie to watch next, but I heard there's an international trailer for a film that has heart-pounding excitement. Can you show me some of it?"
+   Named Entities: [international trailer (Trailer), heart-pounding excitement (Review)]
+
+2. "I'm feeling undecided about what to watch, but have you heard anything about the disappointing reception of a Sherlock Holmes movie?"
+   Named Entities: [disappointing reception (Review), Sherlock Holmes (Title)]
+
+3. "I'm trying to decide on a movie, and I'm thinking about watching something directed by Martin Scorsese. Can you recommend a film with an impressive trailer?"
+   Named Entities: [Martin Scorsese (Director), impressive trailer (Trailer)]

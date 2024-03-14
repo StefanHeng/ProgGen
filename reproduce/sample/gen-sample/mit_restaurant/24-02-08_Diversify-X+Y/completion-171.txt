@@ -1,0 +1,8 @@
+1. "I'm craving some fish and chips, where can I get a discounted meal in the fast food category?"
+Named Entities: [fish and chips (Dish), discounted (Amenity), fast food (Cuisine), expensive (Price)]
+
+2. "Which fast food place around here offers a good deal on fish and chips for a pricey meal?"
+Named Entities: [fish and chips (Dish), good deal (Amenity), fast food (Cuisine), pricey (Price)]
+
+3. "Can you recommend a high-end fast food restaurant with a special on fish and chips?"
+Named Entities: [high-end (Price), fast food (Cuisine), fish and chips (Dish), special (Amenity)]

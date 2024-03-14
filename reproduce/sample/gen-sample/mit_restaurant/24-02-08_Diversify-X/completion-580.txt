@@ -1,0 +1,8 @@
+Query: "where can I find a food truck with vegan options in the downtown area"
+Named Entities: [food truck (Amenity), vegan options (Cuisine), downtown area (Location)]
+
+Query: "what food trucks are open for late night munchies"
+Named Entities: [food trucks (Amenity), late night (Hours)]
+
+Query: "show me a food truck with affordable prices and high ratings"
+Named Entities: [food truck (Amenity), affordable prices (Price), high ratings (Rating)]

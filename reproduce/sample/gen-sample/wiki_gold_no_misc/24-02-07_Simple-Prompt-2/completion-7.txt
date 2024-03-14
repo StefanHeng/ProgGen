@@ -1,0 +1,149 @@
+1. The Empire State Building is usually lit up with white lights.
+Named Entities: [Empire State Building (location)]
+
+2. The band Muse received a Grammy Award for Best Rock Album in 2016.
+Named Entities: [Muse (organization)]
+
+3. King George VI ruled the United Kingdom during World War II.
+Named Entities: [King George VI (person), United Kingdom (location), World War II (event)]
+
+4. The University of Cambridge is one of the oldest universities in the world.
+Named Entities: [University of Cambridge (organization)]
+
+5. She visited Paris, France last summer.
+Named Entities: [Paris (location), France (location)]
+
+6. The American Red Cross provides disaster relief and emergency assistance.
+Named Entities: [American Red Cross (organization)]
+
+7. Astronomer Carl Sagan is known for popularizing science in the mainstream.
+Named Entities: [Carl Sagan (person)]
+
+8. The Great Wall of China is visible from space.
+Named Entities: [Great Wall of China (location)]
+
+9. The World Health Organization declared COVID-19 a pandemic in March 2020.
+Named Entities: [World Health Organization (organization), COVID-19 (event)]
+
+10. Actress Meryl Streep has won three Academy Awards.
+Named Entities: [Meryl Streep (person)]
+
+11. He was born in London, England.
+Named Entities: [London (location), England (location)]
+
+12. The United Nations was established in 1945 after World War II.
+Named Entities: [United Nations (organization), World War II (event)]
+
+13. Author J.K. Rowling wrote the Harry Potter series.
+Named Entities: [J.K. Rowling (person), Harry Potter (organization)]
+
+14. The Taj Mahal is located in Agra, India.
+Named Entities: [Taj Mahal (location), Agra (location), India (location)]
+
+15. Valencia CF is a popular football club in Spain.
+Named Entities: [Valencia CF (organization), Spain (location)]
+
+16. The Mona Lisa is a famous painting by Leonardo da Vinci.
+Named Entities: [Mona Lisa (artwork), Leonardo da Vinci (person)]
+
+17. Michael Jordan is widely regarded as one of the greatest basketball players of all time.
+Named Entities: [Michael Jordan (person)]
+
+18. Lake Superior is the largest of the Great Lakes in North America.
+Named Entities: [Lake Superior (location), Great Lakes (location), North America (location)]
+
+19. The International Space Station is a collaborative project involving multiple countries.
+Named Entities: [International Space Station (organization)]
+
+20. Mount Everest is the tallest mountain in the world.
+Named Entities: [Mount Everest (location)]
+
+21. The Beatles were an influential music group from Liverpool, England.
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+
+22. Jane Austen was an English novelist known for her works like "Pride and Prejudice".
+Named Entities: [Jane Austen (person), England (location)]
+
+23. The Eiffel Tower is a famous landmark in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+24. Amnesty International is a global human rights organization.
+Named Entities: [Amnesty International (organization)]
+
+25. Beyoncé is a prominent singer and performer.
+Named Entities: [Beyoncé (person)]
+
+26. Neil Armstrong was the first person to walk on the moon.
+Named Entities: [Neil Armstrong (person)]
+
+27. The Statue of Liberty was a gift from France to the United States.
+Named Entities: [Statue of Liberty (location), France (location), United States (location)]
+
+28. Taylor Swift is a well-known pop singer.
+Named Entities: [Taylor Swift (person)]
+
+29. The Amazon Rainforest is the largest tropical rainforest in the world.
+Named Entities: [Amazon Rainforest (location)]
+
+30. Harvard University is a prestigious institution in the United States.
+Named Entities: [Harvard University (organization), United States (location)]
+
+31. Albert Einstein published the theory of general relativity in 1915.
+Named Entities: [Albert Einstein (person)]
+
+32. Buckingham Palace is the residence of the British monarch.
+Named Entities: [Buckingham Palace (location), British (organization)]
+
+33. Malala Yousafzai won the Nobel Peace Prize in 2014.
+Named Entities: [Malala Yousafzai (person), Nobel Peace Prize (organization)]
+
+34. The Colosseum is a historic amphitheater in Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+35. The Red Cross was founded in 1863 by Henry Dunant.
+Named Entities: [Red Cross (organization), Henry Dunant (person)]
+
+36. Leonardo da Vinci was a polymath known for his paintings like the "Mona Lisa".
+Named Entities: [Leonardo da Vinci (person), Mona Lisa (artwork)]
+
+37. Wimbledon is a famous tennis tournament in London.
+Named Entities: [Wimbledon (organization), London (location)]
+
+38. The Dalai Lama is the spiritual leader of Tibetan Buddhism.
+Named Entities: [Dalai Lama (person), Tibetan Buddhism (organization)]
+
+39. The Acropolis is a ancient citadel in Athens, Greece.
+Named Entities: [Acropolis (location), Athens (location), Greece (location)]
+
+40. UNICEF is a United Nations agency focused on children's rights.
+Named Entities: [UNICEF (organization), United Nations (organization)]
+
+41. Alexander Graham Bell invented the telephone.
+Named Entities: [Alexander Graham Bell (person)]
+
+42. The Louvre Museum is a famous art museum in Paris, France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+43. Aung San Suu Kyi is a political leader and Nobel laureate from Myanmar.
+Named Entities: [Aung San Suu Kyi (person), Nobel (organization), Myanmar (location)]
+
+44. The Vatican City is an independent city-state located in Rome, Italy.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+
+45. Amelia Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+Named Entities: [Amelia Earhart (person), Atlantic Ocean (location)]
+
+46. The Metropolitan Museum of Art is a renowned museum in New York City.
+Named Entities: [Metropolitan Museum of Art (organization), New York City (location)]
+
+47. The United Nations Environmental Program addresses environmental issues worldwide.
+Named Entities: [United Nations Environmental Program (organization)]
+
+48. Richard Nixon was the 37th President of the United States.
+Named Entities: [Richard Nixon (person), United States (location)]
+
+49. The Sydney Opera House is a famous performing arts center in Australia.
+Named Entities: [Sydney Opera House (location), Australia (location)]
+
+50. Marie Curie was a pioneering scientist in the field of radioactivity.
+Named Entities: [Marie Curie (person), radioactivity (organization)]

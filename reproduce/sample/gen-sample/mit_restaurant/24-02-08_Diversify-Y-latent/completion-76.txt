@@ -1,0 +1,8 @@
+1. "Can you recommend any Bon Appétit Best New Restaurants in the area?"
+Named Entities: [Bon Appétit Best New Restaurants (Amenity)]
+
+2. "What's the Google rating for the nearest sushi restaurant?"
+Named Entities: [Google rating (Rating), nearest (Location), sushi (Cuisine)]
+
+3. "I'm craving some authentic Italian cuisine, is there a place with reasonable prices around here?"
+Named Entities: [authentic Italian (Cuisine), reasonable prices (Price), around here (Location)]

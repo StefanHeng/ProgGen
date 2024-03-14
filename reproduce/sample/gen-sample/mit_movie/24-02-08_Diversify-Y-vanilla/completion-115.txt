@@ -1,0 +1,8 @@
+1. "Can you recommend any nostalgic G-rated films starring Uma Thurman that are in the Science Fiction genre?"
+Named Entities: [nostalgic (Viewers' Rating), G (MPAA Rating), Uma Thurman (Actor), Science Fiction (Genre)]
+
+2. "What is the plot of the film teaser for the new science fiction movie?"
+Named Entities: [film teaser (Trailer), science fiction (Genre)]
+
+3. "Is there a specific year that the best science fiction movie was released?"
+Named Entities: [best science fiction movie (Review)]

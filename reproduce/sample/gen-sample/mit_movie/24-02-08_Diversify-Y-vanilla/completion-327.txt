@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with outstanding animation?"
+Named Entities: [Outstanding animation (Genre)]
+
+2. "What is a movie with stunning visuals that came out in 2008?"
+Named Entities: [Stunning visuals (Genre), 2008 (Year)]
+
+3. "Show me a movie with a 4.2-star rating and family secrets"
+Named Entities: [4.2-star rating (Viewers' Rating), Family secrets (Plot)]

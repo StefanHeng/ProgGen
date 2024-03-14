@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any cult classic movies from the 1980s?"
+   Named Entities: [cult classic (Viewers' Rating), 1980s (Year)]
+
+2. Query: "Who directed the iconic sci-fi film Blade Runner and its sequel?"
+   Named Entities: [Blade Runner (Title), sequel (Plot), sci-fi (Genre)]
+
+3. Query: "I need a good G-rated movie for family movie night, any suggestions?"
+   Named Entities: [G-rated (MPAA Rating), family movie night (Viewers' Rating)]

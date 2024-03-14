@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with atmospheric scores that adds excitement to the scenes?"
+Named Entities: [atmospheric scores (Song), excitement (Review)]
+
+2. "I'm looking for a J-pop themed movie from the 1900s, can you help me find one?"
+Named Entities: [J-pop (Genre), 1900s (Year)]
+
+3. "Show me a movie with opera music and a plot set in the 1900s"
+Named Entities: [opera (Song), 1900s (Year)]

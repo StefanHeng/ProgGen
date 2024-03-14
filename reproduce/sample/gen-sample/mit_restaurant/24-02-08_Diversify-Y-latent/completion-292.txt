@@ -1,0 +1,8 @@
+Query: "What are the hours for Panda Express?"
+Named Entities: [Panda Express (Restaurant Name), hours (Hours)]
+
+Query: "I'm craving some orange chicken. Can you recommend a dish from Panda Express?"
+Named Entities: [orange chicken (Dish), Panda Express (Restaurant Name)]
+
+Query: "Do you know any restaurants similar to Panda Express in terms of cuisine and price range?"
+Named Entities: [Panda Express (Restaurant Name), cuisine (Cuisine), price range (Price)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of a movie with Alicia Vikander in it?"
+   Named Entities: [Alicia Vikander (Actor), plot (Plot)]
+
+2. "I'm so bored. Show me a clip from a Hayao Miyazaki movie."
+   Named Entities: [clip (Trailer), Hayao Miyazaki (Director)]
+
+3. "I need something to watch. Is 'The Circle of Life' part of a movie's plot?"
+   Named Entities: [The Circle of Life (Song), plot (Plot)]

@@ -1,0 +1,8 @@
+1. Text Span: "Mount Sinai"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Sinai Peninsula"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "English language"
+Label: (C). Wrong Type. The correct entity type is other.

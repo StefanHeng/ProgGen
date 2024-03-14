@@ -1,0 +1,25 @@
+{
+    "attribute2categories": {
+        "query-category": [
+            "Movie showtimes and ticket availability",
+            "Plot summary and synopsis",
+            "Cast and crew information",
+            "Movie reviews and ratings",
+            "Streaming platform availability",
+            "Soundtrack and music information",
+            "Behind-the-scenes and making-of details",
+            "Genre and subgenre classification",
+            "Movie trailers and teasers",
+            "Awards and nominations received"
+        ]
+    },
+    "meta": {
+        "dataset-name": "mit-movie",
+        "attributes": [
+            "query-category"
+        ],
+        "entity-sizes": {
+            "query-category": 10
+        }
+    }
+}

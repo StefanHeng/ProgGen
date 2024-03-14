@@ -1,0 +1,8 @@
+Query: "What are the operating hours of The Cheesecake Factory in downtown?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), downtown (Location), operating hours (Hours)]
+
+Query: "Can you recommend a sushi restaurant with a high rating?"
+Named Entities: [sushi (Cuisine), high rating (Rating)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a view of the ocean."
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

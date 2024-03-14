@@ -1,0 +1,8 @@
+Query: "Can you recommend any top-notch restaurants with outdoor seating for lunch?"
+Named Entities: [top-notch (Rating), outdoor seating (Amenity), lunch (Amenity)]
+
+Query: "I'm looking for a top-notch Italian restaurant with a lunch buffet, do you know any?"
+Named Entities: [top-notch (Rating), Italian (Cuisine), lunch buffet (Amenity)]
+
+Query: "Is there a top-notch seafood restaurant open for lunch with a waterfront view?"
+Named Entities: [top-notch (Rating), seafood (Cuisine), lunch (Amenity), waterfront view (Amenity)]

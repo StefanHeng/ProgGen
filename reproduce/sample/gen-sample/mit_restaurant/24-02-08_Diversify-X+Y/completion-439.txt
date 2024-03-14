@@ -1,0 +1,8 @@
+Query: "Can you suggest a romantic setting for a fine dining restaurant in the downtown area?"
+Named Entities: [romantic setting (Amenity), fine dining (Cuisine), downtown area (Location)]
+
+Query: "I'm looking for a fancy restaurant with a romantic setting that serves Italian cuisine, preferably with a high rating."
+Named Entities: [fancy (Price), romantic setting (Amenity), Italian cuisine (Cuisine), high rating (Rating)]
+
+Query: "What are some upscale restaurants known for their romantic setting and exceptional French cuisine?"
+Named Entities: [upscale (Price), romantic setting (Amenity), exceptional French cuisine (Cuisine)]

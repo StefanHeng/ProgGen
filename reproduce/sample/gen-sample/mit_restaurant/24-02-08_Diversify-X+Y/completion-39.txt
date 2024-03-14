@@ -1,0 +1,8 @@
+Query: "Where can I find an urban/chic café with a good menu around here"
+Named Entities: [urban/chic (Amenity), café (Cuisine)]
+
+Query: "I'm in the mood for some café food, maybe something like Intelligentsia Coffee"
+Named Entities: [café (Cuisine), Intelligentsia Coffee (Restaurant Name)]
+
+Query: "Is there a Taco Bell nearby with a cool vibe and good prices"
+Named Entities: [Taco Bell (Restaurant Name), cool vibe (Amenity), good prices (Price)]

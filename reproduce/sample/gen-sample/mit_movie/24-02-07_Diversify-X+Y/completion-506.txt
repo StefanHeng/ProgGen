@@ -1,0 +1,8 @@
+1. "Can you tell me about the movie highlights for a film directed by Alfred Hitchcock?"
+Named Entities: [Alfred Hitchcock (Director), highlights (Review)]
+
+2. "Do you have any information on the viewers' ratings for a movie from 1963?"
+Named Entities: [1963 (Year), viewers' ratings (Viewers' Rating)]
+
+3. "I'm curious to see some footage from a movie by Ryan Coogler, can you help me with that?"
+Named Entities: [Ryan Coogler (Director), footage (Trailer)]

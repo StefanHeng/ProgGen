@@ -1,0 +1,8 @@
+1. Text Span: "waterfront"
+   Label: (C). The span is a named entity but the category is not location (Amenity)
+
+2. Text Span: "view of the lake"
+   Label: (A). The span is a named entity of type location
+
+3. Text Span: "near the beach"
+   Label: (A). The span is a named entity of type location

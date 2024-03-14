@@ -1,0 +1,8 @@
+1. "What is the rating for the movie Inception?"
+Named Entities: [Inception (Title), rating (Viewers' Rating)]
+
+2. "Who directed the film Titanic?"
+Named Entities: [Titanic (Title), directed (Director)]
+
+3. "Can you recommend a thriller movie from the 1990s?"
+Named Entities: [thriller (Genre), 1990s (Year)]

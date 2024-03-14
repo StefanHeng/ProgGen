@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a Forbes Travel Guide rating?"
+Named Entities: [fine dining (Cuisine), Forbes Travel Guide rating (Rating)]
+
+Query: "I'm looking for an affordable fine dining experience with a Forbes Travel Guide recommendation."
+Named Entities: [affordable (Price), fine dining (Cuisine), Forbes Travel Guide recommendation (Rating)]
+
+Query: "Where can I find a fine dining restaurant that has been recognized by Forbes Travel Guide?"
+Named Entities: [fine dining (Cuisine), Forbes Travel Guide (Rating)]

@@ -1,0 +1,11 @@
+1. Query: "hey, can you play the {{trailer}} for the new Fast & Furious movie?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer
+
+2. Query: "Show me the {{trailer}} for the latest Tom Hanks film"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "Could you show me a {{preview}} for a new release that leaves something to the imagination?"
+Text Span: "preview"
+Label: (A). The span is a named entity of type trailer

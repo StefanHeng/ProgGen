@@ -1,0 +1,8 @@
+Query: "I'm craving mozzarella sticks, where can I find the best ones in town?"
+Named Entities: [mozzarella sticks (Dish), best (Rating), town (Location)]
+
+Query: "I need to find a restaurant that serves mozzarella sticks and is open past midnight"
+Named Entities: [mozzarella sticks (Dish), open past midnight (Hours)]
+
+Query: "Can you recommend a budget-friendly spot with delicious mozzarella sticks?"
+Named Entities: [budget-friendly (Price), delicious (Rating), mozzarella sticks (Dish)]

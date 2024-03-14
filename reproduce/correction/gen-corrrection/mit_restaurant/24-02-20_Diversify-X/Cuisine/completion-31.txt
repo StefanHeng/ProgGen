@@ -1,0 +1,8 @@
+1. Text Span: "variety of cuisines"
+Label: (C). The correct entity type is Amenity.
+
+2. Text Span: "vegetarian options"
+Label: (A). The span is a named entity of type cuisine.
+
+3. Text Span: "coffee"
+Label: (A). The span is a named entity of type cuisine.

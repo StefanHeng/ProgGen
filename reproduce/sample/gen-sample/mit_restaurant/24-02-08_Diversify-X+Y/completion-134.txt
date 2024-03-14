@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with waterfront views for dinner tonight?"
+Named Entities: [waterfront (Amenity), tonight (Hours)]
+
+2. "I'm craving some buffet options for dinner, where can I find a good buffet around here?"
+Named Entities: [buffet options (Amenity), dinner (Hours)]
+
+3. "I want to have afternoon tea at a nice place, any suggestions for restaurants with good afternoon tea menus for dinner?"
+Named Entities: [afternoon tea (Amenity), dinner (Hours)]

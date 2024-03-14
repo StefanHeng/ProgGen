@@ -1,0 +1,8 @@
+1. Query: "I'm craving French toast, where can I find a diner that serves it?"
+Named Entities: [French toast (Dish)]
+
+2. Query: "Istanbul is famous for its cuisine, can you recommend a Turkish restaurant in the area?"
+Named Entities: [Istanbul (Location), Turkish (Cuisine)]
+
+3. Query: "I need a budget-friendly restaurant with a good view of the sunset, any suggestions?"
+Named Entities: [budget-friendly (Price), sunset (Amenity)]

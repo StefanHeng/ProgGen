@@ -1,0 +1,8 @@
+1. "Where can I find exceptional dining near me?"
+Named Entities: [exceptional dining (Amenity), near me (Location)]
+
+2. "I'm in the mood for some Arancini, any recommendations?"
+Named Entities: [Arancini (Dish)]
+
+3. "Is there a Hawaiian restaurant with a good happy hour?"
+Named Entities: [Hawaiian (Cuisine), happy hour (Amenity)]

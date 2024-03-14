@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with vegan options in the downtown area?"
+Named Entities: [café (Amenity), vegan options (Cuisine), downtown area (Location)]
+
+Query: "What are the operating hours of the café called Brewed Awakening?"
+Named Entities: [café called Brewed Awakening (Restaurant Name), operating hours (Hours)]
+
+Query: "I'm looking for a café with outdoor seating and a relaxed atmosphere. Any suggestions?"
+Named Entities: [café (Amenity), outdoor seating (Amenity), relaxed atmosphere (Amenity)]

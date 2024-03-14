@@ -1,0 +1,8 @@
+1. "I'm craving some sushi, can you recommend a good sushi place nearby?"
+   Named Entities: [sushi (Cuisine), nearby (Location)]
+
+2. "What time does the Italian restaurant in downtown open for dinner?"
+   Named Entities: [Italian (Cuisine), downtown (Location), open for dinner (Hours)]
+
+3. "I'm looking for a fancy restaurant with outdoor seating and a view of the water."
+   Named Entities: [fancy (Rating), outdoor seating (Amenity), view of the water (Amenity)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a café with vegan options for lunch"
+Named Entities: [café (Amenity), vegan (Cuisine), lunch (Hours)]
+
+Query: "Can you recommend a café with outdoor seating for lunch?"
+Named Entities: [café (Amenity), outdoor seating (Amenity), lunch (Hours)]
+
+Query: "I need to find a café with a cozy atmosphere and good coffee for lunch"
+Named Entities: [café (Amenity), cozy atmosphere (Amenity), good coffee (Cuisine), lunch (Hours)]

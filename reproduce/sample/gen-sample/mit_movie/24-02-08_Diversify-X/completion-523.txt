@@ -1,0 +1,8 @@
+1. Spoken Query: "What are the showtimes for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title)]
+
+2. Spoken Query: "Is the movie Casablanca playing in theaters near me?"
+Named Entities: [Casablanca (Title)]
+
+3. Spoken Query: "Could you tell me if there are any available tickets for the movie Lawrence of Arabia?"
+Named Entities: [Lawrence of Arabia (Title)]

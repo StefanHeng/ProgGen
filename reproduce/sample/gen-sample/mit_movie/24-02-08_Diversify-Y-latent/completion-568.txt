@@ -1,0 +1,8 @@
+1. "What is the highest viewers' rated movie directed by JJ Abrams and starring Will Smith"
+Named Entities: [JJ Abrams (Director), highest viewers' rated (Viewers' Rating), Will Smith (Actor)]
+
+2. "Can you show me a trailer for the 2008 movie with Dory in it?"
+Named Entities: [Dory (Character), 2008 (Year), trailer (Trailer)]
+
+3. "What genre of movie did Martin Scorsese direct?"
+Named Entities: [Martin Scorsese (Director), genre (Genre)]

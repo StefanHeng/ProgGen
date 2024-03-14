@@ -1,0 +1,8 @@
+1. "Hey, I'm bored. Can you tell me if 'Zombieland' with Emma Stone is available on any streaming platforms?"
+   Named Entities: ['Zombieland' (Title), Emma Stone (Actor), Zombie outbreak (Plot), streaming platforms (Viewers' Rating)]
+
+2. "I need something to watch. Is there a romantic comedy movie starring Emma Stone that I can stream right now?"
+   Named Entities: [romantic comedy (Genre), Emma Stone (Actor), streaming (Viewers' Rating)]
+
+3. "I'm in the mood for a movie. Can you recommend a romantic comedy with a zombie outbreak theme that I can find on streaming platforms?"
+   Named Entities: [romantic comedy (Genre), zombie outbreak (Plot), streaming platforms (Viewers' Rating)]

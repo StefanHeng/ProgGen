@@ -1,0 +1,8 @@
+1. "Can you recommend a top-notch action movie directed by Paul Greengrass?"
+Named Entities: [top-notch (Viewers' Rating), Paul Greengrass (Director), action (Genre)]
+
+2. "What is the subgenre classification of Guardians of the Galaxy?"
+Named Entities: [Guardians of the Galaxy (Title)]
+
+3. "Are there any 1920s period dramas directed by Michael Bay?"
+Named Entities: [1920s (Year), Michael Bay (Director), period drama (Genre)]

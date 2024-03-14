@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies with above-average ratings from 2000-2010 directed by Barry Jenkins?"
+   Named Entities: [above-average ratings (Viewers' Rating), 2000-2010 (Year), Barry Jenkins (Director)]
+
+2. Query: "Is there a movie with a character named Jay Gatsby, and what genre does it belong to?"
+   Named Entities: [Jay Gatsby (Character)]
+
+3. Query: "I'm in the mood for a musical. Could you suggest a film with a song performed by Whitney Houston?"
+   Named Entities: [musical (Genre), Whitney Houston (Actor), song (Song)]

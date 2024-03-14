@@ -1,0 +1,8 @@
+Query: "I'm craving some spicy kimchi, where can I find a place that serves it?"
+Named Entities: [spicy (Amenity), kimchi (Dish)]
+
+Query: "What's the pricing like at Nando's?"
+Named Entities: [Nando's (Restaurant Name), pricing (Price)]
+
+Query: "I want to try Portuguese cuisine, are there any restaurants nearby that serve it?"
+Named Entities: [Portuguese (Cuisine)]

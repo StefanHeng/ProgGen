@@ -1,0 +1,8 @@
+1. "I'm looking for a brunch spot, maybe The Bagel Barn or The Blue Spoon?"
+   Named Entities: [brunch (Amenity), The Bagel Barn (Restaurant Name), The Blue Spoon (Restaurant Name)]
+
+2. "Where can I find a good place for brunch, like The Bagel Barn?"
+   Named Entities: [good (Rating), brunch (Amenity), The Bagel Barn (Restaurant Name)]
+
+3. "What are the brunch options at The Blue Spoon?"
+   Named Entities: [brunch (Amenity), The Blue Spoon (Restaurant Name)]

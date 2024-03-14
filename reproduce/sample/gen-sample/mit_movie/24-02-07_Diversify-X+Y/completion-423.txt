@@ -1,0 +1,8 @@
+1. "What genre and subgenre does a movie about superhuman powers fall under?"
+Named Entities: [superhuman powers (Plot)]
+
+2. "Can you suggest a Ridley Scott film that fits into the science fiction genre?"
+Named Entities: [Ridley Scott (Director), science fiction (Genre)]
+
+3. "Is The Notebook considered a romantic drama or a romantic comedy?"
+Named Entities: [The Notebook (Title), romantic drama (Genre), romantic comedy (Genre)]

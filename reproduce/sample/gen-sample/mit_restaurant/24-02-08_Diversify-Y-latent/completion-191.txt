@@ -1,0 +1,8 @@
+1. "I want to order some sushi for delivery, can you recommend a good place?"
+Named Entities: [sushi (Dish), delivery (Amenity), good (Rating)]
+
+2. "I'm craving Italian food, can you find a restaurant nearby with a patio?"
+Named Entities: [Italian (Cuisine), nearby (Location), patio (Amenity)]
+
+3. "What's the best place in town for a fancy dinner?"
+Named Entities: [best (Rating), fancy (Amenity)]

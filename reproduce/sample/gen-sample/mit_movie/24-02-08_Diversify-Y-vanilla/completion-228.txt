@@ -1,0 +1,8 @@
+Query: "can you recommend a film about the discovery of a new world like the one directed by Christopher Columbus"
+Named Entities: [discovery of a new world (Plot), Christopher Columbus (Director)]
+
+Query: "show me a movie that involves organized crime and is considered a classic"
+Named Entities: [organized crime (Plot), classic (Viewers' Rating)]
+
+Query: "is deadpool in any movies that were released in the 2000s"
+Named Entities: [deadpool (Character), 2000s (Year)]

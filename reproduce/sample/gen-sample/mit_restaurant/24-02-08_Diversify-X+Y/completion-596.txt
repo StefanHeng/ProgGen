@@ -1,0 +1,8 @@
+1. "Can you recommend a critically acclaimed restaurant with a romantic ambiance that serves Italian cuisine in the downtown area for dinner?"
+Named Entities: [critically acclaimed (Rating), romantic (Amenity), Italian (Cuisine), downtown area (Location), dinner (Hours)]
+
+2. "I'm looking for a highly-rated restaurant known for its upscale atmosphere and French cuisine to have dinner tonight."
+Named Entities: [highly-rated (Rating), upscale (Amenity), French (Cuisine), tonight (Hours)]
+
+3. "Find me a critically acclaimed restaurant with a cozy vibe and a varied menu of seafood dishes for a dinner reservation."
+Named Entities: [critically acclaimed (Rating), cozy (Amenity), seafood (Cuisine), dinner (Hours)]

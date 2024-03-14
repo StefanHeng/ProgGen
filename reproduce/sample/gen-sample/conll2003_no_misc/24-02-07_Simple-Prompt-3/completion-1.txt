@@ -1,0 +1,29 @@
+1. The CEO of Apple is expected to announce a new product next week.
+Named Entities: [Apple (organization)]
+
+2. London police arrest suspect in connection with the recent bank robbery.
+Named Entities: [London (location)]
+
+3. The famous actress will receive a lifetime achievement award at the upcoming film festival.
+Named Entities: []
+
+4. The United Nations issued a statement condemning the recent acts of aggression in the region.
+Named Entities: [United Nations (organization)]
+
+5. Russia launches new initiative to combat climate change.
+Named Entities: [Russia (location)]
+
+6. The renowned chef plans to open a new restaurant in Paris next year.
+Named Entities: [Paris (location)]
+
+7. The Prime Minister of Japan meets with world leaders to discuss economic cooperation.
+Named Entities: [Japan (location)]
+
+8. NASA announces plans for a manned mission to Mars in the next decade.
+Named Entities: [NASA (organization), Mars (location)]
+
+9. Facebook CEO testifies before Congress about the company's data privacy practices.
+Named Entities: [Facebook (organization), Congress (organization)]
+
+10. The mayor of New York City unveils a new plan to improve public transportation.
+Named Entities: [New York City (location)]

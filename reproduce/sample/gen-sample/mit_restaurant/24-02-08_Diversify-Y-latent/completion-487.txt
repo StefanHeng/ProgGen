@@ -1,0 +1,8 @@
+1. "Can you recommend any [Time Out's Best Restaurants] nearby that offer vegetarian dishes?"
+Named Entities: [Time Out's Best Restaurants (Cuisine), vegetarian dishes (Dish)]
+
+2. "What are the operating hours for [Time Out's Best Restaurants] in the downtown area?"
+Named Entities: [Time Out's Best Restaurants (Location), downtown area (Location), operating hours (Hours)]
+
+3. "I'm looking for a [Time Out's Best Restaurants] that serves high-quality seafood at a reasonable price. Any suggestions?"
+Named Entities: [Time Out's Best Restaurants (Cuisine), high-quality seafood (Dish), reasonable price (Price)]

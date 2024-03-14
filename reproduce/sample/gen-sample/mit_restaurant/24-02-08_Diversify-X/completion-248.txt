@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some street food, where can I find a good food truck nearby?"
+Named Entities: [street food (Cuisine), nearby (Location), food truck (Amenity)]
+
+Query: "what food trucks are open late tonight?"
+Named Entities: [open late tonight (Hours), food trucks (Amenity)]
+
+Query: "recommend a food truck with vegetarian options for lunch under 15 dollars"
+Named Entities: [vegetarian options (Cuisine), lunch (Amenity), under 15 dollars (Price), food truck (Amenity)]

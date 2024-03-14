@@ -1,0 +1,8 @@
+1. "I'm craving some superior quality Shawarma, where can I find the best in town?"
+Named Entities: [superior quality (Rating), Shawarma (Cuisine)]
+
+2. "Can you recommend a restaurant with Shawarma and a good atmosphere for a dinner date?"
+Named Entities: [Shawarma (Cuisine), dinner date (Amenity)]
+
+3. "What are the hours of the nearest restaurant that serves Shawarma?"
+Named Entities: [hours (Hours), Shawarma (Cuisine)]

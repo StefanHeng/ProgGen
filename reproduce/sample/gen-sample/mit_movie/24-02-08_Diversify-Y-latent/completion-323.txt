@@ -1,0 +1,8 @@
+1. "Show me a movie directed by Spike Lee that has a memorable plot"
+Named Entities: [Spike Lee (Director), memorable (Review)]
+
+2. "What movie from 2005-2010 features a song by David Bowie"
+Named Entities: [2005-2010 (Year), David Bowie (Song)]
+
+3. "Can you recommend a supernatural movie with impressive set design from the year 2000"
+Named Entities: [supernatural (Genre), set designer (Character), 2000 (Year)]

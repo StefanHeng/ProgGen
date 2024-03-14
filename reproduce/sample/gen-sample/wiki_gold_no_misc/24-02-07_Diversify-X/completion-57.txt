@@ -1,0 +1,8 @@
+Sentence: "The development of Western classical music can be traced back to the chants and hymns of the early Christian church."
+Named Entities: [Christian church (organization)]
+
+Sentence: "During the Baroque period, composers such as Johann Sebastian Bach and George Frideric Handel made significant contributions to the repertoire of Western classical music."
+Named Entities: [Johann Sebastian Bach (person), George Frideric Handel (person)]
+
+Sentence: "In the 20th century, the influence of jazz and blues on popular music led to the emergence of new genres such as rock and roll, transforming the landscape of music worldwide."
+Named Entities: [20th century (time)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a diverse menu and excellent ratings for takeout?"
+Named Entities: [fine dining (Price), diverse (Cuisine), excellent ratings (Rating), takeout (Amenity)]
+
+2. "I'm looking for a top-rated upscale restaurant with a wide selection of dishes available for takeout and delivery."
+Named Entities: [top-rated (Rating), upscale (Price), wide selection of dishes (Cuisine), takeout (Amenity), delivery (Amenity)]
+
+3. "Find me a high-end restaurant with a great ambiance and takeout options for a special occasion."
+Named Entities: [high-end (Price), great ambiance (Amenity), takeout (Amenity), special occasion (Amenity)]

@@ -1,0 +1,8 @@
+1. "Are there any showings for Ghostbusters in the next week?"
+Named Entities: [Ghostbusters (Title), showings (Query term)]
+
+2. "Can I see a teaser clip for a gripping Gothic movie from 1975-1980?"
+Named Entities: [Teaser clip (Trailer), gripping (Review), Gothic (Genre), 1975-1980 (Year)]
+
+3. "When You Wish Upon a Star, is there a movie suitable for pre-teens showing this weekend?"
+Named Entities: [When You Wish Upon a Star (Song), pre-teens (User demographic), showings (Query term)]

@@ -1,0 +1,11 @@
+1. Query: "What movie theme was composed by {{John Williams}}?"
+Text Span: "John Williams"
+Label: (C). The span is a named entity but the category is not song (Director)
+
+2. Query: "What {{song}} is featured in the movie The Graduate"
+Text Span: "song"
+Label: (D). Not a Named Entity
+
+3. Query: 'Can you play the song "{{Eye of the Tiger}}" from the movie Rocky'
+Text Span: "Eye of the Tiger"
+Label: (A). The span is a named entity of type song

@@ -1,0 +1,11 @@
+1. Sentence: "Emily Rodriguez appointed as new chief executive officer of {{Chicago}}-based tech company."
+Text Span: "Chicago"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{New York City}} Mayor announces plans for citywide clean energy initiative."
+Text Span: "New York City"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Local {{high school}} to host It Gets Better Project assembly"
+Text Span: "high school"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.

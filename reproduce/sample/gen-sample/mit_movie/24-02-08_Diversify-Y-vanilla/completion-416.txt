@@ -1,0 +1,8 @@
+Query: "what's going on with the new Ben Affleck movie"
+Named Entities: [Ben Affleck (Actor)]
+
+Query: "is Joker rated 8 out of 10 stars"
+Named Entities: [Joker (Title), 8 out of 10 stars (Viewers' Rating)]
+
+Query: "is Stairway to Heaven featured in the soundtrack of any movies"
+Named Entities: [Stairway to Heaven (Song)]

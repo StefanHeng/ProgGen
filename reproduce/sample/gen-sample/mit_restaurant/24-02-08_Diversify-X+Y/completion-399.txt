@@ -1,0 +1,8 @@
+Query: "I'm in the mood for sushi, where can I find a Japanese restaurant with a good lunch menu?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), lunch (Amenity)]
+
+Query: "I need a recommendation for a vegetarian-friendly restaurant with outdoor seating and a reasonable price for lunch"
+Named Entities: [vegetarian-friendly (Amenity), outdoor seating (Amenity), reasonable price (Price), lunch (Amenity)]
+
+Query: "I want to try some Indian cuisine for lunch, can you suggest a highly-rated place nearby?"
+Named Entities: [Indian (Cuisine), highly-rated (Rating), lunch (Amenity), nearby (Location)]

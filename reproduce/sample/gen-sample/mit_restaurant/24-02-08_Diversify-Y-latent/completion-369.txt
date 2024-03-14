@@ -1,0 +1,8 @@
+Query: "I'm craving sushi, is there a sushi restaurant that offers food delivery service?"
+Named Entities: [sushi (Cuisine), food delivery service (Amenity)]
+
+Query: "What are the opening hours of the nearest Thai restaurant?"
+Named Entities: [opening hours (Hours), nearest Thai restaurant (Location)]
+
+Query: "I want to have a nice dinner, can you recommend a high-rated Italian restaurant?"
+Named Entities: [nice dinner (Amenity), high-rated (Rating), Italian restaurant (Cuisine)]

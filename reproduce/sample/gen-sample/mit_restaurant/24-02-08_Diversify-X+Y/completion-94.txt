@@ -1,0 +1,8 @@
+Query: "I'm looking for a brunch spot near Sunny Side Cafe"
+Named Entities: [brunch (Amenity), Sunny Side Cafe (Restaurant Name), near (Location)]
+
+Query: "What time does Sunny Side Cafe start serving brunch?"
+Named Entities: [Sunny Side Cafe (Restaurant Name), serving brunch (Amenity)]
+
+Query: "Can you recommend any brunch places similar to Sunny Side Cafe?"
+Named Entities: [brunch (Amenity), similar to Sunny Side Cafe (Restaurant Name)]

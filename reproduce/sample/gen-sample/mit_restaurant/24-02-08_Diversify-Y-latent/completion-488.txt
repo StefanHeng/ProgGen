@@ -1,0 +1,8 @@
+1. "I'm in the mood for some delicious shawarma, where can I find a good shawarma place in town?"
+Named Entities: [shawarma (Cuisine)]
+
+2. "I've been craving Whataburger all day, can you recommend a Whataburger location that's open for breakfast?"
+Named Entities: [Whataburger (Restaurant Name), open for breakfast (Hours)]
+
+3. "I'm looking for a nice French restaurant for a special occasion, where can I find a highly-rated French restaurant in the area?"
+Named Entities: [French (Cuisine), highly-rated (Rating)]

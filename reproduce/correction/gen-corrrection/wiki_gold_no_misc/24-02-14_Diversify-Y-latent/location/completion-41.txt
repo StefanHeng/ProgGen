@@ -1,0 +1,11 @@
+1. Sentence: "The Pentagon is located in {{Arlington}}, Virginia."
+Text Span: "Arlington"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Edinburgh is the capital city of Scotland, and it is known for its historical and cultural attractions, including the {{Edinburgh}} Castle and the Royal Mile."
+Text Span: "Edinburgh"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The {{Galapagos Islands}} are located in the Pacific Ocean and are a part of Ecuador."
+Text Span: "Galapagos Islands"
+Label: (A). The span is a named entity of type location

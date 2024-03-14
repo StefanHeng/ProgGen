@@ -1,0 +1,8 @@
+1. "Are there any showtimes available for the latest Marvel movie?"
+Named Entities: [Marvel (Genre)]
+
+2. "Can I buy tickets for the new James Bond film?"
+Named Entities: [James Bond (Character)]
+
+3. "What time is the next screening for the movie directed by Christopher Nolan?"
+Named Entities: [Christopher Nolan (Director)]

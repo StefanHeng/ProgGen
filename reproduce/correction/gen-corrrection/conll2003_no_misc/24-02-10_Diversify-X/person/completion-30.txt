@@ -1,0 +1,11 @@
+1. Sentence: "{{Parents}} express concerns about the lack of funding for arts education in public schools."
+Text Span: "Parents"
+Label: (A)
+
+2. Sentence: "Fitness {{guru}} launches new line of athleisure wear for women."
+Text Span: "guru"
+Label: (D)
+
+3. Sentence: "{{8-year-old}} cancer survivor raises funds for children's hospital."
+Text Span: "8-year-old"
+Label: (B). The correct span boundary is "8-year-old cancer survivor"

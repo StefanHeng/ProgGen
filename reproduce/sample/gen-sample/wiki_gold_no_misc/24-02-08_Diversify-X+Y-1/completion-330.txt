@@ -1,0 +1,8 @@
+Sentence: "Cognac, France is renowned for its production of high-quality brandy, traditionally referred to as Cognac."
+Named Entities: [Cognac, France (location)]
+
+Sentence: "The art of distilling Cognac in France dates back to the 16th century, and today the region is home to numerous renowned Cognac producers."
+Named Entities: [France (location), Cognac (product)]
+
+Sentence: "The unique climate and terroir of Cognac, France contribute to the distinctive flavor profile of the region's eaux-de-vie, a key component in the production of Cognac."
+Named Entities: [Cognac, France (location)]

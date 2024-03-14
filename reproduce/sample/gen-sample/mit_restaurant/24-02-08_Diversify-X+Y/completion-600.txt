@@ -1,0 +1,8 @@
+Query: "Can you recommend any Chinese restaurants with paleo options for dinner?"
+Named Entities: [Chinese (Cuisine), paleo (Dietary Restriction), dinner (Amenity)]
+
+Query: "I'm looking for a mid-range restaurant from Time Out's Best Restaurants list for dinner tonight"
+Named Entities: [mid-range (Price), Time Out's Best Restaurants (Amenity), dinner (Amenity)]
+
+Query: "Where can I find a restaurant for dinner that offers paleo-friendly options and also serves afternoon tea?"
+Named Entities: [paleo (Dietary Restriction), dinner (Amenity), afternoon tea (Amenity)]

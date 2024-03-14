@@ -1,0 +1,8 @@
+1. Text Span: "dinner"
+   Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Text Span: "diverse"
+   Label: (D). Not a Named Entity.
+
+3. Text Span: "restaurant"
+   Label: (D). Not a Named Entity.

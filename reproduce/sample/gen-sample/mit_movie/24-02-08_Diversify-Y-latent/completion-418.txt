@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie from the independent film era that is as thrilling as Hotel California"
+Named Entities: [Hotel California (Song), thrilling (Genre), Independent film era (Genre)]
+
+Query: "What year did the movie Jai Ho come out and who directed it"
+Named Entities: [Jai Ho (Title), directed (Director)]
+
+Query: "Show me a movie with a character as iconic as Indiana Jones and a viewers' rating of at least 9"
+Named Entities: [Indiana Jones (Character), at least 9 (Viewers' Rating)]

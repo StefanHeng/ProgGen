@@ -1,0 +1,8 @@
+Query: "recommend a rustic buffet restaurant with halal options in the area"
+Named Entities: [rustic (Amenity), buffet (Cuisine), halal (Dietary Restriction)]
+
+Query: "find me a buffet place with a rustic atmosphere serving halal food"
+Named Entities: [buffet (Cuisine), rustic (Amenity), halal (Dietary Restriction)]
+
+Query: "I'm looking for a restaurant with a buffet that offers halal dishes and has a rustic vibe"
+Named Entities: [buffet (Cuisine), halal (Dietary Restriction), rustic (Amenity)]

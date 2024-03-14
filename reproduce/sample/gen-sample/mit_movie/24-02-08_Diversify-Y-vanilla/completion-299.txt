@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Animal Journey that was released in 1952?"
+   Named Entities: [Animal Journey (Title), 1952 (Year), Plot]
+
+2. Query: "Can you recommend a movie similar to Tangled?"
+   Named Entities: [Tangled (Title), similar (Genre)]
+
+3. Query: "Who directed the film 1952 and what is the viewers' rating for it?"
+   Named Entities: [1952 (Title), Director, Viewers' Rating]

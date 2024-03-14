@@ -1,0 +1,8 @@
+Query: "what is a good documentary to watch on the best streaming platform for this movie"
+Named Entities: [documentary (Genre), best streaming platform for this movie (Review)]
+
+Query: "can I find the movie The Terminator streamable on multiple platforms"
+Named Entities: [The Terminator (Title), streamable on multiple platforms (Review)]
+
+Query: "is there a supernatural movie with a high viewers' rating that came out in the 2000s"
+Named Entities: [supernatural (Genre), high viewers' rating (Viewers' Rating), 2000s (Year)]

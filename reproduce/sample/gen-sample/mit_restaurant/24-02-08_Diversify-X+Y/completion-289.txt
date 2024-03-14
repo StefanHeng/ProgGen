@@ -1,0 +1,8 @@
+Query: "show me fast food restaurants with chef's specials"
+Named Entities: [fast food (Cuisine), chef's specials (Amenity), Special offers (Amenity)]
+
+Query: "I'm looking for a place with special offers on fast food"
+Named Entities: [special offers (Amenity), fast food (Cuisine)]
+
+Query: "recommend a fast food restaurant with chef's specials"
+Named Entities: [fast food (Cuisine), chef's specials (Amenity), Special offers (Amenity)]

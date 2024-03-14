@@ -1,0 +1,8 @@
+1. "I'm craving BBQ Ribs, can you recommend any nearby restaurants that serve them?"
+Named Entities: [BBQ Ribs (Dish), nearby (Location)]
+
+2. "I'm in the mood for some authentic Honduran food, where can I find a restaurant that serves it?"
+Named Entities: [Honduran (Cuisine)]
+
+3. "I'm looking for a restaurant with a good happy hour menu, any suggestions?"
+Named Entities: [good (Rating), happy hour (Amenity)]

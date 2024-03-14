@@ -1,0 +1,11 @@
+1. Sentence: "The artist's work has been exhibited in galleries all over Europe, including the {{Tate Modern}} in London."
+Text Span: "Tate Modern"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The company was founded in 1911 and is headquartered in {{New York City}}, with offices in London, Paris, Tokyo, and Sydney."
+Text Span: "New York City"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Oxford University is the oldest university in the {{English-speaking}} world, and the second-oldest surviving university in the world."
+Text Span: "English-speaking"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

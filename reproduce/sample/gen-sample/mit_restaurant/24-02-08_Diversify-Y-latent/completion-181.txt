@@ -1,0 +1,8 @@
+1. "Do you know any restaurants in the area offering brunch coupons?"
+Named Entities: [brunch coupons (Amenity), area (Location)]
+
+2. "I'm looking for an expensive restaurant with a diverse menu, can you recommend one?"
+Named Entities: [expensive (Price), diverse menu (Amenity)]
+
+3. "Where can I find a restaurant that serves authentic Mexican cuisine for dinner tonight?"
+Named Entities: [authentic Mexican cuisine (Cuisine), dinner tonight (Hours)]

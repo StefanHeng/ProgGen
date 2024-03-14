@@ -1,0 +1,10 @@
+Synthetic Spoken Queries:
+
+1. "What is the well-developed plot of the movie La La Land?"
+   Named Entities: [La La Land (Title), well-developed (Plot)]
+
+2. "Could you show me a sizzle reel of a compelling movie with the song 'I Am a Man of Constant Sorrow'?"
+   Named Entities: [sizzle reel (Trailer), compelling (Review), I Am a Man of Constant Sorrow (Song)]
+
+3. "Is there a PG-rated movie that has a well-developed synopsis and was popular with middle-aged women?"
+   Named Entities: [PG (MPAA Rating), middle-aged women (Viewers' Rating)]

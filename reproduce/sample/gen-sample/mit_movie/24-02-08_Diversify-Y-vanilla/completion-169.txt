@@ -1,0 +1,8 @@
+1. Query: "What year was Mr. Incredible released?"
+   Named Entities: [Mr. Incredible (Title)]
+
+2. Query: "Can you recommend a movie that is raw and authentic?"
+   Named Entities: [raw and authentic (Review)]
+
+3. Query: "Who directed The Princess Bride and Rocky Balboa?"
+   Named Entities: [The Princess Bride (Title), Rocky Balboa (Title)]

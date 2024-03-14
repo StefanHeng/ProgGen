@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Zombie apocalypse movie directed by Jennifer Kent starring Margot Robbie?"
+Named Entities: [Zombie apocalypse (Genre), Jennifer Kent (Director), Margot Robbie (Actor)]
+
+2. Query: "Show me a Marielle Heller film released in 2019 with a high Viewers' Rating"
+Named Entities: [Marielle Heller (Director), 2019 (Year), high (Viewers' Rating)]
+
+3. Query: "What is the plot of the movie about the Zombie apocalypse featuring Jennifer Kent and Margot Robbie?"
+Named Entities: [Zombie apocalypse (Plot), Jennifer Kent (Director), Margot Robbie (Actor)]

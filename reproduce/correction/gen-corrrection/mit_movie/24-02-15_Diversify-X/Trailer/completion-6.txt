@@ -1,0 +1,11 @@
+1. Query: "Can I see the {{trailer}} for the new James Bond movie?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer
+
+2. Query: "Who directed the film Inception and can you show me some {{behind-the-scenes clips}}"
+Text Span: "behind-the-scenes clips"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: Other
+
+3. Query: "Can I see the {{trailer}} for the new high school musical movie?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer

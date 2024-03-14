@@ -1,0 +1,8 @@
+1. Text Span: "famous film critic"
+Label: (C). The correct entity type is other.
+
+2. Text Span: "Severus Snape"
+Label: (A). The span is a named entity of type character
+
+3. Text Span: "James P. Sullivan"
+Label: (B). The span contains a named character entity but the span boundary is not precise.

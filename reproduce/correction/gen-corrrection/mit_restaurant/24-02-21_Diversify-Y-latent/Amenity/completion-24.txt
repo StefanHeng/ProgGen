@@ -1,0 +1,8 @@
+1. Text Span: "restaurant"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "popular choice"
+Label: (D). Not a Named Entity.
+
+3. Text Span: "outdoor dining area"
+Label: (A). Correct Entity Annotation.

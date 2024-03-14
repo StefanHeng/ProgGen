@@ -1,0 +1,8 @@
+1. "I am looking for a breakfast spot that serves good coffee and pastries"
+Named Entities: [breakfast (Amenity), good (Rating), coffee (Dish), pastries (Dish)]
+
+2. "What are the hours for a nearby diner that serves breakfast all day?"
+Named Entities: [nearby (Location), diner (Restaurant Name), breakfast (Amenity), all day (Hours)]
+
+3. "Do you know of any place with a nice patio where I can have a leisurely breakfast?"
+Named Entities: [nice (Rating), patio (Amenity), breakfast (Amenity)]

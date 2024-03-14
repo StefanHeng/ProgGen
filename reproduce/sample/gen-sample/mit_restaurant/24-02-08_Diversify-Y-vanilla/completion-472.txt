@@ -1,0 +1,8 @@
+1. "What are the lunch hours for The Pizza Place?"
+Named Entities: [The Pizza Place (Restaurant Name), lunch hours (Hours)]
+
+2. "I'm looking for premium eateries in the area, any recommendations?"
+Named Entities: [premium eateries (Amenity)]
+
+3. "Can you suggest a restaurant with a diverse international cuisine selection and a high rating?"
+Named Entities: [diverse international cuisine (Cuisine), high rating (Rating)]

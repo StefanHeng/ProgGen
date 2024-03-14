@@ -1,0 +1,8 @@
+1. Text Span: "released"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "Golden Age of Hollywood"
+   Label: (C). The span is a named entity but the category is not year. Entity Type: other
+
+3. Text Span: "past decade"
+   Label: (B). The span contains a named year entity but the span boundary is not precise. The correct span boundary is "past decade".

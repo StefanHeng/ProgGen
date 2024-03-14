@@ -1,0 +1,8 @@
+1. "What slapstick comedies were released in 2019 that are considered must-see?"
+   Named Entities: [slapstick comedies (Genre), 2019 (Year), must-see (Viewers' Rating)]
+
+2. "Could you provide a movie snippet of the film 'Radioactive' released in 2019?"
+   Named Entities: ['Radioactive' (Title), 2019 (Year), movie snippet (Trailer)]
+
+3. "Is there a movie directed by Christopher Nolan in 2006 that received a high viewers' rating?"
+   Named Entities: [Christopher Nolan (Director), 2006 (Year), high viewers' rating (Viewers' Rating)]

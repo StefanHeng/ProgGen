@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Mulan that features the character Mushu?"
+Named Entities: [Mulan (Title), Mushu (Character)]
+
+2. Query: "Can you recommend a movie with spectacular visual effects and a powerful soundtrack, such as the song Reflection?"
+Named Entities: [spectacular visual effects (Review), Reflection (Song)]
+
+3. Query: "Who directed the action movie Rush Hour, and is it suitable for children under 13?"
+Named Entities: [Rush Hour (Title), children under 13 (MPAA Rating)]

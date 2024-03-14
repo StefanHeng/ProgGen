@@ -1,0 +1,8 @@
+Query: "I'm craving some good sushi for lunch, can you recommend any nearby places?"
+Named Entities: [sushi (Cuisine), lunch (Hours), nearby (Location)]
+
+Query: "I'm meeting a vegetarian friend for lunch, where can we find a place with a diverse menu?"
+Named Entities: [vegetarian (Cuisine), diverse (Amenity), lunch (Hours)]
+
+Query: "I'm looking for a cozy spot with outdoor seating for a lunch date, any suggestions?"
+Named Entities: [cozy (Amenity), outdoor seating (Amenity), lunch (Hours)]

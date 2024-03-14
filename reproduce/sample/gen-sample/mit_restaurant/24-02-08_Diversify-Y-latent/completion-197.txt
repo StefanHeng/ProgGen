@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants in Uptown that offer cooking classes on the weekend?"
+   Named Entities: [Uptown (Location), Weekend (Amenity), Cooking classes (Amenity)]
+
+2. "I'm craving some authentic Italian cuisine, any suggestions for a good Italian restaurant nearby?"
+   Named Entities: [Italian (Cuisine)]
+
+3. "What are the top-rated seafood restaurants in the area with outdoor seating and a view?"
+   Named Entities: [top-rated (Rating), seafood (Cuisine), outdoor seating (Amenity), view (Amenity)]

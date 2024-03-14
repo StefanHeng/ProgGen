@@ -1,0 +1,8 @@
+1. "Can you recommend a mid-priced restaurant in the area that serves Finnish cuisine?"
+Named Entities: [mid-priced (Price), Finnish (Cuisine)]
+
+2. "What are the hours for the closest Italian restaurant?"
+Named Entities: [closest (Location), Italian (Cuisine), hours (Hours)]
+
+3. "I'm craving sushi, where can I find a highly-rated sushi place?"
+Named Entities: [sushi (Cuisine), highly-rated (Rating)]

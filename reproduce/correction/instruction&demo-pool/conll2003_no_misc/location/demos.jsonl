@@ -1,0 +1,5 @@
+{"sentence": "The Prime Minister of Japan meets with world leaders to discuss economic cooperation.", "entity_span": "Japan", "label": "CORRECT"}
+{"sentence": "The European Union imposes sanctions on Russian officials over human rights abuses.", "entity_span": "Russian", "label": "WRONG_TYOE", "correct_type": "other"}
+{"sentence": "German Chancellor Angela Merkel meets with French President Macron.", "entity_span": "French", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "New restaurant to open in downtown area, bringing jobs and economic growth.", "entity_span": "downtown area", "label": "NA"}
+{"sentence": "Celebrities flock to Paris Fashion Week for the latest trends.", "entity_span": "Paris Fashion Week", "label": "WRONG_SPAN", "correct_span": "Paris"}

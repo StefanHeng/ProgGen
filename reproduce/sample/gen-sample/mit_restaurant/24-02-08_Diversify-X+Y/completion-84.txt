@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a fancy restaurant open late in this area?"
+Named Entities: [fancy (Rating), late (Hours), area (Location)]
+
+2. Query: "I'm in the mood for a luxury dining experience after midnight, any suggestions?"
+Named Entities: [luxury (Price), after midnight (Hours)]
+
+3. Query: "Where can I find upscale late-night dining with a diverse menu?"
+Named Entities: [upscale (Price), late-night dining (Amenity), diverse (Cuisine)]

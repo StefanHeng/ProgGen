@@ -1,0 +1,8 @@
+1. "Can you recommend an engrossing movie with a strong sport theme?"
+Named Entities: [engrossing (Viewers' Rating), Sport (Genre)]
+
+2. "Show me a movie featuring Spider-Man that has a captivating plot."
+Named Entities: [Spider-Man (Character), captivating (Plot)]
+
+3. "What is the best-rated movie released in the year 2010 about a crime thriller?"
+Named Entities: [2010 (Year), crime thriller (Genre), best-rated (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Could you recommend a movie directed by Sam Mendes that has a fantastical plot and is rated PG-13"
+Named Entities: [Sam Mendes (Director), fantastical (Genre), PG-13 (MPAA Rating)]
+
+2. "Is there a movie from the 1990-2000 era featuring the song 'Hotel California' and starring Salma Hayek"
+Named Entities: [1990-2000 (Year), Hotel California (Song), Salma Hayek (Actor)]
+
+3. "Can you provide me with a list of films with a rating of PG-13 and a captivating plot"
+Named Entities: [PG-13 (MPAA Rating)]

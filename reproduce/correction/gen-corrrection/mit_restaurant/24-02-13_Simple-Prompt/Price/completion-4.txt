@@ -1,0 +1,8 @@
+1. Text Span: "4-course prix fixe menu"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "price range"
+Label: (D). Not a Named Entity.
+
+3. Text Span: "prix fixe menu"
+Label: (C). Wrong Type. The correct entity type is Amenity.

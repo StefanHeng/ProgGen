@@ -1,0 +1,8 @@
+Query: "Can you give me a brief summary of the plot for The Social Network movie?"
+Named Entities: [The Social Network (Title), brief summary (Plot)]
+
+Query: "I'm looking for information on a movie with the song Old Time Rock and Roll, can you help me out?"
+Named Entities: [Old Time Rock and Roll (Song)]
+
+Query: "Do you have any information on an unrated movie plot that I might be interested in?"
+Named Entities: [unrated (MPAA Rating), plot (Plot)]

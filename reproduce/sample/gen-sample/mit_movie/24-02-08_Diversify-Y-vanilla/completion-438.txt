@@ -1,0 +1,8 @@
+1. Query: "What movie with Mel Gibson has a viewers' rating of 4.9 stars"
+   Named Entities: [Mel Gibson (Actor), 4.9 stars (Viewers' Rating)]
+
+2. Query: "Show me a movie from 1961 starring Robert Downey Jr. with the plot involving betrayal"
+   Named Entities: [1961 (Year), Robert Downey Jr. (Actor), Betrayal (Plot)]
+
+3. Query: "Is there a movie starring Scarlett Johansson with an announcement trailer"
+   Named Entities: [Scarlett Johansson (Actor), Announcement (Trailer)]

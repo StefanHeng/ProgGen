@@ -1,0 +1,8 @@
+1. "What gangster movies from 1962 are considered must-see?"
+Named Entities: [gangster (Genre), 1962 (Year), must-see (Viewers' Rating)]
+
+2. "Show me the final trailer of the movie with the song 'Eye of the Tiger'."
+Named Entities: [final trailer (Trailer), Eye of the Tiger (Song)]
+
+3. "What movies released in 2009 have a viewers' rating of 4.7 stars or higher?"
+Named Entities: [2009 (Year), 4.7 stars (Viewers' Rating)]

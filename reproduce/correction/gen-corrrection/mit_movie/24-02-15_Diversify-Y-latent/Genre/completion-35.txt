@@ -1,0 +1,8 @@
+1. Text Span: "mystery crime"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "action"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "original score"
+Label: (C). Wrong Type. The correct entity type is Song.

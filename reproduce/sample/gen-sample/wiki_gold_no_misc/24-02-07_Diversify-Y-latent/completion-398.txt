@@ -1,0 +1,8 @@
+1. With more than 60 sculptures, the park remains a popular destination for tourists and locals alike.
+Named Entities: []
+
+2. The university library contains over 2 million books, making it one of the largest collections in the region.
+Named Entities: [university (organization)]
+
+3. [The Euler Archive] contains a collection of Leonhard Euler's original works and modern Eulerian research. 
+Named Entities: [The Euler Archive (organization), Leonhard Euler (person)]

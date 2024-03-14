@@ -1,0 +1,8 @@
+1. Query: "Is Amy Adams starring in any romantic comedies that came out between 1950 and 1960?"
+Named Entities: [Amy Adams (Actor), romantic comedies (Genre), 1950-1960 (Year)]
+
+2. Query: "Show me a zombie apocalypse movie suitable for a general audience."
+Named Entities: [zombie apocalypse (Plot), general audience (MPAA Rating)]
+
+3. Query: "What is the release year of Blade Runner and its MPAA rating?"
+Named Entities: [Blade Runner (Title), release year (Year), MPAA rating (MPAA Rating)]

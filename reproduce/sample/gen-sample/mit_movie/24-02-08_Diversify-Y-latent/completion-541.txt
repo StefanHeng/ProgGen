@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for A Beautiful Mind"
+   Named Entities: [A Beautiful Mind (Title), viewers' rating (Viewers' Rating)]
+   
+2. Query: "Are there any movies from 2005 featuring Severus Snape"
+   Named Entities: [2005 (Year), Severus Snape (Character)]
+
+3. Query: "Who is the director of the movie The Dark Knight"
+   Named Entities: [The Dark Knight (Title), director (Director)]

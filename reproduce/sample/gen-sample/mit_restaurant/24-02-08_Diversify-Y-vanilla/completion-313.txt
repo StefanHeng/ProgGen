@@ -1,0 +1,8 @@
+1. "Where can I find excellent tacos in this area?"
+Named Entities: [excellent (Rating), Tacos (Dish), this area (Location)]
+
+2. "I need a recommendation for a restaurant with a timeout menu."
+Named Entities: [timeout (Amenity)]
+
+3. "Can you recommend a place with vegetarian options and outdoor seating?"
+Named Entities: [vegetarian (Cuisine), outdoor seating (Amenity)]

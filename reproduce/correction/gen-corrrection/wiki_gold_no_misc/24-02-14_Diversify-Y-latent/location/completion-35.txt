@@ -1,0 +1,11 @@
+1. Sentence: "Los Angeles International Airport, commonly referred to as LAX, is the primary airport serving the {{Los Angeles}} area."
+Text Span: "Los Angeles"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The {{Möbius strip}}, also called the twisted cylinder, is a one-sided nonorientable surface obtained by cutting a closed band into a single strip, giving one of the two ends thus produced a half twist, and then reattaching the two ends."
+Text Span: "Möbius strip"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Sentence: "{{Hong Kong}}, a special administrative region of China, has a highly developed capitalist economy and a highly efficient transportation system."
+Text Span: "Hong Kong"
+Label: (A). The span is a named entity of type location

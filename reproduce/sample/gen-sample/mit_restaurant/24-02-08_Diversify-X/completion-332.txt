@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck with Korean BBQ?"
+Named Entities: [Korean BBQ (Cuisine), food truck (Amenity)]
+
+2. "What food truck around here offers vegetarian options?"
+Named Entities: [vegetarian (Cuisine), food truck (Amenity)]
+
+3. "I'm in the mood for some tacos, where can I find a food truck that serves them?"
+Named Entities: [tacos (Dish), food truck (Amenity)]

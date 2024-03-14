@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a fast food restaurant with nut-free options"
+Named Entities: [fast food (Cuisine), nut-free (Amenity)]
+
+2. Query: "What are the hours of the nearest burger joint with nut-free choices"
+Named Entities: [nearest (Location), burger joint (Restaurant Name), nut-free (Amenity), hours (Hours)]
+
+3. Query: "Can you recommend a nut-free fast food spot with high ratings"
+Named Entities: [nut-free (Amenity), fast food (Cuisine), high ratings (Rating)]

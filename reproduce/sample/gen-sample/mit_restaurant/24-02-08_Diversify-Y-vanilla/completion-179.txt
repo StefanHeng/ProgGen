@@ -1,0 +1,8 @@
+Query: "I'm craving some good BBQ, where's the nearest place that serves it"
+Named Entities: [good (Rating), nearest (Location), BBQ (Cuisine)]
+
+Query: "Do you know of any banquet halls in the area that offer a diverse menu"
+Named Entities: [banquet hall (Amenity), diverse (Rating), area (Location)]
+
+Query: "I'm looking for a budget-friendly restaurant with a great selection of seafood dishes"
+Named Entities: [budget-friendly (Price), great selection (Amenity), seafood dishes (Dish)]

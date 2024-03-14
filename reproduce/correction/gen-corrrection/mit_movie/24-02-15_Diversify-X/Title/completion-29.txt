@@ -1,0 +1,8 @@
+1. Text Span: "Blade Runner"
+Label: (A). The span is a named entity of type title
+
+2. Text Span: "new James Bond"
+Label: (B). The span contains a named title entity but the span boundary is not precise. The correct span boundary is "James Bond"
+
+3. Text Span: "suggest a title"
+Label: (C). The span is a named entity but the category is not title. Entity Type: Other

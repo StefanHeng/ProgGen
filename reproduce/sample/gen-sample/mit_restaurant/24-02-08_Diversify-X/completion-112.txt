@@ -1,0 +1,8 @@
+1. "Do you know any place with a good brunch menu in the mid-range price range?"
+Named Entities: [brunch (Amenity), mid-range (Price)]
+
+2. "Can you recommend a restaurant with a nice brunch selection and a reasonable price?"
+Named Entities: [brunch (Amenity), reasonable price (Price)]
+
+3. "I'm looking for a mid-range restaurant that serves brunch, any suggestions?"
+Named Entities: [mid-range (Price), brunch (Amenity)]

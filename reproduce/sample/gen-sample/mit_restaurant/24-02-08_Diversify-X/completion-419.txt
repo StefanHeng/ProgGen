@@ -1,0 +1,8 @@
+1. "Where can I find some quick fast food with a drive-thru nearby?"
+Named Entities: [quick (Amenity), fast food (Cuisine), drive-thru (Amenity), nearby (Location)]
+
+2. "I'm in the mood for a cheap fast-casual meal, what's the best option around here?"
+Named Entities: [cheap (Price), fast casual (Amenity), best (Rating), around here (Location)]
+
+3. "Can you recommend a fast food place that offers vegetarian options?"
+Named Entities: [vegetarian (Dish), fast food (Cuisine)]

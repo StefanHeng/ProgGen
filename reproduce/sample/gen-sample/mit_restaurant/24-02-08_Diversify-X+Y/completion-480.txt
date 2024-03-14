@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with excellent service in the downtown area?"
+Named Entities: [fine dining (Cuisine), excellent service (Amenity), downtown area (Location)]
+
+Query: "I'm looking for a high-end restaurant known for its exceptional service and upscale ambience."
+Named Entities: [high-end (Price), exceptional service (Amenity), upscale ambience (Amenity)]
+
+Query: "Where can I find a top-rated fine dining restaurant with impeccable service and a diverse menu?"
+Named Entities: [top-rated (Rating), fine dining (Cuisine), impeccable service (Amenity), diverse menu (Amenity)]

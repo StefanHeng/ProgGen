@@ -1,0 +1,8 @@
+Query: "can you recommend a café with rave reviews"
+Named Entities: [rave reviews (Rating), café (Cuisine)]
+
+Query: "i'm looking for a café with a Gault Millau rating"
+Named Entities: [Gault Millau (Rating), café (Cuisine)]
+
+Query: "find me an economical café with great food"
+Named Entities: [economical (Price), café (Cuisine)]

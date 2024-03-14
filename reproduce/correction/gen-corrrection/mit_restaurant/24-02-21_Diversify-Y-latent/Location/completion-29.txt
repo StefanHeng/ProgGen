@@ -1,0 +1,8 @@
+1. Text Span: "Friday"
+   Label: (C). The span is not a named entity. Entity type: Hours
+
+2. Text Span: "Paris"
+   Label: (A). The span is a named entity of type location
+
+3. Text Span: "Main Street"
+   Label: (A). The span is a named entity of type location

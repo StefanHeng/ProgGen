@@ -1,0 +1,8 @@
+1. "Is the movie Grease considered a classic?"
+Named Entities: [Grease (Title), classic (Review)]
+
+2. "Can you tell me the viewers' rating for the film released in 1973?"
+Named Entities: [1973 (Year)]
+
+3. "Show me the trailer for a movie featuring the song You Shook Me All Night Long"
+Named Entities: [You Shook Me All Night Long (Song), trailer (Trailer)]

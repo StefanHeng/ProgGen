@@ -1,0 +1,5 @@
+1. Text Span: "best"
+Label: (B). The correct span boundary is "best action movie"
+
+2. Text Span: "famous"
+Label: (C). The correct entity type is Viewers' Rating.

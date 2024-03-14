@@ -1,0 +1,8 @@
+Query: "I'm looking for a café with a cozy ambiance in the shopping district"
+Named Entities: [café (Cuisine), cozy (Amenity), shopping district (Location)]
+
+Query: "Can you recommend a café with outdoor seating in the shopping district?"
+Named Entities: [café (Cuisine), outdoor seating (Amenity), shopping district (Location)]
+
+Query: "I want to find a café with good pastries and coffee in the shopping district"
+Named Entities: [café (Cuisine), good pastries (Dish), coffee (Dish), shopping district (Location)]

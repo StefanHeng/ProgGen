@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a PG-13 movie with Spider-Man as a character?"
+   Named Entities: [PG-13 (MPAA Rating), Spider-Man (Character)]
+
+2. Query: "Where can I find the teaser trailer for the new Spider-Man film?"
+   Named Entities: [teaser trailer (Trailer), Spider-Man (Title)]
+
+3. Query: "What is the viewers' rating for the most recent Spider-Man movie?"
+   Named Entities: [most recent (Year), Spider-Man (Title)]

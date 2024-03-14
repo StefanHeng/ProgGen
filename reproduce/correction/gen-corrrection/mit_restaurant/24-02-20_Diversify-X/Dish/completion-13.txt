@@ -1,0 +1,8 @@
+1. Text Span: "burger"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "quick bite"
+Label: (C). The span is a named entity but the category is not dish. The correct entity type is Cuisine.
+
+3. Text Span: "authentic tacos"
+Label: (A). The span is a named entity of type dish

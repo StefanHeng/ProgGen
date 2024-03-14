@@ -1,0 +1,8 @@
+1. "Can you recommend a brunch place with good ratings?"
+Named Entities: [brunch (Amenity), good ratings (Rating)]
+
+2. "I'm craving some Scandinavian food, can you find me a restaurant near Noma?"
+Named Entities: [Scandinavian food (Cuisine), near Noma (Location)]
+
+3. "What time does the Italian restaurant close tonight?"
+Named Entities: [Italian restaurant (Cuisine), close tonight (Hours)]

@@ -1,0 +1,8 @@
+1. "Can you recommend an outstanding fast food restaurant for tater tots?"
+   Named Entities: [Outstanding fast food restaurant (Rating), tater tots (Dish)]
+
+2. "I'm looking for a restaurant in close proximity that serves tater tots"
+   Named Entities: [close proximity (Location), tater tots (Dish)]
+
+3. "What's the best place in town for tater tots and where can I find it?"
+   Named Entities: [best (Rating), tater tots (Dish)]

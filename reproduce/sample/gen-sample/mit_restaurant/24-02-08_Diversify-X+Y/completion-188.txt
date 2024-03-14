@@ -1,0 +1,11 @@
+Query: "Where can I find a fast food restaurant with a good beverage station?"
+
+Named Entities: [fast food (Cuisine), Beverage station (Amenity)]
+
+Query: "I'm looking for a fast food place open after-hours"
+
+Named Entities: [fast food (Cuisine), after-hours (Hours)]
+
+Query: "Can you recommend a fast food restaurant with a great after-hours menu?"
+
+Named Entities: [fast food (Cuisine), after-hours (Amenity)]

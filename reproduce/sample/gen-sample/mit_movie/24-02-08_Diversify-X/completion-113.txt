@@ -1,0 +1,8 @@
+1. "I'm curious to learn about the creative process behind a classic movie that was quite influential. Can you provide insight into the making of this film?"
+   Named Entities: [classic movie (Title), influential (Viewers' Rating)]
+
+2. "I'm interested in finding out more about a film that has an intriguing backstory in terms of its production. Can you share some details about this?"
+   Named Entities: [intriguing backstory (Plot), production (Genre)]
+
+3. "I'd like to know about a movie that had a famous director known for their unique approach to filmmaking. Can you tell me more about this film and its behind-the-scenes dynamics?"
+   Named Entities: [famous director (Director), unique approach (Plot), behind-the-scenes (Genre)]

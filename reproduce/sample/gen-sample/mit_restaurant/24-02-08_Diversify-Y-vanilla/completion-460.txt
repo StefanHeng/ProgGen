@@ -1,0 +1,8 @@
+Query: "find a [Top-rated] Italian restaurant nearby"
+Named Entities: [Top-rated (Rating), Italian (Cuisine), nearby (Location)]
+
+Query: "what are the hours of the sushi place on 5th street"
+Named Entities: [sushi place (Cuisine), 5th street (Location), hours (Hours)]
+
+Query: "recommend a [Top-rated] seafood restaurant with outdoor seating"
+Named Entities: [Top-rated (Rating), seafood (Cuisine), outdoor seating (Amenity)]

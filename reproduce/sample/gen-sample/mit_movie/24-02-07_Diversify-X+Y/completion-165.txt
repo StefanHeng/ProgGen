@@ -1,0 +1,8 @@
+1. Query: "Can I find a movie with awe-inspiring cinematography featuring Denzel Washington on any streaming platform?"
+Named Entities: [Denzel Washington (Actor), awe-inspiring cinematography (Review)]
+
+2. Query: "Are there any movies with a refreshing concept available on streaming platforms that include Frodo Baggins as a character?"
+Named Entities: [refreshing concept (Plot), Frodo Baggins (Character)]
+
+3. Query: "I'm looking for a movie like Mary Poppins with Frodo Baggins, are there any available for streaming?"
+Named Entities: [Mary Poppins (Title), Frodo Baggins (Character)]

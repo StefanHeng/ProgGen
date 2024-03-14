@@ -1,0 +1,5 @@
+Query: "Can you recommend a Nordic restaurant nearby?"
+Named Entities: [Nordic (Cuisine), nearby (Location)]
+
+Query: "I'm in the mood for some Neighboring cuisine, where can I find that?"
+Named Entities: [Neighboring (Cuisine)]

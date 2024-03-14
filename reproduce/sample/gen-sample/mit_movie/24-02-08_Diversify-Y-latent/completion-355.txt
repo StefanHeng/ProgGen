@@ -1,0 +1,8 @@
+1. Query: "what is the viewers' rating for the movie NR"
+Named Entities: [NR (MPAA Rating)]
+
+2. Query: "what year did the movie The Matrix Reloaded come out"
+Named Entities: [The Matrix Reloaded (Title)]
+
+3. Query: "do you have any recommendations for a good action movie"
+Named Entities: [action (Genre), good (Viewers' Rating)]

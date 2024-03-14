@@ -1,0 +1,8 @@
+Sentence: "The Great Barrier Reef is the world's largest coral reef system, comprising over 2,900 individual reefs and 900 islands stretching over 2,300 kilometers."
+Named Entities: [The Great Barrier Reef (location)]
+
+Sentence: "The Sahara Desert is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic, with an area of about 9.2 million square kilometers."
+Named Entities: [The Sahara Desert (location)]
+
+Sentence: "The Amazon River is the largest river by discharge volume of water in the world, and the second longest river in the world, after the Nile River."
+Named Entities: [The Amazon River (location), the Nile River (location)]

@@ -1,0 +1,11 @@
+1. Sentence: "John Marshall is widely regarded as the most influential {{Chief Justice of the United States}}."
+Text Span: "Chief Justice of the United States"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "Julia Child was an American cooking teacher, author, and television personality, known for introducing French cuisine to the American public with her debut cookbook, {{Mastering the Art of French Cooking}}, and her subsequent television programs."
+Text Span: "Mastering the Art of French Cooking"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: 'Aretha Franklin, also known as the "Queen of Soul", was an {{American}} singer, songwriter, and pianist.'
+Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.

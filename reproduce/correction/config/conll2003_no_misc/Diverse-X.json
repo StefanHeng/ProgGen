@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "dataset_name": "conll2003-no-misc",
+        "source_dataset_dir_name": "24-02-07_NER-Dataset_{fmt=n-p2,#l=3,dc=T}",
+        "diversity_variant": "Diverse-X"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Only first names, last names, and full names are considered named person entities. Any general reference to a person or people such as \"chef\", \"CEO\" and \"woman\" is not a named entity. A named person entity should not have any starting titles such as \"President\" or \"Mayor\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "local hero saves drowning child from lake.",
+                    "entity_span": "local hero",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Mayor Smith unveils new community center in downtown area.",
+                    "entity_span": "Mayor Smith",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Smith",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Local high school student wins national science competition.",
+                    "entity_span": "high school student",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Authorities arrest three suspects in connection with bank robbery.",
+                    "entity_span": "suspects",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Any general reference to a location or locations such as \"city hall\", \"downtown\", \"major cities\" and \"bank\" is not a named entity. Specific references to a location or locations not assigned a name such as \"major airports\" and \"arts district\" are also not named entities. Hurricanes and other natural disasters are not named location entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "The Prime Minister of Japan meets with world leaders to discuss economic cooperation.",
+                    "entity_span": "Japan",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Local high school marching band to perform at prestigious music festival.",
+                    "entity_span": "high school",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "New restaurant to open in downtown area, bringing jobs and economic growth.",
+                    "entity_span": "downtown area",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Research reveals alarming levels of plastic pollution in the world's oceans, threatening marine life and ecosystems.",
+                    "entity_span": "world's oceans",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Any general reference to an organization such as \"high school\", \"city council\" and \"local community\" is not a named entity. Adjectives such as \"Chinese\" and \"European\" are also not named organization entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "local charity organization provides free meals to homeless population during holiday season.",
+                    "entity_span": "local charity organization",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Local non-profit organization provides free meals to homeless veterans.",
+                    "entity_span": "non-profit organization",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Researchers discover new exoplanet in habitable zone.",
+                    "entity_span": "Researchers",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Canadian government announces new immigration policies to attract more international students.",
+                    "entity_span": "Canadian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

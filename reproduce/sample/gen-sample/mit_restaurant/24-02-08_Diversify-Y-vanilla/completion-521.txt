@@ -1,0 +1,8 @@
+1. "Can you recommend a good domestic restaurant with a high rating?"
+Named Entities: [good (Rating), domestic (Cuisine)]
+
+2. "I'm looking for a Yelp-rated seafood restaurant with outdoor seating and a view."
+Named Entities: [Yelp-rated (Rating), seafood (Cuisine), outdoor seating (Amenity), view (Amenity)]
+
+3. "Where can I find a place with affordable prices and a variety of vegetarian dishes?"
+Named Entities: [affordable prices (Price), vegetarian dishes (Cuisine)]

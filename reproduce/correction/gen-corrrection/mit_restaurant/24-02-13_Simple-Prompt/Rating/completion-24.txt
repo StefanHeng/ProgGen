@@ -1,0 +1,8 @@
+1. Text Span: "good"
+   Label: (A). The span is a named entity of type rating
+
+2. Text Span: "best"
+   Label: (A). The span is a named entity of type rating
+
+3. Text Span: "good rating"
+   Label: (B). The span contains a named rating entity but the span boundary is not precise. The correct span boundary is "good rating".

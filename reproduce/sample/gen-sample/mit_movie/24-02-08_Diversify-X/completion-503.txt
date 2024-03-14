@@ -1,0 +1,10 @@
+
+
+Query: "What is the main genre and subgenre of the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title)]
+
+Query: "Can you provide the genre and subgenre details for the film Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director)]
+
+Query: "I am interested in knowing the genre and subgenre classifications for the movie The Dark Knight Rises."
+Named Entities: [The Dark Knight Rises (Title)]

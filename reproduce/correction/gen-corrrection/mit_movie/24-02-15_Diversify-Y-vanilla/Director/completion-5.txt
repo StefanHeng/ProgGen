@@ -1,0 +1,8 @@
+1. Text Span: "Chris Evans"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Actor
+
+2. Text Span: "Zhang Yimou"
+Label: (A). The span is a named entity of type director
+
+3. Text Span: "Chloé Zhao"
+Label: (A). The span is a named entity of type director

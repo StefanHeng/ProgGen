@@ -1,0 +1,8 @@
+1. Text Span: "Vietnam Veterans Memorial"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "President of the United States"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Boeing Space and Launch"
+Label: (A). The span is a named entity of type organization

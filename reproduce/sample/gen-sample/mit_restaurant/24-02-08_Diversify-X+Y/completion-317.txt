@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with waterfront views in this area?"
+Named Entities: [buffet (Cuisine), waterfront views (Amenity), area (Location)]
+
+2. "What are the top-rated buffet restaurants with waterfront views nearby?"
+Named Entities: [top-rated (Rating), buffet (Cuisine), waterfront views (Amenity), nearby (Location)]
+
+3. "I'm looking for a buffet restaurant by the waterfront that is affordable."
+Named Entities: [buffet (Cuisine), waterfront (Location), affordable (Price)]

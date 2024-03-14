@@ -1,0 +1,29 @@
+1. The company was founded in 1998 and is based in San Francisco, California.
+   Named Entities: [San Francisco (location), California (location)]
+
+2. The author of the article, John Smith, argues that the current political climate is ripe for change.
+   Named Entities: [John Smith (person)]
+
+3. The organization, Greenpeace, has been a vocal advocate for environmental protection for decades.
+   Named Entities: [Greenpeace (organization)]
+
+4. Mount Everest is the highest mountain in the world, with a peak reaching more than 29,000 feet above sea level.
+   Named Entities: [Mount Everest (location)]
+
+5. The CEO of the company, Mary Johnson, announced a new partnership with UNICEF to support children in need.
+   Named Entities: [Mary Johnson (person), UNICEF (organization)]
+
+6. The Great Wall of China, a UNESCO World Heritage Site, stretches over 13,000 miles across northern China.
+   Named Entities: [Great Wall of China (location), UNESCO (organization)]
+
+7. The president of the United States, Joe Biden, signed the bill into law last week.
+   Named Entities: [Joe Biden (person), United States (location)]
+
+8. Paris, France is known for its beautiful architecture and rich cultural heritage.
+   Named Entities: [Paris (location), France (location)]
+
+9. The article discusses the impact of climate change on the Amazon Rainforest, a vital ecological region.
+   Named Entities: [Amazon Rainforest (location)]
+
+10. The organization, Doctors Without Borders, provides medical aid to those in need around the world.
+    Named Entities: [Doctors Without Borders (organization)]

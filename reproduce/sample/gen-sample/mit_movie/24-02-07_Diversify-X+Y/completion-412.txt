@@ -1,0 +1,8 @@
+1. Query: "Hey, what's the deal with that movie from 2009 with the PG rating? Is it a survival story or what?"
+Named Entities: [2009 (Year), PG (MPAA Rating), Survival story (Genre)]
+
+2. Query: "I heard about this magnificent movie from 1998-2004, can you tell me if it's worth watching?"
+Named Entities: [1998-2004 (Year), magnificent (Review)]
+
+3. Query: "Have you seen the promotional video for Lulu Wang's latest film? It looks so intriguing!"
+Named Entities: [promotional video (Trailer), Lulu Wang (Director)]

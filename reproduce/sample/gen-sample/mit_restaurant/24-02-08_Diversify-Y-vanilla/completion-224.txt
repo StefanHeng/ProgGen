@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-rated Italian restaurant with outdoor seating in Silver Lake?"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), outdoor seating (Amenity), Silver Lake (Location)]
+
+2. "What are the operating hours for the seafood restaurant in Silver Lake?"
+Named Entities: [seafood (Cuisine), operating hours (Hours), Silver Lake (Location)]
+
+3. "I'm looking for a Mexican restaurant with affordable prices near Silver Lake."
+Named Entities: [Mexican (Cuisine), affordable prices (Price), Silver Lake (Location)]

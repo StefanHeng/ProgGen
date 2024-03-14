@@ -1,0 +1,11 @@
+1. Query: "What are the restaurant hours for {{Pizza Hut}}?"
+Text Span: "Pizza Hut"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What are the closing hours for {{Block}} restaurant?"
+Text Span: "Block"
+Label: (B). The span contains a restaurant name entity but the span boundary is not precise. The correct span boundary is "Block restaurant".
+
+3. Query: "What are the operating hours for {{The Brunch Box}} on Sundays?"
+Text Span: "The Brunch Box"
+Label: (A). The span is a named entity of type restaurant name

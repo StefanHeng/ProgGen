@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with parking that offers happy hour specials for dinner"
+Named Entities: [Parking (Amenity), happy hour specials (Amenity), dinner (Time)]
+
+Query: "Where can I find a restaurant with margherita pizza and fajitas for dinner"
+Named Entities: [margherita pizza (Dish), fajitas (Dish), dinner (Time)]
+
+Query: "I need a recommendation for a dinner place with good margherita pizza and fajitas and a parking lot"
+Named Entities: [margherita pizza (Dish), fajitas (Dish), dinner (Time), parking (Amenity)]

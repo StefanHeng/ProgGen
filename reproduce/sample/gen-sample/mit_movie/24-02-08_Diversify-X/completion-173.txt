@@ -1,0 +1,8 @@
+1. "Who directed the sci-fi film Interstellar, and what is its viewers' rating?"
+Named Entities: [Interstellar (Title), viewers' rating (Viewers' Rating), sci-fi (Genre)]
+
+2. "Can you provide me with the plot of the movie Inception and the name of the actor who played the lead role?"
+Named Entities: [Inception (Title), plot (Plot), actor (Actor)]
+
+3. "Show me the trailer for the film Titanic and tell me the name of the main character."
+Named Entities: [Titanic (Title), trailer (Trailer), main character (Character)]

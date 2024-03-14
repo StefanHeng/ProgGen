@@ -1,0 +1,8 @@
+1. "Can you recommend a suspenseful thriller from the 90s with a high Viewers' Rating?"
+   Named Entities: [suspenseful thriller (Genre), 90s (Year), high (Viewers' Rating)]
+
+2. "Who directed the action-packed blockbuster released in 2018 with a thrilling Plot?"
+   Named Entities: [action-packed blockbuster (Genre), 2018 (Year), thrilling (Plot)]
+
+3. "Show me a romantic movie from the 2000s with an iconic Song."
+   Named Entities: [romantic (Genre), 2000s (Year), iconic (Song)]

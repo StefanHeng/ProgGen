@@ -1,0 +1,8 @@
+Query: "I'm craving some hearty barbecue for dinner tonight"
+Named Entities: [barbecue (Cuisine), dinner (Amenity)]
+
+Query: "where's the best steakhouse with outdoor seating for dinner"
+Named Entities: [steakhouse (Restaurant Name), outdoor seating (Amenity), dinner (Amenity)]
+
+Query: "recommend a place with a relaxed atmosphere and live music for dinner"
+Named Entities: [relaxed atmosphere (Amenity), live music (Amenity), dinner (Amenity)]

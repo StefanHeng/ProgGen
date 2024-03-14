@@ -1,0 +1,8 @@
+Query: "What is the best Italian restaurant in the suburbs with outdoor seating"
+Named Entities: [Italian (Cuisine), best (Rating), in the suburbs (Location), outdoor seating (Amenity)]
+
+Query: "I'm in the mood for sushi, where can I find a place with a prix fixe menu before 7 pm"
+Named Entities: [sushi (Cuisine), prix fixe menu (Amenity), before 7 pm (Hours)]
+
+Query: "I need a restaurant with a kids menu and a play area for under 15 dollars per meal"
+Named Entities: [kids menu (Amenity), play area (Amenity), under 15 dollars per meal (Price)]

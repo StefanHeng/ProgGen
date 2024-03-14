@@ -1,0 +1,8 @@
+1. Text Span: "Character teaser"
+Label: (C). The span is a named entity but the category is not trailer. Correct Entity Type: Character
+
+2. Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

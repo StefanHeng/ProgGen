@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a lunch spot with good vegetarian options in Portland"
+Named Entities: [lunch (Amenity), good vegetarian options (Amenity), Portland (Location)]
+
+2. Query: "Can you recommend a Vietnamese restaurant in Portland with vegetarian lunch options"
+Named Entities: [Vietnamese (Cuisine), lunch (Amenity), vegetarian options (Amenity), Portland (Location)]
+
+3. Query: "What are the best Vietnamese lunch restaurants with vegetarian options in Portland"
+Named Entities: [Vietnamese (Cuisine), lunch (Amenity), vegetarian options (Amenity), Portland (Location)]

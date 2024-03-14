@@ -1,0 +1,8 @@
+Query: "can you recommend a halal café with a good dinner menu in Prague"
+Named Entities: [halal (Amenity), dinner (Amenity), Prague (Location)]
+
+Query: "I'm looking for a café with halal options for dinner in Prague"
+Named Entities: [halal (Amenity), dinner (Amenity), Prague (Location)]
+
+Query: "where can I find a halal café with dinner service in Prague"
+Named Entities: [halal (Amenity), dinner (Amenity), Prague (Location)]

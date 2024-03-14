@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a crime movie by Taika Waititi?"
+   Named Entities: [crime (Genre), Taika Waititi (Director)]
+
+2. Query: "I'm looking for an animated musical with a chandelier scene. Do you have any recommendations?"
+   Named Entities: [animated musical (Genre), chandelier (Plot)]
+
+3. Query: "What movie was awarded for its outstanding performances in the 1990s?"
+   Named Entities: [awarded for its outstanding performances (Review), 1990s (Year)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any exceptional private dining options in the area?"
+   Named Entities: [exceptional (Rating), private dining options (Amenity)]
+
+2. Query: "I'm craving some authentic Italian cuisine, where can I find a good spot for that?"
+   Named Entities: [authentic Italian (Cuisine), good (Rating)]
+
+3. Query: "What are the hours of operation for The Cheesecake Factory?"
+   Named Entities: [The Cheesecake Factory (Restaurant Name), hours of operation (Hours)]

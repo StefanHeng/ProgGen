@@ -1,0 +1,8 @@
+Query: "what is the average price for a meal at the best sushi restaurant in Dallas"
+Named Entities: [average price (Price), best sushi restaurant (Restaurant Name), Dallas (Location)]
+
+Query: "can you recommend a restaurant in San Francisco with a 4-star rating and great ambience"
+Named Entities: [4-star (Rating), great ambience (Amenity), San Francisco (Location)]
+
+Query: "where can I find a restaurant that serves authentic fish and chips for a reasonable price"
+Named Entities: [authentic fish and chips (Dish), reasonable price (Price)]

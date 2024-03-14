@@ -1,0 +1,100 @@
+1. New York City announces new public transportation initiative.
+Named Entities: [New York City (location)]
+2. Amazon to acquire MGM Studios for $8.45 billion.
+Named Entities: [Amazon (organization), MGM Studios (organization)]
+3. President Biden signs executive order on climate change.
+Named Entities: [President Biden (person)]
+4. Tokyo Olympics to be held without spectators.
+Named Entities: [Tokyo (location)]
+5. Apple unveils new iPhone with advanced camera technology.
+Named Entities: [Apple (organization)]
+6. Elon Musk's SpaceX launches new satellite into orbit.
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+7. Brazil surpasses 500,000 COVID-19 deaths.
+Named Entities: [Brazil (location)]
+8. Microsoft introduces new cybersecurity measures.
+Named Entities: [Microsoft (organization)]
+9. Famous actor Leonardo DiCaprio involved in charity fundraiser.
+Named Entities: [Leonardo DiCaprio (person)]
+10. European Union imposes sanctions on Belarus.
+Named Entities: [European Union (organization), Belarus (location)]
+11. World Bank approves $1 billion loan for sustainable energy projects.
+Named Entities: [World Bank (organization)]
+12. Serena Williams advances to Wimbledon final.
+Named Entities: [Serena Williams (person), Wimbledon (location)]
+13. California wildfires continue to rage, destroying thousands of acres.
+Named Entities: [California (location)]
+14. Facebook reveals plan to introduce new virtual reality technology.
+Named Entities: [Facebook (organization)]
+15. Angela Merkel elected as new head of European Central Bank.
+Named Entities: [Angela Merkel (person), European Central Bank (organization)]
+16. SpaceX founder Elon Musk becomes world's wealthiest person.
+Named Entities: [SpaceX (organization), Elon Musk (person)]
+17. South Korea reports surge in COVID-19 cases.
+Named Entities: [South Korea (location)]
+18. United Nations announces initiative to combat global poverty.
+Named Entities: [United Nations (organization)]
+19. Taylor Swift releases highly-anticipated album.
+Named Entities: [Taylor Swift (person)]
+20. Flooding in India displaces thousands of residents.
+Named Entities: [India (location)]
+21. Google faces antitrust lawsuit from European Union.
+Named Entities: [Google (organization), European Union (organization)]
+22. Prince Harry and Meghan Markle launch new charitable foundation.
+Named Entities: [Prince Harry (person), Meghan Markle (person)]
+23. London Stock Exchange experiences record gains.
+Named Entities: [London (location), Stock Exchange (organization)]
+24. Australian government pledges support for renewable energy initiatives.
+Named Entities: [Australian (location)]
+25. NBA superstar LeBron James signs new endorsement deal.
+Named Entities: [NBA (organization), LeBron James (person)]
+26. Hurricane devastates coastal communities in the Caribbean.
+Named Entities: [Caribbean (location)]
+27. Uber partners with local charities to provide free rides for healthcare workers.
+Named Entities: [Uber (organization)]
+28. Cardi B's new single reaches number one on the charts.
+Named Entities: [Cardi B (person)]
+29. Italy imposes new restrictions to curb rising COVID-19 infections.
+Named Entities: [Italy (location)]
+30. Twitter bans political advertisements ahead of upcoming elections.
+Named Entities: [Twitter (organization)]
+31. Anthony Fauci warns of potential surge in COVID-19 cases.
+Named Entities: [Anthony Fauci (person)]
+32. Russia sends aid to war-torn region of Ukraine.
+Named Entities: [Russia (location), Ukraine (location)]
+33. TaylorMade Golf Company to release new line of clubs.
+Named Entities: [TaylorMade Golf Company (organization)]
+34. Kenyan marathon runner sets new world record.
+Named Entities: [Kenyan (location)]
+35. Walmart introduces new sustainability initiative.
+Named Entities: [Walmart (organization)]
+36. Paris Fashion Week sees return of in-person runway shows.
+Named Entities: [Paris (location), Fashion Week (organization)]
+37. British Prime Minister Boris Johnson announces new infrastructure plan.
+Named Entities: [Boris Johnson (person)]
+38. SpaceX's Starship prototype successfully completes test flight.
+Named Entities: [SpaceX (organization)]
+39. Egypt and Sudan agree to joint infrastructure development project.
+Named Entities: [Egypt (location), Sudan (location)]
+40. Starbucks to open 500 new locations in China.
+Named Entities: [Starbucks (organization), China (location)]
+41. Adele's new album breaks streaming records.
+Named Entities: [Adele (person)]
+42. Australia experiences record-breaking heatwave.
+Named Entities: [Australia (location)]
+43. British Royal Family announces new charity initiative.
+Named Entities: [British Royal Family (organization)]
+44. Japanese electronics giant Sony to launch new gaming console.
+Named Entities: [Sony (organization), Japan (location)]
+45. Taylor Swift wins top honors at Grammy Awards.
+Named Entities: [Taylor Swift (person), Grammy Awards (organization)]
+46. Spain celebrates national soccer team's victory in championship.
+Named Entities: [Spain (location)]
+47. Twitter CEO Jack Dorsey steps down from position.
+Named Entities: [Twitter (organization), Jack Dorsey (person)]
+48. Germany experiences surge in renewable energy production.
+Named Entities: [Germany (location)]
+49. Apple Music to feature exclusive concert from popular R&B artist.
+Named Entities: [Apple Music (organization)]
+50. United Nations refugee agency provides aid to displaced families in Syria.
+Named Entities: [United Nations (organization), Syria (location)]

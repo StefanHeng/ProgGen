@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a compelling plot and a strong female lead?"
+Named Entities: [compelling plot (Plot), strong female lead (Character)]
+
+2. Query: "What movie from the 1990s has the highest viewers' rating?"
+Named Entities: [1990s (Year), highest viewers' rating (Viewers' Rating)]
+
+3. Query: "Who directed the romantic comedy film that came out in 2005 and received a PG-13 rating?"
+Named Entities: [romantic comedy (Genre), 2005 (Year), PG-13 (MPAA Rating)]

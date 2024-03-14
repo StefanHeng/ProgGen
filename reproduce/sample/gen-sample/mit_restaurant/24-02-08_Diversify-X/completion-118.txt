@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly restaurant with a variety of vegan options for lunch?"
+Named Entities: [budget-friendly (Price), vegan (Cuisine), lunch (Amenity)]
+
+2. "I'm looking for a place with outdoor seating and good ratings for a quick lunch"
+Named Entities: [outdoor seating (Amenity), good ratings (Rating), quick lunch (Amenity)]
+
+3. "Find a restaurant with a diverse menu and affordable prices for a casual lunch"
+Named Entities: [diverse menu (Amenity), affordable prices (Price), casual lunch (Amenity)]

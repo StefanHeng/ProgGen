@@ -1,0 +1,8 @@
+1. Query: "Unbelievable! Can you tell me the director of the movie Phantom Thread?"
+Named Entities: [Phantom Thread (Title), Paul Thomas Anderson (Director)]
+
+2. Query: "I heard there's a PG-rated movie considered the best movie of the year. Can you give me more details?"
+Named Entities: [PG (MPAA Rating), best movie of the year (Viewers' Rating)]
+
+3. Query: "What movie genre is Magnolia, directed by Paul Thomas Anderson?"
+Named Entities: [Magnolia (Title), Paul Thomas Anderson (Director)]

@@ -1,0 +1,8 @@
+1. "Where can I find the best French restaurant in the city?"
+   Named Entities: [best (Rating), French (Cuisine)]
+
+2. "Do you know any French places with a good happy hour deal?"
+   Named Entities: [French (Cuisine), happy hour (Amenity)]
+
+3. "Find me a highly-rated French restaurant with outdoor seating"
+   Named Entities: [highly-rated (Rating), French (Cuisine), outdoor seating (Amenity)]

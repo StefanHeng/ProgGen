@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good horror movie with a strong focus on psychological suspense?"
+   Named Entities: [horror (Genre), psychological suspense (Subgenre)]
+
+2. Query: "I'm looking for a romantic comedy from the 2000s with a diverse cast and strong LGBTQ+ representation. Any suggestions?"
+   Named Entities: [romantic comedy (Genre), 2000s (Year), diverse cast (Character), LGBTQ+ representation (Plot)]
+
+3. Query: "Do you have any action-adventure movies set in a post-apocalyptic world that feature a strong female lead?"
+   Named Entities: [action-adventure (Genre), post-apocalyptic world (Setting), strong female lead (Character)]

@@ -1,0 +1,8 @@
+Query: "Can you play the announcement trailer for the new Marvel movie directed by Chloé Zhao"
+Named Entities: [announcement trailer (Trailer), Chloé Zhao (Director), Marvel (Title)]
+
+Query: "What is the viewers' rating for the movie directed by Mike Leigh starring Al Pacino"
+Named Entities: [Mike Leigh (Director), Al Pacino (Actor), viewers' rating (Viewers' Rating)]
+
+Query: "Could you recommend a film noir with a low rating that has an advisory by Cathy Yan"
+Named Entities: [film noir (Genre), low rating (Viewers' Rating), advisory (MPAA Rating), Cathy Yan (Director)]

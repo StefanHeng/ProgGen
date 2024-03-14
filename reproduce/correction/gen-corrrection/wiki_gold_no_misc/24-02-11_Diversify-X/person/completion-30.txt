@@ -1,0 +1,8 @@
+1. Text Span: "Riemann"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Dr. James E. Webb"
+Label: (B). Wrong Boundary. The correct span boundary is "James E. Webb".
+
+3. Text Span: "Aristotle"
+Label: (A). Correct Entity Annotation.

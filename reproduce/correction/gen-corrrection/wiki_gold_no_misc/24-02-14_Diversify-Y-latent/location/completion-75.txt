@@ -1,0 +1,11 @@
+1. Sentence: "The World Health Organization declared that the spread of the {{COVID-19}} virus constitutes a public health emergency of international concern."
+Text Span: "COVID-19"
+Label: (D). The span is not a named entity
+
+2. Sentence: "The Battle of {{Gettysburg}} was a turning point in the American Civil War, fought in and around the town of Gettysburg, Pennsylvania."
+Text Span: "Gettysburg"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Dorothy Swaine Thomas, an {{American}} sociologist, was one of the first female sociologists to receive national recognition for her work."
+Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.

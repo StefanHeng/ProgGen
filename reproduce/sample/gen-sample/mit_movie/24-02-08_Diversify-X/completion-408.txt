@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of a thriller movie directed by Alfred Hitchcock?"
+Named Entities: [thriller (Genre), Alfred Hitchcock (Director)]
+
+2. Query: "I want to watch a film with a captivating storyline. Can you recommend a movie released in the 1990s with a strong female lead?"
+Named Entities: [1990s (Year), strong female lead (Character)]
+
+3. Query: "I'm looking for a movie with a complex narrative. Could you suggest a film featuring time travel or alternate realities?"
+Named Entities: [time travel (Plot)]

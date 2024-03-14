@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the latest Jordan Peele horror movie?"
+Named Entities: [Jordan Peele (Director), horror (Genre), latest (Year)]
+
+2. "Is The Blair Witch Project considered a classic in the horror movie genre?"
+Named Entities: [The Blair Witch Project (Title), classic (Viewers' Rating), horror (Genre)]
+
+3. "Show me a list of action movies with international espionage plots"
+Named Entities: [action (Genre), international espionage (Plot)]

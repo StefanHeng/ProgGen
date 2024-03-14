@@ -1,0 +1,11 @@
+1. Sentence: "The Hagia Sophia in {{Istanbul}}, originally a Greek Orthodox cathedral, later an Ottoman imperial mosque, and now a museum, is one of the most iconic landmarks in the city."
+Text Span: "Istanbul"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The headquarters of Nestle is located in {{Miami}}, Florida."
+Text Span: "Miami"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The famous punk rock musician Iggy Pop was born in {{Muskegon}}, Michigan."
+Text Span: "Muskegon"
+Label: (A). The span is a named entity of type location

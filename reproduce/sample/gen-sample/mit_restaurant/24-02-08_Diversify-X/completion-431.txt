@@ -1,0 +1,8 @@
+1. "Find a fast food restaurant with good seafood options"
+Named Entities: [fast food (Cuisine), seafood (Dish)]
+
+2. "I'm in the mood for a quick bite, where can I get a fish burger?"
+Named Entities: [quick bite (Amenity), fish burger (Dish)]
+
+3. "Is there a fast food place nearby that serves vegetarian-friendly seafood dishes?"
+Named Entities: [fast food (Cuisine), vegetarian-friendly (Amenity), seafood dishes (Dish)]

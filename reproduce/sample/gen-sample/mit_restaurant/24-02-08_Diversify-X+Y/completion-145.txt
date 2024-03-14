@@ -1,0 +1,8 @@
+1. Query: "Can you suggest a nice brunch place with a Brazilian cuisine and a kids menu?"
+Named Entities: [brunch (Amenity), Brazilian (Cuisine), kids menu (Amenity)]
+
+2. Query: "Where can I find an upscale restaurant serving frittata for brunch?"
+Named Entities: [upscale (Price), frittata (Dish), brunch (Amenity)]
+
+3. Query: "I'm looking for a fancy brunch spot with Brazilian dishes, do you know any?"
+Named Entities: [fancy (Rating), brunch (Amenity), Brazilian (Cuisine)]

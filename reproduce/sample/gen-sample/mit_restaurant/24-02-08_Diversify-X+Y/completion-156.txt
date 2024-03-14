@@ -1,0 +1,8 @@
+Query: "show me a budget-friendly vegan café in the area"
+Named Entities: [Budget-friendly (Price), vegan (Cuisine), café (Amenity)]
+
+Query: "which vegan café has the highest rating"
+Named Entities: [vegan (Cuisine), café (Amenity), highest (Rating)]
+
+Query: "can you recommend a budget-friendly café with vegan options for breakfast"
+Named Entities: [Budget-friendly (Price), vegan (Cuisine), breakfast (Amenity), café (Amenity)]

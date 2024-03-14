@@ -1,0 +1,8 @@
+Query: "What are some good Italian restaurants nearby for dinner?"
+Named Entities: [Italian (Cuisine), nearby (Location), dinner (Amenity), mid-range (Price)]
+
+Query: "Can you recommend a nice restaurant with outdoor seating for dinner tonight?"
+Named Entities: [nice (Rating), outdoor seating (Amenity), dinner (Amenity), tonight (Hours), mid-range (Price)]
+
+Query: "I'm craving sushi for dinner, where can I find a place with good quality and reasonable prices?"
+Named Entities: [sushi (Cuisine), good quality (Rating), reasonable prices (Price), dinner (Amenity), mid-range (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "variety of chicken wing flavors"
+Label: (B). The correct span boundary is "chicken wing flavors". 
+
+2. Text Span: "delicious pulled pork"
+Label: (A). The span is a named entity of type dish.
+
+3. Text Span: "dim sum"
+Label: (A). The span is a named entity of type dish.

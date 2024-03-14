@@ -1,0 +1,8 @@
+1. Query: "I'm curious about the director behind the scenes of the classic film Casablanca, what can you tell me about the person who made it?"
+   Named Entities: [Casablanca (Title), director (Director)]
+
+2. Query: "I'm interested in the making-of details of the movie Psycho, could you provide some insights into the person responsible for its creation?"
+   Named Entities: [Psycho (Title), making-of details (Plot)]
+
+3. Query: "I'd like to know more about the creative mind behind the making of The Godfather, what can you tell me about the person who directed it?"
+   Named Entities: [The Godfather (Title), creative mind (Director)]

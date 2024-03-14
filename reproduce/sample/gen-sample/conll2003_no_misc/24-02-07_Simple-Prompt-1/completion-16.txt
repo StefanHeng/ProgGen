@@ -1,0 +1,149 @@
+1. Apple Inc. announces new iPhone release.
+Named Entities: [Apple Inc. (organization)]
+
+2. President Biden visits the White House.
+Named Entities: [President Biden (person), White House (location)]
+
+3. Tokyo Olympics to be held without spectators.
+Named Entities: [Tokyo (location)]
+
+4. Amazon launches new delivery drone program.
+Named Entities: [Amazon (organization)]
+
+5. CEO Elon Musk unveils plans for Mars colonization.
+Named Entities: [Elon Musk (person), Mars (location)]
+
+6. United Nations calls for ceasefire in the Middle East.
+Named Entities: [United Nations (organization), Middle East (location)]
+
+7. New York City imposes vaccine mandate for indoor activities.
+Named Entities: [New York City (location)]
+
+8. Xerox Corporation reports record profits for the quarter.
+Named Entities: [Xerox Corporation (organization)]
+
+9. British Prime Minister Johnson tests positive for COVID-19.
+Named Entities: [British Prime Minister Johnson (person)]
+
+10. Google announces expansion of data center in Texas.
+Named Entities: [Google (organization), Texas (location)]
+
+11. European Union approves new trade agreement with Canada.
+Named Entities: [European Union (organization), Canada (location)]
+
+12. SpaceX successfully launches communication satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+13. Russian President Putin meets with Chinese President Xi Jinping.
+Named Entities: [Russian President Putin (person), Chinese President Xi Jinping (person)]
+
+14. London Stock Exchange experiences record trading volume.
+Named Entities: [London Stock Exchange (organization)]
+
+15. Microsoft acquires artificial intelligence startup for $1 billion.
+Named Entities: [Microsoft (organization)]
+
+16. Florida Governor DeSantis signs controversial voting rights bill.
+Named Entities: [Florida (location), Governor DeSantis (person)]
+
+17. Paris Agreement reaches milestone with new signatory countries.
+Named Entities: [Paris Agreement (organization), Paris (location)]
+
+18. CEO of Coca-Cola announces retirement after 30 years with the company.
+Named Entities: [Coca-Cola (organization)]
+
+19. Australian Prime Minister Morrison addresses climate change at G7 summit.
+Named Entities: [Australian Prime Minister Morrison (person), G7 (organization)]
+
+20. Bank of America introduces new sustainable investing initiative.
+Named Entities: [Bank of America (organization)]
+
+21. Los Angeles Lakers sign top draft pick to multi-year contract.
+Named Entities: [Los Angeles Lakers (organization)]
+
+22. WHO declares global pandemic due to new virus strain.
+Named Entities: [WHO (organization)]
+
+23. Tokyo Disneyland reopens after extended closure.
+Named Entities: [Tokyo Disneyland (organization), Tokyo (location)]
+
+24. CEO Mark Zuckerberg testifies before Congress on data privacy.
+Named Entities: [Mark Zuckerberg (person)]
+
+25. New Zealand Prime Minister Ardern announces economic stimulus package.
+Named Entities: [New Zealand (location), Prime Minister Ardern (person)]
+
+26. Reuters to lay off 10% of workforce in cost-cutting measure.
+Named Entities: [Reuters (organization)]
+
+27. NBA Finals to be held in Phoenix for the first time.
+Named Entities: [NBA (organization), Phoenix (location)]
+
+28. South Korean President Moon Jae-in meets with North Korean leader Kim Jong-un.
+Named Entities: [South Korean President Moon Jae-in (person), North Korean (location), Kim Jong-un (person)]
+
+29. Goldman Sachs predicts 3% GDP growth for the next fiscal year.
+Named Entities: [Goldman Sachs (organization)]
+
+30. Spotify reaches 200 million paid subscribers milestone.
+Named Entities: [Spotify (organization)]
+
+31. Seattle Seahawks quarterback Russell Wilson signs record-breaking contract extension.
+Named Entities: [Seattle Seahawks (organization), Russell Wilson (person)]
+
+32. Food and Drug Administration approves new cancer treatment drug.
+Named Entities: [Food and Drug Administration (organization)]
+
+33. Brazilian President Bolsonaro faces impeachment proceedings.
+Named Entities: [Brazilian President Bolsonaro (person)]
+
+34. World Health Organization issues travel advisory for Southeast Asia.
+Named Entities: [World Health Organization (organization), Southeast Asia (location)]
+
+35. JP Morgan Chase CEO Jamie Dimon undergoes emergency surgery.
+Named Entities: [JP Morgan Chase (organization), Jamie Dimon (person)]
+
+36. G20 Summit concludes with new global economic recovery plan.
+Named Entities: [G20 (organization)]
+
+37. Hong Kong protests escalate as China imposes new security law.
+Named Entities: [Hong Kong (location), China (location)]
+
+38. IBM launches quantum computing research center in Switzerland.
+Named Entities: [IBM (organization), Switzerland (location)]
+
+39. Uber to expand services to rural communities in the United States.
+Named Entities: [Uber (organization), United States (location)]
+
+40. Australian Open tennis tournament to allow limited fan attendance.
+Named Entities: [Australian Open (organization)]
+
+41. San Francisco-based tech company raises $100 million in new funding round.
+Named Entities: [San Francisco (location)]
+
+42. Pope Francis visits Iraq in historic trip.
+Named Entities: [Pope Francis (person), Iraq (location)]
+
+43. Toyota recalls over 1 million vehicles for safety issue.
+Named Entities: [Toyota (organization)]
+
+44. Denmark to build new offshore wind farm to increase renewable energy production.
+Named Entities: [Denmark (location)]
+
+45. NASA launches new satellite to monitor climate change effects.
+Named Entities: [NASA (organization)]
+
+46. Atlanta Braves win World Series title for the first time in 26 years.
+Named Entities: [Atlanta Braves (organization)]
+
+47. British Airways cancels flights due to ongoing labor strike.
+Named Entities: [British Airways (organization)]
+
+48. Indonesian President Widodo unveils economic reform plan.
+Named Entities: [Indonesian President Widodo (person)]
+
+49. U.S. Supreme Court justices hear landmark case on gun rights.
+Named Entities: [U.S. Supreme Court (organization)]
+
+50. New York Times Pulitzer Prize-winning journalist writes investigative report on government corruption.
+Named Entities: [New York Times (organization), Pulitzer Prize-winning journalist (person)]

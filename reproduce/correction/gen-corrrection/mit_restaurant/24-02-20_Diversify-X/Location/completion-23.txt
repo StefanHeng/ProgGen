@@ -1,0 +1,8 @@
+1. Text Span: "nearest"
+   Label: (A). Correct Entity Annotation
+
+2. Text Span: "closest"
+   Label: (A). Correct Entity Annotation
+
+3. Text Span: "this area"
+   Label: (B). Wrong Boundary. The correct span boundary is "in this area"

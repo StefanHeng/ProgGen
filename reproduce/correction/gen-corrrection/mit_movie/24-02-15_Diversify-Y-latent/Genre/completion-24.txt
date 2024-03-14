@@ -1,0 +1,8 @@
+1. Text Span: "biography"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "biography movie"
+Label: (B). The correct span boundary is "biography".
+
+3. Text Span: "Costume and makeup design"
+Label: (C). Wrong Type. The correct entity type is Plot.

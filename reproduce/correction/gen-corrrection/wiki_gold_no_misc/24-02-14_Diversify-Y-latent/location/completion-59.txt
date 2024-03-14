@@ -1,0 +1,8 @@
+1. Text Span: "Mona Lisa"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Cultural Center Historic District"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Southern Alps"
+Label: (A). The span is a named entity of type location

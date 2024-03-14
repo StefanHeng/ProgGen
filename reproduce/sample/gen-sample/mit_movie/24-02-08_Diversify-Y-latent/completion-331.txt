@@ -1,0 +1,8 @@
+1. "What is the best movie of the year that received a decent 4/5 rating?"
+Named Entities: [best movie of the year (Review), decent 4/5 (Viewers' Rating)]
+
+2. "Can you recommend an R-rated film directed by Christopher Nolan with a mind-bending plot?"
+Named Entities: [R-rated (MPAA Rating), Christopher Nolan (Director), mind-bending (Plot)]
+
+3. "Show me a movie with a title related to the concept of time travel, and a trailer featuring the song 'Don't Stop Me Now'."
+Named Entities: [time travel (Plot), Don't Stop Me Now (Song)]

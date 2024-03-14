@@ -1,0 +1,8 @@
+1. Text Span: "nominated for multiple Oscars"
+Label: (A). The span is a named entity of type Review
+
+2. Text Span: "available to stream"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Availability.
+
+3. Text Span: "highest number of nominations for Best Picture"
+Label: (A). The span is a named entity of type Review

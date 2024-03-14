@@ -1,0 +1,8 @@
+Query: "recommend a movie with catchy music that was directed by Christopher Nolan"
+Named Entities: [catchy music (Song), Christopher Nolan (Director)]
+
+Query: "I'm looking for a movie featuring a heavy metal band in its plot"
+Named Entities: [heavy metal band (Genre)]
+
+Query: "show me a film with cinematic music and a high viewers' rating"
+Named Entities: [cinematic music (Song), high viewers' rating (Viewers' Rating)]

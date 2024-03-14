@@ -1,0 +1,8 @@
+1. Text Span: "Last seating time"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "restaurant"
+   Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "Zagat"
+   Label: (C). Wrong Type. The correct entity type is other.

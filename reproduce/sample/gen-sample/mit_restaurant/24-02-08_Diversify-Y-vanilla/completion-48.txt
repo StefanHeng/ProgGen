@@ -1,0 +1,8 @@
+Query: "Can you recommend any Famous seafood restaurants in the area?"
+Named Entities: [seafood (Cuisine), Famous (Rating)]
+
+Query: "What are the operating Hours for the Famous Italian restaurant downtown?"
+Named Entities: [Italian (Cuisine), Famous (Rating), downtown (Location)]
+
+Query: "I'm craving Famous sushi, is there a place nearby?"
+Named Entities: [sushi (Cuisine), Famous (Rating), nearby (Location)]

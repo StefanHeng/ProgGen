@@ -1,0 +1,8 @@
+Query: "Can you provide me with the showtimes and ticket availability for Mamma Mia!?"
+Named Entities: [Mamma Mia! (Title)]
+
+Query: "I would like to know if there are any available showtimes and tickets for the movie X."
+Named Entities: [X (Title)]
+
+Query: "Could you please check the showtimes and ticket availability for Mamma Mia! and let me know?"
+Named Entities: [Mamma Mia! (Title)]

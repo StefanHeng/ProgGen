@@ -1,0 +1,8 @@
+1. Query: "Could you provide some behind-the-scenes insights for the movie Time After Time directed by Michael Mann"
+Named Entities: [Time After Time (Title), Michael Mann (Director), Behind-the-scenes insights (Review)]
+
+2. Query: "Show me a movie with cinematography highlights and a song by U"
+Named Entities: [U (Song), Cinematography highlights (Review)]
+
+3. Query: "What is the plot of the movie RoboCop directed by Luc Besson"
+Named Entities: [RoboCop (Title), Luc Besson (Director), Plot (Plot)]

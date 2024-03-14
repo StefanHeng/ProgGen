@@ -1,0 +1,8 @@
+Query: "Can I stream the movie Arrival on any platform?"
+Named Entities: [Arrival (Title), stream (Plot)]
+
+Query: "Is there a streaming service where I can watch the movie Titanic?"
+Named Entities: [Titanic (Title), streaming service (Plot)]
+
+Query: "Which platform has the movie The Dark Knight available for streaming?"
+Named Entities: [The Dark Knight (Title), platform (Plot)]

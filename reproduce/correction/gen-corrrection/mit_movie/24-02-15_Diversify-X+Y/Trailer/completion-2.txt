@@ -1,0 +1,8 @@
+1. Text Span: "Footage"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: other
+
+2. Text Span: "Footage"
+Label: (A). The span is a named entity of type trailer
+
+3. Text Span: "Clip"
+Label: (A). The span is a named entity of type trailer

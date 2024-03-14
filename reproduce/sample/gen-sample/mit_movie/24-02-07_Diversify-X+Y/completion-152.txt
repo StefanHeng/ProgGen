@@ -1,0 +1,8 @@
+1. Spoken Query: "I need tickets for Toy Story ASAP, where can I find showtimes?"
+   Named Entities: [Toy Story (Title)]
+
+2. Spoken Query: "I'm in a rush, when can I catch the next showing of a film with Gandalf in it?"
+   Named Entities: [Gandalf (Character)]
+
+3. Spoken Query: "I want to see a movie with Wolverine, how fast can I get tickets?"
+   Named Entities: [Wolverine (Character)]

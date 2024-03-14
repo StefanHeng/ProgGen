@@ -1,0 +1,8 @@
+1. "I'm hungry, can you recommend a restaurant with a good value meal?"
+Named Entities: [good (Rating), Value meal (Amenity)]
+
+2. "What's the address and hours of operation for The Firehouse Grill?"
+Named Entities: [The Firehouse Grill (Restaurant Name), address (Location), hours of operation (Hours)]
+
+3. "I'm craving Italian cuisine, do you know a restaurant nearby that serves it?"
+Named Entities: [Italian (Cuisine), nearby (Location)]

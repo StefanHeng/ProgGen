@@ -1,0 +1,8 @@
+1. Text Span: "weekend"
+   Label: (D). Not a Named Entity.
+
+2. Text Span: "latest"
+   Label: (D). Not a Named Entity.
+
+3. Text Span: "80s"
+   Label: (A). The span is a named entity of type year

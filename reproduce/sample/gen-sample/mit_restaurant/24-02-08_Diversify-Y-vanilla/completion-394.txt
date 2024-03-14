@@ -1,0 +1,8 @@
+Query: "what's the best Italian restaurant in this area"
+Named Entities: [Italian (Cuisine)]
+
+Query: "show me the nearest sushi place that is open now"
+Named Entities: [nearest (Location), sushi (Cuisine), open now (Hours)]
+
+Query: "I want to have a romantic dinner, where can I find a cozy french restaurant"
+Named Entities: [romantic (Amenity), cozy (Amenity), French (Cuisine)]

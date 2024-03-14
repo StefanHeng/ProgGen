@@ -1,0 +1,8 @@
+1. Query: "What are the top-rated Italian restaurants in the downtown area for dinner?"
+Named Entities: [Italian (Cuisine), downtown area (Location), dinner (Amenity)]
+
+2. Query: "Can you recommend a seafood restaurant with outdoor seating and a view for dinner?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), view (Amenity), dinner (Amenity)]
+
+3. Query: "I'm looking for a budget-friendly Mexican restaurant open until 9 p.m. for dinner."
+Named Entities: [budget-friendly (Price), Mexican (Cuisine), until 9 p.m. (Hours), dinner (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant that offers nut-free options and delivery?"
+Named Entities: [buffet (Amenity), nut-free (Amenity), delivery (Amenity)]
+
+2. "What are the top-rated buffet restaurants in the area that cater to nut-free diets and provide delivery service?"
+Named Entities: [buffet (Amenity), nut-free (Amenity), top-rated (Rating), delivery (Amenity)]
+
+3. "I need to find a buffet restaurant with nut-free dishes available for delivery. Can you help me with that?"
+Named Entities: [buffet (Amenity), nut-free (Amenity), delivery (Amenity)]

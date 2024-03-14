@@ -1,0 +1,8 @@
+Query: "are there any late-night restaurants around here that offer vegan options for takeout"
+Named Entities: [late-night restaurants (Amenity), vegan (Cuisine), takeout (Amenity)]
+
+Query: "I'm craving vegan food, can you recommend a night owl diner that offers takeout"
+Named Entities: [vegan (Cuisine), night owl diner (Restaurant Name), takeout (Amenity)]
+
+Query: "find me a buffet that serves vegan dishes for takeout in the late night"
+Named Entities: [buffet (Amenity), vegan (Cuisine), takeout (Amenity), late night (Hours)]

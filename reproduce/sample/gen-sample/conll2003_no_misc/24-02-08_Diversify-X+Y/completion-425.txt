@@ -1,0 +1,8 @@
+Sentence: "Mayor Angela Martinez announces new initiatives to address homelessness in the local community."
+Named Entities: [Mayor Angela Martinez (person)]
+
+Sentence: "Tokyo, Japan, hosts its annual Cherry Blossom Festival, attracting visitors from around the world."
+Named Entities: [Tokyo (location), Japan (location)]
+
+Sentence: "Local organization partners with Mayor Angela Martinez to provide free meals for those in need."
+Named Entities: [Mayor Angela Martinez (person)]

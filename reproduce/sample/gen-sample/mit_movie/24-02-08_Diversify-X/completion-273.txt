@@ -1,0 +1,8 @@
+Query: "What are the showtimes for the latest action movies"
+Named Entities: [latest action movies (Genre)]
+
+Query: "I need to buy tickets for the top-rated comedy film that just came out"
+Named Entities: [top-rated comedy film (Genre)]
+
+Query: "Can I still get tickets for the thriller movie that everyone is talking about"
+Named Entities: [thriller movie (Genre)]

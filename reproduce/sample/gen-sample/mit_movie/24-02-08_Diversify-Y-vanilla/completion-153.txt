@@ -1,0 +1,8 @@
+1. "What is the plot of the Clint Eastwood movie A that has a fantasy quest theme?"
+Named Entities: [Clint Eastwood (Actor), Fantasy quest (Genre), A (Title)]
+
+2. "Can you recommend a Sci-Fi film directed by Eco that has a song like 'Blowing in the Wind'?"
+Named Entities: [Sci-Fi (Genre), Eco (Director), Blowing in the Wind (Song)]
+
+3. "Show me a movie starring Kate Hudson with a 10 out of 10 viewers' rating and an NR MPAA Rating."
+Named Entities: [Kate Hudson (Actor), 10 out of 10 (Viewers' Rating), NR (MPAA Rating)]

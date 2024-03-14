@@ -1,0 +1,8 @@
+1. "Can you recommend an artisanal restaurant in the downtown area?"
+Named Entities: [artisanal (Cuisine), downtown area (Location)]
+
+2. "What time does the artisanal bistro open for lunch?"
+Named Entities: [artisanal (Cuisine), bistro (Restaurant Name), lunch (Hours)]
+
+3. "I'm looking for a cozy and affordable artisanal cafe with outdoor seating."
+Named Entities: [cozy (Amenity), affordable (Price), artisanal (Cuisine), cafe (Restaurant Name), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you provide a preview of the latest movie featuring Kylo Ren?"
+Named Entities: [latest movie (Title), Kylo Ren (Character), Preview (Trailer)]
+
+2. "Is there a film with a team of misfits and a character named Will Turner?"
+Named Entities: [team of misfits (Genre), Will Turner (Character)]
+
+3. "I would like to watch a medical movie with a song performed by Piano Man."
+Named Entities: [medical movie (Genre), Piano Man (Song)]

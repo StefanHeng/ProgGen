@@ -1,0 +1,8 @@
+Query: "Can you tell me which movie starred both Leonardo DiCaprio and Kate Winslet?"
+Named Entities: [Leonardo DiCaprio (Actor), Kate Winslet (Actor)]
+
+Query: "I'm looking for a classic film directed by Alfred Hitchcock, with a suspenseful plot and a high viewers' rating."
+Named Entities: [Alfred Hitchcock (Director), classic (Genre), suspenseful (Plot), high viewers' rating (Viewers' Rating)]
+
+Query: "Show me a movie featuring Meryl Streep, directed by Steven Spielberg, and released in the 1980s."
+Named Entities: [Meryl Streep (Actor), Steven Spielberg (Director), 1980s (Year)]

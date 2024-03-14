@@ -1,0 +1,8 @@
+Query: "Can you recommend any fine dining restaurants in the area with gluten-free options"
+Named Entities: [fine dining (Amenity), gluten-free (Amenity)]
+
+Query: "What are the top-rated gluten-free fine dining restaurants nearby"
+Named Entities: [gluten-free (Amenity), fine dining (Amenity), nearby (Location)]
+
+Query: "I'm looking for a high-rated restaurant with a gluten-free menu for a special occasion"
+Named Entities: [high-rated (Rating), gluten-free (Amenity), special occasion (Amenity)]

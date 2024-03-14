@@ -1,0 +1,8 @@
+1. "What is the genre of the movie directed by Lynne Ramsay and starring Mark Wahlberg?"
+Named Entities: [Lynne Ramsay (Director), Mark Wahlberg (Actor)]
+
+2. "Can you show me a teaser for The Wizard of Oz?"
+Named Entities: [The Wizard of Oz (Title), Teaser (Trailer)]
+
+3. "Is Michael B. Jordan in any Oscar-worthy movie previews featuring the song I Don't Want to Miss a Thing?"
+Named Entities: [Michael B. Jordan (Actor), Oscar-worthy (Viewers' Rating), I Don't Want to Miss a Thing (Song)]

@@ -1,0 +1,8 @@
+1. Query: "Can I find tickets for the new James Bond movie?"
+Named Entities: [the new James Bond movie (Title)]
+
+2. Query: "What are the showtimes for the classic musical movie Singin' in the Rain?"
+Named Entities: [Singin' in the Rain (Title), classic musical (Genre)]
+
+3. Query: "Is there a movie theater near me showing the award-winning film Casablanca?"
+Named Entities: [Casablanca (Title), award-winning (Review)]

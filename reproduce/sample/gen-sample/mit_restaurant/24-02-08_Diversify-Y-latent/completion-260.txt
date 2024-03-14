@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good value for The Halal Food Cart?"
+Named Entities: [good value (Rating), The Halal Food Cart (Restaurant Name)]
+
+2. "Where can I find a place serving halal cuisine around here?"
+Named Entities: [halal (Cuisine)]
+
+3. "What are the hours of operation for a budget-friendly Indian restaurant near me?"
+Named Entities: [budget-friendly (Price), Indian (Cuisine), near me (Location)]

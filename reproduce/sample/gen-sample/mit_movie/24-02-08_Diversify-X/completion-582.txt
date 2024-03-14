@@ -1,0 +1,8 @@
+Query: "Are there any showtimes for the new James Bond film, No Time to Die, tonight?"
+Named Entities: [No Time to Die (Title)]
+
+Query: "I'm not sure if I can trust the ratings, but can you tell me the viewers' rating for the movie Dune?"
+Named Entities: [Dune (Title)]
+
+Query: "I'm not convinced that the genre matches my preference, but could you recommend a comedy film directed by Quentin Tarantino?"
+Named Entities: [comedy (Genre), Quentin Tarantino (Director)]

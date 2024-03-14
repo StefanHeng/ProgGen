@@ -1,0 +1,11 @@
+1. Query: "Where can I find a café with a {{mid-range}} price range for a quick bite?"
+Text Span: "mid-range"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Query: "I'm looking for a buffet restaurant with a {{$35}} budget, what are the operation hours?"
+Text Span: "$35"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Do you know any restaurants that offer a great brunch with {{affordable}} cost of brunch?"
+Text Span: "affordable"
+Label: (A). Correct Entity Annotation.

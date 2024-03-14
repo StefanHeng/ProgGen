@@ -1,0 +1,8 @@
+1. "I'm in New Orleans and looking for a nice bar with outdoor seating"
+Named Entities: [New Orleans (Location), bar (Amenity), outdoor seating (Amenity)]
+
+2. "What's the address of the restaurant Gordon Ramsay recommended?"
+Named Entities: [address (Location), restaurant Gordon Ramsay recommended (Restaurant Name)]
+
+3. "Can you suggest a good seafood place in the area with a high rating?"
+Named Entities: [seafood (Cuisine), high rating (Rating)]

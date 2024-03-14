@@ -1,0 +1,8 @@
+Query: "show me a restaurant with a brunch menu in downtown Seattle"
+Named Entities: [brunch (Amenity), downtown Seattle (Location)]
+
+Query: "what's the best rated brunch spot near me"
+Named Entities: [best rated (Rating), brunch (Amenity)]
+
+Query: "can you recommend a brunch place that serves vegan options"
+Named Entities: [brunch (Amenity), vegan (Cuisine)]

@@ -1,0 +1,8 @@
+1. "What movie from 2015-2020 has the most mind-blowing plot twist?"
+Named Entities: [2015-2020 (Year), mind-blowing (Review), plot twist (Plot)]
+
+2. "Can you recommend a film with a mind-blowing special effects that received high viewers' ratings in the last five years?"
+Named Entities: [mind-blowing (Review), special effects (Plot), high viewers' ratings (Viewers' Rating), last five years (Year)]
+
+3. "Which director has consistently produced mind-blowing movies in the past five years?"
+Named Entities: [mind-blowing (Review), director (Director), past five years (Year)]

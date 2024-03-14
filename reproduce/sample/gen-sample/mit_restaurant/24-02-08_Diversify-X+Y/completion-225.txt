@@ -1,0 +1,8 @@
+Query: "I'm craving some Margherita Pizza for dinner, can you recommend a restaurant with an outdoor terrace?"
+Named Entities: [Margherita Pizza (Dish), dinner (Amenity), outdoor terrace (Amenity)]
+
+Query: "I want to enjoy a nice dinner outdoors, preferably with Margherita Pizza. Can you suggest a mid-range restaurant with an outdoor terrace?"
+Named Entities: [dinner (Amenity), Margherita Pizza (Dish), mid-range (Price), outdoor terrace (Amenity)]
+
+Query: "Where can I find a mid-range restaurant with Margherita Pizza on the menu and an outdoor terrace for dinner?"
+Named Entities: [mid-range (Price), Margherita Pizza (Dish), outdoor terrace (Amenity), dinner (Amenity)]

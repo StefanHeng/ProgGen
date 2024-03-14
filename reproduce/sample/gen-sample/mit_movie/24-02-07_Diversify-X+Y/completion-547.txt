@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie starring Mel Gibson with a revenge plot?"
+Named Entities: [Mel Gibson (Actor), revenge plot (Plot), viewers' rating (Viewers' Rating)]
+
+2. "Could you recommend a movie with Brad Pitt that has a war veteran as the main character?"
+Named Entities: [Brad Pitt (Actor), war veteran (Character)]
+
+3. "I'm looking for a movie with the song 'Over the Rainbow' and good reviews."
+Named Entities: ['Over the Rainbow' (Song), good reviews (Review)]

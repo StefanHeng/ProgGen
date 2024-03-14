@@ -1,0 +1,139 @@
+
+
+Query: "I want some sushi, where is the best place to go"
+Named Entities: [sushi (Cuisine), best (Rating)]
+
+Query: "show me the nearest Italian restaurant"
+Named Entities: [nearest (Location), Italian (Cuisine)]
+
+Query: "what time does the BBQ place close"
+Named Entities: [BBQ (Cuisine), close (Hours)]
+
+Query: "are there any cheap burger joints nearby"
+Named Entities: [cheap (Price), burger (Cuisine), nearby (Location)]
+
+Query: "I need a reservation for a party of 6 at a French restaurant"
+Named Entities: [reservation (Amenity), party of 6 (Amenity), French (Cuisine)]
+
+Query: "I'm craving tacos, where can I satisfy my craving"
+Named Entities: [tacos (Cuisine), satisfy my craving (Amenity)]
+
+Query: "where can I find a 24-hour diner"
+Named Entities: [24-hour (Hours), diner (Amenity)]
+
+Query: "is there a vegan-friendly place nearby"
+Named Entities: [vegan-friendly (Amenity), nearby (Location)]
+
+Query: "suggest a romantic spot for dinner with a view"
+Named Entities: [romantic (Amenity), dinner (Amenity), view (Amenity)] 
+
+Query: "what's the best place for brunch around here"
+Named Entities: [best (Rating), brunch (Amenity), around here (Location)]
+
+Query: "where can I get a cheap yet delicious meal"
+Named Entities: [cheap (Price), delicious (Rating)] 
+
+Query: "recommend a Thai restaurant with outdoor seating"
+Named Entities: [Thai (Cuisine), outdoor seating (Amenity)] 
+
+Query: "who serves the best pizza in town"
+Named Entities: [best (Rating), pizza (Cuisine), in town (Location)] 
+
+Query: "which diner serves all-day breakfast"
+Named Entities: [all-day (Hours), breakfast (Amenity)] 
+
+Query: "I want to try Ethiopian cuisine, where should I go"
+Named Entities: [Ethiopian (Cuisine)] 
+
+Query: "find a seafood restaurant with a good happy hour special"
+Named Entities: [seafood (Cuisine), good (Rating), happy hour (Amenity)] 
+
+Query: "where can I get a good steak for a reasonable price"
+Named Entities: [good (Rating), steak (Cuisine), reasonable price (Price)] 
+
+Query: "recommend a family-friendly Italian place with a kids menu"
+Named Entities: [family-friendly (Rating), Italian (Cuisine), kids menu (Amenity)] 
+
+Query: "what are the top-rated restaurants in the area"
+Named Entities: [top-rated (Rating), in the area (Location)] 
+
+Query: "where can I find a 24-hour coffee shop"
+Named Entities: [24-hour (Hours), coffee shop (Amenity)] 
+
+Query: "I'm in the mood for some Indian food, any suggestions"
+Named Entities: [Indian (Cuisine)] 
+
+Query: "any Mexican places with live music on the weekends"
+Named Entities: [Mexican (Cuisine), live music (Amenity), on the weekends (Hours)] 
+
+Query: "which restaurant offers a prix fixe menu"
+Named Entities: [prix fixe (Price)] 
+
+Query: "recommend a trendy spot for cocktails"
+Named Entities: [trendy (Amenity), cocktails (Amenity)] 
+
+Query: "where can I find a late-night snack around here"
+Named Entities: [late-night (Hours), snack (Amenity), around here (Location)] 
+
+Query: "are there any all-you-can-eat buffets in the vicinity"
+Named Entities: [all-you-can-eat (Price), buffets (Amenity), in the vicinity (Location)] 
+
+Query: "where can I get a good burger for under $10"
+Named Entities: [good (Rating), burger (Cuisine), under $10 (Price)] 
+
+Query: "suggest a place with a view of the waterfront"
+Named Entities: [view (Amenity), waterfront (Location)] 
+
+Query: "what time does the Chinese restaurant open"
+Named Entities: [Chinese (Cuisine), open (Hours)] 
+
+Query: "where is the best spot for a quick bite"
+Named Entities: [best (Rating), quick bite (Amenity)] 
+
+Query: "where can I find a 5-star dining experience"
+Named Entities: [5-star (Rating), dining experience (Amenity)] 
+
+Query: "recommend a gastropub with craft beer options"
+Named Entities: [gastropub (Amenity), craft beer (Amenity)] 
+
+Query: "I want to try authentic Japanese cuisine"
+Named Entities: [authentic (Amenity), Japanese (Cuisine)] 
+
+Query: "are there any places with outdoor seating and live music"
+Named Entities: [outdoor seating (Amenity), live music (Amenity)] 
+
+Query: "which restaurant in the area has the best ambiance"
+Named Entities: [best (Rating), ambiance (Amenity), in the area (Location)] 
+
+Query: "suggest a wine bar with a good selection of cheeses"
+Named Entities: [wine bar (Amenity), good selection (Amenity), cheeses (Cuisine)] 
+
+Query: "where can I find a good place for a business lunch"
+Named Entities: [good (Rating), business lunch (Amenity)] 
+
+Query: "I'm looking for a place that serves authentic Mexican tacos"
+Named Entities: [authentic (Amenity), Mexican (Cuisine), tacos (Dish)] 
+
+Query: "where can I get the best cup of coffee in town"
+Named Entities: [best (Rating), cup of coffee (Dish), in town (Location)] 
+
+Query: "recommend a sports bar with good wings"
+Named Entities: [sports bar (Amenity), good (Rating), wings (Dish)] 
+
+Query: "I want to try some new fusion cuisine, any suggestions"
+Named Entities: [new fusion (Cuisine)] 
+
+Query: "where can I find a good seafood place with outdoor seating"
+Named Entities: [good (Rating), seafood (Cuisine), outdoor seating (Amenity)] 
+
+Query: "suggest a place with a cozy atmosphere for a date night"
+Named Entities: [cozy atmosphere (Amenity), date night (Amenity)] 
+
+Query: "where can I find a casual dining spot with a kids play area"
+Named Entities: [casual dining (Amenity), kids play area (Amenity)] 
+
+Query: "recommend a place with a great view for a special occasion"
+Named Entities: [great view (Amenity), special occasion (Amenity)] 
+
+Query: "where can I get a good sandwich for a quick lunch"
+Named Entities: [good (Rating), sandwich (Dish), quick lunch (Amenity)]

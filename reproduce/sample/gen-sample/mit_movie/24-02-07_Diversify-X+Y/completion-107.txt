@@ -1,0 +1,8 @@
+Query: "Can you tell me the plot of the movie You've Got a Friend in Me?"
+Named Entities: [You've Got a Friend in Me (Title)]
+
+Query: "Is X a PG-13 movie with a quest for power as its main plot?"
+Named Entities: [X (Title), PG-13 (MPAA Rating), quest for power (Plot)]
+
+Query: "Who is the actress who played Hermione Granger in the movie series?"
+Named Entities: [Hermione Granger (Character)]

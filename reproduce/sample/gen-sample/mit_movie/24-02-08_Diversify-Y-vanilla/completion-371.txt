@@ -1,0 +1,8 @@
+1. "Can you recommend an intense drama movie directed by John Singleton that is highly recommended?"
+Named Entities: [intense drama (Genre), John Singleton (Director), highly recommended (Viewers' Rating)]
+
+2. "Show me a movie with Emma Thompson and Orson Welles in it, I heard it's about a family secret."
+Named Entities: [Emma Thompson (Actor), Orson Welles (Actor), family secret (Plot)]
+
+3. "What movie genre is best for watching with the whole family, something like The Sound of Music?"
+Named Entities: [The Sound of Music (Title), Family (Genre)]

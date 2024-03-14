@@ -1,0 +1,8 @@
+Query: "What are the business hours for Chez Panisse tonight?"
+Named Entities: [Business hours (Hours), Chez Panisse (Restaurant Name)]
+
+Query: "Can you recommend a trendy restaurant for dinner near Chez Panisse?"
+Named Entities: [trendy (Amenity), dinner (Meal category), Chez Panisse (Restaurant Name)]
+
+Query: "I'm looking for a trendy restaurant with a dinner menu around Chez Panisse"
+Named Entities: [trendy (Amenity), dinner (Meal category), Chez Panisse (Location)]

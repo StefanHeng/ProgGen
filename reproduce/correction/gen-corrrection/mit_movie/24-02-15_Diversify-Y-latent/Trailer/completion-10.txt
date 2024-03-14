@@ -1,0 +1,8 @@
+1. Text Span: "Exclusive footage"
+Label: (B). The correct span boundary is "footage".
+
+2. Text Span: "exclusive look"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "official trailer"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant in the downtown [Zone] with outdoor seating?
+Named Entities: [downtown (Location), outdoor seating (Amenity)]
+
+Query: "I'm craving sushi, is there any place in the [Zone] that serves it?"
+Named Entities: [sushi (Cuisine), [Zone] (Location)]
+
+Query: "Could you suggest a budget-friendly restaurant in the [Zone] with vegan options?"
+Named Entities: [budget-friendly (Price), vegan options (Cuisine), [Zone] (Location)]

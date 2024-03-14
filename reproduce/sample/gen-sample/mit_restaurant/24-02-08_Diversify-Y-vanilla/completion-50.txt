@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some sushi, where can I find a good Japanese restaurant nearby?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), nearby (Location)]
+
+Query: "What are the hours of operation for the Italian restaurant downtown?"
+Named Entities: [Italian (Cuisine), downtown (Location), hours of operation (Hours)]
+
+Query: "I'm looking for a fancy restaurant with a high rating, where can I find one?"
+Named Entities: [fancy (Amenity), high rating (Rating)]

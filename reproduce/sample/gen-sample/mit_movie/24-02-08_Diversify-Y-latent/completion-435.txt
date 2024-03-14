@@ -1,0 +1,8 @@
+1. "Can I see a glimpse of the Lion King movie with Simba?"
+   Named Entities: [glimpse (Trailer), Lion King (Title), Simba (Character)]
+
+2. "Are there any movies from the 1930-1950 era that are rated X?"
+   Named Entities: [1930-1950 (Year), X (MPAA Rating)]
+
+3. "Which movie features the song Circle of Life from The Lion King?"
+   Named Entities: [Circle of Life (Song), The Lion King (Title)]

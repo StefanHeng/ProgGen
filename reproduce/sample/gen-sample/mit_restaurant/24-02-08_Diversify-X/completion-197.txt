@@ -1,0 +1,8 @@
+Query: "I'm looking for a cozy cafe with outdoor seating and a variety of pastries"
+Named Entities: [cozy (Amenity), cafe (Cuisine), outdoor seating (Amenity), pastries (Dish)]
+
+Query: "Which budget-friendly cafes offer brunch options on weekends in downtown area"
+Named Entities: [budget-friendly (Price), cafe (Cuisine), brunch (Amenity), weekends (Hours), downtown area (Location)]
+
+Query: "Can you recommend a café with good coffee and vegetarian options that opens early in the morning"
+Named Entities: [cafe (Cuisine), good (Rating), coffee (Dish), vegetarian options (Amenity), early in the morning (Hours)]

@@ -1,0 +1,8 @@
+1. "I'm looking for a brunch place on Thursday, maybe Le Bernardin, with WiFi availability."
+Named Entities: [brunch (Amenity), Thursday (Hours), Le Bernardin (Restaurant Name), WiFi availability (Amenity)]
+
+2. "Where can I find upscale brunch options that serve cinnamon rolls?"
+Named Entities: [brunch (Amenity), upscale (Price), cinnamon rolls (Dish)]
+
+3. "Can you recommend a fancy place for brunch on Thursday, maybe with WiFi, and offering cinnamon rolls?"
+Named Entities: [brunch (Amenity), Thursday (Hours), WiFi (Amenity), cinnamon rolls (Dish)]

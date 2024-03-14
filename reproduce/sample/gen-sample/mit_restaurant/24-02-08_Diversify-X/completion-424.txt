@@ -1,0 +1,8 @@
+1. "I'm in the mood for a quick and casual lunch, find me a fast-casual restaurant nearby"
+Named Entities: [lunch (Amenity), fast-casual (Amenity)]
+
+2. "What's a good place for a fast-casual lunch with outdoor seating?"
+Named Entities: [lunch (Amenity), fast-casual (Amenity), outdoor seating (Amenity)]
+
+3. "I want to grab a bite to eat at a fast-casual spot with a vegetarian menu, where should I go?"
+Named Entities: [lunch (Amenity), fast-casual (Amenity), vegetarian (Cuisine)]

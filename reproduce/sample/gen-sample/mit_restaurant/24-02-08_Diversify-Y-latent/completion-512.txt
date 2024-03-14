@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good outdoor seating area for dinner time?"
+   Named Entities: [good (Rating), outdoor seating area (Amenity), dinner time (Hours)]
+
+2. "I'm looking for a place with healthy options in the early afternoon hours."
+   Named Entities: [healthy options (Cuisine), early afternoon hours (Hours)]
+
+3. "Find me a budget-friendly restaurant that serves sushi and is located near the waterfront."
+   Named Entities: [budget-friendly (Price), sushi (Cuisine), waterfront (Location)]

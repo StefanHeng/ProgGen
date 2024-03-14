@@ -1,0 +1,8 @@
+1. "What is the year of release for the movie starring Jake Gyllenhaal and directed by Denis Villeneuve that received just okay ratings"
+Named Entities: [Jake Gyllenhaal (Actor), Denis Villeneuve (Director), just okay (Viewers' Rating)]
+
+2. "Can you recommend a movie with Sandra Bullock that is considered to be flawless by critics"
+Named Entities: [Sandra Bullock (Actor), flawless (Review)]
+
+3. "Show me a movie from 1961 in the drama genre featuring a strong female character"
+Named Entities: [1961 (Year), drama (Genre), strong female character (Character)]

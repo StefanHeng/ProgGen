@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants nearby that serve authentic kebabs?"
+Named Entities: [kebabs (Dish), nearby (Location)]
+
+2. "What are the operating hours of the Italian restaurant with the highest rating in town?"
+Named Entities: [Italian (Cuisine), highest rating (Rating), operating hours (Hours)]
+
+3. "I'm looking for a budget-friendly place to eat with outdoor seating and a kids' menu. Any suggestions?"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity), kids' menu (Amenity)]

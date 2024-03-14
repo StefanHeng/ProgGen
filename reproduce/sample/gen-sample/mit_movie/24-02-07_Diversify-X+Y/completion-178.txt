@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with excellent music?"
+Named Entities: [Excellent music (Review)]
+
+2. "Is there a film with uplifting music that features Frodo Baggins?"
+Named Entities: [Uplifting music (Review), Frodo Baggins (Character)]
+
+3. "Show me a movie with musical compositions directed by Oliver Stone."
+Named Entities: [Musical compositions (Song), Oliver Stone (Director)]

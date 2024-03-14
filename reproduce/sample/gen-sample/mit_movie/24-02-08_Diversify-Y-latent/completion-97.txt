@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie that features Elastigirl?"
+Named Entities: [Elastigirl (Character)]
+
+2. "Can you recommend a movie directed by Tim Story and starring Chadwick Boseman?"
+Named Entities: [Tim Story (Director), Chadwick Boseman (Actor)]
+
+3. "Which movie has a plot involving a DJ residency?"
+Named Entities: [DJ residency (Plot)]

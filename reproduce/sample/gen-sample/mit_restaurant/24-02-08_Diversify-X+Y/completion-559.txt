@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast place with vegetarian options and costly accommodations?"
+Named Entities: [breakfast (Amenity), vegetarian (Cuisine), costly accommodations (Price)]
+
+2. "Where can I find a high-end breakfast spot with vegetarian dishes?"
+Named Entities: [high-end (Rating), breakfast (Amenity), vegetarian (Cuisine)]
+
+3. "I'm looking for a fancy breakfast restaurant with vegetarian choices, but it should have expensive accommodations."
+Named Entities: [fancy (Rating), breakfast (Amenity), vegetarian (Cuisine), expensive accommodations (Price)]

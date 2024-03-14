@@ -1,0 +1,8 @@
+Sentence: "The Cape Town International Convention Centre is a convention centre in Cape Town, South Africa."
+Named Entities: [Cape Town International Convention Centre (organization), Cape Town (location), South Africa (location)]
+
+Sentence: "She traveled to Delhi to attend the World Health Organization conference on healthcare reform."
+Named Entities: [Delhi (location), World Health Organization (organization)]
+
+Sentence: "The Cape of Good Hope is a rocky headland on the Atlantic coast of the Cape Peninsula in South Africa."
+Named Entities: [Cape of Good Hope (location), Cape Peninsula (location), South Africa (location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend an exceptionally good seafood restaurant in the area?"
+Named Entities: [exceptionally good (Rating), seafood (Cuisine)]
+
+2. "I am in the mood for a quick sandwich, can you find the nearest Jimmy John's location?"
+Named Entities: [quick sandwich (Dish), Jimmy John's (Restaurant Name), nearest (Location)]
+
+3. "I'm craving some cheesy pizza, is there a Pizza Hut that is open late?"
+Named Entities: [cheesy pizza (Dish), Pizza Hut (Restaurant Name), open late (Hours)]

@@ -1,0 +1,8 @@
+1. Text Span: "good action movies"
+Label: (B). Wrong Boundary. The correct span boundary is "action movies".
+
+2. Text Span: "action"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "action"
+Label: (A). Correct Entity Annotation.

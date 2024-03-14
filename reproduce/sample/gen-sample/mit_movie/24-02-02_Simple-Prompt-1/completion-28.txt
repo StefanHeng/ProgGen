@@ -1,0 +1,149 @@
+1. Can you recommend a good 90s thriller movie?
+   Named Entities: [90s (Year), thriller (Genre)]
+
+2. What is the Rotten Tomatoes rating for The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), Rotten Tomatoes (Review)]
+
+3. Who directed the movie Pulp Fiction?
+   Named Entities: [Pulp Fiction (Title)]
+
+4. What is the song from the movie Titanic?
+   Named Entities: [Titanic (Title), song (Song)]
+
+5. Is there a good sci-fi movie from the 70s?
+   Named Entities: [sci-fi (Genre), 70s (Year)]
+
+6. What is the plot of Inception?
+   Named Entities: [Inception (Title), plot (Plot)]
+
+7. Show me a trailer of The Dark Knight.
+   Named Entities: [The Dark Knight (Title), trailer (Trailer)]
+
+8. Who is the actor in The Godfather?
+   Named Entities: [The Godfather (Title), actor (Actor)]
+
+9. I want to watch a family-friendly movie from the 80s.
+   Named Entities: [family-friendly (Genre), 80s (Year)]
+
+10. Is there a review for the movie Parasite?
+    Named Entities: [Parasite (Title), review (Review)]
+
+11. What do you think is the best drama movie of the 21st century?
+    Named Entities: [drama (Genre), 21st century (Year)]
+
+12. Can you suggest a film with Arnold Schwarzenegger as the lead actor?
+    Named Entities: [Arnold Schwarzenegger (Actor)]
+
+13. What is the theme song of the James Bond movie Goldfinger?
+    Named Entities: [James Bond (Character), Goldfinger (Title), theme song (Song)]
+
+14. What movies is Quentin Tarantino known for directing?
+    Named Entities: [Quentin Tarantino (Director)]
+
+15. Show me a list of G-rated animated movies.
+    Named Entities: [G-rated (MPAA Rating), animated (Genre)]
+
+16. Recommend a good romantic comedy that was released in the 2000s.
+    Named Entities: [romantic comedy (Genre), 2000s (Year)]
+
+17. Who stars in the action movie Die Hard?
+    Named Entities: [Die Hard (Title), action (Genre)]
+
+18. Is there a movie adaptation of the book "Gone Girl"?
+    Named Entities: [Gone Girl (Title)]
+
+19. What are the most famous quotes from The Wizard of Oz?
+    Named Entities: [The Wizard of Oz (Title)]
+
+20. Can you tell me more about the character of Darth Vader in Star Wars?
+    Named Entities: [Darth Vader (Character), Star Wars (Title)]
+
+21. What MPAA rating does the Marvel movie Black Panther have?
+    Named Entities: [Marvel (Director), Black Panther (Title), MPAA Rating]
+
+22. Is there a documentary about the life of Steve Jobs?
+    Named Entities: [Steve Jobs (Actor), documentary (Genre)]
+
+23. Show me a musical film from the 1960s.
+    Named Entities: [musical (Genre), 1960s (Year)]
+
+24. List some of the best-rated films on IMDB in the past decade.
+    Named Entities: [IMDB (Review), past decade (Year)]
+
+25. Can you find me a horror movie that is based on a true story?
+    Named Entities: [horror (Genre), true story (Plot)]
+
+26. Who is known for composing the soundtrack for the movie Jurassic Park?
+    Named Entities: [Jurassic Park (Title), soundtrack (Song)]
+
+27. What is the main conflict in The Matrix?
+    Named Entities: [The Matrix (Title), main conflict (Plot)]
+
+28. Recommend a classic film directed by Alfred Hitchcock.
+    Named Entities: [Alfred Hitchcock (Director)]
+
+29. What is the full name of the character played by Tom Hanks in Forrest Gump?
+    Named Entities: [Tom Hanks (Actor), Forrest Gump (Title), character (Character)]
+
+30. Can you tell me about the sci-fi movie Interstellar?
+    Named Entities: [sci-fi (Genre), Interstellar (Title)]
+
+31. Who is the lead actress in the movie La La Land?
+    Named Entities: [La La Land (Title), lead actress (Actor)]
+
+32. Can you play the trailer for the latest Mission: Impossible movie?
+    Named Entities: [Mission: Impossible (Title), latest (Year), trailer (Trailer)]
+
+33. What is the viewers' rating for The Godfather movies?
+    Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+34. Is there a crime movie directed by Martin Scorsese that I should watch?
+    Named Entities: [crime (Genre), Martin Scorsese (Director)]
+
+35. Can you find a film with Timothy Olyphant as the lead actor?
+    Named Entities: [Timothy Olyphant (Actor)]
+
+36. Show me a war film set during World War II.
+    Named Entities: [war (Genre), World War II (Year)]
+
+37. Is there a movie about the life of Coco Chanel?
+    Named Entities: [Coco Chanel (Actor), biography (Plot)]
+
+38. Who stars in the buddy cop movie Lethal Weapon?
+    Named Entities: [buddy cop (Genre), Lethal Weapon (Title)]
+
+39. What is the title of the highest-grossing film of all time?
+    Named Entities: [highest-grossing (Viewers' Rating)]
+
+40. What character does Ian McKellen play in The Lord of the Rings series?
+    Named Entities: [Ian McKellen (Actor), The Lord of the Rings (Title), character (Character)]
+
+41. Can you recommend a good film noir from the 1940s?
+    Named Entities: [film noir (Genre), 1940s (Year)]
+
+42. What is the main theme of the science fiction film Blade Runner?
+    Named Entities: [science fiction (Genre), Blade Runner (Title), main theme (Plot)]
+
+43. Is there a biographical film about the life of Marilyn Monroe?
+    Named Entities: [Marilyn Monroe (Actor), biographical (Genre)]
+
+44. Who directed the war film Saving Private Ryan?
+    Named Entities: [war (Genre), Saving Private Ryan (Title), director (Director)]
+
+45. Can you find me a comedy film featuring Kevin Hart?
+    Named Entities: [comedy (Genre), Kevin Hart (Actor)]
+
+46. What is the title of the highest-rated drama of all time?
+    Named Entities: [highest-rated (Viewers' Rating), drama (Genre)]
+
+47. Show me a romantic movie from the Golden Age of Hollywood.
+    Named Entities: [romantic (Genre), Golden Age of Hollywood (Year)]
+
+48. Can you tell me about the character of T'Challa in the Marvel movie Black Panther?
+    Named Entities: [T'Challa (Character), Marvel (Director), Black Panther (Title)]
+
+49. Who is known for composing the soundtrack for the Harry Potter film series?
+    Named Entities: [Harry Potter (Title), soundtrack (Song)]
+
+50. What is the MPAA rating for the thriller movie Se7en?
+    Named Entities: [thriller (Genre), Se7en (Title), MPAA Rating]

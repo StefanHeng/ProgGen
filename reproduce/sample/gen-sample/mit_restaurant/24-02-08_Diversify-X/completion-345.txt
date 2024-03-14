@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast spot with a high rating in the downtown area?"
+   Named Entities: [breakfast (Cuisine), high rating (Rating), downtown area (Location)]
+
+2. "What are the hours of operation for the nearest brunch place?"
+   Named Entities: [hours of operation (Hours), nearest (Location), brunch (Cuisine)]
+
+3. "I'm looking for a budget-friendly diner serving morning meals, where do you suggest?"
+   Named Entities: [budget-friendly (Price), morning meals (Amenity), diner (Restaurant Name)]

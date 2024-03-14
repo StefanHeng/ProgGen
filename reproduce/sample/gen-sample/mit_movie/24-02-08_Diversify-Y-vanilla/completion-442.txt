@@ -1,0 +1,8 @@
+Query: "I want to watch a movie that features Liam Neeson and has an unforgettable climax"
+Named Entities: [Liam Neeson (Actor), unforgettable climax (Plot)]
+
+Query: "Can you recommend a coming of age movie with Chris Pine in it?"
+Named Entities: [coming of age (Genre), Chris Pine (Actor)]
+
+Query: "What's your favorite movie with the song Sound of Silence in it?"
+Named Entities: [favorite (Viewers' Rating), Sound of Silence (Song)]

@@ -1,0 +1,8 @@
+1. Query: "What's that movie with the really cool fight scenes and is considered a classic martial arts film?"
+Named Entities: [really cool fight scenes (Plot), classic (Viewers' Rating), martial arts (Genre)]
+
+2. Query: "Who directed that awesome horror movie with a killer clown that scared the pants off everyone?"
+Named Entities: [killer clown (Character), horror (Genre), scared the pants off everyone (Review)]
+
+3. Query: "Is there a romantic comedy with a really catchy theme song that came out in the 90s?"
+Named Entities: [romantic comedy (Genre), catchy theme song (Song), 90s (Year)]

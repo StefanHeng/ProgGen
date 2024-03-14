@@ -1,0 +1,8 @@
+1. "Can you tell me if the movie Inception is available on Netflix, and if so, could you show me a trailer of it?"
+   Named Entities: [Inception (Title), Netflix (Streaming platform), trailer (Trailer)]
+
+2. "I'm looking for a highly-rated horror movie from the 1980s with a catchy soundtrack. Can you recommend one available on Amazon Prime?"
+   Named Entities: [horror (Genre), 1980s (Year), Amazon Prime (Streaming platform)]
+
+3. "I want to watch a classic black and white film featuring Audrey Hepburn. Could you find me one with a high viewers' rating that's currently on Hulu?"
+   Named Entities: [black and white (Genre), Audrey Hepburn (Actor), Hulu (Streaming platform), high viewers' rating (Viewers' Rating)]

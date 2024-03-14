@@ -1,0 +1,11 @@
+1. Sentence: "{{Madrid}}-based organization Greenpeace unveils new climate change campaign."
+Text Span: "Madrid"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Discussions between European Union leaders and the {{United Kingdom}} on Brexit negotiations result in a new agreement."
+Text Span: "United Kingdom"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Real Madrid defeats {{Barcelona}} in a dramatic overtime victory."
+Text Span: "Barcelona"
+Label: (A). The span is a named entity of type location

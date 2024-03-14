@@ -1,0 +1,8 @@
+1. Text Span: "thought-provoking themes"
+   Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "thriller"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Dance competition"
+   Label: (C). Wrong Type. The correct entity type is Plot.

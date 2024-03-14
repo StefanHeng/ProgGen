@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a convenient location in Sydney for a phenomenal dinner?"
+Named Entities: [convenient location (Location), Sydney (Location), phenomenal (Rating), dinner (Amenity)]
+
+2. "I'm looking for a phenomenal dinner spot in Sydney with a convenient location. Any suggestions?"
+Named Entities: [phenomenal (Rating), convenient location (Location), Sydney (Location), dinner (Amenity)]
+
+3. "Where can I find a phenomenal restaurant with a convenient location in Sydney for dinner tonight?"
+Named Entities: [phenomenal (Rating), convenient location (Location), Sydney (Location), dinner (Amenity)]

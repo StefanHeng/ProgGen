@@ -1,0 +1,8 @@
+Sentence: "Environmental sustainability is the process of making sure current processes of interaction with the environment are pursued with the idea of keeping the environment as pristine as possible based on ideal-seeking practices."
+Named Entities: []
+
+Sentence: "The United Nations Environment Programme (UNEP) is a program of the United Nations that coordinates its environmental activities, assisting developing countries in implementing environmentally sound policies and practices."
+Named Entities: [United Nations Environment Programme (organization), United Nations (organization)]
+
+Sentence: "The deforestation of the Amazon rainforest continues at an alarming rate, posing a significant threat to global environmental stability."
+Named Entities: [Amazon rainforest (location)]

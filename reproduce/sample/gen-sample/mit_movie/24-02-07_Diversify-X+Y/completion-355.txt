@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about any science fiction movies that offer rare behind-the-scenes glimpses?"
+   Named Entities: [science fiction (Genre), rare glimpses (Plot)]
+
+2. Query: "What is the directors' rating on The Sixth Sense, and can you provide any making-of details?"
+   Named Entities: [The Sixth Sense (Title), directors' rating (MPAA Rating), making-of details]
+
+3. Query: "Is there a TV-MA historical heist movie that offers a behind-the-scenes look at the making of the film?"
+   Named Entities: [TV-MA (MPAA Rating), historical heist (Genre), behind-the-scenes (Plot)]

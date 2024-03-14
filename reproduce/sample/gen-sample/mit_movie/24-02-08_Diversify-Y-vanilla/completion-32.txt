@@ -1,0 +1,8 @@
+Query: "What is the name of the film released in 1974 with superbly written dialogue?"
+Named Entities: [1974 (Year), superbly written (Review)]
+
+Query: "Can you show me footage of the upcoming movie set to be released in 2028 with a M/PG rating?"
+Named Entities: [2028 (Year), M/PG (MPAA Rating), footage (Trailer)]
+
+Query: "Are there any action movies directed by Quentin Tarantino?"
+Named Entities: [action (Genre), Quentin Tarantino (Director)]

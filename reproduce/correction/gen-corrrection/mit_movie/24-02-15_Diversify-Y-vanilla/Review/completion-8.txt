@@ -1,0 +1,8 @@
+1. Text Span: "Heartwarming moments"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "amazing plot"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "awe-inspiring"
+Label: (A). Correct Entity Annotation.

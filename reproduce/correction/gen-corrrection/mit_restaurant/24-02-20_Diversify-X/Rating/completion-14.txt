@@ -1,0 +1,8 @@
+1. Text Span: "fancy"
+Label: (C). The span is a named entity but the category is not rating. The correct entity type is Amenity.
+
+2. Text Span: "high-end"
+Label: (C). The span is a named entity but the category is not rating. The correct entity type is Price.
+
+3. Text Span: "diverse"
+Label: (C). The span is a named entity but the category is not rating. The correct entity type is Cuisine.

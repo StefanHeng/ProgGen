@@ -1,0 +1,140 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers."
+Named Entities: [Great Barrier Reef (location)]
+
+Sentence: "She is a member of the Democratic Party and represented California's 12th congressional district between 1987 and 1993."
+Named Entities: [Democratic Party (organization), California (location)]
+
+Sentence: "The Beatles were an English rock band formed in Liverpool in 1960."
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+Sentence: "He founded the aerospace manufacturer SpaceX in 2002."
+Named Entities: [SpaceX (organization)]
+
+Sentence: "The Sahara is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic."
+Named Entities: [Sahara (location), Antarctica (location), Arctic (location)]
+
+Sentence: "He received the Nobel Prize in Physics in 1921 for his theoretical work on the behavior of electrons in metals and insulators."
+Named Entities: [Nobel Prize in Physics (organization)]
+
+Sentence: "The Amazon rainforest, also known in English as Amazonia, is a large tropical rainforest situated in the Amazon biome."
+Named Entities: [Amazon rainforest (location), Amazonia (location)]
+
+Sentence: "She is a member of the United States Senate from California since 2017."
+Named Entities: [United States Senate (organization), California (location)]
+
+Sentence: "Google LLC is an American multinational technology company specializing in Internet-related services and products."
+Named Entities: [Google LLC (organization), American (location)]
+
+Sentence: "He became the President of the United States in 2009 and served two terms."
+Named Entities: [President of the United States (organization)]
+
+Sentence: "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas."
+Named Entities: [Mount Everest (location), Mahalangur Himal (location), Himalayas (location)]
+
+Sentence: "She is the executive director of the National Association for the Advancement of Colored People, a civil rights organization in the United States."
+Named Entities: [National Association for the Advancement of Colored People (organization), United States (location)]
+
+Sentence: "The Louvre or the Louvre Museum is the world's largest art museum and a historic monument in Paris, France."
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+Sentence: "He is a member of the British royal family and the elder son of Queen Elizabeth II."
+Named Entities: [British royal family (organization), Queen Elizabeth II (person)]
+
+Sentence: "She was the Prime Minister of the United Kingdom from 1979 to 1990."
+Named Entities: [Prime Minister of the United Kingdom (organization)]
+
+Sentence: "The Democratic National Committee is the principal organization governing the United States Democratic Party on a day-to-day basis."
+Named Entities: [Democratic National Committee (organization), United States Democratic Party (organization)]
+
+Sentence: "Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra."
+Named Entities: [Taj Mahal (location), Yamuna river (location), Agra (location), India (location)]
+
+Sentence: "She is the founder and CEO of the environmental organization, Greenpeace."
+Named Entities: [Greenpeace (organization)]
+
+Sentence: "The Constitution of India is the supreme law of India."
+Named Entities: [Constitution of India (organization), India (location)]
+
+Sentence: "He was the co-founder of Microsoft Corporation with Bill Gates."
+Named Entities: [Microsoft Corporation (organization), Bill Gates (person)]
+
+Sentence: "The White House is the official residence and workplace of the President of the United States."
+Named Entities: [White House (location), President of the United States (organization)]
+
+Sentence: "He is a member of the European Parliament for the Italian Democratic Party."
+Named Entities: [European Parliament (organization), Italian Democratic Party (organization)]
+
+Sentence: "The Great Wall of China is the collective name of a series of fortification systems generally built across the historical northern borders to protect and consolidate territories of Chinese states and empires."
+Named Entities: [Great Wall of China (location), Chinese (location)]
+
+Sentence: "She became the CEO of Apple Inc. in 2017."
+Named Entities: [Apple Inc. (organization)]
+
+Sentence: "He is the incumbent Governor of New York and leads the New York State Democratic Party."
+Named Entities: [Governor of New York (organization), New York (location), New York State Democratic Party (organization)]
+
+Sentence: "The Kansas City Chiefs are a professional American football team based in Kansas City, Missouri."
+Named Entities: [Kansas City Chiefs (organization), Kansas City (location), Missouri (location)]
+
+Sentence: "Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived."
+Named Entities: [Leonardo da Vinci (person), Italian (location), High Renaissance (organization)]
+
+Sentence: "He is the head of the World Health Organization."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "She is a member of the United Nations General Assembly representing Germany."
+Named Entities: [United Nations General Assembly (organization), Germany (location)]
+
+Sentence: "Stanford University is a private research university in Stanford, California."
+Named Entities: [Stanford University (organization), Stanford (location), California (location)]
+
+Sentence: "He is a renowned physicist and a professor at the University of Cambridge."
+Named Entities: [University of Cambridge (organization)]
+
+Sentence: "The Supreme Court of the United States is the highest court in the federal judiciary of the United States of America."
+Named Entities: [Supreme Court of the United States (organization), United States of America (location)]
+
+Sentence: "She was the fourth female Justice of the Supreme Court of the United States."
+Named Entities: [Supreme Court of the United States (organization)]
+
+Sentence: "The United Nations is an intergovernmental organization to promote international co-operation."
+Named Entities: [United Nations (organization)]
+
+Sentence: "He established the Ford Motor Company and introduced the assembly line technique of mass production."
+Named Entities: [Ford Motor Company (organization)]
+
+Sentence: "She is a member of the United States House of Representatives for New York's 14th congressional district."
+Named Entities: [United States House of Representatives (organization), New York (location)]
+
+Sentence: "The Vatican City is an independent city-state enclaved within Rome, Italy."
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+
+Sentence: "She was the first female Prime Minister of India and served from 1966 to 1977 and then again from 1980 until her assassination in 1984."
+Named Entities: [Prime Minister of India (organization)]
+
+Sentence: "He is the leader of the People's Republic of China and the General Secretary of the Chinese Communist Party."
+Named Entities: [People's Republic of China (location), Chinese Communist Party (organization)]
+
+Sentence: "The Guggenheim Museum is an art museum located in Bilbao, Spain."
+Named Entities: [Guggenheim Museum (organization), Bilbao (location), Spain (location)]
+
+Sentence: "She is a member of the Paris City Council and a representative for the Socialist Party."
+Named Entities: [Paris City Council (organization), Socialist Party (organization)]
+
+Sentence: "The Islamic State of Iraq and the Levant is a Salafi jihadist militant group and former unrecognised proto-state."
+Named Entities: [Islamic State of Iraq and the Levant (organization)]
+
+Sentence: "He is the founder of Amazon.com and also owns The Washington Post."
+Named Entities: [Amazon.com (organization), Washington Post (organization)]
+
+Sentence: "She serves as the CEO of YouTube, a subsidiary of Google."
+Named Entities: [YouTube (organization), Google (organization)]
+
+Sentence: "The Niagara Falls are a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States."
+Named Entities: [Niagara Falls (location), Ontario (location), Canada (location), New York (location), United States (location)]
+
+Sentence: "He was the first President of the United States and served from 1789 to 1797."
+Named Entities: [President of the United States (organization)]

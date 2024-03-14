@@ -1,0 +1,8 @@
+1. Query: "Can you play the trailer for the new animated movie featuring talking animals?"
+Named Entities: [animated (Genre), talking animals (Plot), trailer (Trailer), new (Year)]
+
+2. Query: "What family-friendly movie with a catchy theme song was released in the past year?"
+Named Entities: [family-friendly (Viewers' Rating), catchy theme song (Song), past year (Year)]
+
+3. Query: "Who directed the latest fantasy adventure film for kids?"
+Named Entities: [latest (Year), fantasy adventure (Genre), kids (Viewers' Rating)]

@@ -1,0 +1,41 @@
+1. The company was founded in 1975 by Steve Jobs, Steve Wozniak, and Ronald Wayne.
+Named Entities: [Steve Jobs (person), Steve Wozniak (person), Ronald Wayne (person)]
+2. Tokyo is the capital city of Japan.
+Named Entities: [Tokyo (location), Japan (location)]
+3. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+4. She was born in Paris, France and moved to New York City at the age of 20.
+Named Entities: [Paris (location), France (location), New York City (location)]
+5. Albert Einstein was awarded the Nobel Prize in Physics in 1921.
+Named Entities: [Albert Einstein (person)]
+6. The National Aeronautics and Space Administration (NASA) was established in 1958.
+Named Entities: [National Aeronautics and Space Administration (organization), NASA (organization)]
+7. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+8. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+9. The Great Wall of China is the longest wall in the world.
+Named Entities: [Great Wall of China (location)]
+10. Leonardo da Vinci was an Italian polymath of the Renaissance.
+Named Entities: [Leonardo da Vinci (person), Italian (location), Renaissance (organization)]
+
+11. He scored one international goal, against Slovakia in 1994.
+Named Entities: [Slovakia (location)]
+12. The Amazon rainforest is the largest tropical rainforest in the world.
+Named Entities: [Amazon rainforest (location)]
+13. According to the World Bank, India is one of the fastest-growing economies.
+Named Entities: [World Bank (organization), India (location)]
+14. The Declaration of Independence of the United States was adopted on July 4, 1776.
+Named Entities: [Declaration of Independence (organization), United States (location)]
+15. The Louvre Museum in Paris is one of the world's largest art museums.
+Named Entities: [Louvre Museum (organization), Paris (location)]
+16. The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations.
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (organization), UNESCO (organization), United Nations (organization)]
+17. The prime minister of Canada is the head of the federal government.
+Named Entities: [Canada (location)]
+18. Mozart's Requiem was left unfinished at the time of his death.
+Named Entities: [Mozart (person)]
+19. The Eiffel Tower is located in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+20. The Nobel Peace Prize is awarded annually by the Norwegian Nobel Committee.
+Named Entities: [Nobel Peace Prize (organization), Norwegian Nobel Committee (organization)]

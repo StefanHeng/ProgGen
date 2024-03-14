@@ -1,0 +1,11 @@
+1. Query: "What {{year}} did the movie Les Misérables come out?"
+Text Span: "year"
+Label: (D). Not a Named Entity
+
+2. Query: "Show me a movie trailer for the {{latest}} James Bond film."
+Text Span: "latest"
+Label: (D). Not a Named Entity
+
+3. Query: "What is the best movie that came out in the year {{1997}}?"
+Text Span: "1997"
+Label: (A). The span is a named entity of type year

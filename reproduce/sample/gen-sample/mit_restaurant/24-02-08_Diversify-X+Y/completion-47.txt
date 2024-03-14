@@ -1,0 +1,8 @@
+1. "Where can I find late-night dining in the business district?"
+Named Entities: [late-night dining (Amenity), business district (Location)]
+
+2. "Do you have the late-night menu for P.F. Chang's?"
+Named Entities: [late-night menu (Amenity), P.F. Chang's (Restaurant Name)]
+
+3. "Is McDonald's open for late-night dining?"
+Named Entities: [McDonald's (Restaurant Name), late-night dining (Amenity)]

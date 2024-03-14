@@ -1,0 +1,14 @@
+Example 1:
+
+Sentence: "Sociology is the study of society, patterns of social relationships, social interaction, and culture of everyday life."
+Named Entities: []
+
+Example 2:
+
+Sentence: "The International Institute of Social Studies is an educational institution in The Hague, Netherlands, dedicated to the study and research of social issues."
+Named Entities: [International Institute of Social Studies (organization), The Hague (location), Netherlands (location)]
+
+Example 3:
+
+Sentence: "The Social Science Research Council is a non-profit organization that fosters research and conversations about critical social issues and challenges."
+Named Entities: [Social Science Research Council (organization)]

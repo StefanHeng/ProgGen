@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the director of the movie Inception?"
+Named Entities: [Inception (Title), director (Director)]
+
+2. Query: "Show me a movie starring Tom Hanks and Meg Ryan."
+Named Entities: [Tom Hanks (Actor), Meg Ryan (Actor)]
+
+3. Query: "What is the viewers' rating for the film La La Land?"
+Named Entities: [La La Land (Title), viewers' rating (Viewers' Rating)]

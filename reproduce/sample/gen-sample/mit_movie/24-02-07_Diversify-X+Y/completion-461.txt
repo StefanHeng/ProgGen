@@ -1,0 +1,8 @@
+1. Query: "I need to see a movie snippet of the latest Spider-Man film ASAP"
+   Named Entities: [movie snippet (Trailer), Spider-Man (Title)]
+
+2. Query: "Do you have any tickets for the new Spider-Man movie available right now?"
+   Named Entities: [tickets (Viewers' Rating), Spider-Man (Title)]
+
+3. Query: "What are the showtimes for Spider-Man: No Way Home today? Hurry up!"
+   Named Entities: [showtimes (Plot), Spider-Man: No Way Home (Title)]

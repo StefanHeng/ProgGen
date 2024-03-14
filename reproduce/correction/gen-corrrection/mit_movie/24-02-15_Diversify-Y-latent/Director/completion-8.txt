@@ -1,0 +1,11 @@
+1. Query: "who {{directed}} the epic film Gladiator"
+Text Span: "directed"
+Label: (D). Not a Named Entity
+
+2. Query: "Have movies with {{George Lucas}} as the director ever been rated 0 out of 10"
+Text Span: "George Lucas"
+Label: (A). Named entity of type Director
+
+3. Query: "What is the viewers' rating for the latest {{Jordan Peele}} horror movie?"
+Text Span: "Jordan Peele"
+Label: (A). Named entity of type Director

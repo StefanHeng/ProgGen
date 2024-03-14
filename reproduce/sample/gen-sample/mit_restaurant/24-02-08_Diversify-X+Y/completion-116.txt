@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a late-night dining option, preferably American cuisine. Can you suggest any place?"
+Named Entities: [late-night dining (Amenity), American (Cuisine)]
+
+2. Query: "What's the best spot for late-night dining with American food in the area?"
+Named Entities: [late-night dining (Amenity), American (Cuisine)]
+
+3. Query: "I need a recommendation for an American restaurant open for late-night dining, maybe Moonlight Diner?"
+Named Entities: [American (Cuisine), Moonlight Diner (Restaurant Name), late-night dining (Amenity)]

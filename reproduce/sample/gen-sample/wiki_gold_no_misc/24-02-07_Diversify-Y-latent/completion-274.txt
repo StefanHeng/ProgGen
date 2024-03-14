@@ -1,0 +1,8 @@
+1. "The Eiffel Tower, located in Paris, France, is a famous symbol of the city."
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+2. "She is the CEO of Apple Inc., a multinational technology company based in Cupertino, California."
+Named Entities: [CEO (person), Apple Inc. (organization), Cupertino (location), California (location)]
+
+3. "The Great Wall of China, a series of fortifications, was built to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe."
+Named Entities: [Great Wall of China (location), Chinese (organization)]

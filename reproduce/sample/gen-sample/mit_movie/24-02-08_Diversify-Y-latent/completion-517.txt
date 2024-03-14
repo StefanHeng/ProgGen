@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a thrilling plot and a 3-star rating"
+Named Entities: [thrilling (Plot), 3-star rating (Viewers' Rating)]
+
+2. "Show me a film released in 2003 that is considered engaging"
+Named Entities: [2003 (Year), engaging (Review)]
+
+3. "What's an unrated drama movie with an amazing soundtrack"
+Named Entities: [unrated (MPAA Rating), drama (Genre), amazing soundtrack (Song)]

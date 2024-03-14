@@ -1,0 +1,8 @@
+1. Query: "Can I get tickets for the new James Bond movie?"
+   Named Entities: [new James Bond (Title)]
+
+2. Query: "What time is the next showing for Jurassic Park?"
+   Named Entities: [next showing (Time), Jurassic Park (Title)]
+
+3. Query: "Are there any theaters playing the new Marvel movie tonight?"
+   Named Entities: [new Marvel (Title)]

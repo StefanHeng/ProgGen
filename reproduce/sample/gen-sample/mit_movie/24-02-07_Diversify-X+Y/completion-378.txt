@@ -1,0 +1,8 @@
+1. "Can you tell me who the costume designer was for that historical reenactment film that had a masterful portrayal of its lead actor?"
+Named Entities: [costume designer (Character), historical reenactment (Genre), masterful portrayal (Review)]
+
+2. "I'm looking for a movie about alien invasion directed by a female director, can you help me with that?"
+Named Entities: [alien invasion (Plot), female (Director)]
+
+3. "Which movie features a masterful portrayal of an actress by the name of Meryl Streep in a historical film set in ancient Rome?"
+Named Entities: [masterful portrayal (Review), Meryl Streep (Actor), historical (Genre), ancient Rome (Year)]

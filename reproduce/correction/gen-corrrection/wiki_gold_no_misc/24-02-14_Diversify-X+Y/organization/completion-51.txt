@@ -1,0 +1,8 @@
+1. Text Span: "Zara"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Inca"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is location.
+
+3. Text Span: "Defenders of Wildlife"
+Label: (A). The span is a named entity of type organization

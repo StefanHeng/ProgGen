@@ -1,0 +1,8 @@
+Sentence: "The field of engineering involves the application of scientific principles to design and build structures, machines, devices, systems, and processes."
+Named Entities: [Institution of Engineering and Technology (organization)]
+
+Sentence: "The Institution of Engineering and Technology (IET) is a multidisciplinary professional engineering institution."
+Named Entities: [Institution of Engineering and Technology (organization)]
+
+Sentence: "Engineering disciplines include civil engineering, electrical engineering, mechanical engineering, chemical engineering, and many others."
+Named Entities: [civil engineering (organization), electrical engineering (organization), mechanical engineering (organization), chemical engineering (organization)]

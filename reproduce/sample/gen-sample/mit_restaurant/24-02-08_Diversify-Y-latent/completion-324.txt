@@ -1,0 +1,8 @@
+1. "Can you recommend a Peruvian restaurant with inexpensive prices in this area?"
+Named Entities: [Peruvian (Cuisine), inexpensive (Price), area (Location)]
+
+2. "What are the opening hours for the Peruvian restaurant near the park?"
+Named Entities: [Peruvian (Cuisine), opening hours (Hours), near the park (Location)]
+
+3. "I need to find a highly rated restaurant with Peruvian dishes and a cozy ambiance."
+Named Entities: [highly rated (Rating), Peruvian dishes (Dish), cozy ambiance (Amenity)]

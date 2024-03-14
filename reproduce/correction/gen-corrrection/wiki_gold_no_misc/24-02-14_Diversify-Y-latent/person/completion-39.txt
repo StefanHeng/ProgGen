@@ -1,0 +1,11 @@
+1. Sentence: "The author J.K. Rowling is best known for creating the {{Harry Potter}} fantasy series, which has become one of the best-selling book series in history."
+Text Span: "Harry Potter"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "The Möbius strip, discovered independently by {{August Ferdinand Möbius}} and Johann Benedict Listing, is a non-orientable surface with only one side and one boundary."
+Text Span: "August Ferdinand Möbius"
+Label: (A). Correct Entity Annotation.
+
+3. Sentence: "{{Arianna Huffington}} is a Greek-American author, syndicated columnist, and businesswoman who co-founded The Huffington Post."
+Text Span: "Arianna Huffington"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a great soundtrack featuring the song I Got You Babe?"
+Named Entities: [I Got You Babe (Song)]
+
+Query: "What movie involves an undercover mission and is set during the Civil War era?"
+Named Entities: [undercover mission (Plot), Civil War (Plot)]
+
+Query: "Show me a film with an amazing soundtrack, particularly one with a Civil War setting."
+Named Entities: [Civil War (Plot)]

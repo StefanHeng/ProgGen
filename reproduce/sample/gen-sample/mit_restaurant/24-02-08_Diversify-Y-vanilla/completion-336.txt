@@ -1,0 +1,8 @@
+Query: "can you recommend any off the beaten path restaurants in the area"
+Named Entities: [off the beaten path (Amenity), restaurants (Amenity), area (Location)]
+
+Query: "where is the best place in town to get beef stroganoff"
+Named Entities: [best (Rating), beef stroganoff (Dish), town (Location)]
+
+Query: "what are the hours for the local italian restaurant"
+Named Entities: [hours (Hours), local (Location), italian (Cuisine)]

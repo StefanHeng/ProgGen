@@ -1,0 +1,8 @@
+Query: "I'm craving some Chinese food from a food truck that offers takeout"
+Named Entities: [Chinese (Cuisine), food truck (Amenity), takeout (Amenity)]
+
+Query: "Can you recommend a Chinese food truck that is open for takeout right now?"
+Named Entities: [Chinese (Cuisine), food truck (Amenity), takeout (Amenity)]
+
+Query: "Where can I find a food truck serving Chinese cuisine with takeout options?"
+Named Entities: [Chinese (Cuisine), food truck (Amenity), takeout (Amenity)]

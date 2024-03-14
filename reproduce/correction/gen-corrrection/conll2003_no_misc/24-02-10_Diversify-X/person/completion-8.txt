@@ -1,0 +1,8 @@
+1. Text Span: "Toni Morrison"
+Label: (A)
+
+2. Text Span: "Former refugee"
+Label: (C). The correct entity type is person.
+
+3. Text Span: "small business owner"
+Label: (C). The correct entity type is person.

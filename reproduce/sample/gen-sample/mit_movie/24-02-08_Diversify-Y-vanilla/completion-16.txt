@@ -1,0 +1,8 @@
+1. Query: "What is the highest-rated comedy film featuring [Ron Weasley] as a character?"
+Named Entities: [highest-rated (Review), Ron Weasley (Character)]
+
+2. Query: "Can you recommend a movie with a great soundtrack that [Ron Weasley] starred in?"
+Named Entities: [great soundtrack (Song), Ron Weasley (Actor)]
+
+3. Query: "Who directed the action movie in which [Ron Weasley] appeared?"
+Named Entities: [action movie (Genre), Ron Weasley (Character) ]

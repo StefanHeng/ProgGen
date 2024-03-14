@@ -1,0 +1,8 @@
+1. "Can you recommend a drama film from 1998 with a satisfying conclusion?"
+   Named Entities: [1998 (Year), Drama (Genre), satisfying conclusion (Review)]
+
+2. "What is the viewers' rating for the movie directed by Chris Evans?"
+   Named Entities: [Chris Evans (Director)]
+
+3. "Show me a trailer for the movie that has a song performed by Elton John."
+   Named Entities: [Elton John (Song)]

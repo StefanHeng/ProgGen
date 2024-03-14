@@ -1,0 +1,149 @@
+1. President Biden signs executive order on climate change.
+Named Entities: [President Biden (person)]
+
+2. Amazon announces plans to open new headquarters in Atlanta.
+Named Entities: [Amazon (organization), Atlanta (location)]
+
+3. Scientists discover new species of dinosaur in Patagonia.
+Named Entities: [Patagonia (location)]
+
+4. Apple releases new iPhone with advanced camera features.
+Named Entities: [Apple (organization)]
+
+5. New study shows correlation between social media use and mental health issues.
+Named Entities: []
+
+6. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+7. European Union imposes sanctions on Russia.
+Named Entities: [European Union (organization), Russia (location)]
+
+8. Actress Emma Watson speaks out against gender inequality in Hollywood.
+Named Entities: [Emma Watson (person), Hollywood (location)]
+
+9. Ford recalls over 100,000 vehicles due to safety concerns.
+Named Entities: [Ford (organization)]
+
+10. United Nations announces humanitarian aid for refugees in Syria.
+Named Entities: [United Nations (organization), Syria (location)]
+
+11. CEO Elon Musk steps down from Tesla.
+Named Entities: [Elon Musk (person), Tesla (organization)]
+
+12. New York City implements new COVID-19 restrictions.
+Named Entities: [New York City (location)]
+
+13. Former President Obama to release memoir next year.
+Named Entities: [President Obama (person)]
+
+14. Starbucks to expand its presence in China.
+Named Entities: [Starbucks (organization), China (location)]
+
+15. Tennis player Serena Williams advances to the semifinals.
+Named Entities: [Serena Williams (person)]
+
+16. Google faces antitrust lawsuit from the Department of Justice.
+Named Entities: [Google (organization), Department of Justice (organization)]
+
+17. Hurricane season expected to be particularly active this year.
+Named Entities: []
+
+18. Microsoft acquires artificial intelligence startup.
+Named Entities: [Microsoft (organization)]
+
+19. French government proposes new tax reforms.
+Named Entities: [French government (organization)]
+
+20. Pilot reported seeing unidentified flying object over Arizona.
+Named Entities: [Arizona (location)]
+
+21. Legendary musician Paul McCartney to perform at charity concert.
+Named Entities: [Paul McCartney (person)]
+
+22. Walmart to launch same-day delivery service.
+Named Entities: [Walmart (organization)]
+
+23. California wildfires continue to devastate communities.
+Named Entities: [California (location)]
+
+24. CEO Tim Cook unveils new line of products at Apple event.
+Named Entities: [Tim Cook (person), Apple (organization)]
+
+25. Italian fashion house Gucci under fire for cultural appropriation.
+Named Entities: [Gucci (organization), Italy (location)]
+
+26. Renowned chef Gordon Ramsay opens new restaurant in Las Vegas.
+Named Entities: [Gordon Ramsay (person), Las Vegas (location)]
+
+27. South Korea imposes strict lockdown measures amid surge in COVID-19 cases.
+Named Entities: [South Korea (location)]
+
+28. Bitcoin reaches new all-time high in trading value.
+Named Entities: []
+
+29. British Prime Minister Boris Johnson announces new infrastructure plan.
+Named Entities: [Boris Johnson (person)]
+
+30. Amazon founder Jeff Bezos steps down as CEO.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+
+31. Broadway musical Hamilton to return to theaters next year.
+Named Entities: [Hamilton (organization)]
+
+32. AstraZeneca vaccine found to be highly effective in new study.
+Named Entities: [AstraZeneca (organization)]
+
+33. Manchester United signs new sponsorship deal with major tech company.
+Named Entities: [Manchester United (organization)]
+
+34. McDonald's introduces new plant-based burger to its menu.
+Named Entities: [McDonald's (organization)]
+
+35. Swiss government announces plans to reduce carbon emissions.
+Named Entities: [Swiss government (organization)]
+
+36. Actress Angelina Jolie appointed as special envoy for the United Nations High Commissioner for Refugees.
+Named Entities: [Angelina Jolie (person), United Nations High Commissioner for Refugees (organization)]
+
+37. Violent protests erupt in downtown Los Angeles.
+Named Entities: [Los Angeles (location)]
+
+38. CEO Mark Zuckerberg faces congressional hearing on privacy issues.
+Named Entities: [Mark Zuckerberg (person)]
+
+39. Tokyo Olympics organizers announce new COVID-19 protocols for athletes.
+Named Entities: [Tokyo (location), Olympics (organization)]
+
+40. Starbucks CEO Howard Schultz to step down from his position.
+Named Entities: [Howard Schultz (person), Starbucks (organization)]
+
+41. New Zealand experiences 6.5 magnitude earthquake.
+Named Entities: [New Zealand (location)]
+
+42. Grammy-winning artist Beyoncé to headline music festival in Chicago.
+Named Entities: [Beyoncé (person), Chicago (location)]
+
+43. Tesla announces plans to build new Gigafactory in Texas.
+Named Entities: [Tesla (organization), Texas (location)]
+
+44. Germany approves new climate change legislation.
+Named Entities: [Germany (location)]
+
+45. Legendary director Steven Spielberg to produce new film.
+Named Entities: [Steven Spielberg (person)]
+
+46. SpaceX CEO Elon Musk announces plans for manned mission to Mars.
+Named Entities: [SpaceX (organization), Elon Musk (person), Mars (location)]
+
+47. Australian government launches inquiry into banking industry practices.
+Named Entities: [Australian government (organization)]
+
+48. Major snowstorm expected to hit northeastern United States.
+Named Entities: [United States (location)]
+
+49. Instagram introduces new feature to combat cyberbullying.
+Named Entities: [Instagram (organization)]
+
+50. Japanese car manufacturer Toyota to invest $1 billion in renewable energy.
+Named Entities: [Toyota (organization), Japan (location)]

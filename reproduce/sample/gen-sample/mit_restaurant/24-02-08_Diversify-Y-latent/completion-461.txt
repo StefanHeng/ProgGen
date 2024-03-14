@@ -1,0 +1,8 @@
+Query: "recommend a restaurant with a BYOB policy"
+Named Entities: [BYOB (Amenity)]
+
+Query: "where can I find a Mexican restaurant with outdoor seating"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]
+
+Query: "show me a list of restaurants with live music on weekends"
+Named Entities: [live music (Amenity), weekends (Hours)]

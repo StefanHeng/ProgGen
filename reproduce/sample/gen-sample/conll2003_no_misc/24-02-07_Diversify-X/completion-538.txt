@@ -1,0 +1,8 @@
+1. "Renowned physicist Dr. Jane Smith makes groundbreaking discovery in the field of quantum mechanics."
+Named Entities: [Dr. Jane Smith (person)]
+
+2. "Local high school students win prestigious science competition with innovative solar-powered car design."
+Named Entities: []
+
+3. "World-renowned organization for space exploration announces plans for manned mission to Mars."
+Named Entities: [organization for space exploration (organization), Mars (location)]

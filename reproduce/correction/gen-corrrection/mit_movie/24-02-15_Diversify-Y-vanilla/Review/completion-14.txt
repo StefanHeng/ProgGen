@@ -1,0 +1,11 @@
+1. Query: "What movie directed by Christopher Nolan has the {{best viewers' rating}}?"
+Text Span: "best viewers' rating"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Can you recommend a movie with {{gripping suspense}}?"
+Text Span: "gripping suspense"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "can you recommend a movie with a {{powerful message}}"
+Text Span: "powerful message"
+Label: (A). Correct Entity Annotation.

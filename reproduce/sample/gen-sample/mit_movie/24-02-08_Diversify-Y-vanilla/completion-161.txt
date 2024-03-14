@@ -1,0 +1,8 @@
+Query: "What is the genre of Mean Girls?"
+Named Entities: [Mean Girls (Title)]
+
+Query: "Can you recommend an excellent movie with a 3.5-star rating?"
+Named Entities: [Excellent (Viewers' Rating), 3.5-star rating (Viewers' Rating)]
+
+Query: "Who directed the movie with a 3.5-star rating about a group of friends in the 90s?"
+Named Entities: [3.5-star rating (Viewers' Rating), 90s (Year)]

@@ -1,0 +1,8 @@
+1. "I'm craving some fast food. Can you recommend a place with a drive-thru nearby?"
+Named Entities: [fast food (Cuisine), drive-thru (Amenity)]
+
+2. "I want to grab a quick bite on my way home. Any fast food joints with good deals for dinner around here?"
+Named Entities: [fast food (Cuisine), dinner (Meal), deals (Price)]
+
+3. "I need to pick up some fast food for lunch. Where's the closest place with a drive-thru option?"
+Named Entities: [fast food (Cuisine), lunch (Meal), closest (Location), drive-thru (Amenity)]

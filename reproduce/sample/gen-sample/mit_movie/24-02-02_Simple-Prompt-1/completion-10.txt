@@ -1,0 +1,149 @@
+1. What is the highest rated movie of all time?
+Named Entities: [highest rated (Review)]
+
+2. How many movies has Michael Bay directed?
+Named Entities: [Michael Bay (Director)]
+
+3. What is the song played in the end credits of Titanic?
+Named Entities: [Titanic (Title), end credits (Song)]
+
+4. Can you recommend a good horror movie?
+Named Entities: [horror (Genre)]
+
+5. Which movie won the Best Picture Oscar in 2010?
+Named Entities: [Best Picture Oscar (Award), 2010 (Year)]
+
+6. Who is the actor in the main role in The Godfather?
+Named Entities: [The Godfather (Title), main role (Character)]
+
+7. What is your favorite sci-fi film?
+Named Entities: [favorite (Viewers' Rating), sci-fi (Genre)]
+
+8. Can you show me the trailer for the latest Marvel movie?
+Named Entities: [latest (Year), Marvel (Genre), trailer (Trailer)]
+
+9. What is the plot of Inception?
+Named Entities: [Inception (Title), plot (Plot)]
+
+10. Is there a specific rating for The Shawshank Redemption?
+Named Entities: [The Shawshank Redemption (Title), specific rating (MPAA Rating)]
+
+11. Who is the female lead in the film Carol?
+Named Entities: [Carol (Title), female lead (Character)]
+
+12. Show me a movie from the 1980s with a high viewers' rating.
+Named Entities: [1980s (Year), high viewers' rating (Viewers' Rating)]
+
+13. What is the most recent film directed by Christopher Nolan?
+Named Entities: [recent (Year), Christopher Nolan (Director)]
+
+14. Can you recommend a comedy film from the 1990s?
+Named Entities: [comedy (Genre), 1990s (Year)]
+
+15. What is the review for The Dark Knight?
+Named Entities: [The Dark Knight (Title), review (Review)]
+
+16. Which actor played the character of Harry Potter?
+Named Entities: [Harry Potter (Character), actor (Actor)]
+
+17. Show me a famous movie directed by Alfred Hitchcock.
+Named Entities: [Alfred Hitchcock (Director), famous (Viewers' Rating)]
+
+18. What is the MPAA rating for Star Wars: A New Hope?
+Named Entities: [Star Wars: A New Hope (Title), MPAA rating (MPAA Rating)]
+
+19. What is the title of the best film by Steven Spielberg?
+Named Entities: [Steven Spielberg (Director), best film (Title)]
+
+20. What is the theme song of the film The Lion King?
+Named Entities: [The Lion King (Title), theme song (Song)]
+
+21. Is there a movie about the life of Abraham Lincoln?
+Named Entities: [Abraham Lincoln (Character)]
+
+22. Can you recommend an action-packed movie released in the 2010s?
+Named Entities: [action-packed (Genre), 2010s (Year)]
+
+23. What is the viewers' rating for The Matrix?
+Named Entities: [The Matrix (Title), viewers' rating (Viewers' Rating)]
+
+24. Who is the director of the film Avatar?
+Named Entities: [Avatar (Title), director (Director)]
+
+25. Show me a romantic movie set in the 1950s.
+Named Entities: [romantic (Genre), 1950s (Year)]
+
+26. What is the plot twist in The Sixth Sense?
+Named Entities: [The Sixth Sense (Title), plot twist (Plot)]
+
+27. Is there a movie about the life of Nelson Mandela?
+Named Entities: [Nelson Mandela (Character)]
+
+28. What is the MPAA rating for Jaws?
+Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+
+29. Who is the leading actor in The Social Network?
+Named Entities: [The Social Network (Title), leading actor (Actor)]
+
+30. Can you recommend a classic film starring Audrey Hepburn?
+Named Entities: [classic (Viewers' Rating), Audrey Hepburn (Actor)]
+
+31. What is the viewers' rating for The Silence of the Lambs?
+Named Entities: [The Silence of the Lambs (Title), viewers' rating (Viewers' Rating)]
+
+32. Who is the director of the movie The Shawshank Redemption?
+Named Entities: [The Shawshank Redemption (Title), director (Director)]
+
+33. Is there a film adaptation of the book 1984?
+Named Entities: [1984 (Title)]
+
+34. What genre does the film The Great Gatsby belong to?
+Named Entities: [The Great Gatsby (Title), genre (Genre)]
+
+35. Show me the trailer for the latest James Bond movie.
+Named Entities: [latest (Year), James Bond (Character), trailer (Trailer)]
+
+36. What is the viewers' rating for the Harry Potter series?
+Named Entities: [Harry Potter (Character), viewers' rating (Viewers' Rating)]
+
+37. Can you recommend a family-friendly movie that is suitable for all ages?
+Named Entities: [family-friendly (Genre)]
+
+38. What is the plot of the movie The Usual Suspects?
+Named Entities: [The Usual Suspects (Title), plot (Plot)]
+
+39. Who is the female lead in the film The Notebook?
+Named Entities: [The Notebook (Title), female lead (Character)]
+
+40. Is there a specific song associated with the film Dirty Dancing?
+Named Entities: [Dirty Dancing (Title), specific song (Song)]
+
+41. What is the review for The Godfather?
+Named Entities: [The Godfather (Title), review (Review)]
+
+42. Can you recommend a must-see film by Quentin Tarantino?
+Named Entities: [must-see (Viewers' Rating), Quentin Tarantino (Director)]
+
+43. What are some historical war films that are worth watching?
+Named Entities: [historical (Genre), war (Genre), worth watching (Viewers' Rating)]
+
+44. What is the MPAA rating for The Notebook?
+Named Entities: [The Notebook (Title), MPAA rating (MPAA Rating)]
+
+45. Who is the leading actor in the film Gladiator?
+Named Entities: [Gladiator (Title), leading actor (Actor)]
+
+46. Show me a classic movie with Humphrey Bogart in the lead role.
+Named Entities: [classic (Viewers' Rating), Humphrey Bogart (Actor)]
+
+47. What is the viewers' rating for the Twilight series?
+Named Entities: [Twilight (Title), viewers' rating (Viewers' Rating)]
+
+48. Can you recommend a mystery film from the 1970s?
+Named Entities: [mystery (Genre), 1970s (Year)]
+
+49. What movie theme was composed by John Williams?
+Named Entities: [John Williams (Song)]
+
+50. How many movies has Meryl Streep starred in?
+Named Entities: [Meryl Streep (Actor)]

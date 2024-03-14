@@ -1,0 +1,8 @@
+1. Text Span: "CEO"
+Label: (D). The span is not a named entity
+
+2. Text Span: "William H. Stewart"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Sigmund Freud"
+Label: (A). The span is a named entity of type person

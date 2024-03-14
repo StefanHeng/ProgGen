@@ -1,0 +1,8 @@
+1. "What movies were released in 1957?"
+Named Entities: [1957 (Year)]
+
+2. "Can I get a sneak peek of a comedy movie rated TV-Y7?"
+Named Entities: [Sneak peek (Trailer), TV-Y7 (MPAA Rating), comedy (Genre)]
+
+3. "Who directed the top action movie of the 1990s?"
+Named Entities: [top action movie (Review), 1990s (Year)]

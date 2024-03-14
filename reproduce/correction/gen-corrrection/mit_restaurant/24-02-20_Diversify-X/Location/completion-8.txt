@@ -1,0 +1,8 @@
+1. Text Span: "fancy part of town"
+   Label: (B). Wrong Boundary. The correct span boundary is "in the fancy part of town".
+
+2. Text Span: "nearest"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "in the area"
+   Label: (A). Correct Entity Annotation.

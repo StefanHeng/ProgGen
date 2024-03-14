@@ -1,0 +1,8 @@
+Sentence: "Breaking News: Elon Musk's SpaceX successfully launches new satellite into orbit."
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+Sentence: "Wildfires ravage California, forcing thousands to evacuate their homes."
+Named Entities: [California (location)]
+
+Sentence: "Global pandemic reaches new heights, WHO warns of potential fourth wave."
+Named Entities: [WHO (organization)]

@@ -1,0 +1,8 @@
+Query: "I’m looking for showtimes and tickets to a 90s action movie directed by James Cameron"
+Named Entities: [90s (Year), action (Genre), James Cameron (Director)]
+
+Query: "What are the top-rated horror films currently showing and where can I buy tickets?"
+Named Entities: [top-rated horror films (Viewers' Rating), tickets (Entity)]
+
+Query: "I want to see a critically acclaimed romantic comedy from the 2000s with Hugh Grant in it, can you help me find showtimes?"
+Named Entities: [romantic comedy (Genre), 2000s (Year), Hugh Grant (Actor)]

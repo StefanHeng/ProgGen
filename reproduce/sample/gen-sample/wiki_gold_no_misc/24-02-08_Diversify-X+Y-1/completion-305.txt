@@ -1,0 +1,8 @@
+Sentence: "Sally Ride became the first American woman in space in 1983."
+Named Entities: [Sally Ride (person)]
+
+Sentence: "NASA's space exploration program has led to numerous discoveries and advancements in technology."
+Named Entities: [NASA (organization)]
+
+Sentence: "The International Space Station serves as a crucial hub for research and collaboration in space exploration."
+Named Entities: [International Space Station (location)]

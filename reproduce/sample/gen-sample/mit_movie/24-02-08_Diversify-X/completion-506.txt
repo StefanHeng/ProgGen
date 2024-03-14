@@ -1,0 +1,8 @@
+1. "Are there any action movies playing tonight that were directed by James Cameron"
+   Named Entities: [action (Genre), James Cameron (Director)]
+
+2. "Can I buy tickets for a sci-fi film that was released in the 1990s and has a high viewers' rating?"
+   Named Entities: [sci-fi (Genre), 1990s (Year), high (Viewers' Rating)]
+
+3. "What are the showtimes for the latest thriller movie starring Denzel Washington"
+   Named Entities: [thriller (Genre), Denzel Washington (Actor)]

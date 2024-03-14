@@ -1,0 +1,8 @@
+1. "Can you recommend a high-rated Italian restaurant near Sydney?"
+   Named Entities: [high-rated (Rating), Italian (Cuisine), Sydney (Location)]
+
+2. "What are the operating hours of the nearest seafood restaurant?"
+   Named Entities: [operating hours (Hours), seafood (Cuisine)]
+
+3. "I'm craving for sushi, where can I find a sushi bar with affordable prices in Sydney?"
+   Named Entities: [sushi (Cuisine), affordable prices (Price), Sydney (Location)]

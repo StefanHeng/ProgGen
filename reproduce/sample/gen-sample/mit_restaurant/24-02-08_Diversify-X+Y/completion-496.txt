@@ -1,0 +1,8 @@
+1. Query: "What fast food places are open right now?"
+Named Entities: [fast food (Cuisine), Open (Hours)]
+
+2. Query: "I'm craving some casual fast food, can you suggest a place?"
+Named Entities: [fast food (Cuisine), casual (Amenity)]
+
+3. Query: "Where is the nearest Arby's?"
+Named Entities: [Arby's (Restaurant Name), nearest (Location)]

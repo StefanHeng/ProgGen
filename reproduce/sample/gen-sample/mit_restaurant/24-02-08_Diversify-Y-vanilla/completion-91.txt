@@ -1,0 +1,8 @@
+1. "Where can I find the best Mofongo in town?"
+Named Entities: [best (Rating), Mofongo (Dish)]
+
+2. "Can you recommend a nearby restaurant with outdoor seating and a view of the water?"
+Named Entities: [nearby (Location), outdoor seating (Amenity), water (Amenity)]
+
+3. "I'm looking for a Mexican restaurant that's open late tonight, any suggestions?"
+Named Entities: [Mexican (Cuisine), open late tonight (Hours)]

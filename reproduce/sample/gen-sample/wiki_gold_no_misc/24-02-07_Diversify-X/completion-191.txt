@@ -1,0 +1,8 @@
+Sentence: The capital and largest city of Georgia is Atlanta.
+Named Entities: [Georgia (location), Atlanta (location)]
+
+Sentence: The Amazon River in South America is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location), South America (location)]
+
+Sentence: Mount Everest, located in the Himalayas, is the highest mountain in the world above sea level.
+Named Entities: [Mount Everest (location), Himalayas (location)]

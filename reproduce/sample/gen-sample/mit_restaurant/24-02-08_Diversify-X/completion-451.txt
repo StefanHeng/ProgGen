@@ -1,0 +1,8 @@
+Query: "show me a fine dining restaurant with affordable prices"
+Named Entities: [fine dining (Amenity), affordable prices (Price)]
+
+Query: "recommend a restaurant with high ratings and a fine dining experience"
+Named Entities: [high ratings (Rating), fine dining (Amenity)]
+
+Query: "where can I have a luxurious meal without breaking the bank"
+Named Entities: [luxurious meal (Cuisine), without breaking the bank (Price)]

@@ -1,0 +1,8 @@
+1. "Can you show me any real-life behind-the-scenes footage of a movie directed by Ron Howard, maybe something related to space exploration?"
+   Named Entities: [Ron Howard (Director), real-life (Plot), behind-the-scenes footage (Trailer), space exploration (Genre)]
+
+2. "I'm curious about the making-of details of Ben-Hur from 1996, can you share some behind-the-scenes information with me?"
+   Named Entities: [Ben-Hur (Title), 1996 (Year), behind-the-scenes (Plot)]
+
+3. "Do you have any information about the movie featuring Gwyneth Paltrow and Lupita Nyong'o? I'm interested in learning more about the real-life stories behind the scenes."
+   Named Entities: [Gwyneth Paltrow (Actor), Lupita Nyong'o (Actor), real-life (Plot)]

@@ -1,0 +1,8 @@
+1. Text Span: "screenings"
+Label: (C). The span is a named entity but the category is not viewers' rating. Category: Other
+
+2. Text Span: "viewers' rating"
+Label: (D). The span is not a named entity
+
+3. Text Span: "viewers' rating"
+Label: (A). The span is a named entity of type viewers' rating

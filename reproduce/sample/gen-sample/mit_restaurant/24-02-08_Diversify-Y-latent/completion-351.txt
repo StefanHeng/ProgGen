@@ -1,0 +1,8 @@
+1. "What are the top-rated Italian restaurants in the downtown area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+2. "I'm in the mood for sushi, can you recommend a sushi bar with outdoor seating?"
+Named Entities: [sushi (Cuisine), sushi bar (Restaurant Name), outdoor seating (Amenity)]
+
+3. "Is there a family-friendly diner open for breakfast near the beach?"
+Named Entities: [family-friendly (Amenity), diner (Restaurant Name), breakfast (Amenity), near the beach (Location)]

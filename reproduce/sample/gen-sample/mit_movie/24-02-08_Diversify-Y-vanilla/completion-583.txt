@@ -1,0 +1,8 @@
+1. "What Above Average movies were released in 1952"
+   Named Entities: [Above Average (Review), 1952 (Year)]
+
+2. "Can you recommend a Forbidden romance film that is considered Masterful"
+   Named Entities: [Forbidden romance (Plot), Masterful (Review)]
+
+3. "Show me the trailer for The Old Man and the Sea, a Mature Audiences film with the song We Will Rock You"
+   Named Entities: [The Old Man and the Sea (Title), Mature Audiences (MPAA Rating), We Will Rock You (Song), Trailer (Trailer)]

@@ -1,0 +1,8 @@
+1. Query: "What famous movies feature the song 'Let It Go'?"
+Named Entities: ['Let It Go' (Song)]
+
+2. Query: "Can you recommend a movie with an awesome soundtrack for a girls' night in?"
+Named Entities: [girls' night (Viewers' Rating), awesome soundtrack (Review)]
+
+3. Query: "Who directed the movie with the best 80s music soundtrack?"
+Named Entities: [80s music (Genre)]

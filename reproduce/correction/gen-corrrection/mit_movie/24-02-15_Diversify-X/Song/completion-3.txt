@@ -1,0 +1,8 @@
+1. Text Span: "great soundtrack"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "The Beatles"
+Label: (C). The correct entity type is Artist.
+
+3. Text Span: "popular love song"
+Label: (B). The correct span boundary is "popular love song" instead of just "popular love".

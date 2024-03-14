@@ -1,0 +1,8 @@
+1. Steven Spielberg is known for directing blockbuster films such as E.T., Jurassic Park, and Jaws.
+Named Entities: [Steven Spielberg (person)]
+
+2. Ted Turner founded the Cable News Network (CNN) and also owned the Atlanta Braves baseball team.
+Named Entities: [Ted Turner (person), Cable News Network (organization), Atlanta Braves (organization)]
+
+3. The International Space Station (ISS) serves as a microgravity and space environment research laboratory in which scientific research is conducted in astrobiology, astronomy, meteorology, physics, and other fields.
+Named Entities: [International Space Station (location)]

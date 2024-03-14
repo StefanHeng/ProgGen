@@ -1,0 +1,8 @@
+1. Query: "Can I stream the movie 'The Shawshank Redemption' anywhere?"
+Named Entities: ['The Shawshank Redemption' (Title)]
+
+2. Query: "Is there a way to watch 'Inception' online?"
+Named Entities: ['Inception' (Title)]
+
+3. Query: "Where can I find 'The Godfather' to stream?"
+Named Entities: ['The Godfather' (Title)]

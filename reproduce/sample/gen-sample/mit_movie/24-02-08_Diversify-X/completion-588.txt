@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the name of the movie that has a behind-the-scenes documentary about its special effects?"
+Named Entities: [behind-the-scenes documentary (Plot), special effects (Plot)]
+
+2. Query: "I'm looking for a movie from the 90s with a director's commentary featuring behind-the-scenes stories."
+Named Entities: [90s (Year), director's commentary (Plot), behind-the-scenes stories (Plot)]
+
+3. Query: "Are there any romantic comedies with a making-of featurette about the chemistry between the lead actors?"
+Named Entities: [romantic comedies (Genre), making-of featurette (Plot), chemistry between the lead actors (Plot)]

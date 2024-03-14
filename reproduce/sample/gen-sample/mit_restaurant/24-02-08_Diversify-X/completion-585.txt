@@ -1,0 +1,8 @@
+Query: "Can you recommend a fancy Italian restaurant with outdoor seating?"
+Named Entities: [fancy (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm looking for a high-end steakhouse with live music for tonight"
+Named Entities: [high-end (Price), steakhouse (Cuisine), live music (Amenity), tonight (Hours)]
+
+Query: "What are the top-rated French restaurants in the downtown area for a special dinner?"
+Named Entities: [top-rated (Rating), French (Cuisine), downtown area (Location), special dinner (Amenity) ]

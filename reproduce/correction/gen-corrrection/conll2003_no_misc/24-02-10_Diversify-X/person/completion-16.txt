@@ -1,0 +1,8 @@
+1. Text Span: "Tourist"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Text Span: "expert"
+Label: (D)
+
+3. Text Span: "homeless man"
+Label: (A)

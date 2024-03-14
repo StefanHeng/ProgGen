@@ -1,0 +1,11 @@
+1. Sentence: "{{Apple Inc.}} announces launch of new iPhone 13."
+Text Span: "Apple Inc."
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{U.S.}} urges NATO members to increase defense spending."
+Text Span: "U.S."
+Label: (C). The span is a named entity but the category is not organization. Entity type: location
+
+3. Sentence: "{{Time Magazine}} names Prague as the top travel destination for 2022."
+Text Span: "Time Magazine"
+Label: (A). The span is a named entity of type organization

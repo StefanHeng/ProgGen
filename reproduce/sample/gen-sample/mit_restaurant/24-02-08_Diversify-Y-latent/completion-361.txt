@@ -1,0 +1,8 @@
+Query: "Can you recommend an outstanding food truck in the area?"
+Named Entities: [outstanding (Rating), food truck (Amenity), area (Location)]
+
+Query: "I'm looking for high-priced food truck fare in the downtown area."
+Named Entities: [high-priced (Price), food truck (Amenity), downtown area (Location)] 
+
+Query: "What's the best food truck with international cuisine nearby?"
+Named Entities: [best (Rating), food truck (Amenity), international cuisine (Cuisine), nearby (Location)]

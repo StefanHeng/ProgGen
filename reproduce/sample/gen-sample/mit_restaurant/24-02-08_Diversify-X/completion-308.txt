@@ -1,0 +1,8 @@
+1. "Which fast food restaurants in the area are open past 10 pm?"
+   Named Entities: [fast food (Cuisine), past 10 pm (Hours)]
+
+2. "Can you recommend a fast food place with good ratings and affordable prices?"
+   Named Entities: [fast food (Cuisine), good ratings (Rating), affordable prices (Price)]
+
+3. "Where is the nearest fast food joint with a drive-thru?"
+   Named Entities: [fast food (Cuisine), nearest (Location), drive-thru (Amenity)]

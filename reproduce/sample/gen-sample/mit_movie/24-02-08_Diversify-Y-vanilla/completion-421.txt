@@ -1,0 +1,8 @@
+1. "Can you recommend any mind-bending movies starring Anne Hathaway?"
+Named Entities: [mind-bending (Genre), Anne Hathaway (Actor)]
+
+2. "What's a modern-day fairy tale film that's considered flawless by viewers?"
+Named Entities: [modern-day fairy tale (Genre), flawless (Viewers' Rating)]
+
+3. "I'm looking for a Shawshank Redemption type of film that doesn't involve exploitation."
+Named Entities: [Shawshank Redemption (Title), exploitation (Plot)]

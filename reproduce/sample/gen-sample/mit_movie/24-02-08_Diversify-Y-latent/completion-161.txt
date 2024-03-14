@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie directed by James Mangold with an R rating"
+   Named Entities: [James Mangold (Director), R (MPAA Rating)]
+
+2. Query: "What classic movies from the 1970s have a high 8.5/10 rating"
+   Named Entities: [1970s (Year), 8.5/10 rating (Viewers' Rating)]
+
+3. Query: "Is there a movie by James Mangold with an R rating that was released in the 1970s"
+   Named Entities: [James Mangold (Director), R (MPAA Rating), 1970s (Year)]

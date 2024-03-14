@@ -1,0 +1,8 @@
+Query: "What are some highly rated Italian restaurants in the area according to Zagat"
+Named Entities: [highly rated (Rating), Italian (Cuisine), Zagat (Amenity)]
+
+Query: "I need a reservation at the best seafood restaurant around here for 7 p m tonight"
+Named Entities: [best (Rating), seafood (Cuisine), 7 p m (Hours)]
+
+Query: "Can you recommend a budget-friendly restaurant with outdoor seating and a vegan menu"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity), vegan (Cuisine)]

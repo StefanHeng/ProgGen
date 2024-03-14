@@ -1,0 +1,8 @@
+Query: "Can you recommend a quirky and eccentric café with an outdoor terrace in New York City?"
+Named Entities: [quirky and eccentric (Amenity), New York City (Location), Outdoor terrace (Amenity), café (Cuisine)]
+
+Query: "I'm looking for a popular café with outdoor seating in San Francisco for a business meeting"
+Named Entities: [popular café (Rating), San Francisco (Location), Outdoor terrace (Amenity), business meeting (Amenity), café (Cuisine)]
+
+Query: "Any suggestions for a unique café with an outdoor terrace in London that would appeal to a 45-year-old businessman?"
+Named Entities: [unique (Rating), café (Cuisine), outdoor terrace (Amenity), London (Location), 45-year-old businessman (Price)]

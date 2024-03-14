@@ -1,0 +1,8 @@
+Query: "I'm looking for a Paraguayan restaurant in the 10011 zip code"
+Named Entities: [Paraguayan (Cuisine), 10011 (Zip code)]
+
+Query: "Do you know of any Ecuadorian restaurants with no-reservation hours"
+Named Entities: [Ecuadorian (Cuisine), no-reservation hours (Amenity)]
+
+Query: "I want to make a reservation at Eleven Madison Park for 8 p.m."
+Named Entities: [Eleven Madison Park (Restaurant Name), 8 p.m. (Hours)]

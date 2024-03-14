@@ -1,0 +1,8 @@
+Query: "Could you provide me with information on the awards and nominations received by the movie The Hurt Locker?"
+Named Entities: [The Hurt Locker (Title)]
+
+Query: "I am interested in learning about the awards and nominations received by Barry Levinson for his work in films during the years 1976-1980."
+Named Entities: [Barry Levinson (Director), 1976-1980 (Year)]
+
+Query: "Can you tell me about the awards and nominations for the song Wind Beneath My Wings from the movie Fame, performed by Viola Davis and Andrew Carter?"
+Named Entities: [Wind Beneath My Wings (Song), Fame (Title), Viola Davis (Actor), Andrew Carter (Actor)]

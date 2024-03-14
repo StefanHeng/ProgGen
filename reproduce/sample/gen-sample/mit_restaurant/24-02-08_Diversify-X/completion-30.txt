@@ -1,0 +1,8 @@
+Query: "Can you recommend a nut-free breakfast spot with a high rating?"
+Named Entities: [nut-free (Amenity), breakfast (Cuisine), high rating (Rating)]
+
+Query: "What are the breakfast hours for a nut-free diner with a diverse menu?"
+Named Entities: [breakfast (Cuisine), nut-free (Amenity), diverse menu (Amenity), breakfast hours (Hours)]
+
+Query: "I need to book a table for a nut-free breakfast place with a reasonable price range"
+Named Entities: [nut-free (Amenity), breakfast (Cuisine), reasonable price range (Price)]

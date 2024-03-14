@@ -1,0 +1,8 @@
+1. "Can you recommend any M/PG rated movies that are considered propaganda?"
+Named Entities: [M/PG (MPAA Rating), propaganda (Genre)]
+
+2. "What was the viewers' rating for the movie The Sweet Caroline released in 1996?"
+Named Entities: [The Sweet Caroline (Title), 1996 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Show me the international trailer for the movie directed by Stan with a rating of 4.3 stars."
+Named Entities: [international trailer (Trailer), Stan (Director), 4.3 stars (Viewers' Rating)]

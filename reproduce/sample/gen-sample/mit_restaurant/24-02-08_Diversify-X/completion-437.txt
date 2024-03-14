@@ -1,0 +1,8 @@
+1. "Can you suggest a spot for an expensive brunch with a good happy hour menu?"
+Named Entities: [expensive (Price), brunch (Amenity), happy hour (Amenity)]
+
+2. "I'm looking for a place with a fancy brunch and happy hour deals, can you help me find one?"
+Named Entities: [fancy (Rating), brunch (Amenity), happy hour (Amenity)]
+
+3. "Where can I have a delightful brunch with a happy hour that won't break the bank?"
+Named Entities: [delightful (Rating), brunch (Amenity), happy hour (Amenity)]

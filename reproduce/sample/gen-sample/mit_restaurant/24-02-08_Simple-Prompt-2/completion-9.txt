@@ -1,0 +1,92 @@
+1. Can you recommend a highly rated sushi place in the area?
+Named Entities: [sushi (Cuisine), highly rated (Rating), area (Location)]
+
+2. I'm craving some authentic Italian food, can you suggest a good restaurant?
+Named Entities: [Italian (Cuisine)]
+
+3. What's the nearest place to get some tacos?
+Named Entities: [nearest (Location), tacos (Dish)]
+
+4. Do you know of any affordable places to eat in this neighborhood?
+Named Entities: [affordable (Price), neighborhood (Location)]
+
+5. I want to try some local cuisine, where should I go?
+Named Entities: [local cuisine (Cuisine)]
+
+6. Are there any Chinese restaurants open late tonight?
+Named Entities: [Chinese (Cuisine), open late (Hours)]
+
+7. Is there a restaurant nearby that offers outdoor seating?
+Named Entities: [outdoor seating (Amenity), nearby (Location)]
+
+8. I need to find a place with a kids menu, any suggestions?
+Named Entities: [kids menu (Amenity)]
+
+9. Can you recommend a place with a variety of vegan options?
+Named Entities: [vegan options (Amenity)]
+
+10. Where's the best place to get a burger in this city?
+Named Entities: [burger (Dish), city (Location)]
+
+11. I'm looking for a place with a view, any ideas?
+Named Entities: [view (Amenity)]
+
+12. Give me a list of restaurants with a Michelin star rating.
+Named Entities: [Michelin star rating (Rating)]
+
+13. What are the hours of the nearest cafe?
+Named Entities: [nearest (Location), cafe (Amenity), hours (Hours)]
+
+14. Can you find a place for a romantic dinner?
+Named Entities: [romantic dinner (Amenity)]
+
+15. I need to find a 24-hour diner, where can I go?
+Named Entities: [24-hour diner (Hours)]
+
+16. Do you know of any places with live music and a bar?
+Named Entities: [live music (Amenity), bar (Amenity)]
+
+17. What restaurants in this area offer outdoor dining?
+Named Entities: [area (Location), outdoor dining (Amenity)]
+
+18. I'm in the mood for some barbecue, where should I go?
+Named Entities: [barbecue (Cuisine)]
+
+19. Can you recommend a place with a good happy hour menu?
+Named Entities: [good (Rating), happy hour (Amenity)]
+
+20. I want to try some new cuisine, any suggestions?
+Named Entities: [new cuisine (Cuisine)]
+
+21. Where can I find a good place for brunch?
+Named Entities: [good (Rating), brunch (Amenity)]
+
+22. I need to find a restaurant with a private dining area.
+Named Entities: [private dining area (Amenity)]
+
+23. Is there any place around here that has a good menu for happy hour?
+Named Entities: [good (Rating), happy hour (Amenity)]
+
+24. I want to go to a nice steakhouse, where's the best one?
+Named Entities: [steakhouse (Cuisine), best (Rating)]
+
+25. What's the best place to get a margarita in this town?
+Named Entities: [margarita (Dish), town (Location), best (Rating)]
+
+26. Can you find a place that serves dim sum for breakfast?
+Named Entities: [dim sum (Cuisine), breakfast (Hours)]
+
+27. I need a restaurant that's open late and serves dessert.
+Named Entities: [open late (Hours), dessert (Dish)]
+
+28. Find us a place to eat for under 10 dollars a plate
+Named Entities: [under 10 dollars a plate (Price)]
+
+29. I'm craving some pho, where can I get the best bowl?
+Named Entities: [pho (Dish), best (Rating)]
+
+30. Help me find a sports bar with good wings and beer.
+Named Entities: [sports bar (Amenity), wings (Dish), beer (Amenity)]
+
+31. Is there a place nearby that has a good happy hour deal?
+Named Entities: [good (Rating), happy hour (Amenity), nearby (Location)]

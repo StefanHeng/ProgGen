@@ -1,0 +1,8 @@
+1. "What is the plot of the movie Bohemian Rhapsody?"
+Named Entities: [Bohemian Rhapsody (Title), plot (Plot)]
+
+2. "Could you recommend a film directed by Michael Mann?"
+Named Entities: [Michael Mann (Director)]
+
+3. "Can you find a highly-rated action movie from the 1990s?"
+Named Entities: [action (Genre), 1990s (Year), highly-rated (Viewers' Rating)]

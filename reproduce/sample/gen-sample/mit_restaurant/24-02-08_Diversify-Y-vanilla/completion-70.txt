@@ -1,0 +1,10 @@
+
+
+Query: "Can you recommend a highly-rated Italian restaurant in the downtown area?"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+Query: "What time does the sushi bar on Main Street close tonight?"
+Named Entities: [sushi bar (Restaurant Name), Main Street (Location), tonight (Hours)]
+
+Query: "I'm looking for a family-friendly restaurant with outdoor seating and a children's menu."
+Named Entities: [family-friendly (Amenity), outdoor seating (Amenity), children's menu (Amenity)]

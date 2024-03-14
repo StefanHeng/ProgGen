@@ -1,0 +1,8 @@
+1. "Hey, can you recommend a movie from the Drama genre that features Ryan Gosling?"
+Named Entities: [Drama (Genre), Ryan Gosling (Actor)]
+
+2. "What action movies with excellent viewer feedback would you recommend for a young adult male like me?"
+Named Entities: [action (Genre), excellent viewer feedback (Review), young adult male (Viewers' Rating)]
+
+3. "Is Miracle on 34th Street a Christmas movie directed by a female filmmaker?"
+Named Entities: [Miracle on 34th Street (Title), Christmas (Genre), female filmmaker (Director)]

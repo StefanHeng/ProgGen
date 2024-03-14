@@ -1,0 +1,8 @@
+1. Query: "What movie features the song 'Can't Help Falling in Love' by Elvis Presley?"
+   Named Entities: ['Can't Help Falling in Love' (Song)]
+
+2. Query: "I'm in the mood for a movie with a great soundtrack. Can you recommend a film with iconic songs from the 80s?"
+   Named Entities: [great soundtrack (Review), iconic songs (Plot), 80s (Year)]
+
+3. Query: "I need a feel-good movie with an uplifting soundtrack. Can you suggest a film with classic hits from the 70s?"
+   Named Entities: [feel-good (Review), uplifting soundtrack (Plot), classic hits (Song), 70s (Year)]

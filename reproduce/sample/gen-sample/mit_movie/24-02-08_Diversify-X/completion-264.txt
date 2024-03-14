@@ -1,0 +1,8 @@
+Query: "Is the movie The Matrix available for streaming?"
+Named Entities: [The Matrix (Title), streaming (Platform)]
+
+Query: "Can I watch any action movies starring Will Smith on any streaming service?"
+Named Entities: [action (Genre), Will Smith (Actor), streaming service (Platform)]
+
+Query: "Are there any recent romantic comedies directed by Nancy Meyers that I can stream?"
+Named Entities: [romantic comedies (Genre), Nancy Meyers (Director), recent (Year), stream (Platform)]

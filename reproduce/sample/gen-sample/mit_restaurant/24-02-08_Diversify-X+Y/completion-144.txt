@@ -1,0 +1,8 @@
+Query: "What food trucks around here serve barbecue grill?"
+Named Entities: [food trucks (Restaurant Name, Amenity), barbecue grill (Cuisine)]
+
+Query: "Which food truck offers barbecue grill dishes in the area?"
+Named Entities: [food truck (Restaurant Name, Amenity), barbecue grill (Cuisine)]
+
+Query: "I want to try some barbecue grill from a food truck, do you know any nearby?"
+Named Entities: [barbecue grill (Cuisine), food truck (Restaurant Name, Amenity)]

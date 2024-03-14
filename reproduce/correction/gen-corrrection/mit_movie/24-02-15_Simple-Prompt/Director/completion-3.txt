@@ -1,0 +1,11 @@
+1. Query: "What are the top war movies directed by {{Steven Spielberg}}?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+2. Query: "who is the {{director}} of the film 'Inception'?"
+Text Span: "director"
+Label: (D). Not a Named Entity
+
+3. Query: "What is the rating for the movie Inception directed by {{Christopher Nolan}}"
+Text Span: "Christopher Nolan"
+Label: (A). The span is a named entity of type director

@@ -1,0 +1,8 @@
+1. Text Span: "psycho"
+Label: (C). Wrong Type. The correct entity type is Title.
+
+2. Text Span: "buddy comedy"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "Suspense"
+Label: (A). The span is a named entity of type genre

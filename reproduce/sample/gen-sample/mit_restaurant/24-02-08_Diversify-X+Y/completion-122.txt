@@ -1,0 +1,8 @@
+Query: "what's a good place with vegan options that's open past midnight"
+Named Entities: [vegan (Cuisine), past midnight (Hours)]
+
+Query: "which restaurant has a high rating for late-night dining"
+Named Entities: [high (Rating), late-night dining (Amenity)]
+
+Query: "can you recommend a cheap spot for late-night eats"
+Named Entities: [cheap (Price), late-night eats (Amenity)

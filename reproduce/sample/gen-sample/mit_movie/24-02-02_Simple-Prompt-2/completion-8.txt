@@ -1,0 +1,100 @@
+1. "What movie won the most Oscars in history"
+Named Entities: [most Oscars (Review)]
+2. "Who directed the movie Jaws"
+Named Entities: [Jaws (Title)]
+3. "Show me a movie with Leonardo DiCaprio"
+Named Entities: [Leonardo DiCaprio (Actor)]
+4. "What is the best-rated horror movie of all time"
+Named Entities: [best-rated (Review), horror (Genre)]
+5. "What was the plot of Inception"
+Named Entities: [Inception (Title), plot (Plot)]
+6. "Tell me about the movie Titanic"
+Named Entities: [Titanic (Title)]
+7. "In what year was the movie The Godfather released"
+Named Entities: [The Godfather (Title)]
+8. "Is there a trailer for the new Star Wars movie"
+Named Entities: [new Star Wars (Title), trailer (Trailer)]
+9. "Can you recommend a good movie from the 1980s"
+Named Entities: [1980s (Year), good (Review)]
+10. "What is the MPAA rating for The Lion King"
+Named Entities: [The Lion King (Title), MPAA rating (MPAA Rating)]
+11. "What is the genre of the movie The Dark Knight"
+Named Entities: [The Dark Knight (Title), genre (Genre)]
+12. "Who was the lead actor in Fight Club"
+Named Entities: [Fight Club (Title), lead actor (Actor)]
+13. "What song is featured in the movie Shrek"
+Named Entities: [Shrek (Title), song (Song)]
+14. "What character did Tom Hanks play in Forrest Gump"
+Named Entities: [Tom Hanks (Actor), Forrest Gump (Title), character (Character)]
+15. "Are there any good action movies from the 1990s"
+Named Entities: [action (Genre), 1990s (Year), good (Review)]
+16. "Tell me about the director of the film The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), director (Director)]
+17. "How many Oscars did the movie La La Land win"
+Named Entities: [La La Land (Title), Oscars (Review)]
+18. "Is the movie The Matrix suitable for children"
+Named Entities: [The Matrix (Title), suitable for children (MPAA Rating)]
+19. "Who is the actress in the movie Pretty Woman"
+Named Entities: [Pretty Woman (Title), actress (Actor)]
+20. "What is the main review of the film The Social Network"
+Named Entities: [The Social Network (Title), main review (Review)]
+21. "Show me a documentary from 2020"
+Named Entities: [documentary (Genre), 2020 (Year)]
+22. "Is there a film starring Al Pacino and Robert De Niro"
+Named Entities: [Al Pacino (Actor), Robert De Niro (Actor)]
+23. "What is the director's name for the movie The Silence of the Lambs"
+Named Entities: [The Silence of the Lambs (Title), director's name (Director)]
+24. "How good is the movie Gone with the Wind"
+Named Entities: [Gone with the Wind (Title), good (Review)]
+25. "Can you show me the trailer for the new James Bond movie"
+Named Entities: [new James Bond (Title), trailer (Trailer)]
+26. "What is the best-rated fantasy movie of all time"
+Named Entities: [best-rated (Review), fantasy (Genre)]
+27. "Was the movie Pulp Fiction directed by Quentin Tarantino"
+Named Entities: [Pulp Fiction (Title), Quentin Tarantino (Director)]
+28. "Who is the lead actress in the movie Black Swan"
+Named Entities: [Black Swan (Title), lead actress (Actor)]
+29. "When was the first Superman movie released"
+Named Entities: [Superman (Title), first (Year)]
+30. "Is there a good comedy film from the 1970s"
+Named Entities: [comedy (Genre), 1970s (Year), good (Review)]
+31. "What is the MPAA rating for A Clockwork Orange"
+Named Entities: [A Clockwork Orange (Title), MPAA rating (MPAA Rating)]
+32. "What is the genre of the movie The Princess Bride"
+Named Entities: [The Princess Bride (Title), genre (Genre)]
+33. "Who played the main character in the film Goodfellas"
+Named Entities: [Goodfellas (Title), main character (Character)]
+34. "What song is featured in the movie Top Gun"
+Named Entities: [Top Gun (Title), song (Song)]
+35. "What character did Johnny Depp play in Pirates of the Caribbean"
+Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Title), character (Character)]
+36. "Are there any good sci-fi movies from the 2000s"
+Named Entities: [sci-fi (Genre), 2000s (Year), good (Review)]
+37. "Tell me about the director of the film The Departed"
+Named Entities: [The Departed (Title), director (Director)]
+38. "How many Oscars did the movie Schindler's List win"
+Named Entities: [Schindler's List (Title), Oscars (Review)]
+39. "Is the movie The Incredibles suitable for children"
+Named Entities: [The Incredibles (Title), suitable for children (MPAA Rating)]
+40. "Who is the actor in the movie The Shining"
+Named Entities: [The Shining (Title), actor (Actor)]
+41. "What is the main review of the movie The Green Mile"
+Named Entities: [The Green Mile (Title), main review (Review)]
+42. "Show me a thriller from the 2010s"
+Named Entities: [thriller (Genre), 2010s (Year)]
+43. "Is there a film starring Meryl Streep and Tom Hanks"
+Named Entities: [Meryl Streep (Actor), Tom Hanks (Actor)]
+44. "Who directed the movie The Usual Suspects"
+Named Entities: [The Usual Suspects (Title)]
+45. "How good is the movie The Wizard of Oz"
+Named Entities: [The Wizard of Oz (Title), good (Review)]
+46. "Can you show me the trailer for the new Mission: Impossible movie"
+Named Entities: [new Mission: Impossible (Title), trailer (Trailer)]
+47. "What is the best-rated animated movie of all time"
+Named Entities: [best-rated (Review), animated (Genre)]
+48. "Was the movie Taxi Driver directed by Martin Scorsese"
+Named Entities: [Taxi Driver (Title), Martin Scorsese (Director)]
+49. "Who is the lead actor in the movie The Godfather"
+Named Entities: [The Godfather (Title), lead actor (Actor)]
+50. "When was the first Jurassic Park movie released"
+Named Entities: [Jurassic Park (Title), first (Year)]

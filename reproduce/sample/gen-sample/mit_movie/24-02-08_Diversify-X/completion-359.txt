@@ -1,0 +1,8 @@
+1. Query: "Has the movie Black Panther received any awards or nominations?"
+Named Entities: [Black Panther (Title), Awards and nominations (Review)]
+
+2. Query: "What movie from the 2010s has won the most awards?"
+Named Entities: [2010s (Year), won the most awards (Review)]
+
+3. Query: "Which movie directed by Christopher Nolan has received the most nominations?"
+Named Entities: [Christopher Nolan (Director), received the most nominations (Review)]

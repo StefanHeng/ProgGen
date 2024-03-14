@@ -1,0 +1,11 @@
+1. Query: "Can you find some {{reviews}} for the new Marvel movie?"
+Text Span: "reviews"
+Label: (C). Wrong Type. The correct entity type is Title.
+
+2. Query: "is there a {{review}} for the movie parasite"
+Text Span: "review"
+Label: (A). The span is a named entity of type review
+
+3. Query: "What are some of the {{best-reviewed}} movies of all time?"
+Text Span: "best-reviewed"
+Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "best-reviewed movies".

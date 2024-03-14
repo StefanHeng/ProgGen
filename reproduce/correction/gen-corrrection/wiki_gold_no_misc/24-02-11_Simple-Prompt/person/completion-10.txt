@@ -1,0 +1,8 @@
+1. Text Span: "Walt Disney"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "16th President"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+3. Text Span: "Bill Gates"
+Label: (A). The span is a named entity of type person

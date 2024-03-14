@@ -1,0 +1,149 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The Beatles were an English rock band formed in Liverpool in 1960."
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+Sentence: "She won a gold medal in the 2016 Rio Olympics."
+Named Entities: [Rio (location)]
+
+Sentence: "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China."
+Named Entities: [Great Wall of China (location), China (location)]
+
+Sentence: "NASA is an independent agency of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research."
+Named Entities: [NASA (organization), United States (location)]
+
+Sentence: "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra."
+Named Entities: [Taj Mahal (location), Yamuna River (location), Agra (location), India (location)]
+
+Sentence: "Harvard University is a private Ivy League research university in Cambridge, Massachusetts."
+Named Entities: [Harvard University (organization), Ivy League (organization), Cambridge (location), Massachusetts (location)]
+
+Sentence: "She became the first woman to fly solo across the Atlantic Ocean in 1932."
+Named Entities: [Atlantic Ocean (location)]
+
+Sentence: "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci."
+Named Entities: [Mona Lisa (person), Leonardo da Vinci (person), Italy (location)]
+
+Sentence: "He played basketball for the Los Angeles Lakers in the NBA."
+Named Entities: [Los Angeles Lakers (organization), NBA (organization), Los Angeles (location)]
+
+Sentence: "The Louvre is the world's largest art museum and a historic monument in Paris, France."
+Named Entities: [Louvre (location), Paris (location), France (location)]
+
+Sentence: "She founded the Bill and Melinda Gates Foundation with her husband."
+Named Entities: [Bill and Melinda Gates Foundation (organization)]
+
+Sentence: "The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City."
+Named Entities: [Empire State Building (location), Midtown Manhattan (location), New York City (location)]
+
+Sentence: "She won a Grammy Award for Best New Artist in 2019."
+Named Entities: [Grammy Award (organization)]
+
+Sentence: "The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989."
+Named Entities: [Berlin Wall (location), Berlin (location)]
+
+Sentence: "IBM is an American multinational technology company headquartered in Armonk, New York."
+Named Entities: [IBM (organization), Armonk (location), New York (location)]
+
+Sentence: "She earned a PhD in Astrophysics from the University of Cambridge."
+Named Entities: [University of Cambridge (organization), Cambridge (location)]
+
+Sentence: "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait connecting San Francisco Bay and the Pacific Ocean."
+Named Entities: [Golden Gate Bridge (location), Golden Gate (location), San Francisco Bay (location), Pacific Ocean (location)]
+
+Sentence: "He is the CEO of Amazon, an American multinational technology company based in Seattle, Washington."
+Named Entities: [Amazon (organization), Seattle (location), Washington (location)]
+
+Sentence: "She was the first person to set foot on the moon in 1969."
+Named Entities: [moon (location)]
+
+Sentence: "The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City."
+Named Entities: [Sistine Chapel (location), Apostolic Palace (location), Vatican City (location)]
+
+Sentence: "She is an advocate for animal rights and founded the Jane Goodall Institute."
+Named Entities: [Jane Goodall (person), Jane Goodall Institute (organization)]
+
+Sentence: "The Leaning Tower of Pisa is a freestanding bell tower, of the cathedral of the Italian city of Pisa."
+Named Entities: [Leaning Tower of Pisa (location), Italian (location), Pisa (location)]
+
+Sentence: "She served as Secretary of State under President George W. Bush."
+Named Entities: [Secretary of State (organization), President George W. Bush (person)]
+
+Sentence: "He won the Nobel Prize in Physics for his work on the photoelectric effect."
+Named Entities: [Nobel Prize (organization), Physics (organization)]
+
+Sentence: "She was educated at Oxford University and later became a professor at Harvard University."
+Named Entities: [Oxford University (organization), Harvard University (organization)]
+
+Sentence: "The Pyramids of Giza are ancient monuments located in Egypt."
+Named Entities: [Pyramids of Giza (location), Egypt (location)]
+
+Sentence: "He is the founder of SpaceX and Tesla, Inc."
+Named Entities: [SpaceX (organization), Tesla, Inc (organization)]
+
+Sentence: "The Statue of Liberty is a symbol of freedom located in New York Harbor."
+Named Entities: [Statue of Liberty (location), New York Harbor (location)]
+
+Sentence: "She is the CEO of Facebook, a social media company based in Menlo Park, California."
+Named Entities: [Facebook (organization), Menlo Park (location), California (location)]
+
+Sentence: "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy."
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+Sentence: "He served as Prime Minister of the United Kingdom from 1997 to 2007."
+Named Entities: [Prime Minister (organization), United Kingdom (location)]
+
+Sentence: "The Metropolitan Museum of Art is the largest art museum in the United States, located in New York City."
+Named Entities: [Metropolitan Museum of Art (location), United States (location), New York City (location)]
+
+Sentence: "She won the Pulitzer Prize for her novel, The Goldfinch."
+Named Entities: [Pulitzer Prize (organization)]
+
+Sentence: "The Amazon River in South America is the largest river by discharge volume of water."
+Named Entities: [Amazon River (location), South America (location)]
+
+Sentence: "He is the CEO of Microsoft, a multinational technology company headquarters in Redmond, Washington."
+Named Entities: [Microsoft (organization), Redmond (location), Washington (location)]
+
+Sentence: "The Hollywood Sign is a landmark and American cultural icon located in Los Angeles, California."
+Named Entities: [Hollywood Sign (location), Los Angeles (location), California (location)]
+
+Sentence: "The United Nations is an international organization headquartered in New York City."
+Named Entities: [United Nations (organization), New York City (location)]
+
+Sentence: "He was elected President of the United States in 2008."
+Named Entities: [President of the United States (organization)]
+
+Sentence: "The Burj Khalifa is the tallest structure and building in the world, located in Dubai, United Arab Emirates."
+Named Entities: [Burj Khalifa (location), Dubai (location), United Arab Emirates (location)]
+
+Sentence: "She is a member of the Royal Swedish Academy of Sciences."
+Named Entities: [Royal Swedish Academy of Sciences (organization)]
+
+Sentence: "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia."
+Named Entities: [Sydney Opera House (location), Sydney (location), New South Wales (location), Australia (location)]
+
+Sentence: "He was an influential philosopher in the Age of Enlightenment."
+Named Entities: []
+
+Sentence: "The Kremlin is a fortified complex in the heart of Moscow."
+Named Entities: [Kremlin (location), Moscow (location)]
+
+Sentence: "She co-founded the Women's Rights National Historical Park."
+Named Entities: [Women's Rights National Historical Park (organization)]
+
+Sentence: "The Sears Tower was the tallest building in the world from 1973 to 1998."
+Named Entities: [Sears Tower (location)]
+
+Sentence: "She is a member of the Olympic Committee."
+Named Entities: [Olympic Committee (organization)]
+
+Sentence: "The Hagia Sophia is a former Greek Orthodox Christian basilica, later an Ottoman imperial mosque and now a museum in Istanbul, Turkey."
+Named Entities: [Hagia Sophia (location), Istanbul (location), Turkey (location)]
+
+Sentence: "He is a member of the American Academy of Arts and Sciences."
+Named Entities: [American Academy of Arts and Sciences (organization)]
+
+Sentence: "The Vatican Museums are Christian and art museums located within the city state of Vatican City."
+Named Entities: [Vatican Museums (location), Vatican City (location)]

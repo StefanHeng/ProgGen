@@ -1,0 +1,8 @@
+1. "Can you recommend a movie similar to The Truman Show with exceptional costumes?"
+   Named Entities: [The Truman Show (Title), exceptional (Viewers' Rating), Costumes (Genre)]
+
+2. "What movie is known for its thrilling revenge plot just like in the Fast & Furious series with Dominic Toretto?"
+   Named Entities: [revenge (Plot), Fast & Furious (Title), Dominic Toretto (Character)]
+
+3. "Show me a movie from the 2000s that Dominic Toretto from the Fast & Furious series would enjoy."
+   Named Entities: [Dominic Toretto (Character), 2000s (Year)]

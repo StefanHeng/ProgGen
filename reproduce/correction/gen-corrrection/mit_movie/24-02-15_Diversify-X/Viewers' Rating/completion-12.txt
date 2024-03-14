@@ -1,0 +1,11 @@
+1. Query: "Do you know if 'Forrest Gump' received any {{honors}} for its special effects?"
+Text Span: "honors"
+Label: (C). Wrong Type. The correct entity type is Other.
+
+2. Query: "Could you recommend a {{family-friendly}} movie that came out this year?"
+Text Span: "family-friendly"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+3. Query: "What are some {{classic}} action films from the 1980s that are considered iconic?"
+Text Span: "classic"
+Label: (C). Wrong Type. The correct entity type is Other.

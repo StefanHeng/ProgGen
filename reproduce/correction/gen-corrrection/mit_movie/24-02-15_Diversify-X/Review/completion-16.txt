@@ -1,0 +1,11 @@
+1. Query: "What movie from the 2010s has {{won the most awards}}?"
+Text Span: "won the most awards"
+Label: (A). Named Entity of type Review
+
+2. Query: "Can you {{recommend}} a movie starring Leonardo DiCaprio?"
+Text Span: "recommend"
+Label: (D). Not a Named Entity
+
+3. Query: "Can you tell me if the movie Mean Girls won any {{awards}}?"
+Text Span: "awards"
+Label: (C). Named Entity but the category is not review, the correct entity type is Viewers' Rating

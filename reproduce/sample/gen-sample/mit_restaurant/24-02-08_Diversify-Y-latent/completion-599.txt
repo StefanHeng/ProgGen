@@ -1,0 +1,8 @@
+1. "I'm in the mood for some gluten-free options, where can I find a restaurant with a good gluten-free menu?"
+   Named Entities: [gluten-free menu (Amenity)]
+
+2. "I need to grab a quick bite to eat, where can I find a nearby restaurant that offers gluten-free options?"
+   Named Entities: [nearby (Location), gluten-free options (Amenity)]
+
+3. "I'm taking my friend who has celiac disease out to eat, do you know of any restaurants with a gluten-free menu in the area?"
+   Named Entities: [celiac disease (Amenity), gluten-free menu (Amenity), in the area (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "director"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "Jordan Peele"
+Label: (A). The span is a named entity of type director.
+
+3. Text Span: "Wachowskis"
+Label: (A). The span is a named entity of type director.

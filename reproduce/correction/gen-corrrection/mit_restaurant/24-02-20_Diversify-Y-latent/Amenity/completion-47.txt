@@ -1,0 +1,11 @@
+1. Query: "Where is the nearest Hooters with a {{full bar}}?"
+Text Span: "full bar"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "I'm craving some {{spicy}} kimchi, where can I find a place that serves it?"
+Text Span: "spicy"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Query: "I'm looking for a place with a diverse menu and a {{strategic position}} for a business lunch"
+Text Span: "strategic position"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "strategic position for a business lunch".

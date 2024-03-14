@@ -1,0 +1,8 @@
+1. "Can you tell me the highest-rated animated movies of all time?"
+   Named Entities: [highest-rated (Viewers' Rating), animated (Genre)]
+   
+2. "What's the plot of the new Disney princess movie that came out this year?"
+   Named Entities: [new Disney princess movie (Title), this year (Year)]
+
+3. "I'm looking for a romantic comedy with strong female characters. Can you recommend one?"
+   Named Entities: [romantic comedy (Genre), strong female characters (Character)]

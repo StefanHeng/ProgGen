@@ -1,0 +1,8 @@
+1. Query: "Can you provide me with information about any NC-17 rated movies released between 1960 and 1965 that are in the film noir genre?"
+Named Entities: [NC-17 (MPAA Rating), 1960-1965 (Year), film noir (Genre)]
+
+2. Query: "I'm interested in learning about any movies directed by Mel Brooks that have a unique behind-the-scenes story."
+Named Entities: [Mel Brooks (Director), behind-the-scenes (Plot)]
+
+3. Query: "What are some lesser-known facts about the making of the film noir movies released in the early 1960s?"
+Named Entities: [film noir (Genre), early 1960s (Year)]

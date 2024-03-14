@@ -1,0 +1,8 @@
+1. "Where can I find a place with the best chicken nuggets in town?"
+   Named Entities: [best (Rating), chicken nuggets (Dish)]
+
+2. "I'm craving some crispy chicken nuggets, where is the nearest fast food restaurant?"
+   Named Entities: [crispy (Amenity), chicken nuggets (Dish), nearest (Location), fast food (Cuisine)]
+
+3. "What's a fast food joint that serves delicious chicken nuggets and is open late?"
+   Named Entities: [delicious (Rating), chicken nuggets (Dish), open late (Hours), fast food (Cuisine)]

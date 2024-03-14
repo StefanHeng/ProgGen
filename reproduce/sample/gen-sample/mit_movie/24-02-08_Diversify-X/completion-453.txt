@@ -1,0 +1,8 @@
+1. "Which movie did Steven Spielberg direct in 1993?"
+Named Entities: [Steven Spielberg (Director), 1993 (Year)]
+
+2. "What are some films starring Tom Hanks and Meg Ryan?"
+Named Entities: [Tom Hanks (Actor), Meg Ryan (Actor)]
+
+3. "Can you recommend a thriller directed by Christopher Nolan?"
+Named Entities: [thriller (Genre), Christopher Nolan (Director)]

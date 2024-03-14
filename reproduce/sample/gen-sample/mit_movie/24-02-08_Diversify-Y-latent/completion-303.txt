@@ -1,0 +1,8 @@
+1. "What movie features the song 'Always Be My Baby' by Mariah Carey?"
+Named Entities: ['Always Be My Baby' (Song), Mariah Carey (Actor)]
+
+2. "Can you recommend a movie with great cast cohesion, like The Avengers?"
+Named Entities: [cast cohesion (Review), The Avengers (Title)]
+
+3. "Is the movie Forrest Gump similar to Superman in terms of character development?"
+Named Entities: [Forrest Gump (Title), Superman (Character)]

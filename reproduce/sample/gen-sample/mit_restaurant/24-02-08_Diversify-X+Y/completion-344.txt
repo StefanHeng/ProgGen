@@ -1,0 +1,8 @@
+Query: "I'm looking for a gluten-free dinner option that offers takeout."
+Named Entities: [gluten-free (Amenity), dinner (Cuisine), takeout (Amenity)]
+
+Query: "Can you recommend a restaurant near me that serves gluten-free dinner for takeout?"
+Named Entities: [gluten-free (Amenity), dinner (Cuisine), takeout (Amenity)]
+
+Query: "I need to find a place for dinner that is gluten-free and offers takeout."
+Named Entities: [gluten-free (Amenity), dinner (Cuisine), takeout (Amenity), The Smokehouse (Restaurant Name)]

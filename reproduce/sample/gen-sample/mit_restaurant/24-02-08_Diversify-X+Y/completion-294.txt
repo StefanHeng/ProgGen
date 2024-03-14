@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with outdoor seating and a view of the ocean for lunch today?"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity), lunch (Hours), today (Hours)]
+
+Query: "I'm looking for a Thai restaurant with vegetarian options and a 4-star rating for lunch tomorrow."
+Named Entities: [Thai (Cuisine), vegetarian options (Amenity), 4-star (Rating), lunch (Hours), tomorrow (Hours)]
+
+Query: "I need a restaurant with a prix fixe menu and a private dining area for a business lunch meeting."
+Named Entities: [prix fixe menu (Price), private dining area (Amenity), business lunch meeting (Amenity)]

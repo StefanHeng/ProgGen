@@ -1,0 +1,8 @@
+1. "Where can I find the nearest fast food restaurant with a drive-thru?"
+Named Entities: [fast food (Cuisine), nearest (Location), drive-thru (Amenity)]
+
+2. "Which fast food place in the area offers vegetarian options?"
+Named Entities: [fast food (Cuisine), vegetarian (Dish), area (Location)]
+
+3. "What are the opening hours of the fast food restaurant that serves halal dishes?"
+Named Entities: [fast food (Cuisine), halal (Dish), opening hours (Hours)]

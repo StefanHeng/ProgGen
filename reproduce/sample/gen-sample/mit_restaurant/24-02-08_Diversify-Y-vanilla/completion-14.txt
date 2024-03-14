@@ -1,0 +1,8 @@
+1. "What's the closest Irish pub with a good selection of beers?"
+   Named Entities: [closest (Location), Irish (Cuisine), good selection of beers (Amenity)]
+
+2. "Recommend a restaurant with a great atmosphere and good seafood dishes."
+   Named Entities: [great atmosphere (Amenity), seafood dishes (Dish)]
+
+3. "I'm looking for an up-and-coming fusion restaurant with a trendy vibe."
+   Named Entities: [up-and-coming (Rating), fusion (Cuisine), trendy vibe (Amenity)]

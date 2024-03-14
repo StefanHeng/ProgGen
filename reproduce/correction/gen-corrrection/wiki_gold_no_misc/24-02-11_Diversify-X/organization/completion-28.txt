@@ -1,0 +1,8 @@
+1. Text Span: "Gothic architecture"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Apollo 11"
+Label: (D). Not a Named Entity.
+
+3. Text Span: "African-American"
+Label: (C). Wrong Type. The correct entity type is other.

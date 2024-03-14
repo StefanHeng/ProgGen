@@ -1,0 +1,8 @@
+1. "Can you show me a sneak peek of The Jungle Book movie?"
+Named Entities: [The Jungle Book (Title), sneak peek (Trailer)]
+
+2. "Is there a film noir with a character named Donkey?"
+Named Entities: [film noir (Genre), Donkey (Character)]
+
+3. "What techno-thriller did David Fincher direct and was released in 2010?"
+Named Entities: [techno-thriller (Genre), David Fincher (Director), 2010 (Year)]

@@ -1,0 +1,8 @@
+1. Text Span: "open late"
+Label: (A). Correct Entity Annotation
+
+2. Text Span: "hours of operation"
+Label: (B). Wrong Boundary. The correct span boundary is "hours of operation"
+
+3. Text Span: "opening hours"
+Label: (A). Correct Entity Annotation

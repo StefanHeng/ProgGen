@@ -1,0 +1,8 @@
+1. Text Span: "dismal"
+   Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Review
+
+2. Text Span: "Outstanding"
+   Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "Four-star rating"
+   Label: (A). The span is a named entity of type viewers' rating

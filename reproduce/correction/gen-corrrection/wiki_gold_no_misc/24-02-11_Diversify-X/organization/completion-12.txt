@@ -1,0 +1,8 @@
+1. Text Span: "Nobel Prize"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Grammy Awards"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "environmental activists"
+Label: (C). Wrong Type. The correct entity type is other.

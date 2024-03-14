@@ -1,0 +1,8 @@
+1. "I'm looking for a fine dining restaurant that serves Italian cuisine in the downtown area"
+Named Entities: [fine dining (Amenity), Italian (Cuisine), downtown area (Location)]
+
+2. "Can you recommend a cheap place to eat with vegetarian options?"
+Named Entities: [cheap (Price), vegetarian (Cuisine)]
+
+3. "What are the operating hours for the restaurant called Blue Plate?"
+Named Entities: [Blue Plate (Restaurant Name), operating hours (Hours)]

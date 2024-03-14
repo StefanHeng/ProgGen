@@ -1,0 +1,11 @@
+1. Sentence: "{{Government}} announces plan to increase funding for public schools."
+Text Span: "Government"
+Label: (C) organization
+
+2. Sentence: "Director Ava DuVernay to produce new film about {{civil rights icon}}."
+Text Span: "civil rights icon"
+Label: (A)
+
+3. Sentence: "Researchers at Harvard Medical School discover a promising new treatment for {{Alzheimer's disease}}."
+Text Span: "Alzheimer's disease"
+Label: (A)

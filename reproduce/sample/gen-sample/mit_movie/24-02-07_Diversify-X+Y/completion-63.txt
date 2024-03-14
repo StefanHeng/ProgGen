@@ -1,0 +1,8 @@
+Query: "What movie has a gripping storyline directed by Francis Ford Coppola"
+Named Entities: [gripping storyline (Plot), Francis Ford Coppola (Director)]
+
+Query: "Can you tell me about the movie with Frodo Baggins"
+Named Entities: [Frodo Baggins (Character)]
+
+Query: "I want to watch a film with Brie Larson, can you recommend one"
+Named Entities: [Brie Larson (Actor)]

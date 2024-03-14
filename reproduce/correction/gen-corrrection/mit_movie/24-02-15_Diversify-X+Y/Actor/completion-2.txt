@@ -1,0 +1,11 @@
+1. Query: "Can I find a movie with awe-inspiring cinematography featuring {{Denzel Washington}} on any streaming platform?"
+Text Span: "Denzel Washington"
+Label: (A). The span is a named entity of type actor
+
+2. Query: "Hey, can I watch Deadpool on any streaming service? I'm feeling nostalgic for some classic {{Ryan Reynolds}} comedy."
+Text Span: "Ryan Reynolds"
+Label: (A). The span is a named entity of type actor
+
+3. Query: "Is there an action movie starring {{Tilda Swinton}} that is rated MA15+ and features some interesting behind-the-scenes footage?"
+Text Span: "Tilda Swinton"
+Label: (A). The span is a named entity of type actor

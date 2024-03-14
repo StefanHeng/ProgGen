@@ -1,0 +1,11 @@
+1. Query: "Show me a {{famous}} movie directed by Alfred Hitchcock."
+Text Span: "famous"
+Label: (A). Correct Entity Annotation. (Viewers' Rating)
+
+2. Query: "Can you {{recommend}} a feel-good movie from the 2000s?"
+Text Span: "recommend"
+Label: (B). The span contains a named viewers' rating entity but the span boundary is not precise. The correct span boundary is "recommend a feel-good movie".
+
+3. Query: "What is the rated R movie with the {{highest viewership}} in the 2010s?"
+Text Span: "highest viewership"
+Label: (A). Correct Entity Annotation. (Viewers' Rating)

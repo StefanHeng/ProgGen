@@ -1,0 +1,8 @@
+1. "I'm craving some barbecue, can you recommend a good restaurant nearby?"
+Named Entities: [barbecue (Cuisine), nearby (Location), good (Rating)]
+
+2. "Do you know if there's a barbecue joint open late in this area?"
+Named Entities: [barbecue (Cuisine), open late (Hours), area (Location)]
+
+3. "I want to take my friends out for a nice barbecue dinner, but I don't want to spend too much. Any suggestions?"
+Named Entities: [barbecue (Cuisine), nice (Rating), spend too much (Price)]

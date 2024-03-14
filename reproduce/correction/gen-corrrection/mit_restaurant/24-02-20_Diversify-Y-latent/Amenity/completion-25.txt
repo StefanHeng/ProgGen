@@ -1,0 +1,8 @@
+1. Text Span: "dessert hours"
+   Label: (B). The correct span boundary is "dessert hours". The correct entity type is Hours.
+
+2. Text Span: "craving"
+   Label: (D). Not a Named Entity.
+
+3. Text Span: "tasting menu"
+   Label: (A). The correct entity annotation.

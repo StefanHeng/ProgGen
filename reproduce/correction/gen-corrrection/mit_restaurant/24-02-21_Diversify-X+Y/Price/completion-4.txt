@@ -1,0 +1,11 @@
+1. Query: "Find me a spot with {{affordable}} lunch specials and a kid-friendly atmosphere"
+Text Span: "affordable"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "I'm looking for a {{fine dining}} place with Latin American cuisine. Any suggestions?"
+Text Span: "fine dining"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "Is there a fast food place in the area offering a {{$6.99 Pizza Deal}}?"
+Text Span: "$6.99 Pizza Deal"
+Label: (A). Correct Entity Annotation.

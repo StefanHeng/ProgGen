@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a cheap restaurant with early bird hours?"
+   Named Entities: [cheap (Price), early bird hours (Hours)]
+
+2. Query: "I'm craving sushi, is there a cheap place with good ratings nearby?"
+   Named Entities: [sushi (Cuisine), cheap (Price), good ratings (Rating), nearby (Location)]
+
+3. Query: "Find me a restaurant with cheap lunch specials"
+   Named Entities: [cheap (Price), lunch specials (Amenity)]

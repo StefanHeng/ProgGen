@@ -1,0 +1,8 @@
+1. "New movie starring [Robert Downey Jr.] breaks box office records."
+Named Entities: [Robert Downey Jr. (person)]
+
+2. "Major earthquake hits Tokyo, causing extensive damage to buildings and infrastructure."
+Named Entities: [Tokyo (location)]
+
+3. "[Robert Downey Jr.] launches new environmental organization to combat climate change."
+Named Entities: [Robert Downey Jr. (person), organization (environmental organization)]

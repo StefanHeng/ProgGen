@@ -1,0 +1,8 @@
+Query: "What restaurants nearby offer brunch with chef's specials"
+Named Entities: [brunch (Amenity), chef's specials (Amenity)]
+
+Query: "I'm looking for a place that serves brunch with unique chef's specials"
+Named Entities: [brunch (Amenity), unique (Amenity), chef's specials (Amenity)]
+
+Query: "Can you recommend a restaurant that has a diverse brunch menu with chef's specials"
+Named Entities: [diverse (Amenity), brunch (Amenity), chef's specials (Amenity)]

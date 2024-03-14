@@ -1,0 +1,8 @@
+Query: "recommend a formal café with outdoor seating"
+Named Entities: [formal (Amenity), outdoor seating (Amenity)]
+
+Query: "show me a café with live music and a dessert menu"
+Named Entities: [live music (Amenity), dessert menu (Dish)]
+
+Query: "where is the nearest upscale café with a brunch menu"
+Named Entities: [nearest (Location), upscale (Amenity), brunch menu (Dish)]

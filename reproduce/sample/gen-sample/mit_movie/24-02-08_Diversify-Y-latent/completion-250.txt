@@ -1,0 +1,8 @@
+1. Query: "What is Lupita Nyong'o's highest rated movie in terms of viewers' rating?"
+Named Entities: [Lupita Nyong'o (Actor), highest rated (Viewers' Rating)]
+
+2. Query: "Could you recommend a movie from the horror genre directed by Jordan Peele?"
+Named Entities: [horror (Genre), Jordan Peele (Director)]
+
+3. Query: "Can you show me the trailer for Lupita Nyong'o's latest movie?"
+Named Entities: [trailer (Trailer), Lupita Nyong'o (Actor), latest (Year)]

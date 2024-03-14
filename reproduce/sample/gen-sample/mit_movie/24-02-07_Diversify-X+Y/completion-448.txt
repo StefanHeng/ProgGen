@@ -1,0 +1,9 @@
+Spoken Queries:
+1. "Can you tell me about the director of that remarkable high school drama movie with a well-cast and Mariah Carey in it?"
+2. "I'm looking for a movie similar to Harry Potter and the Sorcerer's Stone, can you recommend one?"
+3. "Do you have any information on the actors in that movie with a high school drama theme?" 
+
+Named Entities:
+1. [director (Director), high school drama (Genre), remarkable (Viewers' Rating), well-cast (Review), Mariah Carey (Actor)]
+2. [Harry Potter and the Sorcerer's Stone (Title)]
+3. [actors (Actor), high school drama (Genre)]

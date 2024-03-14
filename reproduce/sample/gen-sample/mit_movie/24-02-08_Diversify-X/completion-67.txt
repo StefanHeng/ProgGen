@@ -1,0 +1,8 @@
+Query: "Can I watch the movie Interstellar on Netflix?"
+Named Entities: [Interstellar (Title), Netflix (Streaming platform)]
+
+Query: "Is there a comedy film from the 90s available on Hulu?"
+Named Entities: [comedy film (Genre), 90s (Year), Hulu (Streaming platform)]
+
+Query: "Do you have any information on The Dark Knight, directed by Christopher Nolan, available on Amazon Prime?"
+Named Entities: [The Dark Knight (Title), Christopher Nolan (Director), Amazon Prime (Streaming platform)]

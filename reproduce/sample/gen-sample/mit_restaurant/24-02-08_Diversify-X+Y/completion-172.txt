@@ -1,0 +1,8 @@
+Query: "where can I find a casual fast food place that offers dairy-free options"
+Named Entities: [casual (Amenity), fast food (Cuisine), dairy-free (Amenity)]
+
+Query: "are there any Wendy's locations nearby with free Wi-Fi"
+Named Entities: [Wendy's (Restaurant Name), Free Wi-Fi (Amenity)]
+
+Query: "I'm looking for a dairy-free fast food restaurant with a casual atmosphere"
+Named Entities: [dairy-free (Amenity), fast food (Cuisine), casual (Amenity)]

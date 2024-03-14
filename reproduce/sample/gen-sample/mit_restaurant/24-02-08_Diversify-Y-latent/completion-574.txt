@@ -1,0 +1,8 @@
+1. "Where can I find cost-effective street food in Las Vegas?"
+Named Entities: [Cost-effective street food (Price), Las Vegas (Location)]
+
+2. "I'm looking for a restaurant in Las Vegas that offers delicious seafood dishes."
+Named Entities: [delicious seafood dishes (Dish), Las Vegas (Location)]
+
+3. "Which restaurant in Las Vegas has the best ratings for Mexican cuisine?"
+Named Entities: [best ratings (Rating), Mexican cuisine (Cuisine), Las Vegas (Location) ]

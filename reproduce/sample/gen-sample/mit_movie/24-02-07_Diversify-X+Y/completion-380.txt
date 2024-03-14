@@ -1,0 +1,8 @@
+1. "I'm bored. Can you recommend a new movie with Dwayne Johnson in it and show me a sneak peek?"
+   Named Entities: [Dwayne Johnson (Actor), new movie (First look)]
+
+2. "What is the viewers' rating for The Great Gatsby and is it worth watching?"
+   Named Entities: [The Great Gatsby (Title), viewers' rating (Viewers' Rating)]
+
+3. "I heard there's a GP-rated movie with Gilderoy Lockhart in it. Can you tell me more about it?"
+   Named Entities: [GP-rated movie (MPAA Rating), Gilderoy Lockhart (Character)]

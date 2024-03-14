@@ -1,0 +1,11 @@
+1. Query: "Hey, can you show me a {{teaser}} for the new Puss in Boots movie?"
+Text Span: "teaser"
+Label: (A). The span is a named entity of type trailer
+
+2. Query: "I want an {{Advance look}} at a movie with a 6 out of 10 rating, maybe something like Buzz Lightyear"
+Text Span: "Advance look"
+Label: (C). The span is a named entity but the category is not trailer. The correct entity type is [other].
+
+3. Query: "Could you show me a {{film clip}} from the award-winning Superman movie with the song 'I Will Always Love You'?"
+Text Span: "film clip"
+Label: (B). The span contains a named trailer entity but the span boundary is not precise. The correct span boundary is "clip".

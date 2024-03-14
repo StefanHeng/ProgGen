@@ -1,0 +1,8 @@
+1. "Can you recommend an affordable restaurant nearby with a good selection of Italian dishes for dinner?"
+Named Entities: [affordable (Price), Italian (Cuisine), dinner (Amenity)]
+
+2. "I'm looking for a place to have dinner that serves vegetarian cuisine and is open until 10 pm."
+Named Entities: [vegetarian (Cuisine), open until 10 pm (Hours), dinner (Amenity)]
+
+3. "Which restaurants in the area offer a 4-star rating and are known for their seafood dinner menu?"
+Named Entities: [4-star (Rating), seafood (Cuisine), dinner (Amenity) ]

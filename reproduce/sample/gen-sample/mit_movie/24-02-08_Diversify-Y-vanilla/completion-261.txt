@@ -1,0 +1,8 @@
+1. Query: "What is the cult initiation movie all about"
+Named Entities: [cult initiation (Plot)]
+
+2. Query: "Have you seen the new Maleficent film and what is your rating"
+Named Entities: [Maleficent (Title), 2.5 out of 5 stars (Viewers' Rating)]
+
+3. Query: "Can you show me the preview footage for the movie involving a gladiator competition"
+Named Entities: [gladiator competition (Plot), Preview footage (Trailer)]

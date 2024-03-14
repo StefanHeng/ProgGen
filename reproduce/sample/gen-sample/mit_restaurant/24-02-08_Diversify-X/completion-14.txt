@@ -1,0 +1,8 @@
+Query: "I'm craving some vegetarian fast food, where can I grab a quick bite?"
+Named Entities: [vegetarian (Dietary restriction), fast food (Cuisine)]
+
+Query: "what's a good place for vegetarian fast food near me with a high rating?"
+Named Entities: [vegetarian (Dietary restriction), fast food (Cuisine), near me (Location), high rating (Rating)]
+
+Query: "can you recommend a fast food restaurant with vegetarian options that's open late?"
+Named Entities: [fast food (Cuisine), vegetarian options (Amenity), open late (Hours)]

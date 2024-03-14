@@ -1,0 +1,8 @@
+1. "I'm in the mood for some breakfast, where can I find a good spot for that?"
+   Named Entities: [Breakfast (Amenity)]
+
+2. "I'm craving some steak, can you recommend a nice place like Outback Steakhouse?"
+   Named Entities: [Outback Steakhouse (Restaurant Name)]
+
+3. "I'm heading over west, any recommendations for a good place to grab a bite?"
+   Named Entities: [Over west (Location)]

@@ -1,0 +1,8 @@
+Query: "Can you provide me with a trailer for the latest James Cameron film?"
+Named Entities: [trailer (Trailer), James Cameron (Director)]
+
+Query: "What is the plot of the highest-rated comedy movie from the 1990s?"
+Named Entities: [plot (Plot), highest-rated (Viewers' Rating), 1990s (Year), comedy (Genre)]
+
+Query: "Who were the main actors in the making of the classic film Psycho?"
+Named Entities: [main actors (Actor), making of (Behind-the-scenes), classic (Viewers' Rating), Psycho (Title)]

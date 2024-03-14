@@ -1,0 +1,8 @@
+1. "Can you make a reservation at Thai Orchid for 7 pm tonight?"
+Named Entities: [Thai Orchid (Restaurant Name), 7 pm tonight (Hours), Reservations (Amenity)]
+
+2. "I'm craving some pad thai, do you know any Thai restaurants nearby?"
+Named Entities: [pad thai (Dish), Thai (Cuisine), nearby (Location)]
+
+3. "What's the price range for dining at Thai Orchid?"
+Named Entities: [Thai Orchid (Restaurant Name), price range (Price)]

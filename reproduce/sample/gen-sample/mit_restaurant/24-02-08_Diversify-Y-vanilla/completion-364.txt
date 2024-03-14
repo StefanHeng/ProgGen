@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good brunch hours and has been listed as Time Out's top pick"
+Named Entities: [brunch hours (Amenity), Time Out's top pick (Rating)]
+
+2. "I'm in the mood for some hearty Italian cuisine, where can I find the best Spaghetti in town"
+Named Entities: [Italian cuisine (Cuisine), Spaghetti (Dish)]
+
+3. "I'm craving some comfort food, can you direct me to The Grid for a cozy meal"
+Named Entities: [The Grid (Restaurant Name), comfort food (Cuisine)]

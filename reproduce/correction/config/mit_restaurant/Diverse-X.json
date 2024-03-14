@@ -1,0 +1,428 @@
+{
+    "meta": {
+        "dataset_name": "mit-restaurant",
+        "source_dataset_dir_name": "24-02-15_NER-Dataset_{fmt=n-p2,#l=3,dc=T,lc=T}_add-super-idx",
+        "diversity_variant": "Diverse-X"
+    },
+    "entity_type2correction_info": {
+        "Restaurant Name": {
+            "defn": "A restaurant name entity must be the name of a restaurant.\nEnsure to distinguish restaurant name entities from a named cuisine entities. A named cuisine entity is a style or type of cooking, such as \"diner\", \"burger\", \"food truck\" and \"caf\u00e9\".",
+            "name": "restaurant name",
+            "name_full": "restaurant name entity",
+            "demos": [
+                {
+                    "sentence": "Can I get a table for two at Ruth's Chris Steak House tonight?",
+                    "entity_span": "Ruth's Chris Steak House",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What's the average cost of a meal at the steakhouse downtown?",
+                    "entity_span": "steakhouse",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Cuisine",
+                    "reason": null
+                },
+                {
+                    "sentence": "Which restaurant serves the best brunch in the city?",
+                    "entity_span": "restaurant",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Amenity": {
+            "defn": "A named amenity entity is a feature or service offered by a restaurant. Descriptions on the atmosphere and ambiance of a restaurant such as \"fancy\", \"romantic\" and \"trendy\" are also named amenity entities.\nEnsure to distinguish named amenity entities from named hours entities and named cuisine entities. Meal times such as \"breakfast\", \"brunch\", \"lunch\" and \"dinner\" should be named Hours entities. A named cuisine entity is a style or type of cooking, such as \"diner\", \"burger\", \"food truck\" and \"caf\u00e9\".",
+            "name": "amenity",
+            "name_full": "named amenity entity",
+            "demos": [
+                {
+                    "sentence": "Is there a place nearby that has a good happy hour deal?",
+                    "entity_span": "happy hour",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Where's the best place to get a big breakfast in this town?",
+                    "entity_span": "breakfast",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Hours",
+                    "reason": null
+                },
+                {
+                    "sentence": "Is there a vegan-friendly cafe with gluten-free options?",
+                    "entity_span": "cafe",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Cuisine",
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you recommend a food truck with Korean BBQ?",
+                    "entity_span": "food truck",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Cuisine",
+                    "reason": null
+                }
+            ]
+        },
+        "Cuisine": {
+            "defn": "A named cuisine entity is a style or type of cooking, such as \"diner\", \"burger\", \"food truck\" and \"caf\u00e9\". Starting Cuisine adjectives such as \"authentic\" and \"classic\" should be a part of the Cuisine entity.\nYou should drop trailing \"food\", \"place\", \"restaurant\" words from named cuisine entities if not necessary.\nEnsure to distinguish named amenity entities from named hours entities. Meal times such as \"breakfast\", \"brunch\", \"lunch\" and \"dinner\" should be named Hours entities.",
+            "name": "cuisine",
+            "name_full": "named cuisine entity",
+            "demos": [
+                {
+                    "sentence": "What time does the Italian restaurant on Main Street close tonight?",
+                    "entity_span": "Italian restaurant",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Italian",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I want to try some authentic Mexican food, any recommendations?",
+                    "entity_span": "authentic Mexican food",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "authentic Mexican",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Find me a burger joint with a drive-thru.",
+                    "entity_span": "burger joint",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "show me a budget-friendly caf\u00e9 with vegan options",
+                    "entity_span": "vegan options",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "vegan",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Is there a 24-hour restaurant nearby that offers a breakfast buffet?",
+                    "entity_span": "breakfast",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Hours",
+                    "reason": null
+                }
+            ]
+        },
+        "Dish": {
+            "defn": "A named dish entity is a specific food item or meal.\nEnsure to distinguish a named dish entity from a named cuisine entity based on the context. Reference to a broader category of food should be a named Cuisine entity.",
+            "name": "dish",
+            "name_full": "named dish entity",
+            "demos": [
+                {
+                    "sentence": "What is the best burger joint in town?",
+                    "entity_span": "burger",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Cuisine",
+                    "reason": null
+                },
+                {
+                    "sentence": "Recommend a place to get a good burger.",
+                    "entity_span": "burger",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I want to try a new dish, what's popular at the Thai restaurant?",
+                    "entity_span": "new dish",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Where can I find a late-night diner that serves breakfast? ",
+                    "entity_span": "breakfast",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Hours",
+                    "reason": null
+                }
+            ]
+        },
+        "Hours": {
+            "defn": "Any temporal reference to a specific time of day or day of the week is a named Hours entity.\nA named hours entity must not contain irrelevant terms such as \"diner\" or \"reservation\".\nDays of the week such as \"Friday\" and \"Wednesday\" are named Hours entities. Meal times such as \"breakfast\", \"brunch\", \"lunch\" and \"dinner\" are also named Hours entities.\nAmbiguous identifiers such as \"hours-of-operation\" and \"operating hours\" are not named entities.",
+            "equivalents": [
+                "time"
+            ],
+            "name": "hours",
+            "name_full": "named hours entity",
+            "demos": [
+                {
+                    "sentence": "I need to find a 24-hour diner for late-night cravings.",
+                    "entity_span": "24-hour diner",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "24-hour",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I need to book a table at Olive Garden for 7 pm tonight.",
+                    "entity_span": "7 pm tonight",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I'm looking for a quick lunch spot with vegetarian options",
+                    "entity_span": "lunch",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Is there a place around here that serves late-night tacos?",
+                    "entity_span": "late-night",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Call Olive Garden and make a reservation for 7:00 pm.",
+                    "entity_span": "reservation for 7:00 pm",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "7:00 pm",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What are the operating hours of the nearest burger joint?",
+                    "entity_span": "operating hours",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Location": {
+            "defn": "A named location entity refers to the geographical location or relative proximity of the restaurant. Proximity adjectives such as \"nearest\" and \"closest\" are also named location entities. A named location entity should include all relevant terms such as \"in this city\" as opposed to \"city\".",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "What's the best place for a Sunday brunch in this city?",
+                    "entity_span": "city",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "in this city",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I'm craving some ice cream. Any good dessert places near me?",
+                    "entity_span": "near me",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What are the hours for the nearest sushi bar?",
+                    "entity_span": "nearest",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I'm looking for a cheap place to eat near downtown",
+                    "entity_span": "downtown",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "near downtown",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Are there any halal food trucks in the downtown area?",
+                    "entity_span": "downtown area",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "in the downtown area",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you help me locate a place that serves gluten-free options?",
+                    "entity_span": "place",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Price": {
+            "defn": "A named price entity is a specific monetary value or range such as \"under $10 per person\". Cost-related adjectives such as \"cheap\", \"affordable\", \"reasonable\" and \"upscale\" are also named price entities.\nNamed price entities should not have trailing terms such as \"prices\" and \"eats\".\nGeneral mentions of price such as \"price range\" and \"prices\" are not named entities.",
+            "name": "price",
+            "name_full": "named price entity",
+            "demos": [
+                {
+                    "sentence": "Any all-you-can-eat buffets in the downtown area?",
+                    "entity_span": "all-you-can-eat",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Amenity",
+                    "reason": null
+                },
+                {
+                    "sentence": "What's the price range for the steakhouse downtown",
+                    "entity_span": "price range",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "How much does the average meal cost at Olive Garden",
+                    "entity_span": "average meal cost",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Where can I get a good slice of pizza for under $5?",
+                    "entity_span": "under $5",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Is there a steakhouse nearby with a reasonable price?",
+                    "entity_span": "reasonable price",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "reasonable",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I'm looking for a place that offers a prix fixe menu.",
+                    "entity_span": "prix fixe",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Amenity",
+                    "reason": null
+                }
+            ]
+        },
+        "Rating": {
+            "defn": "A named rating entity is a specific rating score such as \"5 star\". Qualitative descriptions such as \"good\", \"best\", \"delicious\" and \"popular\" are also named rating entities.\nYou should capture the complete descriptive phrase such as \"best reviewed\" as opposed to \"best\".",
+            "name": "rating",
+            "name_full": "named rating entity",
+            "demos": [
+                {
+                    "sentence": "I want to try some Caribbean cuisine, where can I find a good place?",
+                    "entity_span": "good",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "recommend a family-friendly Italian place with a kids menu",
+                    "entity_span": "family-friendly",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Amenity",
+                    "reason": null
+                },
+                {
+                    "sentence": "Find me a steakhouse with a 5-star rating",
+                    "entity_span": "5-star",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "5 star rating",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Find me a restaurant with a 5-star rating for dinner tonight.",
+                    "entity_span": "5-star",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "5 star rating",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What is the rating of the nearest Italian restaurant?",
+                    "entity_span": "rating",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you recommend a restaurant with a high Zagat rating?",
+                    "entity_span": "high",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "high Zagat rating",
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+1. "I'm craving some burgers for lunch, is there a restaurant with a drive-thru nearby?"
+Named Entities: [burgers (Dish), lunch (Amenity), drive-thru (Amenity), nearby (Location)]
+
+2. "What are some good options for quick lunch at a drive-thru restaurant?"
+Named Entities: [quick lunch (Amenity), drive-thru (Amenity), restaurant (Amenity)]
+
+3. "Can you recommend a restaurant with drive-thru that serves Mexican cuisine for lunch?"
+Named Entities: [Mexican cuisine (Cuisine), lunch (Amenity), drive-thru (Amenity)]

@@ -1,0 +1,11 @@
+1. Sentence: "{{Europa}}'s new president vows to tackle climate change."
+Text Span: "Europa"
+Label: (C). The span is a named entity but the category is not location. Entity type: organization
+
+2. Sentence: "Michelangelo Buonarroti's masterpiece, the {{Pieta}}, attracts millions of visitors to Vatican City each year."
+Text Span: "Pieta"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{Seoul}} mayor found dead in apparent suicide."
+Text Span: "Seoul"
+Label: (A). The span is a named entity of type location

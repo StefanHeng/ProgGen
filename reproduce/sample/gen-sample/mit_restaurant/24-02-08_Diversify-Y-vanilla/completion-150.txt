@@ -1,0 +1,8 @@
+1. "Can you recommend any good restaurants in Dallas for a family dinner?"
+   Named Entities: [Dallas (Location), family dinner (Amenity)]
+
+2. "I'm craving some wood-fired cuisine, where is the nearest Firebirds Wood Fired Grill?"
+   Named Entities: [wood-fired (Cuisine), Firebirds Wood Fired Grill (Restaurant Name), nearest (Location)]
+
+3. "What are the operating hours of Firebirds Wood Fired Grill in Dallas?"
+   Named Entities: [Firebirds Wood Fired Grill (Restaurant Name), Dallas (Location), operating hours (Hours)]

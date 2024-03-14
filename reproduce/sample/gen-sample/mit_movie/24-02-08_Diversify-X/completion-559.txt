@@ -1,0 +1,8 @@
+1. Query: "Can you play the trailer for the movie Inception?"
+Named Entities: [Inception (Title), trailer (Trailer)]
+
+2. Query: "What movie directed by Christopher Nolan has the most thrilling trailer?"
+Named Entities: [Christopher Nolan (Director), thrilling (Review), trailer (Trailer)]
+
+3. Query: "Show me a movie teaser with an intense action sequence."
+Named Entities: [intense action sequence (Plot), teaser (Trailer)]

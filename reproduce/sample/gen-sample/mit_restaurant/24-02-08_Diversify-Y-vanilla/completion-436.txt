@@ -1,0 +1,8 @@
+Query: "show me Indian restaurants with the best Tandoori Chicken"
+Named Entities: [Indian (Cuisine), best (Rating), Tandoori Chicken (Dish)]
+
+Query: "what are the hours of operation for the Thai restaurant that serves Tandoori Chicken"
+Named Entities: [Thai (Cuisine), hours of operation (Hours), Tandoori Chicken (Dish)]
+
+Query: "recommend a high-rated restaurant with outdoor seating and Tandoori Chicken on the menu"
+Named Entities: [high-rated (Rating), outdoor seating (Amenity), Tandoori Chicken (Dish)]

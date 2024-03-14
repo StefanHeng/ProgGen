@@ -1,0 +1,8 @@
+1. Text Span: "The Titans"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Italian Renaissance"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Olympian gods"
+Label: (C). Wrong Type. The correct entity type is other.

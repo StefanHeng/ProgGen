@@ -1,0 +1,8 @@
+1. Query: "Can you play the trailer for the movie Dynamic, suitable for families with young children?"
+   Named Entities: [Dynamic (Title), families (Viewers' Rating)]
+
+2. Query: "Show me a teaser of the G-rated film perfect for young kids featuring Jennifer Lawrence"
+   Named Entities: [G (MPAA Rating), Jennifer Lawrence (Actor)]
+
+3. Query: "Is there a mystery movie suitable for families with young children that came out in the same year as The Terminator?"
+   Named Entities: [mystery (Genre), families (Viewers' Rating), The Terminator (Title), Year]

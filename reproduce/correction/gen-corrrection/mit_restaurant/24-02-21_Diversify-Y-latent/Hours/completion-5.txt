@@ -1,0 +1,11 @@
+1. Query: "What are the {{operating hours}} for the Brazilian steakhouse in the city center?"
+Text Span: "operating hours"
+Label: (A). Correct Entity Annotation
+
+2. Query: "Is Restaurant Guy Savoy open for {{lunch}} on weekdays?"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation
+
+3. Query: "I'm craving some Thai cuisine, could you find me a top-rated Thai restaurant that's {{open until 10 pm}} tonight?"
+Text Span: "open until 10 pm"
+Label: (A). Correct Entity Annotation

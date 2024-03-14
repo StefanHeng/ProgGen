@@ -1,0 +1,8 @@
+1. "What movie features the song (I Can’t Get No) Satisfaction?"
+Named Entities: [(I Can’t Get No) Satisfaction (Song)]
+
+2. "Can you recommend a movie with a rating of 4.8 stars?"
+Named Entities: [4.8 stars (Viewers' Rating)]
+
+3. "Do you have any behind-the-scenes featurettes of a film released in 2027?"
+Named Entities: [behind-the-scenes featurette (Trailer), 2027 (Year)]

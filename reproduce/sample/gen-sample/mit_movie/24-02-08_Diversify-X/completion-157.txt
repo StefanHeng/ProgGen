@@ -1,0 +1,8 @@
+Query: "Hey, what's the name of that movie with the awesome soundtrack that has a bunch of 80s hits?"
+Named Entities: [awesome soundtrack (Song), 80s hits (Genre)]
+
+Query: "Can you recommend a good movie with a killer score, like something with a really epic theme song?"
+Named Entities: [killer score (Review), epic theme song (Song)]
+
+Query: "I heard there's a new movie coming out with a killer soundtrack, do you know the name of it?"
+Named Entities: [new movie (Title), killer soundtrack (Song)]

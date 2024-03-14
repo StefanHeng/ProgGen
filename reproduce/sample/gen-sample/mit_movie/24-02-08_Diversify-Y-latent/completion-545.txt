@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with the song Flashdance... What a Feeling?"
+Named Entities: [Flashdance... What a Feeling (Song)]
+
+2. Query: "What movie directed by Spike Lee is considered an epic?"
+Named Entities: [Spike Lee (Director), epic (Genre)]
+
+3. Query: "Are there any movie trailers for films about a zombie apocalypse directed by Joss Whedon?"
+Named Entities: [zombie apocalypse (Plot), Joss Whedon (Director), trailers (Trailer)]

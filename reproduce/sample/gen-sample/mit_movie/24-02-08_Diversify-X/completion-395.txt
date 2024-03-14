@@ -1,0 +1,8 @@
+1. Query: "Can you find a movie with a soundtrack featuring the song 'My Heart Will Go On'?"
+   Named Entities: ['My Heart Will Go On' (Song)]
+
+2. Query: "Which movie directed by Christopher Nolan has the best soundtrack?"
+   Named Entities: [Christopher Nolan (Director)]
+
+3. Query: "Show me a film with a character that sings the song 'Let It Go.'"
+   Named Entities: ['Let It Go' (Song), character]

@@ -1,0 +1,8 @@
+1. Query: "recommend a masterful sci-fi movie released in 2025"
+Named Entities: [2025 (Year), masterful (Viewers' Rating), sci-fi (Genre)]
+
+2. Query: "who directed the classic movie with the song 'My Heart Will Go On'"
+Named Entities: [My Heart Will Go On (Song), classic (Viewers' Rating)]
+
+3. Query: "find a thriller with iconic characters like Hannibal Lecter"
+Named Entities: [iconic (Review), Hannibal Lecter (Character), thriller (Genre)]

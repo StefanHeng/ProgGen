@@ -1,0 +1,8 @@
+1. Text Span: "highly-rated"
+Label: (A). The span is a named entity of type rating
+
+2. Text Span: "good customer feedback"
+Label: (C). The span is a named entity but the category is not rating. Entity Type: Amenity
+
+3. Text Span: "high-class"
+Label: (C). The span is a named entity but the category is not rating. Entity Type: Price

@@ -1,0 +1,8 @@
+Query: "can you tell me about a movie with a really interesting storyline"
+Named Entities: [really interesting (Viewers' Rating), storyline (Plot)]
+
+Query: "who's the director of that popular movie with action and drama"
+Named Entities: [popular (Viewers' Rating), action, drama (Genre)]
+
+Query: "is there a film with a surprising twist ending"
+Named Entities: [surprising twist ending (Plot)]

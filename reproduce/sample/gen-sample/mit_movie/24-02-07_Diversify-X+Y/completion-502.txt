@@ -1,0 +1,8 @@
+1. "Yo, who directed Slumdog Millionaire and when did it come out?"
+Named Entities: [Slumdog Millionaire (Title), directed (Director), come out (Year)]
+
+2. "I heard this movie from the 1970s has solid performances all around, can you tell me which one it is?"
+Named Entities: [1970s (Year), solid performances all around (Review)]
+
+3. "Hey, I'm looking for a movie with outstanding chemistry between the cast, maybe with Meryl Streep. Got any recommendations?"
+Named Entities: [outstanding chemistry (Review), Meryl Streep (Actor)]

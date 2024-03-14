@@ -1,0 +1,8 @@
+1. "I need to know the viewers' rating for the movie Identity theft from 2013, hurry up!"
+   Named Entities: [2013 (Year), Identity theft (Title), viewers' rating (Viewers' Rating)]
+
+2. "What's the plot and viewers' rating for the film with Shia LaBeouf that came out in 2013? Quickly!"
+   Named Entities: [2013 (Year), Shia LaBeouf (Actor), plot (Plot), viewers' rating (Viewers' Rating)]
+
+3. "Find me the reviews for the movie Identity theft from 2013 starring Shia LaBeouf, and do it fast!"
+   Named Entities: [2013 (Year), Identity theft (Title), Shia LaBeouf (Actor), reviews (Review)]

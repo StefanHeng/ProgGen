@@ -1,0 +1,8 @@
+1. "Yo, who starred in that heist movie with the badass car chases?"
+Named Entities: [heist movie (Genre), car chases (Plot)]
+
+2. "Hey, what's the deal with that flick from the 90s with the killer soundtrack?"
+Named Entities: [90s (Year), killer soundtrack (Song)]
+
+3. "Can you hook me up with the deets on the director of that sci-fi flick with the epic special effects?"
+Named Entities: [sci-fi flick (Genre), epic special effects (Plot), director (Director)]

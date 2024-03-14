@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the movie Saving Private Ryan?"
+Named Entities: [Saving Private Ryan (Title), trailer (Trailer)]
+
+2. "Is there a teaser for a movie rated PG-13 with a character named Dobby?"
+Named Entities: [PG-13 (MPAA Rating), Dobby (Character), teaser (Trailer)]
+
+3. "What movies were released in 1993?"
+Named Entities: [1993 (Year)]

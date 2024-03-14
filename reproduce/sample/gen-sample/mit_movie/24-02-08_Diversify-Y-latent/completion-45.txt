@@ -1,0 +1,8 @@
+Query: "what is an example of a Jean-Luc Godard film"
+Named Entities: [Jean-Luc Godard (Director)]
+
+Query: "can you recommend a movie directed by David Fincher that is suitable for a general audience"
+Named Entities: [David Fincher (Director), general audience (Viewers' Rating)]
+
+Query: "show me a movie featuring the character Mushu that is considered enthralling"
+Named Entities: [Mushu (Character), enthralling (Review)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with great instrumental soundtrack highlights"
+Named Entities: [Instrumental soundtrack (Song)]
+
+Query: "what genre does the Harry Potter series belong to"
+Named Entities: [Harry Potter (Title), series (Genre)]
+
+Query: "show me a movie similar to Across the Universe with a feel-good soundtrack"
+Named Entities: [Across the Universe (Title), feel-good (Genre), soundtrack (Song)]

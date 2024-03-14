@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "dataset_name": "wiki-gold-no-misc",
+        "source_dataset_dir_name": "24-02-11_NER-Dataset_{fmt=n-p2,#l=50}_add-super-idx",
+        "diversity_variant": "Simple-Prompt"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Names of figures in history, literature, art and mythology such as \"Mona Lisa\" are also named person entities. General reference to a person such as \"Pope\", \"President of Ireland\" are not named entities of any relevant type. A named person entity should not have any starting titles such as \"President\". Other names of work of art such as \"The Starry Night\" are not relevant named entities.",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "The author of the article, Dr. John Smith, is a leading expert in the field of neuroscience.",
+                    "entity_span": "John Smith",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City.",
+                    "entity_span": "Pope",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "She served as Secretary of State under President George W. Bush.",
+                    "entity_span": "President George W. Bush",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "George W. Bush",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The Louvre Museum in Paris is home to the famous painting, the Mona Lisa.",
+                    "entity_span": "Mona Lisa",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The Queen of England, Elizabeth II, celebrated her diamond jubilee in 2012.",
+                    "entity_span": "Queen of England",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Demonyms such as \"English\", \"American\" and \"Greek\" are not relevant named entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "The Mississippi River runs through several states in the United States, including Minnesota, Wisconsin, and Louisiana.",
+                    "entity_span": "United States",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "TMahatma Gandhi, a leader of the Indian independence movement, used nonviolent civil disobedience to lead India to independence from British rule.",
+                    "entity_span": "British",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Film titles, works of art and projects such as \"Avatar\" and \"Apollo 11\" are not relevant named entities. Demonyms such as \"Chinese\", \"French\" and \"American\" are also not relevant named entities. Awards such as \"Nobel Prize\" and \"Fields Medal\" are not relevant named entities. (Governmental or political) titles such as \"President of the United States\" are also not relevant named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "The World Health Organization is a specialized agency of the United Nations responsible for international public health.",
+                    "entity_span": "United Nations",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Ernest Hemingway, an American novelist, won the Nobel Prize in Literature in 1954.",
+                    "entity_span": "Nobel Prize",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": " She was the first female Prime Minister of India and served from 1966 to 1977 and then again from 1980 until her assassination in 1984.",
+                    "entity_span": "Prime Minister of India",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

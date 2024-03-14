@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with expensive Italian cuisine for lunch?"
+Named Entities: [expensive (Price), Italian (Cuisine), lunch (Amenity)]
+
+Query: "I'm looking for an upscale restaurant that serves expensive seafood dishes for lunch"
+Named Entities: [upscale (Rating), expensive (Price), seafood (Cuisine), lunch (Amenity)]
+
+Query: "Where can I find a high-end place with expensive French cuisine for lunch?"
+Named Entities: [high-end (Rating), expensive (Price), French (Cuisine), lunch (Amenity)]

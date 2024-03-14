@@ -1,0 +1,8 @@
+Query: "On which streaming platform can I watch the movie The Shawshank Redemption directed by Frank Darabont?"
+Named Entities: [The Shawshank Redemption (Title), Frank Darabont (Director)]
+
+Query: "Is the movie Inception with Leonardo DiCaprio available for streaming anywhere?"
+Named Entities: [Inception (Title), Leonardo DiCaprio (Actor)]
+
+Query: "What is the viewers' rating for the film The Dark Knight released in 2008 on any streaming platform?"
+Named Entities: [The Dark Knight (Title), 2008 (Year), viewers' rating (Viewers' Rating)]

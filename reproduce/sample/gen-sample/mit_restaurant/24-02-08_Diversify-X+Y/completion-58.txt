@@ -1,0 +1,8 @@
+1. "Can you recommend any Indian restaurants with a high rating for dinner?"
+Named Entities: [Indian (Cuisine), high rating (Rating), dinner (Amenity)]
+
+2. "What Indian restaurants are open for dinner nearby?"
+Named Entities: [Indian (Cuisine), nearby (Location), dinner (Amenity)]
+
+3. "I'm craving Indian cuisine for dinner, where can I find a reasonably priced restaurant?"
+Named Entities: [Indian (Cuisine), reasonably priced (Price), dinner (Amenity)]

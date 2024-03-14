@@ -1,0 +1,8 @@
+1. "Find me a restaurant in the downtown area that serves a delicious breakfast with WiFi availability"
+Named Entities: [downtown area (Location), breakfast (Cuisine), WiFi availability (Amenity)]
+
+2. "Can you recommend a breakfast place with WiFi where I can have a business meeting with a client?"
+Named Entities: [breakfast (Cuisine), WiFi availability (Amenity), business meeting (Amenity)]
+
+3. "I'm looking for a breakfast spot with WiFi that has a cozy atmosphere and is within a 10-minute walk from my office"
+Named Entities: [breakfast (Cuisine), WiFi availability (Amenity), cozy atmosphere (Amenity), 10-minute walk (Amenity)]

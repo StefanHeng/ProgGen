@@ -1,0 +1,3 @@
+{"sentence": "The Mississippi River runs through several states in the United States, including Minnesota, Wisconsin, and Louisiana.", "entity_span": "United States", "label": "CORRECT"}
+{"sentence": "Dr. Jonas Salk, an American virologist, developed the first successful polio vaccine in 1955.", "entity_span": "American", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "The headquarters, located in the heart of Silicon Valley, provides the ideal environment for fostering creativity and collaboration among employees.", "entity_span": "headquarters", "label": "NA"}

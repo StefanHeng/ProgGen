@@ -1,0 +1,149 @@
+1. What are the best thriller movies from the 90s?
+   Named Entities: [thriller (Genre), 90s (Year)]
+   
+2. Who directed the film Inception?
+   Named Entities: [Inception (Title)]
+   
+3. Can you find movies with Liam Neeson and Sandra Bullock?
+   Named Entities: [Liam Neeson (Actor), Sandra Bullock (Actor)]
+   
+4. What is the plot of Good Will Hunting?
+   Named Entities: [Good Will Hunting (Title), plot (Plot)]
+   
+5. Show me some crime movies from the 1970s.
+   Named Entities: [crime (Genre), 1970s (Year)]
+
+6. What is your favorite animated movie?
+   Named Entities: [animated (Genre)]
+
+7. What movies feature a character named "Scarlett O'Hara"?
+   Named Entities: [Scarlett O'Hara (Character)]
+   
+8. What is the song in the movie The Lion King?
+   Named Entities: [The Lion King (Title), song (Song)]
+
+9. Which films have a rating of 9 out of 10?
+   Named Entities: [9 out of 10 (Viewers' Rating)]
+
+10. Who is the director of The Matrix?
+    Named Entities: [The Matrix (Title), director (Director)]
+
+11. What is the best-reviewed romantic comedy film?
+    Named Entities: [romantic comedy (Genre), best-reviewed (Review)]
+
+12. Can you find the trailer for the latest Star Wars movie?
+    Named Entities: [latest (Year), Star Wars (Title), trailer (Trailer)]
+
+13. Show me movies with Michael Keaton.
+    Named Entities: [Michael Keaton (Actor)]
+   
+14. What MPAA rating does the film The Dark Knight have?
+    Named Entities: [The Dark Knight (Title), MPAA rating (MPAA Rating)]
+
+15. When was the film The Shawshank Redemption released?
+    Named Entities: [The Shawshank Redemption (Title), released (Year)]
+
+16. Recommend a comedy movie from the 2000s.
+    Named Entities: [comedy (Genre), 2000s (Year)]
+
+17. Who is the actor for the character "Forrest Gump"?
+    Named Entities: [Forrest Gump (Character), actor (Actor)]
+
+18. What are the movie adaptations of Stephen King's novels?
+    Named Entities: [Stephen King (Director)]
+
+19. Show me a horror movie from the 80s.
+    Named Entities: [horror (Genre), 80s (Year)]
+
+20. What year did the film Titanic come out?
+    Named Entities: [Titanic (Title), came out (Year)]
+
+21. Can you find the film The Graduate with a Viewers' Rating of 8 or higher?
+    Named Entities: [The Graduate (Title), Viewers' Rating (Viewers' Rating)]
+
+22. Find movies featuring Julia Roberts and Richard Gere.
+    Named Entities: [Julia Roberts (Actor), Richard Gere (Actor)]
+
+23. Is there a musical genre film with the song "Can't Help Falling in Love"?
+    Named Entities: [musical (Genre), "Can't Help Falling in Love" (Song)]
+
+24. What is the plot of the movie Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), plot (Plot)]
+
+25. Show me some action movies from the 1990s.
+    Named Entities: [action (Genre), 1990s (Year)]
+
+26. Who directed the film Gone with the Wind?
+    Named Entities: [Gone with the Wind (Title), director (Director)]
+
+27. What song is featured in the movie Top Gun?
+    Named Entities: [Top Gun (Title), song (Song)]
+
+28. Which films have a rating of 10 out of 10?
+    Named Entities: [10 out of 10 (Viewers' Rating)]
+
+29. Who is the director of the film The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), director (Director)]
+
+30. What is the best-reviewed thriller movie of all time?
+    Named Entities: [thriller (Genre), best-reviewed (Review)]
+
+31. Can you find the trailer for the latest James Bond movie?
+    Named Entities: [latest (Year), James Bond (Title), trailer (Trailer)]
+
+32. Show me movies with Tom Hanks.
+    Named Entities: [Tom Hanks (Actor)]
+
+33. What MPAA rating does the film The Godfather have?
+    Named Entities: [The Godfather (Title), MPAA rating (MPAA Rating)]
+
+34. When was the film Jaws released?
+    Named Entities: [Jaws (Title), released (Year)]
+
+35. Recommend a documentary film from the 2010s.
+    Named Entities: [documentary (Genre), 2010s (Year)]
+
+36. Who is the actor for the character "Hannibal Lecter"?
+    Named Entities: [Hannibal Lecter (Character), actor (Actor)]
+
+37. What are the movie adaptations of Agatha Christie's novels?
+    Named Entities: [Agatha Christie (Director)]
+
+38. Show me a sci-fi movie from the 70s.
+    Named Entities: [sci-fi (Genre), 70s (Year)]
+
+39. What year did the film Avatar come out?
+    Named Entities: [Avatar (Title), came out (Year)]
+
+40. Can you find the film The Shawshank Redemption with a Viewers' Rating of 9 or higher?
+    Named Entities: [The Shawshank Redemption (Title), Viewers' Rating (Viewers' Rating)]
+
+41. Find movies featuring Brad Pitt and Angelina Jolie.
+    Named Entities: [Brad Pitt (Actor), Angelina Jolie (Actor)]
+
+42. Is there a fantasy genre film with the song "I Will Always Love You"?
+    Named Entities: [fantasy (Genre), "I Will Always Love You" (Song)]
+
+43. What is the plot of the movie The Sixth Sense?
+    Named Entities: [The Sixth Sense (Title), plot (Plot)]
+
+44. Show me some western movies from the 1960s.
+    Named Entities: [western (Genre), 1960s (Year)]
+
+45. Who directed the film Psycho?
+    Named Entities: [Psych (Title), director (Director)]
+
+46. What song is featured in the movie Dirty Dancing?
+    Named Entities: [Dirty Dancing (Title), song (Song)]
+
+47. Which films have a rating of 7 out of 10?
+    Named Entities: [7 out of 10 (Viewers' Rating)]
+
+48. Who is the director of the film Casablanca?
+    Named Entities: [Casablanca (Title), director (Director)]
+
+49. What is the best-reviewed drama movie of all time?
+    Named Entities: [drama (Genre), best-reviewed (Review)]
+
+50. Can you find the trailer for the latest Batman movie?
+    Named Entities: [latest (Year), Batman (Title), trailer (Trailer)]

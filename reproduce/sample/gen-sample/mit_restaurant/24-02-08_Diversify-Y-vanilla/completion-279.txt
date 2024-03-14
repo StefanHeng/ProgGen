@@ -1,0 +1,8 @@
+1. "What are the delivery hours for LongHorn Steakhouse in Seattle?"
+Named Entities: [LongHorn Steakhouse (Restaurant Name), Delivery hours (Hours), Seattle (Location)]
+
+2. "I'm in the mood for some Antiguan cuisine, any recommendations?"
+Named Entities: [Antiguan (Cuisine)]
+
+3. "Which national chain restaurants in Seattle offer a good menu for happy hour?"
+Named Entities: [national (Amenity), happy hour (Amenity), Seattle (Location)]

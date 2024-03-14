@@ -1,0 +1,8 @@
+1. Query: "What Tony Award-winning movie did Vito Corleone appear in"
+   Named Entities: [Tony Award-winning (Viewers' Rating), Vito Corleone (Character)]
+   
+2. Query: "Is Snow White and the Seven Dwarfs considered an Unforgettable movie"
+   Named Entities: [Snow White and the Seven Dwarfs (Title), Unforgettable (Review)]
+   
+3. Query: "Show me a PG movie with Brilliant reviews and a rating of 5 stars"
+   Named Entities: [PG (MPAA Rating), Brilliant (Review), 5 stars (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a restaurant with electric vehicle charging and a good selection of Italian dishes."
+Named Entities: [Electric vehicle charging (Amenity), Italian (Cuisine), Ristorante Roma (Restaurant Name)]
+
+2. Query: "What restaurants around here offer happy hour specials and have a high rating?"
+Named Entities: [happy hour (Amenity), high rating (Rating)]
+
+3. Query: "Can you recommend a place with outdoor seating and a location near the waterfront?"
+Named Entities: [outdoor seating (Amenity), near the waterfront (Location)]

@@ -1,0 +1,11 @@
+1. "Can you recommend a fine dining restaurant with vegan options and a drive-thru?"
+
+Named Entities: [fine dining (Amenity), vegan (Cuisine), drive-thru (Amenity)]
+
+2. "I'm looking for a high-end restaurant with a drive-thru and outdoor seating. Any suggestions?"
+
+Named Entities: [high-end (Price), drive-thru (Amenity), outdoor seating (Amenity)]
+
+3. "Is there a fancy restaurant in town with a drive-thru that offers a tasting menu?"
+
+Named Entities: [fancy (Rating), drive-thru (Amenity), tasting menu (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with a great seafood dinner menu?"
+   Named Entities: [seafood (Cuisine), dinner (Amenity)]
+
+2. Query: "Do you know of any Italian restaurants with outdoor seating for dinner?"
+   Named Entities: [Italian (Cuisine), outdoor seating (Amenity), dinner (Amenity)]
+
+3. Query: "Where can I find a highly-rated steakhouse for dinner tonight?"
+   Named Entities: [highly-rated (Rating), steakhouse (Cuisine), dinner (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a family-friendly movie with a Parental Guidance rating?"
+Named Entities: [family-friendly (Viewers' Rating), Parental Guidance (MPAA Rating)]
+
+2. Query: "What is the top film directed by Steven Spielberg that is suitable for all ages, such as TV-G?"
+Named Entities: [Steven Spielberg (Director), suitable for all ages (MPAA Rating), TV-G (MPAA Rating)]
+
+3. Query: "I'm looking for a comedy movie from the 1990s, directed by Tim Burton."
+Named Entities: [comedy (Genre), the 1990s (Year), Tim Burton (Director)]

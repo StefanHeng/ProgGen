@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with valet service in the downtown area?"
+Named Entities: [valet service (Amenity), downtown area (Location)]
+
+2. "I'm looking for a vegan-friendly place with exemplary jumbo lump crab cakes."
+Named Entities: [vegan-friendly (Amenity), exemplary (Rating), jumbo lump crab cakes (Dish)]
+
+3. "Is there a restaurant nearby that offers happy hour specials?"
+Named Entities: [happy hour (Amenity), nearby (Location)]

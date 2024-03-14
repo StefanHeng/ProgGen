@@ -1,0 +1,8 @@
+1. Text Span: "diner"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "breakfast"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "24-hour diner with a breakfast menu".
+
+3. Text Span: "trendy"
+Label: (A). The span is a named entity of type amenity

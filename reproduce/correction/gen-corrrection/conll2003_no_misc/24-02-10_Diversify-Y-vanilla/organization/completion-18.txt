@@ -1,0 +1,11 @@
+1. Sentence: "LeBron James signs four-year contract with the {{Los Angeles Lakers}}."
+Text Span: "Los Angeles Lakers"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{American Cancer Society}} launches new initiative to improve access to cancer screenings in underserved communities."
+Text Span: "American Cancer Society"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Famous actress reveals her pregnancy news on {{Instagram}}."
+Text Span: "Instagram"
+Label: (A). The span is a named entity of type organization

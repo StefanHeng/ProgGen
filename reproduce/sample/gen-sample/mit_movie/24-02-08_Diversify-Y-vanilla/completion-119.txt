@@ -1,0 +1,8 @@
+1. "Can you give me a glimpse of the evocative movie All You Need Is Love?"
+   Named Entities: [evocative (Plot), All You Need Is Love (Title), Glimpse (Trailer)]
+
+2. "What are some top-rated sports underdog story movies from the 2000s?"
+   Named Entities: [sports underdog story (Genre), 2000s (Year), top-rated (Viewers' Rating)]
+
+3. "Show me a movie featuring the song All You Need is Love by The Beatles."
+   Named Entities: [All You Need is Love (Song), The Beatles (Band)]

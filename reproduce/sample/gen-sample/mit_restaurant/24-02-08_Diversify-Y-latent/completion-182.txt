@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant adjacent to the Greek quarter?"
+Named Entities: [Adjacent (Amenity), Greek (Location)]
+
+2. "What are the operating hours for the new Italian restaurant downtown?"
+Named Entities: [Operating hours (Hours), Italian (Cuisine), downtown (Location)]
+
+3. "I'm craving some good sushi, where can I find a place with high ratings?"
+Named Entities: [good (Rating), sushi (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a fancy restaurant with Italian food for dinner tonight?"
+Named Entities: [fancy (Amenity), Italian food (Cuisine), tonight (Hours)]
+
+2. "I'm looking for a high-end steakhouse with a good wine selection for dinner."
+Named Entities: [high-end (Price), steakhouse (Restaurant Name), good wine selection (Amenity), dinner (Hours)]
+
+3. "Is there a upscale French restaurant nearby with a romantic atmosphere for dinner?"
+Named Entities: [upscale (Price), French restaurant (Cuisine), romantic atmosphere (Amenity), nearby (Location), dinner (Hours)]

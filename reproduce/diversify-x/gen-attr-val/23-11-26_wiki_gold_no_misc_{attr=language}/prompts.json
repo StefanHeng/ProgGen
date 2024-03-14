@@ -1,0 +1,10 @@
+{
+    "prompts": [
+        "Suppose you are a Wikipedia editor. List 30 diverse topics for Wikipedia articles. Some examples are [history, science, art, culture, technology, biography].",
+        "Suppose you are a Wikipedia editor. List 30 diverse topics for Wikipedia articles. Some examples are [history, biography, culture, science, art, technology].",
+        "Suppose you are a Wikipedia editor. List 30 diverse topics for Wikipedia articles. Some examples are [technology, art, history, science, culture, biography].",
+        "Suppose you are a Wikipedia editor. List 10 different language styles for Wikipedia articles. Some examples are [technical, concise, neutral, formal, narrative, informal, detailed, simple].",
+        "Suppose you are a Wikipedia editor. List 10 different language styles for Wikipedia articles. Some examples are [concise, narrative, informal, formal, detailed, simple, neutral, technical].",
+        "Suppose you are a Wikipedia editor. List 10 different language styles for Wikipedia articles. Some examples are [technical, concise, formal, detailed, simple, informal, narrative, neutral]."
+    ]
+}

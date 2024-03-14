@@ -1,0 +1,10 @@
+Synthetic spoken queries and named entity annotations:
+
+1. Query: "Can you recommend a nearby restaurant known for their delicious seafood dishes?"
+   Named Entities: [nearby (Location), delicious seafood dishes (Dish)]
+
+2. Query: "I'm looking for a restaurant with a rooftop dining area and live music performances."
+   Named Entities: [rooftop dining area (Amenity), live music performances (Amenity)]
+
+3. Query: "What are some highly-rated Italian restaurants that are open late tonight?"
+   Named Entities: [highly-rated (Rating), Italian (Cuisine), open late tonight (Hours)]

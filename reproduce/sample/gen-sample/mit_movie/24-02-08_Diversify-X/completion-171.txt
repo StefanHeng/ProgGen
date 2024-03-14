@@ -1,0 +1,8 @@
+1. "What's the buzz on the new thriller film that just came out?"
+Named Entities: [new thriller film (Genre), just came out (Year)]
+
+2. "Can you recommend a movie with a really high viewers' rating?"
+Named Entities: [really high viewers' rating (Viewers' Rating)]
+
+3. "I'm looking for a classic film directed by a renowned filmmaker."
+Named Entities: [classic film (Genre), renowned filmmaker (Director)]

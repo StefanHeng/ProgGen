@@ -1,0 +1,149 @@
+1. Apple unveils new iPhone 13 models.
+Named Entities: [Apple (organization)]
+
+2. President Biden announces new infrastructure plan.
+Named Entities: [President Biden (person)]
+
+3. Wildfires ravage through California.
+Named Entities: [California (location)]
+
+4. Amazon to hire 100,000 new employees.
+Named Entities: [Amazon (organization)]
+
+5. Elon Musk's SpaceX launches new satellite into orbit.
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+6. European Union imposes new tariffs on Chinese imports.
+Named Entities: [European Union (organization), Chinese (location)]
+
+7. CEO of Microsoft steps down.
+Named Entities: [Microsoft (organization)]
+
+8. Hurricane warning issued for Florida coast.
+Named Entities: [Florida (location)]
+
+9. Supreme Court rules in favor of LGBTQ+ rights.
+Named Entities: [Supreme Court (organization), LGBTQ (organization)]
+
+10. UN report highlights climate change crisis.
+Named Entities: [UN (organization)]
+
+11. New York City to invest in affordable housing projects.
+Named Entities: [New York City (location)]
+
+12. Researchers discover new species in the Amazon rainforest.
+Named Entities: [Amazon (location)]
+
+13. Tokyo Olympics postponed due to COVID-19 outbreak.
+Named Entities: [Tokyo (location)]
+
+14. Walmart to raise minimum wage for employees.
+Named Entities: [Walmart (organization)]
+
+15. Angela Merkel wins reelection as German Chancellor.
+Named Entities: [Angela Merkel (person), German Chancellor (organization)]
+
+16. United Nations calls for ceasefire in Middle East conflict.
+Named Entities: [United Nations (organization), Middle East (location)]
+
+17. California governor signs new climate change legislation.
+Named Entities: [California (location)]
+
+18. Twitter faces backlash over handling of misinformation.
+Named Entities: [Twitter (organization)]
+
+19. British royal family celebrates the Queen's birthday.
+Named Entities: [British (location), Queen (person)]
+
+20. NASA's Mars rover captures new images of the Martian landscape.
+Named Entities: [NASA (organization), Mars (location)]
+
+21. Volkswagen announces plans to go all-electric by 2035.
+Named Entities: [Volkswagen (organization)]
+
+22. Australian Prime Minister visits wildfire affected areas.
+Named Entities: [Australian (location), Prime Minister (organization)]
+
+23. World Health Organization declares global pandemic.
+Named Entities: [World Health Organization (organization)]
+
+24. Facebook launches new feature to combat cyberbullying.
+Named Entities: [Facebook (organization)]
+
+25. Paris fashion week showcases latest designer collections.
+Named Entities: [Paris (location)]
+
+26. CEO of Tesla tweets controversial statement.
+Named Entities: [Tesla (organization)]
+
+27. Russian President Vladimir Putin meets with Chinese leader Xi Jinping.
+Named Entities: [Vladimir Putin (person), Russian (location), Xi Jinping (person), Chinese (location)]
+
+28. Australian Open tennis tournament cancelled due to COVID-19.
+Named Entities: [Australian Open (organization)]
+
+29. Bill Gates donates millions to combat malaria in Africa.
+Named Entities: [Bill Gates (person), Africa (location)]
+
+30. Starbucks to introduce new environmentally friendly cup design.
+Named Entities: [Starbucks (organization)]
+
+31. Harvard University announces new scholarship program.
+Named Entities: [Harvard University (organization)]
+
+32. New Orleans prepares for hurricane season.
+Named Entities: [New Orleans (location)]
+
+33. South Korean K-pop group BTS breaks new record with latest album.
+Named Entities: [South Korean (location), BTS (organization)]
+
+34. Jeff Bezos steps down as CEO of Amazon.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+
+35. London mayor announces plans for public transportation expansion.
+Named Entities: [London (location)]
+
+36. Canadian Prime Minister Justin Trudeau visits Indigenous communities.
+Named Entities: [Canadian (location), Prime Minister Justin Trudeau (person), Indigenous (organization)]
+
+37. SpaceX to launch new satellite internet service.
+Named Entities: [SpaceX (organization)]
+
+38. Los Angeles Lakers win NBA championship.
+Named Entities: [Los Angeles (location), Lakers (organization)]
+
+39. World Economic Forum held in Davos, Switzerland.
+Named Entities: [World Economic Forum (organization), Davos (location), Switzerland (location)]
+
+40. Pope Francis visits refugee camp in Greece.
+Named Entities: [Pope Francis (person), Greece (location)]
+
+41. BMW recalls thousands of vehicles for safety issues.
+Named Entities: [BMW (organization)]
+
+42. New study reveals alarming decline in bee populations.
+Named Entities: []
+
+43. Indian government announces new COVID-19 vaccine distribution plan.
+Named Entities: [Indian (location)]
+
+44. Microsoft acquires gaming company for $7 billion.
+Named Entities: [Microsoft (organization)]
+
+45. Sydney Opera House reopens to the public.
+Named Entities: [Sydney Opera House (location)]
+
+46. Indonesian president calls for increased cooperation on climate change.
+Named Entities: [Indonesian (location), president (organization)]
+
+47. Starbucks to close hundreds of stores in the United States.
+Named Entities: [Starbucks (organization), United States (location)]
+
+48. Nigerian author wins Nobel Prize for literature.
+Named Entities: [Nigerian (location), Nobel Prize (organization)]
+
+49. New York Mets sign top free agent pitcher.
+Named Entities: [New York Mets (organization)]
+
+50. Google's parent company Alphabet announces quarterly earnings.
+Named Entities: [Google (organization), Alphabet (organization)]

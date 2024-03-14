@@ -1,0 +1,8 @@
+1. "I'm craving a gluten-free Philly cheesesteak, where can I find a fast food place that serves it?"
+Named Entities: [gluten-free (Amenity), Philly cheesesteak (Dish), fast food (Cuisine)]
+
+2. "I need a quick gluten-free Greek meal, where's the nearest fast food restaurant that offers it?"
+Named Entities: [gluten-free (Amenity), Greek (Cuisine), fast food (Amenity)]
+
+3. "Can you recommend a fast food spot with gluten-free options? I'm specifically looking for a place that serves Greek dishes."
+Named Entities: [gluten-free (Amenity), Greek (Cuisine), fast food (Amenity)]

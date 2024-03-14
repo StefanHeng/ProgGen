@@ -1,0 +1,8 @@
+Query: "can you recommend any groundbreaking movies directed by Akira Kurosawa"
+Named Entities: [Akira Kurosawa (Director), Groundbreaking (Review)]
+
+Query: "are there any Civil war movies with a high viewers' rating"
+Named Entities: [Civil war (Plot), high viewers' rating (Viewers' Rating)]
+
+Query: "show me a movie where the characters experience a Civil war love story"
+Named Entities: [Civil war (Plot), love story (Plot), characters (Character)]

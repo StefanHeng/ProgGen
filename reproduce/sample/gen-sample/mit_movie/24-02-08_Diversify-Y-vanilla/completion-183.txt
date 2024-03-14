@@ -1,0 +1,8 @@
+1. "What is the year of release for the thriller movie The Deer Hunter?"
+Named Entities: [The Deer Hunter (Title), Thriller (Genre)]
+
+2. "Who directed the movie that stars Frankie Dunn and is considered breathtaking by viewers?"
+Named Entities: [Frankie Dunn (Character), breathtaking (Review)]
+
+3. "Can you tell me if Edna Mode has a role in any of the 1984 movies?" 
+Named Entities: [Edna Mode (Character), 1984 (Year)]

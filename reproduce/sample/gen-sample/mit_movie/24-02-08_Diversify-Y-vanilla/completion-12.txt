@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Yellow Submarine?"
+Named Entities: [Yellow Submarine (Title), plot (Plot)]
+
+2. Query: "Who is the director of the movie Yellow Submarine and what year was it released?"
+Named Entities: [Yellow Submarine (Title), director (Director), year (Year)]
+
+3. Query: "Can you recommend a movie similar to Yellow Submarine in terms of its song and characters?"
+Named Entities: [Yellow Submarine (Title), song (Song), characters (Character)]

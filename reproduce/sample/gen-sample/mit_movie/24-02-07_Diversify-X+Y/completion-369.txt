@@ -1,0 +1,8 @@
+1. "Can you tell me about the making of the movie Hallelujah that was directed by Alfonso Cuarón?"
+   Named Entities: [Hallelujah (Title), Alfonso Cuarón (Director)]
+  
+2. "I'm interested in a behind-the-scenes look at a movie with Doc Brown as a character, can you recommend anything?"
+   Named Entities: [Doc Brown (Character)]
+
+3. "I'm feeling adventurous and want to explore an educational thriller film, do you have any recommendations?"
+   Named Entities: [Educational (Genre), Thriller (Genre)]

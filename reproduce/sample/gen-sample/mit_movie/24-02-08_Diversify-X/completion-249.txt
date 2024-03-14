@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a beautiful love song in it?"
+Named Entities: [beautiful love song (Song)]
+
+2. "I'm looking for a film from the 1950s with a classic jazz soundtrack, do you have any suggestions?"
+Named Entities: [1950s (Year), classic jazz (Genre)]
+
+3. "What movie features the song 'Unchained Melody' and was directed by a female filmmaker?"
+Named Entities: ['Unchained Melody' (Song), female filmmaker (Director)]

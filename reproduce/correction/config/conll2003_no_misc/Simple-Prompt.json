@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "dataset_name": "conll2003-no-misc",
+        "source_dataset_dir_name": "24-02-07_NER-Dataset_{fmt=n-p2,#l=50}",
+        "diversity_variant": "Simple-Prompt"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Only first names, last names, and full names are considered named person entities. General reference to a person or people such as \"actress\", \"Prime Minister of India\" and \"CEO of Google\" are not named entities. A named person entity should not have any starting titles such as \"President\" or \"Prime Minister\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "Russian President Vladimir Putin meets with Chinese leader Xi Jinping.",
+                    "entity_span": "Vladimir Putin",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Canadian Prime Minister Justin Trudeau visits Indigenous communities.",
+                    "entity_span": "Prime Minister Justin Trudeau",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Justin Trudeau",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Newly elected president pledges to address climate change.",
+                    "entity_span": "president",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "CEO of Amazon steps down from role.",
+                    "entity_span": "CEO of Amazon",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Adjectives like \"Chinese\" and \"Russian\" are not named location entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "The Prime Minister of Japan meets with world leaders to discuss economic cooperation.",
+                    "entity_span": "Japan",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Australian wildfires destroy acres of land.",
+                    "entity_span": "Australian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "German Chancellor Angela Merkel meets with French President Macron.",
+                    "entity_span": "French",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Adjectives such as \"Chinese\" and \"Russian\" are not named organization entities. Viruses such as \"COVID-19\" are also not named organization entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "Apple unveils the latest iPhone model at a product launch event.",
+                    "entity_span": "Apple",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "CEO of Tesla Elon Musk Denies Securities Fraud Allegations",
+                    "entity_span": "CEO",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Japanese automaker Toyota recalls millions of vehicles.",
+                    "entity_span": "Japanese",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Pfizer announces new vaccine efficacy data against COVID-19 variants.",
+                    "entity_span": "COVID-19",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

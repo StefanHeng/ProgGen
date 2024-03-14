@@ -1,0 +1,8 @@
+Query: "what movie has the best soundtrack of all time"
+Named Entities: [best soundtrack of all time (Review)]
+
+Query: "can you recommend a movie with a great song by beyonce"
+Named Entities: [great song by beyonce (Song)]
+
+Query: "show me a movie with an iconic musical number"
+Named Entities: [iconic musical number (Plot)]

@@ -1,0 +1,11 @@
+1. Query: "Are there any movie trailers for films about a zombie apocalypse directed by {{Joss Whedon}}?"
+Text Span: "Joss Whedon"
+Label: (A). The span is a named entity of type director
+
+2. Query: "What is the plot of the movie City of Stars directed by {{Spike Lee}}?"
+Text Span: "Spike Lee"
+Label: (A). The span is a named entity of type director
+
+3. Query: "What is the plot of the drama movie directed by {{John Krasinski}}?"
+Text Span: "John Krasinski"
+Label: (A). The span is a named entity of type director

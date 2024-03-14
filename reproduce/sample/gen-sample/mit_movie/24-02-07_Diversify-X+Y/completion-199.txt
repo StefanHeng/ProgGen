@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend a movie with a TV-G rating that has some good reviews?"
+   Named Entities: [TV-G (MPAA Rating)]
+
+2. Spoken Query: "What do people think of the movie My Favorite Things? Is it worth watching?"
+   Named Entities: [My Favorite Things (Title), worth watching (Review)]
+
+3. Spoken Query: "I'm interested in a movie involving time travel, can you suggest something with positive viewer ratings?"
+   Named Entities: [time travel (Plot), positive viewer ratings (Review)]

@@ -1,0 +1,8 @@
+1. "Can you provide a visual effects critique for the latest Clint Eastwood movie?"
+   Named Entities: [visual effects critique (Review), Clint Eastwood (Actor/Director)]
+
+2. "I'm curious to know if there were any notable stunt double scenes in the behind-the-scenes of a popular action movie."
+   Named Entities: [stunt double (Plot), behind-the-scenes (Review), action (Genre)]
+
+3. "What year did the movie The Matrix come out and what is its genre?"
+   Named Entities: [The Matrix (Title), year (Year), genre (Genre)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good outdoor seating area for dinner?"
+Named Entities: [good (Rating), outdoor seating area (Amenity), dinner (Meal Category)]
+
+2. "I'm craving sushi, where can I find a place with all-you-can-eat sushi for dinner?"
+Named Entities: [sushi (Cuisine), all-you-can-eat (Amenity), dinner (Meal Category)]
+
+3. "What's a popular restaurant with a casual atmosphere and affordable prices for dinner?"
+Named Entities: [popular (Rating), casual atmosphere (Amenity), affordable prices (Price), dinner (Meal Category)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a thriller directed by Danny Boyle?"
+Named Entities: [Danny Boyle (Director), Thriller (Genre)]
+
+2. "Show me the trailer for the movie White Christmas"
+Named Entities: [White Christmas (Title), trailer (Trailer)]
+
+3. "What's the viewers' rating for a movie directed by Oliver Stone?"
+Named Entities: [Oliver Stone (Director), viewers' rating (Viewers' Rating)]

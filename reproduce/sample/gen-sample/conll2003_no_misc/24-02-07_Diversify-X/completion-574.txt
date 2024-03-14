@@ -1,0 +1,8 @@
+Sentence: "TENNIS - SERENA WILLIAMS ADVANCES TO SEMIFINALS."
+Named Entities: [SERENA WILLIAMS (person)]
+
+Sentence: "CHICAGO BULLS DEFEAT LOS ANGELES LAKERS."
+Named Entities: [CHICAGO BULLS (organization), LOS ANGELES LAKERS (organization)]
+
+Sentence: "TOM BRADY LEADS TAMPA BAY BUCCANEERS TO VICTORY."
+Named Entities: [TOM BRADY (person), TAMPA BAY BUCCANEERS (organization)]

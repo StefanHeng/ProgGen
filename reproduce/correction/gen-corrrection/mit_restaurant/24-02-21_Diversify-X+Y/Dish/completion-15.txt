@@ -1,0 +1,8 @@
+1. Text Span: "cocktails and appetizers"
+Label: (B). The span contains a named dish entity but the span boundary is not precise. Correct span boundary: "cocktails and appetizers"
+
+2. Text Span: "dessert"
+Label: (A). The span is a named entity of type dish
+
+3. Text Span: "steaks"
+Label: (A). The span is a named entity of type dish

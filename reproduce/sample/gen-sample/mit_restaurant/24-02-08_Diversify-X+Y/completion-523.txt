@@ -1,0 +1,8 @@
+Query: "What quality cafés around here offer tasting menus?"
+Named Entities: [Quality café (Amenity), tasting menus (Amenity)]
+
+Query: "I'm looking for a quality café with tasting menus in the area, can you recommend one?"
+Named Entities: [Quality café (Amenity), tasting menus (Amenity)]
+
+Query: "Where can I find a café with high-quality tasting menus nearby?"
+Named Entities: [Quality café (Amenity), tasting menus (Amenity)]

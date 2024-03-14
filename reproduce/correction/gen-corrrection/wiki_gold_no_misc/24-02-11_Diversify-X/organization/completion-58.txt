@@ -1,0 +1,11 @@
+1. Sentence: "The Hindu epic, the {{Mahabharata}}, is considered one of the longest epic poems in the world, featuring a multitude of characters and encompassing various myths and legends."
+Text Span: "Mahabharata"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The Hindu epic Mahabharata has a rich collection of mythology and legends, including the story of the Pandavas and {{Kauravas}}."
+Text Span: "Kauravas"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The {{United Nations Environment Programme}} (UNEP) is the leading global environmental authority that sets the global environmental agenda, promotes the coherent implementation of the environmental dimension of sustainable development within the United Nations system, and serves as an authoritative advocate for the global environment."
+Text Span: "United Nations Environment Programme"
+Label: (A). The span is a named entity of type organization

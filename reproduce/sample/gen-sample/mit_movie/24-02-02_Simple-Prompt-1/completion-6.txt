@@ -1,0 +1,149 @@
+1. can you show me the trailer for the new James Bond movie
+   Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. what is the rating for the new Spiderman movie
+   Named Entities: [rating (Viewers' Rating), Spiderman (Title)]
+
+3. recommend a good action movie from the 90s
+   Named Entities: [action (Genre), 90s (Year)]
+
+4. who directed the movie Inception
+   Named Entities: [Inception (Title), directed (Director)]
+
+5. is there a horror movie with a high MPAA rating
+   Named Entities: [horror (Genre), high (MPAA Rating)]
+
+6. show me a movie with Tom Hanks in it
+   Named Entities: [Tom Hanks (Actor)]
+
+7. can you play the song My Heart Will Go On from the Titanic movie
+   Named Entities: [My Heart Will Go On (Song), Titanic (Title)]
+
+8. is there a review for the movie Titanic
+   Named Entities: [review (Review), Titanic (Title)]
+
+9. what is the plot of the movie The Shawshank Redemption
+   Named Entities: [plot (Plot), The Shawshank Redemption (Title)]
+
+10. what character does Leonardo DiCaprio play in the movie Inception
+   Named Entities: [Leonardo DiCaprio (Actor), Inception (Character)]
+
+11. how many movies were released in the 80s
+   Named Entities: [80s (Year)]
+
+12. what is the genre of the movie Jurassic Park
+   Named Entities: [Jurassic Park (Title), genre (Genre)]
+
+13. who directed the movie The Godfather
+   Named Entities: [The Godfather (Title), directed (Director)] 
+	
+14. can you play the trailer for the new Batman movie
+   Named Entities: [trailer (Trailer), Batman (Character)]
+
+15. what is the MPAA rating for the movie Jaws
+   Named Entities: [MPAA rating (MPAA Rating), Jaws (Title)]
+
+16. recommend a good comedy from the 2000s
+   Named Entities: [comedy (Genre), 2000s (Year)]
+
+17. what is the title of the highest rated movie of all time
+   Named Entities: [highest rated (Viewers' Rating), all time (Year)]
+
+18. does the movie Ghostbusters have a catchy theme song
+   Named Entities: [Ghostbusters (Title), theme song (Song)]
+
+19. is there a review for the movie Citizen Kane
+   Named Entities: [review (Review), Citizen Kane (Title)]
+
+20. what character does Will Smith play in the movie Men in Black
+   Named Entities: [Will Smith (Actor), Men in Black (Character)]
+
+21. how many movies were released in 2010 
+   Named Entities: [2010 (Year)]
+
+22. what is the genre of the movie The Matrix
+   Named Entities: [The Matrix (Title), genre (Genre)]
+
+23. who directed the movie The Dark Knight
+   Named Entities: [The Dark Knight (Title), directed (Director)]
+
+24. can you play the trailer for the new Star Wars movie
+   Named Entities: [trailer (Trailer), Star Wars (Title)]
+
+25. what is the MPAA rating for the movie The Exorcist
+   Named Entities: [MPAA rating (MPAA Rating), The Exorcist (Title)]
+
+26. recommend a good sci-fi movie from the 90s
+   Named Entities: [sci-fi (Genre), 90s (Year)]
+
+27. what is the title of the highest grossing movie of all time
+   Named Entities: [highest grossing (Viewers' Rating), all time (Year)]
+
+28. does the movie Top Gun have a memorable soundtrack
+   Named Entities: [Top Gun (Title), soundtrack (Song)]
+
+29. is there a review for the movie Pulp Fiction
+  Named Entities: [review (Review), Pulp Fiction (Title)]
+
+30. what character does Scarlett Johansson play in the movie Avengers
+  Named Entities: [Scarlett Johansson (Actor), Avengers (Character)]
+
+31. how many movies were released in the 70s
+  Named Entities: [70s (Year)]
+
+32. what is the genre of the movie Alien
+  Named Entities: [Alien (Title), genre (Genre)]
+
+33. who directed the movie Fight Club
+  Named Entities: [Fight Club (Title), directed (Director)]
+
+34. can you play the trailer for the new Jurassic Park movie
+  Named Entities: [trailer (Trailer), Jurassic Park (Title)]
+
+35. what is the MPAA rating for the movie Psycho
+  Named Entities: [MPAA rating (MPAA Rating), Psycho (Title)]
+
+36. recommend a good thriller from the 2000s
+  Named Entities: [thriller (Genre), 2000s (Year)]
+
+37. what is the title of the most awarded movie of all time
+  Named Entities: [most awarded (Viewers' Rating), all time (Year)]
+
+38. does the movie The Lion King have a popular song
+  Named Entities: [The Lion King (Title), popular song (Song)]
+
+39. is there a review for the movie The Silence of the Lambs
+  Named Entities: [review (Review), The Silence of the Lambs (Title)]
+
+40. what character does Johnny Depp play in the movie Pirates of the Caribbean
+  Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Character)]
+
+41. how many movies were released in 2005
+  Named Entities: [2005 (Year)]
+
+42. what is the genre of the movie The Terminator
+  Named Entities: [The Terminator (Title), genre (Genre)]
+
+43. who directed the movie The Shining
+  Named Entities: [The Shining (Title), directed (Director)]
+
+44. can you play the trailer for the new Iron Man movie
+  Named Entities: [trailer (Trailer), Iron Man (Title)]
+
+45. what is the MPAA rating for the movie The Godfather
+  Named Entities: [MPAA rating (MPAA Rating), The Godfather (Title)]
+
+46. recommend a good animated movie from the 90s
+  Named Entities: [animated (Genre), 90s (Year)]
+
+47. what is the title of the highest grossing animated movie of all time
+  Named Entities: [highest grossing (Viewers' Rating), animated (Genre), all time (Year)]
+
+48. does the movie Grease have a popular soundtrack
+  Named Entities: [Grease (Title), popular soundtrack (Song)]
+
+49. is there a review for the movie Forrest Gump
+  Named Entities: [review (Review), Forrest Gump (Title)]
+
+50. what character does Keanu Reeves play in the movie The Matrix
+  Named Entities: [Keanu Reeves (Actor), The Matrix (Character)]

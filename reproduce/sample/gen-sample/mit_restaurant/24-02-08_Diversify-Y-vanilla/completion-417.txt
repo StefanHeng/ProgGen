@@ -1,0 +1,8 @@
+1. "Do you know any place that serves good fish and chips?"
+Named Entities: [good (Rating), fish and chips (Dish)]
+
+2. "What are the last orders at The Old Spaghetti Factory?"
+Named Entities: [last orders (Hours), The Old Spaghetti Factory (Restaurant Name)]
+
+3. "I'm craving some Italian food, can you suggest a good Italian restaurant nearby?"
+Named Entities: [Italian (Cuisine), nearby (Location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any five-star lunch places nearby?"
+Named Entities: [five-star (Rating), lunch (Amenity)]
+
+2. "I'm in the mood for some Texas Roadhouse for lunch, where is the nearest location?"
+Named Entities: [Texas Roadhouse (Restaurant Name), lunch (Amenity)]
+
+3. "I want to try Outback Steakhouse for lunch, what are the hours of operation?"
+Named Entities: [Outback Steakhouse (Restaurant Name), lunch (Amenity), hours of operation (Hours)]

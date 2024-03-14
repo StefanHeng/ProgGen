@@ -1,0 +1,8 @@
+Query: "What time does Subway close tonight?"
+Named Entities: [Subway (Restaurant Name), close tonight (Hours)]
+
+Query: "I'm in the mood for a sandwich, is there a Subway nearby?"
+Named Entities: [sandwich (Dish), Subway (Restaurant Name), nearby (Location)]
+
+Query: "Can you recommend a high-rated Subway location in the area?"
+Named Entities: [high-rated (Rating), Subway (Restaurant Name), area (Location)]

@@ -1,0 +1,8 @@
+Query: "I'm craving sushi, where's the best place to get it?"
+Named Entities: [sushi (Cuisine), best place (Amenity)]
+
+Query: "What are the hours for the Italian restaurant downtown?"
+Named Entities: [Italian restaurant (Cuisine), downtown (Location), hours (Hours)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a view?"
+Named Entities: [outdoor seating (Amenity), view (Amenity)]

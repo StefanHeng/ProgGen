@@ -1,0 +1,8 @@
+Query: "show me buffet options with vegetarian dishes"
+Named Entities: [buffet (Amenity), vegetarian dishes (Dish)]
+
+Query: "what are the buffet restaurants open past 10 pm"
+Named Entities: [buffet (Amenity), past 10 pm (Hours)]
+
+Query: "recommend a buffet place with high ratings in the downtown area"
+Named Entities: [buffet (Amenity), high ratings (Rating), downtown area (Location)]

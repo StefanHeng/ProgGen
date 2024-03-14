@@ -1,0 +1,8 @@
+Query: "can you recommend a BYOB restaurant that serves top-notch brunch with pancakes"
+Named Entities: [BYOB (Amenity), top-notch (Rating), brunch (Cuisine), pancakes (Dish)]
+
+Query: "I want to find a place for a brunch with excellent ratings and the option to bring my own drinks"
+Named Entities: [brunch (Cuisine), excellent ratings (Rating), bring my own drinks (Amenity)]
+
+Query: "where can I have a brunch with top-notch quality and BYOB option featuring pancakes"
+Named Entities: [brunch (Cuisine), top-notch quality (Rating), BYOB (Amenity), pancakes (Dish)]

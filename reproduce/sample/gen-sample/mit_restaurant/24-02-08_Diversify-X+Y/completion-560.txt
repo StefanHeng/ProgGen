@@ -1,0 +1,8 @@
+Query: "Can you recommend a place with delicious waffles for brunch on Tuesday morning?"
+Named Entities: [waffles (Dish), Tuesday morning (Hours)]
+
+Query: "I'm looking for a restaurant serving waffles for brunch this Tuesday morning, preferably with a cozy atmosphere."
+Named Entities: [waffles (Dish), Tuesday morning (Hours)]
+
+Query: "Where can I find a restaurant that offers waffles as part of their brunch menu on Tuesday mornings?"
+Named Entities: [waffles (Dish), Tuesday morning (Hours)]

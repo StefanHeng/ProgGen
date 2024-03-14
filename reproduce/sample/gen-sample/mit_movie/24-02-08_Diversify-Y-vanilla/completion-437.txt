@@ -1,0 +1,8 @@
+1. "Can you recommend any movies starring Tilda Swinton that came out between 2010 and 2012?"
+Named Entities: [Tilda Swinton (Actor), 2010-2012 (Year)]
+
+2. "Show me a trailer for the unrated Meryl Streep film released in 2010."
+Named Entities: [unrated (MPAA Rating), Meryl Streep (Actor), 2010 (Year)]
+
+3. "What is the plot of the movie directed by Tilda Swinton in 2011?"
+Named Entities: [Tilda Swinton (Director), 2011 (Year)]

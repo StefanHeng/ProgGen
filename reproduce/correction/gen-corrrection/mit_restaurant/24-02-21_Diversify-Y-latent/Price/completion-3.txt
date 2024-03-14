@@ -1,0 +1,8 @@
+1. Text Span: "spend too much"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "low-cost"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "high-end"
+Label: (A). Correct Entity Annotation.

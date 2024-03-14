@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me who directed the movie where Will Smith made his film debut in 1983?"
+   Named Entities: [Will Smith (Actor), 1983 (Year), film debut (Plot), directed (Director)]
+
+2. Spoken Query: "I'm feeling nostalgic for a classic dance movie with a ten-star rating. Can you recommend one?"
+   Named Entities: [nostalgic (Viewers' Rating), dance (Genre), ten-star rating (Review)]
+
+3. Spoken Query: "Do you have any information about the cast of the 1983 movie starring Will Smith?"
+   Named Entities: [1983 (Year), Will Smith (Actor), cast (Character)]

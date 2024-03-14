@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a neo-noir movie as splendid as The Artist?"
+   Named Entities: [neo-noir (Genre), The Artist (Title), splendid (Viewers' Rating)]
+
+2. Query: "Show me a trailer for a movie with a song similar to The Artist soundtrack."
+   Named Entities: [song similar to The Artist soundtrack (Song), The Artist (Title)]
+
+3. Query: "What is the MPAA rating for The Artist, a film from 2011?"
+   Named Entities: [The Artist (Title), 2011 (Year), MPAA rating (MPAA Rating)]

@@ -1,0 +1,8 @@
+Query: "Is the movie 'La La Land' available for streaming anywhere?"
+Named Entities: ['La La Land' (Title)]
+
+Query: "Can I watch 'The Devil Wears Prada' on any streaming platform?"
+Named Entities: ['The Devil Wears Prada' (Title)]
+
+Query: "Is 'Inception' available to stream?"
+Named Entities: ['Inception' (Title)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with outstanding direction"
+Named Entities: [Outstanding direction (Review)]
+
+Query: "what year was The Way We Were released"
+Named Entities: [The Way We Were (Title), released (Year)]
+
+Query: "who directed the war movie by Oliver Stone"
+Named Entities: [War (Genre), Oliver Stone (Director)]

@@ -1,0 +1,8 @@
+Sentence: "Economics is a social science concerned with the production, distribution, and consumption of goods and services."
+Named Entities: []
+
+Sentence: "The Federal Reserve System, often referred to as the Fed, is the central bank of the United States."
+Named Entities: [Federal Reserve System (organization), United States (location)]
+
+Sentence: "Keynesian economics is a macroeconomic theory based on the ideas of 20th-century British economist John Maynard Keynes."
+Named Entities: [Keynesian economics (organization), John Maynard Keynes (person)]

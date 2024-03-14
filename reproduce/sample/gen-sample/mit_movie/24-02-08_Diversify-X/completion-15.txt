@@ -1,0 +1,8 @@
+Query: "Can you provide me with behind-the-scenes footage of the Avengers: Endgame movie"
+Named Entities: [behind-the-scenes footage (Plot), Avengers: Endgame (Title)]
+
+Query: "Who directed the film Inception and can you show me some behind-the-scenes clips"
+Named Entities: [Inception (Title), behind-the-scenes clips (Trailer)]
+
+Query: "I'm interested in learning about the making of the Titanic movie, can you show me any interviews with the director or cast members?"
+Named Entities: [making of the Titanic movie (Plot), interviews (Trailer), Titanic (Title)]

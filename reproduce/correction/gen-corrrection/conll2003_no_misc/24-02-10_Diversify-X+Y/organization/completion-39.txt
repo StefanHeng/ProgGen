@@ -1,0 +1,11 @@
+1. Sentence: "The impact of the pandemic on mental health, as discussed by leading {{psychologists}} in a recent interview."
+Text Span: "psychologists"
+Label: (C). Not a Named Entity. Entity type: other
+
+2. Sentence: "{{City Council}} holds public hearing on PFLAG-sponsored anti-discrimination ordinance."
+Text Span: "City Council"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{International Committee of the Red Cross}} provides medical aid to remote villages in Africa."
+Text Span: "International Committee of the Red Cross"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie that is well-casted and has a viewers' rating of 9 out of 10?"
+Named Entities: [well-casted (Review), 9 out of 10 (Viewers' Rating)]
+
+2. Query: "What movie did Cary Joji Fukunaga direct that provides a glimpse into the world of espionage?"
+Named Entities: [Cary Joji Fukunaga (Director), Glimpse (Plot), espionage (Genre)]
+
+3. Query: "Show me a movie with the title X that was released in the 1990s"
+Named Entities: [X (Title), 1990s (Year)]

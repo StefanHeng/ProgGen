@@ -1,0 +1,11 @@
+1. Query: "can you tell me the top rated {{horror}} movies of all time"
+Text Span: "horror"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "I'd like to watch a {{family-friendly}} film, maybe something from Disney"
+Text Span: "family-friendly"
+Label: (A). The span is a named entity of type genre
+
+3. Query: "Give me a list of {{romantic comedy}} movies"
+Text Span: "romantic comedy"
+Label: (A). The span is a named entity of type genre

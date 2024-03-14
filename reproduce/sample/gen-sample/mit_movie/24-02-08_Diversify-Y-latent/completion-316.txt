@@ -1,0 +1,8 @@
+Query: "What year was A Few Good Men released and who directed it?"
+Named Entities: [A Few Good Men (Title), directed (Director)]
+
+Query: "Show me the trailer for Raiders of the Lost Ark"
+Named Entities: [Raiders of the Lost Ark (Title), trailer (Trailer)]
+
+Query: "I'm interested in the movie Haunting, what's the viewers' rating for it?"
+Named Entities: [Haunting (Title), viewers' rating (Viewers' Rating)]

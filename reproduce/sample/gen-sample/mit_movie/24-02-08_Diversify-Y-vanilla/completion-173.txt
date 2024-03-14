@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie directed by James Wan?"
+Named Entities: [James Wan (Director)]
+
+2. "Can you recommend a movie with the song Sweet Caroline in it?"
+Named Entities: [Sweet Caroline (Song)]
+
+3. "Is Cary Joji Fukunaga known for directing any political films?"
+Named Entities: [Cary Joji Fukunaga (Director), political (Genre)]

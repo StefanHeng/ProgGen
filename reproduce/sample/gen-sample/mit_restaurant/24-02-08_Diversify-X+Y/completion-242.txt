@@ -1,0 +1,8 @@
+Query: "can you recommend a good brunch place nearby"
+Named Entities: [good (Rating), brunch (Amenity), Nearby (Location)]
+
+Query: "what time does The Bagel Barn open for brunch"
+Named Entities: [The Bagel Barn (Restaurant Name), brunch (Amenity), open for brunch (Hours)]
+
+Query: "I'm craving some brunch, where is The Granola Grill located"
+Named Entities: [craving (Amenity), brunch (Amenity), The Granola Grill (Restaurant Name), located (Location)]

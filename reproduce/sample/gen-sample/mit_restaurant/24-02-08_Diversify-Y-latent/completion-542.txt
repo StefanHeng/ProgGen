@@ -1,0 +1,8 @@
+1. "I'm looking for a good Thai restaurant with a high chair available."
+Named Entities: [Thai (Cuisine), high chair available (Amenity)]
+
+2. "Can you recommend a Greek restaurant with a high rating in the downtown area?"
+Named Entities: [Greek (Cuisine), high rating (Rating), downtown area (Location)]
+
+3. "What restaurants offer Greek cuisine and are open past 10 pm?"
+Named Entities: [Greek (Cuisine), past 10 pm (Hours)]

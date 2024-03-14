@@ -1,0 +1,8 @@
+1. "What are the hours of Aroma Cafe?"
+Named Entities: [Aroma Cafe (Restaurant Name), hours (Hours)]
+
+2. "Can you recommend the highest-rated seafood restaurant in the area?"
+Named Entities: [Highest-rated (Rating), seafood (Cuisine)]
+
+3. "I'm looking for a place with outdoor seating and a diverse menu."
+Named Entities: [outdoor seating (Amenity), diverse menu (Amenity)]

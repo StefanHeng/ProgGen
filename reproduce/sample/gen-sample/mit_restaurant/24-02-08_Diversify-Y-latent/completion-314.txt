@@ -1,0 +1,8 @@
+Query: "Where can I find an amazing sushi restaurant with outdoor seating?"
+Named Entities: [amazing (Rating), sushi (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm craving amazing Italian food, is there a place nearby with great pasta dishes?"
+Named Entities: [amazing (Rating), Italian (Cuisine), great pasta dishes (Dish), nearby (Location)]
+
+Query: "Can you recommend an amazing steakhouse with live music for tonight?"
+Named Entities: [amazing (Rating), steakhouse (Restaurant Name), live music (Amenity), tonight (Hours)]

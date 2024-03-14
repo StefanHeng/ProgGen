@@ -1,0 +1,8 @@
+Query: "Can you help me find Bonefish Grill nearby?"
+Named Entities: [Bonefish Grill (Restaurant Name), nearby (Location)]
+
+Query: "I'm looking for a restaurant with electric vehicle charging in the area, can you recommend one?"
+Named Entities: [electric vehicle charging (Amenity), area (Location)]
+
+Query: "What are the top-rated seafood restaurants in the city?"
+Named Entities: [seafood (Cuisine), city (Location), top-rated (Rating)]

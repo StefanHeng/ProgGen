@@ -1,0 +1,8 @@
+1. "I'm looking for a place downtown with valet parking and an impressive menu."
+Named Entities: [Downtown (Location), valet parking (Amenity), impressive (Rating)]
+
+2. "Where can I find a restaurant with decadent desserts and a cozy atmosphere?"
+Named Entities: [decadent (Rating)]
+
+3. "Do you know any places with valet parking and an extensive wine list?"
+Named Entities: [valet parking (Amenity)]

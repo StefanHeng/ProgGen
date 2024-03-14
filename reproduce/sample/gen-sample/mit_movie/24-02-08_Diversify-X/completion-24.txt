@@ -1,0 +1,8 @@
+1. Query: "Can I see the trailer for the latest James Bond movie?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. Query: "What are the showtimes for the new Marvel movie?"
+Named Entities: [showtimes (Plot), Marvel (Genre)]
+
+3. Query: "Do you have tickets available for the re-release of The Lion King?"
+Named Entities: [tickets (Plot), The Lion King (Title), re-release (Year)]

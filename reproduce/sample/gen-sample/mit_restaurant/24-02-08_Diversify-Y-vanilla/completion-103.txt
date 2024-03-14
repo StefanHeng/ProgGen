@@ -1,0 +1,8 @@
+1. Query: "Find me a casual Italian restaurant adjacent to the movie theater"
+Named Entities: [casual (Amenity), Italian (Cuisine), movie theater (Location)]
+ 
+2. Query: "I'm craving sushi, can you recommend a place with a high rating nearby?"
+Named Entities: [sushi (Cuisine), high rating (Rating), nearby (Location)]
+
+3. Query: "Is there a 24-hour diner adjacent to the hotel?"
+Named Entities: [24-hour (Hours), diner (Amenity), hotel (Location)]

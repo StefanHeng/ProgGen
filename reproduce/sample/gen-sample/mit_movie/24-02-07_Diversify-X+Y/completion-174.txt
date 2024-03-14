@@ -1,0 +1,8 @@
+1. "Can you tell me the storyline of the movie where Denzel Washington stars?"
+   Named Entities: [Denzel Washington (Actor)]
+
+2. "I'm looking for a movie about a girl who overcomes obstacles and achieves her dreams, maybe related to sports or something like that."
+   Named Entities: [X (Title), Sport (Genre)]
+
+3. "Do you have any recommendations for a film that features the song 'This Is Me' and has a really exciting plot?"
+   Named Entities: [This Is Me (Song)]

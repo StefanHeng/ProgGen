@@ -1,0 +1,8 @@
+Query: "What's the best Italian restaurant in the area for dinner?"
+Named Entities: [best (Rating), Italian (Cuisine), dinner (Amenity), area (Location)]
+
+Query: "What are the dinner hours for sushi palace?"
+Named Entities: [dinner (Amenity), sushi palace (Restaurant Name)]
+
+Query: "Where can I find a Mexican restaurant with outdoor seating for dinner?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), dinner (Amenity)]

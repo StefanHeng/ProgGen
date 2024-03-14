@@ -1,0 +1,8 @@
+1. Query: "Hey, can I get an advance look at that movie with Cathy Yan directing? I heard it has superb casting!"
+Named Entities: [advance look (Trailer), Cathy Yan (Director), superb casting (Review)]
+
+2. Query: "Do you have any info about that new movie about witness protection? I think it's got a sizzle reel out."
+Named Entities: [witness protection (Plot), sizzle reel (Trailer)]
+
+3. Query: "I'm really looking forward to that Harley Quinn movie. Can you tell me more about it?"
+Named Entities: [Harley Quinn (Character)]

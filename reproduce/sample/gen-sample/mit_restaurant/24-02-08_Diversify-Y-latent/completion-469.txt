@@ -1,0 +1,8 @@
+1. "Do you know if Wendy's offers any discounted combos?"
+Named Entities: [Discounted Combo (Amenity), Wendy's (Restaurant Name)]
+
+2. "I'm craving Italian food, any recommendations for a good pasta place?"
+Named Entities: [Italian (Cuisine), pasta (Dish)]
+
+3. "What are the operating hours for the sushi restaurant near the mall?"
+Named Entities: [sushi restaurant (Cuisine), near the mall (Location), operating hours (Hours)]

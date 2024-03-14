@@ -1,0 +1,8 @@
+1. Text Span: "Chinese"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "lunch"
+Label: (C). The span is a named entity but the category is not cuisine. The correct entity type is Hours.
+
+3. Text Span: "Italian cuisine"
+Label: (B). The span contains a named cuisine entity but the span boundary is not precise. The correct span boundary is "Italian".

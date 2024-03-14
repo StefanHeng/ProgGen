@@ -1,0 +1,8 @@
+1. Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Tesla, Inc."
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "International Atomic Energy Agency"
+Label: (A). Correct Entity Annotation.

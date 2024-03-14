@@ -1,0 +1,8 @@
+1. Text Span: "Mount Olympus"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Golden Age"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+3. Text Span: "Cambridge, Massachusetts"
+Label: (A). The span is a named entity of type location

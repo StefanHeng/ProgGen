@@ -1,0 +1,8 @@
+1. "I'm looking for a budget-friendly lunch spot, preferably with outdoor seating. Any recommendations?"
+Named Entities: [budget-friendly (Price), lunch (Amenity), outdoor seating (Amenity)]
+
+2. "Can you suggest a place for a quick bite at lunchtime, something like Aroma Cafe?"
+Named Entities: [quick bite (Amenity), lunchtime (Hours), Aroma Cafe (Restaurant Name)]
+
+3. "I want to grab a cheap lunch around here, maybe something like McDonald's. Any options?"
+Named Entities: [cheap (Price), lunch (Amenity), McDonald's (Restaurant Name)]

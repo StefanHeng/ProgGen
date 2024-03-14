@@ -1,0 +1,8 @@
+1. "What was the last film directed by Quentin Tarantino and featuring Leonardo DiCaprio?"
+Named Entities: [Quentin Tarantino (Director), Leonardo DiCaprio (Actor)]
+
+2. "Can you recommend a sci-fi movie with Sigourney Weaver in the cast?"
+Named Entities: [sci-fi (Genre), Sigourney Weaver (Actor)]
+
+3. "I'm looking for a film with Tom Hanks in a leading role, directed by Steven Spielberg and released in the 1990s"
+Named Entities: [Tom Hanks (Actor), Steven Spielberg (Director), 1990s (Year)]

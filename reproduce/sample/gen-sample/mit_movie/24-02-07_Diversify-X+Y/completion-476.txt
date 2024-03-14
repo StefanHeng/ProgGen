@@ -1,0 +1,8 @@
+1. Spoken Movie Query: "Can you tell me if the movie Trinity has a phenomenal cast?"
+   Named Entities: [Trinity (Title), phenomenal cast (Review)]
+
+2. Spoken Movie Query: "I'm interested in an exclusive look at a horror movie from 1968"
+   Named Entities: [exclusive look (Trailer), horror (Genre), 1968 (Year)]
+
+3. Spoken Movie Query: "Does Schindler's List have a great performance by Zack Snyder?"
+   Named Entities: [Schindler's List (Title), great performance (Review), Zack Snyder (Director)]

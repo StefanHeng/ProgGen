@@ -1,0 +1,8 @@
+1. "Can you provide me with the trailer for the 1994 movie directed by Luc Besson?"
+   Named Entities: [trailer (Trailer), 1994 (Year), Luc Besson (Director)]
+   
+2. "What movie did Francis Ford Coppola direct in the 1970s that received a high viewers' rating?"
+   Named Entities: [1970s (Year), Francis Ford Coppola (Director), high viewers' rating (Viewers' Rating)]
+
+3. "Show me a list of action movies with Liam Neeson as the lead actor."
+   Named Entities: [action (Genre), Liam Neeson (Actor)]

@@ -1,0 +1,8 @@
+Sentence: "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits."
+Named Entities: []
+
+Sentence: "Harvard University is a private Ivy League research university in Cambridge, Massachusetts, with about 6,700 undergraduate students and about 15,250 postgraduate students."
+Named Entities: [Harvard University (organization), Cambridge (location), Massachusetts (location)]
+
+Sentence: "The UNESCO believes that education is essential for the promotion of sustainable development, and for achieving the goal of Education for All." 
+Named Entities: [UNESCO (organization)]

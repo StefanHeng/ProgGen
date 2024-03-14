@@ -1,0 +1,8 @@
+1. "Can you recommend any French restaurants with a dog-friendly patio in the area?"
+Named Entities: [French (Cuisine), dog-friendly patio (Amenity)]
+
+2. "I'm in the mood for some tacos, can you find the nearest Taco Bell for me?"
+Named Entities: [Taco Bell (Restaurant Name)]
+
+3. "Do you know of any restaurants with a good menu for happy hour that are open late tonight?"
+Named Entities: [good (Rating), happy hour (Amenity), open late tonight (Hours)]

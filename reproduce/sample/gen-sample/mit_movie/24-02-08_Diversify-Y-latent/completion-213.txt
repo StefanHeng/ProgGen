@@ -1,0 +1,8 @@
+Query: "can you recommend a heartwarming movie from the 1930s"
+Named Entities: [heartwarming (Genre), 1930s (Year)]
+
+Query: "who directed the suspenseful thriller film It's My Party"
+Named Entities: [suspenseful thriller (Genre), It's My Party (Title)]
+
+Query: "show me a fantasy movie by John Hughes"
+Named Entities: [fantasy (Genre), John Hughes (Director)]

@@ -1,0 +1,8 @@
+1. "I'm looking for a halal breakfast spot with a bar nearby."
+Named Entities: [halal (Cuisine), breakfast (Amenity), nearby (Location), bar (Amenity)]
+
+2. "Can you recommend a dine-in restaurant serving halal breakfast with a bar?"
+Named Entities: [dine-in (Amenity), halal (Cuisine), breakfast (Amenity), bar (Amenity)]
+
+3. "Where can I find a halal breakfast place that also has a bar for dine-in?"
+Named Entities: [halal (Cuisine), breakfast (Amenity), bar (Amenity), dine-in (Amenity)]

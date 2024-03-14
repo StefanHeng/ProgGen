@@ -1,0 +1,8 @@
+1. Text Span: "gripping"
+Label: (C). The span is not a named entity. Entity type: other
+
+2. Text Span: "horror"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "Marvel"
+Label: (A). The span is a named entity of type genre

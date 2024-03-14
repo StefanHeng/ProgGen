@@ -1,0 +1,149 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location)]
+
+2. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+3. Queen Elizabeth II is the longest-reigning monarch in British history.
+Named Entities: [Queen Elizabeth II (person), British (location)]
+
+4. The Great Barrier Reef is the world's largest coral reef system.
+Named Entities: [Great Barrier Reef (location)]
+
+5. Harvard University is a private Ivy League research university in Cambridge, Massachusetts.
+Named Entities: [Harvard University (organization), Ivy League (organization), Cambridge (location), Massachusetts (location)]
+
+6. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person), German (location)]
+
+7. Mount Everest is the highest mountain in the world, with a peak that reaches 29,032 feet.
+Named Entities: [Mount Everest (location)]
+
+8. NASA, the National Aeronautics and Space Administration, is responsible for the United States civilian space program.
+Named Entities: [NASA (organization), National Aeronautics and Space Administration (organization), United States (location)]
+
+9. The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.
+Named Entities: [Mona Lisa (location), Italian (location), Leonardo da Vinci (person)]
+
+10. The United Nations is an intergovernmental organization that aims to maintain international peace and security.
+Named Entities: [United Nations (organization)]
+
+11. The Amazon River in South America is the largest river by discharge volume of water.
+Named Entities: [Amazon River (location), South America (location)]
+
+12. The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.
+Named Entities: [Continental Congress (organization)]
+
+13. Jane Austen was an English novelist known primarily for her six major novels set among the British landed gentry.
+Named Entities: [Jane Austen (person), English (location), British (location)]
+
+14. The Louvre Museum in Paris is the world's largest art museum and a historic monument in France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+15. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+16. The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.
+Named Entities: [Pacific Ocean (location), Earth (location)]
+
+17. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+Named Entities: [Great Wall of China (location)]
+
+18. Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist.
+Named Entities: [Nelson Mandela (person), South African (location)]
+
+19. Notre-Dame Cathedral in Paris is widely considered one of the finest examples of French Gothic architecture.
+Named Entities: [Notre-Dame Cathedral (location), Paris (location), French (location)]
+
+20. The United States Congress is the bicameral legislature of the federal government of the United States.
+Named Entities: [United States Congress (organization), United States (location)]
+
+21. The Nile is a major north-flowing river in northeastern Africa.
+Named Entities: [Nile (location), Africa (location)]
+
+22. J.K. Rowling is a British author best known for writing the Harry Potter fantasy series.
+Named Entities: [J.K. Rowling (person), British (location), Harry Potter (organization)]
+
+23. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+24. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+
+25. Ludwig van Beethoven was a German composer and pianist whose music is admired for its technical mastery.
+Named Entities: [Ludwig van Beethoven (person), German (location)]
+
+26. Central Park is an urban park in New York City, located between the Upper West and Upper East Sides of Manhattan.
+Named Entities: [Central Park (location), New York City (location), Upper West (location), Upper East (location), Manhattan (location)]
+
+27. The Pentagon is the headquarters building of the United States Department of Defense.
+Named Entities: [Pentagon (location), United States Department of Defense (organization)]
+
+28. Winston Churchill was a British statesman, army officer, and writer who served as Prime Minister of the United Kingdom.
+Named Entities: [Winston Churchill (person), British (location), United Kingdom (location)]
+
+29. The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Named Entities: [Himalayas (location), Asia (location), Indian subcontinent (location), Tibetan Plateau (location)]
+
+30. The Metropolitan Museum of Art, colloquially "the Met," is the largest art museum in the United States.
+Named Entities: [Metropolitan Museum of Art (organization), United States (location)]
+
+31. William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language.
+Named Entities: [William Shakespeare (person), English (location)]
+
+32. The Sydney Opera House is a multi-venue performing arts center in Sydney, New South Wales, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), New South Wales (location), Australia (location)]
+
+33. The United States of America is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions.
+Named Entities: [United States of America (organization)]
+
+34. Michelangelo was an Italian sculptor, painter, architect, and poet of the High Renaissance.
+Named Entities: [Michelangelo (person), Italian (location), High Renaissance (organization)]
+
+35. The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Named Entities: [Sistine Chapel (location), Apostolic Palace (location), Vatican City (location)]
+
+36. The Taj Mahal is an ivory-white marble mausoleum in Agra, India.
+Named Entities: [Taj Mahal (location), Agra (location), India (location)]
+
+37. Alexander the Great was a king of Macedonia who conquered an empire that stretched from the Balkans to modern-day Pakistan.
+Named Entities: [Alexander the Great (person), Macedonia (location), Balkans (location), Pakistan (location)]
+
+38. The 1969 moon landing saw the first humans set foot on the moon.
+Named Entities: []
+
+39. The British Museum is dedicated to human history, art, and culture, and is located in the Bloomsbury area of London.
+Named Entities: [British Museum (organization), Bloomsbury (location), London (location)]
+
+40. The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London.
+Named Entities: [London Eye (location), Millennium Wheel (location), River Thames (location), South Bank (location), London (location)]
+
+41. The Apollo 11 mission was the first manned mission to land on the moon.
+Named Entities: [Apollo 11 (location)]
+
+42. Leonardo da Vinci was an Italian polymath of the High Renaissance.
+Named Entities: [Leonardo da Vinci (person), Italian (location), High Renaissance (organization)]
+
+43. The Kremlin in Moscow is a fortified complex at the heart of the Russian capital.
+Named Entities: [Kremlin (location), Moscow (location), Russian (location)]
+
+44. Mozart was a prolific and influential composer of the Classical era.
+Named Entities: [Mozart (person), Classical era (organization)]
+
+45. The African Union is a continental union consisting of 55 member states located on the continent of Africa.
+Named Entities: [African Union (organization), Africa (location)]
+
+46. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt.
+Named Entities: [Great Pyramid of Giza (location), Giza pyramid complex (location), El Giza (location), Egypt (location)]
+
+47. The Louvre Abu Dhabi is an art and civilization museum located in Abu Dhabi, United Arab Emirates.
+Named Entities: [Louvre Abu Dhabi (organization), Abu Dhabi (location), United Arab Emirates (location)]
+
+48. The Spanish Steps are a set of steps in Rome, Italy, climbing a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Monti church at the top.
+Named Entities: [Spanish Steps (location), Rome (location), Italy (location), Piazza di Spagna (location), Piazza Trinità dei Monti (location), Trinità dei Monti (location)]
+
+49. The Brazilian rainforest, known as the Amazon rainforest, is home to the most biologically diverse ecosystem on Earth.
+Named Entities: [Brazilian rainforest (location), Amazon rainforest (location), Earth (location)]
+
+50. The city of Athens is considered the cradle of Western civilization and the birthplace of democracy.
+Named Entities: [Athens (location), Western civilization (organization)]

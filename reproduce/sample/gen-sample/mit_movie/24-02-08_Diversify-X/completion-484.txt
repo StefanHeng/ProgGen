@@ -1,0 +1,8 @@
+1. "What's the buzz on the latest action flick?"
+   Named Entities: None
+
+2. "Can you recommend a highly-rated mystery movie from the 1980s?"
+   Named Entities: [mystery (Genre), 1980s (Year), highly-rated (Viewers' Rating)]
+
+3. "Who played the lead in that classic romance film?"
+   Named Entities: [lead (Character), classic romance (Genre)]

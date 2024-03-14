@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the story of The Matrix movie directed by the Wachowskis?"
+   Named Entities: [The Matrix (Title), Wachowskis (Director)]
+
+2. Query: "What's the plot of the movie with Jodie Foster about a woman in panic room?"
+   Named Entities: [Jodie Foster (Actor), panic room (Plot)]
+
+3. Query: "I want to know more about the movie with Daniel Craig that's similar to Blade Runner."
+   Named Entities: [Daniel Craig (Actor), Blade Runner (Reference)]

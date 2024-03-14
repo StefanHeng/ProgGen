@@ -1,0 +1,11 @@
+Example 1:
+Sentence: "Tijuana has been a major gateway for drug trafficking into the United States."
+Named Entities: [Tijuana (location), United States (location)]
+
+Example 2:
+Sentence: "The Drug Enforcement Administration (DEA) is responsible for investigating and prosecuting drug-related crimes in the United States."
+Named Entities: [Drug Enforcement Administration (organization), United States (location)]
+
+Example 3:
+Sentence: "In 2019, Port Arthur experienced a significant increase in crime rates, with drug-related offenses being a major contributing factor."
+Named Entities: [Port Arthur (location), 2019 (location)]

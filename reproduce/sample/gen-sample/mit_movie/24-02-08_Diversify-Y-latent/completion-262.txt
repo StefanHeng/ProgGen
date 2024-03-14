@@ -1,0 +1,8 @@
+1. "Could you show me the trailer of the new Martin Scorsese movie?"
+Named Entities: [trailer (Trailer), Martin Scorsese (Director)]
+
+2. "Do you have any promo material for the disappointing M rated movie released in 2021?"
+Named Entities: [disappointing (Review), M (MPAA Rating), 2021 (Year), promo (Promo)]
+
+3. "Who directed the movie with the song 'I Will Always Love You' in it?"
+Named Entities: [I Will Always Love You (Song)]

@@ -1,0 +1,8 @@
+1. "Could you provide me with the soundtrack of the movie Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director), Soundtrack (Song)]
+
+2. "What is the viewers' rating for the movie La La Land, known for its iconic song City of Stars?"
+Named Entities: [La La Land (Title), City of Stars (Song), viewers' rating (Viewers' Rating)]
+
+3. "I would like to know the year of release for the movie A Star is Born featuring the song Shallow by Lady Gaga and Bradley Cooper."
+Named Entities: [A Star is Born (Title), Shallow (Song), Lady Gaga (Actor), Bradley Cooper (Actor), year of release (Year)]

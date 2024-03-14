@@ -1,0 +1,8 @@
+Query: "Can you recommend a pet-friendly café in the District that serves Key Lime Pie?"
+Named Entities: [pet-friendly (Amenity), café (Amenity), District (Location), Key Lime Pie (Dish)]
+
+Query: "What is the best café in the District for Key Lime Pie?"
+Named Entities: [best (Rating), café (Amenity), District (Location), Key Lime Pie (Dish)]
+
+Query: "I'm looking for a café in the District with a great Key Lime Pie. What are the opening hours?"
+Named Entities: [café (Amenity), District (Location), Key Lime Pie (Dish), opening hours (Hours)]

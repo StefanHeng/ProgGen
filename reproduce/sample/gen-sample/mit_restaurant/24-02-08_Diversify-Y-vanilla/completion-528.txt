@@ -1,0 +1,8 @@
+1. "I'm craving some authentic Italian pasta, can you recommend a restaurant with a high rating?"
+   Named Entities: [authentic Italian pasta (Cuisine), high (Rating)]
+
+2. "What's the best sushi place in the area that is open after 10 pm?"
+   Named Entities: [sushi (Cuisine), after 10 pm (Hours)]
+
+3. "I need a restaurant with outdoor seating and a view of the water, where can I find that?"
+   Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]

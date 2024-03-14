@@ -1,0 +1,8 @@
+Query: "Can you recommend a detective movie where the main character is a retired cop hunting down a serial killer"
+Named Entities: [detective (Genre), retired cop (Character), serial killer (Plot)]
+
+Query: "I am looking for a comedy film that falls under the dark comedy subgenre and involves a heist"
+Named Entities: [comedy (Genre), dark comedy (Subgenre), heist (Plot)]
+
+Query: "I want to watch a science fiction movie set in a dystopian future with artificial intelligence as the main theme"
+Named Entities: [science fiction (Genre), dystopian future (Plot), artificial intelligence (Theme)]

@@ -1,0 +1,8 @@
+1. "can you recommend a movie featuring Elton John's music"
+Named Entities: [Elton John (Actor/Singer), music (Song)]
+
+2. "show me the trailer for the new Kristen Stewart film"
+Named Entities: [new (Year), Kristen Stewart (Actor), trailer (Trailer)]
+
+3. "is there a movie where Ron Weasley plays a role as Alex in a G-rated film"
+Named Entities: [Ron Weasley (Actor/Character), Alex (Character), G (MPAA Rating)]

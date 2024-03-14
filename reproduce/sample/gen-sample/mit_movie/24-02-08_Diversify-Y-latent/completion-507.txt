@@ -1,0 +1,8 @@
+1. Query: "what comedic movie did adam sandler star in that was released in 1999"
+   Named Entities: [adam sandler (Actor), 1999 (Year), comedic (Genre)]
+
+2. Query: "can you recommend a great thriller film from the 80s"
+   Named Entities: [thriller (Genre), 80s (Year)]
+
+3. Query: "show me a romance movie with the song 'my heart will go on'"
+   Named Entities: ['my heart will go on' (Song), romance (Genre)]

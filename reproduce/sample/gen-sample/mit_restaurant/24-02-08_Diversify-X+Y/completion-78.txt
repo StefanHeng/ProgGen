@@ -1,0 +1,8 @@
+1. "Can you recommend a rustic restaurant with a cozy atmosphere that serves delicious French toast for breakfast?"
+   Named Entities: [rustic (Amenity), French toast (Dish), breakfast (Cuisine)]
+
+2. "I'm looking for a family-friendly place with a rustic vibe where I can enjoy French toast and coffee for breakfast with my toddler."
+   Named Entities: [family-friendly (Amenity), rustic (Amenity), French toast (Dish), breakfast (Cuisine)]
+
+3. "I want to find a charming cafe that specializes in French toast and has a peaceful atmosphere for a leisurely breakfast."
+   Named Entities: [French toast (Dish), breakfast (Cuisine)]

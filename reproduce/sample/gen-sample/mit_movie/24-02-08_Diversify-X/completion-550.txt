@@ -1,0 +1,8 @@
+Query: "Hey, can you tell me a movie with an awesome soundtrack?"
+Named Entities: [awesome soundtrack (Review)]
+
+Query: "What are some movies with iconic songs in them?"
+Named Entities: [iconic songs (Song)]
+
+Query: "Do you know any films with killer background music?"
+Named Entities: [killer background music (Review)]

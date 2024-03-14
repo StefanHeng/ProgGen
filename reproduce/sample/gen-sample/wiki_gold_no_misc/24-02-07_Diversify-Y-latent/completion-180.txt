@@ -1,0 +1,8 @@
+1. The University of California, San Francisco Medical Center is a major research hospital in San Francisco. 
+Named Entities: [University of California, San Francisco Medical Center (organization), San Francisco (location)]
+
+2. Great Ormond Street Hospital is a children's hospital located in London, United Kingdom. 
+Named Entities: [Great Ormond Street Hospital (organization), London (location), United Kingdom (location)]
+
+3. The scientist conducted research at University of California, San Francisco Medical Center before joining the faculty at Stanford University. 
+Named Entities: [University of California, San Francisco Medical Center (organization), Stanford University (organization)]

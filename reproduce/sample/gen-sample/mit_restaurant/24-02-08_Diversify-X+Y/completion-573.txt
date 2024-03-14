@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a great bar area and excellent service?"
+Named Entities: [fine dining (Cuisine), bar area (Amenity), excellent service (Amenity)]
+
+2. "Where can I find a fine dining restaurant that serves amazing sushi?"
+Named Entities: [fine dining (Cuisine), amazing sushi (Dish)]
+
+3. "I'm looking for a fine dining spot with a sushi bar and exceptional service, can you help?"
+Named Entities: [fine dining (Cuisine), sushi bar (Amenity), exceptional service (Amenity)]

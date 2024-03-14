@@ -1,0 +1,8 @@
+Query: "What are some foodie favorites in the area for dinner?"
+Named Entities: [Foodie Favorites (Amenity), dinner (Amenity)]
+
+Query: "Can you recommend any under the radar restaurants with outdoor seating?"
+Named Entities: [Under the radar (Amenity), outdoor seating (Amenity)] 
+
+Query: "I'm craving some comfort food, where can I find the best mac and cheese in town?"
+Named Entities: [comfort food (Cuisine), mac and cheese (Dish), in town (Location)]

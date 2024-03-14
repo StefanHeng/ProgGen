@@ -1,0 +1,8 @@
+1. "Can you recommend a Mexican restaurant with a patio for outdoor dining?"
+Named Entities: [Mexican (Cuisine), patio (Amenity)]
+
+2. "What is the best Italian restaurant with a 5-star rating in this area?"
+Named Entities: [Italian (Cuisine), 5-star (Rating)]
+
+3. "What time does the sushi place on 5th Avenue close tonight?"
+Named Entities: [sushi place (Restaurant Name), 5th Avenue (Location), tonight (Hours)]

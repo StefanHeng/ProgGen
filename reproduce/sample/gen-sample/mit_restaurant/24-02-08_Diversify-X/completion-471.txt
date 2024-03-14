@@ -1,0 +1,8 @@
+1. "Is there a budget-friendly food truck nearby that serves vegetarian dishes?"
+   Named Entities: [budget-friendly (Price), food truck (Amenity), vegetarian dishes (Cuisine)]
+
+2. "What food trucks are open now and serve affordable Mexican cuisine?"
+   Named Entities: [open now (Hours), affordable (Price), food truck (Amenity), Mexican cuisine (Cuisine)]
+
+3. "Find me a food truck with good ratings and a variety of Korean dishes."
+   Named Entities: [good ratings (Rating), food truck (Amenity), Korean dishes (Cuisine)]

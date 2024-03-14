@@ -1,0 +1,8 @@
+1. Spoken Query: "What is the subgenre classification of the movie Unforgettable?"
+Named Entities: [Unforgettable (Title)]
+
+2. Spoken Query: "Can you recommend a nostalgic adventure movie featuring Natalie Portman?"
+Named Entities: [nostalgic (Viewers' Rating), adventure (Genre), Natalie Portman (Actor)]
+
+3. Spoken Query: "Show me the genre of movies that are similar to the adventure film with Natalie Portman."
+Named Entities: [adventure (Genre), Natalie Portman (Actor)]

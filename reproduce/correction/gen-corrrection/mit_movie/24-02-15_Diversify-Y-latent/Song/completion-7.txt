@@ -1,0 +1,8 @@
+1. Text Span: "song"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "Jazzy music"
+   Label: (C). Wrong Type. The correct entity type is Genre.
+
+3. Text Span: "EDM"
+   Label: (D). Not a Named Entity

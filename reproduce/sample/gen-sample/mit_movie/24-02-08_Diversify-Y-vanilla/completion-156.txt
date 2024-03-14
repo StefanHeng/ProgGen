@@ -1,0 +1,8 @@
+1. Query: "Could you show me a movie clip of an action film with dynamic performances?"
+Named Entities: [Movie clip (Trailer), Action (Genre), Dynamic performances (Character)]
+
+2. Query: "What is the best movie with a dramatic plot and great music?"
+Named Entities: [dramatic (Genre), great music (Song)]
+
+3. Query: "Can you recommend a classic movie with an iconic character and a thrilling storyline?"
+Named Entities: [classic (Viewers' Rating), iconic character (Character), thrilling storyline (Plot)]

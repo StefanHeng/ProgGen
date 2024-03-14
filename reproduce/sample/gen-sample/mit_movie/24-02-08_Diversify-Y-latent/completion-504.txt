@@ -1,0 +1,8 @@
+1. "Can you recommend a romance film directed by Kathryn Bigelow?"
+Named Entities: [Kathryn Bigelow (Director), Romance (Genre)]
+
+2. "What is the viewers' rating for the movie Frozen starring Rachel McAdams?"
+Named Entities: [Frozen (Title), Rachel McAdams (Actor), Viewers' Rating]
+
+3. "Show me a trailer for a romantic movie featuring Rachel McAdams"
+Named Entities: [trailer (Trailer), Rachel McAdams (Actor), Romance (Genre)]

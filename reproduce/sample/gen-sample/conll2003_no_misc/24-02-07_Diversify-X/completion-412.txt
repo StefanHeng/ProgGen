@@ -1,0 +1,8 @@
+1. "New study shows that eating more vegetables reduces the risk of heart disease."
+Named Entities: []
+
+2. "Coca-Cola announces new partnership with local farmers to source sustainable sugar."
+Named Entities: [Coca-Cola (organization)]
+
+3. "Celebrity chef Gordon Ramsay to open new restaurant in New York City."
+Named Entities: [Gordon Ramsay (person), New York City (location)]

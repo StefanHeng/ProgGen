@@ -1,0 +1,11 @@
+1. Sentence: "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in {{Paris}}, France."
+Text Span: "Paris"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Taj Mahal, a UNESCO World Heritage Site located in Agra, {{India}}, is an iconic symbol of love and a masterpiece of Mughal architecture."
+Text Span: "India"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The Association of Southeast Asian Nations (ASEAN) was established on 8 August 1967 in Bangkok by the five original member countries: Indonesia, Malaysia, {{the Philippines}}, Singapore, and Thailand."
+Text Span: "the Philippines"
+Label: (A). The span is a named entity of type location

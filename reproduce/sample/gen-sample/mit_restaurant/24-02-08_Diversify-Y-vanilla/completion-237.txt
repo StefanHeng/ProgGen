@@ -1,0 +1,8 @@
+1. Query: "I'm craving Lebanese cuisine, where can I find a good Lebanese restaurant?"
+Named Entities: [Lebanese (Cuisine), Lebanese restaurant (Restaurant Name)]
+
+2. Query: "What are the opening hours for the Lebanese restaurant nearby?"
+Named Entities: [Lebanese restaurant (Restaurant Name), opening hours (Hours), nearby (Location)]
+
+3. Query: "I'm hosting a dinner, recommend a Lebanese restaurant with high ratings."
+Named Entities: [Lebanese restaurant (Restaurant Name), high ratings (Rating)]

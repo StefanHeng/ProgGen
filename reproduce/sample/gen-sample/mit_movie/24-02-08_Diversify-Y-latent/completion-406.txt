@@ -1,0 +1,8 @@
+1. "Can I see a trailer of the movie 'Dr. No' from 1962?"
+Named Entities: [Dr. No (Title), 1962 (Year), trailer (Trailer)]
+
+2. "What movie involving a drug cartel is the most exhilarating to watch?"
+Named Entities: [drug cartel (Plot), exhilarating (Viewers' Rating)]
+
+3. "Who directed the film 'Butch Cassidy and the Sundance Kid' released in 1969?"
+Named Entities: [Butch Cassidy and the Sundance Kid (Title), 1969 (Year), directed (Director)]

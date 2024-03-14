@@ -1,0 +1,8 @@
+Query: "What is the genre of the 1973 movie directed by Taylor Sheridan called The Hurt Locker?"
+Named Entities: [1973 (Year), Taylor Sheridan (Director), The Hurt Locker (Title)]
+
+Query: "Can you recommend a movie set in the jungle with a high viewers' rating?"
+Named Entities: [jungle (Plot), high viewers' rating (Viewers' Rating)]
+
+Query: "Show me a trailer for the movie The Hurt Locker."
+Named Entities: [The Hurt Locker (Title), trailer (Trailer)]

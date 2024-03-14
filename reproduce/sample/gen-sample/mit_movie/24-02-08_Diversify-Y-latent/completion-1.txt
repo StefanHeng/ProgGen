@@ -1,0 +1,8 @@
+1. Query: "What movie features the song Mrs. Robinson from The Graduate?"
+   Named Entities: [Mrs. Robinson (Song), The Graduate (Title)]
+
+2. Query: "Show me a highly-rated movie directed by Professor X."
+   Named Entities: [Professor X (Director), highly-rated (Viewers' Rating)]
+
+3. Query: "Can you recommend a thriller film with praise from viewers?"
+   Named Entities: [thriller (Genre), Praise from viewers (Review)]

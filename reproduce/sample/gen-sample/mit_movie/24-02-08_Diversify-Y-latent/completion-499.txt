@@ -1,0 +1,8 @@
+Query: "what movie won the best picture oscar in 2019"
+Named Entities: [best picture oscar (Award), 2019 (Year)]
+
+Query: "can you recommend a science fiction film with a strong female lead"
+Named Entities: [science fiction (Genre), strong female lead (Character)]
+
+Query: "who directed the movie the shawshank redemption"
+Named Entities: [the shawshank redemption (Title), directed (Director)]

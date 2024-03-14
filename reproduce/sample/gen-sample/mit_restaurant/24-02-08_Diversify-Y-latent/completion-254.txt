@@ -1,0 +1,8 @@
+1. Query: "where in San Francisco can I find a restaurant with affordable lunch hours?"
+Named Entities: [San Francisco (Location), affordable (Price), lunch hours (Amenity)]
+
+2. Query: "I'm looking for a place in Tokyo with a steep price range, any suggestions?"
+Named Entities: [Tokyo (Location), steep (Price)]
+
+3. Query: "Can you recommend a restaurant in Tokyo with a good sushi menu for dinner?"
+Named Entities: [Tokyo (Location), good (Rating), sushi (Cuisine), dinner (Amenity)]

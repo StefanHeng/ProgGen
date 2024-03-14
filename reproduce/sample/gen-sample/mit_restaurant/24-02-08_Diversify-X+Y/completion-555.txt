@@ -1,0 +1,8 @@
+1. "Can you recommend a 24-hour pizzeria for late-night dining?"
+Named Entities: [24-hour Pizzeria (Amenity), late-night dining (Amenity)]
+
+2. "I'm looking for a mid-range restaurant that offers late-night dining, maybe a 24-hour pizzeria?"
+Named Entities: [mid-range (Price), late-night dining (Amenity), 24-hour Pizzeria (Amenity)]
+
+3. "Where can I find a 24-hour pizzeria with a mid-range price for late-night dining?"
+Named Entities: [24-hour Pizzeria (Amenity), mid-range (Price), late-night dining (Amenity)]

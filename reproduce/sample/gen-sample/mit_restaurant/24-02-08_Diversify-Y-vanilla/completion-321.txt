@@ -1,0 +1,8 @@
+Query: "I'm looking for a family style restaurant with good ratings"
+Named Entities: [family style (Amenity), good ratings (Rating)]
+
+Query: "What is The Guardian's top choice for a restaurant in the area?"
+Named Entities: [The Guardian's top choice (Rating), restaurant (Amenity), area (Location)]
+
+Query: "Do you know the nearest Hard Rock Cafe?"
+Named Entities: [nearest (Location), Hard Rock Cafe (Restaurant Name)]

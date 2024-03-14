@@ -1,0 +1,8 @@
+1. Text Span: "dinnertime"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Text Span: "reservation for 2"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "upscale dining"
+Label: (A). Correct Entity Annotation.

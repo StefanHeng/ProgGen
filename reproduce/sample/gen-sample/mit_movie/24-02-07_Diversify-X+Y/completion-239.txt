@@ -1,0 +1,8 @@
+1. Query: "I'm curious to know which movie recently received outstanding reviews and is worth watching."
+   Named Entities: [outstanding reviews (Review)]
+
+2. Query: "Could you recommend a film with a really catchy soundtrack that has received positive feedback from viewers?"
+   Named Entities: [catchy soundtrack (Song), positive feedback (Viewers' Rating)]
+
+3. Query: "I'm looking for a movie directed by a renowned filmmaker that falls under the action genre and has been highly praised."
+   Named Entities: [renowned filmmaker (Director), action genre (Genre), highly praised (Review)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating in the business district?"
+Named Entities: [restaurant (Amenity), outdoor seating (Amenity), business district (Location)]
+
+2. "What is the best Italian restaurant for a romantic date night?"
+Named Entities: [Italian (Cuisine), romantic (Amenity)]
+
+3. "Where can I find a sushi place that is open late in the business district?"
+Named Entities: [sushi (Cuisine), open late (Hours), business district (Location)]

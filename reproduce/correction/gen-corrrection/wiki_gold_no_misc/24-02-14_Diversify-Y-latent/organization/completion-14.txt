@@ -1,0 +1,8 @@
+1. Text Span: "African elephants"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "university"
+Label: (C). Wrong Type. The correct entity type is organization.
+
+3. Text Span: "The Linguistics Department at the University of Melbourne"
+Label: (A). Correct Entity Annotation.

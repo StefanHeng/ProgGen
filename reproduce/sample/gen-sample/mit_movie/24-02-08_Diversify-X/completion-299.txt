@@ -1,0 +1,8 @@
+1. Query: "Is the movie 'The Shawshank Redemption' available for streaming on any platform?"
+Named Entities: ['The Shawshank Redemption' (Title), streaming platform (Streaming Platform)]
+
+2. Query: "Which streaming platform offers the movie 'Inception' directed by Christopher Nolan and released in 2010?"
+Named Entities: ['Inception' (Title), Christopher Nolan (Director), 2010 (Year), streaming platform (Streaming Platform)]
+
+3. Query: "Can I watch the film 'Pulp Fiction' with an R rating on any streaming platform?"
+Named Entities: ['Pulp Fiction' (Title), R (MPAA Rating), streaming platform (Streaming Platform)]

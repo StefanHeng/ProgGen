@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good brunch menu in the downtown area"
+Named Entities: [good (Rating), brunch (Amenity), downtown area (Location)]
+
+Query: "I'm looking for a place with bottomless mimosas for brunch"
+Named Entities: [bottomless mimosas (Amenity), brunch (Amenity)]
+
+Query: "Where can I find a French patisserie that serves brunch until noon"
+Named Entities: [French (Cuisine), patisserie (Restaurant Name), brunch (Amenity), until noon (Hours)]

@@ -1,0 +1,8 @@
+1. "Where can I find the best egg rolls in town?"
+Named Entities: [best (Rating), egg rolls (Dish)]
+
+2. "Do you know of any restaurants that have comedy night?"
+Named Entities: [comedy night (Amenity)]
+
+3. "I'm looking for a reservation at Faviken for tonight."
+Named Entities: [Faviken (Restaurant Name), tonight (Hours)]

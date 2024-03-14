@@ -1,0 +1,29 @@
+1. "Can you recommend a good action movie to watch this weekend"
+Named Entities: [action movie (Genre), this weekend (Time)]
+
+2. "What is the highest rated movie directed by Christopher Nolan"
+Named Entities: [Christopher Nolan (Director), highest rated (Viewers' Rating)]
+
+3. "When was the movie The Shawshank Redemption released"
+Named Entities: [The Shawshank Redemption (Title)]
+
+4. "Who are the main actors in the movie Inception"
+Named Entities: [Inception (Title), main actors (Character)]
+
+5. "What do people think about the movie Titanic"
+Named Entities: [Titanic (Title), people's thoughts (Review)]
+
+6. "What is the plot of the movie The Matrix"
+Named Entities: [The Matrix (Title), plot (Plot)]
+
+7. "Can you tell me any good horror films released in the 1980s"
+Named Entities: [horror films (Genre), 1980s (Year)]
+
+8. "I want to watch a movie with a great soundtrack, can you recommend one"
+Named Entities: [great soundtrack (Song)]
+
+9. "Who directed the movie Pulp Fiction"
+Named Entities: [Pulp Fiction (Title), directed (Director)]
+
+10. "Is there a comedy film that is suitable for kids"
+Named Entities: [comedy film (Genre), kids (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a café with outdoor seating and a vegetarian menu in downtown?"
+   Named Entities: [café (Cuisine), outdoor seating (Amenity), vegetarian (Dish), downtown (Location)]
+
+2. "What are the operating hours for the nearest café with live music on weekends?"
+   Named Entities: [café (Cuisine), operating hours (Hours), live music (Amenity), weekends (Hours)]
+
+3. "I'm looking for a café with affordable prices and high ratings for brunch in the area."
+   Named Entities: [café (Cuisine), affordable prices (Price), high ratings (Rating), brunch (Amenity), the area (Location)]

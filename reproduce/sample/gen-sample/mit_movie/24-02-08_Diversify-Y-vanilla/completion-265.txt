@@ -1,0 +1,8 @@
+1. "Could you recommend a critically acclaimed film with perfect pacing starring Kerry Washington?"
+Named Entities: [critically acclaimed (Review), perfect pacing (Review), Kerry Washington (Actor)]
+
+2. "What movie featuring perfect pacing was directed by Quentin Tarantino?"
+Named Entities: [perfect pacing (Review), Quentin Tarantino (Director)]
+
+3. "Can you show me a movie with a song performed by Kerry Washington?"
+Named Entities: [Kerry Washington (Actor), song (Song)]

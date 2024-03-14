@@ -1,0 +1,8 @@
+1. "I want to watch a movie set in the jungle with Hugh Jackman as the lead actor."
+Named Entities: [jungle (Plot), Hugh Jackman (Actor)]
+
+2. "Can you recommend a movie with the song 'Happy Birthday' in it?"
+Named Entities: ['Happy Birthday' (Song)]
+
+3. "Show me a movie from the 1980s that features Eddie Murphy."
+Named Entities: [1980s (Year), Eddie Murphy (Actor)]

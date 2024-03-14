@@ -1,0 +1,8 @@
+1. "Can you recommend an espresso bar with outdoor seating?"
+Named Entities: [Espresso bar (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm in the mood for some chicken tikka masala, where is the best place to get it?"
+Named Entities: [chicken tikka masala (Dish), best place (Rating)]
+
+3. "What are the operating hours of the Italian restaurant in the downtown area?"
+Named Entities: [Italian restaurant (Cuisine), downtown area (Location), operating hours (Hours)]

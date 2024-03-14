@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good Irish cuisine and a 4-star rating on La Liste?"
+Named Entities: [Irish (Cuisine), 4-star (Rating), La Liste (Amenity)]
+
+2. "I'm craving some beef teriyaki, where can I find a restaurant that serves it and is open until midnight?"
+Named Entities: [beef teriyaki (Dish), open until midnight (Hours)]
+
+3. "I'm looking for a budget-friendly restaurant that offers beef teriyaki and is located near the downtown area."
+Named Entities: [budget-friendly (Price), beef teriyaki (Dish), downtown area (Location)]

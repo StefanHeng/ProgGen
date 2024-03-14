@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with budget-friendly prices and special discounts?"
+Named Entities: [fine dining (Amenity), budget-friendly (Price), special discounts (Amenity)]
+
+2. "I'm looking for a place with a fine dining experience that won't break the bank, and also offers special deals."
+Named Entities: [fine dining (Amenity), won't break the bank (Price), special deals (Amenity)]
+
+3. "Find me a restaurant with upscale dining at a reasonable cost and with promotions or discounts available."
+Named Entities: [upscale dining (Amenity), reasonable cost (Price), promotions or discounts (Amenity)]

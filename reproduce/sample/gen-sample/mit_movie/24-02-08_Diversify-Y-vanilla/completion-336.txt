@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an action film with at least 9.8 stars?"
+Named Entities: [action film (Genre), 9.8 stars (Viewers' Rating)]
+
+2. Query: "I'm looking for the highest rated drama film of all time"
+Named Entities: [highest rated drama film (Review)]
+
+3. Query: "Are there any superhero movies coming out soon?"
+Named Entities: [superhero movies (Genre), coming out soon (Announcement)]

@@ -1,0 +1,8 @@
+1. Text Span: "meals"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "good pizza menu"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Text Span: "late night dessert"
+Label: (A). The span is a named entity of type dish.

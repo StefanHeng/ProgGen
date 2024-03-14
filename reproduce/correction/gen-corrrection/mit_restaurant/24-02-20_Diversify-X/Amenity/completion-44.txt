@@ -1,0 +1,11 @@
+1. Query: "I'm craving a vegetarian-friendly café for {{breakfast}} near the hotel"
+Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Query: "What's the best spot for a {{late-night}} burger and fries?"
+Text Span: "late-night"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "What's a nice restaurant in the area with a {{brunch}} menu that offers vegetarian options?"
+Text Span: "brunch"
+Label: (C). Wrong Type. The correct entity type is Hours.

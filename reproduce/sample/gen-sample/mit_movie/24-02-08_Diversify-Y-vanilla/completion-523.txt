@@ -1,0 +1,8 @@
+1. "Can you recommend a watchable movie directed by John Lasseter"
+Named Entities: [watchable (Viewers' Rating), John Lasseter (Director)]
+
+2. "What is a phenomenal movie with Jennifer Lawrence as the main character"
+Named Entities: [phenomenal (Review), Jennifer Lawrence (Actor)]
+
+3. "Is The Goonies a legal movie for kids to watch"
+Named Entities: [The Goonies (Title), legal (MPAA Rating)]

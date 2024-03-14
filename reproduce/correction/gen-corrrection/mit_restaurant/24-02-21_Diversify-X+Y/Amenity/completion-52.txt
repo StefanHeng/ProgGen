@@ -1,0 +1,8 @@
+1. Text Span: "food truck"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "bar area"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "waterfront views"
+Label: (A). Correct Entity Annotation.

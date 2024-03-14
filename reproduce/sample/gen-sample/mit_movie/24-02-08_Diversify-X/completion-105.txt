@@ -1,0 +1,8 @@
+Query: "What is the primary genre and subgenre of the film Blade Runner 2049?"
+Named Entities: [Blade Runner 2049 (Title)]
+
+Query: "Can you recommend a movie with a complex plot that falls under the science fiction genre?"
+Named Entities: [complex plot (Plot), science fiction (Genre)]
+
+Query: "Which director is known for creating movies in the psychological thriller subgenre?"
+Named Entities: [psychological thriller (Genre), director (Director)]

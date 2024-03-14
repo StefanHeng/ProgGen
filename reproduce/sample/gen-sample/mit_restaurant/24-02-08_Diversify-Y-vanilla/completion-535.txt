@@ -1,0 +1,8 @@
+Query: "Where can I find the best Scandinavian cuisine in the city center?"
+Named Entities: [Scandinavian (Cuisine), city center (Location), best (Rating)]
+
+Query: "I'm craving some enchiladas, where's the nearest place that serves them?"
+Named Entities: [enchiladas (Dish), nearest (Location)]
+
+Query: "What's a restaurant with a high rating and affordable prices around here?"
+Named Entities: [high (Rating), affordable prices (Price)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me about the movie that won the most awards in 2020"
+Named Entities: [won the most awards (Award), 2020 (Year)]
+
+Query: "Which movie with a female lead was nominated for the most prestigious award last year"
+Named Entities: [female lead (Character), nominated (Award), last year (Year)]
+
+Query: "Show me a film with a diverse cast that received critical acclaim"
+Named Entities: [diverse cast (Actor), critical acclaim (Review)]

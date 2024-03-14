@@ -1,0 +1,8 @@
+1. "Could you provide me with the director's commentary for the film Inception?"
+Named Entities: [director's commentary (Feature), Inception (Title)]
+
+2. "I am interested in learning more about the filming locations of the movie The Godfather. Can you assist me with that?"
+Named Entities: [filming locations (Plot), The Godfather (Title)]
+
+3. "Please show me the interviews with the cast and crew of the film Titanic."
+Named Entities: [interviews with the cast and crew (Feature), Titanic (Title)]

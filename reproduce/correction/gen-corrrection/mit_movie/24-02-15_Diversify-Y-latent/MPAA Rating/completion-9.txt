@@ -1,0 +1,8 @@
+1. Text Span: "Unrated"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Text Span: "rated PG-13"
+Label: (B). Wrong Boundary. The correct span boundary is "PG-13".
+
+3. Text Span: "MPAA Rating"
+Label: (C). The span is a named entity but the category is not mpaa rating. The correct entity type is other.

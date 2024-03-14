@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Persian cuisine, where's the nearest place I can get that?"
+Named Entities: [Persian (Cuisine), nearest (Location)]
+
+Query: "Can you recommend a highly-rated Persian restaurant with outdoor seating?"
+Named Entities: [highly-rated (Rating), Persian (Cuisine), outdoor seating (Amenity)]
+
+Query: "I need a budget-friendly Persian restaurant with a variety of vegetarian dishes, please."
+Named Entities: [budget-friendly (Price), Persian (Cuisine), vegetarian dishes (Dish)]

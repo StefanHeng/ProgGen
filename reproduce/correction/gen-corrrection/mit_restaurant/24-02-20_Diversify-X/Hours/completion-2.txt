@@ -1,0 +1,11 @@
+1. Query: "Do you know of any Italian restaurants with a 4-star rating and open {{past 10 pm}}?"
+Text Span: "past 10 pm"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "What are some affordable Mexican restaurants near downtown for a quick {{lunch}} break?"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend a place with an expensive buffet for {{lunch}} today?"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Birdman directed by Alejandro González Iñárritu and rated R?"
+Named Entities: [Birdman (Title), Alejandro González Iñárritu (Director), R (MPAA Rating)]
+
+2. Query: "Can you recommend a movie directed by Barry Jenkins with a high viewers' rating?"
+Named Entities: [Barry Jenkins (Director), high viewers' rating (Viewers' Rating)]
+
+3. Query: "Show me a trailer of the R-rated movie that features a character named Barry Jenkins."
+Named Entities: [R-rated (MPAA Rating), Barry Jenkins (Character)]

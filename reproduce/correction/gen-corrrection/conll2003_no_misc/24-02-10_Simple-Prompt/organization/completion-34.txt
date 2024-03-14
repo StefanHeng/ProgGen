@@ -1,0 +1,8 @@
+1. Text Span: "United Nations"
+Label: (A)
+
+2. Text Span: "Italian government"
+Label: (B). The correct span boundary is "Italian government"
+
+3. Text Span: "European Space Agency"
+Label: (A)

@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant in the downtown area?"
+Named Entities: [buffet (Amenity), downtown (Location)]
+
+Query: "What are the top-rated buffet restaurants near the beach?"
+Named Entities: [top-rated (Rating), buffet (Amenity), beach (Location)]
+
+Query: "I'm craving Asian cuisine, can you suggest a buffet that offers that?"
+Named Entities: [craving (Amenity), Asian (Cuisine), buffet (Amenity)]

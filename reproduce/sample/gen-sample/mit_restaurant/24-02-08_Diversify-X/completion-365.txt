@@ -1,0 +1,8 @@
+1. Query: "Do you know any restaurants with late-night dining and live music?"
+Named Entities: [late-night dining (Amenity), live music (Amenity)]
+
+2. Query: "Where can I find a place for late-night dining with live music?"
+Named Entities: [late-night dining (Amenity), live music (Amenity)]
+
+3. Query: "Is there a restaurant nearby that offers late-night dining and live music?"
+Named Entities: [late-night dining (Amenity), live music (Amenity)]

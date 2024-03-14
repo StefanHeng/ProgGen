@@ -1,0 +1,8 @@
+1. Text Span: "best animated film"
+Label: (A). The span is a named entity of type review
+
+2. Text Span: "feel-good"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Genre.
+
+3. Text Span: "most iconic"
+Label: (A). The span is a named entity of type review

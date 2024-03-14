@@ -1,0 +1,8 @@
+1. "I'm in the mood for some vegan options from a food truck. Do you know any Gourmet Grub spots nearby?"
+Named Entities: [vegan (Dietary Restriction), food truck (Amenity), Gourmet Grub (Restaurant Name)]
+
+2. "Where can I find a vegan-friendly food truck with a bar counter for a quick bite?"
+Named Entities: [vegan (Dietary Restriction), food truck (Amenity), bar counter (Amenity)]
+
+3. "I'm craving some vegan BBQ on Wheels. Any recommendations for a food truck serving that?"
+Named Entities: [vegan (Dietary Restriction), food truck (Amenity), BBQ on Wheels (Cuisine)]

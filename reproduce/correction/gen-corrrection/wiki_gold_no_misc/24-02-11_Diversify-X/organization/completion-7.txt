@@ -1,0 +1,11 @@
+1. Sentence: "In criminal law, the burden of proof is the obligation of a party in a trial to produce the evidence that will prove the claims they have made against the other {{party}}."
+Text Span: "party"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "The first successful interplanetary mission was the {{Mariner 2}}'s flyby of Venus on December 14, 1962."
+Text Span: "Mariner 2"
+Label: (A). Correct Entity Annotation.
+
+3. Sentence: "Immanuel Kant's {{Critique of Pure Reason}} is considered a landmark work in Western philosophy, and it has had a lasting impact on epistemology and metaphysics."
+Text Span: "Critique of Pure Reason"
+Label: (C). Wrong Type. The correct entity type is other.

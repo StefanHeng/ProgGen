@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good Cold War espionage movie from the 2010s?"
+Named Entities: [Cold War espionage (Genre), 2010s (Year)]
+
+2. Query: "What is the viewers' rating for the drama film in post-production directed by Christopher Nolan?"
+Named Entities: [post-production (Plot), Christopher Nolan (Director), drama (Genre)]
+
+3. Query: "Is there an MA15+ rated movie with intense action scenes released in the past year?"
+Named Entities: [MA15+ (MPAA Rating), intense action scenes (Plot), past year (Year)]

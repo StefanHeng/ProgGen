@@ -1,0 +1,8 @@
+Query: "Can you recommend a Southern restaurant in Chicago with high ratings?"
+Named Entities: [Southern (Cuisine), Chicago (Location), high ratings (Rating)]
+
+Query: "What are the hours of the BBQ joint in downtown Chicago?"
+Named Entities: [BBQ joint (Restaurant Name), downtown Chicago (Location), hours (Hours)]
+
+Query: "I'm looking for a budget-friendly seafood spot in Southern Chicago, any suggestions?"
+Named Entities: [budget-friendly (Price), seafood (Cuisine), Southern Chicago (Location)]

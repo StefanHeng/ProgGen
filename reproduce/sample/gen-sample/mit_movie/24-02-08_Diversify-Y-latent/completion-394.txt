@@ -1,0 +1,8 @@
+1. "What movies came out in 2020 set in Chicago?"
+Named Entities: [2020 (Year), Chicago (Title)]
+
+2. "Is there a movie with Rocky Balboa released in 1999?"
+Named Entities: [Rocky Balboa (Character), 1999 (Year)]
+
+3. "Can you recommend an African film that fits the thriller genre?"
+Named Entities: [African (Genre)]

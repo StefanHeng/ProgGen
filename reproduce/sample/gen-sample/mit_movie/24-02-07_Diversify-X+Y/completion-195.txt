@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the new political thriller movie featuring Gollum?"
+Named Entities: [trailer (Trailer), political thriller (Genre), Gollum (Character)]
+
+2. "What are the best trailers for political movies starring Gollum?"
+Named Entities: [trailers (Trailer), political (Genre), Gollum (Character)]
+
+3. "Could you provide me with teasers for upcoming political films with Gollum as a character?"
+Named Entities: [teasers (Trailer), political (Genre), Gollum (Character)]

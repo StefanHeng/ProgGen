@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a {{superior}} suspenseful movie for all ages"
+Text Span: "superior"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "What movie released in 2028 has the {{highest viewers' rating}}?"
+Text Span: "highest viewers' rating"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "can you recommend a film with a {{great plot twist}}"
+Text Span: "great plot twist"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Text Span: "budget-friendly"
+Label: (A). The span is a named entity of type price
+
+2. Text Span: "quick lunch"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+3. Text Span: "affordable"
+Label: (A). The span is a named entity of type price

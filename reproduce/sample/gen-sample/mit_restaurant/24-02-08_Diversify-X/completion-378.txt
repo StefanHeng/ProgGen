@@ -1,0 +1,11 @@
+1. "I'm looking for a buffet restaurant with a drive-thru for a quick lunch."
+
+Named Entities: [buffet (Amenity), drive-thru (Amenity), quick lunch (Amenity)]
+
+2. "Where can I find a buffet restaurant that caters to the 40-year-old female accountant demographic?"
+
+Named Entities: [buffet (Amenity), 40-year-old female accountant (Amenity)]
+
+3. "Is there a buffet restaurant nearby that offers a drive-thru option for dinner?"
+
+Named Entities: [buffet (Amenity), drive-thru (Amenity), dinner (Amenity) ]

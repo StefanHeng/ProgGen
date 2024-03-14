@@ -1,0 +1,8 @@
+1. Text Span: "Fashion designers"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "sociologists"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Vostok 1"
+Label: (A). Correct Entity Annotation.

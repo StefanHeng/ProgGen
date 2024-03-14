@@ -1,0 +1,8 @@
+1. Text Span: "Mary Johnson"
+Label: (A)
+
+2. Text Span: "rabbi"
+Label: (C). The correct entity type is person.
+
+3. Text Span: "Jennifer Lawrence"
+Label: (A)

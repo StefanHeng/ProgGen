@@ -1,0 +1,11 @@
+1. Query: "Where can I find a food truck with a budget-friendly menu {{open late at night}}?"
+Text Span: "open late at night"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "I'm looking for a place where I can have pancakes and coffee for breakfast {{before school}}."
+Text Span: "before school"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend a café that serves brunch and is open {{late on weekends}}?"
+Text Span: "late on weekends"
+Label: (A). Correct Entity Annotation.

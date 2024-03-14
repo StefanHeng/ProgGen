@@ -1,0 +1,8 @@
+Query: "What are the top-rated restaurants in the area for BBQ ribs?"
+Named Entities: [top-rated (Rating), BBQ ribs (Dish)]
+
+Query: "I want to find a restaurant that serves BBQ ribs and is open late"
+Named Entities: [serves BBQ ribs (Dish), open late (Hours)]
+
+Query: "Do you know any affordable restaurants with a good selection of BBQ ribs and outdoor seating?"
+Named Entities: [affordable (Price), good selection of BBQ ribs (Dish), outdoor seating (Amenity)]

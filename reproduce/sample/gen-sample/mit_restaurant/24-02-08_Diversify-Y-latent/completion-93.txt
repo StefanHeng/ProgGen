@@ -1,0 +1,8 @@
+1. "Where can I find a good spot for dinnertime that serves a grilled chicken wrap?"
+Named Entities: [dinnertime (Amenity), grilled chicken wrap (Dish)]
+
+2. "Which restaurant has the best breakfast hours in the area?"
+Named Entities: [breakfast hours (Hours)]
+
+3. "I'm in the mood for some Italian cuisine, where can I find a place with a reasonable price?"
+Named Entities: [Italian (Cuisine), reasonable price (Price)]

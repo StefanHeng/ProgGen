@@ -1,0 +1,8 @@
+Query: "I want to watch a movie starring Halle Berry"
+Named Entities: [Halle Berry (Actor)]
+
+Query: "Show me a film featuring Kate Winslet as the lead actress"
+Named Entities: [Kate Winslet (Actor)]
+
+Query: "Can you recommend a movie with a character like Harry Callahan?"
+Named Entities: [Harry Callahan (Character)]

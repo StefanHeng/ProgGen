@@ -1,0 +1,11 @@
+1. Sentence: "European Union imposes new tariffs on {{Chinese}} imports."
+Text Span: "Chinese"
+Label: (C), other
+
+2. Sentence: "{{Los Angeles}} Lakers trade star player to New York Knicks."
+Text Span: "Los Angeles"
+Label: (A)
+
+3. Sentence: "New report ranks {{Tokyo}} as the most expensive city in the world."
+Text Span: "Tokyo"
+Label: (A)

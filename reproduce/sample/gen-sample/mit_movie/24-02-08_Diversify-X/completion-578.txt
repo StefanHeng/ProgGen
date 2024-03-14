@@ -1,0 +1,8 @@
+Query: "Can you recommend a coming-of-age movie in the drama genre?"
+Named Entities: [coming-of-age (Genre), drama (Genre)]
+
+Query: "What is the best sci-fi film from the 2010s with a strong female lead?"
+Named Entities: [sci-fi (Genre), 2010s (Year)]
+
+Query: "I'm looking for a feel-good romantic comedy set in a small town. Do you have any recommendations?"
+Named Entities: [romantic comedy (Genre), small town (Plot)]

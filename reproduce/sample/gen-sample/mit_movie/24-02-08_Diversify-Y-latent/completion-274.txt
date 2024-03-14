@@ -1,0 +1,8 @@
+1. "What genre of movie did Rob Reiner direct?"
+Named Entities: [Rob Reiner (Director)]
+
+2. "Could you recommend a highly intense drama film?"
+Named Entities: [intense drama (Genre)]
+
+3. "Is there a satire movie suitable for teens that is unrated?"
+Named Entities: [satire (Genre), Teen (Genre), Unrated (MPAA Rating)]

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a buffet, do you know any place that offers tasting menus?"
+Named Entities: [buffet (Amenity), tasting menus (Amenity)]
+
+Query: "I want to try a tasting menu at a buffet restaurant, can you recommend one?"
+Named Entities: [tasting menu (Amenity), buffet restaurant (Amenity)]
+
+Query: "I'm looking for a place with a buffet and tasting menus, can you help me find one?"
+Named Entities: [buffet (Amenity), tasting menus (Amenity)]

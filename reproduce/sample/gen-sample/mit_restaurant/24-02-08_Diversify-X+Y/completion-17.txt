@@ -1,0 +1,8 @@
+1. "I'm looking for a fine dining restaurant in the area that serves gluten-free brunch options"
+Named Entities: [fine dining (Amenity), gluten-free (Amenity), brunch (Cuisine)]
+
+2. "What are the top-rated fine dining restaurants with gluten-free brunch menus nearby?"
+Named Entities: [top-rated (Rating), fine dining (Amenity), gluten-free (Amenity), brunch (Cuisine)]
+
+3. "Can you recommend a fine dining restaurant with a la carte gluten-free brunch dishes?"
+Named Entities: [fine dining (Amenity), gluten-free (Amenity), a la carte (Amenity), brunch (Cuisine)]

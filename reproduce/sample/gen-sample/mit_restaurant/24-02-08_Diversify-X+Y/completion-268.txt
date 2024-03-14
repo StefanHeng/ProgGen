@@ -1,0 +1,8 @@
+1. "I'm craving some Asian cuisine, where can I find a buffet place open until 10 p.m.?"
+Named Entities: [Asian cuisine (Cuisine), buffet (Amenity), Opening hours (Hours), until 10 p.m. (Hours)]
+
+2. "What are the top-rated buffet restaurants with a price range of $20-30 per person?"
+Named Entities: [top-rated (Rating), buffet (Amenity), price range of $20-30 per person (Price)]
+
+3. "Can you recommend a buffet restaurant with a kid-friendly atmosphere that opens for lunch?"
+Named Entities: [buffet (Amenity), kid-friendly (Amenity), Opening hours (Hours), lunch (Hours)]

@@ -1,0 +1,8 @@
+1. Text Span: "Anthony Nguyen"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Dr. Anthony Fauci"
+Label: (B). Wrong Boundary. The correct span boundary is "Anthony Fauci".
+
+3. Text Span: "President Biden"
+Label: (A). The span is a named entity of type person

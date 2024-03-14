@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with outdoor seating [Afternoons]?"
+Named Entities: [outdoor seating (Amenity), Afternoons (Hours)]
+
+Query: "where is the nearest Italian restaurant open for lunch [Afternoons]?"
+Named Entities: [nearest (Location), Italian (Cuisine), lunch (Hours), Afternoons (Hours)]
+
+Query: "I'm in the mood for sushi, is there a place with a high rating [Afternoons]?"
+Named Entities: [sushi (Cuisine), high rating (Rating), Afternoons (Hours)]

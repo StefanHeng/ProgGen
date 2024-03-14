@@ -1,0 +1,8 @@
+Query: "what movie won the highest viewers' rating in 2020"
+Named Entities: [2020 (Year), highest viewers' rating (Review)]
+
+Query: "who directed the action movie with the character john wick"
+Named Entities: [action (Genre), john wick (Character)]
+
+Query: "can you recommend a film with a great plot twist"
+Named Entities: [great plot twist (Review)]

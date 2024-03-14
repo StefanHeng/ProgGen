@@ -1,0 +1,8 @@
+Query: "Where can I find a well-recommended French restaurant in the neighborhood?"
+Named Entities: [well-recommended (Rating), French (Cuisine), in the neighborhood (Location)]
+
+Query: "Do you know of any coveted sushi places with reasonable prices?"
+Named Entities: [coveted (Rating), sushi (Cuisine), reasonable prices (Price)]
+
+Query: "I am craving some Italian food. Can you recommend a good Italian restaurant open late?"
+Named Entities: [good (Rating), Italian (Cuisine), open late (Hours)]

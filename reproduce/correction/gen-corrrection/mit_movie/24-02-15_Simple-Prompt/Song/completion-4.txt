@@ -1,0 +1,8 @@
+1. Text Span: "ending credits"
+Label: (D). Not a Named Entity
+
+2. Text Span: "song"
+Label: (D). Not a Named Entity
+
+3. Text Span: "My Heart Will Go On"
+Label: (A). Named Entity of type Song

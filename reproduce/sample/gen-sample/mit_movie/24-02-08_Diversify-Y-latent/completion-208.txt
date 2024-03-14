@@ -1,0 +1,8 @@
+Query: "can you show me some footage of the new action movie starring idris elba"
+Named Entities: [footage (Trailer), action (Genre), idris elba (Actor)]
+
+Query: "what movie features the song 'Don't Want to Miss a Thing'"
+Named Entities: ['Don't Want to Miss a Thing' (Song)]
+
+Query: "recommend a crime movie from the 1990s rated M"
+Named Entities: [crime (Genre), 1990s (Year), M (MPAA Rating)]

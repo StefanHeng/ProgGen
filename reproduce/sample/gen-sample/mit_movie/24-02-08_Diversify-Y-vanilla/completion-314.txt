@@ -1,0 +1,8 @@
+1. "Can you recommend a Denzel Washington movie that is action-packed?"
+Named Entities: [Denzel Washington (Actor), action-packed (Genre)]
+
+2. "Could you show me a trailer for a movie released in the summer of '69?"
+Named Entities: [trailer (Trailer), summer of '69 (Year)]
+
+3. "What movie did Denzel Washington star in that is considered a classic?" 
+Named Entities: [Denzel Washington (Actor), classic (Viewers' Rating)]

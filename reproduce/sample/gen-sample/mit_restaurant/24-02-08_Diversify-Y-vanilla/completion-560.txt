@@ -1,0 +1,8 @@
+1. "Can you recommend a place for outdoor dining with a good seafood menu?"
+   Named Entities: [outdoor dining (Amenity), seafood (Cuisine)]
+
+2. "I'm looking for a place that serves brunch with bottomless mimosas"
+   Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+3. "Where can I find a restaurant that offers vegetarian options and is open past midnight?"
+   Named Entities: [vegetarian options (Cuisine), past midnight (Hours)]

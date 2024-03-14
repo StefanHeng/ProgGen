@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating for late-night dining in the downtown area?"
+Named Entities: [late-night dining (Amenity), downtown area (Location), outdoor seating (Amenity)]
+
+2. "Where can I find a place with a diverse menu for late-night dining and outdoor seating?"
+Named Entities: [diverse menu (Amenity), late-night dining (Amenity), outdoor seating (Amenity)]
+
+3. "I'm looking for a restaurant that serves comfort food for late-night dining, preferably with outdoor seating."
+Named Entities: [comfort food (Cuisine), late-night dining (Amenity), outdoor seating (Amenity)]

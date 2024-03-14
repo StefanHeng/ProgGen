@@ -1,0 +1,3 @@
+Named genre entities are broad and well-recognized movie categories, such as "documentary" and "comedy". Style descriptors such as "funny", "musical", "thrilling" and "animated" are also named genre entities. Film studios such as "Marvel" and "Disney" are also named genre entities.
+You should always drop starting evaluative descriptors such as "new" and "good" and trailing "movie" or "film" words from named genre entity spans.
+Ensure to distinguish named genre entities from named plot entities. Named plot entities are specific themes, topics, or elements of a movie storyline, such as "space exploration" and "zombie".

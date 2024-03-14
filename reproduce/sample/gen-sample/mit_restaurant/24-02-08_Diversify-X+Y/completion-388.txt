@@ -1,0 +1,8 @@
+Query: "Where can I find a food truck with Korean BBQ near the park"
+Named Entities: [food truck (Amenity), Korean BBQ (Cuisine), near the park (Location)]
+
+Query: "What's a highly rated food truck that serves tacos in the downtown area"
+Named Entities: [highly rated (Rating), food truck (Amenity), tacos (Dish), downtown area (Location)]
+
+Query: "Do you know of any food trucks open past 10 PM that serve vegan options"
+Named Entities: [food trucks (Amenity), past 10 PM (Hours), vegan options (Cuisine)]

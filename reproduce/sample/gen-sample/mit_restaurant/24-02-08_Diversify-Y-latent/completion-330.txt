@@ -1,0 +1,8 @@
+1. Query: "I'm craving a cheese platter, where can I find a restaurant that offers a good one?"
+Named Entities: [cheese platter (Dish), good (Rating)]
+
+2. Query: "I need a late-night dining spot with a reasonable price, can you recommend one?"
+Named Entities: [late-night dining (Hours), reasonable price (Price)]
+
+3. Query: "I want a fine dining experience that is worth the price, where should I go?"
+Named Entities: [fine dining (Amenity), worth the price (Rating)]

@@ -1,0 +1,8 @@
+1. "Do you know any Italian restaurants with outdoor seating and a rating of 4 stars or higher?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), 4 stars or higher (Rating)]
+
+2. "What time does the vegan cafe close on Sundays?"
+Named Entities: [vegan cafe (Restaurant Name), Sundays (Hours)]
+
+3. "I'm in the mood for sushi. Can you recommend a reasonably priced sushi bar nearby?"
+Named Entities: [sushi (Cuisine), reasonably priced (Price), nearby (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "brunch spot"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "craving"
+Label: (D). The span is not a named entity
+
+3. Text Span: "dining experience"
+Label: (A). The span is a named entity of type amenity

@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the James Bond movie 'GoldenEye'?"
+   Named Entities: [GoldenEye (Title), James Bond (Character)]
+
+2. Query: "Can you recommend a thriller movie involving an assassination attempt?"
+   Named Entities: [thriller (Genre), assassination attempt (Plot)]
+
+3. Query: "Who directed the James Bond film 'Skyfall' and what year was it released?"
+   Named Entities: [Skyfall (Title), James Bond (Character), year (Year)]

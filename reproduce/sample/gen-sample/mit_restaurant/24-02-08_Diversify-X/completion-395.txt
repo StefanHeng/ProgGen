@@ -1,0 +1,8 @@
+1. "Can you recommend a rustic restaurant with chef's specials for brunch?"
+Named Entities: [rustic (Amenity), chef's specials (Amenity), brunch (Amenity)]
+
+2. "Where can I find a cozy spot for a brunch with chef's specials?"
+Named Entities: [cozy (Amenity), brunch (Amenity), chef's specials (Amenity)]
+
+3. "I'm looking for a charming place with a brunch menu featuring chef's specials."
+Named Entities: [charming (Amenity), brunch (Amenity), chef's specials (Amenity)]

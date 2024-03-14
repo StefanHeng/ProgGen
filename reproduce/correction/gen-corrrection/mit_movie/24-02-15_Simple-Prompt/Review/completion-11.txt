@@ -1,0 +1,8 @@
+1. Text Span: "review"
+   Label: (C). Wrong Type. The correct entity type is Title.
+
+2. Text Span: "best movie of all time"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "top 10"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

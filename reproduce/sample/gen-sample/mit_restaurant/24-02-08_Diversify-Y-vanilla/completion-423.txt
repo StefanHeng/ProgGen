@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants nearby?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), nearby (Location)]
+
+Query: "I want to find a place that serves brunch on weekends."
+Named Entities: [serves brunch (Amenity), weekends (Hours)]
+
+Query: "Can you recommend a seafood restaurant with outdoor seating?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity)]

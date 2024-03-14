@@ -1,0 +1,8 @@
+Query: "what's a popular movie with some [Jazzy music]"
+Named Entities: [Jazzy music (Song)]
+
+Query: "who directed the romantic movie released in 1999 that has a happy ending"
+Named Entities: [romantic (Genre), 1999 (Year), happy ending (Plot)]
+
+Query: "what movie features a character named Jack that received high ratings"
+Named Entities: [Jack (Character), high ratings (Viewers' Rating)]

@@ -1,0 +1,8 @@
+Query: "Can you provide a list of all the awards and nominations earned by the film Girl, Interrupted directed by James Mangold and featuring Angelina Jolie?"
+Named Entities: [Girl, Interrupted (Title), James Mangold (Director), Angelina Jolie (Actor)]
+
+Query: "I'm interested in knowing which movie from 1990 received rave reviews and was nominated for multiple awards. Can you give me some recommendations?"
+Named Entities: [1990 (Year), rave reviews (Review)]
+
+Query: "I'm researching classic films and I'm particularly interested in the movie Gentleman's Agreement from 1947. Can you tell me about any awards or nominations it received?"
+Named Entities: [Gentleman's Agreement (Title), 1947 (Year)]

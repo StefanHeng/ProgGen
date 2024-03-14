@@ -1,0 +1,8 @@
+Query: "What type of cuisine does Yardbird Southern Table & Bar offer?"
+Named Entities: [Yardbird Southern Table & Bar (Restaurant Name), cuisine (Amenity)]
+
+Query: "Where is The Greek Island Taverna located?"
+Named Entities: [The Greek Island Taverna (Restaurant Name), located (Location)]
+
+Query: "Can I get a reservation at Yardbird Southern Table & Bar for 7 pm?"
+Named Entities: [Yardbird Southern Table & Bar (Restaurant Name), reservation (Amenity), 7 pm (Hours)]

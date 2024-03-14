@@ -1,0 +1,8 @@
+1. "Can you recommend an epic movie with Golden Globe nominee actors?"
+Named Entities: [epic (Genre), Golden Globe nominee (Viewers' Rating)]
+
+2. "What is the plot of the film Captain America: The First Avenger, which was a New York Film Critics Circle honoree?"
+Named Entities: [Captain America: The First Avenger (Title), New York Film Critics Circle honoree (Viewers' Rating), plot (Plot)]
+
+3. "I'm looking for a highly rated movie with the song Sooner or Later, like in Inception."
+Named Entities: [highly rated (Viewers' Rating), Sooner or Later (Song), Inception (Title)]

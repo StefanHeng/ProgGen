@@ -1,0 +1,10 @@
+
+
+Query: "show me some Mexican restaurants with outdoor seating for lunch"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), lunch (Hours)]
+
+Query: "where can I get a sushi lunch for a reasonable price"
+Named Entities: [sushi (Cuisine), lunch (Hours), reasonable price (Price)]
+
+Query: "what are some highly rated Italian restaurants for lunch in the downtown area"
+Named Entities: [highly rated (Rating), Italian (Cuisine), lunch (Hours), downtown area (Location)]

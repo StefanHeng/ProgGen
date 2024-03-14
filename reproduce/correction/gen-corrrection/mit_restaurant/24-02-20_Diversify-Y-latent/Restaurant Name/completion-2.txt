@@ -1,0 +1,11 @@
+1. Query: "I'm in the mood for some sushi, where is the nearest {{sushi bar}}?"
+Text Span: "sushi bar"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "Can you recommend a {{restaurant}} with a diverse menu that includes spring rolls ?"
+Text Span: "restaurant"
+Label: (D). Not a Named Entity.
+
+3. Query: "What are the opening hours for {{Applebee's}} on weekends?"
+Text Span: "Applebee's"
+Label: (A). Correct Entity Annotation.

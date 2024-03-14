@@ -1,0 +1,8 @@
+Query: "can you recommend a sushi restaurant with outdoor seating"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]
+
+Query: "what's the best Italian restaurant in the city center"
+Named Entities: [best (Rating), Italian (Cuisine), city center (Location)]
+
+Query: "show me a burger joint open past midnight"
+Named Entities: [burger (Cuisine), past midnight (Hours)]

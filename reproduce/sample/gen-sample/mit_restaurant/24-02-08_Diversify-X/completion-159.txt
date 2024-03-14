@@ -1,0 +1,8 @@
+1. "Can you recommend a formal dining establishment with a French cuisine in the downtown area?"
+   Named Entities: [formal (Amenity), French cuisine (Cuisine), downtown area (Location)]
+
+2. "I'm looking for a high-rated restaurant with outdoor seating and a seafood menu for dinner tonight."
+   Named Entities: [high-rated (Rating), outdoor seating (Amenity), seafood menu (Cuisine)]
+
+3. "Where can I find a fine dining venue with a live music and a romantic atmosphere for tonight?"
+   Named Entities: [fine dining (Amenity), live music (Amenity), romantic atmosphere (Amenity)]

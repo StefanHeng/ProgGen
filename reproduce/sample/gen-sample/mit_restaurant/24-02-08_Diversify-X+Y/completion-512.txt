@@ -1,0 +1,8 @@
+1. "Where can I find a food truck with outdoor seating and chef's specials?"
+Named Entities: [food truck (Restaurant Name), outdoor seating (Amenity), chef's specials (Amenity)]
+
+2. "I'm craving a burrito from a food truck, can you recommend one with outdoor seating?"
+Named Entities: [burrito (Dish), food truck (Restaurant Name), outdoor seating (Amenity)]
+
+3. "Find me a food truck that offers chef's specials and has outdoor seating available."
+Named Entities: [food truck (Restaurant Name), chef's specials (Amenity), outdoor seating (Amenity)]

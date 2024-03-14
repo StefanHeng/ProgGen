@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-esteemed seafood restaurant in the area?"
+Named Entities: [highly-esteemed (Rating), seafood (Cuisine), area (Location)]
+
+2. "I'm craving fish and chips. Where is the best spot to get it?"
+Named Entities: [fish and chips (Dish), best spot (Rating)]
+
+3. "Do you know of any affordable seafood places open late?"
+Named Entities: [affordable (Price), seafood (Cuisine), open late (Hours)]

@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for Lady Bird, the movie that came out in 2019?"
+Named Entities: [Lady Bird (Title), 2019 (Year), viewers' rating (Viewers' Rating)]
+
+2. "Can you recommend a science fiction film from the 1990s directed by James Cameron?"
+Named Entities: [science fiction (Genre), 1990s (Year), James Cameron (Director)]
+
+3. "Show me the trailer for the movie Interstellar, which has a space exploration plot and high viewers' ratings."
+Named Entities: [Interstellar (Title), space exploration (Plot), high viewers' ratings (Viewers' Rating), trailer (Trailer)]

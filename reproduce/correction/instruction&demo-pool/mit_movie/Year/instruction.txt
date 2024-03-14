@@ -1,0 +1,4 @@
+A named year entity must be a specific year or a year range indicating movie release, such as "2000" or "last three years".
+You should always drop starting "the" word from named year entity spans.
+Release qualifiers such as "released", "new release", "re-release" and "first" are also relevant named entities.
+Vague temporal descriptors such as "latest", "recent", "recent movies" and "come out" are not named entities. Ambiguous identifiers such as "year" are also not named entities.

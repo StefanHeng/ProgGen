@@ -1,0 +1,8 @@
+1. "I'm craving Vietnamese food, can you recommend a restaurant nearby?"
+Named Entities: [Vietnamese (Cuisine), nearby (Location)]
+
+2. "I'm looking for a restaurant called The Twilight Grill, do you have their contact information?"
+Named Entities: [The Twilight Grill (Restaurant Name)]
+
+3. "I'm a vegetarian, do you have any recommendations for a good veggie burger in the area?"
+Named Entities: [vegetarian (Cuisine), veggie burger (Dish), area (Location)]

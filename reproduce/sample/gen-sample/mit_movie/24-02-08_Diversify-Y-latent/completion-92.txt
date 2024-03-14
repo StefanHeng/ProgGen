@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a space exploration movie from 1971 with Emma Stone in it?"
+Named Entities: [space exploration (Genre), 1971 (Year), Emma Stone (Actor)]
+
+2. Query: "Show me a brilliant space exploration movie with an amazing soundtrack."
+Named Entities: [brilliant (Viewers' Rating), space exploration (Genre)]
+
+3. Query: "I'm looking for a space exploration movie directed by Ridley Scott with a thrilling plot."
+Named Entities: [space exploration (Genre), Ridley Scott (Director), thrilling (Plot)]

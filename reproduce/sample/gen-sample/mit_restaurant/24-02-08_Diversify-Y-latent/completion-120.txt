@@ -1,0 +1,8 @@
+1. "Where can I find breakfast coupons and discounts in the area?"
+Named Entities: [breakfast coupons and discounts (Amenity), in the area (Location)]
+
+2. "I'm craving a breakfast pastry, is there a bakery nearby that offers a good selection?"
+Named Entities: [breakfast pastry (Dish), bakery (Amenity), nearby (Location), good selection (Rating)]
+
+3. "I'm looking for a restaurant that serves authentic Italian cuisine for dinner tonight, any recommendations?"
+Named Entities: [authentic Italian cuisine (Cuisine), dinner tonight (Hours)]

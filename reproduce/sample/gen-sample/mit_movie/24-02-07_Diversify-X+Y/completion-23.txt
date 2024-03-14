@@ -1,0 +1,8 @@
+Query: "Did Jon Favreau direct any movies that have won the Cannes Grand Prix?"
+Named Entities: [Jon Favreau (Director), Cannes Grand Prix winner (Awards and nominations)]
+
+Query: "What movie featuring Tommy DeVito has received nominations for major awards?"
+Named Entities: [Tommy DeVito (Actor), nominations for major awards (Awards and nominations)]
+
+Query: "Are there any movies suitable for a pre-teen girl that have won awards at Cannes?"
+Named Entities: [pre-teen female (User demographic), won awards at Cannes (Awards and nominations)]

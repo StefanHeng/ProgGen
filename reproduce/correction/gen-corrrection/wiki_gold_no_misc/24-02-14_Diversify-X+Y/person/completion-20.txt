@@ -1,0 +1,11 @@
+1. Sentence: "The resolution of the Poincaré conjecture by {{Grigori Perelman}} in 2003 had a significant impact on the field of mathematics."
+Text Span: "Grigori Perelman"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "{{Nigella Lawson}} is a well-known British food writer and television presenter who has authored several bestselling cookery books."
+Text Span: "Nigella Lawson"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "Snapchat, Inc. is a multimedia messaging app created by {{Evan Spiegel}}, Bobby Murphy, and Reggie Brown, former students at Stanford University."
+Text Span: "Evan Spiegel"
+Label: (A). The span is a named entity of type person

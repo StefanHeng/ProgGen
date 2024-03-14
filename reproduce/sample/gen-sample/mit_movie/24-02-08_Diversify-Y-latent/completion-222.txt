@@ -1,0 +1,8 @@
+1. "Can you recommend a time travel movie starring Chris Hemsworth?"
+Named Entities: [time travel (Genre), Chris Hemsworth (Actor)]
+
+2. "Is there a movie directed by Robert Downey Jr. that is rated R?"
+Named Entities: [Robert Downey Jr. (Director), R (MPAA Rating)]
+
+3. "Show me a hilarious comedy film with an appalling promo."
+Named Entities: [hilarious (Viewers' Rating), appalling (Review), promo (Trailer)]

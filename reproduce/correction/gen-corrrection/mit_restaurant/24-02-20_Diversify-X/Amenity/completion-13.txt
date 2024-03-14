@@ -1,0 +1,6 @@
+1. Text Span: "breakfast"
+Label: (B). The correct span boundary is "breakfast menu"
+2. Text Span: "breakfast"
+Label: (A). Correct Entity Annotation.
+3. Text Span: "café"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

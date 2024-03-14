@@ -1,0 +1,8 @@
+Query: "I'm craving some unique street food. Can you recommend a high-end food truck in the area?"
+Named Entities: [unique (Amenity), high-end (Price), food truck (Amenity)]
+
+Query: "I want to have a luxurious dining experience but in a food truck setting. Can you suggest upscale food trucks nearby?"
+Named Entities: [luxurious (Amenity), upscale (Price), food truck (Amenity)]
+
+Query: "I'm looking for a gourmet food truck with a high price range. Any recommendations?"
+Named Entities: [gourmet (Cuisine), high price range (Price), food truck (Amenity)]

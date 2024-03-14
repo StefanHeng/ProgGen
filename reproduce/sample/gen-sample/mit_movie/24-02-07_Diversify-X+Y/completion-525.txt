@@ -1,0 +1,8 @@
+1. Query: "I need an engaging movie with an exciting plot, M."
+Named Entities: [engaging (Review), exciting (Plot)]
+
+2. Query: "What M-rated film has the most thrilling plot of all time"
+Named Entities: [M-rated (MPAA Rating), thrilling (Plot)]
+
+3. Query: "Show me a movie with a mind-blowing synopsis, I'm so anxious to find one, M."
+Named Entities: [mind-blowing (Review), anxious (Viewers' Rating)]

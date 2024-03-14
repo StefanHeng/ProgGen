@@ -1,0 +1,14 @@
+Query: "I want to watch a movie with Peter Pan as one of the characters"
+Named Entities: [Peter Pan (Character)]
+
+Query: "Can you recommend a movie with terrifying suspense and a fantasy quest?"
+Named Entities: [terrifying suspense (Genre), fantasy quest (Plot)]
+
+Query: "What movie is known for its masterful use of symbolism and features zombies?"
+Named Entities: [masterful use of symbolism (Review), zombie (Genre)]
+
+Query: "Did Harrison Ford star in any movies with a 1/10 rating?"
+Named Entities: [Harrison Ford (Actor), 1/10 rating (Viewers' Rating)]
+
+Query: "Is there a Scarlett Johansson movie from the 1990s?"
+Named Entities: [Scarlett Johansson (Actor), 1990s (Year)]

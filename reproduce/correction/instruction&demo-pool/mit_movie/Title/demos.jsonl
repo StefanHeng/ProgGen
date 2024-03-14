@@ -1,0 +1,4 @@
+{"sentence": "What character did Tom Hanks play in \"Forest Gump\"?", "entity_span": "Forest Gump", "label": "CORRECT"}
+{"sentence": "What film won the Best Picture award at the Oscars in 2019?", "entity_span": "Oscars", "label": "WRONG_TYPE", "correct_type": "Other"}
+{"sentence": "Can I find tickets for the new James Bond movie?", "entity_span": "the new James Bond movie", "label": "WRONG_SPAN", "correct_span": "James Bond"}
+{"sentence": "Show me the trailer for a movie directed by GP and released in 2019", "entity_span": "movie", "label": "NA"}

@@ -1,0 +1,8 @@
+1. Query: "What is the name of the thriller movie with the song 'Sweet Home Chicago' performed by The Blues Brothers?"
+   Named Entities: [thriller (Genre), 'Sweet Home Chicago' (Song), The Blues Brothers (Actor/Band)]
+
+2. Query: "Can you recommend a thriller film from the 80s with a memorable soundtrack like 'X'?"
+   Named Entities: [thriller (Genre), 80s (Year), 'X' (Song)]
+
+3. Query: "I'm looking for a movie with a thrilling plot and a soundtrack similar to The Blues Brothers. Can you suggest anything?"
+   Named Entities: [thrilling (Plot), The Blues Brothers (Actor/Band)]

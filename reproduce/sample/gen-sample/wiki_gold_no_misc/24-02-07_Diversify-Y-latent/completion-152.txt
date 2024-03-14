@@ -1,0 +1,8 @@
+Sentence: "The company's headquarters is located in downtown Chicago."
+Named Entities: [Chicago (location)]
+
+Sentence: "She received her PhD in Psychology from Stanford University in 2010."
+Named Entities: [Stanford University (organization)]
+
+Sentence: "The concert was attended by thousands of fans from all over the world."
+Named Entities: []

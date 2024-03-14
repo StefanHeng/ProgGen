@@ -1,0 +1,8 @@
+1. "I'm in the mood for some seafood, so where's the nearest Red Lobster?"
+Named Entities: [seafood (Cuisine), nearest (Location), Red Lobster (Restaurant Name)]
+
+2. "I'm looking for a local restaurant that serves Pho soup. Can you suggest one?"
+Named Entities: [local (Location), Pho soup (Dish)]
+
+3. "Is there a diner open all night where I can grab a late-night bite?"
+Named Entities: [open all night (Hours), late-night (Amenity)]

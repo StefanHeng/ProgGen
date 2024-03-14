@@ -1,0 +1,8 @@
+1. "What movie has a nostalgic music that was released in the 90s"
+Named Entities: [nostalgic music (Song), 90s (Year)]
+
+2. "Can you recommend a film with a powerful title track"
+Named Entities: [powerful title track (Song)]
+
+3. "Show me an alternative movie with an unexpected plot twist"
+Named Entities: [alternative (Genre), unexpected plot twist (Plot)]

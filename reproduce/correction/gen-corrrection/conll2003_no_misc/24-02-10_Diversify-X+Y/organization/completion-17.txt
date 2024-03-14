@@ -1,0 +1,11 @@
+1. Sentence: "Terri Irwin's wildlife conservation efforts lead to the rescue of dozens of injured {{koalas}}."
+Text Span: "koalas"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+2. Sentence: "{{National Aeronautics and Space Administration}} releases new study on the effects of climate change on marine life."
+Text Span: "National Aeronautics and Space Administration"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{Government}} pledges to increase funding for conservation efforts in national parks."
+Text Span: "Government"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other

@@ -1,0 +1,8 @@
+1. Query: "Is Samantha Clark's latest movie a Critics Choice Award nominee in the Family animation genre?"
+Named Entities: [Samantha Clark (Actor), Critics Choice Award nominee (Review), Family animation (Genre)]
+
+2. Query: "What year did George Lucas direct the movie that won the most Viewers' Rating?"
+Named Entities: [George Lucas (Director), Viewers' Rating (Review)]
+
+3. Query: "Can you recommend a movie from the 90s with a strong female lead and a great Plot?"
+Named Entities: [90s (Year), strong female lead (Character), great Plot (Review)]

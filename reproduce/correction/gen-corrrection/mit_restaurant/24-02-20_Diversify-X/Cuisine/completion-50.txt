@@ -1,0 +1,8 @@
+1. Text Span: "upscale fast food"
+Label: (B). The correct span boundary is "upscale fast food"
+
+2. Text Span: "fast food"
+Label: (A). The span is a named entity of type cuisine
+
+3. Text Span: "vegetarian options"
+Label: (B). The correct span boundary is "vegetarian"

@@ -1,0 +1,8 @@
+Query: "Can you recommend a good movie with a high viewers' rating?"
+Named Entities: [good (Viewers' Rating)]
+
+Query: "Who directed the highest-rated movie of 2021?"
+Named Entities: [highest-rated (Viewers' Rating), 2021 (Year)]
+
+Query: "What is the plot of the latest action movie with a female lead?"
+Named Entities: [latest (Year), action (Genre), female lead (Character)]

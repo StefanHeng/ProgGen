@@ -1,0 +1,8 @@
+Sentence: "Dr. Jane Smith, a renowned education expert, has been appointed as the new dean of the School of Education at Harvard University."
+Named Entities: [Dr. Jane Smith (person), Harvard University (organization)]
+
+Sentence: "A new study conducted by Dr. Jane Smith finds a correlation between higher education funding and student achievement."
+Named Entities: [Dr. Jane Smith (person)]
+
+Sentence: "The Department of Education announced a partnership with Dr. Jane Smith to improve the quality of early childhood education across the country."
+Named Entities: [Department of Education (organization), Dr. Jane Smith (person)]

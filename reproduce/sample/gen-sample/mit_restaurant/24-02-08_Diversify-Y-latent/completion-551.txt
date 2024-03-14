@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby Italian restaurant with a rating above 4 stars?"
+Named Entities: [Italian (Cuisine), nearby (Location), above 4 stars (Rating)]
+
+2. "What time does the seafood restaurant close tonight?"
+Named Entities: [seafood (Cuisine), tonight (Hours)]
+
+3. "I'm in the mood for sushi, is there a place with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]

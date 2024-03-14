@@ -1,0 +1,8 @@
+Query: "Can you recommend any budget-friendly late-night dining options?"
+Named Entities: [budget-friendly (Price), late-night dining (Amenity)]
+
+Query: "I'm looking for a budget-friendly place for late-night dining, preferably with a good rating. Any suggestions?"
+Named Entities: [budget-friendly (Price), late-night dining (Amenity), good (Rating)]
+
+Query: "Where can I find some affordable late-night dining options with a diverse menu?"
+Named Entities: [affordable (Price), late-night dining (Amenity), diverse (Amenity) ]

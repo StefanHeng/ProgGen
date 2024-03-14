@@ -1,0 +1,8 @@
+1. "Can you tell me who directed the making of the movie 'Inception'?"
+Named Entities: [Inception (Title), directed (Plot)]
+
+2. "What new sci-fi movie has an interesting behind-the-scenes featurette?"
+Named Entities: [sci-fi (Genre), behind-the-scenes (Plot)]
+
+3. "I heard there's a documentary about the making of a classic horror film, can you provide more information?"
+Named Entities: [documentary (Genre), classic horror film (Plot)]

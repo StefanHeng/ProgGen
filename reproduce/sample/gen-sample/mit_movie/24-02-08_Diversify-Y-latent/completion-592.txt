@@ -1,0 +1,8 @@
+1. Query: "What controversial movie from the late 1960s was directed by Wes Anderson?"
+   Named Entities: [controversial (Genre), late 1960s (Year), Wes Anderson (Director)]
+
+2. Query: "Can you recommend a treasure hunt film with a high viewers' rating?"
+   Named Entities: [treasure hunt (Plot), high viewers' rating (Viewers' Rating)]
+
+3. Query: "Which movie from the late 1960s features a song by The Beatles?"
+   Named Entities: [late 1960s (Year), The Beatles (Song)]

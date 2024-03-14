@@ -1,0 +1,8 @@
+1. "Could you recommend a movie directed by James Wan with captivating music?"
+Named Entities: [James Wan (Director), captivating music (Song)]
+
+2. "What movie features a singing competition winner and captivating music?"
+Named Entities: [singing competition winner (Character), captivating music (Song)]
+
+3. "Do you have any movies approved for senior citizens with captivating music, perhaps directed by Paul Verhoeven?"
+Named Entities: [approved for senior citizens (MPAA Rating), captivating music (Song), Paul Verhoeven (Director)]

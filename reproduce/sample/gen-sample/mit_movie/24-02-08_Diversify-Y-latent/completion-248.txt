@@ -1,0 +1,8 @@
+1. "Can you recommend a family-friendly movie with Tom Hanks in it?"
+Named Entities: [family-friendly (MPAA Rating), Tom Hanks (Actor)]
+
+2. "What is the genre of the movie La La Land?"
+Named Entities: [La La Land (Title)]
+
+3. "Who played Count Dooku in the thriller movie starring Russell Crowe?"
+Named Entities: [Count Dooku (Character), thriller (Genre), Russell Crowe (Actor)]

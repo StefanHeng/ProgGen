@@ -1,0 +1,8 @@
+1. Text Span: "Anthony Fauci"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "The Starry Night"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Gustave Eiffel"
+Label: (A). The span is a named entity of type person

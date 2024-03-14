@@ -1,0 +1,11 @@
+1. Query: "Is there a movie available to stream on any platforms with a 96% audience score and a {{sneak peek}}?"
+Text Span: "sneak peek"
+Label: (A). The span is a named entity of type trailer
+
+2. Query: "Could you please show me the {{trailer}} for the latest Joker movie starring Joaquin Phoenix?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "Yo, does Brie Larson have any new movies on streaming? I need that {{Exclusive look}}, you know what I'm saying?"
+Text Span: "Exclusive look"
+Label: (B). The span contains a named trailer entity but the span boundary is not precise. The correct span boundary is "look"

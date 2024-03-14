@@ -1,0 +1,8 @@
+1. Text Span: "New York City"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Australia"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "1993"
+Label: (D). The span is not a named entity

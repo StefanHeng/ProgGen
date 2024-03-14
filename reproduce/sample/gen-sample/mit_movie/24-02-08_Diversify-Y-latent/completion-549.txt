@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie Count Dracula?"
+Named Entities: [Count Dracula (Title), viewers' rating (Viewers' Rating)]
+
+2. "Who was the set designer for the film Casablanca?"
+Named Entities: [Casablanca (Title), set designer (Set designer)]
+
+3. "Can you recommend a movie directed by Steven Spielberg that falls under the science fiction genre?"
+Named Entities: [Steven Spielberg (Director), science fiction (Genre)]

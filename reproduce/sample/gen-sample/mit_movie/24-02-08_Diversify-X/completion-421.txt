@@ -1,0 +1,8 @@
+1. Query: "What are some movies with classic 1950s songs in their soundtracks?"
+Named Entities: [classic 1950s songs (Song)]
+
+2. Query: "Could you recommend a movie with a beautiful instrumental soundtrack for relaxation?"
+Named Entities: [beautiful instrumental soundtrack (Song), relaxation (Genre)]
+
+3. Query: "Which movie features the song 'My Heart Will Go On' by Celine Dion in its soundtrack?"
+Named Entities: ['My Heart Will Go On' (Song), Celine Dion (Actor)]

@@ -1,0 +1,8 @@
+1. Text Span: "fairy tale"
+Label: (A). The span is a named entity of type movie genre
+
+2. Text Span: "Coming-of-age story"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "Coming-of-age"
+
+3. Text Span: "adventure"
+Label: (A). The span is a named entity of type movie genre

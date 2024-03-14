@@ -1,0 +1,11 @@
+1. Query: "Who are the {{actors}} in the movie Pulp Fiction"
+Text Span: "actors"
+Label: (C). The span is a named entity but the category is not actor. Entity Type: Title
+
+2. Query: "Tell me about the {{actor}} who played Harry Potter in the movie series."
+Text Span: "actor"
+Label: (D). Not a Named Entity.
+
+3. Query: "who is the {{lead actor}} in the dark knight"
+Text Span: "lead actor"
+Label: (D). Not a Named Entity.

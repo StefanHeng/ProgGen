@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me the viewers' rating for Jai Ho?"
+   Named Entities: [Jai Ho (Title), viewers' rating (Viewers' Rating)]
+
+2. Spoken Query: "I'm feeling pretty down. Could you recommend a movie review or rating for Gone with the Wind to cheer me up?"
+   Named Entities: [Gone with the Wind (Title), movie review (Review), movie rating (Viewers' Rating)]
+
+3. Spoken Query: "I'm feeling blue. Can you tell me the director of The Social Network?"
+   Named Entities: [The Social Network (Title), director (Director)]

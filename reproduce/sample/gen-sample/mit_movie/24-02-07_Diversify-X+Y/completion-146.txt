@@ -1,0 +1,8 @@
+1. "I'm curious, who directed the movie Frozen and what is the MPAA rating for it?"
+Named Entities: [Frozen (Title), directed (Director), MPAA rating (MPAA Rating)]
+
+2. "Can you tell me if there's a terrific movie with Lina Wertmüller as the director?"
+Named Entities: [terrific (Viewers' Rating), Lina Wertmüller (Director)]
+
+3. "I'm not sure, but do you know any PG-13 movies that feature a fantastic cast and crew?"
+Named Entities: [PG-13 (MPAA Rating), fantastic (Viewers' Rating)]

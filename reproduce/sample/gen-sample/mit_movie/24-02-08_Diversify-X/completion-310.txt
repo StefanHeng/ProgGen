@@ -1,0 +1,8 @@
+1. Query: "Can you provide a brief plot summary of the movie Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director), Plot summary (Plot)]
+
+2. Query: "What is the synopsis of the film Titanic which was released in 1997?"
+Named Entities: [Titanic (Title), 1997 (Year), Synopsis (Plot)]
+
+3. Query: "Could you give me an overview of the storyline for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), Storyline (Plot)]

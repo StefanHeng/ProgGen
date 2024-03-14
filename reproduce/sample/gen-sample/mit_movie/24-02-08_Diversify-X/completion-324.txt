@@ -1,0 +1,8 @@
+1. Query: "I'm bored, can you show me a trailer for the latest action movie?" 
+   Named Entities: [trailer (Trailer), action movie (Genre)]
+
+2. Query: "I have nothing to do, can you recommend a movie with a catchy theme song?" 
+   Named Entities: [catchy theme song (Song)]
+
+3. Query: "I need something to entertain me, show me a movie with a mind-bending plot twist." 
+   Named Entities: [mind-bending plot twist (Plot)]

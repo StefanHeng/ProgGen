@@ -1,0 +1,8 @@
+1. Query: "I'm craving some Indian food, can you recommend a good Indian restaurant nearby?"
+Named Entities: [Indian (Cuisine), good (Rating), nearby (Location)]
+
+2. Query: "I'm in the mood for Turkish cuisine, is there a Turkish restaurant with outdoor seating?"
+Named Entities: [Turkish (Cuisine), outdoor seating (Amenity)]
+
+3. Query: "What are the top-rated Indian restaurants in the city center?"
+Named Entities: [top-rated (Rating), Indian (Cuisine), city center (Location)]

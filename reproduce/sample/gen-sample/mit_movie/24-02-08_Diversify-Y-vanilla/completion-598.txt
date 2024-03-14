@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with the song All You Need is Love?"
+Named Entities: [All You Need is Love (Song)]
+
+2. "Show me a teaser clip for a movie that is rated R."
+Named Entities: [teaser clip (Trailer), R (MPAA Rating)]
+
+3. "What is the top viewers' rated movie in the romance genre?"
+Named Entities: [romance (Genre), top viewers' rated (Viewers' Rating)]

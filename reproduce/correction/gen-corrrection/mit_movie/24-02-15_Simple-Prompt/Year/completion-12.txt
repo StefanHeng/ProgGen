@@ -1,0 +1,11 @@
+1. Query: "What's the top-rated thriller from the {{2000s}}?"
+Text Span: "2000s"
+Label: (A). The span is a named entity of type year
+
+2. Query: "What year was the film Casablanca {{released}}"
+Text Span: "released"
+Label: (D). The span is not a named entity
+
+3. Query: "Show me some crime movies from the {{1970s}}."
+Text Span: "1970s"
+Label: (A). The span is a named entity of type year

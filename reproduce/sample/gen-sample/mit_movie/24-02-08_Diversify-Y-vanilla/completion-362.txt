@@ -1,0 +1,8 @@
+1. "Can you recommend a 1997 movie starring Scarlett Johansson that falls under the satire genre?"
+Named Entities: [1997 (Year), Scarlett Johansson (Actor), satire (Genre)]
+
+2. "Please show me a trailer for the movie directed by Christopher Nolan that has received a five-star rating from viewers."
+Named Entities: [Christopher Nolan (Director), five-star rating (Viewers' Rating)]
+
+3. "Is there a film with a compelling plot that features the song 'My Heart Will Go On' by Celine Dion?"
+Named Entities: ['My Heart Will Go On' (Song)]

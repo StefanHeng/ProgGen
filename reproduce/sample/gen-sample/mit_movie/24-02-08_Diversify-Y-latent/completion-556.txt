@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of King Kong?"
+Named Entities: [King Kong (Title), Plot]
+
+2. "Show me the official trailer for Paul Thomas Anderson's latest movie."
+Named Entities: [official trailer (Trailer), Paul Thomas Anderson (Director)]
+
+3. "Is Natalie Portman the lead in any riveting movies like Get Out?"
+Named Entities: [Natalie Portman (Actor), riveting (Viewers' Rating), Get Out (Title)]

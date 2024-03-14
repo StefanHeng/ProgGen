@@ -1,0 +1,8 @@
+1. Text Span: "National Institute of Allergy and Infectious Diseases"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Oscar"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Stanford University"
+Label: (A). The span is a named entity of type organization

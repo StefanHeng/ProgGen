@@ -1,0 +1,8 @@
+Query: "I'm looking for a brunch place in Los Angeles with a good rating"
+Named Entities: [brunch (Amenity), Los Angeles (Location), good (Rating)]
+
+Query: "where can I find a restaurant in LA that serves sausage gravy biscuits"
+Named Entities: [LA (Location), sausage gravy biscuits (Dish)]
+
+Query: "which brunch spot in Los Angeles has affordable prices"
+Named Entities: [brunch (Amenity), Los Angeles (Location), affordable (Price)]

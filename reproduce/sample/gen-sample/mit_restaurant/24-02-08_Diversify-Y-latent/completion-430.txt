@@ -1,0 +1,8 @@
+Query: "What restaurants are within walking distance of Sunrise Bistro?"
+Named Entities: [Within walking distance (Amenity), Sunrise Bistro (Restaurant Name)]
+
+Query: "Can you recommend a restaurant near Sunrise Bistro with a high rating?"
+Named Entities: [Sunrise Bistro (Restaurant Name), high rating (Rating)]
+
+Query: "I'm craving Italian cuisine, where can I find a place with reasonable prices?"
+Named Entities: [Italian (Cuisine), reasonable prices (Price)]

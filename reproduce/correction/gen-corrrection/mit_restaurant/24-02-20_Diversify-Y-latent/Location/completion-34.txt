@@ -1,0 +1,8 @@
+1. Text Span: "restaurants in the area"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "waterfront"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "nearest"
+Label: (A). The span is a named entity of type location

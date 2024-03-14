@@ -1,0 +1,8 @@
+1. "What restaurants are participating in the upcoming food festival?"
+Named Entities: [Food festival (Amenity)]
+
+2. "I'm craving some tandoori chicken. Where can I find the best tandoori chicken in town?"
+Named Entities: [tandoori chicken (Dish), best (Rating)]
+
+3. "Do you know any restaurants that offer tandoori chicken and are open late at night?"
+Named Entities: [tandoori chicken (Dish), open late at night (Hours)]

@@ -1,0 +1,11 @@
+1. Query: "Can I find {{The Dark Knight}} on any streaming platforms?"
+Text Span: "The Dark Knight"
+Label: (A). The span is a named entity of type title
+
+2. Query: "Who directed the movie {{Inception}} and who were the main actors?"
+Text Span: "Inception"
+Label: (A). The span is a named entity of type title
+
+3. Query: "Can I find tickets for {{the new James Bond movie}}?"
+Text Span: "the new James Bond movie"
+Label: (B). The span contains a named title entity but the span boundary is not precise. The correct span boundary is "James Bond"

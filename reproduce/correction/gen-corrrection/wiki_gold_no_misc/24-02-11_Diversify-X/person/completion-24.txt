@@ -1,0 +1,8 @@
+1. Text Span: "Rachel Carson"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Zeus"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Sigmund Freud"
+Label: (A). The span is a named entity of type person

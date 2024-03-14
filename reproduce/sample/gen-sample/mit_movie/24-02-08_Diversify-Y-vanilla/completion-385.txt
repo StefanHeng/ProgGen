@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a song that has a Quest for revenge theme?"
+Named Entities: [Quest for revenge (Plot)]
+
+2. "I'm looking for a movie directed by Sam Raimi that involves the character Spider-Man"
+Named Entities: [Sam Raimi (Director), Spider-Man (Character)]
+
+3. "Do you have a Featurette for any movies produced by Universal?" 
+Named Entities: [Featurette (Trailer), Universal (Studio)]

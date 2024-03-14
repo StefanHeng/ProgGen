@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with moderate priced Italian cuisine around the corner?"
+Named Entities: [moderate (Price), Italian (Cuisine), around the corner (Location)]
+
+2. "What are the hours of operation for the nearest burger joint?"
+Named Entities: [nearest (Location), burger joint (Restaurant Name), hours of operation (Hours)]
+
+3. "Recommend a place with outdoor seating and a good view of the city skyline"
+Named Entities: [outdoor seating (Amenity), good (Rating), city skyline (Location)]

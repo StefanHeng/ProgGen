@@ -1,0 +1,8 @@
+Query: "What type of cuisine does Johnny Rockets serve?"
+Named Entities: [Johnny Rockets (Restaurant Name), cuisine (Cuisine)]
+
+Query: "What are the operating hours for Johnny Rockets?"
+Named Entities: [Johnny Rockets (Restaurant Name), operating hours (Hours)]
+
+Query: "Can I find a restaurant near me that is similar to Johnny Rockets in terms of price range?"
+Named Entities: [restaurant near me (Location), Johnny Rockets (Restaurant Name), price range (Price)]

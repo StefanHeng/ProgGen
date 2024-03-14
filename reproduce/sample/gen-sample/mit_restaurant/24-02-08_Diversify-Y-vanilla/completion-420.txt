@@ -1,0 +1,8 @@
+1. "I'm craving a lobster roll, where can I find one nearby?"
+Named Entities: [lobster roll (Dish), nearby (Location)]
+
+2. "Can you provide me directions to Seasons 52?"
+Named Entities: [Directions, Seasons 52 (Restaurant Name)]
+
+3. "I want to try some Paraguayan cuisine, is there a restaurant that serves it?"
+Named Entities: [Paraguayan (Cuisine), restaurant (Amenity)]

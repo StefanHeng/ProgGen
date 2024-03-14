@@ -1,0 +1,8 @@
+1. "Can you suggest a cyberpunk movie that is highly recommended?"
+Named Entities: [cyberpunk (Genre), highly recommended (Viewers' Rating)]
+
+2. "Who directed the highly recommended James Bond film from 1995?"
+Named Entities: [James Bond (Title), 1995 (Year)]
+
+3. "What is the viewers' rating for the cyberpunk movie featuring a character named Neo?"
+Named Entities: [cyberpunk (Genre), Neo (Character), viewers' rating (Viewers' Rating)]

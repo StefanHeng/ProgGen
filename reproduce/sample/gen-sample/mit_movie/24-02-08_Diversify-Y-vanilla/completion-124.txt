@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any post-apocalyptic movies from 1998?"
+Named Entities: [post-apocalyptic (Genre), 1998 (Year)]
+
+2. Query: "Who directed the Harry Potter movie with the highest viewer rating?"
+Named Entities: [Harry Potter (Title), highest viewer rating (Viewers' Rating)]
+
+3. Query: "Show me a trailer for a 1998 movie featuring the song 'My Heart Will Go On.'"
+Named Entities: [1998 (Year), My Heart Will Go On (Song)]

@@ -1,0 +1,8 @@
+1. "I'm in the mood for Italian cuisine and I want to order some pizza for dinner"
+Named Entities: [Italian (Cuisine), pizza (Dish), dinner (Amenity), delivery (Amenity)]
+
+2. "I need a place for a nice dinner with a good rating and affordable prices, and it should offer delivery"
+Named Entities: [nice (Rating), affordable (Price), dinner (Amenity), delivery (Amenity)]
+
+3. "What's the closest restaurant that serves Chinese food and delivers for dinner tonight?"
+Named Entities: [closest (Location), Chinese (Cuisine), dinner (Amenity), delivery (Amenity)]

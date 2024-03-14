@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a {{superb}} movie directed by Morpheus. Can you help me find one?"
+Text Span: "superb"
+Label: (A). Named Entity of type Review
+
+2. Query: "Are there any {{Outstanding}} movie showtimes for Thor this weekend?"
+Text Span: "Outstanding"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "Can you recommend a Michael Moore documentary with a {{brilliant}} plot and intense reviews?"
+Text Span: "brilliant"
+Label: (A). Named Entity of type Review

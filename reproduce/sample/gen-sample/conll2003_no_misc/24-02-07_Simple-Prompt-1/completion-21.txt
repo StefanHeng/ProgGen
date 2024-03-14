@@ -1,0 +1,149 @@
+1. President Biden visits the United Kingdom for G7 summit.
+Named Entities: [President Biden (person), United Kingdom (location), G7 (organization)]
+
+2. Apple Inc. releases new iPhone model.
+Named Entities: [Apple Inc. (organization)]
+
+3. Famous actress Angelina Jolie adopts a child from Ethiopia.
+Named Entities: [Angelina Jolie (person), Ethiopia (location)]
+
+4. The European Union imposes sanctions on Russia.
+Named Entities: [European Union (organization), Russia (location)]
+
+5. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+6. New York City to host Olympic Games in 2032.
+Named Entities: [New York City (location)]
+
+7. Bill Gates donates $1 billion to combat climate change.
+Named Entities: [Bill Gates (person)]
+
+8. The World Health Organization declares a global pandemic.
+Named Entities: [World Health Organization (organization)]
+
+9. Tiger Woods wins the Masters Golf Tournament.
+Named Entities: [Tiger Woods (person)]
+
+10. Amazon to open new headquarters in Tokyo.
+Named Entities: [Amazon (organization), Tokyo (location)]
+
+11. German Chancellor Angela Merkel meets with French President Macron.
+Named Entities: [Angela Merkel (person), French (location), President Macron (person)]
+
+12. Microsoft acquires cybersecurity firm for $10 billion.
+Named Entities: [Microsoft (organization)]
+
+13. Kim Kardashian launches new beauty line.
+Named Entities: [Kim Kardashian (person)]
+
+14. Mount Everest climbers stranded after avalanche.
+Named Entities: [Mount Everest (location)]
+
+15. The United Nations warns of humanitarian crisis in Syria.
+Named Entities: [United Nations (organization), Syria (location)]
+
+16. LeBron James signs $100 million contract with LA Lakers.
+Named Entities: [LeBron James (person), LA Lakers (organization)]
+
+17. Tokyo Olympics postponed due to COVID-19 pandemic.
+Named Entities: [Tokyo (location)]
+
+18. Facebook to invest in renewable energy projects.
+Named Entities: [Facebook (organization)]
+
+19. Russian President Putin meets with Chinese President Xi Jinping.
+Named Entities: [Russian President Putin (person), Chinese (location), President Xi Jinping (person)]
+
+20. Harry Styles announces world tour dates.
+Named Entities: [Harry Styles (person)]
+
+21. United Airlines expands routes to Latin America.
+Named Entities: [United Airlines (organization), Latin America (location)]
+
+22. German scientists make breakthrough in cancer research.
+Named Entities: [German (location)]
+
+23. Tom Cruise to star in new Mission Impossible movie.
+Named Entities: [Tom Cruise (person)]
+
+24. European Central Bank announces interest rate hike.
+Named Entities: [European Central Bank (organization)]
+
+25. Taylor Swift to receive humanitarian award at the MTV Music Awards.
+Named Entities: [Taylor Swift (person), MTV Music Awards (organization)]
+
+26. Oil prices surge after Saudi Arabia drone attack.
+Named Entities: [Saudi Arabia (location)]
+
+27. SpaceX founder Elon Musk plans mission to Mars.
+Named Entities: [SpaceX (organization), Elon Musk (person), Mars (location)]
+
+28. Federal Reserve raises key interest rates.
+Named Entities: [Federal Reserve (organization)]
+
+29. Angelina Jolie divorces Brad Pitt after 5 years of marriage.
+Named Entities: [Angelina Jolie (person), Brad Pitt (person)]
+
+30. California wildfires destroy thousands of homes.
+Named Entities: [California (location)]
+
+31. Jeff Bezos steps down as CEO of Amazon.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+
+32. Paris Fashion Week showcases latest designer collections.
+Named Entities: [Paris (location)]
+
+33. Google announces new artificial intelligence research center in Beijing.
+Named Entities: [Google (organization), Beijing (location)]
+
+34. Pope Francis visits Iraq for historic peace mission.
+Named Entities: [Pope Francis (person), Iraq (location)]
+
+35. Australian Prime Minister announces new climate change policy.
+Named Entities: [Australian (location), Prime Minister (person)]
+
+36. Jay-Z and Beyonce donate $1 million to charity.
+Named Entities: [Jay-Z (person), Beyonce (person)]
+
+37. Italy declares state of emergency after earthquake.
+Named Entities: [Italy (location)]
+
+38. Spotify surpasses 1 billion active users.
+Named Entities: [Spotify (organization)]
+
+39. London Stock Exchange experiences record highs.
+Named Entities: [London (location), Stock Exchange (organization)]
+
+40. Jennifer Lawrence to star in new sci-fi thriller.
+Named Entities: [Jennifer Lawrence (person)]
+
+41. Iranian President Rouhani addresses United Nations General Assembly.
+Named Entities: [Iranian President Rouhani (person), United Nations General Assembly (organization)]
+
+42. Starbucks to open 1,000 new stores in China.
+Named Entities: [Starbucks (organization), China (location)]
+
+43. Taylor Swift and Kanye West to headline music festival.
+Named Entities: [Taylor Swift (person), Kanye West (person)]
+
+44. New Zealand Prime Minister announces COVID-19 vaccination mandate.
+Named Entities: [New Zealand (location), Prime Minister (person)]
+
+45. The International Monetary Fund releases global economic forecast.
+Named Entities: [International Monetary Fund (organization)]
+
+46. Disney to launch new streaming service in Europe.
+Named Entities: [Disney (organization), Europe (location)]
+
+47. SpaceX unveils plans for manned mission to Mars.
+Named Entities: [SpaceX (organization), Mars (location)]
+
+48. Japan to invest $2 billion in renewable energy projects.
+Named Entities: [Japan (location)]
+
+49. U.S. government sanctions North Korean officials.
+Named Entities: [U.S. (location), North Korean (location)]
+
+50. Taylor Swift wins Grammy Award for Album of the Year.
+Named Entities: [Taylor Swift (person), Grammy Award (organization)]

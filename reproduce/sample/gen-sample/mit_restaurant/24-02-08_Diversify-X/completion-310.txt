@@ -1,0 +1,8 @@
+Query: "I'm looking for a quirky and eccentric restaurant that serves vegan brunch in the area"
+Named Entities: [quirky and eccentric (Amenity), vegan (Cuisine), brunch (Amenity)]
+
+Query: "can you recommend a place with a unique atmosphere for a vegan brunch"
+Named Entities: [unique atmosphere (Amenity), vegan (Cuisine), brunch (Amenity)]
+
+Query: "where's the best vegan brunch spot with a fun vibe"
+Named Entities: [best (Rating), vegan (Cuisine), brunch (Amenity), fun vibe (Amenity)]

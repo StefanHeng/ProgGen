@@ -1,0 +1,8 @@
+Query: "I'm craving some BYOB brunch place, where can I find a good Eggs Benedict?"
+Named Entities: [BYOB (Amenity), brunch (Amenity), Eggs Benedict (Dish)]
+
+Query: "I need a recommendation for a brunch spot with BYOB options and a good Eggs Benedict for a 35-year-old construction worker, please"
+Named Entities: [BYOB (Amenity), brunch (Amenity), Eggs Benedict (Dish), 35-year-old (Amenity), construction worker (Amenity)]
+
+Query: "Where can I take my construction worker friend for a great BYOB brunch featuring Eggs Benedict?"
+Named Entities: [BYOB (Amenity), brunch (Amenity), Eggs Benedict (Dish), construction worker (Amenity)]

@@ -1,0 +1,8 @@
+1. "Company ABC faces allegations of insider trading and market manipulation."
+Named Entities: [Company ABC (organization)]
+
+2. "CEO John Smith resigns amidst financial scandal."
+Named Entities: [John Smith (person)]
+
+3. "Experts predict a global recession as trade tensions escalate between the US and China."
+Named Entities: [US (location), China (location)]

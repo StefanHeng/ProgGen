@@ -1,0 +1,8 @@
+Query: "Can you tell me which movie won the Academy Award for Best Picture in 1994?"
+Named Entities: [Academy Award (Award), Best Picture (Award Category), 1994 (Year)]
+
+Query: "Show me a film that received multiple nominations at the Golden Globes this year."
+Named Entities: [Golden Globes (Award), multiple nominations (Award), this year (Year)]
+
+Query: "I'm looking for a movie that won both the Palme d'Or and the BAFTA Award for Best Film."
+Named Entities: [Palme d'Or (Award), BAFTA Award (Award), Best Film (Award Category)]

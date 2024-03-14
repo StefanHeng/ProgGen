@@ -1,0 +1,8 @@
+Sentence: "The United States Army is the land warfare service branch of the United States Armed Forces."
+Named Entities: [United States Army (organization), United States Armed Forces (organization)]
+
+Sentence: "The Battle of Gettysburg was fought during the American Civil War in July 1863, and is widely considered one of the turning points of the war."
+Named Entities: [Battle of Gettysburg (location), American Civil War (event)]
+
+Sentence: "The Special Air Service is a special forces unit of the British Army, established in 1941 during World War II."
+Named Entities: [Special Air Service (organization), British Army (organization), World War II (event)]

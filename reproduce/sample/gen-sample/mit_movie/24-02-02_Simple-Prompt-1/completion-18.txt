@@ -1,0 +1,61 @@
+
+
+1. "What is the highest rated movie on rotten tomatoes"
+Named Entities: [highest rated (Viewers' Rating), rotten tomatoes (Review)]
+
+2. "Who directed the lord of the rings trilogy"
+Named Entities: [lord of the rings (Title)]
+
+3. "Can you recommend a good 90s romantic comedy film"
+Named Entities: [90s (Year), romantic comedy (Genre)]
+
+4. "Show me a trailer for the upcoming marvel movie"
+Named Entities: [upcoming (Year), marvel (Genre), trailer (Trailer)]
+
+5. "What is the plot of the movie inception"
+Named Entities: [inception (Title), plot (Plot)]
+
+6. "Is there a film about the life of cleopatra"
+Named Entities: [cleopatra (Character)]
+
+7. "What is the song in the ending credits of the movie titanic"
+Named Entities: [ending credits (Trailer), titanic (Title), song (Song)]
+
+8. "I want to watch a steven spielberg movie"
+Named Entities: [steven spielberg (Director)]
+
+9. "Which movie has the best special effects of all time"
+Named Entities: [best special effects (Review)]
+
+10. "Is there a good horror movie from the 1970s"
+Named Entities: [horror (Genre), 1970s (Year)]
+
+11. "What is the rating for the film the godfather"
+Named Entities: [the godfather (Title), rating (Viewers' Rating)]
+
+12. "What is the best action movie directed by james cameron"
+Named Entities: [best (Viewers' Rating), action (Genre), james cameron (Director)]
+
+13. "Can you tell me about the character luke skywalker"
+Named Entities: [luke skywalker (Character)]
+
+14. "I want to see a classic alfred hitchcock film"
+Named Entities: [alfred hitchcock (Director), classic (Viewers' Rating)]
+
+15. "Is there a biographical film about marie curie"
+Named Entities: [marie curie (Character)]
+
+16. "What is the movie franchise with the highest box office earnings"
+Named Entities: [highest box office earnings (Review)]
+
+17. "Is there a good sci-fi film from the 1980s"
+Named Entities: [sci-fi (Genre), 1980s (Year)]
+
+18. "Which movie features the actor meryl streep"
+Named Entities: [meryl streep (Actor)]
+
+19. "I want to watch a family-friendly film for kids"
+Named Entities: [family-friendly (MPAA Rating), kids (Viewers' Rating)]
+
+20. "Where can I find a review of the film the shawshank redemption"
+Named Entities: [the shawshank redemption (Title), review (Review)]

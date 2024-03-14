@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a romantic plot and a song by Whitney Houston?"
+Named Entities: [romantic (Genre), Whitney Houston (Song)]
+
+Query: "What is the best-rated movie directed by Nora Ephron that was released in the 1990s?"
+Named Entities: [Nora Ephron (Director), 1990s (Year), best-rated (Viewers' Rating)]
+
+Query: "I'm looking for a classic movie with Audrey Hepburn in the lead role, can you suggest one?"
+Named Entities: [Audrey Hepburn (Actor), classic (Genre)]

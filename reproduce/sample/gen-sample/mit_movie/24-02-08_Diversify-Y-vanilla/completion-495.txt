@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with authentic dialogue and a high viewers' rating featuring Michael Myers?"
+Named Entities: [authentic dialogue (Plot), high viewers' rating (Viewers' Rating), Michael Myers (Actor)]
+
+2. "Show me a sport movie from the 90s with an intense plot and a catchy trailer."
+Named Entities: [sport (Genre), the 90s (Year), intense plot (Plot), catchy trailer (Trailer)]
+
+3. "Which movie directed by John Carpenter is known for its iconic character and memorable soundtrack?"
+Named Entities: [John Carpenter (Director), iconic character (Character), memorable soundtrack (Song)]

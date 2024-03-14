@@ -1,0 +1,8 @@
+1. Query: "What Chinese restaurants are open for dinner tonight?"
+   Named Entities: [Chinese (Cuisine), dinner tonight (Hours)]
+
+2. Query: "I'm hungry, find me the closest Golden Dragon restaurant"
+   Named Entities: [closest (Location), Golden Dragon (Restaurant Name)]
+
+3. Query: "Can you recommend a place with a diverse menu and affordable prices for Chinese cuisine?"
+   Named Entities: [diverse (Amenity), affordable prices (Price), Chinese (Cuisine)]

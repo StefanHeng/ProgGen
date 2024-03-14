@@ -1,0 +1,8 @@
+1. Text Span: "National Geographic Society"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Rock & Roll Hall of Fame"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Indian"
+Label: (D). Not a Named Entity

@@ -1,0 +1,11 @@
+1. Sentence: "{{Environmental group}} launches campaign to protect Arctic Circle wildlife."
+Text Span: "Environmental group"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{People's Liberation Army}} conducts large-scale military exercises near Taiwan."
+Text Span: "People's Liberation Army"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{University of Johannesburg}} partners with international organizations to provide scholarships for underprivileged students."
+Text Span: "University of Johannesburg"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,11 @@
+1. "I'm craving Italian food. Can you recommend a good restaurant around [Eleven Madison Park]?"
+
+Named Entities: [Italian (Cuisine), Eleven Madison Park (Restaurant Name)]
+
+2. "I'm in the mood for some sushi. Where can I find a highly-rated sushi place near [Eleven Madison Park]?"
+
+Named Entities: [sushi (Cuisine), highly-rated (Rating), Eleven Madison Park (Location)]
+
+3. "I have a friend visiting who loves Mexican cuisine. Can you suggest a Mexican restaurant with reasonable prices close to [Eleven Madison Park]?"
+
+Named Entities: [Mexican (Cuisine), reasonable prices (Price), Eleven Madison Park (Location)]

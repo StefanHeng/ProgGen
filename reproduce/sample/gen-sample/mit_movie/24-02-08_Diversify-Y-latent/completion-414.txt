@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a Witness Protection theme, composed by John Williams, and starring Chris Pratt?"
+Named Entities: [Witness Protection (Plot), John Williams (Composer), Chris Pratt (Actor)]
+
+2. "Who produced the movie Jurassic World, and what is the storyline?"
+Named Entities: [Jurassic World (Title), Producer (Producer)]
+
+3. "Are there any action movies with a strong female lead character, similar to the role played by Jennifer Lawrence in Red Sparrow?"
+Named Entities: [action (Genre), Jennifer Lawrence (Actor), Red Sparrow (Title), lead character (Character)]

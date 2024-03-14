@@ -1,0 +1,8 @@
+1. "Can you provide me with a touching movie featuring Jake Gyllenhaal?"
+    Named Entities: [touching (Viewers' Rating), Jake Gyllenhaal (Actor)]
+
+2. "I want to watch a movie with Captain Marvel in it, any recommendations?"
+    Named Entities: [Captain Marvel (Character)]
+
+3. "Do you know which film Mufasa appears in, from 1989?"
+    Named Entities: [Mufasa (Character), 1989 (Year)]

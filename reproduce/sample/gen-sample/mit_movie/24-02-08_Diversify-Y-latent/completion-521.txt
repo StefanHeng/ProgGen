@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie set in the Prohibition era that is highly rated?"
+Named Entities: [Prohibition era (Plot), highly rated (Viewers' Rating)]
+
+Query: "Are there any movies with a political conspiracy theme directed by Zack Snyder?"
+Named Entities: [political conspiracy (Plot), Zack Snyder (Director)]
+
+Query: "I'm looking for a British Independent Film Award nominee starring Ryan Gosling, do you have any recommendations?"
+Named Entities: [British Independent Film Award nominee (Award), Ryan Gosling (Actor)]

@@ -1,0 +1,11 @@
+1. Query: "where can I find the {{Tasty Tacos Truck}}"
+Text Span: "Tasty Tacos Truck"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Is {{McDonald's}} open for late-night dining?"
+Text Span: "McDonald's"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "I'm craving fast food, where can I find a {{Carl's Jr.}} nearby?"
+Text Span: "Carl's Jr."
+Label: (A). The span is a named entity of type restaurant name

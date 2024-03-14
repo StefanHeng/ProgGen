@@ -1,0 +1,11 @@
+1. Sentence: "Canadian Prime Minister {{Trudeau}} faces backlash over pipeline decision."
+Text Span: "Trudeau"
+Label: (A)
+
+2. Sentence: "New Zealand {{Prime Minister Ardern}} announces economic stimulus package."
+Text Span: "Prime Minister Ardern"
+Label: (B). The correct span boundary is "Ardern".
+
+3. Sentence: "{{Serena Williams}} wins Wimbledon."
+Text Span: "Serena Williams"
+Label: (A)

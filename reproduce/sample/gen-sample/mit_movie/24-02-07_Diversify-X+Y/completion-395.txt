@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the movie Peter Pan from 1987?"
+Named Entities: [Peter Pan (Title), 1987 (Year), trailer (Trailer)]
+
+2. "What is the viewers' rating for the movie Peter Pan released in 1987?"
+Named Entities: [Peter Pan (Title), 1987 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Who directed the movie Peter Pan in 1987?"
+Named Entities: [Peter Pan (Title), 1987 (Year), directed (Director)]

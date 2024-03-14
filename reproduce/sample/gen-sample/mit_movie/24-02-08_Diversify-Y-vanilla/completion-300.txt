@@ -1,0 +1,8 @@
+Query: "what are the most popular films directed by Quentin Tarantino"
+Named Entities: [Quentin Tarantino (Director)]
+
+Query: "can you recommend a good sci-fi movie that came out in the 1980s"
+Named Entities: [sci-fi (Genre), 1980s (Year)]
+
+Query: "is there a film adaptation of the book Wonderwall"
+Named Entities: [Wonderwall (Title)]

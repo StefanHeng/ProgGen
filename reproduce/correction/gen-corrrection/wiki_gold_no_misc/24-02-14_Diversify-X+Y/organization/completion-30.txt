@@ -1,0 +1,8 @@
+1. Text Span: "Big G Cereals"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Billboard 200"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. The correct span boundary is "Billboard 200".
+
+3. Text Span: "Vancouver General Hospital"
+Label: (A). The span is a named entity of type organization

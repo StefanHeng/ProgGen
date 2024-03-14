@@ -1,0 +1,8 @@
+Query: "recommend a reasonably priced Italian restaurant with outdoor seating"
+Named Entities: [reasonably priced (Price), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "what are the hours for the nearest sushi spot"
+Named Entities: [nearest (Location), sushi (Cuisine), hours (Hours)]
+
+Query: "I'm craving some spicy food, is there a Mexican place nearby"
+Named Entities: [spicy (Amenity), Mexican (Cuisine), nearby (Location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with superior quality in fine dining and a trendy ambience for dinner hours?"
+Named Entities: [superior quality (Rating), fine dining (Amenity), trendy (Amenity), dinner hours (Hours)]
+
+2. "I'm looking for a trendy restaurant with superior quality and a fine dining experience. It should be near a landmark."
+Named Entities: [trendy (Amenity), superior quality (Rating), fine dining (Amenity), landmark (Location)]
+
+3. "Where can I find a fine dining restaurant with a trendy ambience, superior quality, and dinner hours near a landmark?"
+Named Entities: [fine dining (Amenity), trendy (Amenity), superior quality (Rating), dinner hours (Hours), landmark (Location)]

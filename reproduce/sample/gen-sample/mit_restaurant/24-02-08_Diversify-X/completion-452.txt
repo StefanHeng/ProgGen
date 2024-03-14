@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with good ratings and a variety of cuisines in the downtown area"
+Named Entities: [buffet (Amenity), good ratings (Rating), variety of cuisines (Cuisine), downtown area (Location)]
+
+2. "I'm looking for a buffet place with a quiet ambiance and reasonable prices for a group of 4 people"
+Named Entities: [buffet (Amenity), quiet ambiance (Amenity), reasonable prices (Price), group of 4 people (Amenity)]
+
+3. "Is there a buffet restaurant with a private dining area and weekend brunch options within 10 miles from my location"
+Named Entities: [buffet (Amenity), private dining area (Amenity), weekend brunch options (Amenity), 10 miles from my location (Location)]

@@ -1,0 +1,8 @@
+1. "Have more movies been released between 1965 and 1970 than after 2000"
+Named Entities: [1965-1970 (Year), after 2000 (Year)]
+
+2. "Is there a movie where Thanos is the main character?"
+Named Entities: [Thanos (Character)]
+
+3. "Can you recommend a film directed by Ethan Coen and featuring the song 'Footloose'?"
+Named Entities: [Ethan Coen (Director), Footloose (Song)]

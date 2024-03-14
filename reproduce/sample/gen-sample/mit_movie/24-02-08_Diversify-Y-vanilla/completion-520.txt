@@ -1,0 +1,8 @@
+1. "Can you recommend a highly rated comedy from 2013?"
+Named Entities: [highly rated (Viewers' Rating), comedy (Genre), 2013 (Year)]
+
+2. "I'm looking for a movie featuring a strong female lead, perhaps a princess or superhero"
+Named Entities: [strong female lead (Character), princess (Character), superhero (Character)]
+
+3. "Show me a trailer clip for the movie 'Inception'"
+Named Entities: [trailer clip (Trailer), Inception (Title)]

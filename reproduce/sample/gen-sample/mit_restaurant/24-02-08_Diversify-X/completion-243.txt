@@ -1,0 +1,8 @@
+1. "show me the nearest fast food restaurant by the waterfront"
+Named Entities: [nearest (Location), fast food (Cuisine), waterfront (Amenity)]
+
+2. "what are the hours for the fast food restaurant with a waterfront view?"
+Named Entities: [hours (Hours), fast food (Cuisine), waterfront (Amenity)]
+
+3. "recommend a fast food joint with a waterfront setting and affordable prices"
+Named Entities: [affordable prices (Price), fast food (Cuisine), waterfront (Amenity)]

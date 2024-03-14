@@ -1,0 +1,8 @@
+Sentence: "Euclid's Elements have been referred to as the most successful and influential textbook ever written."
+Named Entities: [Euclid (person)]
+
+Sentence: "The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1."
+Named Entities: [Fibonacci (person)]
+
+Sentence: "The International Mathematical Olympiad is a prestigious annual mathematics competition for high school students from around the world."
+Named Entities: [International Mathematical Olympiad (organization)]

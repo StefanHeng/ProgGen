@@ -1,0 +1,8 @@
+1. Query: "Can I see the new Spider-Man film tonight at the nearest theater?"
+   Named Entities: [Spider-Man (Title)]
+
+2. Query: "What movies are playing on Friday at the downtown cinema?"
+   Named Entities: [Friday (Day)]
+
+3. Query: "Are there any romantic comedies showing this weekend at the theaters near me?"
+   Named Entities: [romantic comedies (Genre), this weekend (Time)]

@@ -1,0 +1,8 @@
+Query: "who directed the movie footloose from 1980"
+Named Entities: [footloose (Title), 1980 (Year)]
+
+Query: "is there a movie about environmental issues with Amy Adams"
+Named Entities: [environmental (Genre), Amy Adams (Actor)]
+
+Query: "show me a movie where David Bowie and Justin Timberlake worked together"
+Named Entities: [David Bowie (Actor), Justin Timberlake (Actor)]

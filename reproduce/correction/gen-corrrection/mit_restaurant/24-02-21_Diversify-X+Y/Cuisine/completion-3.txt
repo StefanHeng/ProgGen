@@ -1,0 +1,8 @@
+1. Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Text Span: "Vegetarian options"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "paleo"
+Label: (A). Correct Entity Annotation.

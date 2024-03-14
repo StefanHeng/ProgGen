@@ -1,0 +1,8 @@
+1. Text Span: "latest"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "classic Hollywood movies from the 1950s"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+3. Text Span: "latest"
+Label: (D). Not a Named Entity.

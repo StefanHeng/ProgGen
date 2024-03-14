@@ -1,0 +1,8 @@
+Query: "Can you recommend a top-rated fine dining restaurant in the downtown area?"
+Named Entities: [top-rated (Rating), fine dining (Cuisine), downtown area (Location)]
+
+Query: "What are the operating hours for the best fine dining eatery in the city center?"
+Named Entities: [operating hours (Hours), best (Rating), fine dining (Cuisine), city center (Location)]
+
+Query: "I'm looking for a high-end restaurant with a diverse menu in the fancy part of town."
+Named Entities: [high-end (Price), diverse menu (Amenity), fancy part of town (Location)]

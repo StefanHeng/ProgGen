@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the PG-rated movie Moonlight released in 2006?"
+Named Entities: [Moonlight (Title), 2006 (Year), PG (MPAA Rating), plot (Plot)]
+
+2. "Who directed the PG-rated movie Moonlight, and what year was it released?"
+Named Entities: [Moonlight (Title), director (Director), PG (MPAA Rating), 2006 (Year)]
+
+3. "I'm looking for a movie with a PG rating released in 2006, can you recommend one with a romantic genre?"
+Named Entities: [2006 (Year), PG (MPAA Rating), romantic (Genre)]

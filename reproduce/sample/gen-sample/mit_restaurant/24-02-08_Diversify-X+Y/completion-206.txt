@@ -1,0 +1,8 @@
+Query: "Can you recommend a formal dining place for late-night dining in the area, maybe something like Applebee's?"
+Named Entities: [formal (Amenity), late-night dining (Amenity), Applebee's (Restaurant Name)]
+
+Query: "I'm looking for a late-night dining spot with a formal atmosphere, possibly a local restaurant."
+Named Entities: [late-night dining (Amenity), formal (Amenity), local (Restaurant Name)]
+
+Query: "Where can I find a formal restaurant open for late-night dining? Maybe something like Applebee's."
+Named Entities: [formal (Amenity), late-night dining (Amenity), Applebee's (Restaurant Name)]

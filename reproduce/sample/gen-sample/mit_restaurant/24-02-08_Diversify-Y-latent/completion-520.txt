@@ -1,0 +1,8 @@
+1. "I'm hungry and on a budget. Can you recommend a place with Takeout deals for around $15 or less?"
+Named Entities: [Takeout deals (Amenity), around $15 or less (Price)]
+
+2. "I'm craving sushi. Is there a good sushi restaurant with high ratings nearby?"
+Named Entities: [sushi (Cuisine), high ratings (Rating), nearby (Location)]
+
+3. "I need a quick bite. Where can I find a place that serves tacos and is open past midnight?"
+Named Entities: [tacos (Dish), open past midnight (Hours)]

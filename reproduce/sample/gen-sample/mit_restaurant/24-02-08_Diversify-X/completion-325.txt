@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food spot with a 4-star rating for burgers?"
+Named Entities: [fast food (Cuisine), 4-star (Rating), burgers (Dish)]
+
+2. "I'm craving some cheap fast food, where can I find a place with meals under $5?"
+Named Entities: [cheap (Price), fast food (Cuisine), under $5 (Price)]
+
+3. "What are the hours for the closest Taco Bell?"
+Named Entities: [closest (Location), Taco Bell (Restaurant Name), hours (Hours)]

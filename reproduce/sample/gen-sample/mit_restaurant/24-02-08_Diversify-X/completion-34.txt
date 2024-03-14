@@ -1,0 +1,8 @@
+Query: "Can you recommend any Italian restaurants with outdoor seating for dinner?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), dinner (Hours)]
+
+Query: "I'm looking for a steakhouse with a high rating and a location near downtown for dinner tonight."
+Named Entities: [steakhouse (Cuisine), high rating (Rating), downtown (Location), dinner (Hours)]
+
+Query: "What are the hours of operation for the nearest seafood restaurant open for dinner?"
+Named Entities: [seafood (Cuisine), hours of operation (Hours), dinner (Hours)]

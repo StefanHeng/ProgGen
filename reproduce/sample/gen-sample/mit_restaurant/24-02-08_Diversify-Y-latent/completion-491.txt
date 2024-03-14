@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood restaurant with a waterfront view?"
+Named Entities: [seafood (Cuisine), waterfront (Amenity)]
+
+2. "What time does the Italian place in downtown close tonight?"
+Named Entities: [Italian (Cuisine), downtown (Location), tonight (Hours)]
+
+3. "I'm in the mood for some authentic sushi. Where's the best Japanese restaurant in town?"
+Named Entities: [sushi (Dish), best (Rating), Japanese (Cuisine), town (Location)]

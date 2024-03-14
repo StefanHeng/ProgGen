@@ -1,0 +1,8 @@
+1. Query: "Can I watch the movie Inception on Netflix right now?"
+Named Entities: [Inception (Title), Netflix (Streaming platform)]
+
+2. Query: "Is there a way to stream the film Avatar online?"
+Named Entities: [Avatar (Title), online (Streaming platform)]
+
+3. Query: "Where can I find the movie Interstellar to watch?"
+Named Entities: [Interstellar (Title)]

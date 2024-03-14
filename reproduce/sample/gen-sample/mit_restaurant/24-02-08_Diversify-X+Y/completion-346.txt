@@ -1,0 +1,8 @@
+Query: "I'm looking for a Thai restaurant that serves dinner"
+Named Entities: [Thai (Cuisine), dinner (Amenity)]
+
+Query: "What are the business hours for Cheesecake Factory?"
+Named Entities: [Cheesecake Factory (Restaurant Name), Business hours (Hours)]
+
+Query: "Where can I find a dine-in restaurant like El Torito?"
+Named Entities: [dine-in (Amenity), El Torito (Restaurant Name)]

@@ -1,0 +1,8 @@
+1. "What movie features the song I Will Follow Him?"
+Named Entities: [I Will Follow Him (Song)]
+
+2. "Who directed the science fiction movie with James T. Kirk as one of the characters?"
+Named Entities: [James T. Kirk (Character), science fiction (Genre)]
+
+3. "Can you recommend a hip hop movie directed by Ryan Coogler?"
+Named Entities: [hip hop (Genre), Ryan Coogler (Director)]

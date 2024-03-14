@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie directed by Richard Attenborough and featuring Mr. Bean?"
+Named Entities: [Richard Attenborough (Director), Mr. Bean (Character)]
+
+Query: "Show me a film that is emotionally powerful and has won multiple awards"
+Named Entities: [emotionally powerful (Review)]
+
+Query: "Which movie from the 1990s has an action-packed plot and was directed by James Cameron?"
+Named Entities: [1990s (Year), action-packed (Plot), James Cameron (Director)]

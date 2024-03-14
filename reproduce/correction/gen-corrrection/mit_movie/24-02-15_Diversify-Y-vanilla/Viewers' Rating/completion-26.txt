@@ -1,0 +1,8 @@
+1. Text Span: "viewers' rating"
+   Label: (D). Not a Named Entity.
+
+2. Text Span: "high viewers' rating"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "viewers' rating"
+   Label: (D). Not a Named Entity.

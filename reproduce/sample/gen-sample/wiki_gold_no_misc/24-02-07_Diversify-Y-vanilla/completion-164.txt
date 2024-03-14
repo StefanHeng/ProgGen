@@ -1,0 +1,8 @@
+1. "The company's headquarters is located in downtown Chicago."
+Named Entities: [Chicago (location)]
+
+2. "She joined the board of directors in 2015 and has been actively involved in company decisions."
+Named Entities: []
+
+3. "The investigation was conducted with the assistance of [International Criminal Police Organization (INTERPOL)]."
+Named Entities: [International Criminal Polic Organization (INTERPOL)]

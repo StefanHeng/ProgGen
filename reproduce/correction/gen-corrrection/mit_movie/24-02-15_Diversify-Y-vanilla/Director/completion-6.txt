@@ -1,0 +1,11 @@
+1. Query: "Can you provide me with the trailer for the 1994 movie directed by {{Luc Besson}}?"
+Text Span: "Luc Besson"
+Label: (A). The span is a named entity of type director
+
+2. Query: "What is the genre of the 1973 movie directed by {{Taylor Sheridan}} called The Hurt Locker?"
+Text Span: "Taylor Sheridan"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Director
+
+3. Query: "Show me the trailer for the new action movie directed by {{Kathryn Bigelow}}"
+Text Span: "Kathryn Bigelow"
+Label: (A). The span is a named entity of type director

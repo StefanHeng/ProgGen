@@ -1,0 +1,8 @@
+1. Text Span: "Sci-fi thriller"
+Label: (B). Wrong Boundary. The correct span boundary is "Sci-fi thriller"
+
+2. Text Span: "letter 'U'"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+3. Text Span: "action film"
+Label: (A). Correct Entity Annotation.

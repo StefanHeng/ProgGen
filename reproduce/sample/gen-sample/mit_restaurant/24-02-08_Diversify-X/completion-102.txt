@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food joint with a senior discount?"
+Named Entities: [fast food (Cuisine), senior discount (Amenity)]
+
+2. "I'm craving a burger, where's the nearest burger joint?"
+Named Entities: [burger (Dish), nearest (Location)]
+
+3. "What's the best place to grab some coffee and a quick bite?"
+Named Entities: [coffee (Cuisine), quick bite (Amenity)]

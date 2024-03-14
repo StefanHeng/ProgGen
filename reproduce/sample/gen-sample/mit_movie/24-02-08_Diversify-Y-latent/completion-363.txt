@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie featuring the character Buffy Summers?"
+   Named Entities: [Buffy Summers (Character)]
+
+2. Query: "I'm interested in a movie related to punk rock rebellion, preferably directed by E."
+   Named Entities: [Punk rock rebellion (Genre), E (Director)]
+
+3. Query: "Is Kate Beckinsale in any highly-rated historical films?"
+   Named Entities: [Kate Beckinsale (Actor), historical (Genre), highly-rated (Viewers' Rating)]

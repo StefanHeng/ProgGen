@@ -1,0 +1,8 @@
+1. "Can you recommend any late-night eats with unbeatable reviews?"
+Named Entities: [late-night eats (Amenity), Unbeatable reviews (Rating)]
+
+2. "I'm looking for a restaurant with a great menu for happy hour. Where's the closest one?"
+Named Entities: [great (Rating), happy hour (Amenity), closest (Location)]
+
+3. "I need to find a place for dinner that serves authentic Italian cuisine at a reasonable price."
+Named Entities: [dinner (Amenity), authentic Italian cuisine (Cuisine), reasonable price (Price)]

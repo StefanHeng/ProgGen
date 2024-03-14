@@ -1,0 +1,8 @@
+1. Text Span: "high rating"
+Label: (A). The span is a named entity of type rating
+
+2. Text Span: "good reputation"
+Label: (C). Wrong Type. The correct entity type is Rating.
+
+3. Text Span: "4 stars"
+Label: (A). The span is a named entity of type rating

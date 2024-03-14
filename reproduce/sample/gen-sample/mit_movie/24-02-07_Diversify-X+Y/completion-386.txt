@@ -1,0 +1,8 @@
+1. "Could you provide me with the director's commentary for the movie The Bodyguard?"
+Named Entities: [Director's commentary (Review), The Bodyguard (Title)]
+
+2. "Show me a behind-the-scenes analysis of the production process for the PG-rated movie directed by the cinematographer of The Bodyguard."
+Named Entities: [PG (MPAA Rating), cinematographer (Director), The Bodyguard (Title)]
+
+3. "What costumes were used in the making of the movie directed by the same director of The Bodyguard?"
+Named Entities: [costumes (Plot), The Bodyguard (Title), Director (Director)]

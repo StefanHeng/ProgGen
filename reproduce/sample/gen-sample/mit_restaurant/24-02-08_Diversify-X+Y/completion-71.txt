@@ -1,0 +1,8 @@
+Query: "Can you recommend any buffet restaurants for pescatarians near The World's 50 Best Restaurants?"
+Named Entities: [buffet (Amenity), pescatarians (Dietary restriction), The World's 50 Best Restaurants (Location)]
+
+Query: "What are the buffet options for pescatarians at Shoney's?"
+Named Entities: [buffet (Amenity), pescatarians (Dietary restriction), Shoney's (Restaurant Name)]
+
+Query: "I'm looking for a buffet restaurant suitable for pescatarians within walking distance of The World's 50 Best Restaurants."
+Named Entities: [buffet (Amenity), pescatarians (Dietary restriction), The World's 50 Best Restaurants (Location)]

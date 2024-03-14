@@ -1,0 +1,8 @@
+1. "I'm curious about the reviews for Terry Gilliam's films released between 2012 and 2015. Can you tell me the ratings for any of them?"
+Named Entities: [Terry Gilliam (Director), 2012-2015 (Year), reviews (Review)]
+
+2. "I'm not sure what to watch tonight, maybe something like A Clockwork Orange. Can you suggest any movies with a similar plot or theme?"
+Named Entities: [A Clockwork Orange (Title), similar plot or theme (Plot)]
+
+3. "I'm in the mood for an action-packed movie with an epic battle scene. Can you recommend any films like that starring Gwyneth Paltrow or featuring Tinker Bell?"
+Named Entities: [epic battle (Plot), Gwyneth Paltrow (Actor), Tinker Bell (Character)]

@@ -1,0 +1,8 @@
+1. "Can you recommend A captivating movie preview from 1975 with brilliant performances?"
+Named Entities: [A (Title), captivating (Viewers' Rating), movie preview (Trailer), 1975 (Year), brilliant performances (Review)]
+
+2. "Is Tyrion Lannister in the movie Singin' in the Rain?" 
+Named Entities: [Tyrion Lannister (Actor), Singin' in the Rain (Title)]
+
+3. "What type of movie genre is Approved for the film A?"
+Named Entities: [Approved (MPAA Rating), A (Title)]

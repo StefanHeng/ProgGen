@@ -1,0 +1,8 @@
+1. "I want to watch a movie that features Hugh Jackman as the main character."
+Named Entities: [Hugh Jackman (Actor)]
+
+2. "Can you recommend an art house film with Samuel L. Jackson in it?"
+Named Entities: [art house (Genre), Samuel L. Jackson (Actor)]
+
+3. "Show me a movie that is anything but unimpressive, and has the song 'Don't Stop Believin'."
+Named Entities: [unimpressive (Viewers' Rating), Don't Stop Believin' (Song)]

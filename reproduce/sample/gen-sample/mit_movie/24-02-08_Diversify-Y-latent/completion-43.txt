@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie with a 5-star rating that features a robot uprising"
+Named Entities: [5 stars (Viewers' Rating), robot uprising (Plot)]
+
+2. Query: "I am looking for a movie from the 90s directed by James Cameron"
+Named Entities: [90s (Year), James Cameron (Director)]
+
+3. Query: "show me a trailer for the latest sci-fi movie starring Tom Cruise"
+Named Entities: [trailer (Trailer), sci-fi (Genre), Tom Cruise (Actor)]

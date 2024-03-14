@@ -1,0 +1,8 @@
+1. "Can you recommend any late-night dining options nearby?"
+   Named Entities: [late-night dining (Amenity)]
+
+2. "I'm a 30s male doctor looking for a restaurant with late-night dining. Any suggestions?"
+   Named Entities: [late-night dining (Amenity)]
+
+3. "I'm a doctor in my 30s and I'm craving late-night food. What are some good options in the area?"
+   Named Entities: [late-night dining (Amenity)]

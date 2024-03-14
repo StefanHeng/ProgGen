@@ -1,0 +1,59 @@
+1. What are the best sushi places in the area?
+   Named Entities: [sushi (Cuisine)]
+
+2. Can you recommend a family-friendly restaurant with outdoor seating?
+   Named Entities: [family-friendly (Amenity), outdoor seating (Amenity)]
+
+3. Is there a BBQ joint nearby with a 5-star rating?
+   Named Entities: [BBQ (Cuisine), 5-star (Rating)]
+
+4. I'm craving some authentic Italian pizza, where can I find the best?
+   Named Entities: [Italian (Cuisine)]
+
+5. Show me restaurants with a waterfront view and live music.
+   Named Entities: [waterfront (Amenity), live music (Amenity)]
+
+6. Which place has the best happy hour deals in town?
+   Named Entities: [happy hour (Amenity)]
+
+7. Where can I find a vegan-friendly café?
+   Named Entities: [vegan-friendly (Amenity)]
+
+8. Recommend a restaurant with a good selection of craft beers.
+   Named Entities: [craft beers (Amenity)]
+
+9. I want to try some Korean BBQ, which place has good reviews?
+   Named Entities: [Korean BBQ (Cuisine)]
+
+10. Are there any 24-hour diners in the area?
+    Named Entities: [24-hour (Hours)]
+
+11. Suggest a Mexican restaurant that's reasonably priced.
+    Named Entities: [Mexican (Cuisine), reasonably priced (Price)]
+
+12. What's the best place for a romantic dinner in the city?
+    Named Entities: [romantic (Amenity)]
+
+13. Find me a hole-in-the-wall restaurant with amazing food.
+    Named Entities: [hole-in-the-wall (Amenity)]
+
+14. I need a coffee shop that opens before 7 am.
+    Named Entities: [before 7 am (Hours)]
+
+15. Show me inexpensive places to eat near the beach.
+    Named Entities: [inexpensive (Price), near the beach (Location)]
+
+16. Where's the nearest all-you-can-eat buffet?
+    Named Entities: [nearest (Location), all-you-can-eat (Amenity)]
+
+17. I'm looking for a steakhouse with a private dining room.
+    Named Entities: [steakhouse (Cuisine), private dining room (Amenity)]
+
+18. Which restaurants in the area offer gluten-free options?
+    Named Entities: [gluten-free (Amenity)]
+
+19. Any food trucks serving gourmet burgers in the vicinity?
+    Named Entities: [gourmet burgers (Dish)]
+
+20. Can you find a top-rated Indian restaurant nearby?
+    Named Entities: [Indian (Cuisine), top-rated (Rating)]

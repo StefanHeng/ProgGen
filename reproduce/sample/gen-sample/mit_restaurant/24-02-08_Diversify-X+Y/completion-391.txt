@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, can you recommend any Dunkin' Donuts nearby?"
+Named Entities: [fast food (Cuisine), Dunkin' Donuts (Restaurant Name)]
+
+2. "Where can I find a place that serves breakfast during afternoon hours?"
+Named Entities: [breakfast (Amenity), afternoon (Hours)]
+
+3. "I need to grab some food on the go, is there a Dunkin' Donuts with a drive-thru?"
+Named Entities: [fast food (Cuisine), Dunkin' Donuts (Restaurant Name), drive-thru (Amenity)]

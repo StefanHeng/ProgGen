@@ -1,0 +1,8 @@
+1. "I'm in the mood for Japanese cuisine, where can I find a good Japanese restaurant in this area?"
+Named Entities: [Japanese (Cuisine)]
+
+2. "What is the price range at The Toasted Table restaurant?"
+Named Entities: [The Toasted Table (Restaurant Name)]
+
+3. "I want to try authentic Mexican food tonight, can you recommend a highly-rated Mexican restaurant?"
+Named Entities: [authentic (Rating), Mexican (Cuisine)]

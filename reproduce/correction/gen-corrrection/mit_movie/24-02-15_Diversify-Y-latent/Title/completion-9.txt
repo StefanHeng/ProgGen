@@ -1,0 +1,11 @@
+1. Query: "can you show me a trailer for the latest {{Solid}} action movie"
+Text Span: "Solid"
+Label: (C). The span is a named entity but the category is not title. Entity Type: Genre
+
+2. Query: "Which movie that starts with the letter '{{A}}' has the highest viewers' rating?"
+Text Span: "A"
+Label: (D). Not a Named Entity
+
+3. Query: "What is the viewers' rating for the movie {{Bohemian Rhapsody}}?"
+Text Span: "Bohemian Rhapsody"
+Label: (A). The span is a named entity of type title

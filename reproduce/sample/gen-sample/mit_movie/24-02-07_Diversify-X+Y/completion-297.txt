@@ -1,0 +1,8 @@
+Spoken Query: "Can you tell me about the making of the movie 'The Godfather' directed by Francis Ford Coppola?"
+Named Entities: ['The Godfather' (Title), Francis Ford Coppola (Director)]
+
+Spoken Query: "I'm interested in learning more about the CGI and animation in the movie 'Beauty and the Beast'. Can you provide some behind-the-scenes details?"
+Named Entities: ['Beauty and the Beast' (Title), CGI and animation (Plot)]
+
+Spoken Query: "I'd like to know about Al Pacino's involvement in the making of the film 'Scent of a Woman'. Can you share some behind-the-scenes information?"
+Named Entities: ['Scent of a Woman' (Title), Al Pacino (Actor), behind-the-scenes (Plot)]

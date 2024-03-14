@@ -1,0 +1,10 @@
+
+
+Query: "Can you recommend a drama movie from 1996 with a musical montage featuring the song My Sharona?"
+Named Entities: [1996 (Year), Drama (Genre), Musical montage (Plot), My Sharona (Song)]
+
+Query: "Is there a movie from the 1800s with Alicia Keys' music in it?"
+Named Entities: [1800s (Year), Alicia Keys (Song)]
+
+Query: "Could you show me a musical film that includes the song My Sharona and is similar to Saturday Night Fever?"
+Named Entities: [musical film (Genre), My Sharona (Song), Saturday Night Fever (Title)]

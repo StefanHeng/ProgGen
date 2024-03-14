@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a movie with a soaring musical score that was released in the 2000s"
+   Named Entities: [soaring musical score (Plot), 2000s (Year)]
+
+2. Query: "What is the best satire movie featuring a sports rivalry?"
+   Named Entities: [satire (Genre), sports rivalry (Plot)]
+
+3. Query: "Can you recommend a James Bond film set in New York City?"
+   Named Entities: [James Bond (Title), New York City (Setting)]

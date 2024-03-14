@@ -1,0 +1,8 @@
+1. Text Span: "Prisoner"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Text Span: "Vladimir Putin"
+Label: (A)
+
+3. Text Span: "Simone Biles"
+Label: (A)

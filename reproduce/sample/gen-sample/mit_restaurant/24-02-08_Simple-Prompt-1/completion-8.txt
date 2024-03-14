@@ -1,0 +1,59 @@
+1. Can you recommend any Italian restaurants with outdoor seating?
+   Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+2. Where can I find a restaurant that serves vegetarian dishes?
+   Named Entities: [vegetarian (Dish)]
+
+3. What sushi places are open late tonight?
+   Named Entities: [sushi (Cuisine), open late (Hours)]
+
+4. I'm looking for a family-friendly Mexican restaurant with affordable prices.
+   Named Entities: [family-friendly (Amenity), Mexican (Cuisine), affordable prices (Price)]
+
+5. Find me a place with a high customer rating and a view of the water.
+   Named Entities: [high customer rating (Rating), view of the water (Amenity)]
+
+6. Which restaurant offers a Sunday brunch buffet?
+   Named Entities: [Sunday brunch (Amenity)]
+
+7. Can I get the phone number for Olive Garden?
+   Named Entities: [Olive Garden (Restaurant Name)]
+
+8. Where can I get a good bowl of ramen in town?
+   Named Entities: [ramen (Dish)]
+
+9. Find us a sports bar with multiple big-screen TVs for the game tonight.
+   Named Entities: [sports bar (Amenity), big-screen TVs (Amenity)]
+
+10. I need a place to eat that is within walking distance and has outdoor seating.
+   Named Entities: [walking distance (Location), outdoor seating (Amenity)]
+
+11. Can you suggest any Thai restaurants with a vegan menu?
+   Named Entities: [Thai (Cuisine), vegan menu (Amenity)]
+
+12. Is there a 24-hour diner in the area with affordable prices?
+   Named Entities: [24-hour (Hours), affordable prices (Price)]
+
+13. What are the top-rated restaurants in the city?
+   Named Entities: [top-rated (Rating)]
+
+14. I'm craving some authentic Indian cuisine. Can you recommend a place?
+   Named Entities: [authentic (Amenity), Indian (Cuisine)]
+
+15. Which restaurant has the best happy hour specials?
+   Named Entities: [best (Rating), happy hour (Amenity)]
+
+16. Do you know of any Chinese buffets that are open for lunch?
+   Named Entities: [Chinese (Cuisine), buffets (Amenity), open for lunch (Hours)]
+
+17. Where can I find a steakhouse with a good wine selection?
+   Named Entities: [steakhouse (Cuisine), good wine selection (Amenity)]
+
+18. I'm in the mood for some seafood. Any recommendations?
+   Named Entities: [seafood (Cuisine)]
+
+19. Can you find a French bistro with live music for tonight?
+   Named Entities: [French (Cuisine), bistro (Amenity), live music (Amenity)]
+
+20. What's the best place to get a burger and fries in this neighborhood?
+   Named Entities: [best (Rating), burger and fries (Dish), this neighborhood (Location)]

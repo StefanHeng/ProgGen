@@ -1,0 +1,8 @@
+1. Text Span: "provocative musical choices"
+   Label: (A). Named Entity of type Review
+
+2. Text Span: "remarkable"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Text Span: "abysmal"
+   Label: (A). Named Entity of type Review

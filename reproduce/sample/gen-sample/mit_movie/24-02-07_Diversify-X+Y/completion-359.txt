@@ -1,0 +1,8 @@
+1. Spoken query: "Can I watch the trailer for any movie released between 2010 and 2015?"
+   Named Entities: [2010-2015 (Year)]
+
+2. Spoken query: "Is there a movie with Jon Snow in it and a teaser that includes the song Unchained Melody?"
+   Named Entities: [Jon Snow (Character), Unchained Melody (Song)]
+
+3. Spoken query: "I'm in the mood for a movie with the GP rating and a teaser featuring the song Eye to Eye or Stayin' Alive."
+   Named Entities: [GP (MPAA Rating), Eye to Eye (Song), Stayin' Alive (Song)]

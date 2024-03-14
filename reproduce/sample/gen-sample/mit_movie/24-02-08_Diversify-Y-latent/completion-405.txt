@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the genre of the movie Predator directed by John McTiernan in 1987?"
+   Named Entities: [Predator (Title), John McTiernan (Director), 1987 (Year), Genre]
+
+2. Query: "I'm looking for a movie from 1975 with the character Groot, can you help me find it?"
+   Named Entities: [1975 (Year), Groot (Character)]
+
+3. Query: "Do you have any clips of the film Desperado, directed by Robert Rodriguez in 1995?"
+   Named Entities: [Desperado (Title), Robert Rodriguez (Director), 1995 (Year), Clip]

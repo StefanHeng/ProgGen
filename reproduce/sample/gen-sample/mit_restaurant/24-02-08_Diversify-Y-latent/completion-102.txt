@@ -1,0 +1,8 @@
+1. "Do you know any restaurants in the area that offer catering services?"
+Named Entities: [restaurants (Amenity), catering services (Amenity), area (Location)]
+
+2. "I'm looking for a restaurant with free Wi-Fi and a diverse menu."
+Named Entities: [restaurant (Amenity), free Wi-Fi (Amenity), diverse menu (Cuisine)]
+
+3. "Can you recommend a family-friendly restaurant with outdoor seating?"
+Named Entities: [family-friendly (Amenity), restaurant (Amenity), outdoor seating (Amenity)]

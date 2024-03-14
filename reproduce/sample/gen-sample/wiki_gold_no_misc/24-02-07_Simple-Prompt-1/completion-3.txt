@@ -1,0 +1,29 @@
+1. The United States is a founding member of the United Nations, World Bank, International Monetary Fund, Organization of American States, NATO, and other international organizations.
+Named Entities: [United States (location), United Nations (organization), World Bank (organization), International Monetary Fund (organization), Organization of American States (organization), NATO (organization)]
+
+2. The novel was written by British author J.K. Rowling and published in 1997.
+Named Entities: [J.K. Rowling (person), British (location)]
+
+3. He founded the electric car company Tesla, Inc. and the rocket company SpaceX.
+Named Entities: [Tesla, Inc. (organization), SpaceX (organization)]
+
+4. London is the capital and largest city of England and the United Kingdom.
+Named Entities: [London (location), England (location), United Kingdom (location)]
+
+5. The film stars actors Leonardo DiCaprio and Kate Winslet.
+Named Entities: [Leonardo DiCaprio (person), Kate Winslet (person)]
+
+6. She attended Harvard University and is now the CEO of a tech startup.
+Named Entities: [Harvard University (organization)]
+
+7. The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Named Entities: [Grand Canyon (location), Colorado River (location), Arizona (location), United States (location)]
+
+8. The organization was founded by environmental activist Jane Goodall in 1977.
+Named Entities: [Jane Goodall (person)]
+
+9. The company announced a new partnership with the World Health Organization to combat infectious diseases.
+Named Entities: [World Health Organization (organization)]
+
+10. The author of the article, Dr. John Smith, is a leading expert in the field of neuroscience.
+Named Entities: [John Smith (person), neuroscience (organization)]

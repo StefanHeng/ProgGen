@@ -1,0 +1,8 @@
+1. "Show me a cyberpunk movie released in the year 2000"
+Named Entities: [cyberpunk (Genre), 2000 (Year)]
+
+2. "What is the viewers' rating for The Sound of Silence?"
+Named Entities: [The Sound of Silence (Title), viewers' rating (Viewers' Rating)]
+
+3. "Can you recommend an unrated action movie directed by John Woo?"
+Named Entities: [unrated (MPAA Rating), action (Genre), John Woo (Director)]

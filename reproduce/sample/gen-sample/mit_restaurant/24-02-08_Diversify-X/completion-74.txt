@@ -1,0 +1,8 @@
+Query: "show me a breakfast spot with high ratings in this area"
+Named Entities: [breakfast (Cuisine), high ratings (Rating), this area (Location)]
+
+Query: "what restaurants near me serve breakfast before 8 am"
+Named Entities: [breakfast (Cuisine), before 8 am (Hours), near me (Location)]
+
+Query: "can you recommend a breakfast place with a reasonable price"
+Named Entities: [breakfast (Cuisine), reasonable price (Price)]

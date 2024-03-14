@@ -1,0 +1,8 @@
+Query: "Can you recommend a film in the horror genre that falls under the supernatural subgenre"
+Named Entities: [horror (Genre), supernatural (Subgenre)]
+
+Query: "I'm looking for a science fiction movie with cyberpunk elements, can you suggest one"
+Named Entities: [science fiction (Genre), cyberpunk (Subgenre)]
+
+Query: "What are some of the top action movies with martial arts as the main subgenre"
+Named Entities: [action (Genre), martial arts (Subgenre)]

@@ -1,0 +1,11 @@
+1. Sentence: "Exhibit featuring artifacts from Edmund Hillary's historic Everest expedition opens at {{National Geographic}} museum."
+Text Span: "National Geographic"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Angela Merkel calls for unity among {{European leaders}} in addressing the refugee crisis."
+Text Span: "European leaders"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+3. Sentence: "President Biden announces partnership with {{Pfizer}} for COVID-19 vaccine distribution."
+Text Span: "Pfizer"
+Label: (A). The span is a named entity of type organization

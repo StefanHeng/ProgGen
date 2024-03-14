@@ -1,0 +1,8 @@
+Query: "What are the happy hour times for sushi world?"
+Named Entities: [sushi world (Restaurant Name), happy hour times (Amenity)]
+
+Query: "I'm in the mood for some Italian food, where can I find a good pizza place in the area?"
+Named Entities: [Italian (Cuisine), pizza (Dish), area (Location)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a view of the sunset?"
+Named Entities: [outdoor seating (Amenity), view of the sunset (Amenity)]

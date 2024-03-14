@@ -1,0 +1,8 @@
+Query: "I'm looking for a spot serving a delicious brunch with low-carb options"
+Named Entities: [brunch (Amenity), low-carb (Cuisine)]
+
+Query: "show me a restaurant with a great rating for their brunch menu"
+Named Entities: [great rating (Rating), brunch (Amenity)]
+
+Query: "where can I find a brunch place with healthy, low-carb choices"
+Named Entities: [healthy (Cuisine), low-carb (Cuisine), brunch (Amenity)]

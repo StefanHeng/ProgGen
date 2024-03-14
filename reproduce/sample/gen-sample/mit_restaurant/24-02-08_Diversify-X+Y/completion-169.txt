@@ -1,0 +1,8 @@
+Query: "Where can I find a bar that serves breakfast before 9 am?"
+Named Entities: [bar (Amenity), breakfast (Cuisine), before 9 am (Hours)]
+
+Query: "I'm craving pancakes and a mimosa, is there a restaurant bar nearby that offers them for breakfast?"
+Named Entities: [pancakes (Dish), mimosa (Dish), restaurant bar (Restaurant Name), nearby (Location), breakfast (Cuisine)]
+
+Query: "Which bar in the area has a good breakfast menu and opens early?"
+Named Entities: [bar (Amenity), good (Rating), breakfast (Cuisine), opens early (Hours)]

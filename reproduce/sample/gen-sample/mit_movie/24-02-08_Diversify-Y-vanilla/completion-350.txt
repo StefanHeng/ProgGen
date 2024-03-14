@@ -1,0 +1,8 @@
+1. "What is the genre of the movie The Irishman that came out in 1968?"
+Named Entities: [The Irishman (Title), 1968 (Year)]
+
+2. "What is the MPAA rating of the movie directed by Mark Joffe and starring Matt Damon?"
+Named Entities: [Mark Joffe (Director), Matt Damon (Actor), PG-14 (MPAA Rating)]
+
+3. "Can you recommend a movie with a 4-star rating?"
+Named Entities: [4-star rating (Viewers' Rating)]

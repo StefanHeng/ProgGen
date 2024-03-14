@@ -1,0 +1,5 @@
+{"sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.", "entity_span": "Harper Lee", "label": "CORRECT"}
+{"sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.", "entity_span": "Dr. James E. Webb", "label": "WRONG_SPAN", "correct_span": "James E. Webb"}
+{"sentence": "The ancient Greek myth of Orpheus and Eurydice has been retold in countless plays, operas, and films.", "entity_span": "Eurydice", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "Hera is often depicted as the queen of the gods in Greek mythology, and is the wife and sister of Zeus.", "entity_span": "Zeus", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "She is a well-known environmental activist and has spoken at numerous international conferences on climate change.", "entity_span": "environmental activist", "label": "NA"}

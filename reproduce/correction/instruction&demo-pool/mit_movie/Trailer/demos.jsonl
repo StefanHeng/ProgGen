@@ -1,0 +1,2 @@
+{"sentence": "Can you show me the trailer for the movie \"The Matrix\"?", "entity_span": "trailer", "label": "CORRECT"}
+{"sentence": "Can you play the movie clip where Yoda gives his famous advice to Luke Skywalker?", "entity_span": "movie clip", "label": "WRONG_SPAN", "correct_span": "clip"}

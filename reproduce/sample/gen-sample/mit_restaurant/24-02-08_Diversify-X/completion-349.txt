@@ -1,0 +1,8 @@
+1. Query: "can you recommend a restaurant nearby with a good selection of seafood for lunch"
+   Named Entities: [seafood (Cuisine), lunch (Amenity)]
+
+2. Query: "what is the nearest place with a high rating that serves vegetarian-friendly lunch options"
+   Named Entities: [vegetarian-friendly (Amenity), high rating (Rating), lunch (Amenity)]
+
+3. Query: "i'm looking for a restaurant with outdoor seating that offers a variety of fish dishes for lunch"
+   Named Entities: [outdoor seating (Amenity), variety of fish dishes (Dish), lunch (Amenity)]

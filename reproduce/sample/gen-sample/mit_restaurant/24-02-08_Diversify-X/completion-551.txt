@@ -1,0 +1,8 @@
+Query: "show me the nearest food truck serving tacos"
+Named Entities: [nearest (Location), tacos (Dish), food truck (Amenity)]
+
+Query: "what food trucks offer vegan options in the downtown area"
+Named Entities: [vegan options (Cuisine), downtown area (Location), food trucks (Amenity)]
+
+Query: "which food truck has the highest rating for their BBQ dishes"
+Named Entities: [highest rating (Rating), BBQ dishes (Cuisine), food truck (Amenity) ]

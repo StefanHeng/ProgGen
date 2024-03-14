@@ -1,0 +1,8 @@
+Sentence: "The Catholic Church is the largest non-government provider of education and health care in the world."
+Named Entities: [Catholic Church (organization)]
+
+Sentence: "The pilgrimage to Mecca, known as the Hajj, is one of the Five Pillars of Islam."
+Named Entities: [Mecca (location)]
+
+Sentence: "The Dalai Lama is considered to be the spiritual leader of the Tibetan people."
+Named Entities: [Dalai Lama (person), Tibetan (location)]

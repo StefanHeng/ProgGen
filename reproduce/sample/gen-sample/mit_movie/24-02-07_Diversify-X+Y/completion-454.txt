@@ -1,0 +1,8 @@
+1. "Can you tell me who directed the movie American Psycho with Patrick Bateman?"
+Named Entities: [American Psycho (Title), Patrick Bateman (Character), directed (Director)]
+
+2. "I'm feeling down, please recommend a movie where Patrick Bateman is the main character."
+Named Entities: [Patrick Bateman (Character), recommend (Viewers' Rating)]
+
+3. "I need to watch a movie starring Patrick Bateman. Can you suggest one directed by Mary Harron?"
+Named Entities: [Patrick Bateman (Character), directed (Director), Mary Harron (Director)]

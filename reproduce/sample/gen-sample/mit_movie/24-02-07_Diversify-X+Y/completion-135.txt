@@ -1,0 +1,8 @@
+1. Query: "Can you tell me who directed the historical reenactment film set in the 1960s?"
+Named Entities: [historical reenactment (Genre), 1960s (Year), Director]
+
+2. Query: "Show me a movie about a midlife crisis that features the actor from Assassin's Creed."
+Named Entities: [midlife crisis (Plot), Assassin's Creed (Title), Actor]
+
+3. Query: "What movie is Annie known for, and who directed it?"
+Named Entities: [Annie (Title), Director]

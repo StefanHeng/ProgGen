@@ -1,0 +1,8 @@
+Query: "show me the nearest food truck with mexican cuisine"
+Named Entities: [nearest (Location), food truck (Amenity), mexican (Cuisine)]
+
+Query: "what's the best affordable food truck for burgers in the area"
+Named Entities: [best (Rating), affordable (Price), food truck (Amenity), burgers (Cuisine), area (Location)]
+
+Query: "which food truck serves vegan dishes and is open past 9 pm"
+Named Entities: [vegan (Cuisine), past 9 pm (Hours), food truck (Amenity)]

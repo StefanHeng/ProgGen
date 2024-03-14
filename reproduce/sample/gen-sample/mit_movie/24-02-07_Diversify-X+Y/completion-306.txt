@@ -1,0 +1,8 @@
+1. "Yo, where can I find the red band trailer for that new horror flick?"
+Named Entities: [red band trailer (Trailer), horror (Genre)]
+
+2. "Hey, I heard there's an extended cut of that superhero movie - where can I watch it?"
+Named Entities: [extended cut (Trailer), superhero (Genre)]
+
+3. "I'm looking for a GP movie with some breathtaking action scenes - got any recommendations?"
+Named Entities: [GP (MPAA Rating), breathtaking (Plot)]

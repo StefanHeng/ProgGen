@@ -1,0 +1,8 @@
+1. Query: "Hey, what's the latest comedy that's playing in theaters right now?"
+Named Entities: [latest comedy (Genre)]
+
+2. Query: "Can you tell me if there are any action movies from the 90s showing at the theater nearby?"
+Named Entities: [action movies (Genre), 90s (Year)]
+
+3. Query: "Is there a drama film directed by Christopher Nolan that I can watch this weekend?"
+Named Entities: [drama (Genre), Christopher Nolan (Director), this weekend (Viewers' Rating)]

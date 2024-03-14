@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining venue with outdoor seating for this evening?"
+Named Entities: [fine dining (Cuisine), outdoor seating (Amenity), this evening (Hours)]
+
+2. "I'm looking for a high-end restaurant with a patio. Any suggestions?"
+Named Entities: [high-end (Price), restaurant (Amenity), patio (Amenity)]
+
+3. "Where can I find an upscale dining spot with al fresco dining options?"
+Named Entities: [upscale (Price), dining spot (Amenity), al fresco dining (Amenity)]

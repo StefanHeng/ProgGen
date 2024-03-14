@@ -1,0 +1,8 @@
+1. "Can you recommend any affordable brunch places with chef's specials?"
+Named Entities: [Affordable brunch places (Price), chef's specials (Amenity)]
+
+2. "I'm looking for brunch establishments with glowing reviews, preferably offering Cajun cuisine."
+Named Entities: [brunch establishments (Amenity), glowing reviews (Rating), Cajun (Cuisine)]
+
+3. "Where can I find a restaurant that serves Cajun dishes for brunch, with chef's specials?"
+Named Entities: [Cajun (Cuisine), brunch (Amenity), chef's specials (Amenity)]

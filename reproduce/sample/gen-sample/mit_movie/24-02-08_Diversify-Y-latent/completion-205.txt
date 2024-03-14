@@ -1,0 +1,8 @@
+1. "Can you tell me the year when the movie 'The Notebook' starring Rachel McAdams was released?"
+Named Entities: ['The Notebook' (Title), Rachel McAdams (Actor)]
+
+2. "I'm looking for a movie directed by Mark Waters that features Jennifer Aniston in a leading role."
+Named Entities: [Mark Waters (Director), Jennifer Aniston (Actor)]
+
+3. "Could you recommend a movie with the song 'How Far I'll Go' in its soundtrack?"
+Named Entities: ['How Far I'll Go' (Song)]

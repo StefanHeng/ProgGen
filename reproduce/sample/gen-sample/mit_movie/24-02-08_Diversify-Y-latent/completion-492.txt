@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the movie Elastigirl?"
+Named Entities: [Elastigirl (Title), trailer (Trailer)]
+
+2. "Has Vin Diesel starred in any action movies with a remarkable casting?"
+Named Entities: [Vin Diesel (Actor), action (Genre), remarkable casting (Viewers' Rating)]
+
+3. "What was the director's vision for the cast in the film released in 1968?"
+Named Entities: [director's vision for the cast (Director), 1968 (Year)]

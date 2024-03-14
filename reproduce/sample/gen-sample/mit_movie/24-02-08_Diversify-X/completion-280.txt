@@ -1,0 +1,8 @@
+Query: "What movie is currently playing in theaters near me"
+Named Entities: [theaters, near me (Location)]
+
+Query: "Can I buy tickets for the movie Casablanca at 7pm tonight?"
+Named Entities: [Casablanca (Title), 7pm tonight (Time)]
+
+Query: "Do you have any information on the movie Inception's showtimes this weekend?"
+Named Entities: [Inception (Title), this weekend (Time)]

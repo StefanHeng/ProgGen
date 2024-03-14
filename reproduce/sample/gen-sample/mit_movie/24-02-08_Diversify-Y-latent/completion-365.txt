@@ -1,0 +1,8 @@
+1. Query: "I heard Steven Soderbergh directed a new film, can I see a preview?"
+   Named Entities: [Steven Soderbergh (Director), preview (Trailer)]
+
+2. Query: "Is White Christmas a classic holiday movie from the 1950s?"
+   Named Entities: [White Christmas (Title), 1950s (Year), classic holiday (Genre)]
+
+3. Query: "Are there any action movies with a soundtrack featuring the song Eye of the Tiger?"
+   Named Entities: [action (Genre), Eye of the Tiger (Song)]

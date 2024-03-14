@@ -1,0 +1,8 @@
+1. Query: "What is the best Western movie released in 2007"
+   Named Entities: [2007 (Year), Western (Genre)]
+
+2. Query: "I want to watch an animation musical with the song All You Need Is Love"
+   Named Entities: [All You Need Is Love (Song), Animation musical (Genre)]
+
+3. Query: "Can you recommend a movie directed by Mark Joffe that is suitable for kids"
+   Named Entities: [Mark Joffe (Director), kids (Viewers' Rating)]

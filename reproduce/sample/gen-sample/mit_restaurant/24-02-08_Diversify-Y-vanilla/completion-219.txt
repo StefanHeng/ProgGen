@@ -1,0 +1,8 @@
+Query: "What are some surrounding area restaurants with outdoor seating and a view?"
+Named Entities: [Surrounding area (Location), outdoor seating (Amenity), view (Amenity)]
+
+Query: "I'm craving spicy food, can you suggest any nearby Indian restaurants?"
+Named Entities: [spicy food (Cuisine), nearby (Location), Indian (Cuisine)]
+
+Query: "Is there a place with live music and a high rating in the surrounding area?"
+Named Entities: [live music (Amenity), high rating (Rating), surrounding area (Location)]

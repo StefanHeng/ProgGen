@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a restaurant with outdoor seating and a view of the ocean for {{lunch}} today?"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "What cafés in this area have a good selection of dishes for {{lunch}} and are known for their cozy atmosphere"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Do you know any Cajun restaurants open {{early}} for breakfast?"
+Text Span: "early"
+Label: (A). Correct Entity Annotation.

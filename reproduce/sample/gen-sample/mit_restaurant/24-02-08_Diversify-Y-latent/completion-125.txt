@@ -1,0 +1,8 @@
+Query: "Where is [The Late Night Hangout] located?"
+Named Entities: [The Late Night Hangout (Restaurant Name), located (Location)]
+
+Query: "What type of cuisine does [The Late Night Hangout] serve?"
+Named Entities: [The Late Night Hangout (Restaurant Name), cuisine (Amenity)]
+
+Query: "Can I see [The Late Night Hangout]'s menu and prices?"
+Named Entities: [The Late Night Hangout (Restaurant Name), menu and prices (Amenity)]

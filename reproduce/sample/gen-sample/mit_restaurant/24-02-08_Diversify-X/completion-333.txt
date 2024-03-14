@@ -1,0 +1,8 @@
+1. "I'm looking for a food truck that offers tasting menus"
+   Named Entities: [food truck (Amenity), tasting menus (Amenity)]
+
+2. "Where can I find a food truck with a variety of international cuisines for their tasting menus"
+   Named Entities: [food truck (Amenity), international cuisines (Cuisine), tasting menus (Amenity)]
+
+3. "Is there a food truck nearby that serves unique dishes on their tasting menus"
+   Named Entities: [food truck (Amenity), unique dishes (Dish), tasting menus (Amenity)]

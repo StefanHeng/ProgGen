@@ -1,0 +1,8 @@
+1. "Can you recommend a bar with a great selection of appetizers?"
+   Named Entities: [bar (Amenity), great selection of appetizers (Dish)]
+
+2. "I'm craving some authentic Italian cuisine, where can I find a good Italian restaurant open late?"
+   Named Entities: [Italian cuisine (Cuisine), open late (Hours), Italian restaurant (Restaurant Name)]
+
+3. "I want to have a nice dinner without breaking the bank, can you suggest a restaurant with good ratings and affordable prices?"
+   Named Entities: [nice dinner (Amenity), good ratings (Rating), affordable prices (Price), restaurant (Amenity)]

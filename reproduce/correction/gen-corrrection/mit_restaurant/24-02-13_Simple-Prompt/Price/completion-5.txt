@@ -1,0 +1,11 @@
+1. Query: "Is there a steakhouse nearby with a {{reasonable price}}?"
+Text Span: "reasonable price"
+Label: (A). The span is a named entity of type price
+
+2. Query: "Which restaurants in the area offer a {{prix fixe}} menu?"
+Text Span: "prix fixe"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "I'm looking for a cheap restaurant, preferably {{under $10 per person}}."
+Text Span: "under $10 per person"
+Label: (A). The span is a named entity of type price

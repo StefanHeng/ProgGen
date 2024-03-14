@@ -1,0 +1,29 @@
+1. New York City mayor announces new infrastructure plan.
+Named Entities: [New York City (location)]
+
+2. CEO of Apple speaks at annual tech conference.
+Named Entities: [Apple (organization)]
+
+3. Protests erupt in Paris over new labor laws.
+Named Entities: [Paris (location)]
+
+4. Famous actor arrested for drunk driving.
+Named Entities: []
+
+5. United Nations report highlights climate change concerns.
+Named Entities: [United Nations (organization)]
+
+6. Prime Minister of Japan meets with President of the United States.
+Named Entities: [Japan (location), President of the United States (person)]
+
+7. Major earthquake hits southern California.
+Named Entities: [California (location)]
+
+8. Olympic athlete breaks world record in 100m dash.
+Named Entities: []
+
+9. New study shows link between diet and heart disease.
+Named Entities: []
+
+10. Hurricane warning issued for Florida coast.
+Named Entities: [Florida (location)]

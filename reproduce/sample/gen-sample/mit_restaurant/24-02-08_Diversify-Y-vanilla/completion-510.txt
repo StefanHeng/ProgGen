@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a vegan menu [Closeout time] "
+Named Entities: [vegan (Cuisine)]
+
+2. "What are the best seafood restaurants in the area? [Closeout time]"
+Named Entities: [seafood (Cuisine)]
+
+3. "I need a reservation for a table of 4 at a fine dining spot [Closeout time]"
+Named Entities: [4 (Amenity), fine dining (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "the United States"
+Label: (A)
+
+2. Text Span: "Amazon rainforest"
+Label: (A)
+
+3. Text Span: "U.S."
+Label: (C), entity type: location

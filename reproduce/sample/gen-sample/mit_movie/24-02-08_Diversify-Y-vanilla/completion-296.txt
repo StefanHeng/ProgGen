@@ -1,0 +1,8 @@
+1. "What movie features the song Friends in Low Places?"
+Named Entities: [Friends in Low Places (Song)]
+
+2. "Can you recommend an unsettling film to watch?"
+Named Entities: [unsettling (Genre)]
+
+3. "Who directed the neo-noir film featuring preview footage?"
+Named Entities: [Neo-noir (Genre), Wes Craven (Director), Preview footage (Trailer)]

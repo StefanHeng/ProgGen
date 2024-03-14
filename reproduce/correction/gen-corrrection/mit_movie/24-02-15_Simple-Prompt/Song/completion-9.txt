@@ -1,0 +1,11 @@
+1. Query: "Can you suggest a movie with a {{famous soundtrack}}?"
+Text Span: "famous soundtrack"
+Label: (D). Not a Named Entity
+
+2. Query: 'Which film features the {{song}} "My Heart Will Go On"?'
+Text Span: "song"
+Label: (D). Not a Named Entity
+
+3. Query: 'Tell me about the film with the song "{{Eye of the Tiger}}."'
+Text Span: "Eye of the Tiger"
+Label: (A). Named Entity of type Song

@@ -1,0 +1,8 @@
+1. "Has the movie Terms of Endearment won any awards or nominations?"
+Named Entities: [Terms of Endearment (Title)]
+
+2. "What awards were received by the film Perfect directed by James Bridges?"
+Named Entities: [Perfect (Title), James Bridges (Director)]
+
+3. "Show me the trailer for the movie Bridget Jones's Diary, which was nominated for Best Picture."
+Named Entities: [Bridget Jones's Diary (Title), Best Picture (Award)]

@@ -1,0 +1,8 @@
+1. Text Span: "upscale"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+2. Text Span: "affordable prices"
+Label: (A). The span is a named entity of type price.
+
+3. Text Span: "mid-range priced restaurant"
+Label: (B). The span contains a named price entity but the span boundary is not precise. The correct span boundary is "mid-range".

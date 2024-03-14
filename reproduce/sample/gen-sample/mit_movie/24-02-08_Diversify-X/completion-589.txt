@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with a memorable soundtrack featuring the song 'Eye of the Tiger'?"
+Named Entities: ['Eye of the Tiger' (Song)]
+
+Query: "show me a movie with an iconic theme song similar to 'The Imperial March' from Star Wars"
+Named Entities: ['The Imperial March' (Song), Star Wars (Title)]
+
+Query: "which movie has a famous theme song like 'My Heart Will Go On' by Celine Dion from Titanic?"
+Named Entities: ['My Heart Will Go On' by Celine Dion (Song), Titanic (Title)

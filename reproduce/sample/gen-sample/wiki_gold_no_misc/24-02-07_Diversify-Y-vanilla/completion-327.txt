@@ -1,0 +1,8 @@
+Sentence: "The company headquarters are located in Benton Harbor, Michigan, United States."
+Named Entities: [Benton Harbor (location), Michigan (location), Whirlpool Corporation (organization), United States (location)]
+
+Sentence: "Indira Gandhi was the first and, to date, the only female Prime Minister of India."
+Named Entities: [Indira Gandhi (person), India (location)]
+
+Sentence: "A merger in 1950 formed the Whirlpool Corporation."
+Named Entities: [Whirlpool Corporation (organization)]

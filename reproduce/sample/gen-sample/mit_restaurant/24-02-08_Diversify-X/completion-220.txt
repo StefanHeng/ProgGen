@@ -1,0 +1,8 @@
+1. "Can you recommend a upscale café with live music for tonight?"
+Named Entities: [upscale (Price), café (Cuisine), live music (Amenity), tonight (Hours)]
+
+2. "I'm looking for a café with live music and a good dessert menu."
+Named Entities: [café (Cuisine), live music (Amenity), dessert (Dish)]
+
+3. "Where can I find a fancy café with live music in this area?"
+Named Entities: [fancy (Rating), café (Cuisine), live music (Amenity), this area (Location) ]

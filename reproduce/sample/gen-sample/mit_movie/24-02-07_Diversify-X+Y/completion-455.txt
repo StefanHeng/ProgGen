@@ -1,0 +1,8 @@
+1. Query: "Can you give me a brief synopsis of a post-apocalyptic world film?"
+Named Entities: [post-apocalyptic world (Plot)]
+
+2. Query: "What movie released in 1958 has a plot summary involving a race against time?"
+Named Entities: [1958 (Year), race against time (Plot)]
+
+3. Query: "Tell me about a biographical film featuring Morgan Freeman that received a perfect 10 rating."
+Named Entities: [biographical (Genre), Morgan Freeman (Actor), perfect 10 (Viewers' Rating)]

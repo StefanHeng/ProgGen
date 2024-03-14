@@ -1,0 +1,8 @@
+Query: "I want to watch a family-friendly movie rated TV-G with an incredible plot"
+Named Entities: [TV-G (MPAA Rating), incredible (Plot)]
+
+Query: "what is the year of release for the movie with the song Lose Yourself"
+Named Entities: [Lose Yourself (Song)]
+
+Query: "show me a movie directed by Rob Reiner that was released between 2002 and 2007"
+Named Entities: [Rob Reiner (Director), 2002-2007 (Year)]

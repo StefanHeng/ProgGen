@@ -1,0 +1,459 @@
+{
+    "meta": {
+        "dataset_name": "mit-movie",
+        "source_dataset_dir_name": "24-02-07_NER-Dataset_{fmt=n-p2,#l=3,ap={dc=T,de=s},lc=T}",
+        "diversity_variant": "Diverse-X+Y"
+    },
+    "entity_type2correction_info": {
+        "Title": {
+            "defn": "A named title entity must be the name of a movie.",
+            "equivalents": [
+                "Movie"
+            ],
+            "name": "title",
+            "name_full": "named title entity",
+            "demos": [
+                {
+                    "sentence": "What character did Tom Hanks play in \"Forest Gump\"?",
+                    "entity_span": "Forest Gump",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I'm bored, can you tell me the plot of the movie Ghostbusters?",
+                    "entity_span": "Ghostbusters",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Viewers' Rating": {
+            "defn": "A named viewers' rating entity can be a rating score such as \"9 out of 10\". Endorsement phrases such as \"must see\" and \"highly recommended\" are also named viewers' rating entities. Evaluative descriptors such as \"best\", \"good\", \"popular\", \"famous\" and \"favorite\" are named viewers' rating entities. Performance metrics such as \"highest-grossing\" and \"best-rated\" are also named viewers' rating entities.\nYou should capture the complete descriptive phrase such as \"high viewers' rating\" as opposed to \"high\".\nAmbiguous identifiers such as \"rating\" and \"viewers' rating\" are not named entities.",
+            "equivalents": [
+                "Rating"
+            ],
+            "name": "viewers' rating",
+            "name_full": "named viewers' rating entity",
+            "demos": [
+                {
+                    "sentence": "What is the viewers' rating for the movie Sleeping Beauty?",
+                    "entity_span": "viewers' rating",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Show me a Marielle Heller film released in 2019 with a high Viewers' Rating",
+                    "entity_span": "high",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "high Viewers' Rating",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What is the best superhero movie of all time?",
+                    "entity_span": "best",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Are there any good teen movies that came out in 2014",
+                    "entity_span": "good",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I want to watch a horror movie with a high Rotten Tomatoes rating.",
+                    "entity_span": "high Rotten Tomatoes rating",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Year": {
+            "defn": "A named year entity must be a specific year or a year range indicating movie release, such as \"2000\" or \"last three years\".\nYou should always drop starting \"the\" word from named year entity spans.\nVague temporal descriptors such as \"latest\", \"recent\", \"recent movies\" and \"come out\" are not named entities. Release qualifiers such as \"released\", \"new release\", \"re-release\" and \"first\" are also not named entities. Ambiguous identifiers such as \"year\" are not named entities.",
+            "name": "year",
+            "name_full": "named year entity",
+            "demos": [
+                {
+                    "sentence": "What is a good character-driven drama film from the 1990s?",
+                    "entity_span": "1990s",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Show me a sport movie from the 90s with an intense plot and a catchy trailer.",
+                    "entity_span": "the 90s",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "90s",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Who is the actor playing Spider-Man in the latest movie",
+                    "entity_span": "latest",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you tell me the year in which the movie Pulp Fiction was released",
+                    "entity_span": "released",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "who directed the movie Aquaman and what year was it released",
+                    "entity_span": "year",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Genre": {
+            "defn": "Named genre entities are broad and well-recognized movie categories, such as \"documentary\" and \"comedy\". Style descriptors such as \"funny\", \"musical\", \"thrilling\" and \"animated\" are also named genre entities. Film studios such as \"Marvel\" and \"Disney\" are also named genre entities.\nYou should always drop starting evaluative descriptors such as \"new\" and \"good\" and trailing \"movie\" or \"film\" words from named genre entity spans.\nEnsure to distinguish named genre entities from named plot entities. Named plot entities are specific themes, topics, or elements of a movie storyline, such as \"space exploration\" and \"zombie\".",
+            "name": "movie genre",
+            "name_full": "named genre entity",
+            "demos": [
+                {
+                    "sentence": "Who directed the psychological thriller \"Black Swan\"?",
+                    "entity_span": "psychological thriller",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Name a famous [heist] movie from the 2000s",
+                    "entity_span": "heist",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Plot",
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you provide a list of musical movies",
+                    "entity_span": "musical movies",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "musical",
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Director": {
+            "defn": "A named director entity must be the name of a film director. Only first names, last names, and full names of directors are considered named director entities.\nAmbiguous identifiers such as \"director\", \"female filmmaker\" and \"female directors\" are not named entities.",
+            "name": "director",
+            "name_full": "named director entity",
+            "demos": [
+                {
+                    "sentence": "Are there any movies directed by Steven Spielberg that I should watch?",
+                    "entity_span": "Steven Spielberg",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "who directed the movie Inception",
+                    "entity_span": "directed",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "MPAA Rating": {
+            "defn": "Only actual MPAA rating labels such as \"G\", \"PG\", \"PG-13\", \"R\", and \"NC-17\" are named MPAA rating entities.\nYou should always drop starting and trailing \"rated\" or \"MPAA rating of\" words from named MPAA rating entity spans.\nRating interpretations such as \"Parental Guidance Suggested\" and \"suitable for children\" are not relevant named entities.",
+            "name": "mpaa rating",
+            "name_full": "named mpaa rating entity",
+            "demos": [
+                {
+                    "sentence": "Can you recommend a family-friendly movie rated PG with the song Sound of Silence?",
+                    "entity_span": "PG",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What are some unforgettable G-rated movies from the 90s",
+                    "entity_span": "G-rated",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "G",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "I want to see a trailer for The Wolf of Wall Street, rated R",
+                    "entity_span": "rated R",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "R",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "who directed the movie Amadeus and is it appropriate for mature audiences",
+                    "entity_span": "mature audiences",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        },
+        "Plot": {
+            "defn": "Named plot entities must be specific themes, topics, or elements of a movie storyline, such as \"space exploration\" and \"zombie\".\nPlot descriptors such as \"captivating plot\", \"compelling plot\", \"intense plot\" and \"thrilling plot\" are not relevant named entities. Narrative descriptors such as \"plot\", \"summary\" and \"storyline\" are also not named entities. Production insights such as \"behind-the-scenes\", \"making of a film\" and \"making of movies\" are not relevant named entities.",
+            "name": "plot",
+            "name_full": "named plot entity",
+            "demos": [
+                {
+                    "sentence": "Can you suggest a good heist movie with a PG-7 rating",
+                    "entity_span": "heist",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you give me a brief overview of the plot of \"Forrest Gump\"?",
+                    "entity_span": "plot",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Could you recommend a movie with a strong female lead character and a compelling plot",
+                    "entity_span": "compelling plot",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "Are there any exceptional behind-the-scenes documentaries about the making of Jim Carrey's movies?",
+                    "entity_span": "behind-the-scenes",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        },
+        "Actor": {
+            "defn": "A named actor entity must be the name of an actor or actress. Only first names, last names, and full names of actors and actresses are considered named actor entities.",
+            "name": "actor",
+            "name_full": "named actor entity",
+            "demos": [
+                {
+                    "sentence": "What character did Tom Hanks play in \"Forest Gump\"?",
+                    "entity_span": "Tom Hanks",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What is the name of the actor who played the main character in \"The Shawshank Redemption\"?",
+                    "entity_span": "actor",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Trailer": {
+            "defn": "A named movie trailer entity is a term that indicates a segment or a clip from a movie, such as \"clip\", \"trailer\", \"teaser\" and \"preview\".\nYou should always drop starting \"captivating\" or \"fun\" descriptive words from named trailer entity spans.\nYou should always drop starting \"movie\" or \"film\" words from named trailer entity spans.",
+            "name": "trailer",
+            "name_full": "named trailer entity",
+            "demos": [
+                {
+                    "sentence": "Can you show me the trailer for the movie \"The Matrix\"?",
+                    "entity_span": "trailer",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you play the movie clip where Yoda gives his famous advice to Luke Skywalker?",
+                    "entity_span": "movie clip",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "clip",
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Song": {
+            "defn": "A named song entity must be the name of a song.\nSong attributes such as \"iconic song,\" \"love song,\" \"famous song,\" and \"original song\" are not relevant named entities. Music genres such as \"EDM\" and \"Jazz\" are also not relevant named entities. Names of Artists such as \"Beyonce\" are not relevant named entities. Musical descriptors such as \"song\", \"theme song\" and \"soundtrack\" are also not named entities.",
+            "name": "song",
+            "name_full": "named song entity",
+            "demos": [
+                {
+                    "sentence": "Is Every Breath You Take featured in any popular movie soundtracks?",
+                    "entity_span": "Every Breath You Take",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "What is the theme song of the James Bond movie \"Skyfall\"?",
+                    "entity_span": "theme song",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you play a song from the movie \"The Sound of Music\"?",
+                    "entity_span": "song",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you suggest a movie with a famous soundtrack?",
+                    "entity_span": "famous soundtrack",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        },
+        "Review": {
+            "defn": "A named review entity must be a recognition or a detailed, qualitative assessment of a movie, such as \"funniest of all time\" and \"incredible visual effects\". Named review entities must describe specific aspects of a movie, such as \"most awards\".\nEnsure to distinguish named review entities from named viewers' rating entities. Short evaluative descriptors such as \"good\", \"highest rated\" and \"top-rated\" are named viewers' rating entities. Performance metrics such as \"highest-grossing\" and \"best-rated\" are also named viewers' rating entities.\nAmbiguous identifiers such as \"review\" are not named entities.\nNamed genre entities are broad and well-recognized movie categories, such as \"documentary\" and \"comedy\".",
+            "name": "review",
+            "name_full": "named review entity",
+            "demos": [
+                {
+                    "sentence": "Which movie has the best special effects of all time",
+                    "entity_span": "best special effects",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you recommend a good movie from the 1980s",
+                    "entity_span": "good",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "Viewers' Rating",
+                    "reason": null
+                },
+                {
+                    "sentence": "Can you tell me if the movie Glory received any awards or nominations?",
+                    "entity_span": "awards or nominations",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "Character": {
+            "defn": "A named character entity must be the name of a character.\nCharacter qualifiers such as \"main antagonist\", \"villain character\", \"strong female lead character\" are not relevant named entities. Ambiguous identifiers such as \"character\", \"main character\" and \"lead role\" are also not named entities.",
+            "name": "character",
+            "name_full": "named character entity",
+            "demos": [
+                {
+                    "sentence": "who is the actor in the lead role in forrest gump",
+                    "entity_span": "lead role",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Who is the main character in the Star Wars series",
+                    "entity_span": "main character",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Tell me about the actress who played Hermione Granger in the Harry Potter series.",
+                    "entity_span": "Hermione Granger",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Could you recommend a family-friendly movie with a strong female character as the lead?",
+                    "entity_span": "strong female character",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

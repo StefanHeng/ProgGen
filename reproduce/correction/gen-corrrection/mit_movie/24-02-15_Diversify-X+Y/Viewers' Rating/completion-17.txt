@@ -1,0 +1,11 @@
+1. Query: "Which fantasy movie directed by Ron Howard has won the most {{Awards and nominations}}?"
+Text Span: "Awards and nominations"
+Label: (C). The span is a named entity but the category is not viewers' rating. Category: Awards and nominations
+
+2. Query: "Can I watch Borat on any {{streaming platforms}}?"
+Text Span: "streaming platforms"
+Label: (C). The span is a named entity but the category is not viewers' rating. Category: Streaming platforms
+
+3. Query: "Hey, what's the deal with The Social Network? Is it {{worth watching}} or does it have a low rating?"
+Text Span: "worth watching"
+Label: (A). The span is a named entity of type viewers' rating.

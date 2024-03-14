@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with a thrilling and exciting score"
+Named Entities: [thrilling (Review), exciting (Review)]
+
+Query: "show me a G-rated film for kids with an instrumental music soundtrack"
+Named Entities: [G (MPAA Rating), instrumental music (Song)]
+
+Query: "which movie directed by Pharrell Williams has an 8-star score"
+Named Entities: [Pharrell Williams (Director), 8-star score (Review)]

@@ -1,0 +1,8 @@
+1. Query: "What mind-blowing movie involves time travel and is directed by Alfredo Rodriguez?"
+Named Entities: [mind-blowing (Review), time travel (Plot), Alfredo Rodriguez (Director)]
+
+2. Query: "Is Zach Galifianakis in any comedy films similar to Shrek?"
+Named Entities: [Zach Galifianakis (Actor), comedy (Genre), Shrek (Title)]
+
+3. Query: "Can you recommend a movie featuring the character Hulk with a high viewers' rating?"
+Named Entities: [Hulk (Character), high viewers' rating (Viewers' Rating)]

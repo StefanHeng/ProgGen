@@ -1,0 +1,11 @@
+1. Query: "I'm in the mood for some great street food, can you recommend a {{food truck}} with private dining and outdoor seating?"
+Text Span: "food truck"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "Find a high-end buffet restaurant in the {{Kings Buffet}} region"
+Text Span: "Kings Buffet"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What's the average price for a meal at {{McDonald's}}?"
+Text Span: "McDonald's"
+Label: (A). The span is a named entity of type restaurant name

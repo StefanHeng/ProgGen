@@ -1,0 +1,149 @@
+1. What are some highly rated science fiction movies from the 1980s?
+   Named Entities: [science fiction (Genre), 1980s (Year), highly rated (Viewers' Rating)]
+
+2. Can you recommend a comedy film directed by Mel Brooks?
+   Named Entities: [comedy (Genre), Mel Brooks (Director)]
+
+3. Who are the main characters in the Titanic movie?
+   Named Entities: [Titanic (Title), main characters (Character)]
+
+4. What is the plot of the movie Inception?
+   Named Entities: [Inception (Title), plot (Plot)]
+
+5. Show me the trailer for the musical film The Greatest Showman.
+   Named Entities: [trailer (Trailer), The Greatest Showman (Title), musical (Genre)]
+
+6. What movie features the song "My Heart Will Go On" by Celine Dion?
+   Named Entities: ["My Heart Will Go On" (Song), Celine Dion (Actor)]
+
+7. What is the viewers' rating for The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+8. Can you tell me some action movies directed by Michael Bay?
+   Named Entities: [action (Genre), Michael Bay (Director)]
+
+9. When was the film Goodfellas released?
+   Named Entities: [Goodfellas (Title), released (Year)]
+
+10. Are there any horror movies with a PG-13 rating?
+    Named Entities: [horror (Genre), PG-13 (MPAA Rating)]
+
+11. What are some of the best-reviewed movies of all time?
+    Named Entities: [best-reviewed (Review)]
+
+12. Who played the character Vito Corleone in The Godfather?
+    Named Entities: [Vito Corleone (Character), The Godfather (Title)]
+
+13. Is there a movie about World War II that is based on a true story?
+    Named Entities: [World War II (Genre), true story (Plot)]
+
+14. What film won the Best Picture award at the Oscars in 2019?
+    Named Entities: [Best Picture award (Review), Oscars (Title), 2019 (Year)]
+
+15. Show me a list of all the movies that feature Tom Hanks as the lead actor.
+    Named Entities: [Tom Hanks (Actor)]
+
+16. What is the genre of the movie The Matrix?
+    Named Entities: [The Matrix (Title), genre (Genre)]
+
+17. Can you recommend a feel-good movie for family viewing?
+    Named Entities: [feel-good (Review), family (Viewers' Rating)]
+
+18. What is the MPAA rating for the film Die Hard?
+    Named Entities: [Die Hard (Title), MPAA rating (MPAA Rating)]
+
+19. Who directed the movie Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), directed (Director)]
+
+20. What is the theme song of the James Bond movie "Skyfall"?
+    Named Entities: [James Bond (Character), "Skyfall" (Title), theme song (Song)]
+
+21. What are the best coming-of-age movies from the 1990s?
+    Named Entities: [coming-of-age (Genre), 1990s (Year), best (Review)]
+
+22. Show me clips from the dance sequence in the movie La La Land.
+    Named Entities: [clips (Trailer), dance sequence (Plot), La La Land (Title)]
+
+23. Who are the primary actors in the film The Departed?
+    Named Entities: [The Departed (Title), primary actors (Actor)]
+
+24. What is your favorite movie with a tragic love story?
+    Named Entities: [favorite (Review), tragic love story (Plot)]
+
+25. What are the top war movies directed by Steven Spielberg?
+    Named Entities: [war (Genre), Steven Spielberg (Director), top (Review)]
+
+26. How many Fast and Furious movies have been released so far?
+    Named Entities: [Fast and Furious (Title)]
+
+27. What is the best romantic comedy film of the 21st century?
+    Named Entities: [romantic comedy (Genre), 21st century (Year), best (Review)]
+
+28. Can you recommend a thriller with a twist ending?
+    Named Entities: [thriller (Genre), twist ending (Plot)]
+
+29. Show me a scene from the western movie Unforgiven.
+    Named Entities: [scene (Trailer), western (Genre), Unforgiven (Title)]
+
+30. What is the viewers' rating for The Dark Knight?
+    Named Entities: [The Dark Knight (Title), viewers' rating (Viewers' Rating)]
+
+31. Is there a fantasy movie from the 1980s with a cult following?
+    Named Entities: [fantasy (Genre), 1980s (Year), cult following (Review)]
+
+32. What film features the character Ellen Ripley?
+    Named Entities: [Ellen Ripley (Character)]
+
+33. What is the background music used in the movie Jaws?
+    Named Entities: [background music (Song), Jaws (Title)]
+
+34. Can you recommend a classic movie from the Golden Age of Hollywood?
+    Named Entities: [classic (Review), Golden Age of Hollywood (Year)]
+
+35. What is the MPAA rating for the film The Matrix?
+    Named Entities: [The Matrix (Title), MPAA rating (MPAA Rating)]
+
+36. Who directed the psychological thriller “Black Swan”?
+    Named Entities: [psychological thriller (Genre), “Black Swan” (Title), directed (Director)]
+
+37. What are the strongest performances in the film Schindler's List?
+    Named Entities: [strongest performances (Review), Schindler's List (Title)]
+
+38. Can you show me clips from the action-packed movie Mad Max: Fury Road?
+    Named Entities: [clips (Trailer), action-packed (Review), Mad Max: Fury Road (Title)]
+
+39. Who are the main characters in the science fiction film Interstellar?
+    Named Entities: [science fiction (Genre), Interstellar (Title), main characters (Character)]
+
+40. What is the viewers' rating for the movie The Godfather?
+    Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+41. Can you recommend a drama film directed by Quentin Tarantino?
+    Named Entities: [drama (Genre), Quentin Tarantino (Director)]
+
+42. What is the theme song of the Harry Potter movie series?
+    Named Entities: [Harry Potter (Title), theme song (Song)]
+
+43. What is the plot of the movie The Shape of Water?
+    Named Entities: [The Shape of Water (Title), plot (Plot)]
+
+44. Who played the character Tony Montana in the movie Scarface?
+    Named Entities: [Tony Montana (Character), Scarface (Title)]
+
+45. Is there a mystery thriller film with a surprise ending that is critically acclaimed?
+    Named Entities: [mystery thriller (Genre), surprise ending (Plot), critically acclaimed (Review)]
+
+46. What are the top-rated animated movies of all time?
+    Named Entities: [top-rated (Review), animated (Genre)]
+
+47. Can you recommend a feel-good movie for family viewing?
+    Named Entities: [feel-good (Review), family (Viewers' Rating)]
+
+48. What is the MPAA rating for the film The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+49. Who directed the movie The Wizard of Oz?
+    Named Entities: [The Wizard of Oz (Title), directed (Director)]
+
+50. Show me a scene from the classic film Casablanca.
+    Named Entities: [scene (Trailer), classic (Review), Casablanca (Title)]

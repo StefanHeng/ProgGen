@@ -1,0 +1,8 @@
+1. "I'm craving some Italian food, can you recommend a good pizzeria around here"
+Named Entities: [Italian food (Cuisine), pizzeria (Amenity), Pizzeria Bella Notte (Restaurant Name)]
+
+2. "I'm looking for a cozy restaurant with a relaxed atmosphere and French cuisine"
+Named Entities: [cozy (Amenity), relaxed atmosphere (Amenity), French cuisine (Cuisine), Chez Marie (Restaurant Name)]
+
+3. "Is there a breakfast spot that opens before 7 am with affordable prices"
+Named Entities: [breakfast spot (Amenity), before 7 am (Hours), affordable prices (Price), Early Bird Café (Restaurant Name)]

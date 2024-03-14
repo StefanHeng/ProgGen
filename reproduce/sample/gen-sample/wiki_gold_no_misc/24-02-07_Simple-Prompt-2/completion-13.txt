@@ -1,0 +1,80 @@
+Sentence: "The Metropolitan Waterworks and Sewerage System (MWSS) is a government-owned and controlled corporation of the Philippines that is responsible for providing water in Metro Manila and nearby areas."
+Named Entities: [Metropolitan Waterworks and Sewerage System (organization), Philippines (location), Metro Manila (location)]
+
+Sentence: "The Great Barrier Reef is the world's largest coral reef system."
+Named Entities: [Great Barrier Reef (location)]
+
+Sentence: "The company was founded by Bill Gates and Paul Allen on April 4, 1975."
+Named Entities: [Bill Gates (person), Paul Allen (person)]
+
+Sentence: "She studied at Harvard University and later worked as a lawyer in New York City."
+Named Entities: [Harvard University (organization), New York City (location)]
+
+Sentence: "The song was produced by Kanye West and features vocals from Rihanna."
+Named Entities: [Kanye West (person), Rihanna (person)]
+
+Sentence: "The Louvre Museum in Paris, France is the world's largest art museum and a historic monument."
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+Sentence: "He formed the band with members from London and Manchester."
+Named Entities: [London (location), Manchester (location)]
+
+Sentence: "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health."
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+Sentence: "Elon Musk is the CEO of SpaceX and Tesla, Inc."
+Named Entities: [Elon Musk (person), SpaceX (organization), Tesla, Inc. (organization)]
+
+Sentence: "She won the Nobel Peace Prize in 2014 for her efforts in promoting girls' education."
+Named Entities: [Nobel Peace Prize (organization)]
+
+Sentence: "The University of Oxford is the oldest university in the English-speaking world."
+Named Entities: [University of Oxford (organization), English-speaking (location)]
+
+Sentence: "The United Nations Children's Fund (UNICEF) works in 190 countries and territories to save children's lives."
+Named Entities: [United Nations Children's Fund (organization)]
+
+Sentence: "He was born in Tokyo, Japan and later moved to New York City."
+Named Entities: [Tokyo (location), Japan (location), New York City (location)]
+
+Sentence: "The Red Cross was founded by Henry Dunant in 1863."
+Named Entities: [Red Cross (organization), Henry Dunant (person)]
+
+Sentence: "The book was published by Random House, Inc."
+Named Entities: [Random House, Inc. (organization)]
+
+Sentence: "The California Institute of Technology (Caltech) is known for its strength in natural science and engineering."
+Named Entities: [California Institute of Technology (organization)]
+
+Sentence: "She is a member of the American Bar Association and has served as president of the organization."
+Named Entities: [American Bar Association (organization)]
+
+Sentence: "The company's headquarters is located in Silicon Valley, California."
+Named Entities: [Silicon Valley (location), California (location)]
+
+Sentence: "The Treaty of Versailles was signed on June 28, 1919, ending the state of war between Germany and the Allied Powers."
+Named Entities: [Treaty of Versailles (organization), Germany (location), Allied Powers (organization)]
+
+Sentence: "She visited the Eiffel Tower and Notre-Dame Cathedral in Paris, France."
+Named Entities: [Eiffel Tower (location), Notre-Dame Cathedral (location), Paris (location), France (location)]
+
+Sentence: "Her artwork has been exhibited at the Museum of Modern Art in New York City."
+Named Entities: [Museum of Modern Art (organization), New York City (location)]
+
+Sentence: "The Rolling Stones are an English rock band formed in London in 1962."
+Named Entities: [Rolling Stones (organization), London (location)]
+
+Sentence: "The American Civil Liberties Union (ACLU) is a nonprofit organization founded in 1920."
+Named Entities: [American Civil Liberties Union (organization)]
+
+Sentence: "He was born in Buenos Aires, Argentina and later moved to Los Angeles."
+Named Entities: [Buenos Aires (location), Argentina (location), Los Angeles (location)]
+
+Sentence: "The World Economic Forum (WEF) is a Swiss nonprofit foundation, based in Cologny, Geneva, established in 1971."
+Named Entities: [World Economic Forum (organization), Swiss (location), Cologny (location), Geneva (location)]
+
+Sentence: "He played for the New York Yankees and the Boston Red Sox during his career."
+Named Entities: [New York Yankees (organization), Boston Red Sox (organization)]
+
+Sentence: "The University of Cambridge is a collegiate public research university in Cambridge, United Kingdom."
+Named Entities: [University of Cambridge (organization), Cambridge (location), United Kingdom (location)]

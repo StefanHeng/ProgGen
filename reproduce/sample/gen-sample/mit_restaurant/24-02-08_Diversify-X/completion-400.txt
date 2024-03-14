@@ -1,0 +1,8 @@
+Query: "Can you recommend a brunch spot with outdoor seating and a great view?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), great view (Amenity)]
+
+Query: "I'm craving some avocado toast and bottomless mimosas, where can I find that for a reasonable price?"
+Named Entities: [avocado toast (Dish), bottomless mimosas (Amenity), reasonable price (Price)]
+
+Query: "I need a place for a Sunday brunch date, preferably with live music and a cozy atmosphere"
+Named Entities: [Sunday (Hours), brunch (Amenity), live music (Amenity), cozy atmosphere (Amenity)]

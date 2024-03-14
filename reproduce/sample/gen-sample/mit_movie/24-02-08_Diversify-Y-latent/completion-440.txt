@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a touching movie starring Halle Berry?"
+   Named Entities: [touching (Review), Halle Berry (Actor)]
+
+2. Query: "What is the viewers' rating for Toy Story 3?"
+   Named Entities: [Toy Story 3 (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "Who directed the movie Yellow Submarine and what year was it released?"
+   Named Entities: [Yellow Submarine (Title), director (Director), year (Year)]

@@ -1,0 +1,29 @@
+1. The Eiffel Tower was constructed in the late 19th century and has become one of the most iconic landmarks in the world.
+   Named Entities: [Eiffel Tower (location)]
+
+2. The United Nations, an intergovernmental organization, was established in 1945 to promote international cooperation and maintain peace and security.
+   Named Entities: [United Nations (organization)]
+
+3. Marie Curie, a pioneering physicist and chemist, was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields.
+   Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+
+4. The Great Wall of China, a series of fortifications made of stone, brick, tamped earth, and other materials, was originally built to protect the Chinese states and empires against the invasions and raids of various nomadic groups.
+   Named Entities: [Great Wall of China (location)]
+
+5. NASA, the United States space agency, has been responsible for numerous space exploration missions, including the Apollo moon-landing missions and the Mars rover missions.
+   Named Entities: [NASA (organization), United States (location), Apollo (organization), Mars (location)]
+
+6. Albert Einstein, a renowned theoretical physicist, developed the theory of relativity, which revolutionized the understanding of space, time, and gravity.
+   Named Entities: [Albert Einstein (person)]
+
+7. The Louvre Museum, located in Paris, is the world's largest art museum and a historic monument in France.
+   Named Entities: [Louvre Museum (location), Paris (location), France (location)]
+
+8. The European Union is a political and economic union of 27 member states that are located primarily in Europe.
+   Named Entities: [European Union (organization), Europe (location)]
+
+9. Leonardo da Vinci, a polymath from the Italian Renaissance, is widely considered one of the greatest painters of all time and had an immense impact on the development of science and art.
+   Named Entities: [Leonardo da Vinci (person), Italian Renaissance (organization)] 
+
+10. The Grand Canyon, located in Arizona, is a steep-sided canyon carved by the Colorado River and is one of the most famous natural attractions in the United States.
+    Named Entities: [Grand Canyon (location), Arizona (location), Colorado River (location), United States (location)]

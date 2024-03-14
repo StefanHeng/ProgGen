@@ -1,0 +1,8 @@
+1. Spoken Query: "Are there any movies that received multiple awards despite mixed reviews?"
+   Named Entities: [multiple awards (Awards), mixed reviews (Review)]
+
+2. Spoken Query: "Can you really trust the award nominations for the new romantic comedy film?"
+   Named Entities: [award nominations (Awards), romantic comedy (Genre)]
+
+3. Spoken Query: "Is it true that the sci-fi movie won best picture at the Oscars despite its low viewers' rating?"
+   Named Entities: [best picture (Awards), sci-fi (Genre), low viewers' rating (Viewers' Rating)]

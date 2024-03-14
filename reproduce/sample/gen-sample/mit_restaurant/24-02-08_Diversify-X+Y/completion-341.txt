@@ -1,0 +1,8 @@
+Query: "can you recommend a café on Yelp with dairy-free options for dine-in"
+Named Entities: [café (Amenity), dairy-free (Amenity), dine-in (Amenity), Yelp (Location)]
+
+Query: "what's the best-rated café on Yelp that offers dairy-free dishes for dine-in"
+Named Entities: [café (Amenity), dairy-free (Amenity), best-rated (Rating), Yelp (Location), dine-in (Amenity)]
+
+Query: "find me a café on Yelp with a diverse menu that caters to dairy-free customers for dine-in"
+Named Entities: [café (Amenity), diverse menu (Amenity), dairy-free (Amenity), Yelp (Location), dine-in (Amenity)]

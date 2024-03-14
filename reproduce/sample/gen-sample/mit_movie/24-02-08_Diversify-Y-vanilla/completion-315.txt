@@ -1,0 +1,8 @@
+Query: "What is the genre of the movie North by Northwest?"
+Named Entities: [North by Northwest (Title)]
+
+Query: "Can I see a preview snippet of the new Scar movie?"
+Named Entities: [preview snippet (Trailer), Scar (Title)]
+
+Query: "Show me a TV spot for the best historical film of all time"
+Named Entities: [TV spot (Trailer), historical (Genre)]

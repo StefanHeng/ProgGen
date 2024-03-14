@@ -1,0 +1,8 @@
+Query: "What is the main genre and subgenre of the movie The Dark Knight?"
+Named Entities: [The Dark Knight (Title)]
+
+Query: "Can you recommend a movie with a mix of both romance and comedy as the main and subgenres?"
+Named Entities: [romance (Genre), comedy (Genre)]
+
+Query: "Is there a film that falls into the horror genre with a subgenre of psychological thriller?"
+Named Entities: [horror (Genre), psychological thriller (Genre)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me which movie features Celine Dion in a supporting role?"
+Named Entities: [Celine Dion (Actor), supporting role (Role)]
+
+Query: "Are there any low-rated movies in-cinema right now that showcase role diversity in the cast and crew?"
+Named Entities: [low-rated (Viewers' Rating), in-cinema (Location), role diversity (Character)]
+
+Query: "I'm looking for a movie that reveals a family secret. Any recommendations?"
+Named Entities: [family secret (Plot)]

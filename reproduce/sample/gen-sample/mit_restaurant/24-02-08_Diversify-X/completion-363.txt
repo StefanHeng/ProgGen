@@ -1,0 +1,8 @@
+1. "I'm looking for a buffet restaurant with tasting menus."
+Named Entities: [buffet (Amenity), tasting menus (Amenity)]
+
+2. "Can you recommend a place with a buffet and tasting menus?"
+Named Entities: [buffet (Amenity), tasting menus (Amenity)]
+
+3. "Where can I find a restaurant that serves buffet and tasting menus?"
+Named Entities: [buffet (Amenity), tasting menus (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly rated comedy from the 2000s?"
+Named Entities: [highly rated (Viewers' Rating), comedy (Genre), 2000s (Year)]
+
+Query: "Who are the main actors in the latest sci-fi movie directed by Christopher Nolan?"
+Named Entities: [main actors (Actor), latest (Year), sci-fi (Genre), Christopher Nolan (Director)]
+
+Query: "I'm looking for a popular action movie with great special effects. Can you suggest one?"
+Named Entities: [popular (Viewers' Rating), action (Genre), great special effects (Review)]

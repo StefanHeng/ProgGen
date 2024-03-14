@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck serving Mexican cuisine near the beach?"
+Named Entities: [Mexican cuisine (Cuisine), near the beach (Location)]
+
+2. "I'm looking for a food truck with a waterfront view that serves seafood."
+Named Entities: [waterfront view (Amenity), seafood (Cuisine)]
+
+3. "Which food truck around here offers vegan dishes by the waterfront?"
+Named Entities: [vegan dishes (Cuisine), by the waterfront (Location)]

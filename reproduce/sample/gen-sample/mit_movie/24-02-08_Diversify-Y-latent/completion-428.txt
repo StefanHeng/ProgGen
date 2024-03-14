@@ -1,0 +1,8 @@
+1. Query: "show me a musical with an exciting plot"
+   Named Entities: [musical (Genre), exciting (Plot)]
+
+2. Query: "is Robert Downey Jr. in any must-see historical films"
+   Named Entities: [Robert Downey Jr. (Actor), must-see (Viewers' Rating), historical (Genre)]
+
+3. Query: "what genre is the movie Bridesmaids"
+   Named Entities: [Bridesmaids (Title)]

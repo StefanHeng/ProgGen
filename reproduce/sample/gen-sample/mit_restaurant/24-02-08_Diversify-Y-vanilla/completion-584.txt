@@ -1,0 +1,8 @@
+1. "I'm in the mood for a cozy dinner by a fireplace, can you recommend any restaurants with this amenity?"
+Named Entities: [cozy dinner (Amenity), fireplace (Amenity)]
+
+2. "Where can I find a Brazilian steakhouse with live music for tonight?"
+Named Entities: [Brazilian (Cuisine), live music (Amenity), tonight (Hours)]
+
+3. "I only have $15 for dinner, can you suggest any restaurants with affordable options near my location?"
+Named Entities: [$15 (Price), near my location (Location)]

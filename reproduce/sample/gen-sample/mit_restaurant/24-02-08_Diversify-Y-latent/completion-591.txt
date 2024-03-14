@@ -1,0 +1,8 @@
+1. "I'm craving a combo deal, where can I find a Jack in the Box?"
+Named Entities: [combo deal (Amenity), Jack in the Box (Restaurant Name)]
+
+2. "What's the best dish to try at Carl's Jr.?"
+Named Entities: [best dish (Dish), Carl's Jr. (Restaurant Name)]
+
+3. "Do you know of any restaurants in this area with a high rating and affordable prices?"
+Named Entities: [high rating (Rating), affordable prices (Price)]

@@ -1,0 +1,8 @@
+Query: "Who directed the movie 'Jurassic Park'?"
+Named Entities: [Jurassic Park (Title)]
+
+Query: "What year did the movie 'The Avengers' come out?"
+Named Entities: [The Avengers (Title)]
+
+Query: "Can you show me a trailer for the movie 'Star Wars'?"
+Named Entities: [Star Wars (Title), trailer (Trailer)]

@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend an exciting movie with a poignant plot?"
+   Named Entities: [exciting (Review), poignant (Review)]
+
+2. Spoken Query: "What mind control movies are highly recommended by viewers?"
+   Named Entities: [mind control (Plot), highly recommended (Viewers' Rating)]
+
+3. Spoken Query: "Could you show me a movie with a highly recommended review and a poignant storyline?"
+   Named Entities: [highly recommended (Review), poignant (Plot)]

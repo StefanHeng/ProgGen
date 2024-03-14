@@ -1,0 +1,8 @@
+1. "Can you recommend a lounge with Jamaican cuisine and good ratings?"
+Named Entities: [lounge (Amenity), Jamaican (Cuisine), good ratings (Rating)]
+
+2. "What are the hours of the Jamaican restaurant nearby?"
+Named Entities: [Jamaican restaurant (Cuisine), nearby (Location), hours (Hours)]
+
+3. "I'm looking for a restaurant with Jamaican dishes that's affordable."
+Named Entities: [restaurant (Amenity), Jamaican dishes (Cuisine), affordable (Price)]

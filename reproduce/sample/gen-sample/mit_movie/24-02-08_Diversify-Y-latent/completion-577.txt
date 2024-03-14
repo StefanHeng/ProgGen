@@ -1,0 +1,8 @@
+1. Query: "what is a good comedy movie available on streaming apps with a PG rating"
+Named Entities: [comedy (Genre), PG (MPAA Rating), Available on streaming apps]
+
+2. Query: "can you recommend a horror film from the 1980s with a high viewers' rating"
+Named Entities: [horror (Genre), 1980s (Year), high viewers' rating (Viewers' Rating)]
+
+3. Query: "who directed the classic film The Godfather and what year was it released"
+Named Entities: [The Godfather (Title), classic (Viewers' Rating), Director, Year]

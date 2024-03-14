@@ -1,0 +1,8 @@
+1. "Can you recommend an upscale food truck with free Wi-Fi and a great burrito?"
+Named Entities: [upscale (Amenity), Free Wi-Fi (Amenity), burrito (Dish)]
+
+2. "Where can I find a food truck serving burritos with a classy and elegant ambience?"
+Named Entities: [burritos (Dish), classy (Amenity), elegant (Amenity)]
+
+3. "I'm looking for a food truck with free Wi-Fi that offers upscale ambience and delicious burritos."
+Named Entities: [free Wi-Fi (Amenity), upscale (Amenity), burritos (Dish)]

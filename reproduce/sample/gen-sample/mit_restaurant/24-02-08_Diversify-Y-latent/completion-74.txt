@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a restaurant with a good brunch menu and outdoor seating near downtown?"
+
+Named Entities: [good (Rating), brunch menu (Amenity), outdoor seating (Amenity), downtown (Location)]
+
+2. Query: "Where is the nearest spot to grab a quick cup of coffee and avocado toast?"
+
+Named Entities: [quick (Amenity), cup of coffee (Dish), avocado toast (Dish), nearest (Location)]
+
+3. Query: "I'm craving some Italian cuisine; do you know a place that serves excellent pasta dishes for dinner?"
+
+Named Entities: [Italian (Cuisine), excellent (Rating), pasta dishes (Dish), dinner (Amenity)]

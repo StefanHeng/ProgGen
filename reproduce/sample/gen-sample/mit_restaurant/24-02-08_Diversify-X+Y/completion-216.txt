@@ -1,0 +1,10 @@
+
+
+Query: "What restaurants in the city center serve breakfast before 8 am?"
+Named Entities: [City center (Location), breakfast (Cuisine), before 8 am (Hours)]
+
+Query: "I'm looking for a breakfast spot in the city center with a good rating"
+Named Entities: [City center (Location), breakfast (Cuisine), good (Rating)]
+
+Query: "Where can I find a nice place to have breakfast in the city center with affordable prices?"
+Named Entities: [City center (Location), breakfast (Cuisine), affordable prices (Price)]

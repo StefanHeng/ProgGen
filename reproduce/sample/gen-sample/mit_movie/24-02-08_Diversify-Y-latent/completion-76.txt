@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie from the 1930s with an A+ rating"
+Named Entities: [1930s (Year), A+ (Viewers' Rating)]
+
+Query: "Are there any movies set in the 1710s"
+Named Entities: [1710s (Year)]
+
+Query: "What genre is the film Don't You Forget About Me"
+Named Entities: [Don't You Forget About Me (Title)]

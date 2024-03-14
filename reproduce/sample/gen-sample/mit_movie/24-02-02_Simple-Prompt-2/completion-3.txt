@@ -1,0 +1,59 @@
+1. What is the rating of The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title)]
+
+2. Can you tell me a little bit about the plot of Inception?
+   Named Entities: [Inception (Title), plot (Plot)]
+
+3. Who directed the movie Forrest Gump?
+   Named Entities: [Forrest Gump (Title), directed (Director)]
+
+4. Show me a list of movies with a PG-13 rating.
+   Named Entities: [PG-13 (MPAA Rating)]
+
+5. Is there a romantic comedy from the 1990s that you would recommend?
+   Named Entities: [romantic comedy (Genre), 1990s (Year), recommend (Viewers' Rating)]
+
+6. What is the song from Titanic?
+   Named Entities: [Titanic (Title), song (Song)]
+
+7. Can you find a sci-fi film from the 1980s for me to watch?
+   Named Entities: [sci-fi (Genre), 1980s (Year)]
+
+8. Is there a review for The Godfather?
+   Named Entities: [The Godfather (Title), review (Review)]
+
+9. Which actor play the lead role in The Dark Knight?
+   Named Entities: [The Dark Knight (Title), lead role (Character), actor (Actor)]
+
+10. Tell me about the character Iron Man in the Marvel movies.
+    Named Entities: [Iron Man (Character), Marvel (Genre)]
+
+11. What was the viewers' rating for Jurassic Park?
+    Named Entities: [Jurassic Park (Title), viewers' rating (Viewers' Rating)]
+
+12. Can you show me a trailer for The Matrix?
+    Named Entities: [The Matrix (Title), trailer (Trailer)]
+
+13. How many Fast and Furious movies have been released?
+    Named Entities: [Fast and Furious (Title)]
+
+14. What is the genre of the movie Avatar?
+    Named Entities: [Avatar (Title), genre (Genre)]
+
+15. Who directed the film Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), directed (Director)]
+
+16. Can you recommend a feel-good movie from the 2000s?
+    Named Entities: [feel-good movie (Genre), 2000s (Year), recommend (Viewers' Rating)]
+
+17. Show me the highest rated war movie.
+    Named Entities: [highest rated (Viewers' Rating), war movie (Genre)]
+
+18. Which film features the song "My Heart Will Go On"?
+    Named Entities: [song (Song)]
+
+19. What is the year of release for The Lord of the Rings: The Fellowship of the Ring?
+    Named Entities: [The Lord of the Rings: The Fellowship of the Ring (Title), year of release (Year)]
+
+20. Can you tell me about the character Jack Sparrow in the Pirates of the Caribbean movies?
+    Named Entities: [Jack Sparrow (Character), Pirates of the Caribbean (Title)]

@@ -1,0 +1,8 @@
+1. "Has The Lion King won any Academy Awards or received high praise from critics?"
+Named Entities: [The Lion King (Title), Academy Awards (Awards), High praise (Review)]
+
+2. "Show me the Critics' choice trailer for a fiction movie from the 1940s."
+Named Entities: [Critics' choice trailer (Trailer), 1940s (Year), fiction (Genre)]
+
+3. "What movies from the 1940s have received a 4/10 rating or lower?"
+Named Entities: [1940s (Year), 4/10 rating (Viewers' Rating)]

@@ -1,0 +1,11 @@
+1. Query: "What's the highest rated {{BBQ}} joint in the city"
+Text Span: "BBQ"
+Label: (A). Cuisine
+
+2. Query: "I'm craving Italian food, can you recommend a good {{Italian}} restaurant nearby?"
+Text Span: "Italian"
+Label: (A). Cuisine
+
+3. Query: "I'm craving some {{Thai curry}}, where's the best place to get it?"
+Text Span: "Thai curry"
+Label: (A). Cuisine

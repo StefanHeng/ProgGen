@@ -1,0 +1,8 @@
+Query: "I'm looking for a quirky late-night dining spot. Any suggestions?"
+Named Entities: [quirky and eccentric (Amenity), late-night dining (Amenity)]
+
+Query: "Where can I find a Night Owl Diner with unique ambiance?"
+Named Entities: [Night Owl Diner (Restaurant Name), unique ambiance (Amenity)]
+
+Query: "I need to grab a bite at a late-night dining place with an offbeat vibe. Any recommendations?"
+Named Entities: [late-night dining (Amenity), offbeat vibe (Amenity)]

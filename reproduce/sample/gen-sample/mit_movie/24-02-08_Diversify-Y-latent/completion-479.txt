@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the movie Matthew McConaughey starred in that is rated TV-MA?"
+Named Entities: [Matthew McConaughey (Actor), TV-MA (MPAA Rating)]
+
+2. "Is The Predator considered a must-see movie of the action genre?"
+Named Entities: [The Predator (Title), action (Genre), must-see (Viewers' Rating)]
+
+3. "When was Moulin Rouge released and what song is featured in the movie?"
+Named Entities: [Moulin Rouge (Title), released (Year), song (Song)]

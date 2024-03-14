@@ -1,0 +1,10 @@
+
+
+Query: "What are the operating hours for [Wendy's]?"
+Named Entities: [Wendy's (Restaurant Name), operating hours (Hours)]
+
+Query: "I'm craving some spicy food, where can I find a restaurant with authentic [Wendy's] cuisine?"
+Named Entities: [spicy food (Dish), authentic (Amenity), Wendy's (Cuisine)]
+
+Query: "I need to find a restaurant near me that serves quality food at a reasonable price, any recommendations other than [Wendy's]?"
+Named Entities: [near me (Location), quality food (Rating), reasonable price (Price), Wendy's (Restaurant Name)]

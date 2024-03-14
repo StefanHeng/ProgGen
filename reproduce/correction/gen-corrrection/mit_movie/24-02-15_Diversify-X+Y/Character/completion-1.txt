@@ -1,0 +1,8 @@
+1. Text Span: "secret agent"
+Label: (C). The correct entity type is Genre.
+
+2. Text Span: "great rapport"
+Label: (D). Not a Named Entity.
+
+3. Text Span: "Dash"
+Label: (A). The span is a named entity of type character

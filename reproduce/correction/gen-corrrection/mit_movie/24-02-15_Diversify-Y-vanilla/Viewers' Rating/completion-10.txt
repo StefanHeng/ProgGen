@@ -1,0 +1,8 @@
+1. Text Span: "entertaining"
+Label: (C). The span is not a named entity. Entity Type: other
+
+2. Text Span: "cult"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "stale"
+Label: (C). The span is not a named entity. Entity Type: other

@@ -1,0 +1,8 @@
+1. "What BAFTA nominated movies has Yorgos Lanthimos directed?"
+   Named Entities: [BAFTA nominated (Viewers' Rating), Yorgos Lanthimos (Director)]
+
+2. "Show me a movie starring Aragorn with great music."
+   Named Entities: [Aragorn (Character), great music (Song)]
+
+3. "When did Captain America: The First Avenger come out?"
+   Named Entities: [Captain America: The First Avenger (Title), 1996 (Year)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck with a good selection of pescatarian options?"
+Named Entities: [food truck (Amenity), pescatarian (Cuisine)]
+
+2. "I want to find a food truck with seafood dishes that are reasonably priced"
+Named Entities: [food truck (Amenity), seafood (Cuisine), reasonably priced (Price)]
+
+3. "What food trucks in this area are known for their high ratings on fish tacos?"
+Named Entities: [food trucks (Amenity), high ratings (Rating), fish tacos (Dish)]

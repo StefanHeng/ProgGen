@@ -1,0 +1,8 @@
+1. "Can you tell me which movie from 1977 was recommended by viewers and received an Academy Award nominee?"
+Named Entities: [1977 (Year), Recommended by viewers (Review), Academy Award nominee (Awards and nominations)]
+
+2. "I'm curious to know if the movie with the song 'Let It Go' has won any Academy Awards and nominations."
+Named Entities: [Let It Go (Song), Academy Award nominee (Awards and nominations)]
+
+3. "I'm feeling adventurous. Show me a film that received an Academy Award nominee for the song 'The Time of My Life'."
+Named Entities: [The Time of My Life (Song), Academy Award nominee (Awards and nominations)]

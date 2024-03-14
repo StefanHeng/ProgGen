@@ -1,0 +1,11 @@
+1. Sentence: "{{Apple}}'s new iPhone 13 to be released next month."
+Text Span: "Apple"
+Label: (A). Named entity of type organization
+
+2. Sentence: "{{Berlin Philharmonic Orchestra}} to perform at the prestigious concert hall."
+Text Span: "Berlin Philharmonic Orchestra"
+Label: (A). Named entity of type organization
+
+3. Sentence: "{{ISIS}} claims responsibility for bombing in Baghdad."
+Text Span: "ISIS"
+Label: (A). Named entity of type organization

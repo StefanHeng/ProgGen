@@ -1,0 +1,8 @@
+1. Text Span: "craving"
+Label: (D). The span is not a named entity
+
+2. Text Span: "dinner"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Text Span: "peaceful"
+Label: (A). The span is a named entity of type amenity

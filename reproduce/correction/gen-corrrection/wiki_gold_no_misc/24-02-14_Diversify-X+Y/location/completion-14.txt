@@ -1,0 +1,11 @@
+1. Sentence: "The {{Gobi Desert}} spans across northern China and southern Mongolia."
+Text Span: "Gobi Desert"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{The Troubadour}}, a historic music venue in Los Angeles, has hosted performances by some of the most influential musicians in the industry."
+Text Span: "The Troubadour"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The Baghdad Green Zone is a highly secure area in the center of Baghdad, {{Iraq}} which serves as the headquarters for the Iraqi government and the US military presence in the country."
+Text Span: "Iraq"
+Label: (A). The span is a named entity of type location

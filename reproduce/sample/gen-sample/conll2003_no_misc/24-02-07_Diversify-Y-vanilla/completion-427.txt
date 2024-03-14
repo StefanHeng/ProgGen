@@ -1,0 +1,8 @@
+1. "IBM Corporation to invest $1 billion in new data center."
+Named Entities: [IBM Corporation (organization)]
+
+2. "Tech giant IBM Corporation merges with software company Red Hat."
+Named Entities: [IBM Corporation (organization), Red Hat (organization)]
+
+3. "IBM Corporation CEO, John Doe, steps down amidst company reorganization."
+Named Entities: [IBM Corporation (organization), John Doe (person)]

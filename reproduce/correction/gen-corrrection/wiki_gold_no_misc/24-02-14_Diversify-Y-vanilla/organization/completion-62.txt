@@ -1,0 +1,11 @@
+1. Sentence: "{{Tencent}} is a Chinese multinational conglomerate holding company founded in 1998."
+Text Span: "Tencent"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The United Nations Children's Fund (UNICEF) was created by the {{United Nations General Assembly}} in 1946 to provide emergency food and healthcare to children in countries that had been devastated by World War II."
+Text Span: "United Nations General Assembly"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The {{United Nations High Commissioner for Refugees}} (UNHCR) provides assistance to millions of refugees around the world."
+Text Span: "United Nations High Commissioner for Refugees"
+Label: (A). The span is a named entity of type organization

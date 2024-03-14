@@ -1,0 +1,8 @@
+1. Text Span: "London"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Spain"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Southern Hemisphere"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

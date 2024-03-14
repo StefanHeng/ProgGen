@@ -1,0 +1,8 @@
+Query: "I'm looking for a fast-casual restaurant with a buffet that offers low-carb options"
+Named Entities: [fast-casual (Amenity), buffet (Amenity), low-carb (Dietary Restriction)]
+
+Query: "where can I find a buffet with low-carb options in a fast-casual restaurant"
+Named Entities: [buffet (Amenity), low-carb (Dietary Restriction), fast-casual (Amenity)]
+
+Query: "which fast-casual restaurant offers a buffet with low-carb choices"
+Named Entities: [fast-casual (Amenity), buffet (Amenity), low-carb (Dietary Restriction)]

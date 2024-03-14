@@ -1,0 +1,8 @@
+Query: "Where can I find a nearby restaurant with a $6.99 pizza deal?"
+Named Entities: [nearby (Location), $6.99 Pizza Deal (Price)]
+
+Query: "I'm craving some fast food, where can I get a $6.99 pizza deal?"
+Named Entities: [fast food (Cuisine), $6.99 Pizza Deal (Price)]
+
+Query: "Is there a fast food place in the area offering a $6.99 pizza deal?"
+Named Entities: [fast food (Cuisine), $6.99 Pizza Deal (Price)]

@@ -1,0 +1,8 @@
+Query: "where can i get a good breakfast before 8 a m that delivers"
+Named Entities: [breakfast (Cuisine), before 8 a m (Hours), delivers (Amenity)]
+
+Query: "which restaurant in the area serves breakfast at a reasonable price and offers delivery"
+Named Entities: [breakfast (Cuisine), reasonable price (Price), delivery (Amenity)]
+
+Query: "i want to order breakfast from a place with high ratings and quick delivery"
+Named Entities: [breakfast (Cuisine), high ratings (Rating), quick delivery (Amenity)]

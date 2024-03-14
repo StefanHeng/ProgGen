@@ -1,0 +1,8 @@
+1. Query: "Has Samuel Jackson ever directed an Oscar-winning film?"
+Named Entities: [Samuel Jackson (Actor), directed (Director), Oscar-winning (Award)]
+
+2. Query: "I heard George Miller's latest movie is a must-see, did it receive any Oscar nominations?"
+Named Entities: [George Miller (Director), latest movie (Title), must-see (Viewers' Rating), Oscar nominations (Award)]
+
+3. Query: "What movie with Samantha Phillips has won the most awards?"
+Named Entities: [Samantha Phillips (Actor), won the most awards (Award)]

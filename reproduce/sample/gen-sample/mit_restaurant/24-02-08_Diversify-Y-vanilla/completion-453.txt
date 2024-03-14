@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with a cozy atmosphere and outdoor seating"
+Named Entities: [cozy atmosphere (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm in the mood for some Italian food, any nearby options"
+Named Entities: [Italian (Cuisine), nearby (Location)]
+
+Query: "what are the top-rated sushi restaurants in the area"
+Named Entities: [top-rated (Rating), sushi (Cuisine), area (Location)]

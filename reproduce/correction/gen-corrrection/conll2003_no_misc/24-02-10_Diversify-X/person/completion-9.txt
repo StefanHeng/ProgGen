@@ -1,0 +1,8 @@
+1. Text Span: "restaurant owner"
+Label: (C). The span is a named entity but the category is not person. Entity type: organization
+
+2. Text Span: "Dr. Stephen Hawking"
+Label: (A)
+
+3. Text Span: "Guillermo del Toro"
+Label: (A)

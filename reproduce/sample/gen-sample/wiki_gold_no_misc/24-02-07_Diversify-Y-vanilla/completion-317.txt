@@ -1,0 +1,8 @@
+Sentence: "The World Health Organization has declared the outbreak a Public Health Emergency of International Concern."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "The CEO, John Smith, announced the company's plans for expansion into the European market."
+Named Entities: [John Smith (person)]
+
+Sentence: "The city of Paris is known for its iconic landmarks, including the Eiffel Tower and Notre-Dame Cathedral."
+Named Entities: [Paris (location), Eiffel Tower (location), Notre-Dame Cathedral (location)]

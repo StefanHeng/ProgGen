@@ -1,0 +1,8 @@
+Query: "Can you tell me what awards and nominations the movie Titanic received?"
+Named Entities: [Titanic (Title)]
+
+Query: "Which film directed by Steven Spielberg won the most awards in the 1990s?"
+Named Entities: [Steven Spielberg (Director), 1990s (Year)]
+
+Query: "Have any James Bond movies won an Academy Award?"
+Named Entities: [James Bond (Character), Academy Award (Award)]

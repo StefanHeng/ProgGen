@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with a good selection of oysters?"
+Named Entities: [buffet (Amenity), oysters (Dish)]
+
+2. "I'm looking for a buffet spot that offers high-quality oysters at a reasonable price"
+Named Entities: [buffet (Amenity), oysters (Dish), reasonable price (Price)]
+
+3. "Where can I find a buffet restaurant with a nice ambience and a variety of oysters?"
+Named Entities: [buffet (Amenity), oysters (Dish)]

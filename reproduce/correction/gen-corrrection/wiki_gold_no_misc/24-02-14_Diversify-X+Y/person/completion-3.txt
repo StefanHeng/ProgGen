@@ -1,0 +1,11 @@
+1. Sentence: 'The {{Trimurti}} is a concept in Hinduism "in which the cosmic functions of creation, maintenance, and destruction are personified by the forms of Brahma the creator, Vishnu the maintainer or preserver, and Shiva the destroyer or transformer."'
+Text Span: "Trimurti"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.
+
+2. Sentence: "In Greek mythology, the tale of the {{Minotaur}} is one of the most well-known stories, involving a half-man, half-bull creature that lived in a labyrinth on the island of Crete."
+Text Span: "Minotaur"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.
+
+3. Sentence: "Mount Sinai, also known as Mount Horeb, is a mountain in the Sinai Peninsula of Egypt that is believed to be the place where Moses received the Ten Commandments from {{God}}."
+Text Span: "God"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.

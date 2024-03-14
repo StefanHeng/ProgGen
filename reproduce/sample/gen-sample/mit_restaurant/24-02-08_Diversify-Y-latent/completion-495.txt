@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a place to have mimosas with an excellent rating"
+   Named Entities: [mimosas (Amenity), excellent rating (Rating)]
+
+2. Query: "What time does Sunrise Grill open on weekdays?"
+   Named Entities: [Sunrise Grill (Restaurant Name), open (Hours), weekdays (Hours)]
+
+3. Query: "Where can I find some delicious Afghan cuisine before 9 AM?"
+   Named Entities: [Afghan cuisine (Cuisine), before 9 AM (Hours)]

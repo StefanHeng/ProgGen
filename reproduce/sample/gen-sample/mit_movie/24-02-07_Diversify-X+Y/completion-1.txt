@@ -1,0 +1,8 @@
+1. "I need to know the showtimes for the movie with a martial arts master."
+Named Entities: [martial arts master (Character)]
+
+2. "Show me where to buy tickets for the film directed by Lorene Scafaria."
+Named Entities: [Lorene Scafaria (Director)]
+
+3. "I don't have time to wait. Tell me when the movie with time travel is playing."
+Named Entities: [time travel (Plot)]

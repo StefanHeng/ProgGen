@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie from the 1920s?"
+Named Entities: [1920s (Year)]
+
+2. Query: "what's a movie with a powerful and impactful plot?"
+Named Entities: [Impactful (Viewers' Rating)]
+
+3. Query: "show me an experimental film with the song In the Air Tonight"
+Named Entities: [Experimental (Genre), In the Air Tonight (Song)]

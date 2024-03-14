@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with the song Smells Like Teen Spirit"
+Named Entities: [Smells Like Teen Spirit (Song)]
+
+Query: "What movies were released between 1987 and 1990"
+Named Entities: [1987-1990 (Year)]
+
+Query: "Who is the actor that plays Will Turner in Pirates of the Caribbean"
+Named Entities: [Will Turner (Character)]

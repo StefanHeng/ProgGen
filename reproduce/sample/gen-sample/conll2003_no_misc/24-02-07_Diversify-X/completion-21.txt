@@ -1,0 +1,8 @@
+Sentence: "Local community comes together to raise funds for family who lost everything in house fire."
+Named Entities: [local community (organization)]
+
+Sentence: "High school student overcomes adversity to win prestigious scholarship."
+Named Entities: [high school student (person)]
+
+Sentence: "Local charity organization provides free meals to homeless population during holiday season."
+Named Entities: [local charity organization (organization), homeless population (location)]

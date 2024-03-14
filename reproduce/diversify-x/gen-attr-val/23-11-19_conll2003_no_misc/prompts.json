@@ -1,0 +1,10 @@
+{
+    "prompts": [
+        "Suppose you are a news writer for Reuters. List 30 diverse news categories for news articles. Some examples are [politics, technology, sports, culture, health, business, environment, breaking news, human interest stories, local stories, economics, international events, science].",
+        "Suppose you are a news writer for Reuters. List 30 diverse news categories for news articles. Some examples are [politics, health, science, environment, economics, business, local stories, sports, technology, human interest stories, culture, international events, breaking news].",
+        "Suppose you are a news writer for Reuters. List 30 diverse news categories for news articles. Some examples are [human interest stories, sports, local stories, international events, science, economics, health, environment, technology, business, breaking news, politics, culture].",
+        "Suppose you are a news writer for Reuters. List 8 different writing styles for news articles. Some examples are [op-eds, in-depth analysis, opinion pieces, feature stories].",
+        "Suppose you are a news writer for Reuters. List 8 different writing styles for news articles. Some examples are [straightforward, narrative, concise, factual, analytical, objective, clear].",
+        "Suppose you are a news writer for Reuters. List 8 different writing styles for news articles. Some examples are [feature stories, op-eds, opinion pieces, in-depth analysis]."
+    ]
+}

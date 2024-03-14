@@ -1,0 +1,8 @@
+1. "Can you recommend any Italian restaurants with a 4-star rating for dinner takeout?"
+   Named Entities: [Italian (Cuisine), 4-star (Rating), dinner (Amenity), takeout (Amenity)]
+
+2. "I want to find a sushi place with affordable prices and a good location for dinner takeout"
+   Named Entities: [sushi (Cuisine), affordable prices (Price), good location (Location), dinner (Amenity), takeout (Amenity)]
+
+3. "Where can I get a great steak for dinner takeout within a reasonable price range?"
+   Named Entities: [great steak (Dish), reasonable price range (Price), dinner (Amenity), takeout (Amenity)]

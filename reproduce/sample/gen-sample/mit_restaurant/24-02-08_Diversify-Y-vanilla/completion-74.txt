@@ -1,0 +1,8 @@
+Query: "I'm looking for a nice seafood restaurant in New Orleans"
+Named Entities: [seafood (Cuisine), New Orleans (Location)]
+
+Query: "Where can I find a restaurant with outdoor seating in New Orleans recommended by Time Out"
+Named Entities: [outdoor seating (Amenity), New Orleans (Location), Time Out (Amenity)]
+
+Query: "Suggest a place for brunch with bottomless mimosas"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you tell me if Pedro Almodóvar directed any international espionage movies?"
+Named Entities: [Pedro Almodóvar (Director), international espionage (Genre)]
+
+2. "I'm looking for a C rated movie directed by Hayao Miyazaki with a recent trailer release."
+Named Entities: [C (MPAA Rating), Hayao Miyazaki (Director), recent (Year), Trailer release (Trailer)]
+
+3. "Could you recommend a movie from 1987 with a thrilling plot and an intense character?"
+Named Entities: [1987 (Year), thrilling (Genre), intense (Character)]

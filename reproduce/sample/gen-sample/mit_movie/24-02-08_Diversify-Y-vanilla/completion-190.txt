@@ -1,0 +1,8 @@
+1. "What is the year of the movie where Michael Myers is the main character?"
+Named Entities: [Michael Myers (Character)]
+
+2. "I'm looking for a film featuring the song Single Ladies. Can you recommend one?"
+Named Entities: [Single Ladies (Song)]
+
+3. "Do you have the final trailer for the film Glimpse?"
+Named Entities: [final trailer (Trailer), Glimpse (Title)]

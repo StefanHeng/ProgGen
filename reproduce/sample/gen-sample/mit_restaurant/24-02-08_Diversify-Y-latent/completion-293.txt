@@ -1,0 +1,8 @@
+1. "What are the opening hours for The Hungry Duck?"
+Named Entities: [The Hungry Duck (Restaurant Name), opening hours (Hours)]
+
+2. "I'm craving some BBQ, can you recommend a good place nearby?"
+Named Entities: [BBQ (Cuisine), nearby (Location)]
+
+3. "Where can I find a restaurant with a 5-star rating?"
+Named Entities: [5-star (Rating)]

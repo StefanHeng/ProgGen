@@ -1,0 +1,8 @@
+1. "Hey, what's a cool action movie on Netflix with lots of explosions?"
+Named Entities: [action movie (Genre), explosions (Plot), Netflix (Streaming platform)]
+
+2. "Can I watch a scary movie on Disney+ with zombies and stuff like that?"
+Named Entities: [scary movie (Genre), zombies (Plot), Disney+ (Streaming platform)]
+
+3. "I want to see a really funny movie on Amazon Prime, maybe with superheroes or something."
+Named Entities: [funny movie (Review), superheroes (Genre), Amazon Prime (Streaming platform)]

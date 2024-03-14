@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer of the latest Tim Burton movie?"
+Named Entities: [Tim Burton (Director)]
+
+2. Query: "What year was the movie Moana released?"
+Named Entities: [Moana (Title), 2014 (Year)]
+
+3. Query: "Could you tell me the genre of Interstellar and who directed The Wizard of Oz?"
+Named Entities: [Interstellar (Title), The Wizard of Oz (Title), Director]

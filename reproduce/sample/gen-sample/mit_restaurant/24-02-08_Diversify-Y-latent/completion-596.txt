@@ -1,0 +1,8 @@
+Query: "what are some good Italian restaurants for dinner"
+Named Entities: [good (Rating), Italian (Cuisine), Dinner (Amenity)]
+
+Query: "show me the nearest sushi place open for dinner"
+Named Entities: [nearest (Location), sushi (Cuisine), open for dinner (Hours)]
+
+Query: "can you recommend a restaurant with outdoor seating and a view for dinner"
+Named Entities: [recommend (Amenity), outdoor seating (Amenity), view (Amenity), Dinner (Amenity)]

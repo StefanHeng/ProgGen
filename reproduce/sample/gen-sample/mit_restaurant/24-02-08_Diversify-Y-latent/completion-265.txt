@@ -1,0 +1,8 @@
+1. "Can you recommend an outstanding Italian restaurant with a family pack option?"
+Named Entities: [outstanding (Rating), Italian (Cuisine), family pack (Amenity)]
+
+2. "What are the hours of the nearest five-star seafood restaurant?"
+Named Entities: [nearest (Location), five-star (Rating), seafood (Cuisine), hours (Hours)]
+
+3. "I'm craving Mexican cuisine, where can I find a budget-friendly restaurant with late-night hours?"
+Named Entities: [Mexican (Cuisine), budget-friendly (Price), late-night hours (Hours)]

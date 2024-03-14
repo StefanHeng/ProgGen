@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from the 2010s directed by Ava DuVernay?"
+   Named Entities: [2010s (Year), Ava DuVernay (Director)]
+
+2. "Show me the trailer for the Avengers movie featuring Mr. Incredible as a character."
+   Named Entities: [Mr. Incredible (Character), Avengers (Title), trailer (Trailer)]
+
+3. "Is the film Alfredo Rodriguez directed unwatchable or worth seeing?"
+   Named Entities: [Alfredo Rodriguez (Director), unwatchable or worth seeing (Review)]

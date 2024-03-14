@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the movie Raining Men?"
+Named Entities: [Raining Men (Title), trailer (Trailer)]
+
+2. "Who directed the film Jolene that is rated R-13?"
+Named Entities: [Jolene (Title), directed (Director), R-13 (MPAA Rating)]
+
+3. "What year did the movie Raining Men come out and what genre is it?"
+Named Entities: [Raining Men (Title), come out (Year), genre (Genre)]

@@ -1,0 +1,11 @@
+1. Query: "where can I find a {{Nearby}} café with a mid-range price?"
+Text Span: "Nearby"
+Label: (A). The span is a named entity of type location
+
+2. Query: "Can you recommend a good restaurant {{Around}} here for dinner tonight?"
+Text Span: "Around"
+Label: (A). The span is a named entity of type location
+
+3. Query: "Where can I find a fast food joint with a cool and trendy vibe {{adjacent to a bar}}?"
+Text Span: "adjacent to a bar"
+Label: (A). The span is a named entity of type location

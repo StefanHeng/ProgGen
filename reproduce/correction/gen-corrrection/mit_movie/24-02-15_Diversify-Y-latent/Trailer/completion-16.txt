@@ -1,0 +1,11 @@
+1. Query: "Can I watch an {{Extended preview}} of the upcoming movie directed by Christopher Nolan?"
+Text Span: "Extended preview"
+Label: (A). The span is a named entity of type trailer
+
+2. Query: "Can I see the {{teaser}} for the new Indie film by Jordan Peele"
+Text Span: "teaser"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "When will the {{trailer}} for the 2021 Bond movie be released?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer

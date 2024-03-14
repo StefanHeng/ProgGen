@@ -1,0 +1,11 @@
+1. Sentence: "{{Tesla}}'s new electric vehicle model to be unveiled in New York City next week."
+Text Span: "Tesla"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{UNESCO}} launches initiative to protect marine life in Antarctica."
+Text Span: "UNESCO"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "In a major scientific breakthrough, researchers at a leading {{university}} have developed a cutting-edge medical device that could significantly improve the lives of patients with chronic health conditions."
+Text Span: "university"
+Label: (C). The span is a named entity but the category is not organization. Entity type: organization

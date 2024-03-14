@@ -1,0 +1,11 @@
+1. Sentence: "The {{Transportation Security Administration}} (TSA) is responsible for the security of the U.S. transportation systems."
+Text Span: "Transportation Security Administration"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "In {{Hindu}} and Buddhist mythology, the Apsaras are celestial nymphs renowned for their beauty, grace, and musical talents, often depicted as the companions of gods and heavenly dancers."
+Text Span: "Hindu"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is other.
+
+3. Sentence: "The Battle of New York was a key engagement during the Revolutionary War, with both the {{Continental Army}} and the British Royal Navy playing pivotal roles."
+Text Span: "Continental Army"
+Label: (A). The span is a named entity of type organization

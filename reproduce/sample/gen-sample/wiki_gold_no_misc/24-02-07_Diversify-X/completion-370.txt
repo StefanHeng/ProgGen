@@ -1,0 +1,8 @@
+Sentence: "The University of Oxford is one of the oldest and most prestigious universities in the world."
+Named Entities: [University of Oxford (organization)]
+
+Sentence: "She received her bachelor's degree in Education from Harvard University."
+Named Entities: [Harvard University (organization)]
+
+Sentence: "The implementation of technology has revolutionized the field of education, allowing for more personalized and interactive learning experiences."
+Named Entities: [education (organization)]

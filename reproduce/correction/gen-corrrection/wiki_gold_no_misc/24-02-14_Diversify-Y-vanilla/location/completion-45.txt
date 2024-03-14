@@ -1,0 +1,8 @@
+1. Text Span: "American"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is person.
+
+2. Text Span: "Italian"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Text Span: "American"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is person.

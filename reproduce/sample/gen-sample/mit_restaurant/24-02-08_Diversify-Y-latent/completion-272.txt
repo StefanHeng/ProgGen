@@ -1,0 +1,8 @@
+1. "Can you recommend a Lebanese restaurant that uses local ingredients for their dishes?"
+Named Entities: [Lebanese (Cuisine), Local ingredients (Amenity)]
+
+2. "What are the hours of the nearest restaurant that serves authentic Lebanese cuisine?"
+Named Entities: [nearest (Location), authentic Lebanese cuisine (Cuisine), hours (Hours)]
+
+3. "I'm looking for a top-rated restaurant with Lebanese cuisine and a reasonable price range."
+Named Entities: [top-rated (Rating), Lebanese cuisine (Cuisine), reasonable price range (Price)]

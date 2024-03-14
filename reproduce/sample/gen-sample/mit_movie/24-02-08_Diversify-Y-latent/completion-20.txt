@@ -1,0 +1,8 @@
+1. Query: "can you recommend a superhero movie directed by Tim Burton"
+   Named Entities: [Tim Burton (Director), superhero (Genre)]
+   
+2. Query: "what is the viewers' rating for The Lion King"
+   Named Entities: [The Lion King (Title), viewers' rating (Viewers' Rating)]
+   
+3. Query: "is Matthew McConaughey in any GP-rated films"
+   Named Entities: [Matthew McConaughey (Actor), GP (MPAA Rating)]

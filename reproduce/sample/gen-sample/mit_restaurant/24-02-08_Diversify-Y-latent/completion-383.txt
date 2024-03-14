@@ -1,0 +1,8 @@
+Query: "I'm looking for a reliable restaurant serving Indian cuisine"
+Named Entities: [Reliable (Rating), Indian (Cuisine)]
+
+Query: "I want to find a five-star fast food restaurant with highly rated chicken sandwiches"
+Named Entities: [Five-star fast food (Rating), Highly rated chicken sandwiches (Dish)]
+
+Query: "Where can I have dinner for under 20 dollars a plate"
+Named Entities: [under 20 dollars a plate (Price)]

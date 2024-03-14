@@ -1,0 +1,8 @@
+1. Query: "What is the name of the biographical film about Adele's life?"
+   Named Entities: [biographical film (Genre), Adele (Character)]
+
+2. Query: "Can you recommend a movie from the 1710s era with a strong female lead?"
+   Named Entities: [1710s (Year), strong female lead (Character)]
+
+3. Query: "Show me the trailer for the new Spider-Man movie directed by Sam Raimi."
+   Named Entities: [new Spider-Man movie (Title), Sam Raimi (Director), trailer (Trailer)]

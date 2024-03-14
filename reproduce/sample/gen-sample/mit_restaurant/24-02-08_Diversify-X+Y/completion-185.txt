@@ -1,0 +1,8 @@
+1. "Do you know of any upscale restaurants in the area with a gluten-free menu?"
+Named Entities: [upscale (Price), gluten-free (Amenity)]
+
+2. "I need a reservation for a high-end restaurant serving gluten-free dishes tonight."
+Named Entities: [reservation (Amenity), high-end (Price), gluten-free (Amenity)]
+
+3. "Can you recommend a fine dining establishment with gluten-free options for dinner tonight?"
+Named Entities: [fine dining (Price), gluten-free (Amenity)]

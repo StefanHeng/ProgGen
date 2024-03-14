@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Barry Levinson that was released in 2014?"
+Named Entities: [Barry Levinson (Director), 2014 (Year)]
+
+2. "I want to watch a film where Emma Watson plays the lead role and the viewers have given it a high rating"
+Named Entities: [Emma Watson (Actor), high rating (Viewers' Rating)]
+
+3. "What genre does the movie Birdman belong to?"
+Named Entities: [Birdman (Title)]

@@ -1,0 +1,8 @@
+1. "I'm looking for a high-end restaurant that serves breakfast. Can you recommend any?"
+Named Entities: [high-end (Price), breakfast (Dish)]
+
+2. "What upscale restaurants in the area offer breakfast options?"
+Named Entities: [upscale (Price), breakfast (Dish)]
+
+3. "I need a recommendation for a fancy breakfast spot. Any suggestions?"
+Named Entities: [fancy (Price), breakfast (Dish)]

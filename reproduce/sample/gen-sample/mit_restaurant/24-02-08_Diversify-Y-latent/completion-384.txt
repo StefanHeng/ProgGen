@@ -1,0 +1,8 @@
+1. "I'm craving Italian food, where can I find a highly rated pizza restaurant near me?"
+Named Entities: [Italian (Cuisine), highly rated (Rating), pizza restaurant (Restaurant Name), near me (Location)]
+
+2. "What are the operating hours of the closest sushi bar?"
+Named Entities: [operating hours (Hours), closest (Location), sushi bar (Restaurant Name)]
+
+3. "Recommend a place for a fancy dinner with a seafood menu within walking distance."
+Named Entities: [fancy (Amenity), seafood menu (Cuisine), walking distance (Location)]

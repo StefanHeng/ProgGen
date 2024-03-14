@@ -1,0 +1,8 @@
+Sentence: "The company expanded its operations to Europe in 2005."
+Named Entities: [Europe (location)]
+
+Sentence: "She was appointed as the head of marketing for the technology firm."
+Named Entities: []
+
+Sentence: "The concert was attended by renowned singer Beyoncé and actor Will Smith."
+Named Entities: [Beyoncé (person), Will Smith (person)]

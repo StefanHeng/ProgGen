@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies directed by Todd Phillips with a 4 out of 5 stars rating?"
+Named Entities: [Todd Phillips (Director), 4 out of 5 stars (Viewers' Rating)]
+
+2. Query: "What movie released in 2028 has the highest viewers' rating?"
+Named Entities: [2028 (Year), highest viewers' rating (Review)]
+
+3. Query: "I'm looking for a comedy film directed by Todd Phillips."
+Named Entities: [comedy (Genre), Todd Phillips (Director)]

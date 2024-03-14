@@ -1,0 +1,11 @@
+1. Sentence: "The fashion industry has been the subject of numerous films and television shows, including reality shows such as {{Project Runway}} and The Fashion Show."
+Text Span: "Project Runway"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The Stanford prison experiment was a study of the psychological effects of becoming a prisoner or prison guard, conducted at {{Stanford University}}."
+Text Span: "Stanford University"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The {{Stanford prison experiment}} was a social psychology experiment that attempted to investigate the psychological effects of perceived power, focusing on the struggle between prisoners and prison guards."
+Text Span: "Stanford prison experiment"
+Label: (C). Wrong Type. The correct entity type is other.

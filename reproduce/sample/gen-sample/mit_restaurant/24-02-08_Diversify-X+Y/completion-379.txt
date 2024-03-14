@@ -1,0 +1,8 @@
+1. "I'm looking for a breakfast place that delivers, but with bad reviews"
+   Named Entities: [breakfast (Cuisine), delivers (Amenity), bad (Rating)]
+
+2. "Can you recommend a breakfast place with late closing time for delivery"
+   Named Entities: [breakfast (Cuisine), late closing time (Hours), delivery (Amenity)]
+
+3. "I need to order breakfast from a place with low ratings and that closes late"
+   Named Entities: [breakfast (Cuisine), low ratings (Rating), closes late (Hours)]

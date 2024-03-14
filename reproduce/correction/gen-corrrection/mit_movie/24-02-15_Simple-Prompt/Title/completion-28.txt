@@ -1,0 +1,8 @@
+1. Text Span: "star wars original trilogy"
+Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "a star is born"
+Label: (A). The span is a named entity of type movie title
+
+3. Text Span: "the shawshank redemption"
+Label: (A). The span is a named entity of type movie title

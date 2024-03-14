@@ -1,0 +1,8 @@
+1. Query: "I'm craving sushi, can you recommend any good sushi places in Portland?"
+   Named Entities: [sushi (Cuisine), good (Rating), Portland (Location)]
+
+2. Query: "What are the hours for The Portland Steakhouse?"
+   Named Entities: [The Portland Steakhouse (Restaurant Name), hours (Hours), Portland (Location)]
+
+3. Query: "I'm looking for a family-friendly restaurant with outdoor seating in Portland."
+   Named Entities: [family-friendly (Amenity), outdoor seating (Amenity), Portland (Location)]

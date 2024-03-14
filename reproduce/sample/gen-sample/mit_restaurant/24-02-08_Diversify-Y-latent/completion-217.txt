@@ -1,0 +1,8 @@
+1. "Can you recommend a Mediterranean restaurant in the city center?"
+   Named Entities: [Mediterranean (Cuisine), city center (Location)]
+
+2. "What are the operating hours for the Italian restaurant downtown?"
+   Named Entities: [Italian (Cuisine), downtown (Location), operating hours (Hours)]
+
+3. "I'm looking for a budget-friendly place to eat near the beach, do you have any recommendations?"
+   Named Entities: [budget-friendly (Price), beach (Location)]

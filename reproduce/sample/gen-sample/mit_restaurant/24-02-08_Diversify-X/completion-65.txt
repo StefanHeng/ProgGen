@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant in the downtown area with a romantic ambiance?"
+Named Entities: [fine dining (Amenity), downtown area (Location), romantic (Amenity)]
+
+Query: "I'm looking for a high-end Italian restaurant with extensive wine options. Any suggestions?"
+Named Entities: [high-end (Price), Italian (Cuisine), extensive wine options (Amenity)]
+
+Query: "What is the best upscale steakhouse with a view of the city skyline for a special occasion dinner?"
+Named Entities: [upscale (Price), steakhouse (Cuisine), view of the city skyline (Amenity), special occasion (Amenity)]

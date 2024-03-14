@@ -1,0 +1,8 @@
+1. Text Span: "directed"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Mel Brooks"
+Label: (A). Named entity of type Director
+
+3. Text Span: "Rob Reiner"
+Label: (A). Named entity of type Director

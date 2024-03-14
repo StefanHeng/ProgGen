@@ -1,0 +1,8 @@
+Query: "Which movie won the most awards in 2020?"
+Named Entities: [2020 (Year), most awards (Awards)]
+
+Query: "Can you tell me about any highly acclaimed movies from the 1980s?"
+Named Entities: [1980s (Year), highly acclaimed (Awards, Review)]
+
+Query: "What film received the most nominations at the Oscars last year?"
+Named Entities: [Oscars (Awards), last year (Year), most nominations (Awards)]

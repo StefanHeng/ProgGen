@@ -1,0 +1,11 @@
+1. Query: "Which movie from 1994 is considered {{outstanding}} and impressive?"
+Text Span: "outstanding"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "Show me a movie directed by Spike Lee that has a {{memorable}} plot"
+Text Span: "memorable"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "What movie directed by James Wan is an {{unforgettable}} drama?"
+Text Span: "unforgettable"
+Label: (A). The span is a named entity of type Review

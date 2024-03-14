@@ -1,0 +1,8 @@
+1. "Can you recommend any upscale restaurants with a good wine selection?"
+   Named Entities: [upscale (Price), good (Rating), wine selection (Amenity)]
+
+2. "Where can I have a romantic dinner with a view of the city skyline?"
+   Named Entities: [romantic (Amenity), view of the city skyline (Location)]
+
+3. "I'm craving some authentic Italian cuisine, where can I find a top-rated trattoria?"
+   Named Entities: [authentic Italian (Cuisine), top-rated (Rating), trattoria (Restaurant Name)]

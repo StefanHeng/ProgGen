@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an art house film that is a standout in terms of its alluring plot and features Al Pacino?"
+Named Entities: [art house (Genre), standout (Viewers' Rating), alluring (Plot), Al Pacino (Actor)]
+
+2. Query: "Show me a trailer for Zack Snyder's latest film, Belle, which is directed by Terrence Malick."
+Named Entities: [trailer (Trailer), Zack Snyder (Director), Belle (Title), Terrence Malick (Director)]
+
+3. Query: "Are there any reviews for The Pink Panther movie released in 2006?"
+Named Entities: [The Pink Panther (Title), 2006 (Year), reviews (Review)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me which movie won the Oscar for Best Picture in 2020?"
+Named Entities: [2020 (Year), Oscar (Awards), Best Picture (Award Category)]
+
+Query: "I am looking for a film that was nominated for the Palme d'Or at the Cannes Film Festival in the past five years."
+Named Entities: [Palme d'Or (Awards), Cannes Film Festival (Event), past five years (Time)]
+
+Query: "Please find me a movie directed by a filmmaker who has won the Golden Globe for Best Director."
+Named Entities: [Golden Globe (Awards), Best Director (Award Category)]

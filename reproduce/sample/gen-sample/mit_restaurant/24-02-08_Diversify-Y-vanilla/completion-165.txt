@@ -1,0 +1,8 @@
+Query: "I'm craving some chicken, where can I find a Nando's Peri-Peri around here"
+Named Entities: [chicken (Dish), Nando's Peri-Peri (Restaurant Name), around here (Location)]
+
+Query: "I want to grab a quick meal, can you find the closest Jack in the Box"
+Named Entities: [quick meal (Amenity), closest (Location), Jack in the Box (Restaurant Name)]
+
+Query: "What's the price range for a meal at Republique"
+Named Entities: [price range (Price), Republique (Restaurant Name)]

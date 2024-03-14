@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with free WiFi in the downtown area?"
+Named Entities: [free WiFi (Amenity), downtown area (Location)]
+
+2. "I'm craving some delicious Italian cuisine, do you know any Italian restaurants with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+3. "Find me a place with vegan options that serves brunch on Sundays"
+Named Entities: [vegan options (Cuisine), brunch on Sundays (Hours)]

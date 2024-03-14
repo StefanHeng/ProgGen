@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies with well-executed humor?"
+Named Entities: [well-executed humor (Review)]
+
+2. Query: "Who directed the film released in 1972 starring Finn?"
+Named Entities: [1972 (Year), Finn (Character)]
+
+3. Query: "Are there any movies like Harry Potter and the Philosopher's Stone that are rated NR?"
+Named Entities: [Harry Potter and the Philosopher's Stone (Title), NR (MPAA Rating)]

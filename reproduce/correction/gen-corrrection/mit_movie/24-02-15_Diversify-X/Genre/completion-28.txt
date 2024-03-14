@@ -1,0 +1,11 @@
+1. Query: "Who directed the movie with the best {{80s music}} soundtrack?"
+Text Span: "80s music"
+Label: (C). The span is a named entity but the category is not genre. Entity Type: Soundtrack
+
+2. Query: "Can you recommend a family-friendly {{animated}} movie with a catchy soundtrack?"
+Text Span: "animated"
+Label: (A). The span is a named entity of type genre
+
+3. Query: "I'm in a rush, so tell me who directed the highest-rated {{action}} film of last year"
+Text Span: "action"
+Label: (A). The span is a named entity of type genre

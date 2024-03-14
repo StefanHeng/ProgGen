@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a top-notch movie with Jodie Foster as the main character that involves family secrets?"
+Named Entities: [top-notch (Viewers' Rating), Jodie Foster (Actor), family secrets (Plot)]
+
+2. Query: "Show me a film directed by Alejandro González Iñárritu starring Salma Hayek that has a captivating trailer."
+Named Entities: [Alejandro González Iñárritu (Director), Salma Hayek (Actor), captivating (Trailer)]
+
+3. Query: "What year did the movie 'Pride and Prejudice' with a romantic plot and a timeless song come out?"
+Named Entities: ['Pride and Prejudice' (Title), romantic (Plot), timeless (Song)]

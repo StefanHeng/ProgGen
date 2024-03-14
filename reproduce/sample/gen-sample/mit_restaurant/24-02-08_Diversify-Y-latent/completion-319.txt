@@ -1,0 +1,8 @@
+1. "Can you recommend a premier restaurant with huevos rancheros on the menu?"
+Named Entities: [premier (Rating), huevos rancheros (Dish)]
+
+2. "Where can I find a restaurant offering brunch discounts in the area?"
+Named Entities: [brunch discounts (Amenity), area (Location)]
+
+3. "I'm craving some authentic Mexican cuisine, where can I find a restaurant with reasonable prices and good reviews?"
+Named Entities: [Mexican cuisine (Cuisine), reasonable prices (Price), good reviews (Rating)]

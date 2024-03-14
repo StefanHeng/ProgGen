@@ -1,0 +1,8 @@
+1. "I'm looking for a family-friendly restaurant with a play area in the vicinity of downtown."
+Named Entities: [family-friendly (Amenity), play area (Amenity), downtown (Location)]
+
+2. "Where can I find authentic Tex-Mex cuisine with a lively atmosphere for dinner tonight?"
+Named Entities: [authentic Tex-Mex cuisine (Cuisine), lively atmosphere (Amenity), dinner tonight (Hours)]
+
+3. "What's a highly-rated restaurant with outdoor seating and a good wine selection?"
+Named Entities: [highly-rated (Rating), outdoor seating (Amenity), good wine selection (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "What movie features a dance competition and compelling plot twists"
+   Named Entities: [Dance competition (Genre), Compelling plot twists (Plot)]
+
+2. Query: "Can you tell me about the movie Silver Linings Playbook starring Julia Roberts"
+   Named Entities: [Silver Linings Playbook (Title), Julia Roberts (Actor)]
+
+3. Query: "When was the movie Sully released and what percentage of viewers enjoyed it"
+   Named Entities: [Sully (Title), 85% (Viewers' Rating)]

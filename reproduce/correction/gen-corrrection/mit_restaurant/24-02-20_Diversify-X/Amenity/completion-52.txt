@@ -1,0 +1,8 @@
+1. Text Span: "lunch"
+   Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Text Span: "fine dining"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "fine dining"
+   Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "fine dining restaurant".

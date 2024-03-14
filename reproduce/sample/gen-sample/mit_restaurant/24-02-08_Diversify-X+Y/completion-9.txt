@@ -1,0 +1,8 @@
+Query: "I'm craving some awesome milkshakes, where can I find a fast food restaurant with Greek cuisine"
+Named Entities: [awesome milkshakes (Amenity), fast food (Cuisine), Greek (Cuisine)]
+
+Query: "I need to grab a quick bite, where can I get Greek fast food with awesome milkshakes"
+Named Entities: [quick bite (Amenity), Greek (Cuisine), fast food (Cuisine), awesome milkshakes (Amenity)]
+
+Query: "I'm in the mood for some Greek food and amazing milkshakes, where's the nearest fast food spot"
+Named Entities: [Greek (Cuisine), amazing milkshakes (Amenity), nearest (Location), fast food (Cuisine)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with late-night dining and live music, preferably serving Ramen"
+Named Entities: [late-night dining (Amenity), live music (Amenity), Ramen (Dish)]
+
+Query: "Can you recommend a restaurant with Ramen that also has live music and is open late at night?"
+Named Entities: [Ramen (Dish), live music (Amenity), open late at night (Hours)]
+
+Query: "I need to find a spot with late-night dining where I can enjoy some Ramen while listening to live music"
+Named Entities: [late-night dining (Amenity), Ramen (Dish), live music (Amenity)]

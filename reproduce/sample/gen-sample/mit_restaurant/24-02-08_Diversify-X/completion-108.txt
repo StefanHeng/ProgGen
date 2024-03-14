@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant nearby with a great selection of vegetarian dishes for lunch?"
+Named Entities: [vegetarian (Cuisine), lunch (Amenity)]
+
+2. "I'm looking for a seafood restaurant with outdoor seating and a high rating. Any suggestions?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), high (Rating)]
+
+3. "Where can I find a French bistro open for lunch that's in the Downtown area?"
+Named Entities: [French (Cuisine), lunch (Amenity), Downtown (Location)]

@@ -1,0 +1,8 @@
+1. "What movie did Ryan Reynolds star in in 1997?"
+Named Entities: [Ryan Reynolds (Actor), 1997 (Year)]
+
+2. "Can you recommend a good teen movie with Justin Bieber?"
+Named Entities: [Justin Bieber (Actor), Teen (Genre)]
+
+3. "I heard Viola Davis gave lackluster performances in a movie in 2002. Can you tell me which one?"
+Named Entities: [Viola Davis (Actor), Lackluster performances (Review), 2002 (Year)]

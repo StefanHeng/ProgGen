@@ -1,0 +1,8 @@
+1. Text Span: "makeup tutorial"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "Architecture for Humanity"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Maya civilization"
+Label: (A). The span is a named entity of type organization

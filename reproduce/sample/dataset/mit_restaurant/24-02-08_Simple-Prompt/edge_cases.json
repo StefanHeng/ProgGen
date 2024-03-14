@@ -1,0 +1,207 @@
+[
+    {
+        "sentence": "Which restaurants around here are open past midnight?",
+        "entity_names": [
+            "past midnight",
+            "area"
+        ],
+        "filename": "completion-9",
+        "entity_types": [
+            "Hours",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "area"
+        ]
+    },
+    {
+        "sentence": "I want to try some sushi, where's the best sushi spot in town?",
+        "entity_names": [
+            "sushi",
+            "best",
+            "town"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "best"
+        ]
+    },
+    {
+        "sentence": "Is the Italian restaurant cash-only?",
+        "entity_names": [
+            "Italian",
+            "cash-only"
+        ],
+        "filename": "completion-17",
+        "entity_types": [
+            "Cuisine",
+            "Payment"
+        ],
+        "entity_names_not_allowed": [
+            "cash-only"
+        ],
+        "entity_types_not_allowed": [
+            "Payment"
+        ]
+    },
+    {
+        "sentence": "I want to try some sushi, where can I find a good sushi place?",
+        "entity_names": [
+            "sushi",
+            "good"
+        ],
+        "filename": "completion-22",
+        "entity_types": [
+            "Cuisine",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "Can you suggest a restaurant with a vegan menu?",
+        "entity_names": [
+            "vegan",
+            "vegan menu"
+        ],
+        "filename": "completion-22",
+        "entity_types": [
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "vegan"
+        ]
+    },
+    {
+        "sentence": "Which restaurant serves the best seafood in town?",
+        "entity_names": [
+            "best",
+            "seafood",
+            "the town"
+        ],
+        "filename": "completion-28",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "the town"
+        ]
+    },
+    {
+        "sentence": "I need a reservation for 3 at the French bistro downtown.",
+        "entity_names": [
+            "reservation",
+            "3",
+            "French bistro",
+            "downtown"
+        ],
+        "filename": "completion-31",
+        "entity_types": [
+            "Amenity",
+            "Quantity",
+            "Restaurant Name",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "3"
+        ],
+        "entity_types_not_allowed": [
+            "Quantity"
+        ]
+    },
+    {
+        "sentence": "Can you book a table for 5 at that Italian place we went to last month?",
+        "entity_names": [
+            "book a table",
+            "5",
+            "Italian",
+            "last month"
+        ],
+        "filename": "completion-31",
+        "entity_types": [
+            "Amenity",
+            "Quantity",
+            "Cuisine",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "5"
+        ],
+        "entity_types_not_allowed": [
+            "Quantity"
+        ]
+    },
+    {
+        "sentence": "I need a reservation for 8 at the steakhouse by the waterfront.",
+        "entity_names": [
+            "reservation",
+            "8",
+            "steakhouse",
+            "waterfront"
+        ],
+        "filename": "completion-31",
+        "entity_types": [
+            "Amenity",
+            "Quantity",
+            "Cuisine",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "8"
+        ],
+        "entity_types_not_allowed": [
+            "Quantity"
+        ]
+    },
+    {
+        "sentence": "Do you know a good spot for dim sum with a large group?",
+        "entity_names": [
+            "good",
+            "dim sum",
+            "large group"
+        ],
+        "filename": "completion-31",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Quantity"
+        ],
+        "entity_names_not_allowed": [
+            "large group"
+        ],
+        "entity_types_not_allowed": [
+            "Quantity"
+        ]
+    },
+    {
+        "sentence": "Can you make a reservation for 4 at the seafood restaurant on Main Street?",
+        "entity_names": [
+            "reservation",
+            "4",
+            "seafood restaurant",
+            "Main Street"
+        ],
+        "filename": "completion-31",
+        "entity_types": [
+            "Amenity",
+            "Quantity",
+            "Cuisine",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "4"
+        ],
+        "entity_types_not_allowed": [
+            "Quantity"
+        ]
+    }
+]

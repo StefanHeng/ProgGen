@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with outdoor seating and a view of the ocean for dinner tonight."
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity), dinner tonight (Amenity)]
+
+Query: "Where can I find a vegan restaurant that serves breakfast before 10 am?"
+Named Entities: [vegan (Cuisine), breakfast (Amenity), before 10 am (Hours)]
+
+Query: "I need a family-friendly restaurant with a kids' menu and a play area by 7 pm."
+Named Entities: [family-friendly (Amenity), kids' menu (Amenity), play area (Amenity), by 7 pm (Hours), [Closing time]

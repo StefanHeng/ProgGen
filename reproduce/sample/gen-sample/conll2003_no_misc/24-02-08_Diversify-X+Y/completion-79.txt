@@ -1,0 +1,8 @@
+Sentence: "The New York Public Library hosts a literary event featuring J.K. Rowling."
+Named Entities: [The New York Public Library (organization), J.K. Rowling (person)]
+
+Sentence: "Buenos Aires launches a campaign to promote reading and literacy among its citizens."
+Named Entities: [Buenos Aires (location)]
+
+Sentence: "A new study reveals the impact of literature on mental health, conducted by researchers at The New York Public Library."
+Named Entities: [The New York Public Library (organization)]

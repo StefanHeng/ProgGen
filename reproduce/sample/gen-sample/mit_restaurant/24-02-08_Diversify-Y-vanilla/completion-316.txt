@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any Italian restaurants in [Amsterdam] with outdoor seating?"
+   Named Entities: [Italian (Cuisine), outdoor seating (Amenity), Amsterdam (Location)]
+
+2. Query: "What are the operating hours for the nearest sushi restaurant from here?"
+   Named Entities: [sushi (Cuisine), nearest (Location)]
+
+3. Query: "I'm looking for a fine dining experience in [Amsterdam] with a price range of $50 to $100 per person, can you help me with that?"
+   Named Entities: [fine dining (Amenity), $50 to $100 per person (Price), Amsterdam (Location)]

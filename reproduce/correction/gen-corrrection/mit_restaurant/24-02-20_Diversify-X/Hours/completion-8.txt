@@ -1,0 +1,11 @@
+1. Query: "What are the {{hours of operation}} for the nearest brunch place?"
+Text Span: "hours of operation"
+Label: (C). The span is a named entity but the category is not hours. Correct Entity Type: Amenity
+
+2. Query: "Can you recommend a restaurant nearby with a good selection of vegetarian dishes for {{lunch}} takeout?"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What are the {{operating hours}} for the nearest barbecue joint for dinner tonight?"
+Text Span: "operating hours"
+Label: (C). The span is a named entity but the category is not hours. Correct Entity Type: Amenity

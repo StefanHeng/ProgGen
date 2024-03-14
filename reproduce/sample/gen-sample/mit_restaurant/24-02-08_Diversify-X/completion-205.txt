@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good vegetarian lunch menu?"
+Named Entities: [good (Rating), vegetarian (Cuisine), lunch (Hours)]
+
+Query: "Where is the nearest place with a vegetarian lunch under 15 dollars?"
+Named Entities: [nearest (Location), vegetarian (Cuisine), lunch (Hours), under 15 dollars (Price)]
+
+Query: "I'm looking for a restaurant with a high rating for their vegetarian lunch options"
+Named Entities: [high rating (Rating), vegetarian (Cuisine), lunch (Hours)]

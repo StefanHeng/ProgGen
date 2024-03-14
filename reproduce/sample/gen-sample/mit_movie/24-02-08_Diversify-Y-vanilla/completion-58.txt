@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the film directed by John Huston and released in 1951?"
+Named Entities: [John Huston (Director), 1951 (Year)]
+
+2. "I'm looking for a movie with a song directed by John Huston."
+Named Entities: [John Huston (Director)]
+
+3. "What is the viewers' rating of the movie directed by John Huston?"
+Named Entities: [John Huston (Director)]

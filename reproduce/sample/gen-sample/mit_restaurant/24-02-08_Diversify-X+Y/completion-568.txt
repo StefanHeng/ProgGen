@@ -1,0 +1,8 @@
+1. "Can you suggest a food truck nearby that serves delicious lobster rolls for takeout?"
+   Named Entities: [food truck (Amenity), lobster rolls (Dish), takeout (Amenity)]
+
+2. "I'm craving lobster rolls from a food truck around this area, can you find one for me?"
+   Named Entities: [lobster rolls (Dish), food truck (Amenity)]
+
+3. "Where can I get some mouth-watering takeout lobster rolls from a food truck here?"
+   Named Entities: [lobster rolls (Dish), takeout (Amenity), food truck (Amenity)]

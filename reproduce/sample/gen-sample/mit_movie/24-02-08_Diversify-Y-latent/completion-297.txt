@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a haunting score?"
+Named Entities: [haunting score (Soundtrack)]
+
+2. Query: "What historical films from the 1840s are considered must-sees?"
+Named Entities: [1840s (Year), historical (Genre), must see (Viewers' Rating)]
+
+3. Query: "I'm interested in finding a movie with a gripping soundtrack from the mid 2010s, perhaps one featuring Alicia Keys."
+Named Entities: [mid 2010s (Year), gripping soundtrack (Soundtrack), Alicia Keys (Song)]

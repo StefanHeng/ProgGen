@@ -1,0 +1,8 @@
+1. Text Span: "the 90s"
+   Label: (B). Wrong Boundary. The correct span boundary is "90s".
+
+2. Text Span: "1987"
+   Label: (A). The span is a named entity of type year
+
+3. Text Span: "year"
+   Label: (D). Not a Named Entity.

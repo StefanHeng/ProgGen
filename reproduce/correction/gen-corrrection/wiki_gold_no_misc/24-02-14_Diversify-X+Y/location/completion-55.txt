@@ -1,0 +1,8 @@
+1. Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "London"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "1998"
+Label: (D). Not a Named Entity

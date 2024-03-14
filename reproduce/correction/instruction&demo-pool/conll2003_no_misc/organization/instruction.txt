@@ -1,0 +1,3 @@
+A named organization entity must be the name of an organization.
+Generic organization categories such as "high school", "city council", "local community", "government", "company" are not named entities. Descriptive organization types such as "non-profit organization", "foreign government" and "global technology company" are also not named entities.
+Demonyms such as "Chinese", "Russian", "Indian", "Australian" and "European" are not relevant named entities. Viruses such as "COVID-19" are also not relevant named entities. Products such as "iPhone", "Windows" and "Instagram" are not relevant named entities.

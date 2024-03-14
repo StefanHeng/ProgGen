@@ -1,0 +1,8 @@
+1. Text Span: "phenomenal rating"
+Label: (C). The span is not a named entity. Entity type: Review
+
+2. Text Span: "optimistic"
+Label: (D). The span is not a named entity
+
+3. Text Span: "unmissable"
+Label: (A). The span is a named entity of type viewers' rating

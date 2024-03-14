@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, can you recommend a place that serves pizza?"
+Named Entities: [fast food (Cuisine), pizza (Dish)]
+
+Query: "I want to order from a fast food restaurant that delivers, what options do I have for pizza?"
+Named Entities: [fast food (Cuisine), delivers (Amenity), pizza (Dish)]
+
+Query: "I need to pick up a quick dinner, where can I find a Domino's Pizza around here?"
+Named Entities: [quick dinner (Amenity), Domino's Pizza (Restaurant Name)]

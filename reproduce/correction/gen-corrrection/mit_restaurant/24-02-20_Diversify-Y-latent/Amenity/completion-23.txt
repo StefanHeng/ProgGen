@@ -1,0 +1,11 @@
+1. Query: "Where can I find a restaurant with outdoor seating and a {{view}} for under $20 a plate?"
+Text Span: "view"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "Can you recommend any Mexican restaurants with a good rating for {{Nightlife}}?"
+Text Span: "Nightlife"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "Can you recommend a {{restaurant}} with great calamari?"
+Text Span: "restaurant"
+Label: (D). Not a Named Entity.

@@ -1,0 +1,8 @@
+1. "Can you provide me with the director of the new Disney movie about mermaids?"
+Named Entities: [Disney (Title), mermaids (Plot)]
+
+2. "I want to watch a movie from the 1980s that shows how they made special effects for space adventure films"
+Named Entities: [1980s (Year), special effects (Plot), space adventure (Genre)]
+
+3. "I'm looking for a film where I can see how they created the magical costumes and props for a fantasy world"
+Named Entities: [magical costumes and props (Plot), fantasy (Genre)]

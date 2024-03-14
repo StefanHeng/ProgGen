@@ -1,0 +1,8 @@
+1. Query: "Can you show me a trailer for a movie about love and loss, something that will make me cry?"
+Named Entities: [love and loss (Plot)]
+
+2. Query: "I need to watch something that will tug at my heartstrings. Show me a movie trailer that's emotional and touching."
+Named Entities: [emotional and touching (Review)]
+
+3. Query: "I'm feeling down and could use something to uplift my spirits. Can you play a teaser for a movie with a bittersweet storyline?"
+Named Entities: [bittersweet (Plot)]

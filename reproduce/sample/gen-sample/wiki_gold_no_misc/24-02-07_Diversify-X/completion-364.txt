@@ -1,0 +1,8 @@
+Sentence: "The United States Department of Defense is the largest employer in the world."
+Named Entities: [United States Department of Defense (organization)]
+
+Sentence: "The Battle of Gettysburg marked a turning point in the American Civil War."
+Named Entities: [Battle of Gettysburg (location), American Civil War (event)]
+
+Sentence: "General George S. Patton was known for his aggressive and successful military tactics during World War II."
+Named Entities: [George S. Patton (person), World War II (event)]

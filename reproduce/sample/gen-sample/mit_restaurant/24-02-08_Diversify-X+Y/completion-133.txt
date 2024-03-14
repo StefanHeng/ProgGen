@@ -1,0 +1,8 @@
+1. "Which fast food restaurant in the area offers a Happy Hour Deal?"
+Named Entities: [fast food (Cuisine), Happy Hour Deal (Amenity)]
+
+2. "I'm looking for a fast food place with a Happy Hour Deal, preferably with a drive-thru."
+Named Entities: [fast food (Cuisine), Happy Hour Deal (Amenity), drive-thru (Amenity)]
+
+3. "What's the closest fast food joint with a good Happy Hour Deal?"
+Named Entities: [fast food (Cuisine), closest (Location), Happy Hour Deal (Amenity)]

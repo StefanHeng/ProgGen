@@ -1,0 +1,8 @@
+1. Text Span: "CEO"
+Label: (C). The span is a named entity but the category is not person. Entity type: organization
+
+2. Text Span: "student"
+Label: (D).
+
+3. Text Span: "travel blogger"
+Label: (A).

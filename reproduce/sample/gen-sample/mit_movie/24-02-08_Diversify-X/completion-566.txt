@@ -1,0 +1,8 @@
+1. "Hey, what kind of movies does Quentin Tarantino usually direct? I’m looking for something with lots of action and maybe a bit of dark humor."
+Named Entities: [Quentin Tarantino (Director), action (Genre), dark humor (Genre)]
+
+2. "I’m in the mood for a romantic comedy, but I want something specific. Do you know any good movies set in the 1940s, starring Audrey Hepburn?"
+Named Entities: [romantic comedy (Genre), 1940s (Year), Audrey Hepburn (Actor)]
+
+3. "I need a recommendation for a scary movie, but nothing too intense. Can you suggest something with a supernatural thriller vibe and maybe a strong female lead?"
+Named Entities: [supernatural thriller (Genre), scary movie (Genre), strong female lead (Character)]

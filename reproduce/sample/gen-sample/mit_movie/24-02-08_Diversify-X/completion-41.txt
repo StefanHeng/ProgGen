@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the showtimes for the Avengers: Endgame?"
+   Named Entities: [Avengers: Endgame (Title)]
+
+2. Query: "Are there any available tickets for the latest Fast and Furious movie?"
+   Named Entities: [Fast and Furious (Title)]
+
+3. Query: "What is the genre of the latest James Bond film?"
+   Named Entities: [James Bond (Character)]

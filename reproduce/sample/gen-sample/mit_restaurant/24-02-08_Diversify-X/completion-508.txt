@@ -1,0 +1,8 @@
+1. "Can you recommend any affordable Italian restaurants for lunch in the downtown area?"
+Named Entities: [affordable (Price), Italian (Cuisine), lunch (Amenity), downtown area (Location)]
+
+2. "What are the opening hours for the Thai restaurant near my office?"
+Named Entities: [opening hours (Hours), Thai (Cuisine), near my office (Location)]
+
+3. "I'm in the mood for some sushi, is there a highly-rated sushi place with outdoor seating?"
+Named Entities: [sushi (Cuisine), highly-rated (Rating), outdoor seating (Amenity)]

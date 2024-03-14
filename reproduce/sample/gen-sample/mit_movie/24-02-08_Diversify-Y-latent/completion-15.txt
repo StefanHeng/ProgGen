@@ -1,0 +1,8 @@
+1. "I'm interested in a movie with the song 'Circle of Life' from the 1990s."
+Named Entities: ['Circle of Life' (Song), 1990s (Year)]
+
+2. "Do you have any historical films from the 1980s that are not available for streaming?"
+Named Entities: [historical (Genre), 1980s (Year), Not available for streaming]
+
+3. "Who played Gollum in the Lord of the Rings films?"
+Named Entities: [Gollum (Character)]

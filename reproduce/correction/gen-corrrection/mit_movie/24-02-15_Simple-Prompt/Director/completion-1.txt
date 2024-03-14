@@ -1,0 +1,11 @@
+1. Query: "who {{directed}} the movie Inception"
+Text Span: "directed"
+Label: (D). Not a Named Entity.
+
+2. Query: "Show me a famous film by the director {{Alfred Hitchcock}}"
+Text Span: "Alfred Hitchcock"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Can you recommend a {{Steven Spielberg}} film with a memorable soundtrack?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director

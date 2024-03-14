@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a nice restaurant with Affordable Luxury for dinner tonight?"
+   Named Entities: [nice (Rating), Affordable Luxury (Price), dinner tonight (Hours)]
+
+2. Query: "I'm craving Italian cuisine, where can I find a place with a cozy atmosphere?"
+   Named Entities: [Italian (Cuisine), cozy atmosphere (Amenity)]
+
+3. Query: "What's the nearest Mexican restaurant with a 5-star rating?"
+   Named Entities: [nearest (Location), Mexican (Cuisine), 5-star (Rating)]

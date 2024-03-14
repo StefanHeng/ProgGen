@@ -1,0 +1,8 @@
+1. "Can you tell me if the movie "The Shape of Water" received any awards or nominations for its romantic fantasy genre?"
+Named Entities: [The Shape of Water (Title), romantic fantasy (Genre), Awards and nominations (Review)]
+
+2. "I'm so bored. Show me an Emmy Award-winning film directed by Ethan Coen."
+Named Entities: [Emmy Award-winning (Review), Ethan Coen (Director)]
+
+3. "Is there an M-rated movie featuring Spock from Star Trek?"
+Named Entities: [M-rated (MPAA Rating), Spock (Character), Star Trek (Title)]

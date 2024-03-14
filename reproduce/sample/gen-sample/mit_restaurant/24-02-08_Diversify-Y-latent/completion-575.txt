@@ -1,0 +1,8 @@
+Query: "I'm craving some Momofuku, is there any place close to the airport that serves it?"
+Named Entities: [Momofuku (Restaurant Name), Close to the airport (Location)]
+
+Query: "which restaurants offer happy hour specials in this area"
+Named Entities: [happy hour (Amenity)]
+
+Query: "I want to find a restaurant with a high rating and a reasonable price"
+Named Entities: [high rating (Rating), reasonable price (Price)]

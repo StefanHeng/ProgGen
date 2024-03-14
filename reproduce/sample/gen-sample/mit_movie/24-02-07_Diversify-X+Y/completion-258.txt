@@ -1,0 +1,8 @@
+1. "Which movie has been recognized with prestigious accolades for its outstanding cinematography?"
+Named Entities: [recognized with prestigious accolades (Review), cinematography (Genre)]
+
+2. "Could you recommend a film deserving of accolades for its compelling storyline and exceptional acting?"
+Named Entities: [deserving of accolades (Review), compelling storyline (Plot), exceptional acting (Character)]
+
+3. "I'm interested in watching a movie that has received numerous nominations and awards. Can you suggest one?"
+Named Entities: [received numerous nominations (Review), awards (MPAA Rating)]

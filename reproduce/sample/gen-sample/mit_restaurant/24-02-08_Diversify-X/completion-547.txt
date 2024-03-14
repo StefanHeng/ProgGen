@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with late-night dining for me to take my colleagues after work?"
+Named Entities: [late-night dining (Amenity), colleagues (Amenity)]
+
+2. "I'm looking for a dine-in restaurant that serves late-night comfort food for a girls' night out."
+Named Entities: [dine-in (Amenity), late-night comfort food (Cuisine), girls' night out (Amenity)]
+
+3. "Where can I find a place with dine-in service that offers late-night happy hour specials for me and my friends?"
+Named Entities: [dine-in (Amenity), late-night happy hour specials (Amenity), friends (Amenity)]

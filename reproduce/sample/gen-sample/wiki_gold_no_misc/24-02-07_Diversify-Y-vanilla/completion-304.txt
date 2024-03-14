@@ -1,0 +1,8 @@
+1. Shanghai is the largest city in China and the second largest city proper in the world. 
+Named Entities: [Shanghai (location), China (location)]
+
+2. Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley.
+Named Entities: [Intel Corporation (organization), Santa Clara (location), California (location), Silicon Valley (location)]
+
+3. The 2008 Summer Olympics, officially known as the Games of the XXIX Olympiad and commonly known as Beijing 2008, was an international multi-sport event that was held from 8 to 24 August 2008 in Beijing, China.
+Named Entities: [2008 Summer Olympics (event), Beijing (location), China (location)]

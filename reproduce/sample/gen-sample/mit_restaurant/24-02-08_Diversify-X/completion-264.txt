@@ -1,0 +1,8 @@
+1. "I'm craving a rustic and charming brunch spot, preferably with a good rating"
+   Named Entities: [rustic and charming (Amenity), brunch (Amenity), good (Rating)]
+
+2. "Is there a cozy restaurant with a nice brunch menu and affordable prices?"
+   Named Entities: [cozy (Amenity), brunch (Amenity), affordable prices (Price)]
+
+3. "Where can I find a quaint place for brunch with a cozy atmosphere?"
+   Named Entities: [quaint (Amenity), brunch (Amenity), cozy atmosphere (Amenity)]

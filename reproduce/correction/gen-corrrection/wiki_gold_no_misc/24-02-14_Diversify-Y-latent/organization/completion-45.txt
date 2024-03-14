@@ -1,0 +1,11 @@
+1. Sentence: "As a Senior Fellow at the {{Hoover Institution}}, Sowell has published numerous works on topics such as economics, history, and social policy."
+Text Span: "Hoover Institution"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: 'In 1921, Langston Hughes published his first poem, "The Negro Speaks of Rivers", in the magazine The Crisis, which was the official publication of the {{National Association for the Advancement of Colored People (NAACP)}}.'
+Text Span: "National Association for the Advancement of Colored People (NAACP)"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Berkeley, California is home to the oldest campus in the University of California system, the {{University of California, Berkeley}}."
+Text Span: "University of California, Berkeley"
+Label: (A). The span is a named entity of type organization

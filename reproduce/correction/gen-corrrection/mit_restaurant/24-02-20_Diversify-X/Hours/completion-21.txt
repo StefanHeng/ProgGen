@@ -1,0 +1,8 @@
+1. Text Span: "Sunday"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "early"
+Label: (C). The span is a named entity but the category is not hours. Category: Meal Time
+
+3. Text Span: "operating hours"
+Label: (D). Not a Named Entity.

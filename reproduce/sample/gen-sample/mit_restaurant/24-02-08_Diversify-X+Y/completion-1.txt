@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant near me with valet parking?"
+Named Entities: [fine dining (Amenity), near me (Location), valet parking (Amenity)]
+
+Query: "I'm looking for an affordable high-end restaurant with valet parking, maybe something like Blue Hill at Stone Barns"
+Named Entities: [affordable (Price), high-end (Price), valet parking (Amenity), Blue Hill at Stone Barns (Restaurant Name)]
+
+Query: "Where can I find a fine dining restaurant around here with valet parking and a price range that's affordable?"
+Named Entities: [fine dining (Amenity), around here (Location), valet parking (Amenity), affordable (Price)]

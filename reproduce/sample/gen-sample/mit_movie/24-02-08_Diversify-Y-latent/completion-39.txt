@@ -1,0 +1,8 @@
+1. Query: "Can I watch the official trailer for the new James Bond movie?"
+Named Entities: [official trailer (Trailer), James Bond (Character)]
+
+2. Query: "What movie features the song My Sharona?"
+Named Entities: [My Sharona (Song)]
+
+3. Query: "Can you recommend a highly recommended comedy film from the 1990s?"
+Named Entities: [highly recommended (Review), 1990s (Year), comedy (Genre)]

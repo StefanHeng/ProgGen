@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a Yelp rating of at least 4 stars?"
+Named Entities: [Yelp rating (Amenity)]
+
+Query: "I am looking for a restaurant with exclusive dining options in the downtown area."
+Named Entities: [Exclusive Dining (Amenity), downtown area (Location)]
+
+Query: "What restaurants around here offer a variety of seafood dishes?"
+Named Entities: [seafood dishes (Cuisine)]

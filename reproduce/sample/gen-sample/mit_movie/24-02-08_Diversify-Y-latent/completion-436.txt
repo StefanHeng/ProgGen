@@ -1,0 +1,8 @@
+1. "What cybercrime movies were released in 2010?"
+Named Entities: [cybercrime (Genre), 2010 (Year)]
+
+2. "Can you suggest the best-reviewed movie with the song 'Mamma Mia!'?"
+Named Entities: [best-reviewed (Review), Mamma Mia! (Song)]
+
+3. "Who directed the film set in 1715 starring Eddie Redmayne?"
+Named Entities: [1715 (Year), Eddie Redmayne (Actor)]

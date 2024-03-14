@@ -1,0 +1,5 @@
+{"sentence": "What is a good character-driven drama film from the 1990s?", "entity_span": "1990s", "label": "CORRECT"}
+{"sentence": "Show me a sport movie from the 90s with an intense plot and a catchy trailer.", "entity_span": "the 90s", "label": "WRONG_SPAN", "correct_span": "90s"}
+{"sentence": "Who is the actor playing Spider-Man in the latest movie", "entity_span": "latest", "label": "NA"}
+{"sentence": "Can you tell me the year in which the movie Pulp Fiction was released", "entity_span": "released", "label": "NA"}
+{"sentence": "who directed the movie Aquaman and what year was it released", "entity_span": "year", "label": "NA"}

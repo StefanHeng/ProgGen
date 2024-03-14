@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with takeout options for breakfast near the hotel"
+Named Entities: [takeout options (Amenity), breakfast (Cuisine), near the hotel (Location)]
+
+Query: "Is there a restaurant with good breakfast options and takeout near the airport?"
+Named Entities: [good (Rating), breakfast (Cuisine), takeout (Amenity), near the airport (Location)]
+
+Query: "Find me a spot that offers takeout breakfast within a reasonable price range"
+Named Entities: [takeout (Amenity), breakfast (Cuisine), reasonable price range (Price)]

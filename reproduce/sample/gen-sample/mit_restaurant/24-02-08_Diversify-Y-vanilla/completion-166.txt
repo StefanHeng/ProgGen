@@ -1,0 +1,8 @@
+Query: "Can you recommend any upscale casual restaurants with outdoor seating in the downtown area?"
+Named Entities: [upscale casual restaurants (Amenity), outdoor seating (Amenity), downtown area (Location)]
+
+Query: "Do you offer location services to help me find a family-friendly restaurant nearby?"
+Named Entities: [location services (Amenity), family-friendly (Amenity), nearby (Location)]
+
+Query: "I'm looking for a cozy spot with a fireplace and a good wine selection, any suggestions?"
+Named Entities: [cozy spot (Amenity), fireplace (Amenity), good wine selection (Amenity)]

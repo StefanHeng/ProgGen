@@ -1,0 +1,11 @@
+1. Sentence: "{{New York City}} Marathon canceled due to extreme weather conditions."
+Text Span: "New York City"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Tsunami warning issued for {{Pacific coast}}."
+Text Span: "Pacific coast"
+Label: (B). The span contains a named location entity but the span boundary is not precise. Correct span boundary: "Pacific coast"
+
+3. Sentence: "{{Bogotá}}'s mayor announces new public transportation initiative."
+Text Span: "Bogotá"
+Label: (A). The span is a named entity of type location

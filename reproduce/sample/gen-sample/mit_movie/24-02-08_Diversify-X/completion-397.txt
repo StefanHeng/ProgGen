@@ -1,0 +1,8 @@
+Query: "Can you give me a brief summary of the latest romantic comedy film?"
+Named Entities: [romantic comedy (Genre)]
+
+Query: "I'm not sure what type of movie I want to watch. Can you tell me about a thriller from the 90s?"
+Named Entities: [thriller (Genre), 90s (Year)]
+
+Query: "I'm indecisive about what to watch tonight. Can you tell me about a classic drama from the 1950s?"
+Named Entities: [classic drama (Genre), 1950s (Year)]

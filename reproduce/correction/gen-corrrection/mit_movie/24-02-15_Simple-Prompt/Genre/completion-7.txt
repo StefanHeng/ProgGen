@@ -1,0 +1,11 @@
+1. Query: "Tell me about a good {{fantasy}} movie from the 2000s"
+Text Span: "fantasy"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "Can you recommend a {{family-friendly}} movie that is suitable for all ages?"
+Text Span: "family-friendly"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "family-friendly movie".
+
+3. Query: "Is there a documentary about {{space exploration}}?"
+Text Span: "space exploration"
+Label: (A). The span is a named entity of type genre

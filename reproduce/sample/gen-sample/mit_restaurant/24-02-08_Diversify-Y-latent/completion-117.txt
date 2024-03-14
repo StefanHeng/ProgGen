@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast inexpensive restaurant serving continental cuisine in this area?"
+Named Entities: [Breakfast inexpensive (Price), Continental (Cuisine), this area (Location)]
+
+2. "What is the nearest restaurant with a good rating and a happy hour menu?"
+Named Entities: [nearest (Location), good rating (Rating), happy hour (Amenity)]
+
+3. "I'm craving some authentic Mexican dishes, do you know any well-rated restaurants nearby?"
+Named Entities: [authentic (Cuisine), Mexican (Cuisine), well-rated (Rating), nearby (Location)]

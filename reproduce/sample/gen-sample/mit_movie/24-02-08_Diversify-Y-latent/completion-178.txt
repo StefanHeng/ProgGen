@@ -1,0 +1,8 @@
+1. Query: "Can I get a glimpse of the new horror movies involving human cloning"
+   Named Entities: [horror (Genre), human cloning (Plot), Glimpse (Trailer)]
+   
+2. Query: "Show me a movie directed by Mel Brooks that stars Viola Davis"
+   Named Entities: [Mel Brooks (Director), Viola Davis (Actor)]
+   
+3. Query: "Find me a spectacular teaser for a film featuring Professor Snape"
+   Named Entities: [spectacular (Viewers' Rating), teaser (Trailer), Professor Snape (Character)]

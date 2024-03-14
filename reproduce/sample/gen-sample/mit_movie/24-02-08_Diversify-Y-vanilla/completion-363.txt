@@ -1,0 +1,8 @@
+Query: "What movie features the song I Will Survive?"
+Named Entities: [I Will Survive (Song)]
+
+Query: "Can you recommend a post-apocalyptic world movie with a 3.7-star rating?"
+Named Entities: [3.7-star rating (Viewers' Rating), post-apocalyptic world (Genre)]
+
+Query: "Show me a biography film with Tom Cruise where they dance to Dancing in the Street"
+Named Entities: [biography (Genre), Tom Cruise (Actor), Dancing in the Street (Song)]

@@ -1,0 +1,8 @@
+Query: "What are the hours for Last Call?"
+Named Entities: [Last Call (Restaurant Name), hours]
+
+Query: "I'm in the mood for some Gjusta, where is the nearest location?"
+Named Entities: [Gjusta (Restaurant Name), nearest location]
+
+Query: "Can you recommend a restaurant with a diverse international cuisine selection?"
+Named Entities: [diverse international cuisine selection (Cuisine)]

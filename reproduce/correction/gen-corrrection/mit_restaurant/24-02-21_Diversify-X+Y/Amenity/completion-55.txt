@@ -1,0 +1,8 @@
+1. Text Span: "food truck"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "brunch"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Text Span: "stellar experience"
+Label: (A). The span is a named entity of type amenity

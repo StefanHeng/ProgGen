@@ -1,0 +1,8 @@
+Query: "Can you tell me about the awards and nominations received by the movie The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title)]
+
+Query: "I'm curious to know the accolades for the film La La Land"
+Named Entities: [La La Land (Title)]
+
+Query: "What awards did the movie Parasite win, and what nominations did it receive?"
+Named Entities: [Parasite (Title)]

@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The band released its debut album, Funeral, in 2004 to critical acclaim and commercial success."
+Named Entities: []
+
+Sentence: "The British Museum, located in the Bloomsbury area of London, United Kingdom, is a public institution dedicated to human history, art and culture."
+Named Entities: [British Museum (organization), Bloomsbury (location), London (location), United Kingdom (location)]

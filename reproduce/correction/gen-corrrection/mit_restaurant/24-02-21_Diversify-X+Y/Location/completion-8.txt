@@ -1,0 +1,11 @@
+1. Query: "Could you recommend a fine dining restaurant with craft cocktails on the way to the {{theater}}?"
+Text Span: "theater"
+Label: (A). The span is a named entity of type location
+
+2. Query: "What are the top-rated fine dining restaurants in the {{area}} that offer stuffed mushrooms on their menu?"
+Text Span: "area"
+Label: (A). The span is a named entity of type location
+
+3. Query: "What are some {{Nearby}} fast food options for a meal deal"
+Text Span: "Nearby"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is Amenity.

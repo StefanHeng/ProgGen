@@ -1,0 +1,8 @@
+Query: "Can you tell me which movies feature the song 'Bohemian Rhapsody' by Queen?"
+Named Entities: ['Bohemian Rhapsody' (Song)]
+
+Query: "I'm looking for a movie with an epic original soundtrack that will blow my mind. Can you suggest one?"
+Named Entities: [epic original soundtrack (Song)]
+
+Query: "What film has the most iconic music of all time?"
+Named Entities: [most iconic music (Review)]

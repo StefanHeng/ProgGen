@@ -1,0 +1,8 @@
+Query: "What is the nearest Chick-fil-A location?"
+Named Entities: [Chick-fil-A (Restaurant Name), nearest (Location)]
+
+Query: "I'm craving Chick-fil-A, can you find one with a playground for kids?"
+Named Entities: [Chick-fil-A (Restaurant Name), playground (Amenity), kids (Amenity)]
+
+Query: "Do you know of any Chick-fil-A restaurants with a drive-thru open past midnight?"
+Named Entities: [Chick-fil-A (Restaurant Name), drive-thru (Amenity), past midnight (Hours)]

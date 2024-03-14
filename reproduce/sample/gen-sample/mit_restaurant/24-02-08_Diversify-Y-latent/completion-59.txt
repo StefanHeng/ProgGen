@@ -1,0 +1,11 @@
+Query: "What are the top-rated Italian restaurants in the area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), area (Location)]
+[Great feedback]
+
+Query: "I'm looking for a seafood restaurant with outdoor seating and a view of the ocean"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), view of the ocean (Amenity)]
+[Great feedback]
+
+Query: "Which restaurants offer brunch on Saturdays and Sundays?"
+Named Entities: [brunch (Amenity), Saturdays and Sundays (Hours)]
+[Great feedback]

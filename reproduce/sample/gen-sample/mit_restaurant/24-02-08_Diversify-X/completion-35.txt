@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating that serves Italian cuisine?"
+Named Entities: [outdoor seating (Amenity), Italian cuisine (Cuisine)]
+
+2. "I'm looking for a dinner spot with a waterfront view and a menu featuring seafood dishes."
+Named Entities: [dinner (Hours), waterfront view (Amenity), seafood dishes (Dish)]
+
+3. "Where can I find a casual dining option with a price range of $20 to $30 per person for dinner?"
+Named Entities: [casual dining (Amenity), $20 to $30 per person (Price), dinner (Hours)]

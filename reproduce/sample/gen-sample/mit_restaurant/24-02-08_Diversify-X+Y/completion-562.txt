@@ -1,0 +1,8 @@
+1. "Can you recommend a quirky and eccentric restaurant with a halal buffet?"
+Named Entities: [quirky and eccentric (Amenity), halal (Cuisine), buffet (Amenity)]
+
+2. "I'm looking for a unique place for a splurge with halal buffet, can you suggest one?"
+Named Entities: [splurge (Price), halal (Cuisine), buffet (Amenity)]
+
+3. "Where can I find a splurge-worthy restaurant with a halal buffet and a quirky ambiance?"
+Named Entities: [splurge (Price), halal (Cuisine), buffet (Amenity), quirky ambiance (Amenity)]

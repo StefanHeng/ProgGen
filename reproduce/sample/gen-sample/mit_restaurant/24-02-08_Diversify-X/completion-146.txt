@@ -1,0 +1,8 @@
+Query: "What are some restaurants open for late-night dining near me"
+Named Entities: [late-night dining (Amenity), near me (Location)]
+
+Query: "I'm looking for a sushi place open past midnight"
+Named Entities: [sushi (Cuisine), past midnight (Hours)]
+
+Query: "Any highly rated restaurants with outdoor seating for late-night dining"
+Named Entities: [highly rated (Rating), outdoor seating (Amenity), late-night dining (Amenity)]

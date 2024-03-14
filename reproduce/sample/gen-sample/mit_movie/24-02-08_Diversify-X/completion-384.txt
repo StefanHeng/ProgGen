@@ -1,0 +1,8 @@
+1. "Yo, did that movie with Leo DiCaprio win any sick awards or get any nominations?"
+   Named Entities: [Leo DiCaprio (Actor), awards (Viewers' Rating), nominations (Review)]
+
+2. "Hey, has any movie from the 90s got mad recognition and accolades?"
+   Named Entities: [90s (Year), recognition (Review), accolades (Viewers' Rating)]
+
+3. "Yo, which flick got the most love from the critics and the audience?"
+   Named Entities: [love from the critics (Review), audience (Viewers' Rating)]

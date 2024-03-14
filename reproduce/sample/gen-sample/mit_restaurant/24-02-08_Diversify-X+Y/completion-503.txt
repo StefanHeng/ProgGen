@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some quick bites, do you know any good food trucks with drive-thru?"
+Named Entities: [quick bites (Amenity), food trucks (Amenity), drive-thru (Amenity)]
+
+Query: "where can I find a food truck that serves Mediterranean cuisine and has a drive-thru?"
+Named Entities: [Mediterranean (Cuisine), food truck (Amenity), drive-thru (Amenity)]
+
+Query: "I heard there's a popular food truck called The Falafel Shack that has a drive-thru, do you know where it's located?"
+Named Entities: [The Falafel Shack (Restaurant Name), drive-thru (Amenity)]

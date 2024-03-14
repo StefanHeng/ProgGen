@@ -1,0 +1,8 @@
+1. Query: "Where can I grab some quick lunch with a drive-thru nearby?"
+   Named Entities: [lunch (Amenity), nearby (Location), drive-thru (Amenity)]
+
+2. Query: "I'm looking for a place with drive-thru that serves fast food for lunch"
+   Named Entities: [drive-thru (Amenity), fast food (Cuisine), lunch (Amenity)]
+
+3. Query: "Any recommendations for a lunch spot with drive-thru and a variety of menu options?"
+   Named Entities: [lunch (Amenity), drive-thru (Amenity)]

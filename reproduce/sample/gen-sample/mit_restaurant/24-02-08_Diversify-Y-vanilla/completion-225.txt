@@ -1,0 +1,8 @@
+Query: "what are some Mexican restaurants nearby"
+Named Entities: [Mexican (Cuisine), nearby (Location)]
+
+Query: "what's the price range for Italian food in this area"
+Named Entities: [Italian (Cuisine), price range (Price), area (Location)]
+
+Query: "show me the best-rated seafood places in town"
+Named Entities: [best-rated (Rating), seafood (Cuisine), town (Location) ]

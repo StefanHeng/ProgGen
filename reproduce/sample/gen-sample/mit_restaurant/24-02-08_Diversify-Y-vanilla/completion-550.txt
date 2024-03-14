@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby restaurant with a diverse menu, good ratings, and affordable prices?"
+Named Entities: [nearby (Location), diverse menu (Cuisine), good ratings (Rating), affordable prices (Price)]
+
+2. "I'm craving some American cuisine, is there any place around here that serves great ribs and burgers?"
+Named Entities: [American cuisine (Cuisine), great ribs (Dish), burgers (Dish)]
+
+3. "What are the opening hours for [Applebee's] on weekends?"
+Named Entities: [Applebee's (Restaurant Name), opening hours (Hours)]

@@ -1,0 +1,8 @@
+Sentence: "China and Russia sign a new trade agreement, strengthening their economic ties."
+Named Entities: [China (location), Russia (location)]
+
+Sentence: "UN Secretary-General meets with European leaders to discuss climate change goals."
+Named Entities: [UN (organization), European (organization)]
+
+Sentence: "Japanese prime minister announces economic reforms to boost the country's GDP."
+Named Entities: [Japanese (location)]

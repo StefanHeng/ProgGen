@@ -1,0 +1,8 @@
+1. Text Span: "Academy Award contenders"
+   Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "collected accolades"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "heartwarming"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

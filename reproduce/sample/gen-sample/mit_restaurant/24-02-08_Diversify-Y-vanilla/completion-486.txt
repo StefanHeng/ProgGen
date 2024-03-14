@@ -1,0 +1,8 @@
+Query: "Can you recommend a sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm craving some pad thai, where can I find the best one in town?"
+Named Entities: [pad thai (Dish), best (Rating)]
+
+Query: "What are the operating hours for the Italian restaurant on 5th Avenue?"
+Named Entities: [Italian (Cuisine), 5th Avenue (Location), operating hours (Hours)]

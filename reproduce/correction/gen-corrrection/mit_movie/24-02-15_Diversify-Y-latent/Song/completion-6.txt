@@ -1,0 +1,11 @@
+1. Query: "Could you recommend a movie with a beautiful {{Orchestral arrangement}}?"
+Text Span: "Orchestral arrangement"
+Label: (C). The span is a named entity but the category is not song
+
+2. Query: "Could you show me a movie with a {{soaring musical score}}?"
+Text Span: "soaring musical score"
+Label: (C). The span is a named entity but the category is not song
+
+3. Query: "can you recommend a film with a {{song}} from 1998"
+Text Span: "song"
+Label: (D). Not a Named Entity

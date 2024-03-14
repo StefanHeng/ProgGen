@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a drive-thru option?"
+   Named Entities: [fine dining (Amenity), drive-thru (Amenity)]
+
+2. "I'm looking for a high-end restaurant with a drive-thru for a quick meal"
+   Named Entities: [high-end (Price), drive-thru (Amenity)]
+
+3. "Where can I find a luxurious restaurant that offers drive-thru service?"
+   Named Entities: [luxurious (Rating), drive-thru (Amenity)]

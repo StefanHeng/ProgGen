@@ -1,0 +1,8 @@
+1. Text Span: "nominations"
+Label: (A). Named Entity of type Review
+
+2. Text Span: "mind-blowing visuals"
+Label: (A). Named Entity of type Review
+
+3. Text Span: "soundtrack"
+Label: (C). Named Entity but the category is not review. The correct entity type is Song.

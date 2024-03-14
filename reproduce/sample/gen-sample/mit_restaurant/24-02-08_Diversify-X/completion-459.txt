@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a French cuisine for lunch?"
+Named Entities: [fine dining (Amenity), French (Cuisine), lunch (Hours)]
+
+Query: "What are the top-rated lunch spots with a waterfront view and a seafood menu?"
+Named Entities: [top-rated (Rating), lunch (Hours), waterfront (Location), seafood (Cuisine)]
+
+Query: "I'm looking for an upscale Italian restaurant serving lunch with a private dining area."
+Named Entities: [upscale (Price), Italian (Cuisine), lunch (Hours), private dining area (Amenity)]

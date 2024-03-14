@@ -1,0 +1,149 @@
+1. The United States Capitol Dome is the dome situated above the United States Capitol.
+Named Entities: [United States Capitol Dome (location), United States Capitol (location)]
+
+2. The New York City Subway is one of the world's oldest public transit systems.
+Named Entities: [New York City Subway (organization)]
+
+3. Mount Everest, known in Nepali as Sagarmatha and in Tibetan as Chomolungma, is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.
+Named Entities: [Mount Everest (location), Mahalangur Himal (location), Himalayas (location)]
+
+4. The United Nations is headquartered in New York City.
+Named Entities: [United Nations (organization), New York City (location)]
+
+5. Albert Einstein was a German-born theoretical physicist.
+Named Entities: [Albert Einstein (person)]
+
+6. The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.
+Named Entities: [Mona Lisa (person), Leonardo da Vinci (person), Italian (location)]
+
+7. The Taj Mahal is a white marble mausoleum located in Agra, Uttar Pradesh, India.
+Named Entities: [Taj Mahal (location), Agra (location), Uttar Pradesh (location), India (location)]
+
+8. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), English (location)]
+
+9. The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands.
+Named Entities: [Great Barrier Reef (location)]
+
+10. The Louvre in Paris is the world's most visited museum.
+Named Entities: [Louvre (organization), Paris (location)]
+
+11. Beyoncé is an American singer, songwriter, and actress.
+Named Entities: [Beyoncé (person), American (location)]
+
+12. London is the capital and largest city of England and the United Kingdom.
+Named Entities: [London (location), England (location), United Kingdom (location)]
+
+13. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris.
+Named Entities: [Eiffel Tower (location), Paris (location)]
+
+14. Michael Jordan is widely considered the greatest basketball player of all time.
+Named Entities: [Michael Jordan (person)]
+
+15. The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City.
+Named Entities: [Brooklyn Bridge (location), New York City (location)]
+
+16. Emily Dickinson was an American poet.
+Named Entities: [Emily Dickinson (person), American (location)]
+
+17. The Roman Empire was the post-Republican period of ancient Rome.
+Named Entities: [Roman Empire (organization), Rome (location), Roman (location)]
+
+18. The White House is the official residence and workplace of the president of the United States.
+Named Entities: [White House (location), United States (location)]
+
+19. William Shakespeare was an English playwright and poet.
+Named Entities: [William Shakespeare (person), English (location)]
+
+20. The Amazon River in South America is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location), South America (location)]
+
+21. The Sydney Opera House is a multi-venue performing arts center in Sydney, New South Wales, Australia.
+Named Entities: [Sydney Opera House (organization), Sydney (location), New South Wales (location), Australia (location)]
+
+22. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+23. Martin Luther King Jr. was an American Baptist minister and activist.
+Named Entities: [Martin Luther King Jr. (person), American (location), Baptist (organization)]
+
+24. The Great Wall of China is the collective name of a series of fortification systems generally built across the historical northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+
+25. The Metropolitan Museum of Art in New York City is the largest art museum in the United States.
+Named Entities: [Metropolitan Museum of Art (organization), New York City (location), United States (location)]
+
+26. Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent van Gogh (person), Dutch (location), Western (location)]
+
+27. Maya Angelou was an American poet, memoirist, and civil rights activist.
+Named Entities: [Maya Angelou (person), American (location), civil rights activist (organization)]
+
+28. The Colosseum is an oval amphitheater in the center of the city of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+29. Florence Nightingale was an English social reformer and the founder of modern nursing.
+Named Entities: [Florence Nightingale (person), English (location)]
+
+30. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt.
+Named Entities: [Great Pyramid of Giza (location), Giza (location), Egypt (location)]
+
+31. Muhammad Ali was an American professional boxer and activist.
+Named Entities: [Muhammad Ali (person), American (location)]
+
+32. The Leaning Tower of Pisa is a freestanding bell tower in the city of Pisa, Italy.
+Named Entities: [Leaning Tower of Pisa (location), Pisa (location), Italy (location)]
+
+33. Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and stage designer.
+Named Entities: [Pablo Picasso (person), Spanish (location)]
+
+34. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece.
+Named Entities: [Acropolis of Athens (location), Athens (location), Greece (location)]
+
+35. J.K. Rowling is a British author, philanthropist, film producer, and screenwriter.
+Named Entities: [J.K. Rowling (person), British (location)]
+
+36. The Parthenon is a former temple dedicated to the goddess Athena, whom the people of Athens considered their patron.
+Named Entities: [Parthenon (location), Athena (location), Athens (location)]
+
+37. Vincent van Gogh painted The Starry Night while in the Saint-Paul-de-Mausole asylum.
+Named Entities: [Vincent van Gogh (person), The Starry Night (person), Saint-Paul-de-Mausole (location)]
+
+38. Galileo Galilei was an Italian astronomer, physicist, and engineer.
+Named Entities: [Galileo Galilei (person), Italian (location)]
+
+39. Hollywood is a neighborhood in the central region of Los Angeles, California.
+Named Entities: [Hollywood (location), Los Angeles (location), California (location)]
+
+40. Sir Isaac Newton was an English mathematician, physicist, and astronomer.
+Named Entities: [Sir Isaac Newton (person), English (location)]
+
+41. The Guggenheim Museum Bilbao is a museum of modern and contemporary art designed by Canadian-American architect Frank Gehry.
+Named Entities: [Guggenheim Museum Bilbao (organization), Frank Gehry (person), Canadian-American (location)]
+
+42. Dr. Seuss was an American children's author, political cartoonist, and animator.
+Named Entities: [Dr. Seuss (person), American (location)]
+
+43. The Kremlin is a fortified complex in Moscow, Russia.
+Named Entities: [Kremlin (location), Moscow (location), Russia (location)]
+
+44. Elvis Presley was an American singer and actor.
+Named Entities: [Elvis Presley (person), American (location)]
+
+45. The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic.
+Named Entities: [Sydney Harbour Bridge (location), Sydney (location), Sydney Harbour (location)]
+
+46. Maria Sharapova is a former Russian professional tennis player.
+Named Entities: [Maria Sharapova (person), Russian (location)]
+
+47. The Louvre Abu Dhabi is an art and civilization museum in Abu Dhabi, United Arab Emirates.
+Named Entities: [Louvre Abu Dhabi (organization), Abu Dhabi (location), United Arab Emirates (location)]
+
+48. Ludwig van Beethoven was a German composer and pianist.
+Named Entities: [Ludwig van Beethoven (person), German (location)]
+
+49. Michelangelo was an Italian sculptor, painter, architect, and poet.
+Named Entities: [Michelangelo (person), Italian (location)]
+
+50. The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain.
+Named Entities: [Alhambra (location), Granada (location), Andalusia (location), Spain (location)]

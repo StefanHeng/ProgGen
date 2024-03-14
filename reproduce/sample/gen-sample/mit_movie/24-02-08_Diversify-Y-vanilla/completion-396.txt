@@ -1,0 +1,8 @@
+1. "Can you recommend any good movies suitable for kids?" 
+   Named Entities: [Recommended for Adults]
+
+2. "What movie does Clint Eastwood play a character named Frankie Dunn?"
+   Named Entities: [Clint Eastwood (Actor), Frankie Dunn (Character)]
+
+3. "I'm interested in watching a sci-fi movie with a talking robot. Do you have any suggestions?"
+   Named Entities: [C (Title), Artificial intelligence (Genre), R2-D2 (Character)]

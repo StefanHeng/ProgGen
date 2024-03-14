@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly buffet restaurant that is nut-free?"
+Named Entities: [buffet (Amenity), budget-friendly (Price), nut-free (Amenity)]
+
+2. "I'm looking for a restaurant with a nut-free buffet. What are the opening hours?"
+Named Entities: [nut-free (Amenity), buffet (Amenity), opening hours (Hours)]
+
+3. "Where can I find an affordable buffet restaurant that is nut-free and open late?"
+Named Entities: [affordable (Price), buffet (Amenity), nut-free (Amenity), open late (Hours)]

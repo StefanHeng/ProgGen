@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a drama film with a {{powerful performance}} by Meryl Streep"
+Text Span: "powerful performance"
+Label: (C). The span is not a named entity. Entity type: Character
+
+2. Query: "What is the {{viewers' rating}} for The Shawshank Redemption?"
+Text Span: "viewers' rating"
+Label: (D). The span is not a named entity
+
+3. Query: "Tell me about some {{highly-rated}} comedy films."
+Text Span: "highly-rated"
+Label: (A). The span is a named entity of type viewers' rating

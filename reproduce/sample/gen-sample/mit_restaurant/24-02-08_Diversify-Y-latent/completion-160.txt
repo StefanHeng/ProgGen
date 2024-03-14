@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a top-rated restaurant with a kids menu?"
+   Named Entities: [top-rated (Rating), kids menu (Amenity)]
+
+2. Query: "Where is the closest Indian restaurant with vegetarian options?"
+   Named Entities: [closest (Location), Indian (Cuisine), vegetarian (Dish)]
+
+3. Query: "What are the hours for a restaurant with a good price in the downtown area?"
+   Named Entities: [good price (Price), downtown area (Location), hours (Hours)]

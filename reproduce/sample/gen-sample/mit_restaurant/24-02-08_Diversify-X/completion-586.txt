@@ -1,0 +1,8 @@
+Query: "I'm craving some eggs benedict, where can I find a good place for breakfast?"
+Named Entities: [eggs benedict (Dish), breakfast (Amenity)]
+
+Query: "What are the best brunch spots with outdoor seating?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+Query: "Can you recommend a diner with pancakes and waffles nearby?"
+Named Entities: [pancakes (Dish), waffles (Dish), nearby (Location)]

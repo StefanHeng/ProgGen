@@ -1,0 +1,8 @@
+1. "I'm looking for a fine dining restaurant with a buffet option?"
+Named Entities: [buffet (Amenity), fine dining (Amenity)]
+
+2. "Can you recommend a place with a high rating that offers a buffet dinner?"
+Named Entities: [high rating (Rating), buffet (Amenity)]
+
+3. "Where can I find a fine dining restaurant with a buffet for dinner and a reasonable price?"
+Named Entities: [fine dining (Amenity), buffet (Amenity), dinner (Amenity), reasonable price (Price)]

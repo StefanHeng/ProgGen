@@ -1,0 +1,11 @@
+1. Query: "I need to book a table at Olive Garden for {{7 pm tonight}}."
+Text Span: "7 pm tonight"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "I want to find a cafe that's open early for {{breakfast}}"
+Text Span: "breakfast"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "what time does the pub {{close}}"
+Text Span: "close"
+Label: (A). Correct Entity Annotation.

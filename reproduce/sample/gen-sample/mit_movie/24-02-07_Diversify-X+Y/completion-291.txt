@@ -1,0 +1,11 @@
+Query: "I want to see a movie with Cate Blanchett in it, what are my options?"
+Named Entities: [Cate Blanchett (Actor)]
+
+Query: "Is Greased Lightning playing at any theaters near me?"
+Named Entities: [Greased Lightning (Title)]
+
+Query: "I'm looking for a movie with a character named Dash, what's showing?"
+Named Entities: [Dash (Character)]
+
+Query: "Are there any showings of Aladdin tonight? I only want to see it in 3D."
+Named Entities: [Aladdin (Title)]

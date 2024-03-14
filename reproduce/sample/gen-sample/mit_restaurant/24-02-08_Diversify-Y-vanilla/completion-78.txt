@@ -1,0 +1,8 @@
+1. "What are the Eat Out Awards winners near me?"
+Named Entities: [Eat Out Awards (Amenity), winners (Rating), near me (Location)]
+
+2. "I'm looking for a five-star dining experience in the city."
+Named Entities: [five-star dining (Rating), city (Location)]
+
+3. "Can you recommend any moderate-priced eateries with outdoor seating?"
+Named Entities: [moderate-priced eateries (Price), outdoor seating (Amenity)]

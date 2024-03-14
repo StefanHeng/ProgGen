@@ -1,0 +1,11 @@
+1. Sentence: "Belgrade, the capital of {{Serbia}}, has a rich history dating back to the ancient city of Singidunum."
+Text Span: "Serbia"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The band released their debut album, Night Visions, in the {{United States}} in 2012, and shortly after in the United Kingdom and Ireland."
+Text Span: "United States"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Stephen Hawking was a {{British}} theoretical physicist, cosmologist, and author who was director of research at the Centre for Theoretical Cosmology at the University of Cambridge."
+Text Span: "British"
+Label: (C). Wrong Type. The correct entity type is other.

@@ -1,0 +1,8 @@
+1. Query: "Can I get a glimpse of the trailer for the new Brian De Palma film starring Amy Adams?"
+Named Entities: [glimpse (Trailer), Brian De Palma (Director), Amy Adams (Actor)]
+
+2. Query: "When was the movie Mary Poppins released and what genre does it belong to?"
+Named Entities: [Mary Poppins (Title), released (Year), genre (Genre)]
+
+3. Query: "Which movie directed by Brian De Palma has the highest viewers' rating?"
+Named Entities: [Brian De Palma (Director), highest viewers' rating (Viewers' Rating)]

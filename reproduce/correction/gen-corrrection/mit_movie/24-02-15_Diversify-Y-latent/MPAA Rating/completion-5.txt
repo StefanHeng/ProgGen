@@ -1,0 +1,8 @@
+1. Text Span: "Approved"
+Label: (C). Wrong Type. The correct entity type is MPAA Rating.
+
+2. Text Span: "not rated"
+Label: (C). Wrong Type. The correct entity type is MPAA Rating.
+
+3. Text Span: "general audience"
+Label: (C). Wrong Type. The correct entity type is other.

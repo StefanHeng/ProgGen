@@ -1,0 +1,7 @@
+1. Query: "Who directed the blockbuster film of 2020 that received a {{phenomenal}} viewers' rating?"
+Text Span: "phenomenal"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "What is a good {{Movie producer}} for action films?"
+Text Span: "Movie producer"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Director.

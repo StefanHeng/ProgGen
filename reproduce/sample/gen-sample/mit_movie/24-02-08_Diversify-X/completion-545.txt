@@ -1,0 +1,8 @@
+Query: "Are there any good action movies playing today?"
+Named Entities: [good action movies (Genre)]
+
+Query: "Can I trust the ratings for the new horror film?"
+Named Entities: [new horror film (Title), ratings (Review)]
+
+Query: "Is the director of the romantic comedy film known for making successful movies?"
+Named Entities: [romantic comedy film (Genre), director (Director), successful (Viewers' Rating)]

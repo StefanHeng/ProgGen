@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Prison Break?"
+Named Entities: [Prison Break (Title)]
+
+2. Query: "Can you show me the theatrical trailer for the movie Memento?"
+Named Entities: [theatrical trailer (Trailer), Memento (Title)]
+
+3. Query: "Is Johnny Depp in any action films rated GP, like Knives Out?"
+Named Entities: [Johnny Depp (Actor), action (Genre), GP (MPAA Rating), Knives Out (Title)]

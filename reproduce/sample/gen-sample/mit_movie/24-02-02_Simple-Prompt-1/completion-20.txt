@@ -1,0 +1,149 @@
+1. "what is the highest rated movie of all time?"
+   Named Entities: [highest rated (Review)]
+
+2. "show me a movie with a title that has the word 'adventure' in it"
+   Named Entities: [adventure (Genre)]
+
+3. "who is the director of the film 'Inception'?"
+   Named Entities: [Inception (Title), director (Director)]
+
+4. "can you recommend a good horror movie released in the 1990s?"
+   Named Entities: [horror (Genre), 1990s (Year)]
+
+5. "what is the MPAA rating for the film 'The Godfather'?"
+   Named Entities: [The Godfather (Title), MPAA rating (MPAA Rating)]
+
+6. "tell me about the plot of the movie 'Interstellar'"
+   Named Entities: [Interstellar (Title), plot (Plot)]
+
+7. "was Harrison Ford in the movie 'Blade Runner'?"
+   Named Entities: [Harrison Ford (Actor), Blade Runner (Title)]
+
+8. "show me a trailer for the movie 'A Star is Born'"
+   Named Entities: [A Star is Born (Title), trailer (Trailer)]
+
+9. "which film features the song 'My Heart Will Go On'?"
+   Named Entities: [My Heart Will Go On (Song)]
+
+10. "what are the reviews for the movie 'The Shawshank Redemption'?"
+    Named Entities: [The Shawshank Redemption (Title), reviews (Review)]
+
+11. "who played the character Darth Vader in 'Star Wars'?"
+    Named Entities: [Darth Vader (Character), Star Wars (Title)]
+
+12. "what is the viewers' rating for the film 'The Dark Knight'?"
+    Named Entities: [The Dark Knight (Title), viewers' rating (Viewers' Rating)]
+
+13. "are there any documentaries directed by Ken Burns?"
+    Named Entities: [Ken Burns (Director), documentaries (Genre)]
+
+14. "show me a list of comedy films from the 1980s"
+    Named Entities: [comedy (Genre), 1980s (Year)]
+
+15. "what is the directorial debut of Quentin Tarantino?"
+    Named Entities: [Quentin Tarantino (Director)]
+
+16. "is there a musical movie with a rating of G?"
+    Named Entities: [musical (Genre), G (MPAA Rating)]
+
+17. "who starred in the western film 'The Good, the Bad and the Ugly'?"
+    Named Entities: [The Good, the Bad and the Ugly (Title), western (Genre)]
+
+18. "what year did the movie 'Titanic' win the Best Picture Oscar?"
+    Named Entities: [Titanic (Title), Best Picture Oscar (Award)]
+
+19. "show me a crime thriller directed by Martin Scorsese"
+    Named Entities: [crime thriller (Genre), Martin Scorsese (Director)]
+
+20. "what is the plot of the sci-fi movie 'The Matrix'?"
+    Named Entities: [The Matrix (Title), sci-fi (Genre), plot (Plot)]
+
+21. "is the actor Tom Hanks in any war films?"
+    Named Entities: [Tom Hanks (Actor), war (Genre)]
+
+22. "show me a trailer for the animated movie 'Finding Nemo'"
+    Named Entities: [Finding Nemo (Title), animated (Genre), trailer (Trailer)]
+
+23. "what is the title of the movie that features the song 'I Will Always Love You'?"
+    Named Entities: [I Will Always Love You (Song)]
+
+24. "what are the reviews for the romantic comedy 'When Harry Met Sally'?"
+    Named Entities: [When Harry Met Sally (Title), romantic comedy (Genre), reviews (Review)]
+
+25. "who portrayed James Bond in the 1973 film 'Live and Let Die'?"
+    Named Entities: [James Bond (Character), 1973 (Year), Live and Let Die (Title)]
+
+26. "what is the viewers' rating for the movie 'Forrest Gump'?"
+    Named Entities: [Forrest Gump (Title), viewers' rating (Viewers' Rating)]
+
+27. "is there a biography film about Steve Jobs?"
+    Named Entities: [biography (Genre), Steve Jobs (Character)]
+
+28. "show me a list of action movies from the 2000s"
+    Named Entities: [action (Genre), 2000s (Year)]
+
+29. "what is the director of the film 'Pulp Fiction' known for?"
+    Named Entities: [Pulp Fiction (Title), director (Director)]
+
+30. "is there a family-friendly movie with a PG-13 rating?"
+    Named Entities: [family-friendly (Genre), PG-13 (MPAA Rating)]
+
+31. "who played the character Hermione Granger in the 'Harry Potter' series?"
+    Named Entities: [Hermione Granger (Character), Harry Potter (Title)]
+
+32. "what year did the movie 'Schindler's List' receive the Best Director Oscar?"
+    Named Entities: [Schindler's List (Title), Best Director Oscar (Award)]
+
+33. "show me a thriller directed by Alfred Hitchcock"
+    Named Entities: [thriller (Genre), Alfred Hitchcock (Director)]
+
+34. "what is the plot of the historical drama movie 'Braveheart'?"
+    Named Entities: [Braveheart (Title), historical drama (Genre), plot (Plot)]
+
+35. "is Arnold Schwarzenegger in any science fiction films?"
+    Named Entities: [Arnold Schwarzenegger (Actor), science fiction (Genre)]
+
+36. "show me a trailer for the film 'The Lion King'"
+    Named Entities: [The Lion King (Title), trailer (Trailer)]
+
+37. "what is the title of the movie that features the song 'Somewhere Over the Rainbow'?"
+    Named Entities: [Somewhere Over the Rainbow (Song)]
+
+38. "what are the reviews for the action film 'Die Hard'?"
+    Named Entities: [Die Hard (Title), action (Genre), reviews (Review)]
+
+39. "who portrayed Batman in the film 'The Dark Knight'?"
+    Named Entities: [Batman (Character), The Dark Knight (Title)]
+
+40. "what is the viewers' rating for the movie 'The Lord of the Rings: The Fellowship of the Ring'?"
+    Named Entities: [The Lord of the Rings: The Fellowship of the Ring (Title), viewers' rating (Viewers' Rating)]
+
+41. "is there a documentary about the life of Jane Goodall?"
+    Named Entities: [documentary (Genre), Jane Goodall (Character)]
+
+42. "show me a list of fantasy movies from the 2010s"
+    Named Entities: [fantasy (Genre), 2010s (Year)]
+
+43. "who is the director of the film 'The Shining' known for?"
+    Named Entities: [The Shining (Title), director (Director)]
+
+44. "is there a G-rated animated movie for children?"
+    Named Entities: [G-rated (MPAA Rating), animated (Genre)]
+
+45. "who played the character Jack Sparrow in the 'Pirates of the Caribbean' series?"
+    Named Entities: [Jack Sparrow (Character), Pirates of the Caribbean (Title)]
+
+46. "what year did the movie 'Gladiator' win the Best Picture Oscar?"
+    Named Entities: [Gladiator (Title), Best Picture Oscar (Award)]
+
+47. "show me a mystery film directed by David Fincher"
+    Named Entities: [mystery (Genre), David Fincher (Director)]
+
+48. "what is the plot of the crime thriller movie 'Se7en'?"
+    Named Entities: [Se7en (Title), crime thriller (Genre), plot (Plot)]
+
+49. "is Brad Pitt in any war films?"
+    Named Entities: [Brad Pitt (Actor), war (Genre)]
+
+50. "show me a trailer for the movie 'Jurassic Park'"
+    Named Entities: [Jurassic Park (Title), trailer (Trailer)]

@@ -1,0 +1,8 @@
+Query: "What are the popular dishes at Olive Garden?"
+Named Entities: [Olive Garden (Restaurant Name), popular dishes (Amenity)]
+
+Query: "Show me Italian restaurants with outdoor seating in downtown."
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), downtown (Location)]
+
+Query: "Which restaurant has the best rating in the area?"
+Named Entities: [best rating (Rating), area (Location)]

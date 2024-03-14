@@ -1,0 +1,8 @@
+1. "Can you recommend a classic movie with the song Livin' on a Prayer?"
+Named Entities: [Livin' on a Prayer (Song), classic movie (Genre)]
+
+2. "Who directed the movie that is Recommended for Adults and stars Niki Caro?"
+Named Entities: [Recommended for Adults (MPAA Rating), Niki Caro (Actor), directed (Director)]
+
+3. "What is the year of release for the film that features the song Livin' on a Prayer?"
+Named Entities: [Livin' on a Prayer (Song), year of release (Year)]

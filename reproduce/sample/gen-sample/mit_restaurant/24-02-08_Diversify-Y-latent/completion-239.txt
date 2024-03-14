@@ -1,0 +1,8 @@
+1. "Where is a good place to celebrate a special event with a prix fixe menu?"
+Named Entities: [good (Rating), special event (Amenity), prix fixe menu (Price)]
+
+2. "I'm craving some seafood, can you recommend a restaurant near me?"
+Named Entities: [seafood (Cuisine), Near me (Location)]
+
+3. "Do you know the hours for The Mimosa Mansion?"
+Named Entities: [The Mimosa Mansion (Restaurant Name), Hours]

@@ -1,0 +1,8 @@
+1. "Can you suggest a wheelchair accessible restaurant with impressive dessert options?"
+Named Entities: [wheelchair accessible (Amenity), impressive (Rating), dessert (Dish)]
+
+2. "I'm craving a good hamburger, where can I find one nearby?"
+Named Entities: [hamburger (Dish), nearby (Location)]
+
+3. "Are there any restaurants open for brunch before 10 am that serve international cuisine?"
+Named Entities: [brunch (Amenity), before 10 am (Hours), international cuisine (Cuisine)]

@@ -1,0 +1,148 @@
+1. The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations.
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (organization)]
+
+2. Dr. Anthony Fauci, the director of NIAID, has played a role in U.S. efforts to combat COVID-19 pandemic.
+Named Entities: [Anthony Fauci (person), NIAID (organization)]
+
+3. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+4. She is a member of the National Academy of Sciences.
+Named Entities: [National Academy of Sciences (organization)]
+
+5. Tokyo, the capital of Japan, is one of the most populous cities in the world.
+Named Entities: [Tokyo (location), Japan (location)]
+
+6. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+7. Angela Merkel, the former chancellor of Germany, is a prominent political figure.
+Named Entities: [Angela Merkel (person), Germany (location)]
+
+8. The Smithsonian Institution is a group of museums and research centers.
+Named Entities: [Smithsonian Institution (organization)]
+
+9. He studied at the University of Oxford before moving to the United States.
+Named Entities: [University of Oxford (organization), United States (location)]
+
+10. The Great Barrier Reef is the world's largest coral reef system, located in Australia.
+Named Entities: [Great Barrier Reef (location), Australia (location)]
+
+11. NASA is responsible for the United States' civilian space program and for aeronautics and aerospace research.
+Named Entities: [NASA (organization), United States (location)]
+
+12. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person)]
+
+13. The British Museum houses a vast collection of art and artifacts.
+Named Entities: [British Museum (organization)]
+
+14. Florence Nightingale is considered the founder of modern nursing.
+Named Entities: [Florence Nightingale (person)]
+
+15. The Eiffel Tower is a famous landmark in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+16. Amnesty International is a non-governmental organization focused on human rights.
+Named Entities: [Amnesty International (organization)]
+
+17. She is a professor at Harvard University.
+Named Entities: [Harvard University (organization)]
+
+18. The Amazon River is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location)]
+
+19. The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+20. Jane Austen was an English novelist known for her six major novels.
+Named Entities: [Jane Austen (person), English (location)]
+
+21. He founded the company Microsoft in 1975.
+Named Entities: [Microsoft (organization)]
+
+22. The Berlin Wall was a barrier that divided Berlin from 1961 to 1989.
+Named Entities: [Berlin Wall (location), Berlin (location)]
+
+23. The International Space Station (ISS) is a habitable artificial satellite in low Earth orbit.
+Named Entities: [International Space Station (organization), ISS (organization), Earth (location)]
+
+24. The Louvre Museum is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+25. Sir Isaac Newton was an English mathematician and physicist.
+Named Entities: [Isaac Newton (person), English (location)]
+
+26. The New York Stock Exchange (NYSE) is the largest stock exchange in the world by market capitalization.
+Named Entities: [New York Stock Exchange (organization), NYSE (organization)]
+
+27. Lake Baikal is the world's deepest and oldest lake, located in Siberia, Russia.
+Named Entities: [Lake Baikal (location), Siberia (location), Russia (location)]
+
+28. The United States Congress is the bicameral legislature of the federal government of the United States.
+Named Entities: [United States Congress (organization), United States (location)]
+
+29. Michelangelo was an Italian sculptor, painter, and architect.
+Named Entities: [Michelangelo (person), Italian (location)]
+
+30. The International Monetary Fund (IMF) aims to promote global monetary cooperation and exchange rate stability.
+Named Entities: [International Monetary Fund (organization), IMF (organization)]
+
+31. The University of Cambridge is a collegiate public research university in Cambridge, United Kingdom.
+Named Entities: [University of Cambridge (organization), Cambridge (location), United Kingdom (location)]
+
+32. Mahatma Gandhi was the leader of the Indian independence movement against British rule.
+Named Entities: [Mahatma Gandhi (person), Indian (location), British (organization)]
+
+33. The Nile River is the longest river in the world, flowing through northeastern Africa.
+Named Entities: [Nile River (location), Africa (location)]
+
+34. The Rockefeller Foundation is a private foundation focused on improving public health around the world.
+Named Entities: [Rockefeller Foundation (organization)]
+
+35. The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the mile-wide, three-mile-long channel between San Francisco Bay and the Pacific Ocean.
+Named Entities: [Golden Gate Bridge (location), Golden Gate (location), San Francisco Bay (location), Pacific Ocean (location)]
+
+36. Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer.
+Named Entities: [Alexander Graham Bell (person), Scottish (location)]
+
+37. The European Union (EU) is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), EU (organization), Europe (location)]
+
+38. The World Trade Organization (WTO) aims to supervise and liberalize international trade.
+Named Entities: [World Trade Organization (organization), WTO (organization)]
+
+39. The Giza pyramid complex is an archaeological site on the Giza Plateau, located southwest of Cairo, Egypt.
+Named Entities: [Giza pyramid complex (location), Giza Plateau (location), Cairo (location), Egypt (location)]
+
+40. Nelson Mandela was a South African anti-apartheid revolutionary and political leader.
+Named Entities: [Nelson Mandela (person), South African (location)]
+
+41. The Industrial Revolution was the transition to new manufacturing processes.
+Named Entities: []
+
+42. The Vatican City is an independent city-state enclaved within Rome, Italy.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+
+43. The International Red Cross and Red Crescent Movement is an international humanitarian movement with approximately 97 million volunteers, members and staff worldwide.
+Named Entities: [International Red Cross and Red Crescent Movement (organization)]
+
+44. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+Named Entities: [Great Wall of China (location), China (location)]
+
+45. Charles Darwin was an English naturalist, geologist, and biologist.
+Named Entities: [Charles Darwin (person), English (location)]
+
+46. The Democratic Party is one of the two major contemporary political parties in the United States.
+Named Entities: [Democratic Party (organization), United States (location)]
+
+47. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+
+48. The Berlin Philharmonic is a German orchestra based in Berlin.
+Named Entities: [Berlin Philharmonic (organization), Berlin (location), German (location)]
+
+49. Queen Elizabeth II is the reigning queen of the United Kingdom and other Commonwealth realms.
+Named Entities: [Queen Elizabeth II (person), United Kingdom (location), Commonwealth (organization)]
+
+50. The Mississippi River is the second-longest river and chief river of the second-largest drainage system on the North American continent. Named Entities: [Mississippi River (location), North American (location)]

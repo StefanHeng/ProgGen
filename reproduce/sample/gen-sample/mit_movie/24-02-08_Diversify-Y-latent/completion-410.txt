@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a love triangle in it?"
+   Named Entities: [love triangle (Plot)]
+
+2. "Please show me a trailer for The Empire Strikes Back"
+   Named Entities: [The Empire Strikes Back (Title), trailer (Trailer)]
+
+3. "Is there a movie with an A+ rating that is not rated for violent content?"
+   Named Entities: [A+ rating (Viewers' Rating), not rated (MPAA Rating)]

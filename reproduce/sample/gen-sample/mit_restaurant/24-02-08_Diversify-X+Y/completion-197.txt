@@ -1,0 +1,8 @@
+Query: "I'm in the mood for waffles, where can I find a café with a good waffle menu?"
+Named Entities: [waffles (Dish), café (Amenity)]
+
+Query: "What café serves the best waffles in the area?"
+Named Entities: [waffles (Dish), café (Amenity)]
+
+Query: "I'm looking for a café that offers waffles for breakfast and lunch, can you recommend one?"
+Named Entities: [waffles (Dish), café (Amenity)]

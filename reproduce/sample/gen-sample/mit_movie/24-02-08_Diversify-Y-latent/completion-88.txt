@@ -1,0 +1,8 @@
+1. "Could you recommend a 2020 movie with a phenomenal plot and high viewers' rating?"
+   Named Entities: [2020 (Year), phenomenal (Review)]
+
+2. "Who directed the blockbuster film of 2020 that received a phenomenal viewers' rating?"
+   Named Entities: [2020 (Year), phenomenal (Review)]
+
+3. "Show me a trailer of the 2020 movie with a phenomenal soundtrack."
+   Named Entities: [2020 (Year), phenomenal (Song), trailer (Trailer)]

@@ -1,0 +1,8 @@
+1. "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature."
+Named Entities: [Harper Lee (person)]
+ 
+2. "The Nobel Prize in Literature is awarded annually to an author from any country who has, in the words of the will of Alfred Nobel, produced "in the field of literature the most outstanding work in an idealistic direction"."
+Named Entities: [Nobel Prize in Literature (organization), Alfred Nobel (person)]
+
+3. "The setting of the play Romeo and Juliet by William Shakespeare is the Italian city of Verona."
+Named Entities: [Romeo and Juliet (literature), William Shakespeare (person), Verona (location)]

@@ -1,0 +1,8 @@
+1. Text Span: "Olympian gods"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Christian church"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Stanford University"
+Label: (A). Correct Entity Annotation.

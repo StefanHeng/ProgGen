@@ -1,0 +1,8 @@
+Query: "Can you find any teasers for the upcoming Marvel movie"
+Named Entities: [teasers (Trailer), Marvel (Title)]
+
+Query: "I'm not sure if I want to watch a scary movie trailer or a romantic one, can you help me decide?"
+Named Entities: [scary (Genre), romantic (Genre)]
+
+Query: "I'm not sure if I want to watch a classic film trailer or something more modern, can you recommend anything?"
+Named Entities: [classic (Genre), modern (Genre)]

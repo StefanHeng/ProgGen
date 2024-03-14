@@ -1,0 +1,8 @@
+Query: "suggest a buffet restaurant with vegetarian options"
+Named Entities: [buffet (Amenity), vegetarian options (Cuisine)]
+
+Query: "which buffet place has the best ratings in the area"
+Named Entities: [buffet (Amenity), best ratings (Rating), the area (Location)]
+
+Query: "what time does the nearest buffet restaurant close tonight"
+Named Entities: [buffet (Amenity), closest (Location), tonight (Hours)]

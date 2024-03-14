@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the movie Angelina Jolie starred in between 1977 and 1981"
+Named Entities: [Angelina Jolie (Actor), 1977-1981 (Year), genre (Genre)]
+
+2. Query: "Can I watch the trailer for the 1983 film featuring Tyler Durden?"
+Named Entities: [1983 (Year), Tyler Durden (Character), trailer (Trailer)]
+
+3. Query: "Show me a review of the movie directed by Jennifer Moore"
+Named Entities: [Jennifer Moore (Director), review (Review)]

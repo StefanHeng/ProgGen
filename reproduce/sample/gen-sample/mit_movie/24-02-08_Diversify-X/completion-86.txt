@@ -1,0 +1,8 @@
+1. "What are some action movies with an epic soundtrack?"
+Named Entities: [action movies (Genre), epic soundtrack (Song)]
+
+2. "Show me a movie from the 90s with a killer soundtrack."
+Named Entities: [90s (Year), killer soundtrack (Song)]
+
+3. "Can you recommend a movie with an awesome theme song?"
+Named Entities: [awesome theme song (Song)]

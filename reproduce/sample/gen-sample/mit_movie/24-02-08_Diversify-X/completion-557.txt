@@ -1,0 +1,8 @@
+Query: "Is there a highly-rated comedy movie from 2010 available on Netflix or Hulu?"
+Named Entities: [2010 (Year), highly-rated (Viewers' Rating), comedy (Genre), Netflix (Streaming platform), Hulu (Streaming platform)]
+
+Query: "I want to watch a thriller directed by David Fincher, with a rating of at least 4 stars, on Amazon Prime or HBO Max"
+Named Entities: [thriller (Genre), David Fincher (Director), at least 4 stars (Viewers' Rating), Amazon Prime (Streaming platform), HBO Max (Streaming platform)]
+
+Query: "Show me a classic movie from the 1950s with Audrey Hepburn, available on Disney+ or Apple TV+"
+Named Entities: [classic (Viewers' Rating), 1950s (Year), Audrey Hepburn (Actor), Disney+ (Streaming platform), Apple TV+ (Streaming platform)]

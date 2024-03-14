@@ -1,0 +1,11 @@
+1. Sentence: "Russian President Vladimir Putin meets with {{German Chancellor Angela Merkel}}."
+Text Span: "German Chancellor Angela Merkel"
+Label: (A)
+
+2. Sentence: "{{Taylor Swift}} releases new album"
+Text Span: "Taylor Swift"
+Label: (A)
+
+3. Sentence: "The {{Prime Minister of India}} has announced plans to invest in infrastructure to boost economic growth."
+Text Span: "Prime Minister of India"
+Label: (C), entity type: person

@@ -1,0 +1,8 @@
+1. Text Span: "classic"
+Label: (B). The correct span boundary is "classic black and white" 
+
+2. Text Span: "family-friendly"
+Label: (A). The correct entity annotation.
+
+3. Text Span: "horror"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a compelling love triangle plot?"
+Named Entities: [compelling love triangle (Plot)]
+
+2. Query: "What are the best movies released between 1964 and 1968?"
+Named Entities: [1964-1968 (Year)]
+
+3. Query: "Show me a list of action movies that I might like, U rated."
+Named Entities: [action (Genre), U rated (MPAA Rating)]

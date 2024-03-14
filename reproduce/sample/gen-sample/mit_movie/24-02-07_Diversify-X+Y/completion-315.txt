@@ -1,0 +1,8 @@
+1. "I'm not sure if I want to watch a movie directed by Steven Spielberg or one with Christian Bale. Can you recommend something related to Jurassic Park?"
+   Named Entities: [Steven Spielberg (Director), Christian Bale (Actor), Jurassic Park (Title)]
+
+2. "I'm torn between watching a G-rated movie or a PG-rated one. Do you have any recommendations that are divisive?"
+   Named Entities: [G (MPAA Rating), PG (MPAA Rating), divisive (Review)]
+
+3. "I'm trying to decide whether to watch a movie with Christian Bale or one related to Jurassic Park. Can you provide me with some information about the cast and crew?"
+   Named Entities: [Christian Bale (Actor), Jurassic Park (Title)]

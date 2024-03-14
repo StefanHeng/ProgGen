@@ -1,0 +1,8 @@
+Query: "Can you tell me about the movie with Hermione Granger in it?"
+Named Entities: [Hermione Granger (Character)]
+
+Query: "I'm curious about a film called Live and Let Die, can you give me some information about it?"
+Named Entities: [Live and Let Die (Title)]
+
+Query: "I'm looking for a movie with the song I Heard It Through the Grapevine, do you have any suggestions?"
+Named Entities: [I Heard It Through the Grapevine (Song)]

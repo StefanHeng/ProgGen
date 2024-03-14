@@ -1,0 +1,8 @@
+1. "Can you show me a sneak peek of the new David Fincher movie?"
+Named Entities: [sneak peek (Trailer), David Fincher (Director)]
+
+2. "Is the movie Road Trip an environmental disaster film?"
+Named Entities: [Road Trip (Title), environmental disaster (Genre)]
+
+3. "What is the viewers' rating for the movie S directed by David Fincher?" 
+Named Entities: [S (Title), viewers' rating (Viewers' Rating), David Fincher (Director)]

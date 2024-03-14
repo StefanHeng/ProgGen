@@ -1,0 +1,8 @@
+Query: "what is the best Italian restaurant in the area"
+Named Entities: [best (Rating), Italian (Cuisine), area (Location)]
+
+Query: "show me the nearest place with outdoor seating"
+Named Entities: [nearest (Location), outdoor seating (Amenity)]
+
+Query: "which restaurant has a 5-star rating and opens till midnight"
+Named Entities: [5-star (Rating), midnight (Hours)]

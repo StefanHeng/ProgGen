@@ -1,0 +1,8 @@
+1. Query: "Can you suggest a movie with the song Jolene?"
+Named Entities: [Jolene (Song)]
+
+2. Query: "I want to watch a movie about a dance competition."
+Named Entities: [dance competition (Plot)]
+
+3. Query: "Is Superbad considered a classic comedy?"
+Named Entities: [Superbad (Title), classic comedy (Review)]

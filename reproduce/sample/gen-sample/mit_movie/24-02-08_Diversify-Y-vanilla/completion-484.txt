@@ -1,0 +1,8 @@
+1. "Can you recommend a classic movie from 1966?" 
+   Named Entities: [1966 (Year)]
+
+2. "I'm looking for a movie with an affecting storyline and a princess rescue plot." 
+   Named Entities: [Affecting (Review), Princess rescue (Plot)]
+
+3. "What is considered the greatest movie featuring Natalie Dormer?" 
+   Named Entities: [greatest (Review), Natalie Dormer (Actor)]

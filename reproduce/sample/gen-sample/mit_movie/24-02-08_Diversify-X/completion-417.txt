@@ -1,0 +1,8 @@
+Query: "Can you please show me a trailer for the new James Bond film?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+Query: "I'm dying to see a thrilling movie with an amazing plot. What do you recommend?"
+Named Entities: [thrilling (Genre), amazing plot (Plot)]
+
+Query: "Do you have any suggestions for must-see films with great soundtracks?"
+Named Entities: [must-see (Viewers' Rating), great soundtracks (Song)]

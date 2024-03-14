@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any NC-17 films that were released in the last year"
+   Named Entities: [NC-17 (MPAA Rating), last year (Year)]
+
+2. Query: "When is the trailer release date for Wes Anderson's next movie"
+   Named Entities: [trailer release date (Trailer), Wes Anderson (Director)]
+
+3. Query: "Are there any silent survival story films with an assassination plot"
+   Named Entities: [silent (Genre), survival story (Plot), assassination plot (Plot)]

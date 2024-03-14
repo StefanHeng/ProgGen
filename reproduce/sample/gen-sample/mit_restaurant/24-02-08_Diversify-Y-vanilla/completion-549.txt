@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with buffet hours for lunch in the downtown area?"
+Named Entities: [buffet hours (Amenity), lunch (Amenity), downtown area (Location)]
+
+2. "I'm in the mood for some authentic Italian cuisine, where can I find a highly-rated restaurant with outdoor seating?"
+Named Entities: [authentic Italian (Cuisine), highly-rated (Rating), outdoor seating (Amenity)]
+
+3. "I need to find a family-friendly restaurant with a kids' menu and a playground nearby."
+Named Entities: [family-friendly (Amenity), kids' menu (Amenity), playground (Amenity)]

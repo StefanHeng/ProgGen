@@ -1,0 +1,8 @@
+Query: "what type of movie genre is the indiana jones series"
+Named Entities: [indiana jones series (Title)]
+
+Query: "can you recommend a movie similar to indiana jones and the last crusade"
+Named Entities: [indiana jones and the last crusade (Title)]
+
+Query: "show me a movie with the character indiana jones and a theme song similar to raiders of the lost ark"
+Named Entities: [indiana jones (Character), raiders of the lost ark (Song)]

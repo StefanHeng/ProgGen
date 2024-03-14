@@ -1,0 +1,8 @@
+Query: "Can you recommend a romantic fast food restaurant nearby?"
+Named Entities: [romantic (Amenity), fast food (Cuisine)]
+
+Query: "What fast food spots have a romantic atmosphere?"
+Named Entities: [fast food (Cuisine), romantic (Amenity)]
+
+Query: "Is there a fast food joint with a romantic vibe and good ratings?"
+Named Entities: [fast food (Cuisine), romantic (Amenity), good (Rating)]

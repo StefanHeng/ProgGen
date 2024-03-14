@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with delicious pork dishes that are worth the price?"
+Named Entities: [delicious pork dishes (Dish), worth the price (Price)]
+
+2. "I'm craving some authentic Mexican cuisine, is there a place nearby that fits the bill?"
+Named Entities: [authentic Mexican cuisine (Cuisine), nearby (Location)]
+
+3. "I'm looking for a restaurant with a high rating and a cozy atmosphere, any suggestions?"
+Named Entities: [high rating (Rating), cozy atmosphere (Amenity)]

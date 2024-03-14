@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the movie featuring Don Vito Corleone?"
+Named Entities: [trailer (Trailer), Don Vito Corleone (Character)]
+
+2. "Which movie directed by Luca Guadagnino is known for its razor-sharp dialogue?"
+Named Entities: [Luca Guadagnino (Director), razor-sharp dialogue (Review)]
+
+3. "In which film from 1970 does Doctor Strange make an appearance?"
+Named Entities: [1970 (Year), Doctor Strange (Character)]

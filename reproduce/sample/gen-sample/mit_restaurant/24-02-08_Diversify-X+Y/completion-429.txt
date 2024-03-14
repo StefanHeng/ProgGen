@@ -1,0 +1,8 @@
+1. "Can you recommend a good Italian restaurant with outdoor seating for dinner tonight?"
+Named Entities: [good (Rating), Italian (Cuisine), outdoor seating (Amenity), dinner (Hours)
+
+2. "I'm craving sushi. Is there a highly rated sushi bar with a view near downtown?"
+Named Entities: [sushi (Cuisine), highly rated (Rating), view (Amenity), downtown (Location), dinner (Hours)]
+
+3. "I need to find a Mexican restaurant with affordable prices and a children-friendly atmosphere for dinner."
+Named Entities: [Mexican (Cuisine), affordable prices (Price), children-friendly (Amenity), dinner (Hours)]

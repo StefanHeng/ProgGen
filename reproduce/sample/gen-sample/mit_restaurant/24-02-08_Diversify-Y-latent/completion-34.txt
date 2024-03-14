@@ -1,0 +1,11 @@
+1. "Can you recommend a good reviews café in the downtown area?"
+
+Named Entities: [good reviews (Rating), café (Amenity), downtown area (Location)]
+
+2. "I'm craving some authentic Mexican food, where can I find a good restaurant nearby?"
+
+Named Entities: [authentic Mexican food (Cuisine), good (Rating), nearby (Location)]
+
+3. "What's a popular Mexican restaurant with outdoor seating for dinner?"
+
+Named Entities: [popular (Rating), Mexican (Cuisine), outdoor seating (Amenity), dinner (Hours)]

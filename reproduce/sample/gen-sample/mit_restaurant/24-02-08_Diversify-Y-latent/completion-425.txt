@@ -1,0 +1,8 @@
+Query: "Are there any good burrito places near [Chipotle Mexican Grill]?"
+Named Entities: [good (Rating), burrito (Dish), Chipotle Mexican Grill (Restaurant Name)]
+
+Query: "What are the opening hours for [Chipotle Mexican Grill] on weekdays?"
+Named Entities: [opening hours (Hours), Chipotle Mexican Grill (Restaurant Name), weekdays (Hours)]
+
+Query: "I want to find a restaurant with outdoor seating near [Chipotle Mexican Grill]."
+Named Entities: [outdoor seating (Amenity), Chipotle Mexican Grill (Restaurant Name)]

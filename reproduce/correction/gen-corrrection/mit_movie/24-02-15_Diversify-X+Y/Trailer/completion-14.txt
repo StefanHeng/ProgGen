@@ -1,0 +1,11 @@
+1. Query: "Do any streaming platforms have a {{Featurette}} for the movie 12 Angry Men?"
+Text Span: "Featurette"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: Trailer
+
+2. Query: "Is there a {{Teaser}} for a movie with a compelling narrative that will be released soon?"
+Text Span: "Teaser"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "Can you give me a sneak peek at the {{trailer}} for the new Ryan Gosling movie coming out?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer

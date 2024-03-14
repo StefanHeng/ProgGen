@@ -1,0 +1,8 @@
+Query: "Can you recommend a good place to grab dinner near [Flapjack Junction]?"
+Named Entities: [Flapjack Junction (Location)]
+
+Query: "I'm craving some Italian food. Where can I find a great Italian restaurant in the vicinity of [Flapjack Junction]?"
+Named Entities: [Italian (Cuisine), [Flapjack Junction] (Location)]
+
+Query: "What are the operating hours of the restaurants in [Flapjack Junction] for tomorrow?"
+Named Entities: [[Flapjack Junction] (Location), tomorrow (Hours) ]

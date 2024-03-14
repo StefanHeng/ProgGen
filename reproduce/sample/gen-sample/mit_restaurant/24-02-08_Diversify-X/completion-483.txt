@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with an intimate ambience and a good wine selection?"
+Named Entities: [fine dining (Price), intimate (Amenity), wine selection (Amenity)]
+
+2. "I'm looking for a romantic restaurant with a modern European menu, preferably with a view."
+Named Entities: [romantic (Amenity), modern European (Cuisine), view (Amenity)]
+
+3. "Do you know of any upscale restaurants in the area with a tasting menu and live jazz music?"
+Named Entities: [upscale (Price), tasting menu (Amenity), live jazz music (Amenity)]

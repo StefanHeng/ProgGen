@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a mercenary mission theme directed by Darren Aronofsky starring Salma Hayek?"
+Named Entities: [mercenary mission (Plot), Darren Aronofsky (Director), Salma Hayek (Actor)]
+
+2. Query: "What is the viewers' rating for the movie starring Salma Hayek and directed by Darren Aronofsky?"
+Named Entities: [Salma Hayek (Actor), Darren Aronofsky (Director)]
+
+3. Query: "Show me the trailer for the movie featuring a mercenary mission with Salma Hayek and directed by Darren Aronofsky."
+Named Entities: [mercenary mission (Plot), Salma Hayek (Actor), Darren Aronofsky (Director), trailer (Trailer)]

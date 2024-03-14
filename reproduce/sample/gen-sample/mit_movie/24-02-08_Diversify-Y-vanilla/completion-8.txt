@@ -1,0 +1,8 @@
+1. "Can you recommend a comedy film from 1955 that is rated PG?"
+Named Entities: [comedy film (Genre), 1955 (Year), PG (MPAA Rating)]
+
+2. "What movie features the song 'I Will Always Love You' and was released in 1992?"
+Named Entities: ['I Will Always Love You' (Song), 1992 (Year)]
+
+3. "Who directed the action film from 2010 with the title 'Inception'?"
+Named Entities: [action film (Genre), 2010 (Year), 'Inception' (Title)]

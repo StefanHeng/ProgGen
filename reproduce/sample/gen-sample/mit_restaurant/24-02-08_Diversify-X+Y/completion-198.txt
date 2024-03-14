@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a dairy-free upscale restaurant in Vancouver that serves Margherita pizza for lunch"
+   Named Entities: [dairy-free (Amenity), upscale (Price), Vancouver (Location), Margherita pizza (Dish), lunch (Hours)]
+
+2. Query: "Where can I find Spanish cuisine in Vancouver with early bird discounts for lunch"
+   Named Entities: [Spanish (Cuisine), Vancouver (Location), early bird discounts (Amenity), lunch (Hours)]
+
+3. Query: "Recommend a dairy-free upscale restaurant in Vancouver that has Margherita pizza on the lunch menu"
+   Named Entities: [dairy-free (Amenity), upscale (Price), Vancouver (Location), Margherita pizza (Dish), lunch (Hours)]

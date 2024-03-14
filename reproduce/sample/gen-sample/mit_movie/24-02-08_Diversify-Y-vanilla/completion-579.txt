@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with the song Sweet Child o' Mine in it"
+Named Entities: [Sweet Child o' Mine (Song)]
+
+Query: "is Thunderstruck featured in any action movies"
+Named Entities: [Thunderstruck (Song), action (Genre)]
+
+Query: "have the Avengers movies won any awards"
+Named Entities: [Avengers (Title), awards (Review)]

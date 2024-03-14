@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with remarkable production design and believable performances by Amy Adams that falls under the crime genre"
+   Named Entities: [remarkable production design, believable performances (Review), Amy Adams (Actor), crime (Genre)]
+
+2. Query: "What movie directed by Steven Spielberg received the highest viewers' rating"
+   Named Entities: [Steven Spielberg (Director), highest viewers' rating (Review)]
+
+3. Query: "Is there a movie from the 1980s that has an iconic soundtrack and a lead character named Jack"
+   Named Entities: [1980s (Year), iconic soundtrack (Song), Jack (Character)]

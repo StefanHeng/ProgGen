@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with top-notch performances by Leonardo DiCaprio and directed by Martin Scorsese?"
+Named Entities: [Leonardo DiCaprio (Actor), Martin Scorsese (Director), Top-notch performances]
+
+Query: "Where can I find a film with top-notch performances by Meryl Streep and Tom Hanks?"
+Named Entities: [Meryl Streep (Actor), Tom Hanks (Actor), Top-notch performances]
+
+Query: "I'm looking for a movie known for top-notch performances by the entire cast, especially the lead actor and actress."
+Named Entities: [Top-notch performances]

@@ -1,0 +1,8 @@
+1. Text Span: "satisfy my craving"
+Label: (D). The span is not a named entity
+
+2. Text Span: "vegan-friendly"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "side of onion rings"
+Label: (A). The span is a named entity of type amenity

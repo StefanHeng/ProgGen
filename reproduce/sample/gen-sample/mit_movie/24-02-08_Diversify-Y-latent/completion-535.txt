@@ -1,0 +1,8 @@
+1. Query: "Can I watch on Netflix a comedy movie from the 1980s with Princess Leia as a character"
+   Named Entities: [Netflix (streaming platform), 1980s (Year), Princess Leia (Character), comedy (Genre)]
+
+2. Query: "What is the best movie from the early 2010s with an awful rating"
+   Named Entities: [early 2010s (Year), awful (Viewers' Rating)]
+
+3. Query: "Who directed the action film with Kylo Ren as the lead character"
+   Named Entities: [action (Genre), Kylo Ren (Character)]

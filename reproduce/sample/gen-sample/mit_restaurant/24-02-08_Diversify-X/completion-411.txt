@@ -1,0 +1,8 @@
+Query: "I'm looking for a formal restaurant serving nut-free lunch near the city center"
+Named Entities: [formal (Amenity), nut-free (Amenity), lunch (Cuisine), city center (Location)]
+
+Query: "Can you recommend a nut-free lunch place with formal ambience and good ratings"
+Named Entities: [nut-free (Amenity), lunch (Cuisine), formal (Amenity), good ratings (Rating)]
+
+Query: "I need a reservation for a nut-free lunch at a formal restaurant with a good price range"
+Named Entities: [nut-free (Amenity), lunch (Cuisine), formal (Amenity), good price range (Price)]

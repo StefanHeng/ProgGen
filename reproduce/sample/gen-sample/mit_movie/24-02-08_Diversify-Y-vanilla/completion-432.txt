@@ -1,0 +1,8 @@
+1. "What is the genre of the movie Birds of Prey directed by Cathy Yan?"
+   Named Entities: [Birds of Prey (Title), Cathy Yan (Director)]
+
+2. "Can you recommend a disaster movie similar to Jurassic Park?"
+   Named Entities: [disaster (Genre), Jurassic Park (Title)]
+
+3. "Is the movie Black Dog suitable for kids with a PG rating?"
+   Named Entities: [Black Dog (Title), PG (MPAA Rating)]

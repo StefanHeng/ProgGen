@@ -1,0 +1,8 @@
+1. "Can you recommend a zombie movie with impressive visual effects?"
+Named Entities: [zombie (Genre), visual effects (Plot)]
+
+2. "Is Marlon Brando in any movie directed by Mark Joffe, and rated R?"
+Named Entities: [Marlon Brando (Actor), Mark Joffe (Director), rated R (MPAA Rating)]
+
+3. "What is the connection between Frodo Baggins and The Hurt Locker?"
+Named Entities: [Frodo Baggins (Character), The Hurt Locker (Title)]

@@ -1,0 +1,8 @@
+1. Text Span: "director"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Christopher Nolan"
+Label: (A). Correct Entity Annotation
+
+3. Text Span: "Christopher Nolan"
+Label: (A). Correct Entity Annotation

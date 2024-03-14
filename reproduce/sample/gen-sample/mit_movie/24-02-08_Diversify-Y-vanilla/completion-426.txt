@@ -1,0 +1,8 @@
+1. "Can you recommend an inspirational movie with Bradley Cooper?"
+Named Entities: [Inspirational (Genre), Bradley Cooper (Actor)]
+
+2. "Show me a movie directed by Christopher Nolan that is recommended for adults and has a viewers' rating of R."
+Named Entities: [Christopher Nolan (Director), Recommended for Adults (MPAA Rating), R (Viewers' Rating)]
+
+3. "What is a popular movie from the 1990s with a science fiction plot?"
+Named Entities: [1990s (Year), science fiction (Genre)]

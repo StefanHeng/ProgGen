@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a kid-friendly restaurant with outdoor seating?"
+Named Entities: [kid-friendly (Amenity), outdoor seating (Amenity)]
+
+2. Query: "I'm craving sushi, is there a good sushi restaurant nearby that's also kid-friendly?"
+Named Entities: [sushi (Cuisine), kid-friendly (Amenity), nearby (Location)]
+
+3. Query: "What's a family-friendly restaurant with a playground and serves Italian cuisine?"
+Named Entities: [family-friendly (Amenity), playground (Amenity), Italian (Cuisine)]

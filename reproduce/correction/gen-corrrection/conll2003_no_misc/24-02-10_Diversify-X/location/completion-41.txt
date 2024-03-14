@@ -1,0 +1,11 @@
+1. Sentence: "The European Union announce new trade agreement with {{South American}} countries."
+Text Span: "South American"
+Label: (C) - other
+
+2. Sentence: "Conservation group warns of declining elephant population in {{Africa}}."
+Text Span: "Africa"
+Label: (A)
+
+3. Sentence: "Local businesses report increased sales following the annual {{street fair}}."
+Text Span: "street fair"
+Label: (C) - other

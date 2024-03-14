@@ -1,0 +1,8 @@
+1. Text Span: "enchanting music"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Hotel California"
+Label: (A). The span is a named entity of type song
+
+3. Text Span: "I Believe"
+Label: (A). The span is a named entity of type song

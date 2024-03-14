@@ -1,0 +1,8 @@
+1. "Find me a Spanish restaurant open on Wednesday night"
+   Named Entities: [Spanish (Cuisine), Wednesday (Hours)]
+
+2. "I'm in the mood for some tapas, where is the nearest place I can find them?"
+   Named Entities: [tapas (Dish), nearest (Location)]
+
+3. "Can you recommend a restaurant with high ratings and a nice outdoor patio?"
+   Named Entities: [high ratings (Rating), outdoor patio (Amenity)]

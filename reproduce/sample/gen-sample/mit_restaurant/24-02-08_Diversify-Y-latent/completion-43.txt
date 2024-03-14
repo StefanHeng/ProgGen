@@ -1,0 +1,8 @@
+1. "Can you recommend a good [American] restaurant near downtown with outdoor seating?"
+Named Entities: [American (Cuisine), downtown (Location), outdoor seating (Amenity)]
+
+2. "What's the average price range for a meal at [The Cheesecake Factory]?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), average price range (Price)]
+
+3. "I'm looking for a restaurant that serves [Mexican] food and opens until midnight in the [Westside] area."
+Named Entities: [Mexican (Cuisine), Westside (Location), midnight (Hours)]

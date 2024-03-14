@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a BYOB policy. Do you know any places that allow that?"
+Named Entities: [BYOB (Amenity)]
+
+2. "Where can I find an Outback Steakhouse in the area?"
+Named Entities: [Outback Steakhouse (Restaurant Name)]
+
+3. "Can you recommend a good restaurant with a diverse menu and a great ambiance for under 30 dollars a plate?"
+Named Entities: [diverse (Cuisine), great (Rating), under 30 dollars a plate (Price)]

@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie that showcases masterful use of symbolism"
+Named Entities: [masterful use of symbolism (Review)]
+
+2. Query: "did michael myers star in any horror movies directed by stephen daldry"
+Named Entities: [michael myers (Character), horror (Genre), stephen daldry (Director)]
+
+3. Query: "is there a film featuring kate winslet that has the song sweet child o' mine"
+Named Entities: [kate winslet (Actor), sweet child o' mine (Song)]

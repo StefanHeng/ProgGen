@@ -1,0 +1,8 @@
+Sentence: "The company announced a partnership with a leading tech firm to develop a new line of products."
+Named Entities: [tech firm (organization)]
+
+Sentence: "The CEO successfully negotiated a merger with a major competitor, expanding the company's market share."
+Named Entities: [CEO (person)]
+
+Sentence: "The headquarters of the multinational corporation is located in the financial district of New York City."
+Named Entities: [multinational corporation (organization), New York City (location)]

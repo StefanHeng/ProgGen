@@ -1,0 +1,8 @@
+1. "Can you recommend an engrossing movie directed by Spike Lee?"
+Named Entities: [engrossing (Viewers' Rating), Spike Lee (Director)]
+
+2. "What is the plot of the latest movie featuring Denzel Washington?"
+Named Entities: [latest (Year), Denzel Washington (Actor)]
+
+3. "I'm looking for a crime thriller with a high viewers' rating, can you suggest one?"
+Named Entities: [crime thriller (Genre), high viewers' rating (Viewers' Rating)]

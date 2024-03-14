@@ -1,0 +1,8 @@
+Query: "what movie did Judd Apatow direct in 2008"
+Named Entities: [Judd Apatow (Director), 2008 (Year)]
+
+Query: "recommend a mesmerizing and intense science fiction movie with supernatural forces"
+Named Entities: [mesmerizing (Review), intense (Review), science fiction (Genre), supernatural forces (Plot)]
+
+Query: "show me a Star Wars movie with five stars viewers' rating"
+Named Entities: [Star Wars (Title), five stars (Viewers' Rating)]

@@ -1,0 +1,11 @@
+1. Query: "What are the hours for a restaurant with a {{good price}} in the downtown area?"
+Text Span: "good price"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Rating.
+
+2. Query: "Do you know of any restaurants nearby that serve {{affordable}} dishes?"
+Text Span: "affordable"
+Label: (A). The span is a named entity of type price.
+
+3. Query: "What is the {{price range}} for italian restaurants in this area?"
+Text Span: "price range"
+Label: (D). The span is not a named entity.

@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a family-friendly movie rated PG directed by {{Stephen Daldry}}"
+Text Span: "Stephen Daldry"
+Label: (A). The span is a named entity of type director
+
+2. Query: "Show me a trailer for the latest {{Wong Kar-wai}} film."
+Text Span: "Wong Kar-wai"
+Label: (A). The span is a named entity of type director
+
+3. Query: "What is a good mockbuster movie directed by {{Clint Eastwood}}?"
+Text Span: "Clint Eastwood"
+Label: (A). The span is a named entity of type director

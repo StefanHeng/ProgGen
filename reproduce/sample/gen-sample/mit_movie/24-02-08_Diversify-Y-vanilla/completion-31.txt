@@ -1,0 +1,8 @@
+1. "What year was the movie Chinatown released?"
+Named Entities: [Chinatown (Title)]
+
+2. "Can you recommend a silent movie from the 1920s?"
+Named Entities: [silent (Genre), 1920s (Year)]
+
+3. "Is the movie featuring the song Gangnam Style recommended for adults?"
+Named Entities: [Gangnam Style (Song), Recommended for Adults (MPAA Rating)]

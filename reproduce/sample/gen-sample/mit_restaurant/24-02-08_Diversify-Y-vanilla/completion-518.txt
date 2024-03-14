@@ -1,0 +1,8 @@
+Query: "I'm craving some [Afternoon tea], where can I find a place that offers it?"
+Named Entities: [Afternoon tea (Amenity)]
+
+Query: "I want to try some authentic [Afternoon tea] experience, do you know any place with good reviews?"
+Named Entities: [Afternoon tea (Amenity)]
+
+Query: "What's the best spot for [Afternoon tea] in this area?"
+Named Entities: [Afternoon tea (Amenity)]

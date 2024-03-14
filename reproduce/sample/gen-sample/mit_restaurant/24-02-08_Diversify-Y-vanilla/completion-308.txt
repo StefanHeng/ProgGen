@@ -1,0 +1,8 @@
+1. "Can you recommend a Caribbean restaurant with a great outdoor seating area?"
+Named Entities: [Caribbean (Cuisine), outdoor seating area (Amenity)]
+
+2. "What are the opening hours for the Jamaican restaurant near the beach?"
+Named Entities: [Jamaican (Cuisine), near the beach (Location), opening hours (Hours)]
+
+3. "I'm looking for a budget-friendly seafood place in the Caribbean area, any suggestions?"
+Named Entities: [budget-friendly (Price), seafood (Cuisine), Caribbean (Location)]

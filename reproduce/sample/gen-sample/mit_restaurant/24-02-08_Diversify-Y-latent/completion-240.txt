@@ -1,0 +1,8 @@
+Query: "Can you recommend a pet-friendly area with outdoor seating?"
+Named Entities: [Pet-friendly area (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm craving some sushi, is there a place nearby with all-you-can-eat pricing?"
+Named Entities: [sushi (Cuisine), nearby (Location), all-you-can-eat pricing (Price)]
+
+Query: "What are the hours for the Italian restaurant in the shopping center?"
+Named Entities: [Italian (Cuisine), shopping center (Location), hours (Hours)]

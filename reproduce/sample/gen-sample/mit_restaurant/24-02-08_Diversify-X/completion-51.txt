@@ -1,0 +1,8 @@
+Query: "What restaurants in the area serve a good breakfast menu with pancakes and eggs"
+Named Entities: [good (Rating), breakfast (Amenity), pancakes and eggs (Dish), area (Location)]
+
+Query: "I'm looking for a breakfast spot with a cozy atmosphere and reasonable prices"
+Named Entities: [cozy (Amenity), reasonable prices (Price), breakfast spot (Amenity)]
+
+Query: "Where can I find a highly-rated breakfast place with outdoor seating"
+Named Entities: [highly-rated (Rating), breakfast place (Amenity), outdoor seating (Amenity)]

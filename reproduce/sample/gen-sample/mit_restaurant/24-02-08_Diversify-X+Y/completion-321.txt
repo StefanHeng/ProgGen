@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, where can I find a budget-friendly Taco Bell nearby?"
+Named Entities: [fast food (Cuisine), budget-friendly (Price), Taco Bell (Restaurant Name)]
+
+Query: "What are the operating hours for Taco Bell in this area?"
+Named Entities: [Taco Bell (Restaurant Name)]
+
+Query: "Can you recommend a Taco Bell location with high ratings and a convenient drive-thru?"
+Named Entities: [Taco Bell (Restaurant Name), high ratings (Rating), convenient drive-thru (Amenity)]

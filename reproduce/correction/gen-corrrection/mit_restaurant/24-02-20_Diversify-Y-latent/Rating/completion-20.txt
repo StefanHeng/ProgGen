@@ -1,0 +1,8 @@
+1. Text Span: "AAA Diamond rating"
+Label: (A). The span is a named entity of type rating
+
+2. Text Span: "Michelin-starred"
+Label: (A). The span is a named entity of type rating
+
+3. Text Span: "rating"
+Label: (D). The span is not a named entity

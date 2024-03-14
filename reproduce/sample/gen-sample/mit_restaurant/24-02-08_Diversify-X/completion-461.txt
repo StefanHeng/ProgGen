@@ -1,0 +1,8 @@
+Query: "I'm looking for a fine dining restaurant with gluten-free options and a high rating"
+Named Entities: [fine dining (Amenity), gluten-free (Amenity), high rating (Rating)]
+
+Query: "Can you recommend an upscale restaurant with a gluten-free menu and a good wine selection"
+Named Entities: [upscale (Amenity), gluten-free (Amenity), good wine selection (Amenity)]
+
+Query: "Where can I find a top-rated, fancy restaurant that offers gluten-free dishes"
+Named Entities: [top-rated (Rating), fancy (Amenity), gluten-free (Amenity)]

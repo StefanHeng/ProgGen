@@ -1,0 +1,5 @@
+1. Text Span: "lead character"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Forrest Gump"
+Label: (A). Named entity of type Character

@@ -1,0 +1,8 @@
+1. "What kind of cuisine does [Toasted Mango Café] offer and what are its hours of operation?"
+Named Entities: [Toasted Mango Café (Restaurant Name), cuisine (Cuisine), hours of operation (Hours)]
+
+2. "I'm craving a dish with spicy flavors, can you recommend a restaurant that serves spicy food?"
+Named Entities: [spicy (Amenity)]
+
+3. "Where can I find a restaurant with a good atmosphere and a high rating in this area?"
+Named Entities: [good atmosphere (Amenity), high rating (Rating), this area (Location)]

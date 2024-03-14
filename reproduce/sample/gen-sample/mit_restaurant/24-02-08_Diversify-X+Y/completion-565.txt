@@ -1,0 +1,10 @@
+
+
+Query: "can you recommend any restaurants with exceptional dining experiences for lunch?"
+Named Entities: [Exceptional dining experiences (Amenity), lunch (Cuisine)]
+
+Query: "where can I find lunch options within my budget nearby?"
+Named Entities: [Lunch options within my budget (Price), nearby (Location)]
+
+Query: "what are the lunch hours for affordable restaurants in the area?"
+Named Entities: [Lunch hours (Hours), affordable (Price), area (Location)]

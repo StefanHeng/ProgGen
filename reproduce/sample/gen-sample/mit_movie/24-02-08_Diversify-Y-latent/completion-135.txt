@@ -1,0 +1,8 @@
+1. "Can you suggest a good slasher movie released in the 2000s?"
+   Named Entities: [slasher (Genre), 2000s (Year)]
+
+2. "What are the main stunts performed in the movie Nailed it starring Dwayne Johnson?"
+   Named Entities: [Nailed it (Title), Stunts (Plot), Dwayne Johnson (Actor)]
+
+3. "Tell me a parody movie featuring Harrison Ford that received a high viewers' rating."
+   Named Entities: [parody (Genre), Harrison Ford (Actor), high viewers' rating (Viewers' Rating)]

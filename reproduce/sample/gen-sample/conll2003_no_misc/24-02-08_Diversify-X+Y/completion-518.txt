@@ -1,0 +1,8 @@
+Sentence: "Bob Dylan to perform at The Metropolitan Opera for the first time."
+Named Entities: [Bob Dylan (person), The Metropolitan Opera (organization)]
+
+Sentence: "The Metropolitan Opera cancels its participation in SXSW music festival."
+Named Entities: [The Metropolitan Opera (organization), SXSW (organization)]
+
+Sentence: "Legendary musician Bob Dylan to receive lifetime achievement award at SXSW."
+Named Entities: [Bob Dylan (person), SXSW (organization)]

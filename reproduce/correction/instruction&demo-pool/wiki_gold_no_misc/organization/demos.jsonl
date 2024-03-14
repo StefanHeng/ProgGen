@@ -1,0 +1,5 @@
+{"sentence": "The World Health Organization is a specialized agency of the United Nations responsible for international public health.", "entity_span": "United Nations", "label": "CORRECT"}
+{"sentence": "She won the Nobel Prize in Literature in 2013 for her novels and short stories.", "entity_span": "Nobel Prize in Literature", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "She was the first female Prime Minister of India and served from 1966 to 1977 and then again from 1980 until her assassination in 1984.", "entity_span": "Prime Minister of India", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "Aretha Franklin, also known as the \"Queen of Soul\", was an American singer, songwriter, and pianist.", "entity_span": "American", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "The company partnered with a local non-profit organization to organize a charity event in Tokyo, Japan.", "entity_span": "non-profit organization", "label": "NA"}

@@ -1,0 +1,8 @@
+Query: "I'm looking for a budget-friendly breakfast spot with a good variety of pancakes and omelettes"
+Named Entities: [breakfast (Amenity), budget-friendly (Price), pancakes (Dish), omelettes (Dish)]
+
+Query: "Where can I grab some eggs and coffee for breakfast before 7 am?"
+Named Entities: [eggs (Dish), coffee (Dish), before 7 am (Hours)]
+
+Query: "I need a breakfast place with hearty portions and fast service, preferably within 10 miles"
+Named Entities: [breakfast (Amenity), hearty portions (Amenity), fast service (Amenity), within 10 miles (Location)]

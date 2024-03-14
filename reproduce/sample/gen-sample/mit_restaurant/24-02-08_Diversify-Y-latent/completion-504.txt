@@ -1,0 +1,8 @@
+Query: "I'm craving some sushi, where is the best sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), best (Rating), nearby (Location)]
+
+Query: "What restaurants in the area are open past midnight?"
+Named Entities: [open past midnight (Hours), area (Location)]
+
+Query: "I want to try something new, can you recommend a place with vegan options?"
+Named Entities: [vegan (Cuisine), new (Amenity)]

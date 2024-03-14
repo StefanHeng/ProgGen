@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some authentic Italian food, is there a good place nearby?"
+Named Entities: [authentic Italian food (Cuisine), nearby (Location)]
+
+Query: "what's the rating for the new sushi place that opened downtown?"
+Named Entities: [sushi place (Cuisine), downtown (Location)]
+
+Query: "I need to find a restaurant with outdoor seating and a view"
+Named Entities: [outdoor seating (Amenity), view (Amenity)]

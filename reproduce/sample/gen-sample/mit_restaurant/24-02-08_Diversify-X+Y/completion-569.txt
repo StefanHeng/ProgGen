@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant with gluten-free options"
+Named Entities: [buffet (Amenity), gluten-free (Amenity)]
+
+Query: "where can I find The Luxe Buffet with early bird specials"
+Named Entities: [The Luxe Buffet (Restaurant Name), Early bird specials (Amenity)]
+
+Query: "which restaurant offers a gluten-free buffet with early bird specials"
+Named Entities: [gluten-free (Amenity), buffet (Amenity), Early bird specials (Amenity)]

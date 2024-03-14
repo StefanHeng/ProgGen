@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any restaurants in the vicinity with a vegetarian buffet for lunchtime?"
+   Named Entities: [vegetarian (Cuisine), buffet (Amenity), in the vicinity (Location), lunchtime (Hours)]
+
+2. Query: "I'm looking for a place nearby that offers a lunchtime buffet for vegetarians."
+   Named Entities: [lunchtime (Hours), buffet (Amenity), vegetarians (Cuisine), nearby (Location)]
+
+3. Query: "Where can I find a restaurant around here that serves a vegetarian buffet during lunchtime?"
+   Named Entities: [vegetarian (Cuisine), buffet (Amenity), during lunchtime (Hours)]

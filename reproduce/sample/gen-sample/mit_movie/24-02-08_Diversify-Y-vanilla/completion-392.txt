@@ -1,0 +1,8 @@
+Query: "Can you recommend a tragedy movie from 2010-2012"
+Named Entities: [tragedy (Genre), 2010-2012 (Year)]
+
+Query: "What war movie was directed by Kathryn Bigelow?"
+Named Entities: [war (Genre), Kathryn Bigelow (Director)]
+
+Query: "What is the viewers' rating for the film about the 2004 tsunami?"
+Named Entities: [2004 tsunami (Plot), viewers' rating (Viewers' Rating)]

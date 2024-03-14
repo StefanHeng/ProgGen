@@ -1,0 +1,8 @@
+Query: "is there a Chick-fil-A nearby that serves breakfast?"
+Named Entities: [Chick-fil-A (Restaurant Name), nearby (Location), breakfast (Amenity)]
+
+Query: "what is the price range at Chick-fil-A?"
+Named Entities: [Chick-fil-A (Restaurant Name), price range (Price)]
+
+Query: "can I find a Chick-fil-A with a drive-thru open past 10 pm?"
+Named Entities: [Chick-fil-A (Restaurant Name), drive-thru (Amenity), past 10 pm (Hours)]

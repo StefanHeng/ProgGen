@@ -1,0 +1,8 @@
+1. "Find me a sushi restaurant with a rating of at least 4 stars"
+Named Entities: [sushi (Cuisine), at least 4 stars (Rating)]
+
+2. "What time does the Italian restaurant close tonight?"
+Named Entities: [Italian restaurant (Restaurant Name), tonight (Hours)]
+
+3. "I'm looking for a brunch place with outdoor seating and bottomless mimosas"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), bottomless mimosas (Amenity)]

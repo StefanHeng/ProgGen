@@ -1,0 +1,8 @@
+Query: "I'm craving some Tandoori Chicken, can you recommend a restaurant that serves it?"
+Named Entities: [Tandoori Chicken (Dish)]
+
+Query: "I want to try some international cuisine, any suggestions for a restaurant?"
+Named Entities: [international cuisine (Cuisine)]
+
+Query: "Where can I find Nepali cuisine for cheap eats?"
+Named Entities: [Nepali (Cuisine), cheap eats (Price)]

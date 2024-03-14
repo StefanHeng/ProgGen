@@ -1,0 +1,8 @@
+1. "What are some S-rated movies starring Amanda Seyfried directed by Jonathan Demme?"
+Named Entities: [Amanda Seyfried (Actor), Jonathan Demme (Director), S-rated (MPAA Rating)]
+
+2. "Can you recommend a refreshing movie with an A- rating?"
+Named Entities: [refreshing (Review), A- rating (Viewers' Rating)]
+
+3. "Show me the trailer for the movie S."
+Named Entities: [S (Title), trailer (Trailer)]

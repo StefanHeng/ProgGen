@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with gripping suspense?"
+Named Entities: [gripping suspense (Review)]
+
+2. "What is a highly acclaimed film directed by Christopher Nolan?"
+Named Entities: [Christopher Nolan (Director), highly acclaimed (Review)]
+
+3. "I'm looking for a dreadful horror movie from the 1980s. Any suggestions?"
+Named Entities: [dreadful (Viewers' Rating), 1980s (Year)]

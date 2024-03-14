@@ -1,0 +1,8 @@
+1. Query: "Tell me a U-rated movie directed by Michael Moore"
+Named Entities: [U (MPAA Rating), Michael Moore (Director)]
+
+2. Query: "What is the plot of Apocalypse Now"
+Named Entities: [Apocalypse Now (Title), plot (Plot)]
+
+3. Query: "Who played Uhura in the terrific Star Trek movie"
+Named Entities: [Uhura (Character), terrific (Viewers' Rating), Star Trek (Title)]

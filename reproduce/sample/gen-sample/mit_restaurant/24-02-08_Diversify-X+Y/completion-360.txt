@@ -1,0 +1,8 @@
+Query: "Can you recommend a cozy restaurant with a buffet option for dinner tonight"
+Named Entities: [cozy (Amenity), buffet (Cuisine), dinner tonight (Hours)]
+
+Query: "I'm looking for a charming place with a buffet for brunch this weekend"
+Named Entities: [charming (Amenity), buffet (Cuisine), brunch this weekend (Hours)]
+
+Query: "Do you know of any small, intimate restaurants with a buffet menu for lunch"
+Named Entities: [small (Amenity), intimate (Amenity), buffet (Cuisine), lunch (Hours) ]

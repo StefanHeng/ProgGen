@@ -1,0 +1,8 @@
+1. "I'm looking for a breakfast spot with live music and a good Bagel and cream cheese"
+Named Entities: [breakfast (Amenity), live music (Amenity), Bagel and cream cheese (Dish)]
+
+2. "Where can I find a place with live music and a variety of Bagel and cream cheese options for breakfast"
+Named Entities: [live music (Amenity), Bagel and cream cheese (Dish), breakfast (Amenity)]
+
+3. "I need a restaurant that serves Bagel and cream cheese for breakfast and has live music"
+Named Entities: [Bagel and cream cheese (Dish), breakfast (Amenity), live music (Amenity)]

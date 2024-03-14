@@ -1,0 +1,8 @@
+1. Text Span: "Jon Snow"
+Label: (A). The span is a named entity of type character
+
+2. Text Span: "strong female lead"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "strong female lead"
+Label: (C). Wrong Type. The correct entity type is other.

@@ -1,0 +1,8 @@
+Query: "Where can I find a highly praised Italian restaurant in this region?"
+Named Entities: [highly praised (Rating), Italian (Cuisine), region (Location)]
+
+Query: "I'm looking for a pricy steakhouse that opens before 5 pm"
+Named Entities: [pricy (Price), steakhouse (Cuisine), before 5 pm (Hours)]
+
+Query: "Can you recommend a place with a view of the ocean for seafood?"
+Named Entities: [view of the ocean (Amenity), seafood (Cuisine)]

@@ -1,0 +1,8 @@
+Query: "I'm craving sushi, where can I find a good sushi restaurant?"
+Named Entities: [sushi (Cuisine), good (Rating)]
+
+Query: "What's the address and hours of operation for Italian Village?"
+Named Entities: [Italian Village (Restaurant Name), address (Location), hours of operation (Hours)]
+
+Query: "I want to try some authentic Mexican food, do you know any affordable Mexican restaurants in the area?"
+Named Entities: [authentic (Rating), affordable (Price), Mexican (Cuisine)]

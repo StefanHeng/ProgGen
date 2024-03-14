@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the most awards in 2020?"
+   Named Entities: [2020 (Year), most awards (Review)]
+
+2. "I'm looking for a feel-good movie that has won multiple awards, any recommendations?"
+   Named Entities: [feel-good (Genre), multiple awards (Review)]
+
+3. "I'm interested in watching a critically acclaimed film, ideally one that was nominated for an Oscar. Can you suggest anything?"
+   Named Entities: [critically acclaimed (Review), nominated for an Oscar (Award)]

@@ -1,0 +1,11 @@
+1. Sentence: "The first human-made object to reach the surface of the {{Moon}} was the Soviet Union's Luna 2, in 1959."
+Text Span: "Moon"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Harvard University, a renowned institution of higher education located in {{Cambridge}}, Massachusetts, is known for its rigorous academic programs and esteemed faculty members."
+Text Span: "Cambridge"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "René Descartes, a {{French}} philosopher, is often referred to as the father of modern philosophy."
+Text Span: "French"
+Label: (C). Wrong Type. The correct entity type is other.

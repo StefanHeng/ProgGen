@@ -1,0 +1,8 @@
+1. "Hey, can you recommend a good drama movie directed by Mike Leigh with at least an 8/10 rating?"
+Named Entities: [Mike Leigh (Director), 8/10 rating (Viewers' Rating), Drama (Genre)]
+
+2. "Do you know any teen movies with high ratings?"
+Named Entities: [teen (Genre)]
+
+3. "What's the best movie with a rating of 8/10 directed by Mike Leigh?"
+Named Entities: [8/10 rating (Viewers' Rating), Mike Leigh (Director)]

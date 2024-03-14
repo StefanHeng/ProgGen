@@ -1,0 +1,8 @@
+1. "What restaurants nearby serve the best roast beef sandwich?"
+Named Entities: [roast beef (Dish)]
+
+2. "I'm in the mood for some chicken wings, where can I find the closest place with a good selection?"
+Named Entities: [chicken wings (Dish), closest (Location), good selection (Amenity)]
+
+3. "Can you recommend a restaurant with a diverse menu and reasonable prices for dinner tonight?"
+Named Entities: [diverse menu (Amenity), reasonable prices (Price), dinner tonight (Hours)]

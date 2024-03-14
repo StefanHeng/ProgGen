@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly recommended café in San Francisco?"
+Named Entities: [café (Cuisine), San Francisco (Location), Highly recommended (Rating)]
+
+Query: "What are the hours of operation for a highly recommended café in San Francisco?"
+Named Entities: [hours of operation (Hours), café (Cuisine), San Francisco (Location), Highly recommended (Rating)]
+
+Query: "I'm looking for a café in San Francisco with a highly recommended menu. Can you help me find one?"
+Named Entities: [café (Cuisine), San Francisco (Location), Highly recommended (Rating)]

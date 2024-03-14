@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the viewers' rating for the movie You, Me and Dupree starring Kate Hudson and released in 2006?"
+Named Entities: [You, Me and Dupree (Title), Kate Hudson (Actor), 2006 (Year), viewers' rating (Viewers' Rating)]
+
+2. Query: "What is a movie highlight featuring Darth Vader and released in 1977?"
+Named Entities: [Darth Vader (Character), 1977 (Year), movie highlight (Review)]
+
+3. Query: "I'd like to hear an excerpt from a Ryan Reynolds movie from 2009."
+Named Entities: [Ryan Reynolds (Actor), 2009 (Year), excerpt (Excerpt)]

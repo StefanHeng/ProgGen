@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good wine selection and Last seating time?"
+Named Entities: [good (Rating), wine selection (Amenity), Last seating time (Amenity)]
+
+Query: "I want to try some authentic Italian pasta for under 15 dollars, do you know a place?"
+Named Entities: [authentic Italian (Cuisine), pasta (Dish), under 15 dollars (Price)]
+
+Query: "Where can I find a seafood restaurant with a high rating and outdoor seating area?"
+Named Entities: [seafood (Cuisine), high rating (Rating), outdoor seating area (Amenity)]

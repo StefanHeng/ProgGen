@@ -1,0 +1,8 @@
+1. Query: "What movie features the song Take My Breath Away and was released in 1991?"
+Named Entities: [Take My Breath Away (Song), 1991 (Year)]
+
+2. Query: "Can you recommend a dramatic film from 1991?"
+Named Entities: [1991 (Year), Dramatic (Genre)]
+
+3. Query: "Show me the trailer for the movie with the song Take My Breath Away from 1991."
+Named Entities: [Take My Breath Away (Song), 1991 (Year), Trailer (Trailer)]

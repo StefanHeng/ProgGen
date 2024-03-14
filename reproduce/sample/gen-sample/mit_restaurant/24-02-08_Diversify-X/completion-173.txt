@@ -1,0 +1,8 @@
+Query: "can you help me find a fast food spot with a drive-thru nearby"
+Named Entities: [fast food (Cuisine), drive-thru (Amenity), nearby (Location)]
+
+Query: "what time does taco bell close tonight"
+Named Entities: [taco bell (Restaurant Name), close tonight (Hours)]
+
+Query: "recommend a cheap burger joint with a high rating"
+Named Entities: [cheap (Price), burger joint (Cuisine), high (Rating)]

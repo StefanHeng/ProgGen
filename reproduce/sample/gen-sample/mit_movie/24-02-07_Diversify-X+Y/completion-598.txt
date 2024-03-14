@@ -1,0 +1,8 @@
+1. "Hey, can you play a preview of the soundtrack for the movie M?"
+Named Entities: [M (Title), preview (Trailer)]
+
+2. "I'm looking for a movie with a killer soundtrack. Any suggestions?"
+Named Entities: [killer soundtrack (Song)]
+
+3. "Hey, what's the best movie with an amazing soundtrack? I need something to jam out to."
+Named Entities: [amazing soundtrack (Review)]

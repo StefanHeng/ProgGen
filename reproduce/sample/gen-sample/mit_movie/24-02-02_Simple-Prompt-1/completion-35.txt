@@ -1,0 +1,149 @@
+1. "Can you recommend a good mystery movie from the 90s"
+Named Entities: [mystery (Genre), 90s (Year)]
+
+2. "I need to find a movie with a high viewers' rating"
+Named Entities: [high viewers' rating (Viewers' Rating)]
+
+3. "Have you seen the latest Tarantino film"
+Named Entities: [Tarantino (Director)]
+
+4. "Do you have any information on the movie Inception"
+Named Entities: [Inception (Title)]
+
+5. "Is The Matrix trilogy worth watching"
+Named Entities: [The Matrix (Title)]
+
+6. "Can you tell me about the movie musicals from the 1950s"
+Named Entities: [musicals (Genre), 1950s (Year)]
+
+7. "Who directed the film The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title)]
+
+8. "I'm looking for an action movie with a strong female lead"
+Named Entities: [action (Genre)]
+
+9. "Can you find the trailer for the new Avengers movie"
+Named Entities: [Avengers (Title), trailer (Trailer)]
+
+10. "What is the MPAA rating for The Godfather"
+Named Entities: [The Godfather (Title), MPAA Rating]
+
+11. "I want to watch a classic film from the 1940s"
+Named Entities: [classic (Genre), 1940s (Year)]
+
+12. "Give me some information about the movie Titanic"
+Named Entities: [Titanic (Title)]
+
+13. "Who is the main actor in The Dark Knight"
+Named Entities: [The Dark Knight (Title), main actor (Actor)]
+
+14. "I'm searching for a feel-good movie with a catchy song"
+Named Entities: [feel-good (Genre), catchy song (Song)]
+
+15. "What's the plot of the movie Jurassic Park"
+Named Entities: [Jurassic Park (Title), plot (Plot)]
+
+16. "Do you have any reviews for the film Gone with the Wind"
+Named Entities: [Gone with the Wind (Title), reviews (Review)]
+
+17. "I'm interested in movies directed by Christopher Nolan"
+Named Entities: [Christopher Nolan (Director)]
+
+18. "Can you recommend a recent comedy movie"
+Named Entities: [recent (Year), comedy (Genre)]
+
+19. "Is there a sequel to the movie The Lion King"
+Named Entities: [sequel (Plot), The Lion King (Title)]
+
+20. "What year was the film Casablanca released"
+Named Entities: [Casablanca (Title), released (Year)]
+
+21. "Can you tell me about the director of the movie The Departed"
+Named Entities: [The Departed (Title), director (Director)]
+
+22. "I want to watch a sci-fi movie from the 80s"
+Named Entities: [sci-fi (Genre), 80s (Year)]
+
+23. "What is the MPAA rating for Jaws"
+Named Entities: [Jaws (Title), MPAA Rating]
+
+24. "Is Meryl Streep in any romantic films"
+Named Entities: [Meryl Streep (Actor), romantic (Genre)]
+
+25. "Can you show me the trailer for the new James Bond movie"
+Named Entities: [James Bond (Title), trailer (Trailer)]
+
+26. "How would you describe the genre of the film The Silence of the Lambs"
+Named Entities: [The Silence of the Lambs (Title), genre (Genre)]
+
+27. "Who is the actor playing Spider-Man in the latest movie"
+Named Entities: [Spider-Man (Character), latest (Year)]
+
+28. "I'm looking for an animated movie with a high viewers' rating"
+Named Entities: [animated (Genre), high viewers' rating (Viewers' Rating)]
+
+29. "What was the viewers' rating for The Godfather"
+Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+30. "I want to watch a war movie from the 60s"
+Named Entities: [war (Genre), 60s (Year)]
+
+31. "What's the plot of the film The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), plot (Plot)]
+
+32. "Can you recommend a movie with Tom Hanks"
+Named Entities: [Tom Hanks (Actor)]
+
+33. "What is the title of the latest Marvel superhero movie"
+Named Entities: [latest (Year), Marvel (Title), superhero (Genre)]
+
+34. "Do you have any information on the director of The Dark Knight"
+Named Entities: [The Dark Knight (Title), director (Director)]
+
+35. "I'm looking for a family-friendly movie from the 70s"
+Named Entities: [family-friendly (Genre), 70s (Year)]
+
+36. "Who directed the film Pulp Fiction"
+Named Entities: [Pulp Fiction (Title), directed (Director)]
+
+37. "Is there a review for the movie The Godfather"
+Named Entities: [The Godfather (Title), review (Review)]
+
+38. "Can you show me the song from the movie A Star is Born"
+Named Entities: [A Star is Born (Title), song (Song)]
+
+39. "What genre is the movie The Terminator"
+Named Entities: [The Terminator (Title), genre (Genre)]
+
+40. "I need to find a thriller film with a high viewers' rating"
+Named Entities: [thriller (Genre), high viewers' rating (Viewers' Rating)]
+
+41. "Is there a sequel to the movie Jurassic Park"
+Named Entities: [sequel (Plot), Jurassic Park (Title)]
+
+42. "What year was the film The Exorcist released"
+Named Entities: [The Exorcist (Title), released (Year)]
+
+43. "Can you tell me about the director of the movie Schindler's List"
+Named Entities: [Schindler's List (Title), director (Director)]
+
+44. "I want to watch a romantic comedy from the 90s"
+Named Entities: [romantic comedy (Genre)]
+
+45. "What is the MPAA rating for The Matrix"
+Named Entities: [The Matrix (Title), MPAA Rating]
+
+46. "Where can I find the trailer for the latest Star Wars movie"
+Named Entities: [latest (Year), Star Wars (Title), trailer (Trailer)]
+
+47. "How would you describe the plot of the film Rocky"
+Named Entities: [Rocky (Title), plot (Plot)]
+
+48. "Who is the actor playing Iron Man in the Marvel movies"
+Named Entities: [Iron Man (Character), Marvel (Title)]
+
+49. "I'm searching for a classic movie from the 50s"
+Named Entities: [classic (Genre), 50s (Year)]
+
+50. "Can you recommend a documentary with a high viewers' rating"
+Named Entities: [documentary (Genre), high viewers' rating (Viewers' Rating)]

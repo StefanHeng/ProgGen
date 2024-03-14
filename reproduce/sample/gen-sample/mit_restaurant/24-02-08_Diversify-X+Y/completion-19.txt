@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a five-star rating for late-night dining?"
+   Named Entities: [five-star rating (Rating), late-night dining (Amenity)]
+
+2. "I'm looking for a five-star late-night dining option, what can you suggest?"
+   Named Entities: [five-star (Rating), late-night dining (Amenity)]
+
+3. "Where can I find a restaurant open for late-night dining that has a five-star rating?"
+   Named Entities: [late-night dining (Amenity), five-star rating (Rating)]

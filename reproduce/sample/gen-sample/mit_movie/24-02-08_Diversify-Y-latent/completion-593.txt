@@ -1,0 +1,8 @@
+Query: "Can you recommend a biographical film about a famous inventor?"
+Named Entities: [biographical (Genre)]
+
+Query: "Show me a movie that features the song 'I've Had the Time of My Life'"
+Named Entities: [I've Had the Time of My Life (Song)]
+
+Query: "Do you have any making-of featurette for a space opera movie that received a rating of 8 out of 10?"
+Named Entities: [making-of featurette (Trailer), space opera (Genre), 8 out of 10 (Viewers' Rating)]

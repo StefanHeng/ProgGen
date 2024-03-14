@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a dairy-free breakfast spot with high ratings, preferably in a central location"
+Named Entities: [dairy-free (Amenity), breakfast (Cuisine), high ratings (Rating), central location (Location)]
+
+2. Query: "What are the hours of the dairy-free breakfast place with gluten-free options and outdoor seating?"
+Named Entities: [dairy-free (Amenity), breakfast (Cuisine), gluten-free (Amenity), outdoor seating (Amenity), hours (Hours)]
+
+3. Query: "Can you recommend a budget-friendly restaurant serving dairy-free breakfast before 10 AM?"
+Named Entities: [budget-friendly (Price), dairy-free (Amenity), breakfast (Cuisine), before 10 AM (Hours)]

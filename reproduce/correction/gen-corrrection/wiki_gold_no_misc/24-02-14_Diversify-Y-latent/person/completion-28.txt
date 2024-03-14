@@ -1,0 +1,11 @@
+1. Sentence: "{{Myra Hindley}}'s involvement in the Moors murders shocked the world and led to intense scrutiny of her past."
+Text Span: "Myra Hindley"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: '{{Jeff Corwin}}, the American animal and nature conservationist, has hosted several television shows, including "The Jeff Corwin Experience" and "Ocean Mysteries".'
+Text Span: "Jeff Corwin"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Bonnie Parker}} and Clyde Barrow were killed on May 23, 1934, by a posse of four Texas officers and two Louisiana officers."
+Text Span: "Bonnie Parker"
+Label: (A). The span is a named entity of type person

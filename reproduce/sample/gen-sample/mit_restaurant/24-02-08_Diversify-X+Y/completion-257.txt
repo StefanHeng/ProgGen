@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good wine selection for dinner tonight?"
+Named Entities: [good (Rating), dinner (Amenity), tonight (Hours)]
+
+Query: "I'm looking for a seafood restaurant with outdoor seating that's open late."
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), open late (Hours)]
+
+Query: "Where can I find a Mexican restaurant with affordable prices for dinner?"
+Named Entities: [Mexican (Cuisine), affordable prices (Price), dinner (Amenity)]

@@ -1,0 +1,11 @@
+1. Query: "what type of cuisine does {{Spice Island Grill}} serve"
+Text Span: "Spice Island Grill"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Are there any good burrito places near {{Chipotle Mexican Grill}} ?"
+Text Span: "Chipotle Mexican Grill"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What are the hours for {{Panda Express}}?"
+Text Span: "Panda Express"
+Label: (A). The span is a named entity of type restaurant name

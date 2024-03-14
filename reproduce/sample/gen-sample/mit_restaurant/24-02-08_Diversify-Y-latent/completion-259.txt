@@ -1,0 +1,8 @@
+Query: "Where can I find the best risotto in town?"
+Named Entities: [best (Rating), risotto (Dish)]
+
+Query: "Do you know any restaurants with happy hour specials tonight?"
+Named Entities: [happy hour specials (Amenity), tonight (Hours)]
+
+Query: "I'm craving Vietnamese food, any suggestions?"
+Named Entities: [Vietnamese (Cuisine)]

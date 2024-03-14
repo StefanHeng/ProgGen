@@ -1,0 +1,8 @@
+1. "I need to find the most epic movie trailer of all time. Have you got any pre-release footage of The Karate Kid?"
+   Named Entities: [trailer (Trailer), The Karate Kid (Title), pre-release footage (Plot)]
+
+2. "I'm searching for a mind-blowing teaser that will guarantee world domination at the box office. Show me a sneak peek of The Karate Kid."
+   Named Entities: [teaser (Trailer), world domination (Plot), The Karate Kid (Title)]
+
+3. "I'm looking to be completely blown away by an incredible movie trailer. Do you have any pre-release footage of The Karate Kid that will leave me speechless?"
+   Named Entities: [trailer (Trailer), pre-release footage (Plot), The Karate Kid (Title)]

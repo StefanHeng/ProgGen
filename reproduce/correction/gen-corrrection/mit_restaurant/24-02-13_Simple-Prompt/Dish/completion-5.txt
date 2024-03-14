@@ -1,0 +1,8 @@
+1. Text Span: "large pepperoni pizza"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "burger"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Text Span: "pastry"
+Label: (A). The span is a named entity of type dish

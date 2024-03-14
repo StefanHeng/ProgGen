@@ -1,0 +1,8 @@
+1. Text Span: "top"
+   Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "top war movies".
+
+2. Text Span: "Best Picture Oscar"
+   Label: (C). The span is a named entity but the category is not review. The correct entity type is Award.
+
+3. Text Span: "review"
+   Label: (D). Not a Named Entity

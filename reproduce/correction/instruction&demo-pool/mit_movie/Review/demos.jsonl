@@ -1,0 +1,3 @@
+{"sentence": "Which movie has the best special effects of all time", "entity_span": "best special effects", "label": "CORRECT"}
+{"sentence": "Can you recommend a good movie from the 1980s", "entity_span": "good", "label": "WRONG_TYPE", "correct_type": "Viewers' Rating"}
+{"sentence": "What's your favorite movie review website?", "entity_span": "review", "label": "NA"}

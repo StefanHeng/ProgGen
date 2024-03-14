@@ -1,0 +1,8 @@
+1. Query: "Has the movie La La Land won any awards?"
+   Named Entities: [La La Land (Title), awards (Awards and nominations)]
+
+2. Query: "Can you tell me about the movie Titanic's nominations?"
+   Named Entities: [Titanic (Title), nominations (Awards and nominations)]
+
+3. Query: "What awards has the director Christopher Nolan received for his movies?"
+   Named Entities: [Christopher Nolan (Director), awards (Awards and nominations)]

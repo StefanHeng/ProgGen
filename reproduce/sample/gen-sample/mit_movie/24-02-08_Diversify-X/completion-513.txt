@@ -1,0 +1,8 @@
+1. "I'm curious about the director behind the camera for the movie Inception. Can you tell me some interesting details about the making of that film?"
+Named Entities: [Inception (Title), director (Director), making of (Plot)]
+
+2. "I wonder if there are any famous actors who have starred in classic musical films. Can you give me some insights about the production of those movies?"
+Named Entities: [classic musical films (Genre), production (Plot)]
+
+3. "I'm interested in learning about the history behind the making of the sci-fi movie Blade Runner. Can you provide me with some details about the creative process involved in its production?"
+Named Entities: [Blade Runner (Title), sci-fi (Genre), production (Plot), creative process (Plot)]

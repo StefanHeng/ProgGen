@@ -1,0 +1,8 @@
+1. "What is the plot of The Wizard of Oz and who directed it?"
+Named Entities: [The Wizard of Oz (Title), directed (Director)]
+
+2. "Can you recommend a movie with Bradley Cooper and an environmental disaster plot?"
+Named Entities: [Bradley Cooper (Actor), environmental disaster (Plot)]
+
+3. "I'm interested in watching a movie directed by Lulu Wang that does not contain any propaganda. Can you suggest one?"
+Named Entities: [Lulu Wang (Director), propaganda (Plot)]

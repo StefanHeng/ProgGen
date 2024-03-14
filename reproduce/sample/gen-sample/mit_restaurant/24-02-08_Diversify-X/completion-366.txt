@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with high ratings in the downtown area?"
+Named Entities: [buffet (Amenity), high ratings (Rating), downtown area (Location)]
+
+2. "I'm looking for a buffet restaurant serving Italian cuisine within walking distance."
+Named Entities: [buffet (Amenity), Italian cuisine (Cuisine), walking distance (Location)]
+
+3. "What are the operating hours of the nearest buffet restaurant that offers all-you-can-eat seafood?"
+Named Entities: [buffet (Amenity), all-you-can-eat seafood (Dish), nearest (Location), operating hours (Hours)]

@@ -1,0 +1,11 @@
+1. Sentence: "The Hermitage Museum in {{St. Petersburg}}, Russia, is undergoing extensive renovations to preserve its priceless art collection."
+Text Span: "St. Petersburg"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Barcelona}} - NEW MAYOR ELECTED AFTER CLOSE ELECTION."
+Text Span: "Barcelona"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Visitors admire Botticelli's 'The Birth of Venus' at the {{Uffizi Gallery}} in Florence."
+Text Span: "Uffizi Gallery"
+Label: (C). The span is a named entity but the category is not location. Entity type: organization

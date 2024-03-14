@@ -1,0 +1,8 @@
+1. "Are there any showtimes for a movie with amazing music and high ratings?"
+   Named Entities: [amazing (Review), music (Genre), high ratings (Viewers' Rating)]
+
+2. "Can I find tickets for a movie featuring Emma Watson and directed by Destin Daniel Cretton?"
+   Named Entities: [Emma Watson (Actor), Destin Daniel Cretton (Director)]
+
+3. "What movie is currently playing that appeals to a wide audience regardless of gender?"
+   Named Entities: [wide audience (Viewers' Rating), gender-neutral (User demographic)]

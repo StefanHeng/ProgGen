@@ -1,0 +1,29 @@
+1. New study shows that eating fruits and vegetables can lower the risk of heart disease.
+Named Entities: []
+
+2. President Biden announces new infrastructure plan to improve roads and bridges.
+Named Entities: [Biden (person)]
+
+3. Tesla CEO Elon Musk predicts that self-driving cars will be on the road by next year.
+Named Entities: [Tesla (organization), Elon Musk (person)]
+
+4. Japan to host 2021 Summer Olympics despite concerns over COVID-19.
+Named Entities: [Japan (location)]
+
+5. Apple unveils new iPhone with advanced features and expanded battery life.
+Named Entities: [Apple (organization)]
+
+6. Rising star actress Emma Watson takes a break from acting to focus on activism.
+Named Entities: [Emma Watson (person)]
+
+7. Wildfires continue to ravage California, forcing thousands to evacuate their homes.
+Named Entities: [California (location)]
+
+8. Amazon founder Jeff Bezos announces plans for space tourism company.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+9. Study finds that regular exercise can improve mental health and cognitive function.
+Named Entities: []
+
+10. European Union leaders meet to discuss climate change and environmental policies.
+Named Entities: [European Union (organization)]

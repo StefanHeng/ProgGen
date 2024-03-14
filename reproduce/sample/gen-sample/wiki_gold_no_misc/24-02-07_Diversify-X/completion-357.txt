@@ -1,0 +1,8 @@
+1. The suspect was apprehended at the scene of the crime.
+Named Entities: [suspect (person)]
+
+2. The Federal Bureau of Investigation is responsible for investigating federal crimes in the United States.
+Named Entities: [Federal Bureau of Investigation (organization), United States (location)]
+
+3. The notorious criminal organization, the Mafia, has been involved in various illegal activities such as extortion and drug trafficking.
+Named Entities: [Mafia (organization)]

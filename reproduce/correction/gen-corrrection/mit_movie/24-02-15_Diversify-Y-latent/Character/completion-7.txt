@@ -1,0 +1,8 @@
+1. Text Span: "Poison Ivy"
+   Label: (A). The span is a named entity of type character
+
+2. Text Span: "undercover cop"
+   Label: (C). The span is a named entity but the category is not character. The correct entity type is other.
+
+3. Text Span: "main character"
+   Label: (D). The span is not a named entity

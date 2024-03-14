@@ -1,0 +1,8 @@
+1. "Can you recommend any wallet-friendly seafood restaurants in the area?"
+Named Entities: [wallet-friendly (Price), seafood (Cuisine)]
+
+2. "I'm looking for a restaurant with stellar reviews and free Wi-Fi. Any suggestions?"
+Named Entities: [stellar (Rating), free Wi-Fi (Amenity)]
+
+3. "Is there a place nearby that offers free Wi-Fi and serves seafood dishes?"
+Named Entities: [free Wi-Fi (Amenity), seafood (Cuisine)]

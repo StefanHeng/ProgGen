@@ -1,0 +1,5 @@
+Query: "Can you recommend a restaurant with superb seafood?"
+Named Entities: [superb (Rating), seafood (Cuisine)]
+
+Query: "I'm looking for a place with a playground for the kids, any suggestions?"
+Named Entities: [playground (Amenity)]

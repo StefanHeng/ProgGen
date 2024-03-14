@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants around here that have a comedy night?"
+   Named Entities: [Comedy night (Amenity)]
+
+2. "I'm looking for a well-recommended seafood restaurant in this area."
+   Named Entities: [Well-recommended (Rating), seafood (Cuisine), area (Location)]
+
+3. "Can you suggest a place with good food for a reasonable price?"
+   Named Entities: [good (Rating), reasonable price (Price)]

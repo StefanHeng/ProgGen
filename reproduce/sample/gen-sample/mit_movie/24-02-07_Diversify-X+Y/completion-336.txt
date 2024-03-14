@@ -1,0 +1,8 @@
+1. Spoken Query: "Who directed the movie Into the Woods and what is the MPAA rating?"
+   Named Entities: [Into the Woods (Title)]
+
+2. Spoken Query: "Can you recommend a monster movie released between 2002 and 2005 with a PG-13 rating?"
+   Named Entities: [monster (Genre), 2002-2005 (Year), PG-13 (MPAA Rating)]
+
+3. Spoken Query: "I'm looking for information on the actors in the film School of Rock. Who starred in it?"
+   Named Entities: [School of Rock (Title), actors (Cast)]

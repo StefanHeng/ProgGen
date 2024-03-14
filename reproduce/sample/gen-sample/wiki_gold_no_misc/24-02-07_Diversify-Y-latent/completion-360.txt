@@ -1,0 +1,8 @@
+1. "The Andromeda Galaxy is the nearest spiral galaxy to the Earth."
+   Named Entities: [Andromeda Galaxy (location)]
+
+2. "The company completed the acquisition of a small startup specializing in artificial intelligence."
+   Named Entities: []
+
+3. "She became the first person to successfully climb Mount Everest without the use of supplemental oxygen."
+   Named Entities: [Mount Everest (location), Andromeda Galaxy (location)]

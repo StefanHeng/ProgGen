@@ -1,0 +1,8 @@
+1. "I'm looking for a dog-friendly patio restaurant in New York City"
+Named Entities: [dog-friendly patio (Amenity), New York City (Location)]
+
+2. "Where can I find some outdoor seating in New York City"
+Named Entities: [outdoor seating (Amenity), New York City (Location)]
+
+3. "Do you know of any restaurants in New York City with a New American cuisine menu"
+Named Entities: [New York City (Location), New American (Cuisine)]

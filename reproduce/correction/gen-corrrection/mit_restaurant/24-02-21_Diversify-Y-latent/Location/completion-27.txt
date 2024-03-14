@@ -1,0 +1,11 @@
+1. Query: "Hey, I'm looking for a vegan restaurant in the {{Urban}} area, can you recommend one?"
+Text Span: "Urban"
+Label: (A). The span is a named entity of type location
+
+2. Query: "Can you recommend a Peruvian restaurant with inexpensive prices in this {{area}}?"
+Text Span: "area"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "in this area".
+
+3. Query: "I'm craving some gluten-free options, can you recommend a restaurant {{at the crossroads}}?"
+Text Span: "at the crossroads"
+Label: (A). The span is a named entity of type location

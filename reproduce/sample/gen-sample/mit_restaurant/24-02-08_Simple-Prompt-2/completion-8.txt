@@ -1,0 +1,149 @@
+1. What is the best Thai restaurant in the area?
+   Named Entities: [Thai (Cuisine)]
+
+2. Show me a list of restaurants with outdoor seating.
+   Named Entities: [outdoor seating (Amenity)]
+
+3. I'm craving some sushi, where can I get some?
+   Named Entities: [sushi (Cuisine)]
+
+4. Can you recommend a place to grab some late-night tacos?
+   Named Entities: [late-night (Hours), tacos (Dish)]
+
+5. Find a restaurant with a 5-star rating.
+   Named Entities: [5-star (Rating)]
+
+6. I need to find a gluten-free restaurant.
+   Named Entities: [gluten-free (Amenity)]
+
+7. What are the prices like at Chez Panisse?
+   Named Entities: [Chez Panisse (Restaurant Name)]
+
+8. Where can I find a good brunch spot?
+   Named Entities: [brunch (Amenity)]
+
+9. I want to dine at a Michelin-starred restaurant.
+   Named Entities: [Michelin-starred (Rating)]
+
+10. Is there a Korean BBQ restaurant nearby?
+    Named Entities: [Korean BBQ (Cuisine)]
+
+11. What's the best Italian restaurant in town?
+    Named Entities: [Italian (Cuisine)]
+
+12. I'm in the mood for some pho, where's the closest place to get some?
+    Named Entities: [pho (Dish), closest (Location)]
+
+13. Show me restaurants with a view of the water.
+    Named Entities: [view of the water (Amenity)]
+
+14. Where can I get a good bowl of ramen?
+    Named Entities: [ramen (Dish)]
+
+15. Any restaurants around here open past midnight?
+    Named Entities: [past midnight (Hours)]
+
+16. Find me a restaurant that serves authentic Mexican cuisine.
+    Named Entities: [authentic Mexican (Cuisine)]
+
+17. Call the Burger King on Main Street.
+    Named Entities: [Burger King (Restaurant Name), Main Street (Location)]
+
+18. Are there any vegetarian restaurants in the area?
+    Named Entities: [vegetarian (Amenity)]
+
+19. What are the hours for In-N-Out Burger?
+    Named Entities: [In-N-Out Burger (Restaurant Name), hours (Hours)]
+
+20. Can you recommend a good spot for happy hour drinks?
+    Named Entities: [good (Rating), happy hour (Amenity)]
+
+21. Help me find a restaurant with a kids' menu.
+    Named Entities: [kids' menu (Amenity)]
+
+22. Is there a pizza place nearby with delivery?
+    Named Entities: [pizza (Cuisine), delivery (Amenity)]
+
+23. Where's the closest Starbucks?
+    Named Entities: [Starbucks (Restaurant Name), closest (Location)]
+
+24. I need to find a restaurant in the $$$$ price range.
+    Named Entities: [$$$$ (Price)]
+
+25. Show me a list of restaurants that offer outdoor dining.
+    Named Entities: [outdoor dining (Amenity)]
+
+26. What type of cuisine does Red Lobster offer?
+    Named Entities: [Red Lobster (Restaurant Name), cuisine (Cuisine)]
+
+27. I'm looking for a restaurant with live music.
+    Named Entities: [live music (Amenity)]
+
+28. Recommend a place to get a good burger.
+    Named Entities: [burger (Dish)]
+
+29. What are the ratings for the best Chinese restaurants in the area?
+    Named Entities: [Chinese (Cuisine), ratings (Rating)]
+
+30. Is there a brewery around here with a food menu?
+    Named Entities: [brewery (Amenity), food menu (Amenity)]
+
+31. Show me restaurants with a 4-star rating or higher.
+    Named Entities: [4-star (Rating)]
+
+32. Where can I get a nice dinner in the downtown area?
+    Named Entities: [nice dinner (Amenity), downtown area (Location)]
+
+33. Can you find a restaurant with valet parking?
+    Named Entities: [valet parking (Amenity)]
+
+34. What's the best place for a brunch buffet?
+    Named Entities: [best (Rating), brunch buffet (Amenity)]
+
+35. Are there any all-you-can-eat sushi restaurants nearby?
+    Named Entities: [all-you-can-eat (Amenity), sushi (Cuisine)]
+
+36. Call Olive Garden for a reservation.
+    Named Entities: [Olive Garden (Restaurant Name)]
+
+37. I need a recommendation for a seafood restaurant.
+    Named Entities: [seafood (Cuisine)]
+
+38. Find me a restaurant with a good wine selection.
+    Named Entities: [wine selection (Amenity)]
+
+39. Show me restaurants with a view of the city skyline.
+    Named Entities: [view of the city skyline (Amenity)]
+
+40. Where's the nearest Chipotle?
+    Named Entities: [Chipotle (Restaurant Name), nearest (Location)]
+
+41. I'm looking for a restaurant with a private dining room.
+    Named Entities: [private dining room (Amenity)]
+
+42. Can you recommend a good place for dim sum?
+    Named Entities: [dim sum (Cuisine)]
+
+43. What are the prices like at Ruth's Chris Steak House?
+    Named Entities: [Ruth's Chris Steak House (Restaurant Name), prices (Price)]
+
+44. I need to find a restaurant open for breakfast at 6 am.
+    Named Entities: [breakfast (Amenity), 6 am (Hours)]
+
+45. Show me a list of restaurants with a vegan menu.
+    Named Entities: [vegan menu (Amenity)]
+
+46. What type of cuisine does The Cheesecake Factory offer?
+    Named Entities: [The Cheesecake Factory (Restaurant Name), cuisine (Cuisine)]
+
+47. I'm craving some Indian food. Where's the best place to get it?
+    Named Entities: [Indian (Cuisine), best (Rating)]
+
+48. Find me a restaurant with a good selection of craft beers.
+    Named Entities: [craft beers (Amenity)]
+
+49. What are the hours for The Cheesecake Factory?
+    Named Entities: [The Cheesecake Factory (Restaurant Name), hours (Hours)]
+
+50. Can you recommend a good spot for happy hour drinks with a patio?
+    Named Entities: [good (Rating), happy hour (Amenity), patio (Amenity)

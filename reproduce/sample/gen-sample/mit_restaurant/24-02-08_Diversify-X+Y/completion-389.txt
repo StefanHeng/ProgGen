@@ -1,0 +1,8 @@
+1. "Can you recommend an outstanding fast food restaurant with low-carb options in the downtown area?"
+Named Entities: [Outstanding fast food restaurant (Amenity), low-carb (Dietary Restriction), downtown area (Location)]
+
+2. "What outstanding fast food restaurant in the city serves low-carb meals and has a high rating?"
+Named Entities: [Outstanding fast food restaurant (Amenity), low-carb (Dietary Restriction), city (Location), high rating (Rating)]
+
+3. "I'm looking for an outstanding fast food restaurant that offers low-carb dishes, where can I find one?"
+Named Entities: [Outstanding fast food restaurant (Amenity), low-carb (Dietary Restriction)]

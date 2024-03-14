@@ -1,0 +1,10 @@
+
+
+Query: "Can you recommend any Italian restaurants with outdoor seating in the downtown area?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), downtown area (Location)]
+
+Query: "What are the hours of operation for Sushi Palace on Main Street?"
+Named Entities: [Sushi Palace (Restaurant Name), Main Street (Location), hours of operation (Hours)]
+
+Query: "I'm looking for a vegan-friendly restaurant with a high rating and reasonable prices."
+Named Entities: [vegan-friendly (Amenity), high rating (Rating), reasonable prices (Price)]

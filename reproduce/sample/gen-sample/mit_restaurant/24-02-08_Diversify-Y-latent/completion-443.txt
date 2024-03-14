@@ -1,0 +1,8 @@
+1. "What are the operating hours for Olive Garden?"
+Named Entities: [Olive Garden (Restaurant Name), operating hours (Hours)]
+
+2. "I'm in the mood for Mexican food, can you recommend a place with outdoor seating?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]
+
+3. "I'm looking for a highly-rated sushi restaurant with a private dining area, do you know any?"
+Named Entities: [highly-rated (Rating), sushi (Cuisine), private dining area (Amenity)]

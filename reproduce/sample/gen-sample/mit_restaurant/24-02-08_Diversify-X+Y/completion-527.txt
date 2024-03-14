@@ -1,0 +1,8 @@
+1. Query: "I'm craving some Korean fast food, any good recommendations in the area?"
+   Named Entities: [Korean (Cuisine)]
+
+2. Query: "Which fast food restaurant around here serves the best Korean dishes?"
+   Named Entities: [Korean (Cuisine)]
+
+3. Query: "I need to pick up some Korean fast food for dinner, where's the nearest place?"
+   Named Entities: [Korean (Cuisine), nearest (Location)]

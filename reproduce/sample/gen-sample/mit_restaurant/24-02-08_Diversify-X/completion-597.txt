@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant that serves Italian cuisine in downtown Seattle"
+Named Entities: [buffet (Amenity), Italian cuisine (Cuisine), downtown Seattle (Location)]
+
+Query: "Which buffet restaurants have a rating of 4 stars or above in San Francisco?"
+Named Entities: [buffet (Amenity), 4 stars (Rating), San Francisco (Location)]
+
+Query: "What are the opening hours of the buffet restaurants near the airport?"
+Named Entities: [buffet (Amenity), near the airport (Location), opening hours (Hours)]

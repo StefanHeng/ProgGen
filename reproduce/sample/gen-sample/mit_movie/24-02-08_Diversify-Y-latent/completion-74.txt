@@ -1,0 +1,8 @@
+1. "What genre does the movie Radiant belong to?"
+Named Entities: [Radiant (Title)]
+
+2. "Can you recommend a good biography film?"
+Named Entities: [biography (Genre)]
+
+3. "Is the plot of GoodFellas too complicated?"
+Named Entities: [GoodFellas (Title), Complicated (Plot)]

@@ -1,0 +1,8 @@
+Query: "Can you suggest a high-end restaurant with a rustic ambiance?"
+Named Entities: [high-end (Price), rustic (Amenity)]
+
+Query: "I'm looking for a fine dining place with a rustic atmosphere that offers value for money. Any recommendations?"
+Named Entities: [fine dining (Amenity), rustic (Amenity), value for money (Price)]
+
+Query: "Where can I find a high-end restaurant with a rustic vibe that is also known for its value for money?"
+Named Entities: [high-end (Price), rustic (Amenity), value for money (Price)]

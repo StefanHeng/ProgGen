@@ -1,0 +1,8 @@
+1. Text Span: "Italian"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Boston"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Champagne region"
+Label: (A). The span is a named entity of type location

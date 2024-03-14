@@ -1,0 +1,8 @@
+1. "Could you show me the trailer for the new Han Solo movie?"
+   Named Entities: [the new Han Solo movie (Title), trailer (Trailer)]
+
+2. "What movie has the song A Whole New World in it?"
+   Named Entities: [A Whole New World (Song)]
+
+3. "Is there a historical film with Cary Grant that is considered a must-see?"
+   Named Entities: [Cary Grant (Actor), historical (Genre), must-see (Viewers' Rating)]

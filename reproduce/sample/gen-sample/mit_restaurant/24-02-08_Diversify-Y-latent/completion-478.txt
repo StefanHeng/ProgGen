@@ -1,0 +1,8 @@
+1. "What are the hours for Olive Garden?"
+Named Entities: [Olive Garden (Restaurant Name), hours (Hours)]
+
+2. "I'm looking for a restaurant that serves sushi."
+Named Entities: [sushi (Cuisine)]
+
+3. "Can you recommend a restaurant with outdoor seating and a view of the ocean?"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

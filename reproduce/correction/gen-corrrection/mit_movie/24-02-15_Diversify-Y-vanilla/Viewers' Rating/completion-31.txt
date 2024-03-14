@@ -1,0 +1,11 @@
+1. Query: "What is the best action movie of the 1990s with a {{killer soundtrack}}?"
+Text Span: "killer soundtrack"
+Label: (C). The span is not a named entity. Entity Type: Song
+
+2. Query: "What are the {{top 5}} highest rated movies of all time"
+Text Span: "top 5"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Query: "I'm looking for an {{Immersive}} dystopian film released in 1978, can you help me find one?"
+Text Span: "Immersive"
+Label: (C). The span is not a named entity. Entity Type: other

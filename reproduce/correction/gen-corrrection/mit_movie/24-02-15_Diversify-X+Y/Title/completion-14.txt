@@ -1,0 +1,8 @@
+1. Text Span: "West Side Story"
+Label: (A). The span is a named entity of type title
+
+2. Text Span: "12 Years a Slave"
+Label: (A). The span is a named entity of type title
+
+3. Text Span: "City of Stars"
+Label: (C). The span is a named entity but the category is not title. Entity Type: Title

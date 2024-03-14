@@ -1,0 +1,8 @@
+1. Text Span: "Duke and Duchess of Sussex"
+Label: (C). The span is a named entity but the category is not organization. Entity type: person
+
+2. Text Span: "Wildlife Trust of India"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Sony Corporation"
+Label: (A). The span is a named entity of type organization

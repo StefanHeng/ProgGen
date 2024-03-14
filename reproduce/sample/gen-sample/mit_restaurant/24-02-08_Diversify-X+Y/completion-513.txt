@@ -1,0 +1,8 @@
+Query: "Canlis is a famous fine dining restaurant in Seattle, do they serve Indian cuisine?"
+Named Entities: [Canlis (Restaurant Name), Indian cuisine (Cuisine)]
+
+Query: "I'm looking for a high-end restaurant that offers Indian cuisine, do you know any places like that?"
+Named Entities: [high-end (Price), Indian cuisine (Cuisine)]
+
+Query: "What are some upscale restaurants in the area known for their Indian cuisine?"
+Named Entities: [upscale (Price), Indian cuisine (Cuisine)]

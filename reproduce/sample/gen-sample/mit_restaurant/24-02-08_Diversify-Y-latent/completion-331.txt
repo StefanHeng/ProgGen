@@ -1,0 +1,8 @@
+1. "What are the top-rated Italian restaurants in the downtown area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+2. "Do you know any BBQ places with outdoor seating and open past midnight?"
+Named Entities: [BBQ (Cuisine), outdoor seating (Amenity), past midnight (Hours)]
+
+3. "I'm craving a cheesesteak from [Cheesesteak Central Food Truck], where is it located right now?"
+Named Entities: [Cheesesteak Central Food Truck (Restaurant Name), located right now (Amenity)]

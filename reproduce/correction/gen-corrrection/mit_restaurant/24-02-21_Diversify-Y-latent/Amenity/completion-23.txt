@@ -1,0 +1,8 @@
+1. Text Span: "brunch"
+Label: (B). The correct span boundary is "brunch". The span is a named entity of type Amenity.
+
+2. Text Span: "happy hour"
+Label: (A). The span is a named entity of type Amenity.
+
+3. Text Span: "mimosas"
+Label: (A). The span is a named entity of type Amenity.

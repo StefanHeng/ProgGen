@@ -1,0 +1,8 @@
+1. Spoken Query: "Can I watch a trailer for the latest spy movie directed by J.J. Abrams?"
+   Named Entities: [spy (Genre), J.J. Abrams (Director), latest (Year), trailer (Trailer)]
+
+2. Spoken Query: "Show me a teaser for the original Rocky film that was rated X."
+   Named Entities: [Rocky (Title), original (Year), rated X (MPAA Rating), teaser (Trailer)]
+
+3. Spoken Query: "What are the top-rated spy movies from the 1970s with J.J. Abrams as the director?"
+   Named Entities: [spy (Genre), top-rated (Viewers' Rating), 1970s (Year), J.J. Abrams (Director)]

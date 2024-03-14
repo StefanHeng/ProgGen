@@ -1,0 +1,8 @@
+1. Text Span: "Excellent"
+   Label: (C). The span is not a named entity. Entity type: Plot
+
+2. Text Span: "available to stream"
+   Label: (C). The span is not a named entity. Entity type: other
+
+3. Text Span: "high viewers' rating"
+   Label: (A). The span is a named entity of type viewers' rating

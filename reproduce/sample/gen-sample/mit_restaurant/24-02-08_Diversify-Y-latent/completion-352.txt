@@ -1,0 +1,8 @@
+Query: "What is the best place for sushi in the area and how late are they open"
+Named Entities: [best (Rating), sushi (Cuisine), late (Hours), the area (Location)]
+
+Query: "I need a restaurant with outdoor seating in a romantic setting"
+Named Entities: [outdoor seating (Amenity), romantic (Amenity)]
+
+Query: "Can you recommend a Mexican restaurant with a good margarita happy hour special"
+Named Entities: [Mexican (Cuisine), good (Rating), margarita (Dish), happy hour (Amenity)]

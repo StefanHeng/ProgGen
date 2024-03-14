@@ -1,0 +1,8 @@
+Query: "I'm looking for a formal place to have breakfast with a nice view"
+Named Entities: [formal (Amenity), breakfast (Dish), nice view (Amenity)]
+
+Query: "could you recommend a breakfast spot with a high rating in a fancy hotel?"
+Named Entities: [breakfast (Dish), high rating (Rating), fancy hotel (Location)]
+
+Query: "where can I find a fine dining restaurant that serves breakfast in the early morning?"
+Named Entities: [fine dining (Amenity), breakfast (Dish), early morning (Hours)]

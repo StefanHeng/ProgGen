@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie 'Inception' directed by Christopher Nolan?"
+Named Entities: ['Inception' (Title), Christopher Nolan (Director), viewers' rating (Viewers' Rating)]
+
+2. "Can you provide the plot summary for the film 'The Shawshank Redemption' released in 1994?"
+Named Entities: ['The Shawshank Redemption' (Title), 1994 (Year), plot summary (Plot)]
+
+3. "I am looking for a thriller movie directed by David Fincher, could you suggest a title?"
+Named Entities: [thriller (Genre), David Fincher (Director), suggest a title (Title)]

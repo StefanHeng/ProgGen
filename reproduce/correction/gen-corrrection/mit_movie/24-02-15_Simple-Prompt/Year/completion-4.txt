@@ -1,0 +1,11 @@
+1. Query: "Show me a trailer for the {{latest}} Marvel movie"
+Text Span: "latest"
+Label: (D). Not a Named Entity.
+
+2. Query: "Is there a {{2010s}} film with a powerful female lead?"
+Text Span: "2010s"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What is your favorite action movie from the {{90s}}?"
+Text Span: "90s"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+Query: "Where is the closest food truck in Houston with a drive-thru"
+Named Entities: [closest (Location), food truck (Cuisine), drive-thru (Amenity), Houston (Location)]
+
+Query: "I'm looking for a food truck near me in Houston that has a drive-thru"
+Named Entities: [food truck (Cuisine), near me (Location), drive-thru (Amenity), Houston (Location)]
+
+Query: "Can you recommend a food truck with a drive-thru close by in Houston"
+Named Entities: [recommend (Rating), food truck (Cuisine), drive-thru (Amenity), close by (Location), Houston (Location)]

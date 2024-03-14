@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for some Caribbean food, can you recommend any restaurants with a great atmosphere and live music?"
+Named Entities: [Caribbean (Cuisine), great atmosphere (Amenity), live music (Amenity), Bahama Breeze (Restaurant Name)]
+
+2. Query: "What are the operating hours for Bahama Breeze this weekend?"
+Named Entities: [operating hours (Hours), Bahama Breeze (Restaurant Name), weekend (Amenity)]
+
+3. Query: "I'm looking for a reasonably priced seafood restaurant with outdoor seating."
+Named Entities: [reasonably priced (Price), seafood (Cuisine), outdoor seating (Amenity), Bahama Breeze (Restaurant Name)]

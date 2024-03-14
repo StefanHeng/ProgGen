@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby sports bar with a great selection of wings and beer?"
+   Named Entities: [nearby (Location), sports bar (Amenity), wings (Dish), beer (Dish)]
+
+2. "What is the rating of the best sports bar in the downtown area?"
+   Named Entities: [rating (Rating), best (Rating), sports bar (Amenity), downtown area (Location)]
+
+3. "I'm looking for a sports bar with a rooftop patio and a view of the city skyline."
+   Named Entities: [sports bar (Amenity), rooftop patio (Amenity), city skyline (Location)]

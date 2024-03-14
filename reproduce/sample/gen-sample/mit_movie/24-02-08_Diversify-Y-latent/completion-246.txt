@@ -1,0 +1,8 @@
+1. Query: "can you recommend any independent film with low viewers' ratings that Nala starred in"
+   Named Entities: [independent film (Genre), low viewers' ratings (Viewers' Rating), Nala (Character)]
+
+2. Query: "show me a trailer of the latest action movie directed by Kathryn Bigelow"
+   Named Entities: [latest (Year), action (Genre), Kathryn Bigelow (Director)]
+
+3. Query: "what is the viewers' rating for the 1995 crime movie starring Denzel Washington"
+   Named Entities: [1995 (Year), crime (Genre), Denzel Washington (Actor), viewers' rating (Viewers' Rating)]

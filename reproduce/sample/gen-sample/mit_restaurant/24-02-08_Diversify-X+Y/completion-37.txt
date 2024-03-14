@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with gourmet cuisine?"
+Named Entities: [fine dining (Amenity), The Fat Duck (Restaurant Name), Gourmet (Cuisine)]
+
+Query: "What are the hours for The Fat Duck, a fine dining establishment?"
+Named Entities: [The Fat Duck (Restaurant Name), fine dining (Amenity), hours (Hours)]
+
+Query: "I'm looking for a fine dining restaurant known for its gourmet dishes"
+Named Entities: [fine dining (Amenity), The Fat Duck (Restaurant Name), gourmet (Cuisine)]

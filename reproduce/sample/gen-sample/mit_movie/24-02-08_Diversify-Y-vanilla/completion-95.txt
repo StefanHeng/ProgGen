@@ -1,0 +1,8 @@
+1. "Is there a movie from 2003 that is rated M/PG and falls under the genre of Courtroom Drama?"
+Named Entities: [2003 (Year), M/PG (MPAA Rating), Courtroom Drama (Genre)]
+
+2. "Can you recommend a Not Rated movie directed by Christopher Nolan?"
+Named Entities: [Not Rated (MPAA Rating), Christopher Nolan (Director)]
+
+3. "Show me a film with Tom Hanks that is considered a classic romance"
+Named Entities: [Tom Hanks (Actor), classic romance (Viewers' Rating)]

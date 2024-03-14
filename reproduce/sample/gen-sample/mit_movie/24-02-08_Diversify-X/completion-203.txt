@@ -1,0 +1,8 @@
+1. "Can you play a sneak peek of the new Spider-Man movie?"
+   Named Entities: [sneak peek (Trailer), Spider-Man (Title)]
+
+2. "I'm dying to see a preview of the next James Bond film. Can you show me a bit?"
+   Named Entities: [preview (Trailer), James Bond (Character)]
+
+3. "I need to get a glimpse of the upcoming Star Wars movie. Do you have the trailer?"
+   Named Entities: [glimpse (Trailer), Star Wars (Title)]

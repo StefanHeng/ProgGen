@@ -1,0 +1,8 @@
+1. Text Span: "British"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "German"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Clark County"
+Label: (A). The span is a named entity of type location

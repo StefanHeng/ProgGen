@@ -1,0 +1,8 @@
+1. "Can you find me a movie featuring the song 'Let It Go' performed by Elsa from Frozen?"
+Named Entities: ['Let It Go' (Song), Elsa (Character)]
+
+2. "What are some gripping storyline movies related to space exploration?"
+Named Entities: [space exploration (Genre), gripping storyline (Plot)]
+
+3. "What is a phenomenal movie that showcases stellar performances by the actors?"
+Named Entities: [phenomenal (Viewers' Rating), stellar performances (Review)]

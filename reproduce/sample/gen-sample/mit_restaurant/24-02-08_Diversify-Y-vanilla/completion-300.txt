@@ -1,0 +1,8 @@
+Query: "I'm in the mood for Italian food, where can I dine for less than $20 per person?"
+Named Entities: [Italian (Cuisine), less than $20 per person (Price), [Dine for less]
+
+Query: "Is there a restaurant nearby with a high rating for their brunch menu?"
+Named Entities: [high rating (Rating), brunch (Amenity), nearby (Location)
+
+Query: "Can you recommend a place for dinner with outdoor seating and a view?"
+Named Entities: [dinner (Amenity), outdoor seating (Amenity), a view (Amenity)

@@ -1,0 +1,8 @@
+Query: "What are the operating hours for Jean-Georges Steakhouse?"
+Named Entities: [Jean-Georges Steakhouse (Restaurant Name), operating hours (Hours)]
+
+Query: "I'm craving some steak. Can you recommend a good dish at Jean-Georges Steakhouse?"
+Named Entities: [steak (Dish), Jean-Georges Steakhouse (Restaurant Name), good (Rating)]
+
+Query: "Where is the nearest Jean-Georges Steakhouse location?"
+Named Entities: [nearest (Location), Jean-Georges Steakhouse (Restaurant Name)]

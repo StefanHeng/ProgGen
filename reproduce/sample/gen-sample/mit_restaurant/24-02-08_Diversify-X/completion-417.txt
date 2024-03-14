@@ -1,0 +1,8 @@
+1. "I'm looking for a waterfront restaurant serving seafood for lunch"
+Named Entities: [waterfront (Amenity), seafood (Cuisine), lunch (Hours)]
+
+2. "Can you recommend a beachfront spot with outdoor seating and a lunch menu"
+Named Entities: [beachfront (Amenity), outdoor seating (Amenity), lunch (Hours)]
+
+3. "What are the best waterfront restaurants for lunch with a view?"
+Named Entities: [waterfront (Amenity), lunch (Hours), view (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you show me a teaser for any new animated movies?"
+Named Entities: [teaser (Trailer), animated movies (Genre), families with young children (Viewers' Rating)]
+
+2. "What movie has a catchy song that kids would love?"
+Named Entities: [catchy song (Song), kids (Viewers' Rating)]
+
+3. "Could you recommend a family-friendly movie with a strong female character as the lead?"
+Named Entities: [family-friendly (Viewers' Rating), strong female character (Character), lead (Genre)]

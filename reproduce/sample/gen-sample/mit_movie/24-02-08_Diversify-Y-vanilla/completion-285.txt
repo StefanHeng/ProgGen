@@ -1,0 +1,8 @@
+1. Query: "can you show me a clip from a suspense movie"
+   Named Entities: [clip (Trailer), suspense (Genre)]
+
+2. Query: "did John Hughes direct any films starring Zooey Deschanel"
+   Named Entities: [John Hughes (Director), Zooey Deschanel (Actor)]
+
+3. Query: "are there any preview screenings for a movie about a family curse"
+   Named Entities: [preview screening (Trailer), family curse (Plot)]

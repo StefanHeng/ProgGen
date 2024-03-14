@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the movie Inception?"
+   Named Entities: [Inception (Title), plot (Plot)]
+
+2. "I'm looking for a movie with a mysterious and twisty plot. Any suggestions?"
+   Named Entities: [mysterious (Genre), twisty (Plot)]
+
+3. "Who directed the movie The Shawshank Redemption, and what's the plot?"
+   Named Entities: [The Shawshank Redemption (Title), directed (Director), plot (Plot)]

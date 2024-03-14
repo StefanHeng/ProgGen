@@ -1,0 +1,8 @@
+1. Query: "Hey, can you show me a sneak peek of any mystery movies from the 1950s directed by Alfred Hitchcock?"
+   Named Entities: [sneak peek (Trailer), mystery (Genre), 1950s (Year), Alfred Hitchcock (Director)]
+
+2. Query: "I heard there's some new footage of a Liam Neeson movie, can you show me?"
+   Named Entities: [footage (Trailer), Liam Neeson (Actor)]
+
+3. Query: "Do you have any teasers for upcoming Tom Cruise films?"
+   Named Entities: [teasers (Trailer), Tom Cruise (Actor)]

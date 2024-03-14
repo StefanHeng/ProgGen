@@ -1,0 +1,8 @@
+1. Query: "Can you find me a movie teaser that reveals just enough, but not too much?"
+Named Entities: [movie teaser (Trailer)]
+
+2. Query: "Is there a film out there with a sneak peek that's worth watching?"
+Named Entities: [sneak peek (Trailer)]
+
+3. Query: "Could you show me a preview for a new release that leaves something to the imagination?"
+Named Entities: [preview (Trailer), new release (Year)]

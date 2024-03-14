@@ -1,0 +1,11 @@
+1. Sentence: "{{Apple}} unveils new iPhone with 5G capabilities."
+Text Span: "Apple"
+Label: (A)
+
+2. Sentence: "{{non-profit organization}} provides shelter for homeless families in the community."
+Text Span: "non-profit organization"
+Label: (A)
+
+3. Sentence: "The {{Metropolitan Museum of Art}} to host exhibition on Impressionist painters."
+Text Span: "Metropolitan Museum of Art"
+Label: (A)

@@ -1,0 +1,11 @@
+1. Query: "What is the best Italian restaurant in {{the city}}?"
+Text Span: "the city"
+Label: (C). The span is a named entity but the category is not location. Entity Type: Amenity
+
+2. Query: "Where can I find a {{place}} that serves indulgent desserts?"
+Text Span: "place"
+Label: (D). Not a Named Entity
+
+3. Query: "Are there any all-day breakfast {{places}} around here?"
+Text Span: "places"
+Label: (A). The span is a named entity of type location

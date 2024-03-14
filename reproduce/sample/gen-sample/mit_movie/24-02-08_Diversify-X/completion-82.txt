@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an iconic soundtrack that is perfect for road trips?"
+Named Entities: [iconic soundtrack (Song), road trips (Genre)]
+
+2. "Show me a movie with a thrilling action scene accompanied by an exciting musical score."
+Named Entities: [thrilling action scene (Plot), exciting musical score (Song)]
+
+3. "I'm looking for a film with an unforgettable song that perfectly captures the adventurous spirit of the characters."
+Named Entities: [unforgettable song (Song), adventurous spirit (Plot)]

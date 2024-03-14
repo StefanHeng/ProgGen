@@ -1,0 +1,8 @@
+Query: "I'm craving chicken parmesan, where can I find the best in town?"
+Named Entities: [chicken parmesan (Dish), best in town (Rating)]
+
+Query: "Do you know any restaurants near Eleven Madison Park that are open for dinner?"
+Named Entities: [Eleven Madison Park (Location), dinner (Amenity)]
+
+Query: "Can you recommend a restaurant with affordable prices and a diverse menu?"
+Named Entities: [affordable prices (Price), diverse menu (Amenity)]

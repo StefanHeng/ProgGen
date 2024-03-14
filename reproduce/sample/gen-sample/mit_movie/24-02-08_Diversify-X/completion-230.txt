@@ -1,0 +1,8 @@
+Query: "who directed the making-of documentary for the movie Titanic"
+Named Entities: [making-of documentary (Plot), Titanic (Title), directed (Director)]
+
+Query: "can you recommend a behind-the-scenes film about the Marvel Cinematic Universe"
+Named Entities: [behind-the-scenes film (Plot), Marvel Cinematic Universe (Title)]
+
+Query: "show me a documentary about the special effects in the Star Wars movies"
+Named Entities: [documentary (Plot), special effects (Plot), Star Wars (Title)]

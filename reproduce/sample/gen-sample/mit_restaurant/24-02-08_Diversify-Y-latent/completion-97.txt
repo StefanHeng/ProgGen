@@ -1,0 +1,8 @@
+1. "Can you recommend a BBQ restaurant with outstanding service?"
+Named Entities: [BBQ (Cuisine), Outstanding service (Amenity)]
+
+2. "I'm craving some BBQ, where can I find a place with top ratings?"
+Named Entities: [BBQ (Cuisine), top ratings (Rating)]
+
+3. "What are the hours of the restaurant known for its outstanding service?"
+Named Entities: [outstanding service (Amenity)]

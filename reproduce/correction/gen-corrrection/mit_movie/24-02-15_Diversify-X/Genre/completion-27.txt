@@ -1,0 +1,8 @@
+1. Text Span: "action movies"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "80s action movies"
+Label: (B). The correct span boundary is "80s action"
+
+3. Text Span: "classic western movies"
+Label: (A). The span is a named entity of type genre

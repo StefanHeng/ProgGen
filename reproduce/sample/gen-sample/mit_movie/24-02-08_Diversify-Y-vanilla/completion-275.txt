@@ -1,0 +1,8 @@
+1. "Can you recommend any movies directed by Christopher Nolan that are rated R?"
+Named Entities: [Christopher Nolan (Director), R (MPAA Rating)]
+
+2. "I'm looking for a film from the 1970s with an awe-inspiring plot. Any suggestions?"
+Named Entities: [1970s (Year), awe-inspiring (Viewers' Rating)]
+
+3. "Are there any movies with the song 'Lucy in the Sky with Diamonds' in the soundtrack?"
+Named Entities: ['Lucy in the Sky with Diamonds' (Song)]

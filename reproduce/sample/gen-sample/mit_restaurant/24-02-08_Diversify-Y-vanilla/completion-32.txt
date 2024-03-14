@@ -1,0 +1,8 @@
+1. "I'm in the mood for some sushi, can you recommend a good Japanese restaurant nearby?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), nearby (Location), good (Rating)]
+
+2. "Do you know any Italian places with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+3. "What's a popular steakhouse with a children's menu and a 4-star rating?"
+Named Entities: [steakhouse (Cuisine), children's menu (Amenity), 4-star (Rating)]

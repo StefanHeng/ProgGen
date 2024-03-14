@@ -1,0 +1,8 @@
+1. "Can you recommend a horror movie that is also a psychological thriller?"
+Named Entities: [horror (Genre), psychological thriller (Subgenre)]
+
+2. "What is the name of the action-adventure film directed by Steven Spielberg in the 1980s?"
+Named Entities: [action-adventure (Genre), Steven Spielberg (Director), 1980s (Year)]
+
+3. "Show me a musical movie with a romantic comedy subplot."
+Named Entities: [musical (Genre), romantic comedy (Subgenre)]

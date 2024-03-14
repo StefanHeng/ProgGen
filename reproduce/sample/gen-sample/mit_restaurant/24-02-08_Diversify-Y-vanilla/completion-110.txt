@@ -1,0 +1,8 @@
+1. "Can you recommend a good Italian restaurant around [Toronto] with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), [Toronto] (Location)]
+
+2. "What are the opening hours for the cheapest sushi place near [Toronto]?"
+Named Entities: [opening hours (Hours), cheapest (Price), sushi (Cuisine), [Toronto] (Location)]
+
+3. "I'm looking for a highly-rated steakhouse in [Toronto] that's open late."
+Named Entities: [highly-rated (Rating), steakhouse (Cuisine), open late (Hours), [Toronto] (Location)]

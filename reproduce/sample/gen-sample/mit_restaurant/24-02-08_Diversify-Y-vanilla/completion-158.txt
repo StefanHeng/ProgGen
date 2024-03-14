@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant near the Waterfront that serves Uruguayan cuisine"
+   Named Entities: [Waterfront (Location), Uruguayan (Cuisine)]
+
+2. "What are the opening hours for Narisawa?"
+   Named Entities: [Narisawa (Restaurant Name)]
+
+3. "Can you recommend a highly-rated restaurant with affordable prices?"
+   Named Entities: [highly-rated (Rating), affordable prices (Price)]

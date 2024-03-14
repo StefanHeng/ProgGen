@@ -1,0 +1,8 @@
+1. Text Span: "burger joint"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "vegetarian"
+Label: (A). The span is a named entity of type dish
+
+3. Text Span: "salads"
+Label: (A). The span is a named entity of type dish

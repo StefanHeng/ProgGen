@@ -1,0 +1,8 @@
+Query: "I'm craving some coffee and pastries, where can I find a cozy café with outdoor seating?"
+Named Entities: [coffee (Cuisine), pastries (Dish), cozy (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm meeting a friend for lunch, can you recommend a café near the hospital with a healthy menu?"
+Named Entities: [lunch (Amenity), café (Restaurant Name), hospital (Location), healthy menu (Amenity)]
+
+Query: "I need a place to grab a quick bite and coffee before my shift at the clinic, what's open at 7am?"
+Named Entities: [quick bite (Amenity), coffee (Cuisine), shift at the clinic (Hours), 7am (Hours)]

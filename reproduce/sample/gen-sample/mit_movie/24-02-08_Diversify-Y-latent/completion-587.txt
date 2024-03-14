@@ -1,0 +1,8 @@
+1. "What is the genre of the new Kathryn Hahn biography film?"
+Named Entities: [Kathryn Hahn (Actor), biography (Genre)]
+
+2. "Show me an edge-of-your-seat film that is rated TV-PG"
+Named Entities: [edge-of-your-seat (Plot), TV-PG (MPAA Rating)]
+
+3. "Who directed the movie that has the song 'I Will Always Love You' in it?"
+Named Entities: [I Will Always Love You (Song), Director (Director)]

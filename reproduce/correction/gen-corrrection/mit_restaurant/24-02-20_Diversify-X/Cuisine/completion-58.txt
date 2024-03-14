@@ -1,0 +1,8 @@
+1. Text Span: "vegan options"
+Label: (B). Wrong Boundary. The correct span boundary is "vegan".
+
+2. Text Span: "street food"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "vegetarian options"
+Label: (A). Correct Entity Annotation.

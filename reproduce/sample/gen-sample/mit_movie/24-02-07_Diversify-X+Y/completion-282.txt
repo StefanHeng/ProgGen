@@ -1,0 +1,9 @@
+
+1. Query: "Are there any exceptional behind-the-scenes documentaries about the making of Jim Carrey's movies?"
+Named Entities: [exceptional (Viewers' Rating), behind-the-scenes (Plot), Jim Carrey (Actor)]
+
+2. Query: "I'm skeptical that there are set secrets from any Robert De Niro films. Can you prove me wrong?"
+Named Entities: [skeptical (Review), set secrets (Plot), Robert De Niro (Actor)]
+
+3. Query: "Have there been any NR rated movies featuring Brad Pitt that received only 3 stars from viewers?"
+Named Entities: [NR (MPAA Rating), 3 stars (Viewers' Rating), Brad Pitt (Actor)]

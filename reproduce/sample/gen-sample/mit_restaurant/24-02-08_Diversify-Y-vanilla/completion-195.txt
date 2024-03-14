@@ -1,0 +1,8 @@
+1. "Where can I find a Mastro's nearby?"
+Named Entities: [Mastro's (Restaurant Name)]
+
+2. "I'm craving seafood, can you recommend a good place to eat at Landry's Seafood House?"
+Named Entities: [seafood (Cuisine), Landry's Seafood House (Restaurant Name)]
+
+3. "Do you know of any Bolivian restaurants with outdoor seating?"
+Named Entities: [Bolivian (Cuisine), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+1. "Where can I find a place with a diverse late-night menu in the downtown area?"
+Named Entities: [diverse (Cuisine), late-night (Amenity), downtown area (Location)]
+
+2. "What are the top-rated 24-hour restaurants serving seafood in the city?"
+Named Entities: [top-rated (Rating), 24-hour (Hours), seafood (Cuisine), city (Location)]
+
+3. "Do you know any affordable late-night dining options with outdoor seating available?"
+Named Entities: [affordable (Price), late-night (Amenity), outdoor seating (Amenity)]

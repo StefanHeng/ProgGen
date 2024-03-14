@@ -1,0 +1,8 @@
+1. Query: "can you recommend an unforgettable cinematic experience from a movie released in 2004"
+   Named Entities: [unforgettable cinematic experience (Viewers' Rating), 2004 (Year)]
+
+2. Query: "what is the viewers' rating for the movie Catwoman"
+   Named Entities: [Catwoman (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "who directed the film that received 4.2 stars and is known for its action-packed plot"
+   Named Entities: [4.2 stars (Viewers' Rating), action-packed plot (Plot)]

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Tex-Mex, where can I find a good restaurant with that cuisine?"
+Named Entities: [Tex-Mex (Cuisine)]
+
+Query: "What's the best-rated seafood restaurant in this area?"
+Named Entities: [seafood (Cuisine), best-rated (Rating), this area (Location)]
+
+Query: "I need a restaurant that is open late and offers outdoor seating"
+Named Entities: [open late (Hours), outdoor seating (Amenity)]

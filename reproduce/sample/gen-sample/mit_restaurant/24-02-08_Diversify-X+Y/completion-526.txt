@@ -1,0 +1,8 @@
+Query: "can you recommend a waterfront four-star restaurant with American cuisine for dinner"
+Named Entities: [waterfront (Amenity), Four-star restaurant (Rating), American (Cuisine), dinner (Hours)]
+
+Query: "I'm looking for a four-star waterfront restaurant serving American dishes for dinner"
+Named Entities: [four-star (Rating), waterfront (Amenity), American (Cuisine), dinner (Hours)]
+
+Query: "find me a waterfront restaurant with a dinner menu offering American cuisine and a four-star rating"
+Named Entities: [waterfront (Amenity), dinner (Hours), American (Cuisine), four-star (Rating)]

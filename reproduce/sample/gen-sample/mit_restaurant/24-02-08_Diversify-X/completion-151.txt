@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants nearby with a good outdoor seating area for lunch?"
+Named Entities: [good (Rating), outdoor seating area (Amenity), lunch (Meal Category)]
+
+2. "I'm looking for a place with affordable Italian cuisine for lunch. Any suggestions?"
+Named Entities: [affordable (Price), Italian (Cuisine), lunch (Meal Category)]
+
+3. "What are the top-rated restaurants in the downtown area that serve vegan dishes for lunch?"
+Named Entities: [top-rated (Rating), downtown area (Location), vegan dishes (Cuisine), lunch (Meal Category)]

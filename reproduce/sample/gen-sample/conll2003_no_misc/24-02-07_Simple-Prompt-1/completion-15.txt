@@ -1,0 +1,31 @@
+
+
+1. "President Biden signs executive order to address climate change."
+Named Entities: [President Biden (person)]
+
+2. "The United Nations reports a surge in violence in the Middle East."
+Named Entities: [United Nations (organization), Middle East (location)]
+
+3. "Apple announces new iPhone release date."
+Named Entities: [Apple (organization)]
+
+4. "German Chancellor Angela Merkel meets with French President Emmanuel Macron."
+Named Entities: [Angela Merkel (person), Emmanuel Macron (person)]
+
+5. "Tokyo Olympics to proceed without international spectators."
+Named Entities: [Tokyo (location), Olympics (organization)]
+
+6. "Tesla founder Elon Musk unveils plans for Mars colonization."
+Named Entities: [Tesla (organization), Elon Musk (person), Mars (location)]
+
+7. "NATO allies meet to discuss global security concerns."
+Named Entities: [NATO (organization)]
+
+8. "Hurricane Florence batters the U.S. East Coast."
+Named Entities: [Hurricane Florence (location), U.S. East Coast (location)]
+
+9. "Amazon employees plan to unionize for better working conditions."
+Named Entities: [Amazon (organization)]
+
+10. "Barcelona FC appoints new head coach."
+Named Entities: [Barcelona FC (organization)]

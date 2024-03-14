@@ -1,0 +1,8 @@
+1. Text Span: "action"
+Label: (D). The span is not a named entity
+
+2. Text Span: "trailers"
+Label: (A). The span is a named entity of type trailer
+
+3. Text Span: "preview"
+Label: (A). The span is a named entity of type trailer

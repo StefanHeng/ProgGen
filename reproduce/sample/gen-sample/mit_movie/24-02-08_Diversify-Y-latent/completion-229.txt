@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a romantic fantasy movie starring Richard Gere?"
+Named Entities: [romantic fantasy (Genre), Richard Gere (Actor)]
+
+2. Query: "I'm in the mood for a fan favorite foreign film, what do you suggest?"
+Named Entities: [fan favorite (Viewers' Rating), foreign (Genre)]
+
+3. Query: "Which movie featuring Richard Gere was released in the year X?"
+Named Entities: [Richard Gere (Actor), X (Year)]

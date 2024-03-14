@@ -1,0 +1,8 @@
+1. "I'm looking for a brunch place with live music this weekend"
+Named Entities: [brunch (Cuisine), live music (Amenity), this weekend (Hours)]
+
+2. "Where can I find a restaurant with a brunch menu and live music nearby?"
+Named Entities: [brunch (Cuisine), live music (Amenity), nearby (Location)]
+
+3. "Do you know any restaurants with a brunch buffet and live music on Sundays?"
+Named Entities: [brunch buffet (Amenity), live music (Amenity), Sundays (Hours)]

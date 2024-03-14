@@ -1,0 +1,8 @@
+Query: "What type of cuisine does [Gaggan] serve?"
+Named Entities: [Gaggan (Restaurant Name), cuisine (Cuisine)]
+
+Query: "Are there any [Gaggan]-style restaurants in the area?"
+Named Entities: [Gaggan (Restaurant Name)]
+
+Query: "What are the operating hours for [Gaggan]?"
+Named Entities: [Gaggan (Restaurant Name), operating hours (Hours)]

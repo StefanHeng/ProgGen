@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend a movie with a really intense trailer?"
+   Named Entities: [intense (Trailer)]
+
+2. Spoken Query: "What are some popular movies with amazing teasers?"
+   Named Entities: [popular (Review), amazing (Review), teasers (Trailer)]
+
+3. Spoken Query: "Which movie has the most intriguing teaser of all time?"
+   Named Entities: [intriguing (Review), teaser (Trailer)]

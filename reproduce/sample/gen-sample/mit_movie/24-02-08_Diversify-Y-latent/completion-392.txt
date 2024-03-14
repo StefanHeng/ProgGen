@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a remarkable movie with a detailed synopsis directed by Kathryn Bigelow and featuring a song 'Kiss from a Rose'?"
+Named Entities: [remarkable (Viewers' Rating), detailed synopsis (Plot), Kathryn Bigelow (Director), Kiss from a Rose (Song)]
+
+2. Query: "I'm looking for an action-packed movie starring Brad Pitt and released in the 2000s"
+Named Entities: [action-packed (Genre), Brad Pitt (Actor), 2000s (Year)]
+
+3. Query: "Show me a movie directed by Steven Spielberg with an iconic character and a viewers' rating of 9/10"
+Named Entities: [Steven Spielberg (Director), iconic character (Character), viewers' rating of 9/10 (Viewers' Rating)]

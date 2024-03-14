@@ -1,0 +1,8 @@
+Sentence: "The World Bank is an international financial institution that provides loans and grants to the governments of poorer countries for the purpose of pursuing capital projects."
+Named Entities: [World Bank (organization)]
+
+Sentence: "Adam Smith, a pioneer of political economy, is widely regarded as the father of modern economics."
+Named Entities: [Adam Smith (person)]
+
+Sentence: "The Federal Reserve, commonly referred to as the Fed, is the central bank of the United States."
+Named Entities: [Federal Reserve (organization), United States (location)]

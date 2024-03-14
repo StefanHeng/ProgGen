@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some delicious pastries, where can I find a top-notch café around here?"
+Named Entities: [top-notch café (Restaurant Name)]
+
+Query: "do you know of any restaurants with vegan options offering outdoor seating?"
+Named Entities: [vegan (Cuisine), outdoor seating (Amenity)]
+
+Query: "recommend a place with a good rating and affordable prices for a family dinner"
+Named Entities: [good rating (Rating), affordable prices (Price), family dinner (Amenity)]

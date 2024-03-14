@@ -1,0 +1,8 @@
+1. "What is the best environmental disaster movie of all time?"
+Named Entities: [best (Review), environmental disaster (Genre)]
+
+2. "Who directed the movie about Edgar Wright and what year was it released?"
+Named Entities: [Edgar Wright (Actor), X (Title), year (Year)]
+
+3. "Which movie features a character similar to Jon Snow in Game of Thrones?"
+Named Entities: [Jon Snow (Character), Game of Thrones (Title)]

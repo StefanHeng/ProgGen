@@ -1,0 +1,11 @@
+1. Sentence: "{{Los Angeles}} Mayor announces new funding for homeless shelters."
+Text Span: "Los Angeles"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Brazil}} implements new environmental regulations to protect the Amazon rainforest."
+Text Span: "Brazil"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Manchester United signs a new midfielder from {{Spain}}."
+Text Span: "Spain"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby restaurant with outdoor seating and a high rating?"
+Named Entities: [nearby (Location), outdoor seating (Amenity), high rating (Rating)]
+
+2. "I'm craving sushi, where can I find a Japanese restaurant with a reasonable price range?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), reasonable price range (Price)]
+
+3. "What time does The Blue Plate restaurant close tonight?"
+Named Entities: [The Blue Plate (Restaurant Name), close tonight (Hours)]

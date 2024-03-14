@@ -1,0 +1,8 @@
+1. "Can you recommend a high-end restaurant with a diverse menu for lunch?"
+Named Entities: [high-end (Price), lunch (Amenity)]
+
+2. "I'm looking for a luxury dining experience with a lunch buffet, any suggestions?"
+Named Entities: [luxury (Price), lunch buffet (Amenity)]
+
+3. "Where can I find an upscale restaurant offering a lunch tasting menu?"
+Named Entities: [upscale (Price), lunch tasting menu (Amenity)]

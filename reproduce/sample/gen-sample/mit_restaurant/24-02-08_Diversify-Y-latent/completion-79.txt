@@ -1,0 +1,8 @@
+1. "Can you recommend any five-star brunch options in the city?"
+   Named Entities: [Five-star (Rating), brunch (Amenity), city (Location)]
+
+2. "Where can I find a restaurant near the shopping district that offers a good menu for happy hour?"
+   Named Entities: [near the shopping district (Location), good (Rating), happy hour (Amenity)]
+
+3. "I'd like to leave some customer feedback for The Breakfast Nook. How can I do that?"
+   Named Entities: [Customer feedback (Amenity), The Breakfast Nook (Restaurant Name)]

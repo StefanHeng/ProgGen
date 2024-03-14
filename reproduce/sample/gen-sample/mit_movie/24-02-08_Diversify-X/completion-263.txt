@@ -1,0 +1,8 @@
+Query: "Yo, who starred in that new superhero flick?"
+Named Entities: [superhero flick (Genre)]
+
+Query: "Who directed that crazy action movie with all the explosions?"
+Named Entities: [crazy action movie (Genre), explosions (Plot)]
+
+Query: "What's the deal with that rom-com that everyone's talking about? Who's in it?"
+Named Entities: [rom-com (Genre)]

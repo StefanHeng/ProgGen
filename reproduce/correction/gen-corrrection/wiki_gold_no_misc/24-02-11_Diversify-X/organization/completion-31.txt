@@ -1,0 +1,8 @@
+1. Text Span: "culinary traditions"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Michelin"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Local Group"
+Label: (A). The span is a named entity of type organization

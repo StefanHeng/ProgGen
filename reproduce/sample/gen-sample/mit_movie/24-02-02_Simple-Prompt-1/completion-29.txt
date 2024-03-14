@@ -1,0 +1,59 @@
+1. Can you recommend a good horror movie from the 2010s?
+Named Entities: [horror (Genre), 2010s (Year)]
+
+2. Who directed the classic film Breakfast at Tiffany's?
+Named Entities: [Breakfast at Tiffany's (Title)]
+
+3. What is the viewers' rating for The Shawshank Redemption?
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+4. Can you tell me the plot of The Matrix?
+Named Entities: [The Matrix (Title), plot (Plot)]
+
+5. Show me movies directed by Christopher Nolan.
+Named Entities: [Christopher Nolan (Director)]
+
+6. I'm looking for a good comedy film from the 1990s.
+Named Entities: [comedy (Genre), 1990s (Year)]
+
+7. What is the MPAA rating for The Dark Knight?
+Named Entities: [The Dark Knight (Title), MPAA rating (MPAA Rating)]
+
+8. Can you find the trailer for Inception?
+Named Entities: [Inception (Title), trailer (Trailer)]
+
+9. Is there a song associated with The Lion King?
+Named Entities: [The Lion King (Title), song (Song)]
+
+10. What do the critics say about Parasite?
+Named Entities: [Parasite (Title), critics (Review)]
+
+11. What character does Johnny Depp play in Pirates of the Caribbean?
+Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Title), character (Character)]
+
+12. How many movies were released in 2015?
+Named Entities: [2015 (Year)]
+
+13. Can you show me action movies starring Bruce Willis?
+Named Entities: [action (Genre), Bruce Willis (Actor)]
+
+14. Who is the actress in the film Casablanca?
+Named Entities: [Casablanca (Title), actress (Actor)]
+
+15. What is the genre of the movie Vertigo?
+Named Entities: [Vertigo (Title), genre (Genre)]
+
+16. Tell me the director of Seven Samurai.
+Named Entities: [Seven Samurai (Title), director (Director)]
+
+17. I want to watch a romance from the 1980s, any suggestions?
+Named Entities: [romance (Genre), 1980s (Year)]
+
+18. What is the MPAA rating for Schindler's List?
+Named Entities: [Schindler's List (Title), MPAA rating (MPAA Rating)]
+
+19. Where can I find the plot of The Godfather?
+Named Entities: [The Godfather (Title), plot (Plot)]
+
+20. Is there a specific song in Dirty Dancing?
+Named Entities: [Dirty Dancing (Title), song (Song)]

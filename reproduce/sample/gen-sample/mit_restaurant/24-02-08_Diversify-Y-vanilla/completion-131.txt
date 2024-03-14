@@ -1,0 +1,11 @@
+Query: "Can you recommend a sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]
+[Close]
+
+Query: "I'm craving some Italian pasta, where can I find a good place nearby?"
+Named Entities: [Italian (Cuisine), nearby (Location)]
+[Close]
+
+Query: "What are the hours of the Chinese restaurant in the city center?"
+Named Entities: [Chinese (Cuisine), city center (Location)]
+[Close]

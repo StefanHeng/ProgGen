@@ -1,0 +1,8 @@
+1. "Can you tell me if there are any showtimes available for Grease tonight?"
+Named Entities: [Grease (Title)]
+
+2. "I'm looking for a promo on any movie starring Tom Holland, what do you suggest?"
+Named Entities: [Tom Holland (Actor), promo (Review)]
+
+3. "Any recommendations for an unforgettable movie experience this weekend?"
+Named Entities: [unforgettable (Viewers' Rating)]

@@ -1,0 +1,11 @@
+1. Query: "I have a craving for Brazilian cuisine, can you provide me with the {{Coordinates}} for the closest Fogo de Chao?"
+Text Span: "Coordinates"
+Label: (C). The span is a named entity but the category is not location. Entity Type: Other
+
+2. Query: "Do you know of any affordable restaurants with a good rating in this {{area}}?"
+Text Span: "area"
+Label: (A). The span is a named entity of type location
+
+3. Query: "What's the {{address}} of the restaurant Gordon Ramsay recommended?"
+Text Span: "address"
+Label: (C). The span is a named entity but the category is not location. Entity Type: Amenity

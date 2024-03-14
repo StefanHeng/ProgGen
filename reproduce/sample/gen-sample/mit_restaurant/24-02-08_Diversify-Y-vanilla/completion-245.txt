@@ -1,0 +1,8 @@
+Query: "Can you make a reservation at Per Se for 7 pm tonight?"
+Named Entities: [Per Se (Restaurant Name), 7 pm (Hours)]
+
+Query: "I'm craving Italian food, where's the best place to get pasta around here?"
+Named Entities: [Italian (Cuisine), pasta (Dish)]
+
+Query: "What's the highest rated sushi restaurant in this area?"
+Named Entities: [highest rated (Rating), sushi (Cuisine)]

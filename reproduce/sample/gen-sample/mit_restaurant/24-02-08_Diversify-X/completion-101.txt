@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with a high rating for dinner tonight?"
+Named Entities: [buffet (Amenity), high rating (Rating), dinner tonight (Hours)]
+
+2. "Where can I find a buffet serving Italian cuisine for lunch at a reasonable price?"
+Named Entities: [buffet (Amenity), Italian cuisine (Cuisine), lunch (Hours), reasonable price (Price)]
+
+3. "I'm looking for a buffet restaurant with a good selection of seafood dishes for brunch on Sundays."
+Named Entities: [buffet (Amenity), seafood dishes (Dish), brunch on Sundays (Hours)]

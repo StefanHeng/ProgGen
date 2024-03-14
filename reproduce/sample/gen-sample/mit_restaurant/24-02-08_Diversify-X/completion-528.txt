@@ -1,0 +1,8 @@
+Query: "Where can I find a food truck serving tacos with a high rating"
+Named Entities: [food truck (Amenity), tacos (Dish), high rating (Rating)]
+
+Query: "I'm craving some Korean barbecue from a food truck, where can I find one nearby?"
+Named Entities: [Korean barbecue (Cuisine), food truck (Amenity), nearby (Location)]
+
+Query: "What food trucks in the area offer vegetarian options for less than $10?"
+Named Entities: [vegetarian options (Cuisine), food truck (Amenity), less than $10 (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "tickets"
+Label: (D). Not a Named Entity
+
+2. Text Span: "happy"
+Label: (C). The span is not a named entity but the category is not viewers' rating. Category: other
+
+3. Text Span: "well-crafted"
+Label: (C). The span is not a named entity but the category is not viewers' rating. Category: other

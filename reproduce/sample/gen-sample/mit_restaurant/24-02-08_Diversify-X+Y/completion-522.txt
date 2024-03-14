@@ -1,0 +1,10 @@
+
+
+Query: "I'm in the mood for some Thai food, where can I find a fast-food restaurant with discounted items nearby?"
+Named Entities: [Thai (Cuisine), fast-food (Amenity), discounted items (Amenity), nearby (Location)]
+
+Query: "Can you recommend a fast-food place with Thai cuisine and discounted items for a middle-aged accountant like me?"
+Named Entities: [fast-food (Amenity), Thai (Cuisine), discounted items (Amenity), middle-aged (Location), accountant (Location)]
+
+Query: "I need to grab a quick bite at a fast-food spot offering Thai dishes and discounted items, any suggestions?"
+Named Entities: [fast-food (Amenity), Thai (Cuisine), discounted items (Amenity), quick bite (Amenity)]

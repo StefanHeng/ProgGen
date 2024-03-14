@@ -1,0 +1,8 @@
+Query: "I'm craving some authentic Mexican food, where can I find a good taqueria nearby?"
+Named Entities: [authentic Mexican food (Cuisine), taqueria (Restaurant Name), nearby (Location)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a view of the water, do you have any recommendations?"
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]
+
+Query: "Directions to the nearest Italian restaurant that serves gluten-free pasta"
+Named Entities: [nearest (Location), Italian (Cuisine), gluten-free pasta (Dish), [Directions]

@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast place with a high rating nearby?"
+Named Entities: [breakfast (Cuisine), nearby (Location), high rating (Rating)]
+
+2. "Do you know of any breakfast spots that open early in the morning?"
+Named Entities: [breakfast (Cuisine), early in the morning (Hours)]
+
+3. "I'm looking for a breakfast restaurant with affordable prices, maybe under 15 dollars."
+Named Entities: [breakfast (Cuisine), under 15 dollars (Price)]

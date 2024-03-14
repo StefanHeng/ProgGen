@@ -1,0 +1,8 @@
+1. "Find me a top-rated Italian restaurant that serves soup for lunch"
+Named Entities: [top-rated (Rating), Italian (Cuisine), soup (Dish), lunch (Hours)]
+
+2. "Where can I grab a quick bite of soup and salad near the office for a reasonable price"
+Named Entities: [soup (Dish), salad (Dish), near the office (Location), reasonable price (Price)]
+
+3. "Can you recommend a Japanese restaurant with outdoor seating and good reviews for dinner"
+Named Entities: [Japanese (Cuisine), outdoor seating (Amenity), good reviews (Rating), dinner (Hours)]

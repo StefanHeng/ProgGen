@@ -1,0 +1,8 @@
+Query: "recommend a fine dining restaurant with a Michelin star"
+Named Entities: [fine dining (Amenity), Michelin star (Rating)]
+
+Query: "what are the opening hours for Le Bernardin?"
+Named Entities: [Le Bernardin (Restaurant Name), opening hours (Hours)]
+
+Query: "show me upscale restaurants with French cuisine and outdoor seating"
+Named Entities: [upscale (Price), French cuisine (Cuisine), outdoor seating (Amenity)]

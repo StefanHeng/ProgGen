@@ -1,0 +1,8 @@
+1. Text Span: "everyone's gossiping about"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "great special effects"
+Label: (A). Named Entity of type Review
+
+3. Text Span: "gripping"
+Label: (A). Named Entity of type Review

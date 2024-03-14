@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant that serves breakfast and offers chef's specials"
+Named Entities: [breakfast (Amenity)]
+
+Query: "where can I find a breakfast place with chef's specials nearby"
+Named Entities: [breakfast (Amenity), nearby (Location)]
+
+Query: "do you know any restaurants with breakfast and chef's specials"
+Named Entities: [breakfast (Amenity)]

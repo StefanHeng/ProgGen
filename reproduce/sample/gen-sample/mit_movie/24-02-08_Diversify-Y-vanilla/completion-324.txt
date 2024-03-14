@@ -1,0 +1,8 @@
+Query: "can you recommend a movie involving political corruption"
+Named Entities: [political corruption (Plot)]
+
+Query: "who directed the movie American Psycho"
+Named Entities: [American Psycho (Title)]
+
+Query: "what genre does The Farewell by Lulu Wang fall into"
+Named Entities: [The Farewell (Title), Lulu Wang (Director)]

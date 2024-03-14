@@ -1,0 +1,8 @@
+1. Text Span: "Japanese restaurant"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "Time Out's Best Restaurants"
+Label: (C). Wrong Type. The correct entity type is Restaurant Name.
+
+3. Text Span: "vegan-friendly"
+Label: (B). Wrong Boundary. The correct span boundary is "vegan".

@@ -1,0 +1,8 @@
+1. Text Span: "most popular"
+Label: (C). The span is a named entity but the category is not viewers' rating. Category: other
+
+2. Text Span: "must-see"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "epic in scale"
+Label: (C). The span is a named entity but the category is not viewers' rating. Category: other

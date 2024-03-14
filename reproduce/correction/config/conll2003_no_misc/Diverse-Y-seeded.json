@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "dataset_name": "conll2003-no-misc",
+        "source_dataset_dir_name": "24-02-08_NER-Dataset_{fmt=n-p2,#l=3,de=s}",
+        "diversity_variant": "Diverse-Y-seeded"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Only first names, last names, and full names are considered named person entities. Any general reference to a person or people such as \"chef\", \"CEO\" and \"Mayor\" is not a named entity. A named person entity should not have any starting titles such as \"President\" or \"Mayor\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "President Biden announces new infrastructure plan in speech to Congress.",
+                    "entity_span": "President Biden",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Biden",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "CEO of Dubai-based company arrested for fraud.",
+                    "entity_span": "CEO",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "China's President Xi Jinping meets with South Korean leader for trade talks.",
+                    "entity_span": "Xi Jinping",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Former US President Obama awarded The Nobel Foundation Peace Prize.",
+                    "entity_span": "US President Obama",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Obama",
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Events like \"Olympics\" and \"Fashion Week\" are not relevant named entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "Celebrities flock to Paris Fashion Week for the latest trends.",
+                    "entity_span": "Paris Fashion Week",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Paris",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The mayor of Manchester delivers a speech at the town hall.",
+                    "entity_span": "Manchester",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Adjectives such as \"Chinese\" and \"Russian\" are not relevant named entities. Viruses such as \"COVID-19\" are also not named organization entities. Products such as \"iPhone\" and \"Windows\" are not relevant named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "Russian cosmonauts and Chinese astronauts conduct joint space mission.",
+                    "entity_span": "Russian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Indian government bans TikTok and 58 other Chinese apps.",
+                    "entity_span": "TikTok",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+1. Query: "Could you play the trailer for Saturday Night Fever?"
+Named Entities: [trailer (Trailer), Saturday Night Fever (Title)]
+
+2. Query: "Is Lieutenant Dan in any award-winning movies?"
+Named Entities: [Lieutenant Dan (Character), award-winning (Review)]
+
+3. Query: "What movie features a memorable soundtrack by Pharrell Williams?"
+Named Entities: [memorable soundtrack (Song), Pharrell Williams (Actor)]

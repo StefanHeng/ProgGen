@@ -1,0 +1,8 @@
+Query: "What restaurants serve breakfast hours and are located near In-N-Out Burger?"
+Named Entities: [breakfast hours (Hours), In-N-Out Burger (Restaurant Name)]
+
+Query: "I'm looking for a dinner place with a variety of vegetarian options around In-N-Out Burger"
+Named Entities: [dinner (Amenity), vegetarian (Cuisine), In-N-Out Burger (Location)]
+
+Query: "Can you recommend a restaurant with a high rating and affordable prices near In-N-Out Burger for dinner?"
+Named Entities: [high rating (Rating), affordable prices (Price), In-N-Out Burger (Location)]

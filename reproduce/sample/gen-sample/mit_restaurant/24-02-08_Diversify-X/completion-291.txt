@@ -1,0 +1,8 @@
+Query: "I want to grab a quick bite, where can I find budget-friendly fast food options nearby?"
+Named Entities: [quick bite (Amenity), budget-friendly (Price), fast food (Cuisine), nearby (Location)]
+
+Query: "What are the operating hours for the nearest fast food restaurant that offers affordable meals?"
+Named Entities: [operating hours (Hours), nearest (Location), fast food (Cuisine), affordable (Price)]
+
+Query: "Can you recommend a cheap fast food joint with a high customer rating?"
+Named Entities: [cheap (Price), fast food (Cuisine), high customer rating (Rating)]

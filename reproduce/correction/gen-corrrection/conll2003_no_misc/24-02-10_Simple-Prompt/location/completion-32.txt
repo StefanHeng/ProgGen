@@ -1,0 +1,11 @@
+1. Sentence: "Amazon founder Jeff Bezos goes to {{Space}}."
+Text Span: "Space"
+Label: (A)
+
+2. Sentence: "The CEO of Tesla has announced a partnership with a {{Chinese}} technology company to build a new electric vehicle factory."
+Text Span: "Chinese"
+Label: (C) [other]
+
+3. Sentence: "{{Tokyo}} Olympics set to begin next week."
+Text Span: "Tokyo"
+Label: (A)

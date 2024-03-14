@@ -1,0 +1,14 @@
+1. "Can you recommend a popular movie from the 1910s?"
+Named Entities: [1910s (Year)]
+
+2. "Is Morgan Freeman starring in any science fiction movies in 2022?"
+Named Entities: [Morgan Freeman (Actor), 2022 (Year), science fiction (Genre)]
+
+3. "What is the MPAA rating for Star Wars: Episode IX?"
+Named Entities: [Star Wars: Episode IX (Title), R (MPAA Rating)]
+
+4. "What genre does Bohemian Rhapsody fall under?"
+Named Entities: [Bohemian Rhapsody (Title), genre (Genre)]
+
+5. "Who directed Iron Man and what would viewers rate it?"
+Named Entities: [Iron Man (Title), viewers rate (Viewers' Rating), Director (Director)]

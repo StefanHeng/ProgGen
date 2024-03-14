@@ -1,0 +1,8 @@
+Query: "what are the top-rated Japanese restaurants in the area"
+Named Entities: [top-rated (Rating), Japanese (Cuisine), area (Location)]
+
+Query: "show me restaurants with outdoor seating and a view of the water"
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]
+
+Query: "I want to try the best tacos in town, where can I find them"
+Named Entities: [best (Rating), tacos (Dish), town (Location) ]

@@ -1,0 +1,8 @@
+Query: "can you recommend a captivating movie directed by Céline Sciamma"
+Named Entities: [captivating (Review), Céline Sciamma (Director)]
+
+Query: "show me a movie with Ripley that has a 3.2-star rating"
+Named Entities: [Ripley (Character), 3.2-star rating (Viewers' Rating)]
+
+Query: "what is the best Alejandro González Iñárritu film"
+Named Entities: [Alejandro González Iñárritu (Director), best (Review)]

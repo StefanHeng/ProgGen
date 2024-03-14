@@ -1,0 +1,8 @@
+Query: "Can you tell me about the director of the movie Inception?"
+Named Entities: [Inception (Title), director (Director)]
+
+Query: "I'd like to know more about the actors in the film The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), actors (Actor)]
+
+Query: "Show me a preview of the new Marvel movie directed by Taika Waititi"
+Named Entities: [Marvel movie (Genre), Taika Waititi (Director), preview (Trailer)]

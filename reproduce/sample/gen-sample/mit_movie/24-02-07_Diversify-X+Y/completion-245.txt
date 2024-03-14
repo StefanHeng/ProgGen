@@ -1,0 +1,8 @@
+1. Query: "Could you please show me a teaser for the movie Pocahontas?"
+Named Entities: [teaser (Trailer), Pocahontas (Title)]
+
+2. Query: "I'm not sure if I want to watch it, but can you find a trailer for the movie Under the Sea?"
+Named Entities: [trailer (Trailer), Under the Sea (Title)]
+
+3. Query: "I'm feeling indecisive, but do you have a teaser for a game-changing film with the song 'I Don't Want to Miss'?"
+Named Entities: [teaser (Trailer), game-changing (Plot), 'I Don't Want to Miss' (Song)]

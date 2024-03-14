@@ -1,0 +1,8 @@
+1. "Can you recommend any vegan restaurants open on weekdays?"
+Named Entities: [vegan (Cuisine), weekdays (Hours)]
+
+2. "I'm in the mood for some spicy food, where can I find a Mexican restaurant with a high rating?"
+Named Entities: [spicy (Amenity), Mexican (Cuisine), high rating (Rating)]
+
+3. "I need a place to eat with outdoor seating, preferably near the beach. Do you know any seafood restaurants with that amenity?"
+Named Entities: [outdoor seating (Amenity), near the beach (Location), seafood (Cuisine)]

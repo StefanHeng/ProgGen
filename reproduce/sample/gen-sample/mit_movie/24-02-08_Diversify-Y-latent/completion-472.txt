@@ -1,0 +1,8 @@
+Query: "can you recommend a movie directed by Cate Blanchett that came out in 1992"
+Named Entities: [Cate Blanchett (Director), 1992 (Year)]
+
+Query: "what is the movie Uncovering about and is it worth watching"
+Named Entities: [Uncovering (Title)]
+
+Query: "show me a movie with a plot related to art forgery that received 2 thumbs up"
+Named Entities: [art forgery (Plot), 2 thumbs up (Viewers' Rating)]

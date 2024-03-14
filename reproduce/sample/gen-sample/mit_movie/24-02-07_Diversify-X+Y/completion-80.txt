@@ -1,0 +1,8 @@
+1. Spoken Query: "Hey, can you show me the First look at a new movie trailer that's got a dynamic vibe?"
+   Named Entities: [First look (Trailer), dynamic (Genre)]
+
+2. Spoken Query: "I'm looking for a mesmerizing movie teaser to watch. Any suggestions?"
+   Named Entities: [mesmerizing (Viewers' Rating)]
+
+3. Spoken Query: "Have you seen the new teaser for a movie with the song 'Can't Stop the Feeling!'? Can you show it to me?"
+   Named Entities: [Can't Stop the Feeling! (Song), teaser (Trailer)]

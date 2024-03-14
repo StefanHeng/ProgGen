@@ -1,0 +1,8 @@
+1. "What restaurants serve brunch in this area on weekends?"
+Named Entities: [brunch (Amenity), weekends (Hours), in this area (Location)]
+
+2. "I'm craving sushi, can you recommend any places with outdoor seating and business hours until 10 pm?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), business hours until 10 pm (Hours)]
+
+3. "I'm looking for a family-friendly restaurant with a kids menu and a good rating."
+Named Entities: [family-friendly (Amenity), kids menu (Amenity), good (Rating)]

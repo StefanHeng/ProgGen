@@ -1,0 +1,8 @@
+Query: "can you suggest a family-friendly movie like Toy Story"
+Named Entities: [Toy Story (Title), family-friendly (Genre)]
+
+Query: "are there any recent movies with mixed reviews worth watching"
+Named Entities: [Mixed reviews (Review)]
+
+Query: "who directed the animated movie Finding Nemo"
+Named Entities: [Finding Nemo (Title), animated (Genre)]

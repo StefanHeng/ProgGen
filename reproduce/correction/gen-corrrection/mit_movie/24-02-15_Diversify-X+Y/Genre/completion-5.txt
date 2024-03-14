@@ -1,0 +1,8 @@
+1. Text Span: "war"
+Label: (A). The span is a named entity of type movie genre
+
+2. Text Span: "innovative subgenre type"
+Label: (C). The span is not a named entity. The correct entity type is other.
+
+3. Text Span: "Marvel films"
+Label: (A). The span is a named entity of type movie genre

@@ -1,0 +1,8 @@
+1. Text Span: "Forrester Research"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "United Nations"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Mona Lisa"
+Label: (C). Wrong Type. The correct entity type is other.

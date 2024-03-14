@@ -1,0 +1,8 @@
+1. Query: "What movie directed by James Wan is an unforgettable drama?"
+   Named Entities: [James Wan (Director), unforgettable (Review), drama (Genre)]
+
+2. Query: "Show me a movie with the title Family Feud"
+   Named Entities: [Family Feud (Title)]
+
+3. Query: "In the movie Forrest Gump, which character owns a donkey?"
+   Named Entities: [Forrest Gump (Title), donkey (Character)]

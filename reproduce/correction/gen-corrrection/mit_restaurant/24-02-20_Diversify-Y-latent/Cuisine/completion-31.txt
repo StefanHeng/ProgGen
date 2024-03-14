@@ -1,0 +1,11 @@
+1. Query: "Where can I find the best {{Scandinavian}} cuisine in the city center?"
+Text Span: "Scandinavian"
+Label: (A). The span is a named entity of type cuisine
+
+2. Query: "What are the opening hours for the {{Italian}} restaurants in the downtown area?"
+Text Span: "Italian"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "Can you recommend a place with {{vegetarian}} options and outdoor seating?"
+Text Span: "vegetarian"
+Label: (A). The span is a named entity of type cuisine

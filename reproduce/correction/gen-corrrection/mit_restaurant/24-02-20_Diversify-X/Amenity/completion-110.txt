@@ -1,0 +1,8 @@
+1. Text Span: "upscale"
+   Label: (A). The span is a named entity of type amenity (Upscale)
+
+2. Text Span: "drive-thru"
+   Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "drive-thru buffet".
+
+3. Text Span: "food trucks"
+   Label: (A). The span is a named entity of type amenity (Food trucks)

@@ -1,0 +1,1108 @@
+[
+    {
+        "sentence": "The Colosseum in Rome to host a new public art exhibition.",
+        "entity_names": [
+            "Colosseum",
+            "Rome",
+            "Public Art Fund"
+        ],
+        "filename": "completion-2",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Public Art Fund"
+        ]
+    },
+    {
+        "sentence": "The U.S. government announces the capture of a key Al-Qaeda leader linked to the 9/11 attacks.",
+        "entity_names": [
+            "U.S. government",
+            "Al-Qaeda",
+            "9/11 attacks"
+        ],
+        "filename": "completion-31",
+        "entity_types": [
+            "organization",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "9/11 attacks"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "New York Fashion Week to feature innovative designs from top luxury brands.",
+        "entity_names": [
+            "New York Fashion Week",
+            "luxury brands"
+        ],
+        "filename": "completion-42",
+        "entity_types": [
+            "event",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "New York Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Berlin Museum of Modern Art to host exhibition showcasing indigenous culture.",
+        "entity_names": [
+            "Berlin Museum of Modern Art",
+            "Berlin"
+        ],
+        "filename": "completion-51",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Berlin"
+        ]
+    },
+    {
+        "sentence": "The National Gallery of Art hosts annual poetry reading event in celebration of National Poetry Month.",
+        "entity_names": [
+            "The National Gallery of Art",
+            "National Poetry Month"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "National Poetry Month"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "LeBron James partners with the American Civil Liberties Union to promote criminal justice reform.",
+        "entity_names": [
+            "LeBron James",
+            "American Civil Liberties Union",
+            "ACLU"
+        ],
+        "filename": "completion-76",
+        "entity_types": [
+            "person",
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "ACLU"
+        ]
+    },
+    {
+        "sentence": "The ACLU launches campaign to address racial inequality in the criminal justice system, with support from LeBron James.",
+        "entity_names": [
+            "American Civil Liberties Union",
+            "ACLU",
+            "LeBron James"
+        ],
+        "filename": "completion-76",
+        "entity_types": [
+            "organization",
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "American Civil Liberties Union"
+        ]
+    },
+    {
+        "sentence": "Fashion icon Karl Lagerfeld's latest collection wows audience at Paris Fashion Week.",
+        "entity_names": [
+            "Karl Lagerfeld",
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-88",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Michael Kors debuts his latest collection at Rome Fashion Week.",
+        "entity_names": [
+            "Michael Kors",
+            "[Rome"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Rome"
+        ]
+    },
+    {
+        "sentence": "Renowned fashion designer, Michael Kors, to open new flagship store in Rome.",
+        "entity_names": [
+            "Michael Kors",
+            "[Rome"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "person)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Rome"
+        ]
+    },
+    {
+        "sentence": "Rome named as the location for the next Michael Kors fashion show.",
+        "entity_names": [
+            "Rome",
+            "[Michael Kors"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "location)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[Michael Kors"
+        ]
+    },
+    {
+        "sentence": "Singapore Airlines reports record profits for the third consecutive quarter.",
+        "entity_names": [
+            "Singapore Airlines",
+            "Singapore"
+        ],
+        "filename": "completion-112",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Singapore"
+        ]
+    },
+    {
+        "sentence": "The British Museum to host a special exhibition on ancient Greek art.",
+        "entity_names": [
+            "British Museum",
+            "Athens"
+        ],
+        "filename": "completion-132",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Athens"
+        ]
+    },
+    {
+        "sentence": "Japanese publishing company announces release of highly anticipated novel set in ancient Kyoto.",
+        "entity_names": [
+            "Kyoto",
+            "Japan"
+        ],
+        "filename": "completion-161",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "Iranian President Hassan Rouhani meets with Indian officials in New Delhi to discuss trade and regional cooperation.",
+        "entity_names": [
+            "Hassan Rouhani",
+            "New Delhi",
+            "India"
+        ],
+        "filename": "completion-189",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "Renowned artist Banksy unveils new mural in downtown Los Angeles.",
+        "entity_names": [
+            "Banksy",
+            "[Los Angeles"
+        ],
+        "filename": "completion-190",
+        "entity_types": [
+            "person)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Los Angeles"
+        ]
+    },
+    {
+        "sentence": "Metropolitan Museum of Art to host exhibit featuring works by Van Gogh and Picasso.",
+        "entity_names": [
+            "Metropolitan Museum of Art",
+            "[Van Gogh",
+            "[Picasso"
+        ],
+        "filename": "completion-190",
+        "entity_types": [
+            "organization)]",
+            "person)]",
+            "person"
+        ],
+        "missing_entity_names": [
+            "[Van Gogh",
+            "[Picasso"
+        ]
+    },
+    {
+        "sentence": "Local sculptor chosen to create monument commemorating historical event.",
+        "entity_names": [
+            "monument commemorating historical event",
+            "[sculptor"
+        ],
+        "filename": "completion-190",
+        "entity_types": [
+            "location)]",
+            "person"
+        ],
+        "missing_entity_names": [
+            "[sculptor"
+        ]
+    },
+    {
+        "sentence": "Thousands gathered in support of the transgender community at the annual Pride parade.",
+        "entity_names": [
+            "thousands",
+            "transgender community",
+            "Pride parade"
+        ],
+        "filename": "completion-210",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Pride parade"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Russian government introduces new policies to support immigrant integration in Moscow.",
+        "entity_names": [
+            "Moscow",
+            "Russia"
+        ],
+        "filename": "completion-220",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "PFLAG opens new support center for LGBTQ+ youth.",
+        "entity_names": [
+            "PFLAG",
+            "LGBTQ+"
+        ],
+        "filename": "completion-234",
+        "entity_types": [
+            "organization",
+            "group"
+        ],
+        "entity_names_not_allowed": [
+            "LGBTQ+"
+        ],
+        "entity_types_not_allowed": [
+            "group"
+        ]
+    },
+    {
+        "sentence": "Transgender activist speaks at PFLAG event on LGBTQ+ rights.",
+        "entity_names": [
+            "PFLAG",
+            "LGBTQ+",
+            "transgender activist"
+        ],
+        "filename": "completion-234",
+        "entity_types": [
+            "organization",
+            "group",
+            "person"
+        ],
+        "reordered_entity_names": [
+            "transgender activist",
+            "PFLAG",
+            "LGBTQ+"
+        ],
+        "reordered_entity_types": [
+            "person",
+            "organization",
+            "group"
+        ],
+        "entity_names_not_allowed": [
+            "LGBTQ+"
+        ],
+        "entity_types_not_allowed": [
+            "group"
+        ]
+    },
+    {
+        "sentence": "The Kremlin announces new historical exhibition to commemorate World War II victory.",
+        "entity_names": [
+            "Kremlin",
+            "World War II"
+        ],
+        "filename": "completion-268",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Local designer from Milan makes waves at Paris Fashion Week with groundbreaking sustainable fashion collection.",
+        "entity_names": [
+            "Milan",
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Up-and-coming model with inspiring backstory takes the runway by storm at Paris Fashion Week.",
+        "entity_names": [
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Iconic fashion house Chanel unveils latest haute couture collection at Paris Fashion Week, wowing audience with timeless elegance.",
+        "entity_names": [
+            "Chanel",
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Parent-teacher association president, Laura Johnson, calls for more funding for public schools in Rome, Italy.",
+        "entity_names": [
+            "Rome",
+            "Italy",
+            "Parent-teacher association president Laura Johnson"
+        ],
+        "filename": "completion-315",
+        "entity_types": [
+            "location",
+            "location",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Parent-teacher association president Laura Johnson"
+        ]
+    },
+    {
+        "sentence": "Rihanna's new luxury fashion line receives rave reviews at Paris Fashion Week.",
+        "entity_names": [
+            "Rihanna",
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-319",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Superintendent Emily Thompson announces a new initiative to align the district's curriculum with the Common Core State Standards.",
+        "entity_names": [
+            "Superintendent Emily Thompson",
+            "Common Core State Standards Initiative"
+        ],
+        "filename": "completion-321",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Common Core State Standards Initiative"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with cutting-edge technology in New York City event.",
+        "entity_names": [
+            "Apple",
+            "iPhone",
+            "New York City"
+        ],
+        "filename": "completion-323",
+        "entity_types": [
+            "organization",
+            "technology",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "technology"
+        ]
+    },
+    {
+        "sentence": "Brazilian government takes action to address food security issues in Rio de Janeiro.",
+        "entity_names": [
+            "Rio de Janeiro",
+            "Brazil"
+        ],
+        "filename": "completion-332",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Brazil"
+        ]
+    },
+    {
+        "sentence": "Meteorologist Emily Rodriguez predicts a high chance of thunderstorms tonight.",
+        "entity_names": [
+            "Emily Rodriguez",
+            "Earth Networks"
+        ],
+        "filename": "completion-338",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Earth Networks"
+        ]
+    },
+    {
+        "sentence": "London Stock Exchange reports record high trading volume.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "Senator Smith announces candidacy for governor.",
+        "entity_names": [
+            "Senator Smith",
+            "governor"
+        ],
+        "filename": "completion-370",
+        "entity_types": [
+            "person",
+            "position"
+        ],
+        "entity_names_not_allowed": [
+            "governor"
+        ],
+        "entity_types_not_allowed": [
+            "position"
+        ]
+    },
+    {
+        "sentence": "Malala Yousafzai awarded honorary Canadian citizenship for human rights advocacy.",
+        "entity_names": [
+            "Malala Yousafzai",
+            "Canada"
+        ],
+        "filename": "completion-375",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Canada"
+        ]
+    },
+    {
+        "sentence": "Chinese government to invest $1 billion in education infrastructure improvements across the country.",
+        "entity_names": [
+            "China"
+        ],
+        "filename": "completion-385",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Global wine consumption reaches new record high in 2021.",
+        "entity_names": [
+            "wine",
+            "2021"
+        ],
+        "filename": "completion-386",
+        "entity_types": [
+            "food",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "wine"
+        ],
+        "entity_types_not_allowed": [
+            "food"
+        ]
+    },
+    {
+        "sentence": "Immigrant family reunites after years of separation due to border restrictions.",
+        "entity_names": [
+            "World Health Organization"
+        ],
+        "filename": "completion-392",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "World Health Organization"
+        ]
+    },
+    {
+        "sentence": "Local designer from Barcelona, Spain, to showcase new clothing line at Paris Fashion Week.",
+        "entity_names": [
+            "Barcelona",
+            "Spain",
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-414",
+        "entity_types": [
+            "location",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Australian government announces funding increase for research projects at Melbourne universities.",
+        "entity_names": [
+            "Melbourne",
+            "Australia"
+        ],
+        "filename": "completion-416",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Local student creates innovative app to help people with disabilities access public transportation.",
+        "entity_names": [
+            "Barack Obama"
+        ],
+        "filename": "completion-430",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Barack Obama"
+        ]
+    },
+    {
+        "sentence": "Greta Thunberg calls out Scott Morrison for inaction on climate change at Rio de Janeiro summit.",
+        "entity_names": [
+            "Greta Thunberg",
+            "Scott Morrison",
+            "Rio de Janeiro",
+            "Brazil"
+        ],
+        "filename": "completion-434",
+        "entity_types": [
+            "person",
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Brazil"
+        ]
+    },
+    {
+        "sentence": "Australian Prime Minister Scott Morrison visits Rio de Janeiro to discuss trade and environmental issues with Brazilian officials.",
+        "entity_names": [
+            "Scott Morrison",
+            "Rio de Janeiro",
+            "Brazil"
+        ],
+        "filename": "completion-434",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Brazil"
+        ]
+    },
+    {
+        "sentence": "Video footage captures immigration officials processing Central American migrants at the border.",
+        "entity_names": [
+            "Central America"
+        ],
+        "filename": "completion-444",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Central America"
+        ]
+    },
+    {
+        "sentence": "Photo gallery showcases the struggles of Central American immigrants seeking asylum in the U.S.",
+        "entity_names": [
+            "Central America"
+        ],
+        "filename": "completion-444",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Central America"
+        ]
+    },
+    {
+        "sentence": "Serena Williams and Venus Williams to team up for doubles match at the upcoming Grand Slam.",
+        "entity_names": [
+            "Serena Williams",
+            "Venus Williams",
+            "Grand Slam"
+        ],
+        "filename": "completion-447",
+        "entity_types": [
+            "person",
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Grand Slam"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Australian authorities detained over 100 illegal immigrants in a recent immigration raid.",
+        "entity_names": [
+            "Australia"
+        ],
+        "filename": "completion-460",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Immigration Minister of Australia announces new policies to address the influx of asylum seekers.",
+        "entity_names": [
+            "Australia",
+            "Immigration Minister of Australia"
+        ],
+        "filename": "completion-460",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "London Fashion Week kicks off with a star-studded lineup of designers and celebrities.",
+        "entity_names": [
+            "London Fashion Week"
+        ],
+        "filename": "completion-464",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "London Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Donatella Versace to unveil her latest collection at Paris Fashion Week.",
+        "entity_names": [
+            "Donatella Versace",
+            "Paris Fashion Week"
+        ],
+        "filename": "completion-464",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Paris Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Chinese art exhibition in Moscow showcases stunning traditional paintings and calligraphy.",
+        "entity_names": [
+            "Moscow",
+            "China"
+        ],
+        "filename": "completion-474",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Local organization partners with schools to provide free tutoring services for students in need.",
+        "entity_names": [
+            "school"
+        ],
+        "filename": "completion-478",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "school"
+        ]
+    },
+    {
+        "sentence": "Murder investigation underway in downtown New York City",
+        "entity_names": [
+            "Murder",
+            "New York City"
+        ],
+        "filename": "completion-485",
+        "entity_types": [
+            "crime",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Murder"
+        ],
+        "entity_types_not_allowed": [
+            "crime"
+        ]
+    },
+    {
+        "sentence": "Immigration rights organizations in El Paso, Texas rally for policy change.",
+        "entities": [
+            "El Paso (location)",
+            "Texas (location)",
+            "organizations"
+        ]
+    },
+    {
+        "sentence": "Global tech conference showcases the latest innovations in artificial intelligence.",
+        "entity_names": [
+            "tech conference",
+            "artificial intelligence"
+        ],
+        "filename": "completion-507",
+        "entity_types": [
+            "organization",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "artificial intelligence"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "Taiwanese government announces plans to collaborate with IBM Corporation on a nationwide digital transformation initiative, set to revolutionize the country's tech industry.",
+        "entity_names": [
+            "Taiwan",
+            "IBM Corporation"
+        ],
+        "filename": "completion-511",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Taiwan"
+        ]
+    },
+    {
+        "sentence": "Local man survives harrowing ordeal in Sahara Desert.",
+        "entity_names": [
+            "James Thompson",
+            "Sahara Desert"
+        ],
+        "filename": "completion-517",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "James Thompson"
+        ]
+    },
+    {
+        "sentence": "Fashion retailer Zara announces plans to expand its presence in the Asian market.",
+        "entity_names": [
+            "Zara",
+            "Asia"
+        ],
+        "filename": "completion-522",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Asia"
+        ]
+    },
+    {
+        "sentence": "Brazilian authorities announce crackdown on drug trafficking in Rio de Janeiro",
+        "entity_names": [
+            "Brazil",
+            "Rio de Janeiro"
+        ],
+        "filename": "completion-523",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Brazil"
+        ]
+    },
+    {
+        "sentence": "U.S. Treasury Secretary Janet Yellen meets with Indian Finance Minister to discuss bilateral business and investment opportunities.",
+        "entity_names": [
+            "Janet Yellen",
+            "India"
+        ],
+        "filename": "completion-537",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "Jay-Z's company Roc Nation to invest in emerging African market.",
+        "entity_names": [
+            "Jay-Z",
+            "Roc Nation",
+            "Africa"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Africa"
+        ]
+    },
+    {
+        "sentence": "United Nations reports increase in humanitarian aid to Syrian refugees.",
+        "entity_names": [
+            "United Nations",
+            "Syria"
+        ],
+        "filename": "completion-563",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Syria"
+        ]
+    },
+    {
+        "sentence": "New Study Shows Alarming Decline in Arctic Sea Ice.",
+        "entity_names": [
+            "Arctic",
+            "National Geographic Society"
+        ],
+        "filename": "completion-569",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Geographic Society"
+        ]
+    },
+    {
+        "sentence": "Local Sydney man reunites with long-lost family after 20 years.",
+        "entity_names": [
+            "Sydney",
+            "Australia"
+        ],
+        "filename": "completion-580",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Sydney-based organization raises over $100,000 for homeless shelter.",
+        "entities": [
+            "Sydney (location)",
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Australian woman from Sydney wins national award for community service.",
+        "entity_names": [
+            "Sydney",
+            "Australia",
+            "woman"
+        ],
+        "filename": "completion-580",
+        "entity_types": [
+            "location",
+            "location",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Local high school football team advances to state championship after thrilling overtime victory.",
+        "entity_names": [
+            "high school, state championship"
+        ],
+        "filename": "completion-595",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "high school, state championship"
+        ]
+    },
+    {
+        "sentence": "Community rallies together to support local family whose home was destroyed in a fire.",
+        "entity_names": [
+            "community, family"
+        ],
+        "filename": "completion-595",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "community, family"
+        ]
+    },
+    {
+        "sentence": "The Andy Warhol Foundation has announced a grant program to support emerging artists working in various mediums, including visual arts and literature.",
+        "entity_names": [
+            "Andy Warhol Foundation",
+            "Andy Warhol"
+        ],
+        "filename": "completion-596",
+        "entity_types": [
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Andy Warhol"
+        ]
+    }
+]

@@ -1,0 +1,3873 @@
+{
+    "dataset-name": "conll2003-no-misc",
+    "triples-dir-name": "24-02-07_NER-Dataset_{fmt=n-p2,#l=50}",
+    "completions-dir-name": "24-02-10_00-40-16_Correction-Res_{fmt=n-p2,#cr=3}_{t=0}",
+    "corrections": {
+        "person": [
+            {
+                "sentence": "German Chancellor Angela Merkel meets with French President Emmanuel Macron.",
+                "span": "Angela Merkel",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "American actress Angelina Jolie visits Syrian refugee camp.",
+                "span": "Angelina Jolie",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden announces new infrastructure plan to improve roads and bridges.",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden delivers inaugural address.",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden signs new infrastructure bill into law.",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden to meet with G7 leaders in June.",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "U.S. President Biden to visit Mexico next week.",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Bill Gates donates $1 million to charity.",
+                "span": "Bill Gates",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Legendary musician Bob Dylan announces new album.",
+                "span": "Bob Dylan",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "British Prime Minister Boris Johnson declares national emergency.",
+                "span": "Boris Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian singer Celine Dion cancels world tour due to health issues.",
+                "span": "Celine Dion",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former CEO of Google to testify before Congress.",
+                "span": "CEO of Google",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "CEO of Google",
+                "span_index": null
+            },
+            {
+                "sentence": "Cristiano Ronaldo signs record-breaking contract with new team.",
+                "span": "Cristiano Ronaldo",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "South African activist Desmond Tutu awarded Nobel Peace Prize.",
+                "span": "Desmond Tutu",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Donald Trump launches new social media platform.",
+                "span": "Donald Trump",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO Elon Musk unveils plans for Mars colonization.",
+                "span": "Elon Musk",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX CEO Elon Musk plans mission to Mars.",
+                "span": "Elon Musk",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tesla's Elon Musk breaks ground on new Gigafactory in Texas.",
+                "span": "Elon Musk",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Actress Emma Watson speaks out against gender inequality in Hollywood.",
+                "span": "Emma Watson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "French President Emmanuel Macron proposes new climate change legislation.",
+                "span": "Emmanuel Macron",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "German Chancellor Angela Merkel meets with French President Emmanuel Macron to discuss economic policies.",
+                "span": "Emmanuel Macron",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "German Chancellor Angela Merkel meets with French President Emmanuel Macron.",
+                "span": "Emmanuel Macron",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama endorses candidate for Senate race.",
+                "span": "Former President Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Russian President Vladimir Putin meets with German Chancellor Angela Merkel.",
+                "span": "German Chancellor Angela Merkel",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "American chef Gordon Ramsay opens new restaurant in London.",
+                "span": "Gordon Ramsay",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned chef Gordon Ramsay opens a new restaurant in Los Angeles.",
+                "span": "Gordon Ramsay",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Prince Harry and Meghan Markle welcome baby daughter.",
+                "span": "Harry",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Harry Styles announces world tour dates.",
+                "span": "Harry Styles",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "British author J.K. Rowling announces new book release.",
+                "span": "J.K. Rowling",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Brazilian President Jair Bolsonaro faces criticism over environmental policies.",
+                "span": "Jair Bolsonaro",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Japanese Prime Minister to visit South Korea next week.",
+                "span": "Japanese Prime Minister",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Amazon founder Jeff Bezos goes to space.",
+                "span": "Jeff Bezos",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Amazon founder Jeff Bezos sets new record for space travel.",
+                "span": "Jeff Bezos",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Election results show Johnson in the lead.",
+                "span": "Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Prime Minister Johnson meets with French President Macron.",
+                "span": "Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The renowned chef Julia Child's cookbook sells for a record price at auction.",
+                "span": "Julia Child",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Senator Kamala Harris to visit small businesses in Ohio.",
+                "span": "Kamala Harris",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Kim Kardashian launches new beauty line.",
+                "span": "Kim Kardashian",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Lady Gaga to headline Super Bowl halftime show",
+                "span": "Lady Gaga",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The renowned scientist Marie Curie awarded the Nobel Prize for her groundbreaking research.",
+                "span": "Marie Curie",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO Mark Zuckerberg testifies before Congress on data privacy issues.",
+                "span": "Mark Zuckerberg",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO Mark Zuckerberg testifies before Congress on data privacy.",
+                "span": "Mark Zuckerberg",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "German Chancellor Merkel wins reelection.",
+                "span": "Merkel",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Olympic swimmer Michael Phelps breaks world record.",
+                "span": "Michael Phelps",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden announced new policies on immigration reform.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden announces new infrastructure plan",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden announces new infrastructure plan to rebuild roads and bridges.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden delivers State of the Union address.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden issued a statement on the ongoing conflict in the Middle East.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden signs executive order to boost cybersecurity.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden visits the White House.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden visits troops in Afghanistan.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "German Chancellor Angela Merkel meets with French President Macron.",
+                "span": "President Macron",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama to release memoir next year.",
+                "span": "President Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Prime Minister of India has announced plans to invest in infrastructure to boost economic growth.",
+                "span": "Prime Minister of India",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Meghan Markle and Prince Harry announce their decision to step back from their royal duties.",
+                "span": "Prince Harry",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Professor Jones published a groundbreaking study on climate change.",
+                "span": "Professor Jones",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Swiss tennis player Roger Federer wins Wimbledon championship.",
+                "span": "Roger Federer",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Serena Williams wins Wimbledon championship",
+                "span": "Serena Williams",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Serena Williams wins Wimbledon.",
+                "span": "Serena Williams",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "American singer Taylor Swift donates $1 million to tornado relief efforts in Tennessee.",
+                "span": "Taylor Swift",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pop star Taylor Swift released a new album, causing a frenzy among fans.",
+                "span": "Taylor Swift",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Taylor Swift releases new album",
+                "span": "Taylor Swift",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Taylor Swift Wins Album of the Year at Grammys",
+                "span": "Taylor Swift",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tiger Woods wins the Masters Golf Tournament.",
+                "span": "Tiger Woods",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The famous actor, Tom Hanks, will star in a new biopic about a World War II hero.",
+                "span": "Tom Hanks",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian Prime Minister Trudeau faces backlash over pipeline decision.",
+                "span": "Trudeau",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Russian President Vladimir Putin meets with Chinese leader Xi Jinping.",
+                "span": "Vladimir Putin",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden Signs Executive Order on Climate Change",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "President Biden",
+                "span_index": null
+            },
+            {
+                "sentence": "British Prime Minister Johnson tests positive for COVID-19.",
+                "span": "British Prime Minister Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Prime Minister Johnson",
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama to speak at climate change conference.",
+                "span": "Former President Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Obama",
+                "span_index": null
+            },
+            {
+                "sentence": "French President Macron delivers a speech on national security.",
+                "span": "French President Macron",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "President Macron",
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden to meet with G7 leaders next week.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Biden",
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama to release memoir this fall.",
+                "span": "President Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Obama",
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama to release new memoir.",
+                "span": "President Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Obama",
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama visits Kenya for charity work.",
+                "span": "President Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Obama",
+                "span_index": null
+            },
+            {
+                "sentence": "New Zealand Prime Minister Ardern announces economic stimulus package.",
+                "span": "Prime Minister Ardern",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Ardern",
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian Prime Minister Justin Trudeau visits Indigenous communities.",
+                "span": "Prime Minister Justin Trudeau",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Justin Trudeau",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister announces a new policy to combat climate change.",
+                "span": "Australian Prime Minister",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "British Prime Minister visits India for trade talks.",
+                "span": "British Prime Minister",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "California governor signs bill to address homelessness crisis.",
+                "span": "California governor",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Celebrity couple files for divorce.",
+                "span": "celebrity",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Amazon steps down from role.",
+                "span": "CEO of Amazon",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Japanese scientist wins Nobel Prize for groundbreaking research.",
+                "span": "Japanese scientist",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Newly elected president pledges to address climate change.",
+                "span": "president",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister announces new climate change policy.",
+                "span": "Prime Minister",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Prime Minister of Canada visited a local school in Toronto.",
+                "span": "Prime Minister of Canada",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The prime minister of Italy has resigned amid political turmoil.",
+                "span": "prime minister of Italy",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "New York Times Pulitzer Prize-winning journalist writes investigative report on government corruption.",
+                "span": "Pulitzer Prize-winning journalist",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The Secretary-General of the United Nations is calling for an immediate ceasefire in the region.",
+                "span": "Secretary-General of the United Nations",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            }
+        ],
+        "location": [
+            {
+                "sentence": "Doctor warns of potential outbreak of rare virus in Africa.",
+                "span": "Africa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover new species in the Amazon rainforest.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists discover a new species of lizard in the Amazon rainforest.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists discover new species of butterfly in the Amazon rainforest.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Study shows impact of deforestation on biodiversity in the Amazon rainforest.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Amazon rainforest is at risk of widespread deforestation due to illegal logging.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The President of Brazil has announced plans to address deforestation in the Amazon rainforest.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Brazil's president signs an executive order to address deforestation in the Amazon rainforest.",
+                "span": "Amazon rainforest",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Nature conservation group protests logging in Amazon rainforest.",
+                "span": "Amazon rainforest",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Juventus signs soccer prodigy from Argentina.",
+                "span": "Argentina",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The IMF has approved a new aid package for Argentina to help stabilize its economy.",
+                "span": "Argentina",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Italian restaurant chain announces expansion to Asia.",
+                "span": "Asia",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Australian wildfires destroy acres of land.",
+                "span": "Australian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Wildfires continue to ravage Australian countryside.",
+                "span": "Australian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Brazil experiences record-breaking heatwave, prompting health warnings.",
+                "span": "Brazil",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "British author J.K. Rowling announces new book release.",
+                "span": "British",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "British Prime Minister calls for national healthcare reform.",
+                "span": "British",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "British singer Adele released a new album.",
+                "span": "British",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Apple's new headquarters in Cupertino, California, opened to the public.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "California governor declares state of emergency after earthquake.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "California wildfires continue to threaten homes and wildlife.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "COVID-19 cases surge in California.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Major earthquake hits southern California.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Massive wildfire threatens California town.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Wildfires continue to ravage California forests.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Wildfires continue to ravage California, prompting evacuations.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Wildfires rage through the state of California, destroying thousands of homes.",
+                "span": "California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Prime Minister Trudeau visits Indigenous community in northern Canada.",
+                "span": "Canada",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian Prime Minister Trudeau faces backlash over pipeline decision.",
+                "span": "Canadian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane causes widespread destruction in Caribbean islands.",
+                "span": "Caribbean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Irma devastates Caribbean islands",
+                "span": "Caribbean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane hits Caribbean islands, leaving widespread destruction.",
+                "span": "Caribbean islands",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Florence wreaks havoc in the Carolinas.",
+                "span": "Carolinas",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Starbucks to Open 200 New Stores in China",
+                "span": "China",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The European Union announces new trade agreements with China.",
+                "span": "China",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The European Union Parliament votes against proposed trade agreement with China.",
+                "span": "China",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The iconic landmark, the Eiffel Tower, reopens to tourists after a lengthy renovation.",
+                "span": "Eiffel Tower",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "El Salvador becomes first country to adopt Bitcoin as legal tender",
+                "span": "El Salvador",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA announces new mission to study Europa's ocean.",
+                "span": "Europa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Google's parent company, Alphabet, faces antitrust investigation by the European Union.",
+                "span": "European Union",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane warning issued for Florida coast.",
+                "span": "Florida",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "German Chancellor Angela Merkel meets with French President Emmanuel Macron to discuss economic policies.",
+                "span": "French",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Climate Change Conference will be held in Glasgow later this year.",
+                "span": "Glasgow",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "National Hurricane Center issues warning for Gulf Coast.",
+                "span": "Gulf Coast",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hong Kong protests erupt over proposed extradition law.",
+                "span": "Hong Kong",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Thousands of protesters gathered in Hong Kong to demand democratic reforms.",
+                "span": "Hong Kong",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Florence batters the U.S. East Coast.",
+                "span": "Hurricane Florence",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Florence devastates coastal communities.",
+                "span": "Hurricane Florence",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Laura devastates Louisiana coast.",
+                "span": "Hurricane Laura",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "International Space Station celebrates 20th anniversary",
+                "span": "International Space Station",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX rocket launch successful, delivers supplies to International Space Station.",
+                "span": "International Space Station",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Italy imposes new restrictions to combat the spread of COVID-19.",
+                "span": "Italy",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Japan to host 2021 Summer Olympics despite concerns over COVID-19.",
+                "span": "Japan",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Japan will host the 2021 Olympics despite concerns over the COVID-19 pandemic.",
+                "span": "Japan",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Prime Minister of Japan meets with President of the United States.",
+                "span": "Japan",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Severe flooding hits coastal town in Japan.",
+                "span": "Japan",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Prime Minister of Japan meets with world leaders to discuss economic cooperation.",
+                "span": "Japan",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Kentucky Derby Winner Tests Positive for Banned Substance",
+                "span": "Kentucky",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Famous chef opens new restaurant in London.",
+                "span": "London",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "London named as the host city for 2022 World Athletics Championships.",
+                "span": "London",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "London Stock Exchange experiences record gains.",
+                "span": "London",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "London Stock Exchange experiences record highs.",
+                "span": "London",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Duchess of Cambridge visits a children's hospital in London.",
+                "span": "London",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Los Angeles Lakers sign new star player.",
+                "span": "Los Angeles",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Los Angeles Lakers trade star player to New York Knicks.",
+                "span": "Los Angeles",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA rover discovers evidence of ancient life on Mars.",
+                "span": "Mars",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple plans to open a new store in downtown Miami.",
+                "span": "Miami",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York City announces new public transportation initiative.",
+                "span": "New York City",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York City declares state of emergency due to extreme weather conditions.",
+                "span": "New York City",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York City Mayor announces plan to improve public transportation system.",
+                "span": "New York City",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York City to implement vaccine passport system.",
+                "span": "New York City",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The mayor of New York City unveils a new plan to improve public transportation.",
+                "span": "New York City",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "United Nations General Assembly convenes in New York City.",
+                "span": "New York City",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New Zealand Prime Minister announces new policies to address climate change.",
+                "span": "New Zealand",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New Zealand Prime Minister Ardern announces economic stimulus package.",
+                "span": "New Zealand",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Security Council condemns the recent terrorist attacks in Nigeria.",
+                "span": "Nigeria",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Security Council has voted to impose sanctions on North Korea.",
+                "span": "North Korea",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Wildfires continue to ravage Northern California.",
+                "span": "Northern California",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Olympic Games to be held in Paris in 2024.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week attracts top designers from around the world.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week sees return of in-person runway shows.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week showcases latest designer collections.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The city of Paris is implementing new measures to reduce air pollution.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Philippine president visits China to discuss trade agreements.",
+                "span": "Philippine",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "The United States announces new sanctions on Russia.",
+                "span": "Russia",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States imposes new sanctions on Russia.",
+                "span": "Russia",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Oil prices surge after Saudi Arabia drone attack.",
+                "span": "Saudi Arabia",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "John Doe elected as new mayor of Smalltown, USA.",
+                "span": "Smalltown",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Surge in COVID-19 cases overwhelms hospitals in the South.",
+                "span": "South",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "South\" should be \"South\" or \"South region",
+                "span_index": null
+            },
+            {
+                "sentence": "New COVID-19 variant discovered in South Africa.",
+                "span": "South Africa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "South Africa to implement new COVID-19 restrictions.",
+                "span": "South Africa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The South Korean government has unveiled a new plan to boost the economy through infrastructure investments.",
+                "span": "South Korean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Amazon founder Jeff Bezos goes to space.",
+                "span": "Space",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Swedish pop group ABBA announces a reunion tour.",
+                "span": "Swedish",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "{{Swedish pop group ABBA}}",
+                "span_index": null
+            },
+            {
+                "sentence": "Sydney Opera House reopens to the public.",
+                "span": "Sydney Opera House",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations warns of humanitarian crisis in Syria.",
+                "span": "Syria",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tesla announces plans to build new gigafactory in Texas.",
+                "span": "Texas",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The governor of Texas has declared a state of emergency following severe flooding in the region.",
+                "span": "Texas",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Russia accuses the United States of espionage activities near its border.",
+                "span": "the United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New report ranks Tokyo as the most expensive city in the world.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The mayor of Tokyo unveiled a plan to host the Olympic Games.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics opening ceremony dazzles viewers",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics organizers announce new COVID-19 protocols for athletes.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics postponed due to COVID-19 outbreak.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics postponed due to COVID-19.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics set to begin next week.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics to be held without spectators.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics to proceed without international spectators.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo prepares to host Summer Olympics amid ongoing pandemic.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo to host 2021 Summer Olympics.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Nigerian President Muhammadu Buhari Meets with U.S. Secretary of State",
+                "span": "U.S.",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Angela Merkel visits the United States for diplomatic talks.",
+                "span": "United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The president of the United States issued a statement regarding the recent weather disasters.",
+                "span": "United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States announces new sanctions on Russia.",
+                "span": "United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States announces new trade tariffs on Chinese goods.",
+                "span": "United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States reported a record number of daily COVID-19 cases.",
+                "span": "United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook faces antitrust investigation by US government.",
+                "span": "US",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Record-breaking heatwave hits Western Europe.",
+                "span": "Western Europe",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Serena Williams wins Wimbledon.",
+                "span": "Wimbledon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tennis star Serena Williams wins Wimbledon championship.",
+                "span": "Wimbledon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister visits wildfire affected areas.",
+                "span": "Australian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Australian Prime Minister",
+                "span_index": null
+            },
+            {
+                "sentence": "Russian President Vladimir Putin holds summit with North Korean leader Kim Jong Un.",
+                "span": "North Korean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "North Korean leader Kim Jong Un",
+                "span_index": null
+            },
+            {
+                "sentence": "South Korean President Moon Jae-in meets with North Korean leader Kim Jong-un.",
+                "span": "North Korean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "North Korean leader",
+                "span_index": null
+            },
+            {
+                "sentence": "The European Union is considering imposing tariffs on American products.",
+                "span": "American",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian airline Qantas to resume international flights.",
+                "span": "Australian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian government pledges support for renewable energy initiatives.",
+                "span": "Australian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister announces new climate change policy.",
+                "span": "Australian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "British royal family celebrates the Queen's birthday.",
+                "span": "British",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese government cracks down on cryptocurrency trading.",
+                "span": "Chinese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "European Union imposes new tariffs on Chinese imports.",
+                "span": "Chinese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Russian President Vladimir Putin meets with Chinese leader Xi Jinping.",
+                "span": "Chinese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Tesla has announced a partnership with a Chinese technology company to build a new electric vehicle factory.",
+                "span": "Chinese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Chinese government announces a crackdown on corruption within the Communist Party.",
+                "span": "Chinese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Tokyo Olympics are facing uncertainty as concerns over the COVID-19 pandemic persist.",
+                "span": "COVID-19",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The World Health Organization warns of a potential Ebola outbreak in the Democratic Republic of Congo.",
+                "span": "Ebola",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese president visits European leaders.",
+                "span": "European",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Death toll rises in European flooding disaster.",
+                "span": "European",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Filipino government faces criticism over human rights abuses.",
+                "span": "Filipino",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "German Chancellor Angela Merkel meets with French President Macron.",
+                "span": "French",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hollywood actress Jennifer Lawrence to star in new film.",
+                "span": "Hollywood",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hollywood actress wins Oscar for Best Actress.",
+                "span": "Hollywood",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane leaves trail of destruction in Florida.",
+                "span": "Hurricane",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Irma devastates Caribbean islands",
+                "span": "Hurricane Irma",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Indonesian president calls for increased cooperation on climate change.",
+                "span": "Indonesian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover ancient Mayan city hidden in the jungle.",
+                "span": "Mayan",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Russian President Vladimir Putin meets with Chinese leader Xi Jinping.",
+                "span": "Russian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Russian government denies allegations of election interference.",
+                "span": "Russian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "South Korean boy band BTS breaks streaming record with new album release.",
+                "span": "South Korean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "South Korean pop sensation BTS breaks records with their latest album release.",
+                "span": "South Korean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "South Korean",
+                "span_index": null
+            },
+            {
+                "sentence": "South Korean president addresses nation in New Year's speech.",
+                "span": "South Korean",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "American actress Angelina Jolie visits Syrian refugee camp.",
+                "span": "Syrian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            }
+        ],
+        "organization": [
+            {
+                "sentence": "Amazon founder and CEO becomes world's richest person.",
+                "span": "Amazon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Amazon founder Jeff Bezos steps down as CEO.",
+                "span": "Amazon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Jeff Bezos steps down as CEO of Amazon.",
+                "span": "Amazon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Amazon has announced plans to invest in renewable energy projects.",
+                "span": "Amazon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces launch of new iPhone.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces new iPhone models.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces new iPhone release date.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces new iPhone release.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces record-breaking sales for its latest iPhone model.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple CEO Tim Cook announces plans for sustainable manufacturing.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple CEO unveils new product at tech conference.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple launches new iPhone 12.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple unveils new iPhone 13 models.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple unveils the latest iPhone model at a product launch event.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Apple announced a new product launch.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Apple is expected to announce a new product next week.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Apple, Tim Cook, announced a new product launch.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple Inc. reveals plans for a new line of products.",
+                "span": "Apple Inc.",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple Inc. unveils latest iPhone model.",
+                "span": "Apple Inc.",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple Inc. unveils the new iPhone 13.",
+                "span": "Apple Inc.",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Apple Inc. announced a new product launch.",
+                "span": "Apple Inc.",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Australian government introduces new climate change legislation.",
+                "span": "Australian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian government invests in renewable energy projects.",
+                "span": "Australian government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "Australian government",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian government launches inquiry into banking industry practices.",
+                "span": "Australian government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Open tennis tournament cancelled due to COVID-19.",
+                "span": "Australian Open",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Bank of America introduces new sustainable investing initiative.",
+                "span": "Bank of America",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Barcelona FC appoints new head coach.",
+                "span": "Barcelona FC",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Microsoft to acquire gaming company Bethesda.",
+                "span": "Bethesda",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UK Parliament votes to approve new Brexit deal.",
+                "span": "Brexit",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "South Korean K-pop group BTS breaks new record with latest album.",
+                "span": "BTS",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian Prime Minister Justin Trudeau Announces New Housing Plan",
+                "span": "Canadian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Tesla Elon Musk Denies Securities Fraud Allegations",
+                "span": "CEO",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The United States announces new trade tariffs on Chinese goods.",
+                "span": "Chinese",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Indian pharmaceutical company Cipla receives approval for new drug in the US.",
+                "span": "Cipla",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations convened a special session to discuss climate change.",
+                "span": "climate change",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook founder testifies before Congress.",
+                "span": "Congress",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Facebook grilled by lawmakers in Congressional hearing.",
+                "span": "Congressional",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Delta variant spreads rapidly across Europe.",
+                "span": "Delta variant",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "World Health Organization declares Ebola outbreak a global health emergency.",
+                "span": "Ebola",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The European Central Bank announces an expansion of its stimulus program to support the economy.",
+                "span": "European Central Bank",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The European Space Agency launches new Mars rover mission.",
+                "span": "European Space Agency",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "European Union leaders meet to discuss climate change and environmental policies.",
+                "span": "European Union",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Google faces antitrust investigation from European Union.",
+                "span": "European Union",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The European Union Parliament votes against proposed trade agreement with China.",
+                "span": "European Union",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook CEO testifies before Congress about the company's data privacy practices.",
+                "span": "Facebook",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook faces allegations of antitrust violations.",
+                "span": "Facebook",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook is facing criticism for its handling of misinformation on the platform.",
+                "span": "Facebook",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook under fire for data privacy breach.",
+                "span": "Facebook",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Facebook's CEO testified before Congress on data privacy issues.",
+                "span": "Facebook",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Facebook has testified before Congress about data privacy concerns.",
+                "span": "Facebook",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Federal Reserve announces interest rate hike.",
+                "span": "Federal Reserve",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "French government proposes new tax reforms.",
+                "span": "French government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "G20 Summit concludes with new global economic recovery plan.",
+                "span": "G20",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister Morrison addresses climate change at G7 summit.",
+                "span": "G7",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Germany to Host G7 Summit Next Year",
+                "span": "G7",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Angela Merkel wins reelection as German Chancellor.",
+                "span": "German Chancellor",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Goldman Sachs CEO testifies before Congress.",
+                "span": "Goldman Sachs",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Google steps down.",
+                "span": "Google",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Google testifies before Congress.",
+                "span": "Google",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Google announces expansion of data center in Midwest region.",
+                "span": "Google",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Google faces antitrust lawsuit in Europe.",
+                "span": "Google",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Broadway musical Hamilton to return to theaters next year.",
+                "span": "Hamilton",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New research from Harvard University identifies potential treatment for Alzheimer's disease.",
+                "span": "Harvard University",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Florence Causes Devastation in North Carolina",
+                "span": "Hurricane Florence",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Maria causes widespread devastation in Puerto Rico.",
+                "span": "Hurricane Maria",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian Prime Minister Justin Trudeau visits Indigenous communities.",
+                "span": "Indigenous",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The International Monetary Fund warned of a global economic downturn.",
+                "span": "International Monetary Fund",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces record-breaking sales for its latest iPhone model.",
+                "span": "iPhone",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The Italian government is facing backlash over its immigration policies.",
+                "span": "Italian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Italian government announces plan to invest in renewable energy.",
+                "span": "Italian government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "Italian government",
+                "span_index": null
+            },
+            {
+                "sentence": "Japanese automaker Toyota recalls millions of vehicles.",
+                "span": "Japanese",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "London Stock Exchange experiences record high trading volume.",
+                "span": "London Stock Exchange",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "London Stock Exchange experiences record trading volume.",
+                "span": "London Stock Exchange",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Cristiano Ronaldo signs with Manchester United",
+                "span": "Manchester United",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Microsoft steps down amid controversy.",
+                "span": "Microsoft",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Microsoft steps down.",
+                "span": "Microsoft",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Microsoft acquires cybersecurity firm.",
+                "span": "Microsoft",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Microsoft Reports Record Profits in Q2",
+                "span": "Microsoft",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Microsoft has announced a major restructuring of the company's leadership team.",
+                "span": "Microsoft",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer and Moderna CEOs testify before Senate committee on vaccine distribution.",
+                "span": "Moderna",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Taylor Swift to receive humanitarian award at the MTV Music Awards.",
+                "span": "MTV Music Awards",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA announces plans for a manned mission to Mars in the next decade.",
+                "span": "NASA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Mars rover discovered evidence of ancient microbial life.",
+                "span": "NASA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NBA Finals to be held in Phoenix for the first time.",
+                "span": "NBA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NBA player LeBron James signs multi-million dollar endorsement deal.",
+                "span": "NBA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NBA superstar LeBron James signs new endorsement deal.",
+                "span": "NBA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Los Angeles Lakers trade star player to New York Knicks.",
+                "span": "New York Knicks",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York Stock Exchange experiences record-breaking gains.",
+                "span": "New York Stock Exchange",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York Times Pulitzer Prize-winning journalist writes investigative report on government corruption.",
+                "span": "New York Times",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Tokyo Olympics are facing uncertainty as concerns over the COVID-19 pandemic persist.",
+                "span": "Olympics",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Perseverance rover discovers evidence of ancient life on Mars.",
+                "span": "Perseverance",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer announces new COVID-19 vaccine booster shot",
+                "span": "Pfizer",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer announces new vaccine efficacy data against COVID-19 variants.",
+                "span": "Pfizer",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer announces plans for booster shots in response to new COVID variants.",
+                "span": "Pfizer",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer seeks approval for COVID-19 vaccine booster.",
+                "span": "Pfizer",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations High Commissioner for Refugees provides emergency assistance to Rohingya refugees in Bangladesh.",
+                "span": "Rohingya",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "European Union imposes sanctions on Russian officials.",
+                "span": "Russian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer and Moderna CEOs testify before Senate committee on vaccine distribution.",
+                "span": "Senate committee",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Elon Musk's SpaceX successfully launches 60 Starlink satellites into orbit.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Elon Musk's SpaceX successfully launches another batch of Starlink satellites.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX CEO Elon Musk announces plans for manned mission to Mars.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX founder Elon Musk becomes world's wealthiest person.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX founder Elon Musk launches new electric car company.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX launches a new batch of Starlink satellites into orbit.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX launches new satellite into orbit.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "SpaceX successfully launches mission to Mars",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Lady Gaga to headline Super Bowl halftime show",
+                "span": "Super Bowl",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Tesla tweets controversial statement.",
+                "span": "Tesla",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of Tesla, Elon Musk, becomes the world's richest person.",
+                "span": "Tesla",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tesla CEO Elon Musk becomes world's richest person.",
+                "span": "Tesla",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The CEO of Tesla announced a new electric car model at the conference.",
+                "span": "Tesla",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations issues a statement condemning the recent terrorist attacks in Europe.",
+                "span": "The United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States announced a new trade deal with Mexico and Canada.",
+                "span": "The United States",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics faces new challenges amid pandemic.",
+                "span": "Tokyo Olympics",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Twitter bans accounts spreading misinformation about COVID-19 vaccines.",
+                "span": "Twitter",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "U.N. Secretary-General calls for global ceasefire.",
+                "span": "U.N. Secretary-General",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The U.S. House of Representatives passed the bill with a vote of 220-212.",
+                "span": "U.S. House of Representatives",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UK Parliament votes to approve new Brexit deal.",
+                "span": "UK Parliament",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations convened a special session to discuss climate change.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations issued a report today on the impact of climate change.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "United Nations calls for immediate ceasefire in war-torn region.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "United Nations General Assembly convenes in New York City.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "United Nations releases report on global hunger crisis.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Iranian President Rouhani addresses United Nations General Assembly.",
+                "span": "United Nations General Assembly",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Security Council condemns the recent terrorist attacks in the Middle East.",
+                "span": "United Nations Security Council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Security Council held an emergency meeting on the crisis in the Middle East.",
+                "span": "United Nations Security Council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Security Council passed a resolution condemning the recent acts of aggression.",
+                "span": "United Nations Security Council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States imposes new sanctions on Russia.",
+                "span": "United States",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The World Bank has approved a loan for infrastructure development in developing countries.",
+                "span": "World Bank",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "World Health Organization declares new Covid-19 variant a \"variant of concern.\"",
+                "span": "World Health Organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "World Health Organization issues new guidelines for COVID-19 vaccinations.",
+                "span": "World Health Organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "London Stock Exchange experiences record gains.",
+                "span": "Stock Exchange",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "London Stock Exchange",
+                "span_index": null
+            },
+            {
+                "sentence": "Egyptian archaeologists uncover ancient tomb in Luxor.",
+                "span": "Egyptian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Angela Merkel reelected as German Chancellor.",
+                "span": "German",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Prime Minister Trudeau visits Indigenous community in northern Canada.",
+                "span": "Indigenous",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Perseverance rover discovers ancient river delta on Mars.",
+                "span": "Perseverance",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Indonesian president calls for increased cooperation on climate change.",
+                "span": "president",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister visits wildfire affected areas.",
+                "span": "Prime Minister",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover new species of deep-sea jellyfish.",
+                "span": "researchers",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "New research from Harvard University identifies potential treatment for Alzheimer's disease.",
+                "span": "Alzheimer's",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pfizer announces new vaccine efficacy data against COVID-19 variants.",
+                "span": "COVID-19",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Kingdom imposes stricter travel restrictions due to COVID-19.",
+                "span": "COVID-19",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Delta variant of COVID-19 spreads rapidly in Texas.",
+                "span": "Delta",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple unveils the latest iPhone model at a product launch event.",
+                "span": "iPhone",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Typhoon Hits Philippines, Leaving Thousands Displaced",
+                "span": "Typhoon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            }
+        ]
+    }
+}

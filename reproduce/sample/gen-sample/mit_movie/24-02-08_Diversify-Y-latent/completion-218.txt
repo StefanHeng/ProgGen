@@ -1,0 +1,8 @@
+1. "Can you recommend a musical with a coming-of-age journey?"
+   Named Entities: [Musical (Genre), Coming-of-age journey (Plot)]
+
+2. "I'm interested in a treasure hunt movie that is rated GP, can you suggest any?"
+   Named Entities: [treasure hunt (Plot), GP (MPAA Rating)]
+
+3. "Which movie released in 1999 has a plot that revolves around a treasure hunt?"
+   Named Entities: [1999 (Year), treasure hunt (Plot)]

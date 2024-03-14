@@ -1,0 +1,11 @@
+1. Sentence: "{{Oaxaca}}, Mexico is renowned for its rich culinary traditions, making it a must-visit destination for food enthusiasts from around the world."
+Text Span: "Oaxaca"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "In Greek mythology, the River Styx was a deity and a principal river that formed the boundary between Earth and the Underworld, {{Hades}}."
+Text Span: "Hades"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Sentence: "The geography of {{New York City}} includes five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each with its own distinct neighborhoods and landmarks."
+Text Span: "New York City"
+Label: (A). The span is a named entity of type location

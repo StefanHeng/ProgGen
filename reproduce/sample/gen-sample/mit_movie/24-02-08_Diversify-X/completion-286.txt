@@ -1,0 +1,8 @@
+1. Query: "Can you give me a brief overview of the plot for the movie Inception"
+Named Entities: [Inception (Title), plot overview (Plot)]
+
+2. Query: "Is the movie The Shawshank Redemption really as good as people say it is"
+Named Entities: [The Shawshank Redemption (Title), good as people say (Review)]
+
+3. Query: "I'm not sure if I believe the hype, but can you tell me about the storyline for the movie The Godfather"
+Named Entities: [The Godfather (Title), storyline (Plot)]

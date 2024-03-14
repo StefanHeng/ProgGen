@@ -1,0 +1,8 @@
+Query: "Where is the nearest restaurant that serves brunch"
+Named Entities: [brunch (Amenity), nearest (Location)]
+
+Query: "I'm looking for a restaurant with a tasting menu for brunch"
+Named Entities: [tasting menu (Amenity), brunch (Amenity)]
+
+Query: "What are some restaurants with tasting menus that serve brunch in this area"
+Named Entities: [tasting menus (Amenity), brunch (Amenity), area (Location)]

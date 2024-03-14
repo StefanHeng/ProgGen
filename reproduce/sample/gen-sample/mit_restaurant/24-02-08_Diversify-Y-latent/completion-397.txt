@@ -1,0 +1,8 @@
+Query: "I'm craving some sushi right now, where can I find the best sushi in the area?"
+Named Entities: [sushi (Cuisine), best (Rating), area (Location)]
+
+Query: "I want a restaurant with outdoor seating and a view for late afternoon dining"
+Named Entities: [outdoor seating (Amenity), view (Amenity), late afternoon (Hours)]
+
+Query: "What's a good place for a quick bite that won't break the bank?"
+Named Entities: [good (Rating), quick bite (Amenity), won't break the bank (Price)

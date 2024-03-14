@@ -1,0 +1,8 @@
+Query: "which restaurant offers a buffet for dinner tonight"
+Named Entities: [buffet (Amenity), dinner tonight (Hours)]
+
+Query: "what's the best place for a buffet lunch in the downtown area"
+Named Entities: [buffet (Amenity), lunch (Price), downtown area (Location)]
+
+Query: "show me a restaurant with a seafood buffet for under 20 dollars"
+Named Entities: [seafood (Cuisine), buffet (Amenity), under 20 dollars (Price)]

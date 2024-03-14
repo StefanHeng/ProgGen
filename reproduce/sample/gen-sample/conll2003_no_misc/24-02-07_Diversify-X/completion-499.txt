@@ -1,0 +1,8 @@
+Sentence: "Hurricane Karen expected to make landfall in the Carolinas."
+Named Entities: [Hurricane Karen (location), Carolinas (location)]
+
+Sentence: "Record-breaking heatwave hits Western Europe."
+Named Entities: [Western Europe (location)]
+
+Sentence: "National Weather Service issues tornado warning for Midwest."
+Named Entities: [National Weather Service (organization), Midwest (location)]

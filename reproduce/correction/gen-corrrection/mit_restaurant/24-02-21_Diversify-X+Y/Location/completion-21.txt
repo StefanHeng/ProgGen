@@ -1,0 +1,8 @@
+1. Text Span: "closest"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area".
+
+3. Text Span: "area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area".

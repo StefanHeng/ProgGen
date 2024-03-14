@@ -1,0 +1,29 @@
+1. Newly elected president pledges to address climate change.
+Named Entities: [president (person)]
+
+2. Los Angeles Dodgers clinch playoff spot.
+Named Entities: [Los Angeles Dodgers (organization)]
+
+3. Paris, France experiences record high temperatures.
+Named Entities: [Paris (location), France (location)]
+
+4. CEO of Apple Inc. announces new product launch.
+Named Entities: [Apple Inc. (organization)]
+
+5. Famous actor arrested for DUI.
+Named Entities: [actor (person)]
+
+6. United Nations calls for peace negotiations in the Middle East.
+Named Entities: [United Nations (organization), Middle East (location)]
+
+7. British Prime Minister visits India for trade talks.
+Named Entities: [British Prime Minister (person), India (location)]
+
+8. Major earthquake hits Tokyo, Japan.
+Named Entities: [Tokyo (location), Japan (location)]
+
+9. World Health Organization declares global pandemic.
+Named Entities: [World Health Organization (organization)]
+
+10. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]

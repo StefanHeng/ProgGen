@@ -1,0 +1,8 @@
+1. Query: "hey, can I watch the movie Titanic on Netflix?"
+Named Entities: [Titanic (Title), Netflix (Streaming platform)]
+
+2. Query: "is there a movie from the 90s with a killer soundtrack available on Amazon Prime?"
+Named Entities: [90s (Year), killer soundtrack (Song), Amazon Prime (Streaming platform)]
+
+3. Query: "show me a thriller directed by Alfred Hitchcock that I can stream on Hulu"
+Named Entities: [thriller (Genre), Alfred Hitchcock (Director), Hulu (Streaming platform)]

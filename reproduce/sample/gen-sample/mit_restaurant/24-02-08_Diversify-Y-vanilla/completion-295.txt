@@ -1,0 +1,8 @@
+1. "What time does The Original Papa Joe's Restaurant close on Sundays?"
+Named Entities: [The Original Papa Joe's Restaurant (Restaurant Name), Sundays (Hours)]
+
+2. "I'm looking for a restaurant that serves Italian cuisine and has a patio."
+Named Entities: [Italian (Cuisine), patio (Amenity)]
+
+3. "Is Cooper's Hawk Winery & Restaurants in the downtown area?"
+Named Entities: [Cooper's Hawk Winery & Restaurants (Restaurant Name), downtown area (Location)]

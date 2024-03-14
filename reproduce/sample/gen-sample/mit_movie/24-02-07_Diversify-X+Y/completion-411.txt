@@ -1,0 +1,8 @@
+1. "I heard that there's a new spy movie getting great reviews and I'm curious to know more about it."
+Named Entities: [spy (Genre), great reviews (Review)]
+
+2. "I'm looking for a movie with a compelling plot and a bit of suspense. Any ideas?"
+Named Entities: [compelling plot (Plot), suspense (Genre)]
+
+3. "I'm interested in watching a film that has a lot of action and excitement. Any recommendations?"
+Named Entities: [action (Genre), excitement (Viewers' Rating)]

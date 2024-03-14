@@ -1,0 +1,8 @@
+1. Text Span: "The Walt Disney Company"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Marathon"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+3. Text Span: "NASA"
+Label: (A). The span is a named entity of type organization

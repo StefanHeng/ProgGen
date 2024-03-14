@@ -1,0 +1,8 @@
+1. Text Span: "reservation"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "best place"
+Label: (C). Wrong Type. The correct entity type is Rating.
+
+3. Text Span: "special occasion"
+Label: (A). The span is a named entity of type amenity

@@ -1,0 +1,8 @@
+1. Text Span: "educational program"
+Label: (C). Not a Named Entity. Entity type: other
+
+2. Text Span: "Cape Town Fashion Week"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "The Grand Canyon Observatory"
+Label: (A). The span is a named entity of type organization

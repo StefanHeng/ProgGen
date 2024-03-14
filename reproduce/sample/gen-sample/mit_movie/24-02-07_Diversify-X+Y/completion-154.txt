@@ -1,0 +1,8 @@
+1. "Is the musical movie 'La La Land' available on any streaming platforms?"
+Named Entities: ['La La Land' (Title), musical (Genre), streaming platforms (Viewers' Rating)]
+
+2. "Can I stream the coming of age film 'Lady Bird' anywhere?"
+Named Entities: ['Lady Bird' (Title), coming of age (Genre), stream (Viewers' Rating)]
+
+3. "Are there any streaming platforms that have the NR movie 'The Florida Project'?"
+Named Entities: ['The Florida Project' (Title), NR (MPAA Rating), streaming platforms (Viewers' Rating)]

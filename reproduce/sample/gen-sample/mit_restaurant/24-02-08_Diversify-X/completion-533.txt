@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with late-night dining and takeout options?"
+   Named Entities: [late-night dining (Amenity), takeout (Amenity)]
+
+2. "I'm looking for a place to grab some late-night takeout, preferably with a diverse menu."
+   Named Entities: [late-night (Hours), takeout (Amenity)]
+
+3. "Where can I find a restaurant open late that offers takeout?"
+   Named Entities: [open late (Hours), takeout (Amenity)]

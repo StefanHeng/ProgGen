@@ -1,0 +1,8 @@
+1. "I'm craving some Irish food, can you recommend a restaurant with good ratings?"
+Named Entities: [Irish (Cuisine), good ratings (Rating)]
+
+2. "Where can I find the nearest Irish pub with live music?"
+Named Entities: [nearest (Location), Irish pub (Cuisine), live music (Amenity)]
+
+3. "I'm looking for a family-friendly Irish restaurant with affordable prices, do you have any recommendations?"
+Named Entities: [family-friendly (Amenity), Irish restaurant (Cuisine), affordable prices (Price)]

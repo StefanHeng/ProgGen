@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, can you recommend a good burger joint nearby?"
+Named Entities: [fast food (Cuisine), burger joint (Restaurant Name), nearby (Location)]
+
+Query: "What are the hours of operation for In-N-Out Burger?"
+Named Entities: [In-N-Out Burger (Restaurant Name), hours of operation (Hours)]
+
+Query: "Where can I find affordable tacos around here?"
+Named Entities: [affordable (Price), tacos (Dish), around here (Location)]

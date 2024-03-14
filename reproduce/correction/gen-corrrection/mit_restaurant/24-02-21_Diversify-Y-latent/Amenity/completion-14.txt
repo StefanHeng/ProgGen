@@ -1,0 +1,8 @@
+1. Text Span: "romantic"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "discounted"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "discounted barbecue options"
+
+3. Text Span: "Top"
+Label: (C). Wrong Type. The correct entity type is other.

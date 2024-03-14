@@ -1,0 +1,8 @@
+Query: "I'm in the mood for an upscale and elegant Japanese restaurant for a paleo-friendly lunch"
+Named Entities: [upscale and elegant (Amenity), Japanese (Cuisine), paleo-friendly (Dietary Restriction), lunch (Meal Category)]
+
+Query: "Can you recommend an elegant lunch spot with paleo options, maybe a PF Chang's location?"
+Named Entities: [elegant (Amenity), paleo options (Dietary Restriction), PF Chang's (Restaurant Name), lunch (Meal Category)]
+
+Query: "Where can I find a fancy Japanese restaurant in the area that serves paleo-friendly dishes for lunch?"
+Named Entities: [fancy (Amenity), Japanese (Cuisine), paleo-friendly (Dietary Restriction), lunch (Meal Category)]

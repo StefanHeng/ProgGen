@@ -1,0 +1,8 @@
+Query: "Can you recommend a breakfast spot with outdoor seating and a high rating?"
+Named Entities: [breakfast (Amenity), outdoor seating (Amenity), high rating (Rating)]
+
+Query: "I'm looking for a place with a cozy atmosphere that serves pancakes and is located near the city center."
+Named Entities: [pancakes (Dish), cozy atmosphere (Amenity), city center (Location)]
+
+Query: "Where can I find a coffee shop with a breakfast menu that opens at 7 a.m. close to my hotel?"
+Named Entities: [coffee shop (Amenity), breakfast menu (Amenity), opens at 7 a.m. (Hours), close to my hotel (Location)]

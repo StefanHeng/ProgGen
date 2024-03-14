@@ -1,0 +1,8 @@
+Query: "Has the movie Toy Story won any awards?"
+Named Entities: [Toy Story (Title), Awards]
+
+Query: "What movie from the 2010s has the most nominations?"
+Named Entities: [2010s (Year), nominations]
+
+Query: "Are there any action movies with lots of awards?"
+Named Entities: [action (Genre), Awards]

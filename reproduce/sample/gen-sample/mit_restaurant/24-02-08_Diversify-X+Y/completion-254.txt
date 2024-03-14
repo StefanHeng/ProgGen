@@ -1,0 +1,8 @@
+Query: "Can you recommend a beachfront café with a great fruit tart?"
+Named Entities: [beachfront (Amenity), café (Cuisine), fruit tart (Dish)]
+
+Query: "I'm craving a fruit tart by the waterfront, can you suggest a café?"
+Named Entities: [waterfront (Amenity), fruit tart (Dish), café (Cuisine)]
+
+Query: "I need to find a café near the beachfront that serves delicious fruit tart"
+Named Entities: [beachfront (Amenity), café (Cuisine), fruit tart (Dish)]

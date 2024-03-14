@@ -1,0 +1,8 @@
+1. "What year was Nurse Ratched first introduced in the movie industry?"
+Named Entities: [Nurse Ratched (Character)]
+
+2. "Can you recommend any movies with Morgan Freeman that are rated NR-17?"
+Named Entities: [Morgan Freeman (Actor), NR-17 (MPAA Rating)]
+
+3. "Show me a historical film released in 1995 with a female protagonist"
+Named Entities: [1995 (Year), History (Genre)]

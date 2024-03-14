@@ -1,0 +1,8 @@
+1. Query: "Can you find production featurettes for the movie directed by David Yates that features Hermione Granger as a main character?"
+Named Entities: [David Yates (Director), Hermione Granger (Character), Production featurettes]
+
+2. Query: "Are there any on-location shooting films starring Viola Davis?"
+Named Entities: [Viola Davis (Actor), on-location shooting]
+
+3. Query: "I'm looking for a behind-the-scenes documentary about a treasure hunt movie released in the past decade."
+Named Entities: [treasure hunt (Plot), Behind-the-scenes, past decade (Year)]

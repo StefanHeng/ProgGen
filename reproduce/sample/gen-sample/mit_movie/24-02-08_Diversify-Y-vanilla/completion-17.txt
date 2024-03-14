@@ -1,0 +1,8 @@
+1. Query: "What is the MPAA rating for The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), MPAA (MPAA Rating)]
+
+2. Query: "Show me an animation musical released in 1969"
+Named Entities: [1969 (Year), Animation musical (Genre)]
+
+3. Query: "Is there any LGBTQ+ character in the Batman film?"
+Named Entities: [LGBTQ+ (Genre), Batman (Title), character (Character)]

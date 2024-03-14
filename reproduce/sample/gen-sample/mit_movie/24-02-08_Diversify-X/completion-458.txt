@@ -1,0 +1,8 @@
+1. Query: "Can you play the trailer for the classic movie Ghostbusters?"
+Named Entities: [classic movie Ghostbusters (Title)]
+
+2. Query: "I remember a movie with an iconic soundtrack - can you show me a snippet of the trailer for The Bodyguard?"
+Named Entities: [iconic soundtrack (Song), The Bodyguard (Title)]
+
+3. Query: "I'm feeling nostalgic for the 80s - can you play the teaser for the film E.T. the Extra-Terrestrial?"
+Named Entities: [nostalgic (Viewers' Rating), 80s (Year), E.T. the Extra-Terrestrial (Title)]

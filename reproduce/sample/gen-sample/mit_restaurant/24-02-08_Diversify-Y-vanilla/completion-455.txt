@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a casual dining restaurant in Denver that serves delicious eggplant parmesan?"
+Named Entities: [casual dining (Amenity), Denver (Location), eggplant parmesan (Dish)]
+
+2. Query: "What are the hours of the Italian restaurant with the best reviews in this area?"
+Named Entities: [Italian (Cuisine), best reviews (Rating), this area (Location), hours (Hours)]
+
+3. Query: "I'm looking for a reasonably priced Mexican restaurant with a great patio for outdoor dining"
+Named Entities: [reasonably priced (Price), Mexican (Cuisine), great patio (Amenity), outdoor dining (Amenity)]

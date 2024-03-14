@@ -1,0 +1,8 @@
+1. "I'm in the mood for some fast food, where can I find a place with gourmet burgers?"
+Named Entities: [fast food (Cuisine), gourmet burgers (Dish), place with expensive price range (Price)]
+
+2. "I want to grab a quick bite, where can I get some high-end tacos in this area?"
+Named Entities: [fast food (Cuisine), high-end tacos (Dish), this area (Location), place with expensive price range (Price)]
+
+3. "I need to find a place for a fancy fast food meal, where can I get some upscale chicken sandwiches?"
+Named Entities: [fast food (Cuisine), upscale chicken sandwiches (Dish), place with expensive price range (Price)]

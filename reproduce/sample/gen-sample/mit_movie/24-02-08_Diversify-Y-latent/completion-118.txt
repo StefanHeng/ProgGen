@@ -1,0 +1,8 @@
+1. "Can you recommend a movie starring Alicia Vikander with supernatural powers?"
+Named Entities: [Alicia Vikander (Actor), supernatural powers (Plot)]
+
+2. "Show me a psychological thriller about an undercover operation."
+Named Entities: [psychological (Genre), undercover operation (Plot)]
+
+3. "What is the genre of the movie M?"
+Named Entities: [M (Title)]

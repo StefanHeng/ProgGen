@@ -1,0 +1,8 @@
+1. "Which film won the most Oscars in 2020?"
+Named Entities: [most Oscars (Awards), 2020 (Year)]
+
+2. "Can you recommend a movie that received both Golden Globe and BAFTA nominations?"
+Named Entities: [Golden Globe (Awards), BAFTA (Awards)]
+
+3. "I'm looking for a film that was both a box office success and won several prestigious awards. Any suggestions?"
+Named Entities: [box office success (Viewers' Rating), prestigious awards (Awards)]

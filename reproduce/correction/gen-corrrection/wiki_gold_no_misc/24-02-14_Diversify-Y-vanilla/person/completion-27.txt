@@ -1,0 +1,11 @@
+1. Sentence: "The founder of the European Union, {{Robert Schuman}}, was a key figure in the establishment of the Coal and Steel Community."
+Text Span: "Robert Schuman"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "In 2012, {{Usain Bolt}} became the first person to ever win three Olympic gold medals in the 100 meters."
+Text Span: "Usain Bolt"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Stephen Hawking}}'s best-known book, A Brief History of Time, delves into complex scientific theories in a way that is accessible to general readers."
+Text Span: "Stephen Hawking"
+Label: (A). The span is a named entity of type person

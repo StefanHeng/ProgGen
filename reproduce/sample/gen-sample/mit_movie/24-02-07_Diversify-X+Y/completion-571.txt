@@ -1,0 +1,8 @@
+1. Query: "Can you provide the plot summary for the movie The Sixth Sense?"
+Named Entities: [The Sixth Sense (Title), plot summary (Plot)]
+
+2. Query: "Is there a movie with an alien invasion plot rated R that I should watch?"
+Named Entities: [alien invasion (Plot), R (MPAA Rating)]
+
+3. Query: "What is the plot synopsis of the film M?"
+Named Entities: [M (Title), plot synopsis (Plot)]

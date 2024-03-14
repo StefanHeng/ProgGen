@@ -1,0 +1,8 @@
+1. "I'm craving some BBQ, can you recommend the highest rated spot in the area?"
+Named Entities: [BBQ (Cuisine), highest rated (Rating), area (Location)]
+
+2. "Do you know of any Nepalese restaurants that are open past 10 pm?"
+Named Entities: [Nepalese (Cuisine), open past 10 pm (Hours)]
+
+3. "I'm looking for a restaurant with a nice outdoor patio and a diverse menu, any suggestions?"
+Named Entities: [nice outdoor patio (Amenity), diverse menu (Amenity)]

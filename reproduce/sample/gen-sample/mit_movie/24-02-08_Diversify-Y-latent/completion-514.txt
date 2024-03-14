@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an Urban Fantasy movie that is considered unpredictable"
+Named Entities: [Urban fantasy (Genre), unpredictable (Review)]
+
+2. Query: "What's a PG rated movie with a captivating plot"
+Named Entities: [PG (MPAA Rating), captivating (Plot)]
+
+3. Query: "Is there a new release with R rating that features strong character development"
+Named Entities: [R (MPAA Rating), strong character development (Character)]

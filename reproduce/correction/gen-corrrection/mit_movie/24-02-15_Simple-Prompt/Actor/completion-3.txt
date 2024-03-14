@@ -1,0 +1,8 @@
+1. Text Span: "actor"
+Label: (D). Not a Named Entity
+
+2. Text Span: "primary actors"
+Label: (D). Not a Named Entity
+
+3. Text Span: "Tom Hanks"
+Label: (A). Named entity of type Actor

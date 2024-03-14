@@ -1,0 +1,8 @@
+Query: "What is the genre and subgenre of the film 'The Shawshank Redemption' directed by Frank Darabont?"
+Named Entities: ['The Shawshank Redemption' (Title), Frank Darabont (Director)]
+
+Query: "Can you provide me with the genre and subgenre of the movie 'Inception' from 2010?"
+Named Entities: ['Inception' (Title), 2010 (Year)]
+
+Query: "I would like to know the genre and subgenre of the film 'The Godfather' directed by Francis Ford Coppola."
+Named Entities: ['The Godfather' (Title), Francis Ford Coppola (Director)]

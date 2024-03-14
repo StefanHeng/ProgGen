@@ -1,0 +1,8 @@
+Query: "can you recommend a highly rated restaurant with a buffet option"
+Named Entities: [highly rated (Rating), buffet (Amenity)]
+
+Query: "what's the address for Blue Hill at Stone Barns"
+Named Entities: [Blue Hill at Stone Barns (Restaurant Name)]
+
+Query: "I'm craving Indian cuisine, where can I find a good Indian restaurant nearby"
+Named Entities: [Indian cuisine (Cuisine), nearby (Location)]

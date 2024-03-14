@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a classic sci-fi movie with a five-star rating?"
+Named Entities: [classic (Genre), sci-fi (Genre), five-star (Viewers' Rating)]
+
+2. Query: "What wilderness survival film features a character similar to Catwoman?"
+Named Entities: [wilderness survival (Genre), Catwoman (Character)]
+
+3. Query: "Show me a Trinity-related movie with high viewers' rating"
+Named Entities: [Trinity (Character), high viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with a good selection of General Tso's chicken?"
+Named Entities: [good (Rating), General Tso's chicken (Dish)]
+
+2. Query: "I'm craving General Tso's chicken, where can I find a place that serves it at a reasonable price?"
+Named Entities: [reasonable price (Price), General Tso's chicken (Dish)]
+
+3. Query: "I'm in the mood for General Tso's chicken, is there a restaurant nearby that specializes in Chinese cuisine?"
+Named Entities: [nearby (Location), Chinese cuisine (Cuisine), General Tso's chicken (Dish)]

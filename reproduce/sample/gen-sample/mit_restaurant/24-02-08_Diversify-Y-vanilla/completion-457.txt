@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in Las Vegas?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), Las Vegas (Location)]
+
+Query: "Can you recommend any vegan-friendly restaurants near the Las Vegas Strip?"
+Named Entities: [vegan-friendly (Amenity), Las Vegas Strip (Location)]
+
+Query: "I'm looking for a sushi place with outdoor seating in Las Vegas."
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), Las Vegas (Location)]

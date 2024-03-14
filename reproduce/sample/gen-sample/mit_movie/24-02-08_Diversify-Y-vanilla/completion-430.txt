@@ -1,0 +1,8 @@
+Query: "what is the name of the movie featuring the song Suspicious Minds"
+Named Entities: [Suspicious Minds (Song)]
+
+Query: "have you seen the new movie starring Benedict Cumberbatch"
+Named Entities: [Benedict Cumberbatch (Actor)]
+
+Query: "show me a trailer for Tiny Dancer in the film industry"
+Named Entities: [Tiny Dancer (Trailer)]

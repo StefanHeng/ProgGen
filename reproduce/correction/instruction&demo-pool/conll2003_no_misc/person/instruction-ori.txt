@@ -1,0 +1,5 @@
+A named person entity must be the name of a person.
+Only first names, last names, and full names are considered named person entities.
+General reference to a person or people such as "actress", "chef", "CEO", "woman", "high school student", "Prime Minister of India" and "CEO of Google" are not named entities.
+A named person entity should not have any starting titles such as "President", "Prime Minister", "Mayor", "Professor" and "Dr".
+Titles such as "President of Iceland" and "Prime Minister of Australia" are also not relevant named entities.

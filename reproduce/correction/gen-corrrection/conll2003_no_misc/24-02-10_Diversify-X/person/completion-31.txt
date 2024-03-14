@@ -1,0 +1,8 @@
+1. Text Span: "President Biden"
+Label: (A)
+
+2. Text Span: "Mayor Johnson"
+Label: (A)
+
+3. Text Span: "local hero"
+Label: (C), entity type: other

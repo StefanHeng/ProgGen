@@ -1,0 +1,8 @@
+1. "Can you recommend a place that serves a good cheeseburger?"
+Named Entities: [cheeseburger (Dish)]
+
+2. "I'm craving Mexican food, where can I find a Mexican restaurant nearby?"
+Named Entities: [Mexican (Cuisine), nearby (Location)]
+
+3. "Do you know of any restaurants that offer discounted items during happy hour?"
+Named Entities: [discounted items (Amenity), happy hour (Amenity)]

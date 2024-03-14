@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a film starring Gerard Butler and directed by Antoine Fuqua?" 
+   Named Entities: [Gerard Butler (Actor), Antoine Fuqua (Director)]
+
+2. Query: "Show me a movie with Idris Elba that has a high viewers' rating."
+   Named Entities: [Idris Elba (Actor), high viewers' rating (Viewers' Rating)]
+
+3. Query: "What is the plot of the latest movie featuring Gerard Butler and Idris Elba?"
+   Named Entities: [Gerard Butler (Actor), Idris Elba (Actor)]

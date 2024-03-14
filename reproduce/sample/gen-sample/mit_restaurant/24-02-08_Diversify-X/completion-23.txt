@@ -1,0 +1,8 @@
+1. "Can you recommend a brunch spot with waterfront views?"
+Named Entities: [brunch (Amenity), waterfront views (Amenity)]
+
+2. "I'm craving a waterfront brunch, where can I find one?"
+Named Entities: [waterfront (Location), brunch (Amenity)]
+
+3. "What are some good restaurants with brunch and a view of the water?"
+Named Entities: [brunch (Amenity), view of the water (Amenity)]

@@ -1,0 +1,8 @@
+1. "I'm craving some delicious Chicken and Waffles, can you recommend any award-winning restaurants?"
+Named Entities: [Chicken and Waffles (Dish), Award-winning (Rating)]
+
+2. "What time does the Michael Mina restaurant open for dinner tonight?"
+Named Entities: [Michael Mina (Restaurant Name), open for dinner tonight (Hours)]
+
+3. "I'm looking for a restaurant with a diverse menu that's affordable, where can I find one?"
+Named Entities: [diverse menu (Amenity), affordable (Price)]

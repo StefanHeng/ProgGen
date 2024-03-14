@@ -1,0 +1,8 @@
+1. Query: "can I watch a preview trailer for the upcoming art heist movie"
+Named Entities: [preview trailer (Trailer), art heist (Plot), 2022 (Year)]
+
+2. Query: "what movies from the 2010s have received a rating of B"
+Named Entities: [2010s (Year), B (Viewers' Rating)]
+
+3. Query: "show me a film teaser for the new action movie"
+Named Entities: [film teaser (Trailer), action (Genre)]

@@ -1,0 +1,8 @@
+1. Query: "Yo, where can I peep the trailer for that new superhero flick with the kickass special effects?"
+Named Entities: [superhero flick (Genre), trailer (Trailer), special effects (Plot)]
+
+2. Query: "Hey, what's the deal with that movie everyone's gossiping about? Is it worth checking out?"
+Named Entities: [movie (Title), everyone's gossiping about (Review)]
+
+3. Query: "Yo, who's the mastermind behind that dope action movie from last year with the insane stunts?"
+Named Entities: [action movie (Genre), last year (Year), mastermind (Director), insane stunts (Plot)]

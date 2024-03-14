@@ -1,0 +1,11 @@
+1. Sentence: "The company headquarters is located in downtown {{Chicago}}."
+Text Span: "Chicago"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The capital of {{Liechtenstein}}, Vaduz, is a small city that hosts the country's parliament and government."
+Text Span: "Liechtenstein"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in {{Silicon Valley}}."
+Text Span: "Silicon Valley"
+Label: (A). The span is a named entity of type location

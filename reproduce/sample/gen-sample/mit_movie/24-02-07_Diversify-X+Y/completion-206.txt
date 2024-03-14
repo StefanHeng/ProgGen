@@ -1,0 +1,8 @@
+1. "I'm looking for a movie with soul-stirring musical arrangements, directed by Francis Ford Coppola. Do you have any recommendations?"
+   Named Entities: [Francis Ford Coppola (Director), Soul-stirring musical arrangements (Genre)]
+
+2. "Can you recommend a movie with instrumental music that will leave me overwhelmed? Maybe something with the song 'Stayin' Alive' in it?"
+   Named Entities: [instrumental music (Genre), 'Stayin' Alive' (Song)]
+
+3. "I'm searching for a movie rated M that features the song 'Stayin' Alive' in its soundtrack. Can you help me find it?"
+   Named Entities: [M (MPAA Rating), 'Stayin' Alive' (Song)]

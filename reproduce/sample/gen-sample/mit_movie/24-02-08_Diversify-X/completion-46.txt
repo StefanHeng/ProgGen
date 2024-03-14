@@ -1,0 +1,8 @@
+Query: "What movie features the song 'Let It Go'?"
+Named Entities: ['Let It Go' (Song)]
+
+Query: "Can you recommend a movie with a great soundtrack for a girls' night?"
+Named Entities: [girls' night (Viewer's Rating), soundtrack (Genre)]
+
+Query: "I want to watch a film with a romantic soundtrack, can you suggest one?"
+Named Entities: [romantic (Genre), soundtrack (Plot)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant in the area with a Michelin star rating?"
+Named Entities: [Michelin star (Rating), area (Location)]
+
+Query: "What type of cuisine does Noma specialize in?"
+Named Entities: [Noma (Restaurant Name), cuisine (Cuisine)]
+
+Query: "Are there any restaurants nearby that serve brunch on weekends?"
+Named Entities: [brunch (Amenity), weekends (Hours)]

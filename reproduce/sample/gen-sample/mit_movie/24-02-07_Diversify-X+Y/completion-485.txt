@@ -1,0 +1,8 @@
+1. Query: "Hey, can you show me a teaser for the new Puss in Boots movie?"
+Named Entities: [teaser (Trailer), Puss in Boots (Title)]
+
+2. Query: "I heard Jonathan Glazer directed an amazing movie recently, can you tell me more about it?"
+Named Entities: [Jonathan Glazer (Director), amazing (Viewers' Rating)]
+
+3. Query: "Do you know of any movies with a forbidden romance plot that's just superb?"
+Named Entities: [forbidden romance (Plot), superb (Viewers' Rating)]

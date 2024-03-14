@@ -1,0 +1,149 @@
+1. Apple unveils new iPhone 12 models.
+Named Entities: [Apple (organization)]
+
+2. President Biden delivers inaugural address.
+Named Entities: [Biden (person)]
+
+3. England imposes new lockdown measures.
+Named Entities: [England (location)]
+
+4. Tesla stock reaches all-time high.
+Named Entities: [Tesla (organization)]
+
+5. CEO of Microsoft steps down.
+Named Entities: [Microsoft (organization)]
+
+6. Tokyo Olympics postponed due to COVID-19.
+Named Entities: [Tokyo (location)]
+
+7. Prime Minister Trudeau announces new climate initiative.
+Named Entities: [Trudeau (person)]
+
+8. Facebook under investigation for antitrust violations.
+Named Entities: [Facebook (organization)]
+
+9. Hurricane hits Florida coast.
+Named Entities: [Florida (location)]
+
+10. Actress Scarlett Johansson sues Disney over streaming release.
+Named Entities: [Scarlett Johansson (person)], [Disney (organization)]
+
+11. Germany extends lockdown restrictions.
+Named Entities: [Germany (location)]
+
+12. Amazon launches new delivery drone service.
+Named Entities: [Amazon (organization)]
+
+13. CEO of Twitter resigns.
+Named Entities: [Twitter (organization)]
+
+14. Wildfires sweep through California.
+Named Entities: [California (location)]
+
+15. President Macron tests positive for COVID-19.
+Named Entities: [Macron (person)]
+
+16. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+17. New York City to mandate COVID-19 vaccinations for indoor activities.
+Named Entities: [New York City (location)]
+
+18. Taylor Swift releases new album.
+Named Entities: [Taylor Swift (person)]
+
+19. United Nations issues statement on refugee crisis.
+Named Entities: [United Nations (organization)]
+
+20. Supreme Court rules in favor of LGBTQ+ rights.
+Named Entities: [Supreme Court (organization)]
+
+21. California governor faces recall election.
+Named Entities: [California (location)]
+
+22. Microsoft acquires gaming company for $7.5 billion.
+Named Entities: [Microsoft (organization)]
+
+23. Deadly earthquake strikes Haiti.
+Named Entities: [Haiti (location)]
+
+24. Olympic gold medalist Simone Biles withdraws from competition.
+Named Entities: [Simone Biles (person)]
+
+25. WHO declares COVID-19 a global pandemic.
+Named Entities: [WHO (organization)]
+
+26. New vaccine mandates issued for federal employees.
+Named Entities: []
+
+27. Facebook whistleblower reveals internal documents.
+Named Entities: [Facebook (organization)]
+
+28. Hurricane causes widespread damage in Louisiana.
+Named Entities: [Louisiana (location)]
+
+29. CEO of Amazon announces retirement.
+Named Entities: [Amazon (organization)]
+
+30. Voter turnout reaches record high in presidential election.
+Named Entities: []
+
+31. Canadian province Manitoba declares state of emergency.
+Named Entities: [Manitoba (location)]
+
+32. Prince Harry and Meghan Markle announce new charitable foundation.
+Named Entities: [Prince Harry (person)], [Meghan Markle (person)]
+
+33. SpaceX launches civilian crew to International Space Station.
+Named Entities: [SpaceX (organization)], [International Space Station (location)]
+
+34. Google faces antitrust lawsuit in Europe.
+Named Entities: [Google (organization)]
+
+35. Severe flooding in India displaces thousands.
+Named Entities: [India (location)]
+
+36. Senator Warren proposes wealth tax.
+Named Entities: [Warren (person)]
+
+37. Major cybersecurity breach affects government agencies.
+Named Entities: []
+
+38. Wildfires force evacuations in Oregon.
+Named Entities: [Oregon (location)]
+
+39. Apple announces new privacy features for iPhone users.
+Named Entities: [Apple (organization)]
+
+40. Taliban gains control in Afghanistan.
+Named Entities: [Taliban (organization)], [Afghanistan (location)]
+
+41. President Xi Jinping addresses UN General Assembly.
+Named Entities: [Xi Jinping (person)], [UN General Assembly (organization)]
+
+42. Pfizer seeks approval for COVID-19 vaccine booster shot.
+Named Entities: [Pfizer (organization)]
+
+43. Florida governor signs controversial new voting bill into law.
+Named Entities: [Florida (location)]
+
+44. NASA rover discovers evidence of ancient life on Mars.
+Named Entities: [NASA (organization)], [Mars (location)]
+
+45. CEO of Walmart announces ambitious sustainability goals.
+Named Entities: [Walmart (organization)]
+
+46. Death toll rises in European flooding disaster.
+Named Entities: [European (location)]
+
+47. Meghan Markle launches new initiative to support women in workforce.
+Named Entities: [Meghan Markle (person)]
+
+48. New study shows link between air pollution and increased risk of dementia.
+Named Entities: []
+
+49. President Macron meets with German Chancellor Merkel to discuss EU economic recovery.
+Named Entities: [Macron (person)], [Merkel (person)], [EU (organization)]
+
+50. Chicago mayor announces plan to tackle city's violence epidemic.
+Named Entities: [Chicago (location)]

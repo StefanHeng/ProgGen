@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with intense drama and a great dance scene like in Aladdin?"
+   Named Entities: [intense drama (Genre), Aladdin (Title), dance (Plot)]
+
+2. "Show me a survival in the wilderness movie similar to Van Helsing with a high viewers' rating."
+   Named Entities: [Van Helsing (Title), survival in the wilderness (Plot), high viewers' rating (Viewers' Rating)]
+
+3. "Are there any movies with a character like the one in Aladdin who sings the song 'A Whole New World'?"
+   Named Entities: [Aladdin (Character), A Whole New World (Song)]

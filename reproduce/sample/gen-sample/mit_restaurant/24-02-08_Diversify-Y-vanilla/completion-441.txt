@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby Italian restaurant with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), nearby (Location)]
+
+2. "What are the hours of operation for Café La Vie?"
+Named Entities: [Café La Vie (Restaurant Name), hours of operation (Hours)]
+
+3. "I'm looking for a highly rated vegan-friendly restaurant in the downtown area."
+Named Entities: [highly rated (Rating), vegan-friendly (Amenity), downtown area (Location)]

@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie with a powerful message"
+Named Entities: [powerful message (Review)]
+
+2. Query: "show me a movie with the song every breath you take"
+Named Entities: [every breath you take (Song)]
+
+3. Query: "is there a movie about parallel universe exploration"
+Named Entities: [parallel universe exploration (Plot)]

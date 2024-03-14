@@ -1,0 +1,8 @@
+1. "Can you recommend a café in Sydney with paleo-friendly options?"
+Named Entities: [Sydney (Location), paleo-friendly (Cuisine)]
+
+2. "I need to find a café in Sydney with convenient parking"
+Named Entities: [Sydney (Location), convenient parking (Amenity)]
+
+3. "Where can I have a paleo-friendly meal in a café with parking nearby in Sydney?"
+Named Entities: [paleo-friendly (Cuisine), café (Restaurant Name), parking nearby (Amenity), Sydney (Location)]

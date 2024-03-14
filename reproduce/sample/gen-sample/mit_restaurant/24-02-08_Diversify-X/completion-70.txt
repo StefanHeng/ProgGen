@@ -1,0 +1,8 @@
+1. "Can you recommend a charming and rustic restaurant for late-night dining?"
+Named Entities: [late-night dining (Amenity), rustic (Amenity), charming (Amenity)]
+
+2. "I'm looking for a cozy spot with late-night dining options. Any suggestions?"
+Named Entities: [cozy (Amenity), late-night dining (Amenity)]
+
+3. "Find me a quaint and cozy restaurant that serves late-night meals."
+Named Entities: [quaint (Amenity), cozy (Amenity), late-night meals (Amenity)]

@@ -1,0 +1,8 @@
+Query: "do you know any Spanish restaurants with good ratings"
+Named Entities: [Spanish (Cuisine), good ratings (Rating)]
+
+Query: "what time does The Breakfast Club open for brunch"
+Named Entities: [The Breakfast Club (Restaurant Name), brunch (Amenity)]
+
+Query: "I want to find a place with affordable Spanish dishes"
+Named Entities: [affordable (Price), Spanish (Cuisine)]

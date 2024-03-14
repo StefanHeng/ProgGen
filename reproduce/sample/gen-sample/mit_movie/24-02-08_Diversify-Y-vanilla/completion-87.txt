@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an outstanding movie directed by Christopher Nolan?"
+Named Entities: [outstanding (Viewers' Rating), Christopher Nolan (Director)]
+
+2. Query: "Show me a mediocre movie with a great soundtrack"
+Named Entities: [mediocre (Viewers' Rating), great soundtrack (Song)]
+
+3. Query: "Which movie from the 1980s has the most iconic character?"
+Named Entities: [1980s (Year), most iconic character (Character)]

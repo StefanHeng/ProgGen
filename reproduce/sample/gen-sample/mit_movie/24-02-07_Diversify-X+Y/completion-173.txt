@@ -1,0 +1,8 @@
+1. "Hey there, is the movie I Don't Want to Miss a Thing available for streaming anywhere?"
+Named Entities: [I Don't Want to Miss a Thing (Title)]
+
+2. "Could you recommend a highly praised romantic movie with Samuel L. Jackson in it that I can watch on a streaming platform?"
+Named Entities: [highly praised (Review), romantic (Genre), Samuel L. Jackson (Actor)]
+
+3. "I'm in the mood for a horror film, can you tell me if Black Widow is available to stream?"
+Named Entities: [Black Widow (Title), horror (Genre)]

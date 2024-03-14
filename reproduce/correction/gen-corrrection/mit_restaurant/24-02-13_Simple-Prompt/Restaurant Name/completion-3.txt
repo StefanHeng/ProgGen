@@ -1,0 +1,11 @@
+1. Query: "Can you book a table at the Italian {{trattoria}} for this evening?"
+Text Span: "trattoria"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "Which {{restaurant}} serves the best brunch in the city?"
+Text Span: "restaurant"
+Label: (D). Not a Named Entity.
+
+3. Query: "What are the hours for {{In-N-Out Burger}}?"
+Text Span: "In-N-Out Burger"
+Label: (A). Correct Entity Annotation.

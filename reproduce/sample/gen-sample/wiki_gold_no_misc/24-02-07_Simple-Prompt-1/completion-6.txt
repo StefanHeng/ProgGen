@@ -1,0 +1,100 @@
+1. The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris.
+Named Entities: [Eiffel Tower (location), Paris (location)]
+2. The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.
+Named Entities: [Mona Lisa (location), Leonardo da Vinci (person), Italian (location)]
+3. The United Nations is an intergovernmental organization to promote international co-operation.
+Named Entities: [United Nations (organization)]
+4. Barack Obama was the 44th President of the United States.
+Named Entities: [Barack Obama (person), United States (location)]
+5. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+Named Entities: [Great Wall of China (location)]
+6. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), English (location), Liverpool (location)]
+7. The Nile is a major north-flowing river in northeastern Africa.
+Named Entities: [Nile (location), Africa (location)]
+8. The Louvre is the world's largest art museum and a historic monument in Paris.
+Named Entities: [Louvre (location), Paris (location)]
+9. Albert Einstein was a German-born theoretical physicist.
+Named Entities: [Albert Einstein (person), German (location)]
+10. The Amazon River in South America is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location), South America (location)]
+11. Facebook is an American online social media and social networking service company.
+Named Entities: [Facebook (organization), American (location)]
+12. William Shakespeare was an English playwright and poet.
+Named Entities: [William Shakespeare (person), English (location)]
+13. The Colosseum is an oval amphitheatre in the centre of the city of Rome.
+Named Entities: [Colosseum (location), Rome (location)]
+14. Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist.
+Named Entities: [Nelson Mandela (person), South African (location)]
+15. The Sydney Opera House is a multi-venue performing arts center in Sydney.
+Named Entities: [Sydney Opera House (location), Sydney (location)]
+16. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+17. Leonardo da Vinci was an Italian polymath of the Renaissance.
+Named Entities: [Leonardo da Vinci (person), Italian (location), Renaissance (location)]
+18. The Kremlin is a historic fortified complex at the heart of Moscow.
+Named Entities: [Kremlin (location), Moscow (location)]
+19. Alexander the Great was a king of Macedon.
+Named Entities: [Alexander the Great (person), Macedon (location)]
+20. SpaceX is an American aerospace manufacturer and space transport services company.
+Named Entities: [SpaceX (organization), American (location)]
+21. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+22. Charles Darwin was an English naturalist, geologist and biologist.
+Named Entities: [Charles Darwin (person), English (location)]
+23. The Grand Canyon is a steep-sided canyon carved by the Colorado River.
+Named Entities: [Grand Canyon (location), Colorado River (location)]
+24. Michael Jackson was an American singer, songwriter, and dancer.
+Named Entities: [Michael Jackson (person), American (location)]
+25. The Arab Spring was a series of anti-government protests, uprisings, and armed rebellions in the Arab world.
+Named Entities: [Arab Spring (location), Arab (location)]
+26. The Acropolis is a citadel located on a high rocky outcrop above the city of Athens.
+Named Entities: [Acropolis (location), Athens (location)]
+27. Amelia Earhart was an American aviation pioneer and author.
+Named Entities: [Amelia Earhart (person), American (location)]
+28. The Taj Mahal is an ivory-white marble mausoleum in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Agra (location), Indian (location)]
+29. Winston Churchill was a British statesman, army officer, and writer.
+Named Entities: [Winston Churchill (person), British (location)]
+30. The Sahara is the largest hot desert and the third largest desert in the world.
+Named Entities: [Sahara (location)]
+31. Thomas Edison was an American inventor and businessman.
+Named Entities: [Thomas Edison (person), American (location)]
+32. The Kremlin was the residence of the Russian President from 1991 to 2008.
+Named Entities: [Kremlin (location), Russian (location)]
+33. Harriet Tubman was an American abolitionist and political activist.
+Named Entities: [Harriet Tubman (person), American (location)]
+34. The Serengeti is a vast ecosystem in east-central Africa.
+Named Entities: [Serengeti (location), Africa (location)]
+35. Vincent van Gogh was a Dutch post-impressionist painter.
+Named Entities: [Vincent van Gogh (person), Dutch (location)]
+36. The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain.
+Named Entities: [Alhambra (location), Granada (location), Andalusia (location), Spain (location)]
+37. Marie Curie was a Polish-born physicist and chemist.
+Named Entities: [Marie Curie (person), Polish (location)]
+38. The Dead Sea is a salt lake bordered by Jordan to the east and Israel and Palestine to the west.
+Named Entities: [Dead Sea (location), Jordan (location), Israel (location), Palestine (location)]
+39. Johann Sebastian Bach was a German composer and musician.
+Named Entities: [Johann Sebastian Bach (person), German (location)]
+40. The Galápagos Islands are a group of volcanic islands in the Pacific Ocean.
+Named Entities: [Galápagos Islands (location), Pacific Ocean (location)]
+41. Jane Austen was an English novelist known primarily for her six major novels.
+Named Entities: [Jane Austen (person), English (location)]
+42. Mount Everest is Earth's highest mountain above sea level.
+Named Entities: [Mount Everest (location), Earth (location)]
+43. Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer.
+Named Entities: [Pablo Picasso (person), Spanish (location)]
+44. The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt.
+Named Entities: [Egyptian (location), Egypt (location)]
+45. Joan of Arc is considered a heroine of France.
+Named Entities: [Joan of Arc (person), France (location)]
+46. The Panama Canal is an artificial 82 km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+Named Entities: [Panama Canal (location), Panama (location), Atlantic Ocean (location), Pacific Ocean (location)]
+47. Socrates was a classical Greek philosopher credited as one of the founders of Western philosophy.
+Named Entities: [Socrates (person), Greek (location), Western (location)]
+48. Florence Nightingale was an English social reformer and statistician, and the founder of modern nursing.
+Named Entities: [Florence Nightingale (person), English (location)]
+49. The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Named Entities: [Himalayas (location), Asia (location), Indian subcontinent (location), Tibetan Plateau (location)]
+50. Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt.
+Named Entities: [Cleopatra VII Philopator (person), Ptolemaic Kingdom (location), Egypt (location)]

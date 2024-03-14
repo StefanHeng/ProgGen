@@ -1,0 +1,8 @@
+1. "Can you find me the trailer for the musical movie featuring the song Don't Stop Believin'?"
+Named Entities: [musical movie (Genre), Don't Stop Believin' (Song), trailer (Trailer)]
+
+2. "What historical films directed by Steven Spielberg have a TV-Y7 rating?"
+Named Entities: [historical (Genre), Steven Spielberg (Director), TV-Y7 (MPAA Rating)]
+
+3. "I'm looking for a comedy film from the 1990s with a high viewers' rating and starring Jim Carrey."
+Named Entities: [comedy (Genre), 1990s (Year), high viewers' rating (Viewers' Rating), Jim Carrey (Actor)]

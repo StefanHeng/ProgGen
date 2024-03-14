@@ -1,0 +1,8 @@
+1. Query: "Can you play the trailer for the newest animated movie for kids?"
+   Named Entities: [newest animated movie (Title)]
+
+2. Query: "Show me the teaser for the family-friendly movie with the talking animals"
+   Named Entities: [family-friendly (Viewers' Rating), talking animals (Plot)]
+
+3. Query: "What movie from last year has a fun and exciting preview that kids will love?"
+   Named Entities: [last year (Year), fun and exciting preview (Trailer), kids (Viewers' Rating)]

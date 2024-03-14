@@ -1,0 +1,11 @@
+1. Query: "Which movie, directed by Steven Spielberg, has the most nominations for the {{Academy Awards}}?"
+Text Span: "Academy Awards"
+Label: (C). Wrong Type. The correct entity type is Award.
+
+2. Query: "What are some {{popular}} movies with amazing teasers?"
+Text Span: "popular"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "I need to know the deal with the movie Pulp Fiction, can you give me a {{quick rundown}}?"
+Text Span: "quick rundown"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some pricey food truck options, any suggestions?"
+Named Entities: [pricey (Price), food truck (Amenity)]
+
+Query: "where can I find a food truck around the cross street of Main and First"
+Named Entities: [cross street of Main and First (Location), food truck (Amenity)]
+
+Query: "I'm looking for some expensive food truck options, any recommendations?"
+Named Entities: [expensive (Price), food truck (Amenity)]

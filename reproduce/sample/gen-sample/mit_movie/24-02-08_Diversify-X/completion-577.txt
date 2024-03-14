@@ -1,0 +1,8 @@
+1. "Can you recommend any comedy movies that are feel-good and family-friendly?"
+Named Entities: [comedy (Genre), feel-good (Viewers' Rating), family-friendly (Viewers' Rating)]
+
+2. "What are some classic action films from the 1980s that are considered iconic?"
+Named Entities: [action (Genre), classic (Viewers' Rating), 1980s (Year), iconic (Viewers' Rating)]
+
+3. "Who directed the thriller movie with a post-apocalyptic plot that was released in 2015?"
+Named Entities: [thriller (Genre), post-apocalyptic (Plot), 2015 (Year)]

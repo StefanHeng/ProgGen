@@ -1,0 +1,11 @@
+1. Query: "what are the {{top 10}} action movies of all time"
+Text Span: "top 10"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Query: "What is the {{highest grossing}} film directed by Christopher Nolan"
+Text Span: "highest grossing"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Query: "What is the name of the film that won {{Best Picture}} in 2019"
+Text Span: "Best Picture"
+Label: (C). The span is a named entity but the category is not viewers' rating. Correct entity type: Award.

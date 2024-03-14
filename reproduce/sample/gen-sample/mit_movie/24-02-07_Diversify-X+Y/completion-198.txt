@@ -1,0 +1,8 @@
+Query: "What is the specific subgenre of the movie Iron Man?"
+Named Entities: [Iron Man (Title)]
+
+Query: "Can you recommend a spy thriller movie that is similar to Pulp Fiction?"
+Named Entities: [spy thriller (Genre), Pulp Fiction (Title)]
+
+Query: "Is the World War II resistance genre considered a subgenre of science fiction?"
+Named Entities: [World War II resistance (Genre), science fiction (Genre)]

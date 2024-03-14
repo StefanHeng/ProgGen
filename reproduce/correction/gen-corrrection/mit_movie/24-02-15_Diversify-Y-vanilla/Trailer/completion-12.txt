@@ -1,0 +1,8 @@
+1. Text Span: "preview snippet"
+Label: (B). The correct span boundary is "snippet".
+
+2. Text Span: "trailer segment"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

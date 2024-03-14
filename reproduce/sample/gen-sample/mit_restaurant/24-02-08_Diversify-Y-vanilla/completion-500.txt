@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some appetizers, where can I find a Yard House nearby?"
+Named Entities: [appetizers (Dish), Yard House (Restaurant Name), nearby (Location)]
+
+Query: "What time does Yard House close tonight?"
+Named Entities: [Yard House (Restaurant Name), tonight (Hours)]
+
+Query: "I heard Yard House has a great beer selection, is that true?"
+Named Entities: [Yard House (Restaurant Name), great (Rating), beer selection (Amenity)]

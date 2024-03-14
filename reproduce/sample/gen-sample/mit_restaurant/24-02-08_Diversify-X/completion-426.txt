@@ -1,0 +1,8 @@
+Query: "Can you recommend a cozy café with affordable prices for a senior like me?"
+Named Entities: [cozy (Amenity), affordable prices (Price), senior (Location), café (Cuisine)]
+
+Query: "I'm looking for a café with a quiet ambiance and good coffee for seniors in the area."
+Named Entities: [quiet ambiance (Amenity), good coffee (Dish), seniors (Location), café (Cuisine)]
+
+Query: "What's a nice café with comfortable seating and senior discounts nearby?"
+Named Entities: [comfortable seating (Amenity), senior discounts (Price), nearby (Location), café (Cuisine), seniors (Location)]

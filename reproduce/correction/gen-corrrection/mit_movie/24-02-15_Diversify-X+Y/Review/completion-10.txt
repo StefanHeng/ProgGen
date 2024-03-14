@@ -1,0 +1,8 @@
+1. Text Span: "heart-pounding excitement"
+Label: (A). Named Entity of type Review
+
+2. Text Span: "impressive"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Text Span: "awards or nominations"
+Label: (D). Not a Named Entity

@@ -1,0 +1,8 @@
+Query: "Yo, who's the boss director of that new action flick with the sick car chase scene?"
+Named Entities: [director (Director), action flick (Genre), car chase scene (Plot)]
+
+Query: "Hey, what's the deal with that movie that has that girl from the horror flick last year, you know what I'm talking about?"
+Named Entities: [girl (Actor), horror flick (Genre), last year (Year)]
+
+Query: "Yo, who's the dude that played the funny sidekick in that superhero movie with the dope soundtrack?"
+Named Entities: [dude (Actor), funny sidekick (Character), superhero movie (Genre), dope soundtrack (Song)]

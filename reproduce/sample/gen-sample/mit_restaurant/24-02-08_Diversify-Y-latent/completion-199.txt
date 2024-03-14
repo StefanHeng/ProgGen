@@ -1,0 +1,8 @@
+1. "I'm craving fried chicken, do you know any restaurants that serve that dish near me?"
+Named Entities: [fried chicken (Dish), near me (Location)]
+
+2. "I'm in the mood for a sandwich, can you recommend a place with a variety of sandwich options?"
+Named Entities: [sandwich (Dish), variety (Amenity)]
+
+3. "I need to find a restaurant with a good rating that offers fried chicken and is open late."
+Named Entities: [good rating (Rating), fried chicken (Dish), open late (Hours)]

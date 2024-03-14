@@ -1,0 +1,8 @@
+1. "I'm craving some chicken wings, could you recommend a place with good lunch service nearby?"
+   Named Entities: [chicken wings (Dish), lunch service (Amenity), nearby (Location)]
+
+2. "Which restaurants in the area serve affordable chicken wings?"
+   Named Entities: [affordable (Price), chicken wings (Dish), area (Location)]
+
+3. "I want to find a restaurant that offers lunch service and has a variety of chicken wing flavors."
+   Named Entities: [lunch service (Amenity), variety of chicken wing flavors (Dish)]

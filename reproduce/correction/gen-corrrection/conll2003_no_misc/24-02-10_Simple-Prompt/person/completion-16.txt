@@ -1,0 +1,8 @@
+1. Text Span: "British Prime Minister Johnson"
+Label: (B). The correct span boundary is "Prime Minister Johnson".
+
+2. Text Span: "Serena Williams"
+Label: (A).
+
+3. Text Span: "Pulitzer Prize-winning journalist"
+Label: (C). The correct entity type is organization.

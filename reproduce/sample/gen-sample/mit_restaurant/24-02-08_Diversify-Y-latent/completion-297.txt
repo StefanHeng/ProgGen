@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant nearby that serves delicious fish tacos?"
+Named Entities: [delicious (Rating), fish tacos (Dish)]
+
+2. "I'm in the mood for some Cajun cuisine, where can I find a restaurant that serves it?"
+Named Entities: [Cajun (Cuisine)]
+
+3. "What's a good restaurant in the area with a varied menu and affordable prices?"
+Named Entities: [varied menu (Amenity), affordable prices (Price)]

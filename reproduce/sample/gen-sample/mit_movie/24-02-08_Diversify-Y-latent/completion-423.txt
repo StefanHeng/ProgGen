@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with some uplifting songs in its original score?"
+Named Entities: [uplifting songs (Song), original score (Genre)]
+
+Query: "I'm a fan of Deadpool, can you suggest any movies with a similar vibe?"
+Named Entities: [Deadpool (Title)]
+
+Query: "What rap movie would you recommend for someone looking for a fresh take on the genre?"
+Named Entities: [rap (Genre)]

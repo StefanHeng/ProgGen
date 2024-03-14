@@ -1,0 +1,8 @@
+1. "Can you recommend a quiet and peaceful restaurant for lunch that serves Italian cuisine?"
+   Named Entities: [quiet and peaceful (Amenity), lunch (Amenity), Italian (Cuisine)]
+
+2. "I'm looking for a lunch spot with a cozy atmosphere and a good selection of vegetarian dishes. Any ideas?"
+   Named Entities: [lunch (Amenity), cozy atmosphere (Amenity), vegetarian (Cuisine)]
+
+3. "Please find me a serene restaurant for a peaceful lunch break, preferably with a menu featuring seafood dishes."
+   Named Entities: [serene (Amenity), peaceful (Amenity), lunch (Amenity), seafood (Cuisine)]

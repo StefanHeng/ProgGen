@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with late-night dining and outdoor seating that offers takeout?"
+Named Entities: [late-night dining (Amenity), outdoor seating (Amenity), takeout (Amenity)]
+
+Query: "I'm looking for a place with vegan options and chicken shawarma available for takeout."
+Named Entities: [vegan (Cuisine), chicken shawarma (Dish), takeout (Amenity)]
+
+Query: "Where can I find a restaurant with a late-night dining menu that includes vegan dishes and offers outdoor seating?"
+Named Entities: [late-night dining (Amenity), vegan (Cuisine), outdoor seating (Amenity)]

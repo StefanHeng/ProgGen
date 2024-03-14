@@ -1,0 +1,8 @@
+Query: "Has the movie The Shawshank Redemption won any awards?"
+Named Entities: [The Shawshank Redemption (Title), awards (Review)]
+
+Query: "Which movie from 2019 received the most nominations?"
+Named Entities: [2019 (Year), most nominations (Review)]
+
+Query: "Can you tell me if the film Titanic received any accolades?"
+Named Entities: [Titanic (Title), accolades (Review)]

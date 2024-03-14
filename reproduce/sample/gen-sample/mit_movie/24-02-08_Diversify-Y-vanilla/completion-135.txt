@@ -1,0 +1,8 @@
+1. "What movie features character-driven storytelling and was rated R-13 in 2008?"
+Named Entities: [Character-driven storytelling (Plot), R-13 (MPAA Rating), 2008 (Year)]
+
+2. "I am looking for a movie with a cyberpunk theme that has exceeded expectations."
+Named Entities: [cyberpunk (Genre), Exceeded expectations (Review)]
+
+3. "Can you recommend a gothic film with a quest for revenge and the discovery of a new world?"
+Named Entities: [Gothic (Genre), Quest for revenge (Plot), Discovery of a new world (Plot)]

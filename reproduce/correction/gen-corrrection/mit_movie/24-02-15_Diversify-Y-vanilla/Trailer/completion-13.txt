@@ -1,0 +1,11 @@
+1. Query: "Can you show me the {{trailer}} for the movie featuring Don Vito Corleone?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer
+
+2. Query: "I'm looking for the {{announcement trailer}} of a movie released in 2021. Do you have any suggestions?"
+Text Span: "announcement trailer"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "Show me a {{Trailer excerpt}} for a popular Martial Arts film"
+Text Span: "Trailer excerpt"
+Label: (B). The span contains a named trailer entity but the span boundary is not precise. The correct span boundary is "excerpt"

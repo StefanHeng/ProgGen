@@ -1,0 +1,11 @@
+1. Sentence: "{{Scientists}} discover new species in The Atacama Desert."
+Text Span: "Scientists"
+Label: (C). Not a Named Entity. Entity type: other
+
+2. Sentence: "{{Reuters}} releases investigative report on historical artifacts looted during colonial era."
+Text Span: "Reuters"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{Netflix Inc.}} announces collaboration with Sydney-based production company for new original series."
+Text Span: "Netflix Inc."
+Label: (A). The span is a named entity of type organization

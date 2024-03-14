@@ -1,0 +1,8 @@
+Query: "I'm interested in learning more about the making of a new action thriller film. Can you provide me with some behind-the-scenes details, such as the director and the MPAA rating?"
+Named Entities: [action thriller (Genre), new (Year), behind-the-scenes details (Plot), director (Director), MPAA rating (MPAA Rating)]
+
+Query: "Can you recommend a movie directed by Lana Wachowski with a PG-13 or R rating? I'm open to any genre."
+Named Entities: [Lana Wachowski (Director), PG-13 (MPAA Rating), R (MPAA Rating)]
+
+Query: "I heard that Jane Smith starred in a movie that has some interesting behind-the-scenes stories. Could you tell me more about it and its genre?"
+Named Entities: [Jane Smith (Actor), behind-the-scenes stories (Plot), genre (Genre)]

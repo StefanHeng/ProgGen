@@ -1,0 +1,11 @@
+1. Sentence: "{{President Biden}} announces new infrastructure plan to create jobs and boost economy."
+Text Span: "President Biden"
+Label: (A)
+
+2. Sentence: "{{The Pope}} visits Jerusalem to promote interfaith dialogue."
+Text Span: "The Pope"
+Label: (A)
+
+3. Sentence: "Community comes together to raise funds for injured {{high school athlete}}'s medical expenses."
+Text Span: "high school athlete"
+Label: (C) entity type: person

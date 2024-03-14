@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a movie directed by Luca Guadagnino with Alicia Vikander as the lead actress."
+Named Entities: [Luca Guadagnino (Director), Alicia Vikander (Actor)]
+
+2. Query: "What's the viewers' rating for the latest film by John Woo? I heard it was boring."
+Named Entities: [John Woo (Director), boring (Viewers' Rating)]
+
+3. Query: "Can you recommend a G-rated movie from the 90s with an exciting plot?"
+Named Entities: [G-rated (MPAA Rating), 90s (Year), exciting (Plot)]

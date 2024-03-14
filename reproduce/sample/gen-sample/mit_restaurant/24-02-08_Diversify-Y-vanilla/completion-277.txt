@@ -1,0 +1,11 @@
+1. "Can you recommend a highly-rated Italian restaurant with outdoor seating?"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+[Satisfactory]
+
+2. "I'm looking for a Mexican restaurant with vegetarian options in downtown. What are their opening hours?"
+Named Entities: [Mexican (Cuisine), vegetarian options (Amenity), downtown (Location), opening hours (Hours)]
+[Satisfactory]
+
+3. "Where can I find a budget-friendly sushi place with a good view?"
+Named Entities: [budget-friendly (Price), sushi (Cuisine), good view (Amenity)]
+[Satisfactory]

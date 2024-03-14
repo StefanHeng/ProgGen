@@ -1,0 +1,5 @@
+1. Text Span: "classic 80s action movies"
+Label: (B). The correct span boundary is "classic 80s action"
+
+2. Text Span: "Forbidden romance"
+Label: (A). Correct Entity Annotation.

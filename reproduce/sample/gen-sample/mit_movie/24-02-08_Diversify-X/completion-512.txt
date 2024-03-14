@@ -1,0 +1,8 @@
+Query: "What awards did the movie The Shawshank Redemption win?"
+Named Entities: [The Shawshank Redemption (Title), Awards and nominations (Genre)]
+
+Query: "Can you list the nominations for the movie Inception?"
+Named Entities: [Inception (Title), nominations (Review)]
+
+Query: "Who was the director of the movie Titanic, and what awards did it receive?"
+Named Entities: [Titanic (Title), director (Director), Awards and nominations (Genre)]

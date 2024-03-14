@@ -1,0 +1,8 @@
+1. "Can you recommend the best dish at Applebee's?"
+Named Entities: [Applebee's (Restaurant Name), best (Rating)]
+
+2. "I'm looking for a restaurant in the area with outdoor seating and a diverse menu."
+Named Entities: [outdoor seating (Amenity), diverse menu (Cuisine)]
+
+3. "What time does the most affordable restaurant in town close tonight?"
+Named Entities: [most affordable (Price), close tonight (Hours)]

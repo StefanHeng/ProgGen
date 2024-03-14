@@ -1,0 +1,8 @@
+1. "I'm looking for a good dinner spot, preferably with Cajun cuisine"
+Named Entities: [dinner (Amenity), Cajun (Cuisine)]
+
+2. "What's the rating for Maggiano's Little Italy for dinner?"
+Named Entities: [Maggiano's Little Italy (Restaurant Name), dinner (Amenity)]
+
+3. "Can you recommend a dinner place with a reasonable price near Maggiano's Little Italy?"
+Named Entities: [dinner (Amenity), reasonable price (Price), Maggiano's Little Italy (Location)]

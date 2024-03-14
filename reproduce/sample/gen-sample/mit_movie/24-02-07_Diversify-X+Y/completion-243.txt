@@ -1,0 +1,8 @@
+1. "Tell me about the genre of The Lion King. Is it classified as an animated musical film, or does it fall under the adventure film subgenre?"
+Named Entities: [The Lion King (Title), animated musical film (Genre), adventure film (Subgenre)]
+
+2. "I'm curious about The Departed. Can you provide me with information on whether it's considered a crime film, or if it belongs to the gangster film subgenre?"
+Named Entities: [The Departed (Title), crime film (Genre), gangster film (Subgenre)]
+
+3. "I'm interested in movies with a love triangle plot. Can you recommend films similar to this theme, perhaps something akin to the romance genre in Poe Dameron's character arc?"
+Named Entities: [love triangle (Plot), romance (Genre), Poe Dameron (Character)]

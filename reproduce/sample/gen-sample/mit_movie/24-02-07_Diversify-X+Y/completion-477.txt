@@ -1,0 +1,8 @@
+1. Spoken Query: "Can I watch a trailer for a romantic comedy with terrible ratings?"
+Named Entities: [Romantic comedy (Genre), Trailer]
+
+2. Spoken Query: "Show me a movie trailer with Gal Gadot involving betrayal and time travel"
+Named Entities: [Gal Gadot (Actor), Betrayal (Plot), Time travel (Plot), Trailer]
+
+3. Spoken Query: "Is there a Johnny Depp movie similar to The Great Gatsby that has a teaser available?"
+Named Entities: [Johnny Depp (Actor), The Great Gatsby (Title), Trailer]

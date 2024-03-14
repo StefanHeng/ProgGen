@@ -1,0 +1,8 @@
+1. "Can you recommend any good animation movies from 1971?"
+   Named Entities: [Animation, 1971 (Year)]
+
+2. "What movie features a murder investigation plot similar to Inglourious Basterds?"
+   Named Entities: [Murder investigation (Plot), Inglourious Basterds (Title)]
+
+3. "Who was the director of the film released in 1971 with the title Inglourious Basterds?"
+   Named Entities: [1971 (Year), Inglourious Basterds (Title)]

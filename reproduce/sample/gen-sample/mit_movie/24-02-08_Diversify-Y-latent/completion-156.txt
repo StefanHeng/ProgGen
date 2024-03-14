@@ -1,0 +1,8 @@
+Query: "can I stream from tablet the superhero origin story movie about a character named Diana Prince"
+Named Entities: [stream from tablet (Plot), superhero origin story (Genre), Diana Prince (Character)]
+
+Query: "which musical movie, released in 1952, has the highest viewers' rating"
+Named Entities: [1952 (Year), highest viewers' rating (Review), musical (Genre)]
+
+Query: "show me a review of the action movie with the title Die Hard"
+Named Entities: [review (Review), action (Genre), Die Hard (Title)]

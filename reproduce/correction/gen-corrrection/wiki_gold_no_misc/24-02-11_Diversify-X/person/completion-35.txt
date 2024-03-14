@@ -1,0 +1,5 @@
+1. Text Span: "diplomats"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Socrates"
+Label: (A). The span is a named entity of type person

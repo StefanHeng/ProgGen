@@ -1,0 +1,8 @@
+1. "Can you recommend any expensive gastro-pubs with a good wine selection?"
+   Named Entities: [expensive gastro-pubs (Amenity), good (Rating), wine selection (Dish)]
+
+2. "What time is the service cut-off for late night dessert delivery in this area?"
+   Named Entities: [service cut-off (Hours), late night dessert (Dish), this area (Location)]
+
+3. "I'm looking for a sushi restaurant with a 5-star rating and outdoor seating."
+   Named Entities: [sushi restaurant (Cuisine), 5-star (Rating), outdoor seating (Amenity)]

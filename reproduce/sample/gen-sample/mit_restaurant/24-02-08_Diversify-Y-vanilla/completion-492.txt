@@ -1,0 +1,8 @@
+1. "Can you recommend a Thai restaurant with vegan options in the county?"
+Named Entities: [Thai (Cuisine), vegan (Dish), County]
+
+2. "What time does the Mexican restaurant on Main Road close tonight?"
+Named Entities: [Mexican (Cuisine), Main Road (Location), Hours]
+
+3. "Find me a seafood place with a waterfront view and a 4-star rating"
+Named Entities: [seafood (Cuisine), waterfront (Amenity), 4-star (Rating)]

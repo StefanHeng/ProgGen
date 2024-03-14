@@ -1,0 +1,8 @@
+1. Text Span: "fancy dinner"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "Diner's Choice Award winner"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "good outdoor seating area"
+Label: (A). The span is a named entity of type amenity

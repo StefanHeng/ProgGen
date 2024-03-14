@@ -1,0 +1,11 @@
+1. Query: 'Synthetic Query: "What are the {{hours}} for the BBQ restaurant nearby?"'
+Text Span: "hours"
+Label: (C). The span is a named entity but the category is not hours. Correct Entity Type: Hours
+
+2. Query: "what time does the steakhouse on Main Street close {{tonight}}?"
+Text Span: "tonight"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "what are the {{hours of operation}} for the Thai restaurant in the city center?"
+Text Span: "hours of operation"
+Label: (C). The span is a named entity but the category is not hours. Correct Entity Type: Hours

@@ -1,0 +1,8 @@
+1. "Can you recommend a good biography movie about a musician like Moon River for me to watch?"
+Named Entities: [biography movie (Genre), musician (Character), Moon River (Song)]
+
+2. "Is Rachel McAdams starring in any new romantic films this year?"
+Named Entities: [Rachel McAdams (Actor), romantic films (Genre), this year (Year)]
+
+3. "What are the top-rated mystery movies released in the 1990s?"
+Named Entities: [mystery movies (Genre), 1990s (Year), top-rated (Viewers' Rating)]

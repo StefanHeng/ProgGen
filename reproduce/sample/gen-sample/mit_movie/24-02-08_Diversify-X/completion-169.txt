@@ -1,0 +1,8 @@
+Query: "Can you tell me the plot of the movie Sleepless in Seattle from 1993?"
+Named Entities: [Sleepless in Seattle (Title), 1993 (Year)]
+
+Query: "I'm looking for a movie with a romantic plot that is set in the 1950s"
+Named Entities: [romantic (Genre), 1950s (Year)]
+
+Query: "What film has a plot about a woman who travels back in time to the 19th century?"
+Named Entities: [19th century (Year)]

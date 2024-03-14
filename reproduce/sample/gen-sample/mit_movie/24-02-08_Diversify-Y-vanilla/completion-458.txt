@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with captivating performances that came out in the past year?"
+Named Entities: [captivating performances (Review), past year (Year)]
+
+2. "Is there a movie with the song Superstition by Stevie Wonder in the soundtrack?"
+Named Entities: [Superstition (Song), Stevie Wonder (Actor)]
+
+3. "I would like to watch a film where Perry the Platypus and Captain America appear together."
+Named Entities: [Perry the Platypus (Character), Captain America (Character)]

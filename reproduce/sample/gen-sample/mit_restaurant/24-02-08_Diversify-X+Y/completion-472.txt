@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with exceptionally good lunch options in a lounge/bar setting"
+Named Entities: [exceptionally good (Rating), lunch (Cuisine), lounge/bar (Amenity)]
+
+Query: "Can you recommend a restaurant with exceptionally good lunch deals and a lounge atmosphere?"
+Named Entities: [exceptionally good (Rating), lunch (Cuisine), lounge (Amenity)]
+
+Query: "Where can I find exceptionally good lunch options in a bar setting?"
+Named Entities: [exceptionally good (Rating), lunch (Cuisine), bar (Amenity)]

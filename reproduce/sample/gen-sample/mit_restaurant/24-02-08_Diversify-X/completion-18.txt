@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a drive-thru that offers special discounts for dinner tonight?"
+Named Entities: [drive-thru (Amenity), special discounts (Amenity), dinner (Cuisine)]
+
+2. "I'm looking for a dinner place with a drive-thru and special discounts, could you suggest one nearby?"
+Named Entities: [dinner (Cuisine), drive-thru (Amenity), special discounts (Amenity), nearby (Location)]
+
+3. "Where can I find a restaurant with drive-thru service and special dinner discounts?"
+Named Entities: [drive-thru (Amenity), special dinner discounts (Amenity)]

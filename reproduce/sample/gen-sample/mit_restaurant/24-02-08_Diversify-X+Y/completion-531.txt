@@ -1,0 +1,8 @@
+Query: "do you know any food trucks that offer value for money food options"
+Named Entities: [food trucks (Amenity), value for money food options (Price)]
+
+Query: "where can I find a food truck with a bar counter nearby"
+Named Entities: [food truck (Amenity), bar counter (Amenity), nearby (Location)]
+
+Query: "which food truck has the best variety of value for money food options and a bar counter"
+Named Entities: [food truck (Amenity), best variety (Rating), value for money food options (Price), bar counter (Amenity)]

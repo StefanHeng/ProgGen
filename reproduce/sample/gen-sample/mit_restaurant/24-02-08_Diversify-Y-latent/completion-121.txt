@@ -1,0 +1,8 @@
+Query: "show me Italian restaurants with outdoor seating"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "what time does the sushi place close tonight"
+Named Entities: [sushi place (Restaurant Name), tonight (Hours)]
+
+Query: "recommend a budget-friendly steakhouse with a good wine selection"
+Named Entities: [budget-friendly (Price), steakhouse (Amenity), good wine selection (Amenity)]

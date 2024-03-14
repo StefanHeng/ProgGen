@@ -1,0 +1,8 @@
+Query: "can you recommend an exemplary seafood restaurant in the area"
+Named Entities: [exemplary (Rating), seafood (Cuisine), in-n-out burger (Restaurant Name)]
+
+Query: "what's the average price range for dining at in-n-out burger"
+Named Entities: [average price range (Price), in-n-out burger (Restaurant Name)]
+
+Query: "which restaurant has the best view of the city and is open late"
+Named Entities: [best view (Amenity), open late (Hours)]

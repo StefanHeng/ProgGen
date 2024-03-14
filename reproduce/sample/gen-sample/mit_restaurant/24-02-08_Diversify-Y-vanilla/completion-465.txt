@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with the best value for dinner tonight?"
+Named Entities: [Best value (Price)]
+
+2. "I'm looking for a place to celebrate, do you know if The Firehouse Grill is still open?"
+Named Entities: [The Firehouse Grill (Restaurant Name)]
+
+3. "Where can I find a restaurant that has won a James Beard Award for its cuisine?"
+Named Entities: [James Beard Award (Rating)]

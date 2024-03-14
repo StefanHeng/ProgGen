@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants with a gluten-free menu in the area?"
+Named Entities: [gluten-free menu (Amenity)]
+
+2. "I'm craving a fancy steak dinner, can you recommend The Capital Grille?"
+Named Entities: [fancy (Price), steak (Dish), The Capital Grille (Restaurant Name)]
+
+3. "What are the opening hours for The Capital Grille?"
+Named Entities: [The Capital Grille (Restaurant Name), opening hours (Hours)]

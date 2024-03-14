@@ -1,0 +1,8 @@
+1. Query: "Can you provide a preview snippet for the new science fiction movie that explores parallel universe exploration?"
+   Named Entities: [science fiction (Genre), parallel universe exploration (Plot), new (Year), preview snippet (Trailer)]
+
+2. Query: "Which film, directed by Christopher Nolan, is rated R and received high viewers' rating?"
+   Named Entities: [Christopher Nolan (Director), R (MPAA Rating), high viewers' rating (Review)]
+
+3. Query: "Show me a movie with the song 'My Heart Will Go On' and is set in the 19th century."
+   Named Entities: ['My Heart Will Go On' (Song), 19th century (Year)]

@@ -1,0 +1,11 @@
+1. Sentence: "Researchers discover ancient {{Mayan}} city hidden in the jungle."
+Text Span: "Mayan"
+Label: (C), other
+
+2. Sentence: "{{Italy}} imposes new restrictions to combat the spread of COVID-19."
+Text Span: "Italy"
+Label: (A)
+
+3. Sentence: "{{South Korean}} pop sensation BTS breaks records with their latest album release."
+Text Span: "South Korean"
+Label: (B), "South Korean" is the named location entity

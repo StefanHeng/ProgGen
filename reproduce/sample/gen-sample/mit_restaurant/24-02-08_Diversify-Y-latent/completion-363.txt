@@ -1,0 +1,8 @@
+1. "What's the last call for food around here?"
+Named Entities: [Last call for food (Hours)]
+
+2. "Do you know any restaurants with afternoon opening hours and lobster rolls on the menu?"
+Named Entities: [Afternoon opening (Hours), lobster rolls (Dish)]
+
+3. "I'm craving lobster rolls, can you recommend a restaurant with good reviews?"
+Named Entities: [lobster rolls (Dish), good reviews (Rating)]

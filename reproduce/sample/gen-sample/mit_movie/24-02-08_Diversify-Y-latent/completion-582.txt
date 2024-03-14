@@ -1,0 +1,8 @@
+1. "Can you provide me with some information about the movie with the famous song Danger Zone?"
+Named Entities: [Danger Zone (Song)]
+
+2. "Do you have any recommendations for movies from the 1940s that are Not Rated?"
+Named Entities: [1940s (Year), Not Rated (MPAA Rating)]
+
+3. "What is your favorite movie from the 1960s with outstanding musical compositions?"
+Named Entities: [1960s (Year), musical compositions (Song)]

@@ -1,0 +1,11 @@
+1. Query: "Do you know of any Industrial-style restaurants in the {{area}}?"
+Text Span: "area"
+Label: (B). Wrong Boundary. The correct span boundary is "in the area".
+
+2. Query: "I'm craving some sushi, is there a place {{nearby}} with all-you-can-eat pricing?"
+Text Span: "nearby"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend any Chipotle Mexican Grill locations {{nearby}} with outdoor seating and vegan options?"
+Text Span: "nearby"
+Label: (A). Correct Entity Annotation.

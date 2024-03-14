@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a late-night dining option at a Popular late-night eatery with an {{upscale}} ambience"
+Text Span: "upscale"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "What's a good place for a quick {{lunch}} with vegetarian options?"
+Text Span: "lunch"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Query: "I'm looking for a {{café}} with outdoor seating around Bluestone Lane, what's available?"
+Text Span: "café"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

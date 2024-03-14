@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a fantastic restaurant within walking distance with a great seafood menu?"
+Named Entities: [fantastic (Rating), within walking distance (Amenity), seafood (Cuisine)]
+
+2. Query: "What's the best place in town for a delicious dessert under $5?"
+Named Entities: [best (Rating), under $5 (Price), dessert (Dish)]
+
+3. Query: "I'm looking for a cozy spot that serves amazing Italian pasta dishes, do you have any recommendations?"
+Named Entities: [cozy (Amenity), amazing (Rating), Italian (Cuisine), pasta (Dish) ]

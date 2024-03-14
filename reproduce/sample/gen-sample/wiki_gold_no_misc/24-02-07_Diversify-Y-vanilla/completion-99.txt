@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The Beatles were an English rock band formed in Liverpool in 1960."
+Named Entities: [The Beatles (organization), Liverpool (location), 1960 (location)]
+
+Sentence: "She won the Academy Award for Best Actress for her performance in the film Erin Brockovich."
+Named Entities: [Academy Award (organization), Best Actress (organization), Erin Brockovich (person)]

@@ -1,0 +1,8 @@
+1. "What movie features the song 'My Heart Will Go On' by Celine Dion?"
+Named Entities: ['My Heart Will Go On' (Song), Celine Dion (Artist)]
+
+2. "Can you recommend a film with an iconic soundtrack from the 80s?"
+Named Entities: [iconic (Review), 80s (Year)]
+
+3. "I'm looking for a movie with a character who performs a memorable musical number. Can you suggest one?"
+Named Entities: [a character (Character), musical number (Plot)]

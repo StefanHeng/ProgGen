@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a phenomenal ensemble cast, like Ocean's Eleven?"
+Named Entities: [phenomenal ensemble (Review), Ocean's Eleven (Title)]
+
+2. Query: "What movie features the character Jack Skellington, and can you show me a preview?"
+Named Entities: [Jack Skellington (Character), preview (Trailer)]
+
+3. Query: "Do you know if there are any movies about artificial intelligence similar to Ex Machina directed by Céline Sciamma?"
+Named Entities: [artificial intelligence (Genre), Ex Machina (Title), Céline Sciamma (Director)]

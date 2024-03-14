@@ -1,0 +1,8 @@
+Query: "Can you recommend a prominent buffet restaurant with Mediterranean cuisine?"
+Named Entities: [prominent (Amenity), buffet (Amenity), Mediterranean (Cuisine)]
+
+Query: "I'm looking for a buffet spot in the area with Mediterranean dishes. What's the rating for the top one?"
+Named Entities: [buffet (Amenity), Mediterranean (Cuisine), rating for the top one (Rating)]
+
+Query: "I want to have dinner at a popular restaurant that serves Mediterranean buffet. What are the operating hours for the best one?"
+Named Entities: [popular (Rating), dinner (Amenity), Mediterranean (Cuisine), operating hours for the best one (Hours)]

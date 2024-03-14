@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director and the filming process of the movie The Sound of Music?"
+Named Entities: [The Sound of Music (Title), director (Director), filming process (Plot)]
+
+2. Query: "Do you have any documentaries about the making of classic Hollywood movies from the 1950s?"
+Named Entities: [documentaries (Genre), classic Hollywood movies from the 1950s (Year)]
+
+3. Query: "Can you recommend a movie that showcases the behind-the-scenes work of a famous director like Alfred Hitchcock?"
+Named Entities: [behind-the-scenes work (Plot), Alfred Hitchcock (Director)]

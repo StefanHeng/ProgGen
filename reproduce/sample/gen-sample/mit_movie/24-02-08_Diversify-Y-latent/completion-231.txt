@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with standout performances by Chris Pratt in a high school drama?"
+Named Entities: [standout performances (Review), Chris Pratt (Actor), high school drama (Genre)]
+
+2. Query: "Who directed the behind the scenes documentary about the making of Jurassic Park?"
+Named Entities: [behind the scenes (Plot), Jurassic Park (Title), documentary (Genre), Director (Director)]
+
+3. Query: "What movie from the 1990s features a song that became a cultural phenomenon?"
+Named Entities: [1990s (Year), song (Song), cultural phenomenon (Review)]

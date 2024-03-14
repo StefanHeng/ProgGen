@@ -1,0 +1,8 @@
+Query: "can you recommend a fine dining restaurant with a romantic ambience"
+Named Entities: [fine dining (Amenity), romantic ambience (Amenity)]
+
+Query: "what is the best fine dining restaurant with a prix fixe menu"
+Named Entities: [best (Rating), fine dining (Amenity), prix fixe menu (Amenity)]
+
+Query: "show me the nearest fine dining restaurant with a tasting menu"
+Named Entities: [nearest (Location), fine dining (Amenity), tasting menu (Amenity)]

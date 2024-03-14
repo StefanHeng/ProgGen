@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any TV-MA rated movies with a social message?"
+Named Entities: [TV-MA (MPAA Rating), social message (Genre)]
+
+2. Query: "I'm interested in watching a movie set in the 1960s, maybe something like Borat."
+Named Entities: [1960s (Year), Borat (Title)]
+
+3. Query: "Is there a director known for making thought-provoking films similar to those of Christopher Nolan?"
+Named Entities: [thought-provoking (Genre), Christopher Nolan (Director)]

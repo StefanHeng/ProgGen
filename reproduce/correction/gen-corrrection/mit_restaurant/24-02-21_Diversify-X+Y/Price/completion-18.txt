@@ -1,0 +1,11 @@
+1. Query: "Do you know of any {{fine dining}} establishments in the North area with a lounge/bar ambience?"
+Text Span: "fine dining"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "Can you recommend a restaurant with high chairs for kids and a {{costly}} dinner menu?"
+Text Span: "costly"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What are some Italian restaurants nearby that offer {{affordable}} lunch menus?"
+Text Span: "affordable"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. "I'm craving Korean BBQ, is there a good spot nearby?"
+Named Entities: [Korean (Cuisine), BBQ (Dish), nearby (Location)]
+
+2. "Which restaurants in the area serve Korean food and are open late?"
+Named Entities: [Korean (Cuisine), open late (Hours), area (Location)]
+
+3. "Do you know of any affordable Korean restaurants with high ratings?"
+Named Entities: [Korean (Cuisine), affordable (Price), high ratings (Rating)]

@@ -1,0 +1,8 @@
+1. Query: "I'm in a remote area, can you recommend a nearby burger joint?"
+Named Entities: [remote area (Location), burger joint (Cuisine)]
+
+2. Query: "Is there a residential neighborhood restaurant that serves vegan dishes?"
+Named Entities: [residential neighborhood (Location), vegan dishes (Cuisine)]
+
+3. Query: "Find me a budget-friendly place with good ratings within walking distance"
+Named Entities: [budget-friendly (Price), good ratings (Rating), walking distance (Amenity)]

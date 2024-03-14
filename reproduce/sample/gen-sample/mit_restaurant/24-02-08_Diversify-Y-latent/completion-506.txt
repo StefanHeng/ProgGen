@@ -1,0 +1,8 @@
+1. Query: "What's a good sushi restaurant nearby for lunch in the afternoon?"
+   Named Entities: [sushi (Cuisine), nearby (Location), lunch (Amenity), afternoon (Hours)]
+
+2. Query: "I'm craving for some pizza, can you recommend a place with outdoor seating for the afternoon?"
+   Named Entities: [pizza (Dish), outdoor seating (Amenity), afternoon (Hours)]
+
+3. Query: "Where can I find a restaurant with a high rating and affordable prices for dinner in the afternoon?"
+   Named Entities: [high rating (Rating), affordable prices (Price), dinner (Amenity), afternoon (Hours)]

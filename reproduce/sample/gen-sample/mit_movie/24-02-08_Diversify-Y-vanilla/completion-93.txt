@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from the 2000s starring Laura Dern?"
+Named Entities: [2000s (Year), Laura Dern (Actor)]
+
+2. "Could you show me the trailer for the film directed by David Lynch that features Laura Dern?"
+Named Entities: [trailer (Trailer), David Lynch (Director), Laura Dern (Actor)]
+
+3. "What is the viewers' rating for the movie in the 2000s where Laura Dern played a leading role?"
+Named Entities: [2000s (Year), Laura Dern (Actor), viewers' rating (Viewers' Rating)]

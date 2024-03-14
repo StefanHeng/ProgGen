@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Stanley Kubrick that is known for its groundbreaking special effects?"
+   Named Entities: [Stanley Kubrick (Director)]
+
+2. "What film starring Keanu Reeves is considered the most action-packed and entertaining?"
+   Named Entities: [Keanu Reeves (Actor), entertaining (Viewers' Rating)]
+
+3. "Have you heard anything about the new Brie Larson movie? I hope it's not as disappointing as her last film."
+   Named Entities: [Brie Larson (Actor), disappointing (Review)]

@@ -1,0 +1,149 @@
+1. "who directed the 1994 film pulp fiction"
+   Named Entities: [1994 (Year), pulp fiction (Title)]
+
+2. "what's the viewers' rating for the shawshank redemption"
+   Named Entities: [shawshank redemption (Title), viewers' rating (Viewers' Rating)]
+
+3. "what genre does the movie jurassic park belong to"
+   Named Entities: [jurassic park (Title)]
+
+4. "show me a list of films directed by steven spielberg"
+   Named Entities: [steven spielberg (Director)]
+
+5. "is the movie titanic rated pg-13"
+   Named Entities: [titanic (Title), pg-13 (MPAA Rating)]
+
+6. "what is the plot of the film inception"
+   Named Entities: [inception (Title), plot (Plot)]
+
+7. "who is the actor in the lead role in forrest gump"
+   Named Entities: [forrest gump (Title), lead role (Character), actor (Actor)]
+
+8. "can you show me a trailer for the film avatar"
+   Named Entities: [avatar (Title), trailer (Trailer)]
+
+9. "what song is featured in the movie the lion king"
+   Named Entities: [the lion king (Title)]
+
+10. "give me a review of the movie the godfather"
+    Named Entities: [the godfather (Title), review (Review)]
+
+11. "who is the director of the movie the matrix"
+    Named Entities: [the matrix (Title), director (Director)]
+
+12. "show me a list of comedy films from the 1980s"
+    Named Entities: [comedy (Genre), 1980s (Year)]
+
+13. "what is the mpaa rating for the film the dark knight"
+    Named Entities: [the dark knight (Title), mpaa rating (MPAA Rating)]
+
+14. "who played the character han solo in star wars"
+    Named Entities: [han solo (Character), star wars (Title)]
+
+15. "what is the viewers' rating for the movie the departed"
+    Named Entities: [the departed (Title), viewers' rating (Viewers' Rating)]
+
+16. "is the actor brad pitt in the movie fight club"
+    Named Entities: [brad pitt (Actor), fight club (Title)]
+
+17. "show me a scene from the classic film the wizard of oz"
+    Named Entities: [the wizard of oz (Title)]
+
+18. "what song is played during the ending credits of grease"
+    Named Entities: [grease (Title), ending credits (Song)]
+
+19. "can you give me a review of the film the silence of the lambs"
+    Named Entities: [the silence of the lambs (Title), review (Review)]
+
+20. "who is the director of the roman holiday movie"
+    Named Entities: [roman holiday (Title), director (Director)]
+
+21. "show me a list of action films starring keanu reeves"
+    Named Entities: [action (Genre), keanu reeves (Actor)]
+
+22. "what is the mpaa rating for the film jaws"
+    Named Entities: [jaws (Title), mpaa rating (MPAA Rating)]
+
+23. "what is the plot of the movie the truman show"
+    Named Entities: [the truman show (Title), plot (Plot)]
+
+24. "who is the actor in the lead role in casablanca"
+    Named Entities: [casablanca (Title), lead role (Character), actor (Actor)]
+
+25. "can you show me a trailer for the film black panther"
+    Named Entities: [black panther (Title), trailer (Trailer)]
+
+26. "what song is featured in the movie dirty dancing"
+    Named Entities: [dirty dancing (Title)]
+
+27. "give me a review of the movie the shawshank redemption"
+    Named Entities: [the shawshank redemption (Title), review (Review)]
+
+28. "who is the director of the movie the godfather"
+    Named Entities: [the godfather (Title), director (Director)]
+
+29. "show me a list of horror films from the 1970s"
+    Named Entities: [horror (Genre), 1970s (Year)]
+
+30. "what is the mpaa rating for the film saving private ryan"
+    Named Entities: [saving private ryan (Title), mpaa rating (MPAA Rating)]
+
+31. "who played the character indiana jones in raiders of the lost ark"
+    Named Entities: [indiana jones (Character), raiders of the lost ark (Title)]
+
+32. "what is the viewers' rating for the movie the green mile"
+    Named Entities: [the green mile (Title), viewers' rating (Viewers' Rating)]
+
+33. "is the actor tom cruise in the movie top gun"
+    Named Entities: [tom cruise (Actor), top gun (Title)]
+
+34. "show me a scene from the classic film gone with the wind"
+    Named Entities: [gone with the wind (Title)]
+
+35. "what song is played during the ending credits of the lion king"
+    Named Entities: [lion king (Title), ending credits (Song)]
+
+36. "can you give me a review of the film the godfather"
+    Named Entities: [the godfather (Title), review (Review)]
+
+37. "who is the director of the breakfast club movie"
+    Named Entities: [breakfast club (Title), director (Director)]
+
+38. "show me a list of sci-fi films starring arnold schwarzenegger"
+    Named Entities: [sci-fi (Genre), arnold schwarzenegger (Actor)]
+
+39. "what is the mpaa rating for the film the exorcist"
+    Named Entities: [the exorcist (Title), mpaa rating (MPAA Rating)]
+
+40. "what is the plot of the movie the matrix"
+    Named Entities: [the matrix (Title), plot (Plot)]
+
+41. "who is the actor in the lead role in the shining"
+    Named Entities: [the shining (Title), lead role (Character), actor (Actor)]
+
+42. "can you show me a trailer for the film jurassic park"
+    Named Entities: [jurassic park (Title), trailer (Trailer)]
+
+43. "what song is featured in the movie grease"
+    Named Entities: [grease (Title)]
+
+44. "give me a review of the movie inception"
+    Named Entities: [inception (Title), review (Review)]
+
+45. "who is the director of the movie the dark knight"
+    Named Entities: [the dark knight (Title), director (Director)]
+
+46. "show me a list of fantasy films from the 2000s"
+    Named Entities: [fantasy (Genre), 2000s (Year)]
+
+47. "what is the mpaa rating for the film alien"
+    Named Entities: [alien (Title), mpaa rating (MPAA Rating)]
+
+48. "who played the character rick blaine in casablanca"
+    Named Entities: [rick blaine (Character), casablanca (Title)]
+
+49. "what is the viewers' rating for the movie the godfather"
+    Named Entities: [the godfather (Title), viewers' rating (Viewers' Rating)]
+
+50. "is the actor bruce willis in the movie die hard"
+    Named Entities: [bruce willis (Actor), die hard (Title)]

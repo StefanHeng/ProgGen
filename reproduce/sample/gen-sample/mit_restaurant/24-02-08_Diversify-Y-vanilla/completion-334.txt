@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for a quick sandwich, where is the nearest Subway?"
+Named Entities: [quick (Amenity), nearest (Location), Subway (Restaurant Name)]
+
+2. Query: "Do you know of any place that serves vegetarian dishes and is open past midnight?"
+Named Entities: [vegetarian (Cuisine), past midnight (Hours)]
+
+3. Query: "I want to find a restaurant with a high rating and a reasonable price, can you help me?"
+Named Entities: [high rating (Rating), reasonable price (Price)]

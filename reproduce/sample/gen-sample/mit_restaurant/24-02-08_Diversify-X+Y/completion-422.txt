@@ -1,0 +1,8 @@
+1. Query: "I'm craving Cajun breakfast, where can I find some?"
+Named Entities: [Cajun (Cuisine), breakfast (Amenity)]
+
+2. Query: "What restaurants serve Cajun dishes for breakfast near me?"
+Named Entities: [Cajun (Cuisine), breakfast (Amenity), near me (Location)]
+
+3. Query: "Do you know any Cajun restaurants open early for breakfast?"
+Named Entities: [Cajun (Cuisine), early (Hours), breakfast (Amenity)]

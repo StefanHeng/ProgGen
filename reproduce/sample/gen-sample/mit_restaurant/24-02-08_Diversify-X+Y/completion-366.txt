@@ -1,0 +1,8 @@
+1. "I'm in the mood for some spicy Cajun fast food, where can I get a good cajun dish?"
+Named Entities: [spicy (Amenity), Cajun (Cuisine), cajun dish (Dish)]
+
+2. "I want to grab a quick bite, where can I find a place with tasty quesadillas nearby?"
+Named Entities: [quick bite (Amenity), tasty quesadillas (Dish)]
+
+3. "I'm craving some fast food, is there a restaurant with delicious quesadillas and affordable prices?"
+Named Entities: [fast food (Cuisine), delicious quesadillas (Dish), affordable prices (Price)]

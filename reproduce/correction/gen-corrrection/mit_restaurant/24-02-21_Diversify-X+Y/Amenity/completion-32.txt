@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a Zagat-rated {{buffet}} restaurant in the downtown area?"
+Text Span: "buffet"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "Can you recommend a {{brunch}} spot with an urban/chic ambience that offers live music during late morning hours?"
+Text Span: "brunch"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I'm looking for a romantic lunch spot, maybe with some {{outdoor seating}}, near Panera Bread."
+Text Span: "outdoor seating"
+Label: (A). The span is a named entity of type amenity

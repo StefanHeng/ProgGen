@@ -1,0 +1,11 @@
+1. Sentence: "{{Coca-Cola}} announces new partnership with local farmer's market to source fresh ingredients."
+Text Span: "Coca-Cola"
+Label: (A)
+
+2. Sentence: "Local {{charity organization}} hosts annual fundraiser for homeless shelter."
+Text Span: "charity organization"
+Label: (A)
+
+3. Sentence: "{{non-profit organization}} launches campaign to offer free vacations to underprivileged families."
+Text Span: "non-profit organization"
+Label: (A)

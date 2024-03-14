@@ -1,0 +1,8 @@
+1. "Can you make a reservation at Blue Hill at Stone Barns for 7 pm tonight?"
+Named Entities: [Blue Hill at Stone Barns (Restaurant Name), 7 pm (Hours)]
+
+2. "I'm in the mood for some American comfort food, where can I find a good spot?"
+Named Entities: [American (Cuisine)]
+
+3. "What's the price range like at Spago? I'm looking for a place for a special occasion."
+Named Entities: [Spago (Restaurant Name), special occasion (Amenity)]

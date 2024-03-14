@@ -1,0 +1,8 @@
+1. "I'm looking for a fast-casual restaurant with a buffet for tonight"
+Named Entities: [buffet (Amenity), fast-casual (Amenity), tonight (Hours)]
+
+2. "What are some good options for a fast-casual buffet restaurant nearby?"
+Named Entities: [fast-casual (Amenity), buffet (Amenity), nearby (Location)]
+
+3. "Can you recommend a fast-casual place with a buffet for lunch?"
+Named Entities: [fast-casual (Amenity), buffet (Amenity), lunch (Hours)]

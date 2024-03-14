@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-end café with good happy hour specials"
+Named Entities: [high-end (Price), café (Cuisine), good (Rating), happy hour (Amenity)]
+
+Query: "Where can I find a fancy café with happy hour deals"
+Named Entities: [fancy (Amenity), café (Cuisine), happy hour (Amenity)]
+
+Query: "I'm looking for a high-class café with happy hour options"
+Named Entities: [high-class (Price), café (Cuisine), happy hour (Amenity)]

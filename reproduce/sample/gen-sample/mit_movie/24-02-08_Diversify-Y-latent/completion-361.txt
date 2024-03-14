@@ -1,0 +1,8 @@
+1. "Can you recommend me a movie similar to Undercover agent?"
+Named Entities: [Undercover agent (Title)]
+
+2. "Tell me about the plot of The Green Mile and who directed it."
+Named Entities: [The Green Mile (Title), plot (Plot), directed (Director)]
+
+3. "Is the actor Christopher Reeve in any Superman movies?"
+Named Entities: [Christopher Reeve (Actor), Superman (Title)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good happy hour deal for lunch?"
+Named Entities: [good (Rating), happy hour (Amenity), lunch (Meal Category)]
+
+2. "I'm looking for a place with lunch specials and a great happy hour menu, do you have any suggestions?"
+Named Entities: [lunch specials (Amenity), happy hour (Amenity), lunch (Meal Category)]
+
+3. "Find me a restaurant with lunch options and a happy hour that starts before 3 pm"
+Named Entities: [lunch options (Amenity), happy hour (Amenity), before 3 pm (Hours), lunch (Meal Category)]

@@ -1,0 +1,8 @@
+1. Query: "What is the latest Trailer release for a film directed by Denis Villeneuve?"
+Named Entities: [Trailer release, Denis Villeneuve (Director)]
+
+2. Query: "Can I see a Preview clip of the new science fiction movie directed by Denis Villeneuve?"
+Named Entities: [Preview clip, Denis Villeneuve (Director), science fiction (Genre)]
+
+3. Query: "Is there a well-rated movie from the 1990s with a strong female lead character?"
+Named Entities: [1990s (Year), strong female lead (Character)]

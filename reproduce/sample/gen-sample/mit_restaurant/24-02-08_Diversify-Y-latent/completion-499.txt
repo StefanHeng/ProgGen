@@ -1,0 +1,8 @@
+Query: "I'm craving some Greek food, where can I find a good Greek restaurant around here"
+Named Entities: [Greek (Cuisine), good (Rating), around here (Location)]
+
+Query: "I want to try some authentic curry, can you suggest a place with great curry dishes"
+Named Entities: [curry (Cuisine), authentic (Rating)]
+
+Query: "I'm in the mood for some beef stir-fry, where can I get a tasty beef stir-fry dish for a reasonable price"
+Named Entities: [beef stir-fry (Dish), tasty (Rating), reasonable price (Price)]

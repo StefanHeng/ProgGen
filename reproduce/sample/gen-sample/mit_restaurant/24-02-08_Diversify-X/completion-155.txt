@@ -1,0 +1,8 @@
+Query: "show me the nearest fast food restaurants with drive-thru service"
+Named Entities: [nearest (Location), fast food (Cuisine), drive-thru service (Amenity)]
+
+Query: "what's the rating of the closest burger joint"
+Named Entities: [closest (Location), burger joint (Cuisine)]
+
+Query: "where can I find a fast food restaurant open past midnight"
+Named Entities: [fast food (Cuisine), open past midnight (Hours)]

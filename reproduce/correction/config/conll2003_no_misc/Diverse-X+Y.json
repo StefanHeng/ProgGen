@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "dataset_name": "conll2003-no-misc",
+        "source_dataset_dir_name": "24-02-25_NER-Dataset_{fmt=n-p2,#l=3,ap={dc=T,de=s}}_add-super-idx",
+        "diversity_variant": "Diverse-X+Y"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Only first names, last names, and full names are considered named person entities. Any general reference to a person or people such as \"woman\", \"CEO\" and \"high school student\" is not a named entity. A named person entity should not have any starting titles such as \"Professor\" and \"Dr.\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "CEO of Dubai-based company arrested for fraud.",
+                    "entity_span": "CEO",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "China's President Xi Jinping meets with South Korean leader for trade talks.",
+                    "entity_span": "Xi Jinping",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Professor David Johnson from Buenos Aires, Argentina, receives prestigious award from the National Society for the Gifted and Talented.",
+                    "entity_span": "Professor David Johnson",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "David Johnson",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Indian Prime Minister to visit Berlin next week.",
+                    "entity_span": "Indian Prime Minister",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Any general reference to a location or locations such as \"downtown area\" and \"community center\" is not a named entity. Events like \"Olympics\" and \"Fashion Week\" are not relevant named entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "Celebrities flock to Paris Fashion Week for the latest trends.",
+                    "entity_span": "Paris Fashion Week",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Paris",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The mayor of Manchester delivers a speech at the town hall.",
+                    "entity_span": "Manchester",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Any general reference to an organization or organizations such as \"non-profit organization\", \"foreign government\", \"high school\" and \"school district\" is not a named entity. Adjectives such as \"Indian\", \"European\", \"Israeli\", and \"Russian\" are also not relevant named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "Joe Biden holds talks with European leaders on climate change and global security.",
+                    "entity_span": "European",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Environmental group launches campaign to protect Arctic Circle wildlife.",
+                    "entity_span": "Environmental group",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Taiwanese startup revolutionizes the tech industry in Canada with innovative new app.",
+                    "entity_span": "Taiwanese",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Renowned Indian classical dancer performs at prestigious cultural event in Mumbai, India.",
+                    "entity_span": "Indian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

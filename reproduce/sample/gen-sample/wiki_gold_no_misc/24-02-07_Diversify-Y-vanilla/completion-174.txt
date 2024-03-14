@@ -1,0 +1,8 @@
+1. "Johann Sebastian Bach composed over 1,000 works of music during his lifetime."
+Named Entities: [Johann Sebastian Bach (person)]
+
+2. "Winston Churchill served as the Prime Minister of the United Kingdom during World War II."
+Named Entities: [Winston Churchill (person), United Kingdom (location), World War II (event)]
+
+3. "The World Health Organization is a specialized agency of the United Nations responsible for international public health."
+Named Entities: [World Health Organization (organization), United Nations (organization)]

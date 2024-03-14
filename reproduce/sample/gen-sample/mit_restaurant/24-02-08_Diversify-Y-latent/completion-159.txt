@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with a cozy atmosphere and a fireplace"
+Named Entities: [cozy atmosphere (Amenity), Fireplace (Amenity)]
+
+Query: "Can you recommend any restaurants nearby with a fireplace?"
+Named Entities: [Fireplace (Amenity)]
+
+Query: "Which restaurants in the area have a fireplace and serve vegetarian cuisine?"
+Named Entities: [Fireplace (Amenity), vegetarian (Cuisine)]

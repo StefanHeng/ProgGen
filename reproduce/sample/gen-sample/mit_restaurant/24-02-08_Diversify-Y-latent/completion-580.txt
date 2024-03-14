@@ -1,0 +1,8 @@
+1. "Do you know if the reservation system is working at that new Italian restaurant downtown?"
+Named Entities: [reservation system (Amenity), Italian (Cuisine), downtown (Location)]
+
+2. "I'm craving a falafel wrap for lunch, where can I find one nearby?"
+Named Entities: [falafel wrap (Dish), nearby (Location)]
+
+3. "Which restaurant serves the best sushi in town and at what price range?"
+Named Entities: [best (Rating), sushi (Cuisine), town (Location), price range (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "tonight"
+Label: (A). The span is a named entity of type hours
+
+2. Text Span: "Closing hours"
+Label: (C). The span is a named entity but the category is not hours. The correct entity type is Hours.
+
+3. Text Span: "Wednesday"
+Label: (A). The span is a named entity of type hours

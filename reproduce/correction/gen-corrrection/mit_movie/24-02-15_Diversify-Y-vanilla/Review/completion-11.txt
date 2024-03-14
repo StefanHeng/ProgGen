@@ -1,0 +1,11 @@
+1. Query: "I'm looking for the final trailer of the most {{displeasing}} horror movie"
+Text Span: "displeasing"
+Label: (A). The span is a named entity of type review
+
+2. Query: "Which movie directed by Luca Guadagnino is known for its {{razor-sharp dialogue}}?"
+Text Span: "razor-sharp dialogue"
+Label: (A). The span is a named entity of type review
+
+3. Query: "Are there any movies starring Kevin Spacey that are considered {{a standout}} in the drama genre?"
+Text Span: "a standout"
+Label: (A). The span is a named entity of type review

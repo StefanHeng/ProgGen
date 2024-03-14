@@ -1,0 +1,8 @@
+Query: "I'm not sure what type of movie I'm in the mood for, maybe something thrilling or suspenseful?"
+Named Entities: [thrilling (Genre), suspenseful (Genre)]
+
+Query: "I'm trying to decide on a movie to watch tonight, should I go for something classic or a more modern film?"
+Named Entities: [classic (Genre), modern (Genre)]
+
+Query: "I can't make up my mind if I want to watch a comedy or a romantic comedy, what do you suggest?"
+Named Entities: [comedy (Genre), romantic comedy (Genre)]

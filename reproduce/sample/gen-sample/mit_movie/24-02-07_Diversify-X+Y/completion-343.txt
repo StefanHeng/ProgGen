@@ -1,0 +1,8 @@
+1. "Hey, can I watch any entertaining movies by Wes Anderson on any streaming platform?"
+   Named Entities: [Entertaining (Review), Wes Anderson (Director)]
+
+2. "Are there any movies rated 8 out of 10 that I can watch on a streaming platform, like Netflix or Hulu?"
+   Named Entities: [8 out of 10 (Viewers' Rating)]
+
+3. "I heard about a cool movie by Wes Anderson. Can you help me find it on a streaming platform?"
+   Named Entities: [Wes Anderson (Director)]

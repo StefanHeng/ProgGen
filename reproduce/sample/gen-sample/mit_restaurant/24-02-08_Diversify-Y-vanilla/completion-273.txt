@@ -1,0 +1,8 @@
+Query: "Can you recommend a Mexican restaurant with outdoor seating?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]
+
+Query: "What are the high-rated seafood places in the downtown area?"
+Named Entities: [high-rated (Rating), seafood (Cuisine), downtown area (Location)]
+
+Query: "I want to try some authentic Italian pizza for a reasonable price, any suggestions?"
+Named Entities: [authentic Italian pizza (Dish), reasonable price (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "the fourth planet from the Sun in the Solar System"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Mona Lisa"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Berkeley"
+Label: (A). The span is a named entity of type location

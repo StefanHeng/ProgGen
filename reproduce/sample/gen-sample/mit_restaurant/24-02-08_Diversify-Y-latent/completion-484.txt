@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with a fireplace for night time dining?"
+Named Entities: [fireplace (Amenity), night time dining (Amenity)]
+
+2. "Do you know of any restaurants with a bar area for breakfast hours?"
+Named Entities: [bar area (Amenity), breakfast hours (Hours)]
+
+3. "Can you recommend a place for me to eat with a good rating that offers night time dining?"
+Named Entities: [good (Rating), night time dining (Amenity)]

@@ -1,0 +1,8 @@
+Query: "I need to know, what movie has a sensational soundtrack?"
+Named Entities: [sensational soundtrack (Song)]
+
+Query: "I'm in a rush! Tell me a movie from the 90s with a 10/10 rating."
+Named Entities: [90s (Year), 10/10 (Viewers' Rating)]
+
+Query: "I'm dying to hear a song from the movie Empire Records, like right now. Can you play it?"
+Named Entities: [Empire Records (Title), song (Song)]

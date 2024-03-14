@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with live music and a good menu for happy hour?"
+Named Entities: [live music (Amenity), happy hour (Amenity)]
+
+2. "I'm in the mood for some pancakes, can you find the closest IHOP?"
+Named Entities: [pancakes (Dish), closest (Location), IHOP (Restaurant Name)]
+
+3. "What's a good seafood restaurant with outdoor seating and a high rating?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), high rating (Rating)]

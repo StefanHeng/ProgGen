@@ -1,0 +1,8 @@
+Query: "I'm looking for a family-friendly restaurant with a kids menu and outdoor seating for dinner."
+Named Entities: [family-friendly (Amenity), kids menu (Dish), outdoor seating (Amenity), dinner (Amenity)]
+
+Query: "Can you recommend a romantic restaurant with a wine selection and a prix fixe menu for dinner?"
+Named Entities: [romantic (Amenity), wine selection (Amenity), prix fixe menu (Dish), dinner (Amenity)]
+
+Query: "I want to find a cozy bistro with live music and a vegetarian option for dinner tonight."
+Named Entities: [cozy bistro (Restaurant Name), live music (Amenity), vegetarian option (Dish), dinner (Amenity)]

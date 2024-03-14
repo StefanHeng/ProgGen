@@ -1,0 +1,8 @@
+1. "I'm craving some [Apple pie] right now. Where can I find a restaurant with a great dessert menu?"
+Named Entities: [Apple pie (Dish), dessert menu (Amenity)]
+
+2. "Can you recommend a [restaurant name] in the area that offers a casual dining experience and is open late at night?"
+Named Entities: [restaurant name (Restaurant Name), casual dining (Amenity), late at night (Hours)]
+
+3. "I'm in the mood for some authentic [cuisine]. Do you know of any place nearby that serves it at a reasonable price?"
+Named Entities: [cuisine (Cuisine), reasonable price (Price)]

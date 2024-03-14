@@ -1,0 +1,8 @@
+Query: "Are there any cafés nearby that serve American cuisine for breakfast"
+Named Entities: [cafés (Amenity), nearby (Location), American cuisine (Cuisine), breakfast (Hours)]
+
+Query: "I'm looking for a café that offers a variety of options for brunch in the downtown area"
+Named Entities: [café (Amenity), variety of options (Cuisine), downtown area (Location), brunch (Hours)]
+
+Query: "What cafés in this area have a good selection of dishes for lunch and are known for their cozy atmosphere"
+Named Entities: [cafés (Amenity), good selection of dishes (Cuisine), cozy atmosphere (Amenity), lunch (Hours)]

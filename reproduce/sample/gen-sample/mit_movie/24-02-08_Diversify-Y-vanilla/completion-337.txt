@@ -1,0 +1,8 @@
+Query: "What is the plot of the movie Her?" 
+Named Entities: [Her (Title)]
+
+Query: "Who directed the film Her?" 
+Named Entities: [Her (Title)]
+
+Query: "Can you show me the trailer for Her?" 
+Named Entities: [Her (Title), trailer (Trailer)]

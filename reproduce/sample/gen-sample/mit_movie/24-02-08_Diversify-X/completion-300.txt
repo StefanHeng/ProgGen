@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director)]
+
+Query: "Can you provide a review for the film The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), review (Review)]
+
+Query: "Show me the trailer for the latest Quentin Tarantino movie."
+Named Entities: [latest Quentin Tarantino movie (Title), trailer (Trailer)]

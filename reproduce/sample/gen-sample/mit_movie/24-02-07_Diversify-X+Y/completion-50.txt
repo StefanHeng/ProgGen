@@ -1,0 +1,8 @@
+Query: "I need to know who the director is for the unrated Singin' in the Rain movie"
+Named Entities: [unrated (MPAA Rating), Singin' in the Rain (Title), director (Director)]
+
+Query: "I'm dying to find out which movie has perfect casting and a great preview"
+Named Entities: [perfect casting (Review), preview (Trailer)]
+
+Query: "Can you tell me if the movie 12 Years has any famous actors in it?"
+Named Entities: [12 Years (Title), famous actors (Actor)]

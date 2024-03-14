@@ -1,0 +1,11 @@
+1. Query: "What's the {{price range}} for the steakhouse on Oak Avenue?"
+Text Span: "price range"
+Label: (D). Not a Named Entity
+
+2. Query: "What's the {{average price range}} for a French restaurant?"
+Text Span: "average price range"
+Label: (A). Correct Entity Annotation
+
+3. Query: "What's the most {{affordable}} sushi place in the area?"
+Text Span: "affordable"
+Label: (A). Correct Entity Annotation

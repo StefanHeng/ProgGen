@@ -1,0 +1,8 @@
+Query: "What is the genre of the movie Black Panther"
+Named Entities: [Black Panther (Title)]
+
+Query: "Can you play a trailer for The Matrix"
+Named Entities: [The Matrix (Title), trailer (Trailer)]
+
+Query: "What is the plot of The Rocky Horror Picture Show"
+Named Entities: [The Rocky Horror Picture Show (Title), plot (Plot)]

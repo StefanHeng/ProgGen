@@ -1,0 +1,8 @@
+Query: "I want to watch a movie with surrealism as its main theme"
+Named Entities: [surrealism (Genre)]
+
+Query: "recommend a movie about environmental disaster that came out in the 21st century"
+Named Entities: [environmental disaster (Plot), 21st century (Year)]
+
+Query: "is there any historical movie with an alien invasion as the main plot"
+Named Entities: [historical (Genre), alien invasion (Plot)]

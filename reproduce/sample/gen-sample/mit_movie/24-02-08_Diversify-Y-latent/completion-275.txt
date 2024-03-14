@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a love triangle released between 2020 and 2025?"
+Named Entities: [love triangle (Plot), 2020-2025 (Year)]
+
+2. Query: "Show me a trailer for a treasure hunt film from the late 2010s"
+Named Entities: [treasure hunt (Plot), late 2010s (Year), trailer (Trailer)]
+
+3. Query: "What is the latest movie starring Daniel Radcliffe?"
+Named Entities: [Daniel Radcliffe (Actor), latest (Year)]

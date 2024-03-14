@@ -1,0 +1,11 @@
+1. Sentence: "{{The Sahara Desert}} is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic, with an area of about 9.2 million square kilometers."
+Text Span: "The Sahara Desert"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Battle of Gettysburg was fought from July 1 to July 3, 1863, in and around the town of {{Gettysburg}}, Pennsylvania, by Union and Confederate forces during the American Civil War."
+Text Span: "Gettysburg"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "In the 19th century, existentialist philosophy gained popularity in {{Paris}}, influencing a wide range of fields including literature, art, and political theory."
+Text Span: "Paris"
+Label: (A). The span is a named entity of type location

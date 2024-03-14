@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Lars von Trier with a viewers' rating of 9.5 out of 10?"
+Named Entities: [Lars von Trier (Director), 9.5 out of 10 (Viewers' Rating)]
+
+2. "Is Salma Hayek in the movie Django Unchained released in 1957?"
+Named Entities: [Salma Hayek (Actor), Django Unchained (Title), 1957 (Year)]
+
+3. "What is the genre of the movie with a song from the 1950s that has a viewers' rating of 9.5 out of 10?"
+Named Entities: [1950s (Year), 9.5 out of 10 (Viewers' Rating)]

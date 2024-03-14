@@ -1,0 +1,8 @@
+1. Text Span: "Jon Watts"
+Label: (A). The span is a named entity of type director
+
+2. Text Span: "Pixar"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Studio
+
+3. Text Span: "Christopher Nolan"
+Label: (A). The span is a named entity of type director

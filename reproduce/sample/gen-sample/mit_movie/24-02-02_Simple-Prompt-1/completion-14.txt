@@ -1,0 +1,149 @@
+1. "Can you tell me the plot of the movie Inception?"
+Named Entities: [Inception (Title), plot (Plot)]
+
+2. "What is the viewers' rating for The Dark Knight?"
+Named Entities: [The Dark Knight (Title), viewers' rating (Viewers' Rating)]
+
+3. "When was the movie The Shawshank Redemption released?"
+Named Entities: [The Shawshank Redemption (Title), released (Year)]
+
+4. "I'm looking for a comedy film, can you recommend one?"
+Named Entities: [comedy (Genre)]
+
+5. "Who directed the movie Titanic?"
+Named Entities: [Titanic (Title), directed (Director)]
+
+6. "What is the MPAA rating for The Matrix?"
+Named Entities: [The Matrix (Title), MPAA rating (MPAA Rating)]
+
+7. "Can you show me the trailer for the film Interstellar?"
+Named Entities: [Interstellar (Title), trailer (Trailer)]
+
+8. "What is the name of the song from the movie The Greatest Showman?"
+Named Entities: [The Greatest Showman (Title), song (Song)]
+
+9. "I heard that The Godfather has great reviews, is that true?"
+Named Entities: [The Godfather (Title), great reviews (Review)]
+
+10. "Is Harrison Ford one of the actors in Indiana Jones?"
+Named Entities: [Harrison Ford (Actor), Indiana Jones (Character)]
+
+11. "Can you find me a movie released in the 1980s?"
+Named Entities: [1980s (Year)]
+
+12. "What genre does the film Fight Club belong to?"
+Named Entities: [Fight Club (Title), genre (Genre)]
+
+13. "Who was the director of The Social Network?"
+Named Entities: [The Social Network (Title), director (Director)]
+
+14. "What is the MPAA rating for the movie Jaws?"
+Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+
+15. "Do you have any information about the plot of The Silence of the Lambs?"
+Named Entities: [The Silence of the Lambs (Title), plot (Plot)]
+
+16. "Which actor played the lead role in Forrest Gump?"
+Named Entities: [Forrest Gump (Title), lead role (Character), actor (Actor)]
+
+17. "What is the song from the movie Moana?"
+Named Entities: [Moana (Title), song (Song)]
+
+18. "I'm interested in reading some reviews of the film The Shawshank Redemption."
+Named Entities: [The Shawshank Redemption (Title), reviews (Review)]
+
+19. "Is The Departed a must-see movie?"
+Named Entities: [The Departed (Title), must-see (Viewers' Rating)]
+
+20. "Can you tell me what genre the movie Casablanca falls under?"
+Named Entities: [Casablanca (Title), genre (Genre)]
+
+21. "Who is the main actor in the movie Gladiator?"
+Named Entities: [Gladiator (Title), main actor (Actor)]
+
+22. "When was the movie Pulp Fiction released?"
+Named Entities: [Pulp Fiction (Title), released (Year)]
+
+23. "I'd like to watch a musical, can you recommend one?"
+Named Entities: [musical (Genre)]
+
+24. "Who directed the film The Godfather?"
+Named Entities: [The Godfather (Title), directed (Director)]
+
+25. "What is the MPAA rating for the movie The Lion King?"
+Named Entities: [The Lion King (Title), MPAA rating (MPAA Rating)]
+
+26. "Can I see the trailer for the film The Avengers?"
+Named Entities: [The Avengers (Title), trailer (Trailer)]
+
+27. "What is the name of the song from the movie La La Land?"
+Named Entities: [La La Land (Title), song (Song)]
+
+28. "Are there any good reviews for the film The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), good reviews (Review)]
+
+29. "Is Brad Pitt a part of the cast in the movie Fight Club?"
+Named Entities: [Brad Pitt (Actor), Fight Club (Title), cast (Character)]
+
+30. "What year did the movie E.T. the Extra-Terrestrial come out?"
+Named Entities: [E.T. the Extra-Terrestrial (Title), come out (Year)]
+
+31. "Can you recommend a thriller film?"
+Named Entities: [thriller (Genre)]
+
+32. "Who directed the movie Schindler's List?"
+Named Entities: [Schindler's List (Title), directed (Director)]
+
+33. "What is the MPAA rating for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), MPAA rating (MPAA Rating)]
+
+34. "Can I find out the plot of the movie The Godfather?"
+Named Entities: [The Godfather (Title), plot (Plot)]
+
+35. "Who plays the main character in The Matrix?"
+Named Entities: [The Matrix (Title), main character (Character)]
+
+36. "What is the song from the movie Frozen?"
+Named Entities: [Frozen (Title), song (Song)]
+
+37. "How are the reviews for the film Inception?"
+Named Entities: [Inception (Title), reviews (Review)]
+
+38. "Is The Shawshank Redemption a highly-rated movie?"
+Named Entities: [The Shawshank Redemption (Title), highly-rated (Viewers' Rating)]
+
+39. "Who directed the movie The Dark Knight?"
+Named Entities: [The Dark Knight (Title), directed (Director)]
+
+40. "What is the MPAA rating for the movie The Incredibles?"
+Named Entities: [The Incredibles (Title), MPAA rating (MPAA Rating)]
+
+41. "Could you show me the trailer for the film Jurassic Park?"
+Named Entities: [Jurassic Park (Title), trailer (Trailer)]
+
+42. "What is the name of the song from the movie A Star is Born?"
+Named Entities: [A Star is Born (Title), song (Song)]
+
+43. "Are there any positive reviews for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), positive reviews (Review)]
+
+44. "Is Tom Hanks in the film Forrest Gump?"
+Named Entities: [Tom Hanks (Actor), Forrest Gump (Title)]
+
+45. "When was the movie E.T. the Extra-Terrestrial released?"
+Named Entities: [E.T. the Extra-Terrestrial (Title), released (Year)]
+
+46. "Can you recommend a horror movie?"
+Named Entities: [horror (Genre)]
+
+47. "Who was the director of the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), directed (Director)]
+
+48. "What is the MPAA rating for the movie The Matrix?"
+Named Entities: [The Matrix (Title), MPAA rating (MPAA Rating)]
+
+49. "Do you have any details about the plot of the film The Godfather?"
+Named Entities: [The Godfather (Title), plot (Plot)]
+
+50. "Who is the lead actor in the movie Inception?"
+Named Entities: [Inception (Title), lead actor (Actor)]

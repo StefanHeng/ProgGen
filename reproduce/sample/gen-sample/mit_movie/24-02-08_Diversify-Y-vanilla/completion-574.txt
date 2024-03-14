@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the latest F. Gary Gray movie?"
+Named Entities: [trailer (Trailer), F. Gary Gary (Director)]
+
+2. "I'm looking for a movie with great reviews, could you recommend one?"
+Named Entities: [great reviews (Review)]
+
+3. "Do you have any information on the promotional events for the upcoming action movie?"
+Named Entities: [promotional events (Promo), upcoming action movie (Genre)]

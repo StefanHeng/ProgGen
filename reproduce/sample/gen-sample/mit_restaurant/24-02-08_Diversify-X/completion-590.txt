@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a casual ambience?"
+Named Entities: [fine dining (Price), casual (Amenity)]
+
+2. "I'm looking for a place with upscale cuisine and a relaxed atmosphere"
+Named Entities: [upscale (Price), relaxed (Amenity)]
+
+3. "Where can I find a high-end restaurant with a laid-back vibe?"
+Named Entities: [high-end (Price), laid-back (Amenity)]

@@ -1,0 +1,11 @@
+1. Sentence: "The Global Fund is a partnership organization designed to accelerate the end of {{AIDS}}, tuberculosis and malaria as epidemics."
+Text Span: "AIDS"
+Label: (D). Not a Named Entity
+
+2. Sentence: "The Great Wall of China, a series of fortifications, was built to protect the {{Chinese}} states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe."
+Text Span: "Chinese"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "Alex Morgan, an American soccer player, has won two {{FIFA}} Women's World Cup titles with the United States national team."
+Text Span: "FIFA"
+Label: (A). The span is a named entity of type organization

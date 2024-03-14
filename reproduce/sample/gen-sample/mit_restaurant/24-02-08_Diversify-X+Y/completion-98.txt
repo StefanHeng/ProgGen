@@ -1,0 +1,8 @@
+1. "I'm in the mood for Mediterranean food, where can I find a highly rated place to have dinner?"
+Named Entities: [Mediterranean (Cuisine), highly rated (Rating), dinner (Amenity)]
+
+2. "I need a restaurant with Mediterranean options that's open until 10 p.m. and is located in the downtown area"
+Named Entities: [Mediterranean (Cuisine), until 10 p.m. (Hours), downtown area (Location)]
+
+3. "Can you recommend a Mediterranean restaurant with a budget-friendly dinner menu?"
+Named Entities: [Mediterranean (Cuisine), budget-friendly (Price), dinner (Amenity)]

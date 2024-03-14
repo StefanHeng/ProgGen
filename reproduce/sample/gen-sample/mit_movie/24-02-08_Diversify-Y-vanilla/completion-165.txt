@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the movie featuring a thrilling undercover operation?"
+Named Entities: [thrilling undercover operation (Plot)]
+
+2. "I'm looking for a movie with an intense animal kingdom power struggle. Any recommendations?"
+Named Entities: [intense animal kingdom power struggle (Plot)]
+
+3. "Which movie starring Anthony Hopkins was rated M and is considered top-notch?"
+Named Entities: [Anthony Hopkins (Actor), M (MPAA Rating), top-notch (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies with believable performances from 1976?"
+Named Entities: [Believable performances (Review), 1976 (Year)]
+
+2. Query: "Show me a movie with the trailer that features the song 'Bohemian Rhapsody'"
+Named Entities: ['Bohemian Rhapsody' (Song), trailer (Trailer)]
+
+3. Query: "What is the main plot of the action film directed by Christopher Nolan?"
+Named Entities: [Action film (Genre), Christopher Nolan (Director)]

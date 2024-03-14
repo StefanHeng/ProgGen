@@ -1,0 +1,8 @@
+1. Query: "Where can I find some Scottish cuisine for dinner tonight?"
+Named Entities: [Scottish (Cuisine), dinner hours (Hours)]
+
+2. Query: "I'm looking for a restaurant with a variety of options on the menu, preferably near The Pizza Place"
+Named Entities: [variety of options (Amenity), The Pizza Place (Location)]
+
+3. Query: "What's a good restaurant with affordable prices and a high rating?"
+Named Entities: [good (Rating), affordable prices (Price)]

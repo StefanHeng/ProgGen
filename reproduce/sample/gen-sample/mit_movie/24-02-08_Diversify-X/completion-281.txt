@@ -1,0 +1,8 @@
+Query: "who directed the movie Inception"
+Named Entities: [Inception (Title)]
+
+Query: "what is the rating for the movie The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title)]
+
+Query: "show me a trailer for the latest movie directed by Christopher Nolan"
+Named Entities: [Christopher Nolan (Director)]

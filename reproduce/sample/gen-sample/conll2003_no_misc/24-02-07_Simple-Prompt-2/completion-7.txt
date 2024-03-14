@@ -1,0 +1,29 @@
+1. The U.S. House of Representatives passed the bill with a vote of 220-212.
+Named Entities: [U.S. House of Representatives (organization)]
+
+2. President Biden issued a statement on the ongoing conflict in the Middle East.
+Named Entities: [President Biden (person), Middle East (location)]
+
+3. The World Health Organization declared the Ebola outbreak a public health emergency.
+Named Entities: [World Health Organization (organization), Ebola (organization)]
+
+4. Several residents in New York City reported sightings of a large black bear in the area.
+Named Entities: [New York City (location)]
+
+5. Elon Musk's SpaceX successfully launched another batch of Starlink satellites.
+Named Entities: [Elon Musk (person), SpaceX (organization), Starlink (organization)]
+
+6. The European Union imposed sanctions on Belarus for human rights abuses.
+Named Entities: [European Union (organization), Belarus (location)]
+
+7. The singer Taylor Swift released a new album, gaining widespread acclaim from fans.
+Named Entities: [Taylor Swift (person)]
+
+8. California Governor Gavin Newsom signed a bill to address climate change in the state.
+Named Entities: [California (location), Gavin Newsom (person)]
+
+9. The United Nations announced a new initiative to combat global poverty and hunger.
+Named Entities: [United Nations (organization)]
+
+10. Thousands of protesters gathered in Hong Kong to demand democratic reforms.
+Named Entities: [Hong Kong (location)]

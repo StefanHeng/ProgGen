@@ -1,0 +1,11 @@
+1. Sentence: "The Duchess of Cambridge visits a children's hospital in {{London}}."
+Text Span: "London"
+Label: (A)
+
+2. Sentence: "Thousands of protesters gathered in {{Hong Kong}} to demand democratic reforms."
+Text Span: "Hong Kong"
+Label: (A)
+
+3. Sentence: "{{South Korean}} boy band BTS breaks streaming record with new album release."
+Text Span: "South Korean"
+Label: (C), entity type: other

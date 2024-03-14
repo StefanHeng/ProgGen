@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Indian food in Chicago, where can I find a highly-rated restaurant?"
+Named Entities: [Indian (Cuisine), Chicago (Location), highly-rated (Rating)]
+
+2. "Which restaurant in Chicago offers a good selection of vegetarian dishes?"
+Named Entities: [Chicago (Location), vegetarian dishes (Cuisine)]
+
+3. "Can you recommend a restaurant with outdoor seating and a view of Lake Michigan in Chicago?"
+Named Entities: [outdoor seating (Amenity), Lake Michigan (Location), Chicago (Location)]

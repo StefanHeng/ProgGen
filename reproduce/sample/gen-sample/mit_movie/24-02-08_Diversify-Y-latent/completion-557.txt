@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie Titanic directed by James Cameron and starring Kate Winslet?"
+Named Entities: [Titanic (Title), James Cameron (Director), Kate Winslet (Actor)]
+
+2. "Could you recommend a PG-rated movie from 1977 featuring Jason Momoa?"
+Named Entities: [PG (MPAA Rating), 1977 (Year), Jason Momoa (Actor)]
+
+3. "Is there a Dracula-themed movie directed by a martial arts master?"
+Named Entities: [Dracula (Character), martial arts master (Genre)]

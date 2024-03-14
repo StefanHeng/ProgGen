@@ -1,0 +1,8 @@
+1. Query: "What outstanding movies has Martin Riggs acted in?"
+Named Entities: [outstanding (Review), Martin Riggs (Character)]
+
+2. Query: "Can you tell me a refreshing movie from the 1990s?"
+Named Entities: [refreshing (Review), 1990s (Year)]
+
+3. Query: "I want to watch a movie with a song by Adele. Show me the options."
+Named Entities: [Adele (Song)]

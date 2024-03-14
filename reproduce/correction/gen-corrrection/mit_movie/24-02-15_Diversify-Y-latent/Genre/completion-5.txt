@@ -1,0 +1,11 @@
+1. Query: "Is The Princess Bride {{streamable on Netflix}}?"
+Text Span: "streamable on Netflix"
+Label: (C). The span is not a named entity. The correct entity type is Platform.
+
+2. Query: "can you recommend a movie with {{subtle humor}} that is rated R"
+Text Span: "subtle humor"
+Label: (A). The span is a named entity of type genre.
+
+3. Query: "Show me the official trailer for a {{corporate espionage}} movie."
+Text Span: "corporate espionage"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "corporate espionage movie".

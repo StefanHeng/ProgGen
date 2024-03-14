@@ -1,0 +1,8 @@
+1. Text Span: "Norse mythology"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "African elephant"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Marxism"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Query: "Which movie features Gandalf as a character?"
+Named Entities: [Gandalf (Character)]
+
+2. Query: "Can you tell me about any films that star Hugh Jackman?"
+Named Entities: [Hugh Jackman (Actor)]
+
+3. Query: "Do you have any information about an unrated movie with Gal Gadot?"
+Named Entities: [Unrated (MPAA Rating), Gal Gadot (Actor)]

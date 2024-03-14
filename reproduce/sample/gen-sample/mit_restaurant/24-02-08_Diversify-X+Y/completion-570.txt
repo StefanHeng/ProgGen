@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where's the nearest McDonald's?"
+Named Entities: [fast food (Cuisine), nearest (Location), McDonald's (Restaurant Name)]
+
+2. "What time does McDonald's open for breakfast?"
+Named Entities: [breakfast (Cuisine), open (Hours), McDonald's (Restaurant Name)]
+
+3. "What's the average price for a meal at McDonald's?"
+Named Entities: [average price (Price), McDonald's (Restaurant Name)]

@@ -1,0 +1,8 @@
+1. "Can you tell me about the brilliant acting in George Miller's film, Domino?"
+Named Entities: [brilliant acting (Review), George Miller (Director), Domino (Title)]
+
+2. "Who starred in the well-acted movie 'M' from 2014?"
+Named Entities: [well-acted (Review), M (Title), 2014 (Year)]
+
+3. "What can you tell me about the crew of the film directed by George Miller, 'Domino'?"
+Named Entities: [George Miller (Director), Domino (Title)]

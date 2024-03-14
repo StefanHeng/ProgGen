@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant in the area with a buffet option and private dining"
+Named Entities: [buffet (Amenity), private dining (Amenity)]
+
+Query: "I'm looking for a place with Macaroni and Cheese on the menu and a high Tripadvisor rating"
+Named Entities: [Macaroni and Cheese (Dish), Tripadvisor rating (Rating)]
+
+Query: "Where can I find a restaurant with a good buffet and private dining area, and also serves Macaroni and Cheese"
+Named Entities: [buffet (Amenity), private dining (Amenity), Macaroni and Cheese (Dish)]

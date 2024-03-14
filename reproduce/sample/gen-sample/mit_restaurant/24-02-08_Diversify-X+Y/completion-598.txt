@@ -1,0 +1,8 @@
+Query: "I'm looking for a café with weekend hours and special discounts"
+Named Entities: [café (Cuisine), Weekend hours (Hours), special discounts (Amenity)]
+
+Query: "Where can I find a café with special discounts and weekend hours nearby"
+Named Entities: [café (Cuisine), special discounts (Amenity), Weekend hours (Hours), nearby (Location)]
+
+Query: "Can you recommend a café that offers special discounts and has weekend hours, like Philz Coffee or The Garden Grille?"
+Named Entities: [café (Cuisine), special discounts (Amenity), Weekend hours (Hours), Philz Coffee (Restaurant Name), The Garden Grille (Restaurant Name)]

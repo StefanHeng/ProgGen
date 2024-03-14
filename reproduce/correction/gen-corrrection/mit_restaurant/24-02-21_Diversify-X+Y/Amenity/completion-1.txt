@@ -1,0 +1,8 @@
+1. Text Span: "Eater 38 list"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "kids menu"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "brunch"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "brunch for delivery".

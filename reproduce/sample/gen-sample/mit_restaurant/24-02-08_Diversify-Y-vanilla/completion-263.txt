@@ -1,0 +1,8 @@
+1. "I'm craving some Ethiopian food, where can I find a good Ethiopian restaurant?"
+Named Entities: [Ethiopian (Cuisine)]
+
+2. "I'm in the mood for some kebab, is there a restaurant nearby that serves delicious kebabs?"
+Named Entities: [kebab (Dish)]
+
+3. "I want to grab a bite at LongHorn Steakhouse, is there a convenient location nearby?"
+Named Entities: [LongHorn Steakhouse (Restaurant Name), convenient (Amenity)]

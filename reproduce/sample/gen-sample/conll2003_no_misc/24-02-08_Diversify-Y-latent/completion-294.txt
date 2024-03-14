@@ -1,0 +1,8 @@
+1. The mayor of Los Angeles has announced a new initiative to combat homelessness in the city.
+Named Entities: [Los Angeles (location), mayor (person)]
+
+2. The Los Angeles Lakers have signed a multi-year contract extension with their head coach.
+Named Entities: [Los Angeles (location), Lakers (organization)]
+
+3. [Los Angeles] police department implements new training program to address rising crime rates.
+Named Entities: [Los Angeles (location)]

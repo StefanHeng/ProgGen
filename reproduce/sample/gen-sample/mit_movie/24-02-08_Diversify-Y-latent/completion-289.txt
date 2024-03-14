@@ -1,0 +1,8 @@
+1. "Can you highlight any movies about cyber warfare?"
+Named Entities: [cyber warfare (Plot)]
+
+2. "What year was The Sixth Sense released, and who directed it?"
+Named Entities: [The Sixth Sense (Title), released (Year), directed (Director)]
+
+3. "Is there a prison break movie with high viewers' ratings?"
+Named Entities: [prison break (Plot), high viewers' ratings (Viewers' Rating)]

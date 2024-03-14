@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the making-of process for the movie Inception?"
+Named Entities: [Inception (Title)]
+
+2. Query: "Are there any interviews with the cast and crew of the film Titanic that I can watch?"
+Named Entities: [Titanic (Title)]
+
+3. Query: "I'm not sure if I believe the story behind the film The Social Network, can you give me more information about it?"
+Named Entities: [The Social Network (Title), story (Plot)]

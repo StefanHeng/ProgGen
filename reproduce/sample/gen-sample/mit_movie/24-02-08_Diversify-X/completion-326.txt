@@ -1,0 +1,8 @@
+Query: "Can you show me a movie trailer for the latest horror film directed by Jordan Peele"
+Named Entities: [latest horror film (Genre), Jordan Peele (Director)]
+ 
+Query: "What movie from the 90s has the best soundtrack"
+Named Entities: [90s (Year), best soundtrack (Review)]
+
+Query: "Which actor starred in a science fiction movie with the highest viewers' rating"
+Named Entities: [science fiction (Genre), highest viewers' rating (Viewers' Rating), Actor]

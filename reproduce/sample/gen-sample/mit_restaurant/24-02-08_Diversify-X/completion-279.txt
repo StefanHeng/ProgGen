@@ -1,0 +1,8 @@
+Query: "Where can I find a cozy café with a good selection of pastries?"
+Named Entities: [cozy (Amenity), café (Cuisine), pastries (Dish)]
+
+Query: "I'm looking for a café with outdoor seating and a vegan menu."
+Named Entities: [outdoor seating (Amenity), café (Cuisine), vegan (Dish)]
+
+Query: "Do you know of a budget-friendly café with live music in the evening?"
+Named Entities: [budget-friendly (Price), café (Cuisine), live music (Amenity), evening (Hours)]

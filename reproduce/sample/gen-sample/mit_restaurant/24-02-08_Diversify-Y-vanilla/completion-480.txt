@@ -1,0 +1,8 @@
+1. "I'm craving lamb curry, is there a restaurant serving it near the highway?"
+Named Entities: [lamb curry (Dish), highway (Location)]
+
+2. "What is the price range for sushi restaurants in the area?"
+Named Entities: [sushi (Cuisine), price range (Price), area (Location)]
+
+3. "Can you recommend a highly-rated restaurant with outdoor seating?"
+Named Entities: [highly-rated (Rating), outdoor seating (Amenity)]

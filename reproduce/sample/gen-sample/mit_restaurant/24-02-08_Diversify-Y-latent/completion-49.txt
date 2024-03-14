@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that serves dim sum nearby that has won Time Out dining awards?"
+Named Entities: [dim sum (Cuisine), Time Out dining awards (Amenity), nearby (Location)]
+
+2. "I'm craving some dim sum, where can I find a place with a good selection for dinner tonight?"
+Named Entities: [dim sum (Dish), good (Rating), dinner tonight (Hours)]
+
+3. "Do you know of any restaurants in the area that offer dim sum and are reasonably priced?"
+Named Entities: [dim sum (Cuisine), reasonably priced (Price), area (Location)]

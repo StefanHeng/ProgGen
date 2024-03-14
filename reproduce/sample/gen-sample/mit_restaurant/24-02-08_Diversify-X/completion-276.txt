@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with a good late-night menu for dine-in?"
+   Named Entities: [good (Rating), late-night dining (Amenity), dine-in (Amenity)]
+
+2. "I'm looking for a place with affordable late-night dining options"
+   Named Entities: [affordable (Price), late-night dining (Amenity)]
+
+3. "Where can I find a restaurant with a diverse late-night dining selection?"
+   Named Entities: [diverse (Cuisine), late-night dining (Amenity)]

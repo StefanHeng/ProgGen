@@ -1,0 +1,8 @@
+1. "I need to find a good movie to watch right now, something with a moving plot and great reviews. Can you recommend anything involving Legolas?"
+   Named Entities: [Legolas (Character), Good (Viewers' Rating), Moving (Plot), Reviews (Review)]
+
+2. "I'm feeling really anxious and need a distraction. Can you show me a movie with high ratings and a strong plot, preferably something with 'X' in the title?"
+   Named Entities: [X (Title), High ratings (Viewers' Rating), Strong plot (Plot)]
+
+3. "I'm looking for a movie that will blow me away with its reviews and leave me speechless. Can you suggest anything with a character like Legolas?"
+   Named Entities: [Legolas (Character), Blow me away (Review), Speechless (Viewers' Rating)]

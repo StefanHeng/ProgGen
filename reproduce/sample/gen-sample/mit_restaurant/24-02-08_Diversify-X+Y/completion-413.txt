@@ -1,0 +1,8 @@
+1. "I'm craving some ribs, can you recommend a buffet restaurant nearby with a drive-thru?"
+   Named Entities: [buffet (Amenity), drive-thru (Amenity), Ribs (Dish), nearby (Location)]
+
+2. "I need to find a place with a drive-thru that serves buffet-style meals, especially ribs."
+   Named Entities: [drive-thru (Amenity), buffet-style (Amenity), Ribs (Dish)]
+
+3. "Can you help me locate a buffet restaurant with drive-thru that offers a variety of ribs?"
+   Named Entities: [buffet (Amenity), drive-thru (Amenity), Ribs (Dish)]

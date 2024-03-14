@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with late-night dining options"
+Named Entities: [late-night dining (Amenity)]
+
+Query: "where can I find affordable late-night dining in the area"
+Named Entities: [affordable (Price), late-night dining (Amenity), the area (Location)]
+
+Query: "recommend a restaurant with inexpensive late-night dining"
+Named Entities: [inexpensive (Price), late-night dining (Amenity)]

@@ -1,0 +1,8 @@
+1. "Do you know any restaurants that offer brunch specials hours?"
+Named Entities: [Brunch specials hours (Amenity)]
+
+2. "I'm looking for modest-priced bistros, can you recommend any?"
+Named Entities: [modest-priced bistros (Price)]
+
+3. "Which restaurant has express service hours?"
+Named Entities: [Express service hours (Amenity)]

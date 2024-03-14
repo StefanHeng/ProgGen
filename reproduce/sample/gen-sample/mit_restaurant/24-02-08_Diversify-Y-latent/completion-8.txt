@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for some steak, can you suggest a place with a good wine selection?"
+Named Entities: [steak (Dish), good (Rating)]
+
+2. Query: "I need a family-friendly restaurant with outdoor seating and a playground nearby"
+Named Entities: [family-friendly (Amenity), outdoor seating (Amenity), playground (Amenity)]
+
+3. Query: "I want to have some authentic Australian food, where can I find a place that serves kangaroo meat?"
+Named Entities: [authentic Australian (Cuisine), kangaroo meat (Dish), [Outback Steakhouse] (Restaurant Name)]

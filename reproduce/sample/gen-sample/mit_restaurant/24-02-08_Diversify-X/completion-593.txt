@@ -1,0 +1,8 @@
+1. "What casual restaurants around here serve Japanese cuisine for lunch?"
+   Named Entities: [casual (Amenity), Japanese (Cuisine), lunch (Hours)]
+
+2. "I'm craving Italian food for a casual lunch, can you recommend any restaurants?"
+   Named Entities: [Italian (Cuisine), casual (Amenity), lunch (Hours)]
+
+3. "Is there a place with outdoor seating for a relaxed lunch around this area?"
+   Named Entities: [outdoor seating (Amenity), relaxed (Amenity), lunch (Hours)]

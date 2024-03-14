@@ -1,0 +1,8 @@
+1. "Can you recommend a beautifully shot musical with the song 'I Want to Hold Your Hand'?"
+Named Entities: [beautifully shot (Review), musical (Genre), I Want to Hold Your Hand (Song)]
+
+2. "Is Harry Callahan a character in any top-rated films directed by Bong Joon-ho?"
+Named Entities: [Harry Callahan (Character), top-rated (Viewers' Rating), Bong Joon-ho (Director)]
+
+3. "What year did Bong Joon-ho direct a film with a strong female lead and a gripping plot?"
+Named Entities: [strong female lead (Character), gripping plot (Plot), Bong Joon-ho (Director)]

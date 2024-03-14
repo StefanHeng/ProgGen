@@ -1,0 +1,8 @@
+Query: "Hey, can you play the trailer for that movie from 1990 with an apocalyptic event in it?"
+Named Entities: [1990 (Year), apocalyptic event (Plot)]
+
+Query: "I heard there's a movie with an NC-17 rating directed by Rob Reiner, can you show me a teaser?"
+Named Entities: [NC-17 (MPAA Rating), Rob Reiner (Director)]
+
+Query: "I'm looking for a film that features the song 'I Wanna Dance with Somebody', can you show me a sneak peek?"
+Named Entities: [I Wanna Dance with Somebody (Song)]

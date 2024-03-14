@@ -1,0 +1,8 @@
+1. "I'm craving Mexican food, where can I find a good Mexican restaurant nearby?"
+   Named Entities: [Mexican (Cuisine), nearby (Location)]
+
+2. "What time does Panera Bread close today?"
+   Named Entities: [Panera Bread (Restaurant Name), close today (Hours)]
+
+3. "I'm looking for a restaurant with a high rating, do you know any place with a great menu for Mexican cuisine?"
+   Named Entities: [high rating (Rating), Mexican cuisine (Cuisine)]

@@ -1,0 +1,11 @@
+1. Query: "Do you know any brunch packages in the area?"
+   Named Entities: [Brunch packages (Amenity)]
+
+2. Query: "I'm looking for a restaurant with a great kids menu"
+   Named Entities: [kids menu (Amenity)]
+
+3. Query: "Where are the best value for money brunch spots?"
+   Named Entities: [Value for money brunch spots (Amenity)]
+
+4. Query: "I'm craving a croissant sandwich, where can I find one?"
+   Named Entities: [croissant sandwich (Dish)]

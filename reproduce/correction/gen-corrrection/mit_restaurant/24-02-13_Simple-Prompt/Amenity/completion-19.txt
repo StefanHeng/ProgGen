@@ -1,0 +1,8 @@
+1. Text Span: "average wait time"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "free WiFi"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "view of the water"
+Label: (A). The span is a named entity of type amenity

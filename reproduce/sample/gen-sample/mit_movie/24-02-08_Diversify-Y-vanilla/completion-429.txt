@@ -1,0 +1,8 @@
+1. Query: "Can you play the trailer for The Twilight Saga: Eclipse?"
+Named Entities: [The Twilight Saga: Eclipse (Title), trailer (Trailer)]
+
+2. Query: "What is an astonishing movie directed by Christopher Nolan?"
+Named Entities: [astonishing (Review), Christopher Nolan (Director)]
+
+3. Query: "Is Jon Snow a character in any action movies?"
+Named Entities: [Jon Snow (Character), action (Genre)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a musical movie similar to My Fair Lady?"
+Named Entities: [My Fair Lady (Title), musical (Genre)]
+
+2. "Are there any unrated films directed by Danny Boyle?"
+Named Entities: [unrated (MPAA Rating), Danny Boyle (Director)]
+
+3. "Could you show me a clip from The Sound of Music with the song Unchained Melody?"
+Named Entities: [The Sound of Music (Title), clip (Trailer), Unchained Melody (Song)]

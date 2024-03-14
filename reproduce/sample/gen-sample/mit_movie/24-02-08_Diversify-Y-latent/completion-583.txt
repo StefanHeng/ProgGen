@@ -1,0 +1,8 @@
+1. Query: "who directed the classic movie The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), classic (Viewers' Rating)]
+
+2. Query: "can you tell me a movie with Meryl Streep as the lead actress"
+Named Entities: [Meryl Streep (Actor)]
+
+3. Query: "find a horror movie from the 1980s with a high IMDb rating"
+Named Entities: [horror (Genre), 1980s (Year), high (Viewers' Rating)]

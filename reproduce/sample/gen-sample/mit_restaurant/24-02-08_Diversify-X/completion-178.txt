@@ -1,0 +1,8 @@
+Query: "Which café around here has a nice outdoor seating area?"
+Named Entities: [café (Cuisine), outdoor seating (Amenity)]
+
+Query: "What's a good café with a cozy atmosphere and affordable prices?"
+Named Entities: [café (Cuisine), cozy atmosphere (Amenity), affordable prices (Price)]
+
+Query: "Can you recommend a café that serves brunch and is open late on weekends?"
+Named Entities: [café (Cuisine), brunch (Amenity), late on weekends (Hours)]

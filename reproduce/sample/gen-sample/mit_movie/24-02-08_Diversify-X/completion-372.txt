@@ -1,0 +1,8 @@
+Query: "Who directed the movie Inception?"
+Named Entities: [Inception (Title), directed (Director)]
+
+Query: "Can you recommend a movie starring Leonardo DiCaprio?"
+Named Entities: [Leonardo DiCaprio (Actor), recommend (Review)]
+
+Query: "What's the best comedy film from the 2000s?"
+Named Entities: [comedy film (Genre), 2000s (Year), best (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "What are the hours of operation for Italian restaurants in [San Diego]?"
+Named Entities: [Italian (Cuisine), hours of operation (Hours), [San Diego] (Location)]
+
+2. Query: "I want to find a restaurant with a high rating and outdoor seating in [San Diego]."
+Named Entities: [high rating (Rating), outdoor seating (Amenity), [San Diego] (Location)]
+
+3. Query: "Can you recommend any affordable seafood restaurants near the beach in [San Diego]?"
+Named Entities: [affordable (Price), seafood (Cuisine), near the beach (Location), [San Diego] (Location)]

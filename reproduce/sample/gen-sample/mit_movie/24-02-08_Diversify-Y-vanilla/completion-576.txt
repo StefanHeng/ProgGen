@@ -1,0 +1,8 @@
+Query: "Can you recommend any action movies with a high viewers' rating?"
+Named Entities: [Action (Genre), high viewers' rating (Viewers' Rating)]
+
+Query: "I want to watch a movie similar to Birdman, can you suggest any?"
+Named Entities: [Birdman (Title)]
+
+Query: "Who directed the movie Birdman and when was it released?"
+Named Entities: [Birdman (Title), directed (Director), released (Year)]

@@ -1,0 +1,8 @@
+1. "I'm in the mood for a juicy burger, where can I find a Five Guys nearby?"
+Named Entities: [Five Guys (Restaurant Name)]
+
+2. "I want a tasty burger, take me to the nearest place with Whopper on the menu"
+Named Entities: [tasty (Rating), nearest (Location), Whopper (Dish)]
+
+3. "What restaurants in the area serve American cuisine and have affordable prices?"
+Named Entities: [American cuisine (Cuisine), affordable prices (Price)]

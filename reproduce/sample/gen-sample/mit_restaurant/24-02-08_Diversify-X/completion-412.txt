@@ -1,0 +1,8 @@
+Query: "I'm looking for a kosher lunch spot with a good rating"
+Named Entities: [kosher (Cuisine), lunch (Amenity), good (Rating)]
+
+Query: "which restaurants around here serve kosher meals for lunch"
+Named Entities: [kosher (Cuisine), lunch (Amenity)]
+
+Query: "can you recommend a kosher lunch place with reasonable prices"
+Named Entities: [kosher (Cuisine), lunch (Amenity), reasonable prices (Price)]

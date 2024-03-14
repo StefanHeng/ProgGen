@@ -1,0 +1,8 @@
+1. Text Span: "PG"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Text Span: "approved for senior citizens"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "PG-13"
+Label: (A). The span is a named entity of type mpaa rating

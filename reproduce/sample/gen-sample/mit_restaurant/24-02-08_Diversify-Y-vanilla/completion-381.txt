@@ -1,0 +1,8 @@
+Query: "Do you have any recommendations for a highly rated Italian restaurant in the area?"
+Named Entities: [highly rated (Rating), Italian (Cuisine), area (Location)]
+
+Query: "What are the opening hours for the sushi place downtown?"
+Named Entities: [opening hours (Hours), sushi (Cuisine), downtown (Location)]
+
+Query: "I'm looking for a restaurant with outdoor seating, preferably with a view of the ocean."
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

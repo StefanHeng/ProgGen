@@ -1,0 +1,8 @@
+1. "Can you recommend a comedy movie with a romantic subgenre?"
+Named Entities: [comedy (Genre), romantic (Subgenre)]
+
+2. "I'm looking for a thriller film with a mystery subgenre that will keep me on the edge of my seat. Can you suggest one?"
+Named Entities: [thriller (Genre), mystery (Subgenre)]
+
+3. "I want to watch a sci-fi movie that has a dystopian subgenre. Can you help me find one?"
+Named Entities: [sci-fi (Genre), dystopian (Subgenre)]

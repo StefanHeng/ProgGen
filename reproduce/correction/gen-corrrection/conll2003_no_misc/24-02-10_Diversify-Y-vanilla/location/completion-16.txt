@@ -1,0 +1,8 @@
+1. Text Span: "Oslo"
+Label: (B). The span contains a named location entity but the span boundary is not precise. Correct span boundary: "Oslo"
+
+2. Text Span: "Warsaw"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Eastern Europe"
+Label: (A). The span is a named entity of type location

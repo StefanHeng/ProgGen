@@ -1,0 +1,11 @@
+1. Sentence: "The {{Grand Canyon National Park}} was established in 1919 and has since become one of the most popular and well-known national parks in the United States."
+Text Span: "Grand Canyon National Park"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "He spent a great deal of his life in Key West, {{Florida}}, where Ernest Hemingway wrote many of his novels."
+Text Span: "Florida"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The {{Battle of Gettysburg}} was fought in and around the town of Gettysburg, Pennsylvania."
+Text Span: "Battle of Gettysburg"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

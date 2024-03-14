@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some noodles, where can I find a place with authentic asian cuisine"
+Named Entities: [noodles (Dish), authentic asian cuisine (Cuisine)]
+
+Query: "what's a good restaurant with outdoor seating near the beach"
+Named Entities: [good (Rating), outdoor seating (Amenity), near the beach (Location)]
+
+Query: "can you recommend a sushi place with a high customer rating"
+Named Entities: [sushi (Cuisine), high customer rating (Rating)]

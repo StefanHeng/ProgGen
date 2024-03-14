@@ -1,0 +1,10 @@
+
+
+Query: "I'm craving Middle Eastern food, can you recommend any Syrian restaurants nearby?"
+Named Entities: [Middle Eastern (Cuisine), Syrian (Cuisine), nearby (Location)]
+
+Query: "what's a good spot for falafel and hummus in the area?"
+Named Entities: [good (Rating), falafel (Dish), hummus (Dish), in the area (Location)]
+
+Query: "I need a budget-friendly restaurant with Syrian dishes, any suggestions?"
+Named Entities: [budget-friendly (Price), Syrian (Cuisine), suggestions (Amenity)]

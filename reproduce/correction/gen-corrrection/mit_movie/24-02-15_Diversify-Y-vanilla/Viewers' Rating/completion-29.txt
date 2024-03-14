@@ -1,0 +1,8 @@
+1. Text Span: "top-rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "A- list"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other
+
+3. Text Span: "unforgettable performance"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Performance Metric

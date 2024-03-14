@@ -1,0 +1,8 @@
+Query: "I'm craving some spicy food, can you recommend a good Indian restaurant?"
+Named Entities: [spicy (Amenity), Indian (Cuisine), good (Rating)]
+
+Query: "I'm looking for a place with outdoor seating in the downtown area, any suggestions?"
+Named Entities: [outdoor seating (Amenity), downtown area (Location)]
+
+Query: "what are the hours for the sushi place on main street?"
+Named Entities: [sushi place (Restaurant Name), main street (Location), hours (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "Can I get a sneak peek of the new Star Wars movie featuring Chewbacca?"
+   Named Entities: [sneak peek (Trailer), Star Wars (Title), Chewbacca (Character)]
+
+2. Query: "Recommend an engrossing historical film directed by Steven Spielberg"
+   Named Entities: [engrossing (Viewers' Rating), historical (Genre), Steven Spielberg (Director)]
+
+3. Query: "Show me a promotional clip for the movie featuring the song 'Can't Stop the Feeling'"
+   Named Entities: [promotional clip (Trailer), 'Can't Stop the Feeling' (Song)]

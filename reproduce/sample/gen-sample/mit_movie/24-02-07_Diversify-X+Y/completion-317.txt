@@ -1,0 +1,8 @@
+Query: "Can you recommend a survival adventure movie with Matt Damon and show me the trailer?"
+Named Entities: [survival adventure (Genre), Matt Damon (Actor), trailer (Trailer)]
+
+Query: "What is the viewers' rating for the latest movie starring Matt Damon?"
+Named Entities: [viewers' rating (Viewers' Rating), Matt Damon (Actor)]
+
+Query: "I'm looking for movie reviews about survival adventure films featuring Matt Damon. Can you show me some?"
+Named Entities: [movie reviews (Review), survival adventure (Genre), Matt Damon (Actor)]

@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie R-13"
+Named Entities: [R-13 (MPAA Rating)]
+
+2. "Tell me about the movie Blackbird, directed by Taylor Sheridan"
+Named Entities: [Blackbird (Title), Taylor Sheridan (Director)]
+
+3. "Where can I watch the movie trailer for R"
+Named Entities: [Movie trailer (Trailer), R (Title)]

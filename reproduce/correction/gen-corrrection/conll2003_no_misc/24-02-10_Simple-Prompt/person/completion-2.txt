@@ -1,0 +1,8 @@
+1. Text Span: "Vladimir Putin"
+Label: (A)
+
+2. Text Span: "Emmanuel Macron"
+Label: (A)
+
+3. Text Span: "President Obama"
+Label: (B). The correct span boundary is "Obama".

@@ -1,0 +1,8 @@
+1. "Can you suggest me a sci-fi movie that includes time travel?"
+Named Entities: [sci-fi (Genre), time travel (Plot)]
+
+2. "What action movies with a superhero theme have been popular lately?"
+Named Entities: [action (Genre), superhero (Plot)]
+
+3. "I'm looking for a horror film with zombies. Can you recommend any?"
+Named Entities: [horror (Genre), zombies (Plot)]

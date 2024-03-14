@@ -1,0 +1,8 @@
+1. "What coastal restaurants serve authentic Bahamian cuisine for dinner?"
+Named Entities: [coastal (Location), Bahama Breeze (Restaurant Name), authentic Bahamian cuisine (Cuisine), dinner (Hours)]
+
+2. "I'm craving seafood, where can I find the best coastal restaurant with a patio?"
+Named Entities: [seafood (Cuisine), coastal (Location), best (Rating), patio (Amenity)]
+
+3. "Do you know if the Bahama Breeze restaurant on the waterfront is open late tonight?"
+Named Entities: [Bahama Breeze (Restaurant Name), waterfront (Location), open late tonight (Hours)]

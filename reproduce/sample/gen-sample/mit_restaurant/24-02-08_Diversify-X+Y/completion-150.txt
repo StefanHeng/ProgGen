@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with upscale breakfast options like a breakfast wrap?"
+   Named Entities: [upscale (Price), breakfast (Meal category), breakfast wrap (Dish)]
+
+2. "I'm looking for a fancy place that serves a delicious breakfast wrap. Any suggestions?"
+   Named Entities: [fancy (Rating), breakfast wrap (Dish)]
+
+3. "Where can I find an upscale restaurant that specializes in breakfast wraps?"
+   Named Entities: [upscale (Price), breakfast wrap (Dish)]

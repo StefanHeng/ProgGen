@@ -1,0 +1,8 @@
+Query: "can I watch a one-minute trailer for the new James Bond film starring Daniel Craig"
+Named Entities: [one-minute trailer (Trailer), James Bond (Title), Daniel Craig (Actor)]
+
+Query: "show me a preview of the upcoming Chris Evans movie"
+Named Entities: [preview (Trailer), Chris Evans (Actor)]
+
+Query: "where can I find the red band trailer for the horror film Cabin in the Woods"
+Named Entities: [red band trailer (Trailer), Cabin in the Woods (Title), horror (Genre)]

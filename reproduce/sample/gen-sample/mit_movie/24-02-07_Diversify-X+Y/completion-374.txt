@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a science fiction movie directed by Andrea Arnold that is suitable for pre-teens, but not rated NR?"
+   Named Entities: [Science Fiction (Genre), Andrea Arnold (Director), Pre-teens (Viewers' Rating), NR (MPAA Rating)]
+
+2. Query: "Is there a movie with a strong female lead in the subgenre X that would be appropriate for me to watch?"
+   Named Entities: [Strong female lead (Character), X (Subgenre)]
+
+3. Query: "What is the MPAA rating for the movie in the genre Science Fiction that I can watch with my friends?"
+   Named Entities: [Science Fiction (Genre), Friends (Viewers' Rating), MPAA Rating]

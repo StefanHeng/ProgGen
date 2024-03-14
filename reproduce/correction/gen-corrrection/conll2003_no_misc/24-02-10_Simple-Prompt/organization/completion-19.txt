@@ -1,0 +1,8 @@
+1. Text Span: "Tokyo Olympics"
+Label: (A)
+
+2. Text Span: "Facebook"
+Label: (A)
+
+3. Text Span: "CEO"
+Label: (C) - entity type: organization

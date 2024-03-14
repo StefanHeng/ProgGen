@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the movie Titanic and how the special effects were created?"
+Named Entities: [Titanic (Title), director (Director), special effects (Plot)]
+
+2. Query: "I'm so bored, show me some interviews with the cast of The Avengers film."
+Named Entities: [The Avengers (Title), interviews (Plot), cast (Actor)]
+
+3. Query: "What are some documentaries about the making of classic Hitchcock films?"
+Named Entities: [documentaries (Plot), making of (Plot), Hitchcock (Director)]

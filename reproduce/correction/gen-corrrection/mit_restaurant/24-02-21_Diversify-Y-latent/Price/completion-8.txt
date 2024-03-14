@@ -1,0 +1,8 @@
+1. Text Span: "mid-priced"
+Label: (A). The span is a named entity of type price
+
+2. Text Span: "affordable prices"
+Label: (A). The span is a named entity of type price
+
+3. Text Span: "Expensive"
+Label: (A). The span is a named entity of type price

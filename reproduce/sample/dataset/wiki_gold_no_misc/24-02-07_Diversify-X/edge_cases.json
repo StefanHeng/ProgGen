@@ -1,0 +1,2774 @@
+[
+    {
+        "sentence": "The Battle of Gettysburg was fought during the American Civil War and was a crucial turning point in the conflict.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-19",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "General Norman Schwarzkopf led the United States military during the Gulf War, overseeing the successful Operation Desert Storm.",
+        "entity_names": [
+            "General Norman Schwarzkopf",
+            "Gulf War",
+            "Operation Desert Storm"
+        ],
+        "filename": "completion-19",
+        "entity_types": [
+            "person",
+            "event",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Gulf War",
+            "Operation Desert Storm"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "In the field of psychology, Sigmund Freud, an Austrian neurologist, is widely known as the founder of psychoanalysis.",
+        "entity_names": [
+            "Sigmund Freud",
+            "Austria"
+        ],
+        "filename": "completion-20",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Austria"
+        ]
+    },
+    {
+        "sentence": "The 2020 Summer Olympics were postponed to 2021 due to the COVID-19 pandemic.",
+        "entity_names": [
+            "2020 Summer Olympics",
+            "COVID-19 pandemic"
+        ],
+        "filename": "completion-23",
+        "entity_types": [
+            "event",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "2020 Summer Olympics",
+            "COVID-19 pandemic"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "She broke the world record in the 100-meter dash at the World Championships.",
+        "entity_names": [
+            "World Championships"
+        ],
+        "filename": "completion-23",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World Championships"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "General Douglas MacArthur famously declared \"I shall return\" upon leaving the Philippines during World War II, and he later fulfilled this vow by leading the Allied forces in the liberation of the Philippines from Japanese occupation.",
+        "entity_names": [
+            "General Douglas MacArthur",
+            "Philippines",
+            "World War II",
+            "Allied forces"
+        ],
+        "filename": "completion-27",
+        "entity_types": [
+            "person",
+            "location",
+            "event",
+            "organization"
+        ],
+        "entity_names_after_add": [
+            "Philippines",
+            "General Douglas MacArthur",
+            "Philippines",
+            "World War II",
+            "Allied forces"
+        ],
+        "entity_types_after_add": [
+            "location",
+            "person",
+            "location",
+            "event",
+            "organization"
+        ],
+        "reordered_entity_names": [
+            "General Douglas MacArthur",
+            "Philippines",
+            "World War II",
+            "Allied forces",
+            "Philippines"
+        ],
+        "reordered_entity_types": [
+            "person",
+            "location",
+            "event",
+            "organization",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Great Gatsby has been classified as a Great American Novel and is considered one of the greatest works of American literature.",
+        "entity_names": [
+            "The Great Gatsby"
+        ],
+        "filename": "completion-29",
+        "entity_types": [
+            "literature"
+        ],
+        "entity_names_not_allowed": [
+            "The Great Gatsby"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The environmental impact of the industrial revolution led to widespread pollution and deforestation.",
+        "entity_names": [
+            "industrial revolution"
+        ],
+        "filename": "completion-38",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "industrial revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Ernest Hemingway's novel, The Old Man and the Sea, won the Pulitzer Prize for Fiction in 1953.",
+        "entity_names": [
+            "Ernest Hemingway",
+            "The Old Man and the Sea",
+            "Pulitzer Prize for Fiction"
+        ],
+        "filename": "completion-51",
+        "entity_types": [
+            "person",
+            "literary work",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "The Old Man and the Sea"
+        ],
+        "entity_types_not_allowed": [
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "Shakespeare's Romeo and Juliet is considered to be one of the greatest love stories of all time.",
+        "entity_names": [
+            "Shakespeare",
+            "Romeo and Juliet"
+        ],
+        "filename": "completion-51",
+        "entity_types": [
+            "person",
+            "literary work"
+        ],
+        "entity_names_not_allowed": [
+            "Romeo and Juliet"
+        ],
+        "entity_types_not_allowed": [
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "The American author, Mark Twain, is best known for his novels The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.",
+        "entity_names": [
+            "Mark Twain",
+            "The Adventures of Tom Sawyer",
+            "Adventures of Huckleberry Finn"
+        ],
+        "filename": "completion-51",
+        "entity_types": [
+            "person",
+            "literary work",
+            "literary work"
+        ],
+        "entity_names_not_allowed": [
+            "The Adventures of Tom Sawyer",
+            "Adventures of Huckleberry Finn"
+        ],
+        "entity_types_not_allowed": [
+            "literary work",
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "In the 20th century, the influence of jazz and blues on popular music led to the emergence of new genres such as rock and roll, transforming the landscape of music worldwide.",
+        "entity_names": [
+            "20th century"
+        ],
+        "filename": "completion-57",
+        "entity_types": [
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "20th century"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "The company was founded in 1998 and has since grown into a multinational corporation with operations in over 50 countries.",
+        "entity_names": [
+            "1998",
+            "multinational corporation"
+        ],
+        "filename": "completion-60",
+        "entity_types": [
+            "time",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "1998"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "The Innovation Lab at XYZ University provides a collaborative space for students, faculty, and industry partners to work together on cutting-edge research and development projects.",
+        "entity_names": [
+            "Innovation Lab, XYZ University"
+        ],
+        "filename": "completion-72",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Innovation Lab, XYZ University"
+        ]
+    },
+    {
+        "sentence": "Maria Montessori, an Italian physician and educator, is best known for her educational method that is still widely used in schools around the world.",
+        "entity_names": [
+            "Maria Montessori",
+            "Italy"
+        ],
+        "filename": "completion-78",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "Her novel, The Handmaid's Tale, has been widely acclaimed for its powerful portrayal of a dystopian society ruled by a totalitarian regime.",
+        "entity_names": [
+            "The Handmaid's Tale"
+        ],
+        "filename": "completion-89",
+        "entity_types": [
+            "literary work"
+        ],
+        "entity_names_not_allowed": [
+            "The Handmaid's Tale"
+        ],
+        "entity_types_not_allowed": [
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "In 1982, the Nobel Prize in Literature was awarded to Colombian author Gabriel Garcia Marquez for his masterful use of magical realism in his novels, such as One Hundred Years of Solitude.",
+        "entity_names": [
+            "Nobel Prize in Literature",
+            "Gabriel Garcia Marquez",
+            "One Hundred Years of Solitude"
+        ],
+        "filename": "completion-89",
+        "entity_types": [
+            "organization",
+            "person",
+            "literary work"
+        ],
+        "entity_names_not_allowed": [
+            "One Hundred Years of Solitude"
+        ],
+        "entity_types_not_allowed": [
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "The Bront\u00eb sisters, Charlotte, Emily, and Anne, are celebrated for their contributions to English literature, with novels like Jane Eyre, Wuthering Heights, and The Tenant of Wildfell Hall respectively.",
+        "entity_names": [
+            "Bront\u00eb sisters",
+            "Charlotte",
+            "Emily",
+            "Anne",
+            "Jane Eyre",
+            "Wuthering Heights",
+            "The Tenant of Wildfell Hall"
+        ],
+        "filename": "completion-89",
+        "entity_types": [
+            "person",
+            "person",
+            "person",
+            "person",
+            "literary work",
+            "literary work",
+            "literary work"
+        ],
+        "entity_names_not_allowed": [
+            "Jane Eyre",
+            "Wuthering Heights",
+            "The Tenant of Wildfell Hall"
+        ],
+        "entity_types_not_allowed": [
+            "literary work",
+            "literary work",
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "The African elephant is the world's largest land animal, with adult males weighing between 4,500 and 6,800 kg (10,000 and 15,000 lb) and standing 3 to 4 m (10 to 13 ft) tall at the shoulder.",
+        "entity_names": [
+            "African elephant"
+        ],
+        "filename": "completion-93",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The International Union for Conservation of Nature has listed the black rhinoceros as critically endangered, with the population declining by 97.6% since 1960.",
+        "entity_names": [
+            "International Union for Conservation of Nature",
+            "black rhinoceros"
+        ],
+        "filename": "completion-93",
+        "entity_types": [
+            "organization",
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "black rhinoceros"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The Amazon rainforest is home to a vast array of animal species, including the jaguar, the giant river otter, and the Amazon river dolphin.",
+        "entity_names": [
+            "Amazon rainforest",
+            "jaguar",
+            "giant river otter",
+            "Amazon river dolphin"
+        ],
+        "filename": "completion-93",
+        "entity_types": [
+            "location",
+            "animal",
+            "animal",
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "jaguar",
+            "giant river otter",
+            "Amazon river dolphin"
+        ],
+        "entity_types_not_allowed": [
+            "animal",
+            "animal",
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The Super Bowl is the annual championship game of the National Football League (NFL), the highest level of professional American football in the United States.",
+        "entity_names": [
+            "Super Bowl",
+            "National Football League",
+            "United States"
+        ],
+        "filename": "completion-99",
+        "entity_types": [
+            "event",
+            "organization",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Super Bowl"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Carbon dioxide emissions from human activities contribute to global warming and climate change.",
+        "entity_names": [
+            "carbon dioxide"
+        ],
+        "filename": "completion-100",
+        "entity_types": [
+            "substance"
+        ],
+        "entity_names_not_allowed": [
+            "carbon dioxide"
+        ],
+        "entity_types_not_allowed": [
+            "substance"
+        ]
+    },
+    {
+        "sentence": "Modern geology significantly advanced in the 20th century, with the development of the theory of plate tectonics and the understanding of the Earth's geological history through the use of radiometric dating and stratigraphic principles.",
+        "entity_names": [
+            "20th century"
+        ],
+        "filename": "completion-116",
+        "entity_types": [
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "20th century"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "General Dwight D. Eisenhower served as the Supreme Commander of the Allied Expeditionary Force in Europe during World War II.",
+        "entity_names": [
+            "Dwight D. Eisenhower",
+            "Allied Expeditionary Force",
+            "World War II"
+        ],
+        "filename": "completion-118",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Michelin Guide is a series of annual guide books published by the French tire company Michelin for over a century, and is known for its highly respected rating system of restaurants and hotels.",
+        "entity_names": [
+            "Michelin Guide",
+            "Michelin",
+            "France"
+        ],
+        "filename": "completion-131",
+        "entity_types": [
+            "organization",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "France"
+        ]
+    },
+    {
+        "sentence": "Space exploration has led to the development of new technologies such as satellite communications and GPS.",
+        "entity_names": [
+            "GPS"
+        ],
+        "filename": "completion-141",
+        "entity_types": [
+            "technology"
+        ],
+        "entity_names_not_allowed": [
+            "GPS"
+        ],
+        "entity_types_not_allowed": [
+            "technology"
+        ]
+    },
+    {
+        "sentence": "The Great Depression of the 1930s triggered a reevaluation of economic theories and policies, leading to the development of new macroeconomic theories and the implementation of government intervention to regulate and stabilize the economy.",
+        "entity_names": [
+            "Great Depression"
+        ],
+        "filename": "completion-144",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Great Depression"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was a significant turning point in the American Civil War, resulting in a crucial victory for the Union forces against the Confederacy.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War",
+            "Union",
+            "Confederacy"
+        ],
+        "filename": "completion-148",
+        "entity_types": [
+            "location",
+            "event",
+            "organization",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "General Douglas MacArthur is best known for his leadership in the Pacific theater during World War II, notably for his strategy in the island-hopping campaign.",
+        "entity_names": [
+            "General Douglas MacArthur",
+            "Pacific theater",
+            "World War II"
+        ],
+        "filename": "completion-148",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The philosophy of existentialism emphasizes individual freedom, choice, and responsibility in a world without inherent meaning.",
+        "entity_names": [
+            "existentialism"
+        ],
+        "filename": "completion-155",
+        "entity_types": [
+            "philosophy"
+        ],
+        "entity_names_not_allowed": [
+            "existentialism"
+        ],
+        "entity_types_not_allowed": [
+            "philosophy"
+        ]
+    },
+    {
+        "sentence": "The International Mathematical Union is a worldwide organization that aims to promote international cooperation in mathematics.",
+        "entity_names": [
+            "International Mathematical Union",
+            "mathematics"
+        ],
+        "filename": "completion-158",
+        "entity_types": [
+            "organization",
+            "subject"
+        ],
+        "entity_names_not_allowed": [
+            "mathematics"
+        ],
+        "entity_types_not_allowed": [
+            "subject"
+        ]
+    },
+    {
+        "sentence": "Jazz music, with its roots in African American communities in the late 19th and early 20th centuries, has had a significant influence on popular and classical music genres.",
+        "entity_names": [
+            "19th century",
+            "20th century",
+            "African American"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "19th century",
+            "20th century"
+        ]
+    },
+    {
+        "sentence": "With its diverse and rich culinary traditions, Indian cuisine is renowned for its use of aromatic spices and complex flavors.",
+        "entity_names": [
+            "Indian cuisine"
+        ],
+        "filename": "completion-176",
+        "entity_types": [
+            "cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "Indian cuisine"
+        ],
+        "entity_types_not_allowed": [
+            "cuisine"
+        ]
+    },
+    {
+        "sentence": "The French culinary tradition, with its emphasis on technique and attention to detail, has had a significant influence on the development of Western cooking.",
+        "entity_names": [
+            "French culinary tradition",
+            "Western cooking"
+        ],
+        "filename": "completion-176",
+        "entity_types": [
+            "cuisine",
+            "cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "French culinary tradition",
+            "Western cooking"
+        ],
+        "entity_types_not_allowed": [
+            "cuisine",
+            "cuisine"
+        ]
+    },
+    {
+        "sentence": "The popularity of Italian cuisine can be attributed to its simple yet flavorful dishes, such as pasta, pizza, and risotto, as well as its emphasis on using high-quality, fresh ingredients.",
+        "entity_names": [
+            "Italian cuisine"
+        ],
+        "filename": "completion-176",
+        "entity_types": [
+            "cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "Italian cuisine"
+        ],
+        "entity_types_not_allowed": [
+            "cuisine"
+        ]
+    },
+    {
+        "sentence": "The organization of the military units was restructured to improve efficiency and coordination in the field.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was a significant turning point in the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-197",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "General Douglas MacArthur played a prominent role in the Pacific theater during World War II.",
+        "entity_names": [
+            "General Douglas MacArthur",
+            "Pacific theater",
+            "World War II"
+        ],
+        "filename": "completion-197",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The American poet, Emily Dickinson, is known for her unique style and poignant exploration of themes such as death, love, and immortality.",
+        "entity_names": [
+            "Emily Dickinson",
+            "America"
+        ],
+        "filename": "completion-201",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "America"
+        ]
+    },
+    {
+        "sentence": "The construction of the Panama Canal was one of the largest and most difficult engineering projects ever undertaken, effectively linking the Atlantic and Pacific oceans for the first time by way of a narrow strip of land in Panama.",
+        "entity_names": [
+            "Panama Canal",
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Panama"
+        ],
+        "filename": "completion-212",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Atlantic Ocean",
+            "Pacific Ocean"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was fought during the American Civil War in July 1863, and is widely considered one of the turning points of the war.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-213",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Special Air Service is a special forces unit of the British Army, established in 1941 during World War II.",
+        "entity_names": [
+            "Special Air Service",
+            "British Army",
+            "World War II"
+        ],
+        "filename": "completion-213",
+        "entity_types": [
+            "organization",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The African elephant is the largest living terrestrial animal, normally reaching 6 to 7.3 meters in length and 3 to 3.5 meters in height at the shoulder.",
+        "entity_names": [
+            "African elephant"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "Tigers are the most varied cat on Earth, and, despite the popular belief, are the largest sub-species of these felines.",
+        "entity_names": [
+            "Tigers"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "Tigers"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The World Wildlife Fund stated the main causes for the reductions in African wildlife is poaching and habitat destruction.",
+        "entity_names": [
+            "World Wildlife Fund",
+            "African wildlife"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "organization",
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "African wildlife"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The Democratic Party of the United States has historically supported social welfare programs and progressive taxation policies.",
+        "entity_names": [
+            "Democratic Party of the United States",
+            "United States"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Fashion weeks are held in various cities around the world, where designers showcase their latest collections to buyers, the media, and the general public.",
+        "entity_names": [
+            "Fashion weeks",
+            "world"
+        ],
+        "filename": "completion-217",
+        "entity_types": [
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Fashion weeks"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Serena Williams is considered one of the greatest tennis players of all time, with numerous Grand Slam titles to her name.",
+        "entity_names": [
+            "Serena Williams",
+            "Grand Slam"
+        ],
+        "filename": "completion-222",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Grand Slam"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The novel, Pride and Prejudice, written by Jane Austen, is considered one of the greatest works of English literature.",
+        "entity_names": [
+            "Pride and Prejudice",
+            "Jane Austen"
+        ],
+        "filename": "completion-228",
+        "entity_types": [
+            "literature",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Pride and Prejudice"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "In 1922, T.S. Eliot published The Waste Land, which is widely considered one of the most important poems of the 20th century.",
+        "entity_names": [
+            "T.S. Eliot",
+            "The Waste Land"
+        ],
+        "filename": "completion-228",
+        "entity_types": [
+            "person",
+            "literature"
+        ],
+        "entity_names_not_allowed": [
+            "The Waste Land"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The African elephant is the largest living terrestrial animal, with males reaching 6 to 7.5 meters (19.7 to 24.6 ft) and females 5.2 to 6.0 meters (17.1 to 19.7 ft) in length.",
+        "entity_names": [
+            "African elephant"
+        ],
+        "filename": "completion-231",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The guitar is a popular musical instrument that is used in various genres of music, including rock, pop, and classical.",
+        "entity_names": [
+            "guitar",
+            "rock",
+            "pop",
+            "classical"
+        ],
+        "filename": "completion-232",
+        "entity_types": [
+            "instrument",
+            "genre",
+            "genre",
+            "genre"
+        ],
+        "entity_names_not_allowed": [
+            "guitar",
+            "rock",
+            "pop",
+            "classical"
+        ],
+        "entity_types_not_allowed": [
+            "instrument",
+            "genre",
+            "genre",
+            "genre"
+        ]
+    },
+    {
+        "sentence": "The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.",
+        "entity_names": [
+            "Olympic Games",
+            "Summer Games",
+            "Winter Games"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "organization",
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Summer Games"
+        ]
+    },
+    {
+        "sentence": "The African elephant is the largest living terrestrial animal, with males reaching up to 6.8 meters tall.",
+        "entity_names": [
+            "African elephant"
+        ],
+        "filename": "completion-247",
+        "entity_types": [
+            "organism"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "organism"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg, fought in 1863, was a turning point in the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-253",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Olympic Games are a major international multi-sport event held once every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.",
+        "entity_names": [
+            "Olympic Games",
+            "Summer Games",
+            "Winter Games"
+        ],
+        "filename": "completion-255",
+        "entity_types": [
+            "organization",
+            "event",
+            "event"
+        ],
+        "missing_entity_names": [
+            "Summer Games"
+        ]
+    },
+    {
+        "sentence": "During the 2016 Summer Olympics, American swimmer Michael Phelps won five gold medals and one silver medal, bringing his total Olympic medal count to 28, the most by any athlete in Olympic history.",
+        "entity_names": [
+            "Michael Phelps",
+            "Summer Olympics"
+        ],
+        "filename": "completion-255",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "reordered_entity_names": [
+            "Summer Olympics",
+            "Michael Phelps"
+        ],
+        "reordered_entity_types": [
+            "event",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Summer Olympics"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The FIFA World Cup is an international association football competition contested by the senior men's national teams of the members of the F\u00e9d\u00e9ration Internationale de Football Association (FIFA), the sport's global governing body.",
+        "entity_names": [
+            "FIFA World Cup",
+            "F\u00e9d\u00e9ration Internationale de Football Association"
+        ],
+        "filename": "completion-255",
+        "entity_types": [
+            "event",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "FIFA World Cup"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The domestication of dogs is believed to have occurred over 15,000 years ago, with evidence of early human-dog relationships found in burial sites and cave paintings.",
+        "entity_names": [
+            "dogs"
+        ],
+        "filename": "completion-266",
+        "entity_types": [
+            "animals"
+        ],
+        "entity_names_not_allowed": [
+            "dogs"
+        ],
+        "entity_types_not_allowed": [
+            "animals"
+        ]
+    },
+    {
+        "sentence": "The ancient Egyptians revered the cat as a sacred animal, often depicting them in art and mummifying them for the afterlife.",
+        "entity_names": [
+            "ancient Egyptians",
+            "cat"
+        ],
+        "filename": "completion-266",
+        "entity_types": [
+            "organization",
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "cat"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "John Deere, a leading manufacturer of agricultural machinery, introduced its latest line of precision farming equipment at the annual Agricultural Machinery Expo in Iowa.",
+        "entity_names": [
+            "John Deere",
+            "Agricultural Machinery Expo",
+            "Iowa"
+        ],
+        "filename": "completion-274",
+        "entity_types": [
+            "organization",
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Agricultural Machinery Expo"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Crop rotation is a common practice in sustainable agriculture, where different crops are planted in the same area in sequential seasons to improve soil fertility and reduce pests and diseases.",
+        "entity_names": [
+            "crop rotation"
+        ],
+        "filename": "completion-274",
+        "entity_types": [
+            "activity"
+        ],
+        "entity_names_not_allowed": [
+            "crop rotation"
+        ],
+        "entity_types_not_allowed": [
+            "activity"
+        ]
+    },
+    {
+        "sentence": "The Shakespearean play \"Macbeth\" is a tragedy that explores the themes of ambition, guilt, and the supernatural.",
+        "entity_names": [
+            "Shakespeare"
+        ],
+        "filename": "completion-288",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Shakespeare"
+        ]
+    },
+    {
+        "sentence": "The American author Mark Twain is best known for his novels \"The Adventures of Tom Sawyer\" and \"Adventures of Huckleberry Finn\".",
+        "entity_names": [
+            "Mark Twain",
+            "The Adventures of Tom Sawyer",
+            "Adventures of Huckleberry Finn"
+        ],
+        "filename": "completion-288",
+        "entity_types": [
+            "person",
+            "literary work",
+            "literary work"
+        ],
+        "entity_names_not_allowed": [
+            "The Adventures of Tom Sawyer",
+            "Adventures of Huckleberry Finn"
+        ],
+        "entity_types_not_allowed": [
+            "literary work",
+            "literary work"
+        ]
+    },
+    {
+        "sentence": "General Patton, a legendary figure in American military history, is known for his bold tactics and aggressive leadership style during World War II.",
+        "entity_names": [
+            "General Patton",
+            "World War II"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Royal Canadian Navy has a long and storied history, dating back to its founding in 1910 and its significant contributions during both World Wars.",
+        "entity_names": [
+            "Royal Canadian Navy",
+            "World Wars"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World Wars"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Some theologians argue that the notion of original sin is central to the Christian doctrine, while others believe it to be a misinterpretation of the biblical text.",
+        "entities": [
+            "Christian"
+        ]
+    },
+    {
+        "sentence": "Shakespeare's famous play, Romeo and Juliet, has been adapted into numerous operas, ballets, and musicals.",
+        "entity_names": [
+            "Shakespeare",
+            "Romeo and Juliet"
+        ],
+        "filename": "completion-309",
+        "entity_types": [
+            "person",
+            "literature"
+        ],
+        "entity_names_not_allowed": [
+            "Romeo and Juliet"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The Latin alphabet, also called the Roman alphabet, is the writing system originally used by the ancient Romans to write the Latin language.",
+        "entity_names": [
+            "Latin"
+        ],
+        "filename": "completion-322",
+        "entity_types": [
+            "language"
+        ],
+        "entity_names_after_add": [
+            "Latin",
+            "Latin"
+        ],
+        "entity_types_after_add": [
+            "language",
+            "language"
+        ],
+        "entity_names_not_allowed": [
+            "Latin",
+            "Latin"
+        ],
+        "entity_types_not_allowed": [
+            "language",
+            "language"
+        ]
+    },
+    {
+        "sentence": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
+        "entity_names": [
+            "United Nations",
+            "Arabic",
+            "Chinese",
+            "English",
+            "French",
+            "Russian",
+            "Spanish"
+        ],
+        "filename": "completion-322",
+        "entity_types": [
+            "organization",
+            "language",
+            "language",
+            "language",
+            "language",
+            "language",
+            "language"
+        ],
+        "entity_names_not_allowed": [
+            "Arabic",
+            "Chinese",
+            "English",
+            "French",
+            "Russian",
+            "Spanish"
+        ],
+        "entity_types_not_allowed": [
+            "language",
+            "language",
+            "language",
+            "language",
+            "language",
+            "language"
+        ]
+    },
+    {
+        "sentence": "The United States Army is the land warfare service branch of the United States Armed Forces.",
+        "entity_names": [
+            "United States Army",
+            "United States",
+            "United States Armed Forces"
+        ],
+        "filename": "completion-327",
+        "entity_types": [
+            "organization",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was fought from July 1 to July 3, 1863, in and around the town of Gettysburg, Pennsylvania, by Union and Confederate forces during the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "Gettysburg",
+            "Pennsylvania",
+            "Union",
+            "Confederate",
+            "American Civil War"
+        ],
+        "filename": "completion-327",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "organization",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Cognitive psychology involves the study of mental processes such as \"attention, language use, perception, problem solving, memory, and thinking.\"",
+        "entity_names": [
+            "attention",
+            "language",
+            "perception",
+            "problem solving",
+            "memory"
+        ],
+        "filename": "completion-328",
+        "entity_types": [
+            "process",
+            "process",
+            "process",
+            "process",
+            "process"
+        ],
+        "entity_names_not_allowed": [
+            "attention",
+            "language",
+            "perception",
+            "problem solving",
+            "memory"
+        ],
+        "entity_types_not_allowed": [
+            "process",
+            "process",
+            "process",
+            "process",
+            "process"
+        ]
+    },
+    {
+        "sentence": "The earliest record of the Russian pirozhki can be found in the Primary Chronicle of the twelfth century.",
+        "entity_names": [
+            "Primary Chronicle"
+        ],
+        "filename": "completion-336",
+        "entity_types": [
+            "publication"
+        ],
+        "entity_names_not_allowed": [
+            "Primary Chronicle"
+        ],
+        "entity_types_not_allowed": [
+            "publication"
+        ]
+    },
+    {
+        "sentence": "The practice of cooking food has been known since prehistoric times.",
+        "entity_names": [
+            "prehistoric times"
+        ],
+        "filename": "completion-336",
+        "entity_types": [
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "prehistoric times"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "Regular physical activity can reduce the risk of chronic diseases such as cardiovascular disease, type 2 diabetes, and stroke.",
+        "entity_names": [
+            "cardiovascular disease",
+            "type 2 diabetes",
+            "stroke"
+        ],
+        "filename": "completion-339",
+        "entity_types": [
+            "health",
+            "health",
+            "health"
+        ],
+        "entity_names_not_allowed": [
+            "cardiovascular disease",
+            "type 2 diabetes",
+            "stroke"
+        ],
+        "entity_types_not_allowed": [
+            "health",
+            "health",
+            "health"
+        ]
+    },
+    {
+        "sentence": "The film Star Wars: The Force Awakens, directed by J.J. Abrams, was a box office success, grossing over $2 billion worldwide.",
+        "entity_names": [
+            "Star Wars: The Force Awakens",
+            "J.J. Abrams"
+        ],
+        "filename": "completion-347",
+        "entity_types": [
+            "film",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Star Wars: The Force Awakens"
+        ],
+        "entity_types_not_allowed": [
+            "film"
+        ]
+    },
+    {
+        "sentence": "The production company Paramount Pictures, known for blockbuster films such as Titanic and Transformers, is a subsidiary of ViacomCBS.",
+        "entity_names": [
+            "Paramount Pictures",
+            "Titanic",
+            "Transformers",
+            "ViacomCBS"
+        ],
+        "filename": "completion-347",
+        "entity_types": [
+            "organization",
+            "film",
+            "film",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "Titanic",
+            "Transformers"
+        ],
+        "entity_types_not_allowed": [
+            "film",
+            "film"
+        ]
+    },
+    {
+        "sentence": "The concept of metaphysics has been a central focus of Western philosophy since ancient times.",
+        "entity_names": [
+            "metaphysics",
+            "Western philosophy"
+        ],
+        "filename": "completion-351",
+        "entity_types": [
+            "concept",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "metaphysics",
+            "Western philosophy"
+        ],
+        "entity_types_not_allowed": [
+            "concept",
+            "concept"
+        ]
+    },
+    {
+        "sentence": "The philosophy of ethics explores the nature of right and wrong and how individuals should behave in moral dilemmas.",
+        "entity_names": [
+            "ethics"
+        ],
+        "filename": "completion-351",
+        "entity_types": [
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "ethics"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was fought July 1\u20133, 1863, in and around the town of Gettysburg, Pennsylvania, by Union and Confederate forces during the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "Pennsylvania",
+            "Union",
+            "Confederate",
+            "American Civil War"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "location",
+            "location",
+            "organization",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Military World Games is a multi-sport event for military sportspeople, organized by the International Military Sports Council (CISM).",
+        "entity_names": [
+            "Military World Games",
+            "International Military Sports Council",
+            "CISM"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "event",
+            "organization",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "Military World Games"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The headquarters of Google LLC is located in Mountain View, California, and the company is renowned for its search engine, as well as its other services such as Google Maps, Gmail, and YouTube.",
+        "entity_names": [
+            "Google LLC",
+            "Mountain View",
+            "California",
+            "Google Maps",
+            "Gmail",
+            "YouTube"
+        ],
+        "filename": "completion-361",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "product",
+            "product",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "Google Maps",
+            "Gmail",
+            "YouTube"
+        ],
+        "entity_types_not_allowed": [
+            "product",
+            "product",
+            "product"
+        ]
+    },
+    {
+        "sentence": "General Douglas MacArthur is remembered for his leadership during World War II, particularly his command of the Pacific theater.",
+        "entity_names": [
+            "General Douglas MacArthur",
+            "World War II",
+            "Pacific theater"
+        ],
+        "filename": "completion-363",
+        "entity_types": [
+            "person",
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg marked a turning point in the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-364",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "General George S. Patton was known for his aggressive and successful military tactics during World War II.",
+        "entity_names": [
+            "George S. Patton",
+            "World War II"
+        ],
+        "filename": "completion-364",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "In football, the penalty area or 18-yard box is the area which surrounds the goal.",
+        "entity_names": [
+            "football"
+        ],
+        "filename": "completion-376",
+        "entity_types": [
+            "sport"
+        ],
+        "entity_names_not_allowed": [
+            "football"
+        ],
+        "entity_types_not_allowed": [
+            "sport"
+        ]
+    },
+    {
+        "sentence": "Some of the most widely spoken languages in the world include Mandarin Chinese, English, Hindi, Spanish, and Arabic.",
+        "entity_names": [
+            "Mandarin Chinese",
+            "English",
+            "Hindi",
+            "Spanish",
+            "Arabic"
+        ],
+        "filename": "completion-380",
+        "entity_types": [
+            "language",
+            "language",
+            "language",
+            "language",
+            "language"
+        ],
+        "entity_names_not_allowed": [
+            "Mandarin Chinese",
+            "English",
+            "Hindi",
+            "Spanish",
+            "Arabic"
+        ],
+        "entity_types_not_allowed": [
+            "language",
+            "language",
+            "language",
+            "language",
+            "language"
+        ]
+    },
+    {
+        "sentence": "Many people enjoy the unique flavor of truffles, a type of edible fungus often used in gourmet cuisine.",
+        "entity_names": [
+            "truffles"
+        ],
+        "filename": "completion-386",
+        "entity_types": [
+            "food"
+        ],
+        "entity_names_not_allowed": [
+            "truffles"
+        ],
+        "entity_types_not_allowed": [
+            "food"
+        ]
+    },
+    {
+        "sentence": "Fashion weeks are held in various cities around the world, where designers showcase their latest collections to buyers, the media, and the general public.",
+        "entity_names": [
+            "Fashion weeks",
+            "designers"
+        ],
+        "filename": "completion-395",
+        "entity_types": [
+            "event",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "Fashion weeks"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "General George Washington commanded the Continental Army during the American Revolutionary War.",
+        "entity_names": [
+            "George Washington",
+            "Continental Army",
+            "American Revolutionary War"
+        ],
+        "filename": "completion-414",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Revolutionary War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "She was appointed as the new CEO of the multinational corporation, making her the first woman to hold the position in the company's history.",
+        "entity_names": [
+            "CEO",
+            "multinational corporation"
+        ],
+        "filename": "completion-420",
+        "entity_types": [
+            "position",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "CEO"
+        ],
+        "entity_types_not_allowed": [
+            "position"
+        ]
+    },
+    {
+        "sentence": "The production of coffee is a major source of income for many countries in Central and South America, Southeast Asia, and Africa.",
+        "entity_names": [
+            "Central America",
+            "South America",
+            "Southeast Asia",
+            "Africa"
+        ],
+        "filename": "completion-421",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Central America"
+        ]
+    },
+    {
+        "sentence": "Her novel, To Kill a Mockingbird, has been widely praised for its portrayal of racial injustice in the southern United States during the Great Depression.",
+        "entity_names": [
+            "To Kill a Mockingbird",
+            "United States",
+            "Great Depression"
+        ],
+        "filename": "completion-432",
+        "entity_types": [
+            "literature",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "To Kill a Mockingbird",
+            "Great Depression"
+        ],
+        "entity_types_not_allowed": [
+            "literature",
+            "event"
+        ]
+    },
+    {
+        "sentence": "The author, Mark Twain, is best known for his classic works such as The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.",
+        "entity_names": [
+            "Mark Twain",
+            "The Adventures of Tom Sawyer",
+            "Adventures of Huckleberry Finn"
+        ],
+        "filename": "completion-432",
+        "entity_types": [
+            "person",
+            "literature",
+            "literature"
+        ],
+        "entity_names_not_allowed": [
+            "The Adventures of Tom Sawyer",
+            "Adventures of Huckleberry Finn"
+        ],
+        "entity_types_not_allowed": [
+            "literature",
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The National Book Foundation, an organization dedicated to celebrating the best literature in America, presents the National Book Awards annually.",
+        "entity_names": [
+            "National Book Foundation",
+            "America",
+            "National Book Awards"
+        ],
+        "filename": "completion-432",
+        "entity_types": [
+            "organization",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "National Book Awards"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The United Nations was established on 24 October 1945 after World War II in order to prevent another such conflict.",
+        "entity_names": [
+            "United Nations",
+            "World War II"
+        ],
+        "filename": "completion-436",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The cheetah is known for its incredible speed, reaching up to 75 miles per hour in short bursts.",
+        "entity_names": [
+            "cheetah"
+        ],
+        "filename": "completion-444",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "cheetah"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The World Wildlife Fund has identified the African elephant as a vulnerable species due to ongoing poaching and habitat loss.",
+        "entity_names": [
+            "World Wildlife Fund",
+            "African elephant"
+        ],
+        "filename": "completion-444",
+        "entity_types": [
+            "organization",
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The migration patterns of the monarch butterfly make it one of the most fascinating phenomena in the animal kingdom, with millions of individuals traveling thousands of miles each year.",
+        "entity_names": [
+            "monarch butterfly"
+        ],
+        "filename": "completion-444",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "monarch butterfly"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The Egyptian mythology includes deities like Ra, Osiris, Isis, Anubis, and Horus, each with their unique characteristics and stories.",
+        "entity_names": [
+            "Ra",
+            "Osiris",
+            "Isis",
+            "Anubis",
+            "Horus",
+            "Egypt"
+        ],
+        "filename": "completion-448",
+        "entity_types": [
+            "person",
+            "person",
+            "person",
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Egypt"
+        ]
+    },
+    {
+        "sentence": "Environmental protection is the practice of protecting the natural environment by individuals, organizations, and governments to ensure sustainable management of natural resources and the overall health of the planet.",
+        "entities": [
+            "environment, individuals, organizations, governments"
+        ]
+    },
+    {
+        "sentence": "Climate change is a significant and long-term change in the global or regional climate patterns, primarily resulting from human activities such as burning fossil fuels, deforestation, and industrial processes.",
+        "entities": [
+            "climate change, human activities"
+        ]
+    },
+    {
+        "sentence": "Traveling by train allows for a scenic and relaxed journey through the countryside.",
+        "entity_names": [
+            "train"
+        ],
+        "filename": "completion-466",
+        "entity_types": [
+            "vehicle"
+        ],
+        "entity_names_not_allowed": [
+            "train"
+        ],
+        "entity_types_not_allowed": [
+            "vehicle"
+        ]
+    },
+    {
+        "sentence": "The Industrial Revolution was a period characterized by major changes in agriculture, manufacturing, mining, transportation, and technology, which had a profound effect on the socioeconomic and cultural conditions of the time and marked a significant turning point in human history.",
+        "entity_names": [
+            "Industrial Revolution"
+        ],
+        "filename": "completion-469",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Industrial Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Astronaut Sally Ride became the first American woman to travel to space when she flew aboard the Space Shuttle Challenger in 1983.",
+        "entity_names": [
+            "Sally Ride",
+            "Space Shuttle Challenger",
+            "United States"
+        ],
+        "filename": "completion-472",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The African lion, a majestic and powerful creature, is an iconic symbol of wildlife conservation efforts in sub-Saharan Africa.",
+        "entity_names": [
+            "African lion",
+            "sub-Saharan Africa"
+        ],
+        "filename": "completion-474",
+        "entity_types": [
+            "organism",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "African lion"
+        ],
+        "entity_types_not_allowed": [
+            "organism"
+        ]
+    },
+    {
+        "sentence": "Antarctica, despite its harsh climate and remote location, is home to a diverse array of wildlife, including penguins, seals, and whales.",
+        "entity_names": [
+            "Antarctica",
+            "penguins",
+            "seals",
+            "whales"
+        ],
+        "filename": "completion-474",
+        "entity_types": [
+            "location",
+            "organism",
+            "organism",
+            "organism"
+        ],
+        "entity_names_not_allowed": [
+            "penguins",
+            "seals",
+            "whales"
+        ],
+        "entity_types_not_allowed": [
+            "organism",
+            "organism",
+            "organism"
+        ]
+    },
+    {
+        "sentence": "Maria Montessori, an Italian physician and educator, developed the Montessori method of education, which is still widely used today.",
+        "entity_names": [
+            "Maria Montessori",
+            "Italy"
+        ],
+        "filename": "completion-475",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "The majestic African elephant, with its iconic tusks and large ears, roams the savannas of sub-Saharan Africa.",
+        "entity_names": [
+            "African elephant",
+            "Africa"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "organism",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "organism"
+        ]
+    },
+    {
+        "sentence": "Dr. Jane Goodall, a renowned primatologist, dedicated her life to studying and advocating for the conservation of chimpanzees in their natural habitats.",
+        "entity_names": [
+            "Jane Goodall",
+            "chimpanzees"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "person",
+            "organism"
+        ],
+        "entity_names_not_allowed": [
+            "chimpanzees"
+        ],
+        "entity_types_not_allowed": [
+            "organism"
+        ]
+    },
+    {
+        "sentence": "The origins of French cuisine date back to the Middle Ages, and it has since become renowned for its use of high-quality ingredients and meticulous preparation techniques.",
+        "entity_names": [
+            "French cuisine",
+            "Middle Ages"
+        ],
+        "filename": "completion-496",
+        "entity_types": [
+            "cuisine",
+            "time period"
+        ],
+        "entity_names_not_allowed": [
+            "French cuisine",
+            "Middle Ages"
+        ],
+        "entity_types_not_allowed": [
+            "cuisine",
+            "time period"
+        ]
+    },
+    {
+        "sentence": "Italian cuisine is characterized by its regional diversity, with each region boasting its own unique set of dishes and culinary traditions.",
+        "entity_names": [
+            "Italian cuisine"
+        ],
+        "filename": "completion-496",
+        "entity_types": [
+            "cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "Italian cuisine"
+        ],
+        "entity_types_not_allowed": [
+            "cuisine"
+        ]
+    },
+    {
+        "sentence": "The fusion of Asian and Latin American culinary traditions has given rise to a new and exciting genre of cuisine known as \"Asian-Latin fusion,\" which combines the bold flavors of both cuisines in innovative and unexpected ways.",
+        "entity_names": [
+            "Asian-Latin fusion",
+            "Latin American"
+        ],
+        "filename": "completion-496",
+        "entity_types": [
+            "cuisine",
+            "location"
+        ],
+        "reordered_entity_names": [
+            "Latin American",
+            "Asian-Latin fusion"
+        ],
+        "reordered_entity_types": [
+            "location",
+            "cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "Asian-Latin fusion"
+        ],
+        "entity_types_not_allowed": [
+            "cuisine"
+        ]
+    },
+    {
+        "sentence": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States.",
+        "entity_names": [
+            "Great Depression",
+            "United States"
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Great Depression"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Microeconomics is the study of individuals' and businesses' decisions, while macroeconomics looks at the economy as a whole.",
+        "entity_names": [
+            "Microeconomics",
+            "macroeconomics"
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "concept",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "Microeconomics",
+            "macroeconomics"
+        ],
+        "entity_types_not_allowed": [
+            "concept",
+            "concept"
+        ]
+    },
+    {
+        "sentence": "Classical music is often noted for its complex compositions and emphasis on instrumental performance, while popular music tends to focus more on catchy melodies and lyrics.",
+        "entity_names": [
+            "Classical music",
+            "popular music"
+        ],
+        "filename": "completion-502",
+        "entity_types": [
+            "music",
+            "music"
+        ],
+        "entity_names_not_allowed": [
+            "Classical music",
+            "popular music"
+        ],
+        "entity_types_not_allowed": [
+            "music",
+            "music"
+        ]
+    },
+    {
+        "sentence": "Jazz music is known for its improvisational nature and extensive use of syncopation, whereas rock music is characterized by its heavy use of electric guitar and driving rhythm section.",
+        "entity_names": [
+            "Jazz music",
+            "rock music"
+        ],
+        "filename": "completion-502",
+        "entity_types": [
+            "music",
+            "music"
+        ],
+        "entity_names_not_allowed": [
+            "Jazz music",
+            "rock music"
+        ],
+        "entity_types_not_allowed": [
+            "music",
+            "music"
+        ]
+    },
+    {
+        "sentence": "Some of the major languages spoken today, such as English, Spanish, Mandarin, and Arabic, have millions of speakers around the world.",
+        "entity_names": [
+            "English",
+            "Spanish",
+            "Mandarin",
+            "Arabic"
+        ],
+        "filename": "completion-505",
+        "entity_types": [
+            "language",
+            "language",
+            "language",
+            "language"
+        ],
+        "entity_names_not_allowed": [
+            "English",
+            "Spanish",
+            "Mandarin",
+            "Arabic"
+        ],
+        "entity_types_not_allowed": [
+            "language",
+            "language",
+            "language",
+            "language"
+        ]
+    },
+    {
+        "sentence": "The study of language, linguistics, involves the analysis of language form, language meaning, and language in context.",
+        "entity_names": [
+            "linguistics"
+        ],
+        "filename": "completion-505",
+        "entity_types": [
+            "field of study"
+        ],
+        "entity_names_not_allowed": [
+            "linguistics"
+        ],
+        "entity_types_not_allowed": [
+            "field of study"
+        ]
+    },
+    {
+        "sentence": "The United Nations is an international organization founded in 1945 after World War II to promote international cooperation and peace.",
+        "entity_names": [
+            "United Nations",
+            "World War II"
+        ],
+        "filename": "completion-506",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Climate change is a significant threat to many ecosystems and the livelihoods of people who depend on them.",
+        "entity_names": [
+            "Climate change",
+            "ecosystems"
+        ],
+        "filename": "completion-512",
+        "entity_types": [
+            "issue",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Climate change"
+        ],
+        "entity_types_not_allowed": [
+            "issue"
+        ]
+    },
+    {
+        "sentence": "General Dwight D. Eisenhower served as Supreme Commander of the Allied Expeditionary Force in Europe during World War II, leading the successful D-Day invasion on June 6, 1944.",
+        "entity_names": [
+            "Dwight D. Eisenhower",
+            "Allied Expeditionary Force",
+            "World War II"
+        ],
+        "filename": "completion-528",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Bauhaus, a German art school operational from 1919 to 1933, had a major impact on modernist architecture and design.",
+        "entity_names": [
+            "Bauhaus",
+            "Germany"
+        ],
+        "filename": "completion-530",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The fashion industry has been the subject of numerous films and television shows, including the documentary The September Issue and the reality show Project Runway.",
+        "entity_names": [
+            "The September Issue",
+            "Project Runway"
+        ],
+        "filename": "completion-532",
+        "entity_types": [
+            "film",
+            "television show"
+        ],
+        "entity_names_not_allowed": [
+            "The September Issue",
+            "Project Runway"
+        ],
+        "entity_types_not_allowed": [
+            "film",
+            "television show"
+        ]
+    },
+    {
+        "sentence": "Sigmund Freud, an Austrian neurologist and the founder of psychoanalysis, proposed childhood experiences and the unconscious mind as important factors in human behavior.",
+        "entity_names": [
+            "Sigmund Freud",
+            "Austria"
+        ],
+        "filename": "completion-534",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Austria"
+        ]
+    },
+    {
+        "sentence": "Albert Bandura, a Canadian-American psychologist, is best known for his social learning theory and the concept of self-efficacy.",
+        "entity_names": [
+            "Albert Bandura",
+            "Canada",
+            "United States"
+        ],
+        "filename": "completion-534",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Canada",
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The African elephant is the largest living land animal, with males reaching up to 3.96 metres (13.0 ft) in height at the shoulder.",
+        "entity_names": [
+            "African elephant"
+        ],
+        "filename": "completion-538",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "African elephant"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "Lions are the only cats that live in groups, which are called prides, consisting of about 15 lions.",
+        "entity_names": [
+            "lions"
+        ],
+        "filename": "completion-538",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_after_add": [
+            "lions",
+            "lions"
+        ],
+        "entity_types_after_add": [
+            "animal",
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "lions",
+            "lions"
+        ],
+        "entity_types_not_allowed": [
+            "animal",
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The cheetah can accelerate from 0 to 60 mph in just a few seconds and can run as fast as 70 mph for short distances.",
+        "entity_names": [
+            "cheetah"
+        ],
+        "filename": "completion-538",
+        "entity_types": [
+            "animal"
+        ],
+        "entity_names_not_allowed": [
+            "cheetah"
+        ],
+        "entity_types_not_allowed": [
+            "animal"
+        ]
+    },
+    {
+        "sentence": "The excavation at the site uncovered ancient pottery and tools, providing valuable insights into the daily lives of the indigenous people who once inhabited the area.",
+        "entity_names": [
+            "pottery",
+            "tools"
+        ],
+        "filename": "completion-543",
+        "entity_types": [
+            "artifact",
+            "artifact"
+        ],
+        "entity_names_not_allowed": [
+            "pottery",
+            "tools"
+        ],
+        "entity_types_not_allowed": [
+            "artifact",
+            "artifact"
+        ]
+    },
+    {
+        "sentence": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven.",
+        "entity_names": [
+            "Italy"
+        ],
+        "filename": "completion-544",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "Fashion design involves the creation and production of clothing, accessories, and footwear, taking into account cultural and social influences, as well as seasonal trends and market demands.",
+        "entity_names": [
+            "Fashion"
+        ],
+        "filename": "completion-547",
+        "entity_types": [
+            "topic"
+        ],
+        "entity_names_not_allowed": [
+            "Fashion"
+        ],
+        "entity_types_not_allowed": [
+            "topic"
+        ]
+    },
+    {
+        "sentence": "Fashion shows and events play a crucial role in showcasing the latest trends and designs, allowing industry professionals and enthusiasts to gather and network while gaining insight into upcoming fashion movements.",
+        "entity_names": [
+            "Fashion shows"
+        ],
+        "filename": "completion-547",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Fashion shows"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Fashion is a popular aesthetic expression at a certain time and context, especially in clothing, footwear, lifestyle, accessories, makeup, hairstyle, and body proportions.",
+        "entity_names": [
+            "Fashion"
+        ],
+        "filename": "completion-556",
+        "entity_types": [
+            "topic"
+        ],
+        "entity_names_not_allowed": [
+            "Fashion"
+        ],
+        "entity_types_not_allowed": [
+            "topic"
+        ]
+    },
+    {
+        "sentence": "Space exploration has led to numerous technological advancements, including the development of satellite communication systems and GPS.",
+        "entity_names": [
+            "GPS"
+        ],
+        "filename": "completion-559",
+        "entity_types": [
+            "technology"
+        ],
+        "entity_names_not_allowed": [
+            "GPS"
+        ],
+        "entity_types_not_allowed": [
+            "technology"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg, fought from July 1 to July 3, 1863, is considered the most important engagement of the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-560",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The United Nations has designated 2022 as the International Year of Indigenous Languages to raise awareness of the crucial role that languages play in people's daily lives.",
+        "entity_names": [
+            "United Nations",
+            "International Year of Indigenous Languages"
+        ],
+        "filename": "completion-574",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "International Year of Indigenous Languages"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The setting of the play Romeo and Juliet by William Shakespeare is the Italian city of Verona.",
+        "entity_names": [
+            "Romeo and Juliet",
+            "William Shakespeare",
+            "Verona"
+        ],
+        "filename": "completion-577",
+        "entity_types": [
+            "literature",
+            "person",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Romeo and Juliet"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The Olympic Games are a major international event featuring summer and winter sports, in which thousands of athletes from around the world participate in a variety of competitions.",
+        "entity_names": [
+            "Olympic Games"
+        ],
+        "filename": "completion-578",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Olympic Games"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Crop rotation is a farming practice that involves planting different crops in the same area in sequential seasons to improve soil health and reduce pests and diseases.",
+        "entity_names": [
+            "Crop rotation"
+        ],
+        "filename": "completion-580",
+        "entity_types": [
+            "agricultural practice"
+        ],
+        "entity_names_not_allowed": [
+            "Crop rotation"
+        ],
+        "entity_types_not_allowed": [
+            "agricultural practice"
+        ]
+    },
+    {
+        "sentence": "The use of synthetic fertilizers in modern agriculture has significantly increased crop yields, but has also raised concerns about environmental pollution and soil degradation.",
+        "entity_names": [
+            "synthetic fertilizers"
+        ],
+        "filename": "completion-580",
+        "entity_types": [
+            "agricultural input"
+        ],
+        "entity_names_not_allowed": [
+            "synthetic fertilizers"
+        ],
+        "entity_types_not_allowed": [
+            "agricultural input"
+        ]
+    },
+    {
+        "sentence": "Released in 1994, The Shawshank Redemption, directed by Frank Darabont, is widely regarded as one of the greatest films of all time.",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "Frank Darabont"
+        ],
+        "filename": "completion-593",
+        "entity_types": [
+            "film",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "The Shawshank Redemption"
+        ],
+        "entity_types_not_allowed": [
+            "film"
+        ]
+    },
+    {
+        "sentence": "Following its initial failure at the box office, The Shawshank Redemption gained widespread recognition as a result of its multiple airings on cable television and its release on home video.",
+        "entity_names": [
+            "The Shawshank Redemption"
+        ],
+        "filename": "completion-593",
+        "entity_types": [
+            "film"
+        ],
+        "entity_names_not_allowed": [
+            "The Shawshank Redemption"
+        ],
+        "entity_types_not_allowed": [
+            "film"
+        ]
+    },
+    {
+        "sentence": "The movie premiered at the Cannes Film Festival and won the prestigious Palme d'Or award.",
+        "entity_names": [
+            "Cannes Film Festival",
+            "Palme d'Or"
+        ],
+        "filename": "completion-594",
+        "entity_types": [
+            "organization",
+            "award"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or"
+        ],
+        "entity_types_not_allowed": [
+            "award"
+        ]
+    },
+    {
+        "sentence": "Set in the backdrop of World War II, the film tells the story of a young girl hiding from the Nazis in German-occupied France.",
+        "entity_names": [
+            "World War II",
+            "Nazis",
+            "German-occupied France"
+        ],
+        "filename": "completion-594",
+        "entity_types": [
+            "event",
+            "organization",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Immanuel Kant, a German philosopher, is known for his work in the field of ethics and metaphysics, particularly his Critique of Pure Reason.",
+        "entity_names": [
+            "Immanuel Kant",
+            "Germany"
+        ],
+        "filename": "completion-596",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+1. "What are the operating hours for Bojangles' Famous Chicken 'n Biscuits?"
+Named Entities: [Bojangles' Famous Chicken 'n Biscuits (Restaurant Name), operating hours (Hours)]
+
+2. "I'm craving some Indonesian food. Is there a restaurant nearby that serves Indonesian cuisine?"
+Named Entities: [Indonesian (Cuisine), nearby (Location)]
+
+3. "I want a sweet treat. Can you find me the nearest ice cream parlor?"
+Named Entities: [nearest (Location), The Igloo Ice Cream Parlor (Restaurant Name)]

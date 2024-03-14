@@ -1,0 +1,6707 @@
+[
+    {
+        "sentence": "What movie features the song 'My Heart Will Go On' by Celine Dion?",
+        "entity_names": [
+            "'My Heart Will Go On'",
+            "Celine Dion"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "Song",
+            "Artist"
+        ],
+        "entity_spans_quote_drop": [
+            "'My Heart Will Go On'"
+        ],
+        "entity_names_not_allowed": [
+            "Celine Dion"
+        ],
+        "entity_types_not_allowed": [
+            "Artist"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me about the movie that won the most Oscars in the 1990s?\"",
+        "entity_names": [
+            "1990s",
+            "won the most Oscars"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "Year",
+            "Awards and nominations received"
+        ],
+        "sentence_quote_dropped": "Can you tell me about the movie that won the most Oscars in the 1990s?",
+        "reordered_entity_names": [
+            "won the most Oscars",
+            "1990s"
+        ],
+        "reordered_entity_types": [
+            "Awards and nominations received",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "won the most Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "\"I remember a classic movie with Humphrey Bogart that received a lot of awards. Can you remind me which one it was?\"",
+        "entity_names": [
+            "Humphrey Bogart",
+            "classic",
+            "received a lot of awards"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "Actor",
+            "Genre",
+            "Awards and nominations received"
+        ],
+        "sentence_quote_dropped": "I remember a classic movie with Humphrey Bogart that received a lot of awards. Can you remind me which one it was?",
+        "reordered_entity_names": [
+            "classic",
+            "Humphrey Bogart",
+            "received a lot of awards"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Actor",
+            "Awards and nominations received"
+        ],
+        "entity_names_not_allowed": [
+            "received a lot of awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "\"I'm feeling nostalgic for an iconic film from the 80s that was nominated for multiple Golden Globes. Can you help me remember the title?\"",
+        "entity_names": [
+            "80s",
+            "iconic",
+            "nominated for multiple Golden Globes"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "Year",
+            "Viewers' Rating",
+            "Awards and nominations received"
+        ],
+        "sentence_quote_dropped": "I'm feeling nostalgic for an iconic film from the 80s that was nominated for multiple Golden Globes. Can you help me remember the title?",
+        "reordered_entity_names": [
+            "iconic",
+            "80s",
+            "nominated for multiple Golden Globes"
+        ],
+        "reordered_entity_types": [
+            "Viewers' Rating",
+            "Year",
+            "Awards and nominations received"
+        ],
+        "entity_names_not_allowed": [
+            "nominated for multiple Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "\"Is there a documentary about the making of the movie Parasite?\"",
+        "entity_names": [
+            "Parasite",
+            "documentary",
+            "making-of"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "Title",
+            "Genre",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "making-of"
+        ],
+        "sentence_quote_dropped": "Is there a documentary about the making of the movie Parasite?"
+    },
+    {
+        "sentence": "Can you tell me which movie won the Best Picture award at the Oscars in 2019? I'm curious to know.",
+        "entity_names": [
+            "Best Picture award",
+            "2019"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture award"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for a critically acclaimed movie. Can you recommend a film that has won multiple awards, please?",
+        "entity_names": [
+            "critically acclaimed",
+            "multiple awards"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "Review",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "multiple awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a feel-good movie that has been nominated for a Golden Globe. Any suggestions?",
+        "entity_names": [
+            "feel-good",
+            "Golden Globe"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "Review",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you tell me which movie won the Academy Award for Best Picture in 1994?",
+        "entity_names": [
+            "Academy Award",
+            "Best Picture",
+            "1994"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "Award",
+            "Award Category",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Academy Award",
+            "Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award Category"
+        ]
+    },
+    {
+        "sentence": "Show me a film that received multiple nominations at the Golden Globes this year.",
+        "entity_names": [
+            "Golden Globes",
+            "multiple nominations",
+            "this year"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "reordered_entity_names": [
+            "multiple nominations",
+            "Golden Globes",
+            "this year"
+        ],
+        "reordered_entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "multiple nominations",
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a movie that won both the Palme d'Or and the BAFTA Award for Best Film.",
+        "entity_names": [
+            "Palme d'Or",
+            "BAFTA Award",
+            "Best Film"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "Award",
+            "Award",
+            "Award Category"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or",
+            "BAFTA Award",
+            "Best Film"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award",
+            "Award Category"
+        ]
+    },
+    {
+        "sentence": "I want to watch a film that has great music, do you have any recommendations?",
+        "entity_names": [
+            "great music"
+        ],
+        "filename": "completion-13",
+        "entity_types": [
+            "Song/Viewers' Rating"
+        ],
+        "entity_names_not_allowed": [
+            "great music"
+        ],
+        "entity_types_not_allowed": [
+            "Song/Viewers' Rating"
+        ]
+    },
+    {
+        "sentence": "Is there a movie known for its iconic soundtrack?",
+        "entity_names": [
+            "iconic soundtrack"
+        ],
+        "filename": "completion-13",
+        "entity_types": [
+            "Song/Review"
+        ],
+        "entity_names_not_allowed": [
+            "iconic soundtrack"
+        ],
+        "entity_types_not_allowed": [
+            "Song/Review"
+        ]
+    },
+    {
+        "sentence": "I'm interested in learning about the making of the Titanic movie, can you show me any interviews with the director or cast members?",
+        "entity_names": [
+            "making of the Titanic movie",
+            "interviews",
+            "Titanic"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "Plot",
+            "Trailer",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "Titanic"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Can you tell me about any movie that has won a lot of awards?\"",
+        "entity_names": [
+            "won a lot of awards"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "Awards and nominations received"
+        ],
+        "entity_names_not_allowed": [
+            "won a lot of awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"I'm curious, which movie has been recognized for its exceptional performances?\"",
+        "entity_names": [
+            "exceptional performances"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "Awards and nominations received"
+        ],
+        "entity_names_not_allowed": [
+            "exceptional performances"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Are there any movies that have received critical acclaim and recognition?\"",
+        "entity_names": [
+            "critical acclaim and recognition"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "Awards and nominations received"
+        ],
+        "entity_names_not_allowed": [
+            "critical acclaim and recognition"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the making-of documentary for the movie Inception?\"",
+        "entity_names": [
+            "Inception",
+            "making-of documentary",
+            "director"
+        ],
+        "filename": "completion-18",
+        "entity_types": [
+            "Title",
+            "Genre",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ],
+        "sentence_quote_dropped": "Who directed the making-of documentary for the movie Inception?"
+    },
+    {
+        "sentence": "\"Can I watch any George Clooney films on Netflix?\"",
+        "entity_names": [
+            "George Clooney",
+            "Netflix"
+        ],
+        "filename": "completion-22",
+        "entity_types": [
+            "Actor",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Can I watch any George Clooney films on Netflix?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the movie Inception?\"",
+        "entities": [
+            "Inception (Title)",
+            "Director"
+        ],
+        "sentence_quote_dropped": "Who directed the movie Inception?"
+    },
+    {
+        "sentence": "\"What's the genre of the movie The Matrix?\"",
+        "entities": [
+            "The Matrix (Title)",
+            "Genre"
+        ],
+        "sentence_quote_dropped": "What's the genre of the movie The Matrix?"
+    },
+    {
+        "sentence": "\"Hey, did that movie with the amazing soundtrack and great plot win any awards?\"",
+        "entity_names": [
+            "amazing soundtrack",
+            "great plot",
+            "Awards and nominations"
+        ],
+        "filename": "completion-30",
+        "entity_types": [
+            "Song",
+            "Plot",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "Hey, did that movie with the amazing soundtrack and great plot win any awards?"
+    },
+    {
+        "sentence": "\"Have you seen that movie with the incredible visual effects and awesome fight scenes? Did it get any nominations?\"",
+        "entity_names": [
+            "incredible visual effects",
+            "awesome fight scenes",
+            "Awards and nominations"
+        ],
+        "filename": "completion-30",
+        "entity_types": [
+            "Plot",
+            "Plot",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "Have you seen that movie with the incredible visual effects and awesome fight scenes? Did it get any nominations?"
+    },
+    {
+        "sentence": "\"I'm curious, did the movie with the mind-blowing twist ending and intense storyline win any awards?\"",
+        "entity_names": [
+            "mind-blowing twist ending",
+            "intense storyline",
+            "Awards and nominations"
+        ],
+        "filename": "completion-30",
+        "entity_types": [
+            "Plot",
+            "Plot",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "I'm curious, did the movie with the mind-blowing twist ending and intense storyline win any awards?"
+    },
+    {
+        "sentence": "Spoken Query: \"Can we watch a fantasy movie suitable for kids this evening?\"",
+        "entity_names": [
+            "fantasy",
+            "kids",
+            "evening"
+        ],
+        "filename": "completion-32",
+        "entity_types": [
+            "Genre",
+            "Viewers' Rating",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "evening"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "\"Can I watch the new Disney princess movie on Netflix?\"",
+        "entity_names": [
+            "new Disney princess movie",
+            "Netflix"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Can I watch the new Disney princess movie on Netflix?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Is there a romantic comedy from the 2000s available on Hulu?\"",
+        "entity_names": [
+            "romantic comedy",
+            "2000s",
+            "Hulu"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Is there a romantic comedy from the 2000s available on Hulu?",
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Do you have any recommendations for family-friendly animated films on Amazon Prime?\"",
+        "entity_names": [
+            "family-friendly",
+            "animated films",
+            "Amazon Prime"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "Viewers' Rating",
+            "Genre",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Do you have any recommendations for family-friendly animated films on Amazon Prime?",
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"I'm curious to know if the director of The Dark Knight has won any prestigious awards.\"",
+        "entity_names": [
+            "The Dark Knight",
+            "director of The Dark Knight",
+            "prestigious awards"
+        ],
+        "filename": "completion-40",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Review"
+        ],
+        "sentence_quote_dropped": "I'm curious to know if the director of The Dark Knight has won any prestigious awards.",
+        "missing_entity_names": [
+            "The Dark Knight"
+        ]
+    },
+    {
+        "sentence": "Who directed the top horror movie of the 90s?",
+        "entities": [
+            "top (Viewers' Rating)",
+            "horror (Genre)",
+            "90s (Year)",
+            "Director"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a movie with a great soundtrack for a girls' night?",
+        "entity_names": [
+            "girls' night",
+            "soundtrack"
+        ],
+        "filename": "completion-46",
+        "entity_types": [
+            "Viewer's Rating",
+            "Genre"
+        ],
+        "reordered_entity_names": [
+            "soundtrack",
+            "girls' night"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Viewer's Rating"
+        ],
+        "entity_names_not_allowed": [
+            "girls' night"
+        ],
+        "entity_types_not_allowed": [
+            "Viewer's Rating"
+        ]
+    },
+    {
+        "sentence": "Can you tell me a movie that won an Oscar for best picture from the 1970s?",
+        "entity_names": [
+            "Oscar",
+            "best picture",
+            "1970s"
+        ],
+        "filename": "completion-48",
+        "entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscar",
+            "best picture"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a film that was nominated for a Golden Globe for best actress in a drama.",
+        "entity_names": [
+            "Golden Globe",
+            "best actress",
+            "drama"
+        ],
+        "filename": "completion-48",
+        "entity_types": [
+            "Award",
+            "Award",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe",
+            "best actress"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award"
+        ]
+    },
+    {
+        "sentence": "What movie received the most nominations at the BAFTA awards last year?",
+        "entity_names": [
+            "BAFTA",
+            "nominations",
+            "last year"
+        ],
+        "filename": "completion-48",
+        "entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "reordered_entity_names": [
+            "nominations",
+            "BAFTA",
+            "last year"
+        ],
+        "reordered_entity_types": [
+            "Award",
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "nominations",
+            "BAFTA"
+        ],
+        "entity_types_not_allowed": [
+            "Award",
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Are there any classic movies from the 1950s available on Netflix?",
+        "entity_names": [
+            "classic movies",
+            "1950s",
+            "Netflix"
+        ],
+        "filename": "completion-56",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can I find any western films on Amazon Prime?",
+        "entity_names": [
+            "western films",
+            "Amazon Prime"
+        ],
+        "filename": "completion-56",
+        "entity_types": [
+            "Genre",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Is there a way to watch musicals from the 1960s on Hulu?",
+        "entity_names": [
+            "musicals",
+            "1960s",
+            "Hulu"
+        ],
+        "filename": "completion-56",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "What movies are playing near me right now?",
+        "entity_names": [
+            "movies, playing, near me"
+        ],
+        "filename": "completion-60",
+        "entity_types": [
+            "Location"
+        ],
+        "missing_entity_names": [
+            "movies, playing, near me"
+        ]
+    },
+    {
+        "sentence": "Is there a new action movie out this week?",
+        "entity_names": [
+            "new, action movie, this week"
+        ],
+        "filename": "completion-60",
+        "entity_types": [
+            "Time"
+        ],
+        "missing_entity_names": [
+            "new, action movie, this week"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a good comedy playing at the theater?",
+        "entities": [
+            "recommend, good, comedy, theater"
+        ]
+    },
+    {
+        "sentence": "I'm interested in watching a critically acclaimed film, ideally one that was nominated for an Oscar. Can you suggest anything?",
+        "entity_names": [
+            "critically acclaimed",
+            "nominated for an Oscar"
+        ],
+        "filename": "completion-62",
+        "entity_types": [
+            "Review",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "nominated for an Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Can I watch the movie Inception on Netflix?",
+        "entity_names": [
+            "Inception",
+            "Netflix"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Are there any highly-rated comedy movies from the 1990s available on Hulu?",
+        "entity_names": [
+            "comedy",
+            "1990s",
+            "Hulu",
+            "highly-rated"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform",
+            "Viewers' Rating"
+        ],
+        "reordered_entity_names": [
+            "highly-rated",
+            "comedy",
+            "1990s",
+            "Hulu"
+        ],
+        "reordered_entity_types": [
+            "Viewers' Rating",
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Is there a classic Alfred Hitchcock film with a mystery plot that I can stream on Amazon Prime?",
+        "entity_names": [
+            "Alfred Hitchcock",
+            "mystery",
+            "Amazon Prime",
+            "classic"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "Director",
+            "Plot",
+            "Streaming platform",
+            "Viewers' Rating"
+        ],
+        "reordered_entity_names": [
+            "classic",
+            "Alfred Hitchcock",
+            "mystery",
+            "Amazon Prime"
+        ],
+        "reordered_entity_types": [
+            "Viewers' Rating",
+            "Director",
+            "Plot",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can I watch the movie Interstellar on Netflix?",
+        "entity_names": [
+            "Interstellar",
+            "Netflix"
+        ],
+        "filename": "completion-67",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Is there a comedy film from the 90s available on Hulu?",
+        "entity_names": [
+            "comedy film",
+            "90s",
+            "Hulu"
+        ],
+        "filename": "completion-67",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Do you have any information on The Dark Knight, directed by Christopher Nolan, available on Amazon Prime?",
+        "entity_names": [
+            "The Dark Knight",
+            "Christopher Nolan",
+            "Amazon Prime"
+        ],
+        "filename": "completion-67",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Are there any romantic comedy movies playing tonight where I can get tickets?\"",
+        "entity_names": [
+            "romantic comedy",
+            "tonight"
+        ],
+        "filename": "completion-68",
+        "entity_types": [
+            "Genre",
+            "Date"
+        ],
+        "sentence_quote_dropped": "Are there any romantic comedy movies playing tonight where I can get tickets?",
+        "entity_names_not_allowed": [
+            "tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Date"
+        ]
+    },
+    {
+        "sentence": "Could you provide me with the director's commentary for the film Inception?",
+        "entity_names": [
+            "director's commentary",
+            "Inception"
+        ],
+        "filename": "completion-75",
+        "entity_types": [
+            "Feature",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "director's commentary"
+        ],
+        "entity_types_not_allowed": [
+            "Feature"
+        ]
+    },
+    {
+        "sentence": "Please show me the interviews with the cast and crew of the film Titanic.",
+        "entity_names": [
+            "interviews with the cast and crew",
+            "Titanic"
+        ],
+        "filename": "completion-75",
+        "entity_types": [
+            "Feature",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "interviews with the cast and crew"
+        ],
+        "entity_types_not_allowed": [
+            "Feature"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Can you tell me about any movies directed by Martin Scorsese that have won an Oscar?\"",
+        "entity_names": [
+            "Martin Scorsese",
+            "won an Oscar"
+        ],
+        "filename": "completion-76",
+        "entity_types": [
+            "Director",
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "won an Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Show me a film featuring Meryl Streep that received multiple Golden Globe nominations.\"",
+        "entity_names": [
+            "Meryl Streep",
+            "Golden Globe nominations"
+        ],
+        "filename": "completion-76",
+        "entity_types": [
+            "Actor",
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me who directed the making-of documentary for The Avengers film?\"",
+        "entities": [
+            "The Avengers (Title)",
+            "making-of documentary (Plot)",
+            "Director"
+        ],
+        "sentence_quote_dropped": "Can you tell me who directed the making-of documentary for The Avengers film?"
+    },
+    {
+        "sentence": "Which movie received the most nominations at the Oscars last year?",
+        "entity_names": [
+            "Oscars",
+            "last year"
+        ],
+        "filename": "completion-85",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "which movie won the most awards in the year 2020",
+        "entity_names": [
+            "2020",
+            "most awards"
+        ],
+        "filename": "completion-91",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "most awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "what film received the most nominations at the Oscars",
+        "entity_names": [
+            "Oscars",
+            "most nominations"
+        ],
+        "filename": "completion-91",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "most nominations",
+            "Oscars"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations",
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "show me a movie that won the Palme d'Or at the Cannes Film Festival",
+        "entity_names": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "filename": "completion-91",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"What's the story behind the movie Die Hard?\"",
+        "entity_names": [
+            "Die Hard",
+            "story"
+        ],
+        "filename": "completion-95",
+        "entity_types": [
+            "Title",
+            "Plot summary"
+        ],
+        "sentence_quote_dropped": "What's the story behind the movie Die Hard?",
+        "reordered_entity_names": [
+            "story",
+            "Die Hard"
+        ],
+        "reordered_entity_types": [
+            "Plot summary",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "story"
+        ],
+        "entity_types_not_allowed": [
+            "Plot summary"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the sci-fi movie The Matrix and when did it come out?\"",
+        "entity_names": [
+            "The Matrix",
+            "sci-fi",
+            "Wachowski Brothers",
+            "come out"
+        ],
+        "filename": "completion-95",
+        "entity_types": [
+            "Title",
+            "Genre",
+            "Director",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "Wachowski Brothers"
+        ],
+        "sentence_quote_dropped": "Who directed the sci-fi movie The Matrix and when did it come out?"
+    },
+    {
+        "sentence": "\"Can you give me a quick overview of the plot for the latest action thriller film?\"",
+        "entity_names": [
+            "action thriller",
+            "latest",
+            "plot overview"
+        ],
+        "filename": "completion-100",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot overview"
+        ],
+        "sentence_quote_dropped": "Can you give me a quick overview of the plot for the latest action thriller film?"
+    },
+    {
+        "sentence": "\"Can you give me a quick summary of the plot for the movie Inception?\"",
+        "entity_names": [
+            "Inception",
+            "plot summary"
+        ],
+        "filename": "completion-103",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot summary"
+        ],
+        "sentence_quote_dropped": "Can you give me a quick summary of the plot for the movie Inception?"
+    },
+    {
+        "sentence": "Can you tell me which movie won the most awards this year?",
+        "entity_names": [
+            "most awards",
+            "this year"
+        ],
+        "filename": "completion-108",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a movie with the most nominations for prestigious awards",
+        "entity_names": [
+            "most nominations",
+            "prestigious awards"
+        ],
+        "filename": "completion-108",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations",
+            "prestigious awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a film with an actor or actress who has won multiple Academy Awards",
+        "entity_names": [
+            "multiple Academy Awards",
+            "actor or actress"
+        ],
+        "filename": "completion-108",
+        "entity_types": [
+            "Awards",
+            "Actor"
+        ],
+        "reordered_entity_names": [
+            "actor or actress",
+            "multiple Academy Awards"
+        ],
+        "reordered_entity_types": [
+            "Actor",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "multiple Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Which movie won the most Academy Awards in 2020?",
+        "entity_names": [
+            "2020",
+            "Academy Awards"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "Academy Awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you tell me the list of films nominated for Best Picture in 2015?",
+        "entity_names": [
+            "2015",
+            "Best Picture"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "Best Picture",
+            "2015"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "What movie received the most nominations at the Golden Globes last year?",
+        "entity_names": [
+            "Golden Globes"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me if the movie Frozen won any awards?\"",
+        "entity_names": [
+            "Frozen",
+            "won any awards"
+        ],
+        "filename": "completion-116",
+        "entity_types": [
+            "Title",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Can you tell me if the movie Frozen won any awards?",
+        "entity_names_not_allowed": [
+            "won any awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"What movie from 2019 got the most nominations?\"",
+        "entity_names": [
+            "2019",
+            "most nominations"
+        ],
+        "filename": "completion-116",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "What movie from 2019 got the most nominations?",
+        "entity_names_not_allowed": [
+            "most nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"I want to watch a movie with a strong female lead who has won a lot of awards, can you recommend one?\"",
+        "entity_names": [
+            "strong female lead",
+            "won a lot of awards"
+        ],
+        "filename": "completion-116",
+        "entity_types": [
+            "Character",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "I want to watch a movie with a strong female lead who has won a lot of awards, can you recommend one?",
+        "entity_names_not_allowed": [
+            "won a lot of awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"What awards did the movie La La Land win? Hurry up, I don't have all day.\"",
+        "entities": [
+            "La La Land (Title)",
+            "Awards and nominations received"
+        ],
+        "sentence_quote_dropped": "What awards did the movie La La Land win? Hurry up, I don't have all day."
+    },
+    {
+        "sentence": "\"Which director's films have won the most Oscars? I need an answer now.\"",
+        "entities": [
+            "director (Director)",
+            "Films, Oscars, Awards and nominations received"
+        ],
+        "sentence_quote_dropped": "Which director's films have won the most Oscars? I need an answer now."
+    },
+    {
+        "sentence": "\"Can you tell me the top-rated movie of all time? Chop chop, I'm in a hurry.\"",
+        "entities": [
+            "top-rated (Viewers' Rating)",
+            "movie, all time"
+        ],
+        "sentence_quote_dropped": "Can you tell me the top-rated movie of all time? Chop chop, I'm in a hurry."
+    },
+    {
+        "sentence": "what movie is currently showing with a soundtrack by Hans Zimmer?",
+        "entity_names": [
+            "Hans Zimmer"
+        ],
+        "filename": "completion-122",
+        "entity_types": [
+            "Composer"
+        ],
+        "entity_names_not_allowed": [
+            "Hans Zimmer"
+        ],
+        "entity_types_not_allowed": [
+            "Composer"
+        ]
+    },
+    {
+        "sentence": "Can you tell me which movie won the most awards at the Oscars last year?",
+        "entity_names": [
+            "Oscars",
+            "last year"
+        ],
+        "filename": "completion-124",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a movie that was nominated for both Best Picture and Best Director at the Golden Globes",
+        "entity_names": [
+            "Best Picture",
+            "Best Director",
+            "Golden Globes"
+        ],
+        "filename": "completion-124",
+        "entity_types": [
+            "Awards",
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture",
+            "Best Director",
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a film with a Golden Bear award from the Berlin International Film Festival",
+        "entity_names": [
+            "Golden Bear",
+            "Berlin International Film Festival"
+        ],
+        "filename": "completion-124",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Bear",
+            "Berlin International Film Festival"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I am looking for a comedy film that falls under the dark comedy subgenre and involves a heist",
+        "entity_names": [
+            "comedy",
+            "dark comedy",
+            "heist"
+        ],
+        "filename": "completion-125",
+        "entity_types": [
+            "Genre",
+            "Subgenre",
+            "Plot"
+        ],
+        "entity_names_not_allowed": [
+            "dark comedy"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "I want to watch a science fiction movie set in a dystopian future with artificial intelligence as the main theme",
+        "entity_names": [
+            "science fiction",
+            "dystopian future",
+            "artificial intelligence"
+        ],
+        "filename": "completion-125",
+        "entity_types": [
+            "Genre",
+            "Plot",
+            "Theme"
+        ],
+        "entity_names_not_allowed": [
+            "artificial intelligence"
+        ],
+        "entity_types_not_allowed": [
+            "Theme"
+        ]
+    },
+    {
+        "sentence": "can I watch the movie Inception on Netflix?",
+        "entity_names": [
+            "Inception",
+            "Netflix"
+        ],
+        "filename": "completion-127",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "is there a trailer available for the new Mission: Impossible movie on Amazon Prime Video?",
+        "entity_names": [
+            "Mission: Impossible",
+            "trailer",
+            "Amazon Prime Video"
+        ],
+        "filename": "completion-127",
+        "entity_types": [
+            "Title",
+            "Trailer",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "trailer",
+            "Mission: Impossible",
+            "Amazon Prime Video"
+        ],
+        "reordered_entity_types": [
+            "Trailer",
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime Video"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "what are the top-rated horror movies on Hulu?",
+        "entity_names": [
+            "horror",
+            "Hulu"
+        ],
+        "filename": "completion-127",
+        "entity_types": [
+            "Genre",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Are there any movies that received multiple awards despite mixed reviews?\"",
+        "entity_names": [
+            "multiple awards",
+            "mixed reviews"
+        ],
+        "filename": "completion-130",
+        "entity_types": [
+            "Awards",
+            "Review"
+        ],
+        "entity_names_not_allowed": [
+            "multiple awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Can you really trust the award nominations for the new romantic comedy film?\"",
+        "entity_names": [
+            "award nominations",
+            "romantic comedy"
+        ],
+        "filename": "completion-130",
+        "entity_types": [
+            "Awards",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "award nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Is it true that the sci-fi movie won best picture at the Oscars despite its low viewers' rating?\"",
+        "entity_names": [
+            "best picture",
+            "sci-fi",
+            "low viewers' rating"
+        ],
+        "filename": "completion-130",
+        "entity_types": [
+            "Awards",
+            "Genre",
+            "Viewers' Rating"
+        ],
+        "reordered_entity_names": [
+            "sci-fi",
+            "best picture",
+            "low viewers' rating"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Awards",
+            "Viewers' Rating"
+        ],
+        "entity_names_not_allowed": [
+            "best picture"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you provide me with a review of the film Inception directed by Christopher Nolan?",
+        "entities": [
+            "Inception (Title)",
+            "Christopher Nolan (Director)",
+            "Review"
+        ]
+    },
+    {
+        "sentence": "Show me a trailer for the movie Titanic, directed by James Cameron.",
+        "entities": [
+            "Titanic (Title)",
+            "James Cameron (Director)",
+            "Trailer"
+        ]
+    },
+    {
+        "sentence": "\"What time is the next showing for Jurassic Park?\"",
+        "entity_names": [
+            "next showing",
+            "Jurassic Park"
+        ],
+        "filename": "completion-140",
+        "entity_types": [
+            "Time",
+            "Title"
+        ],
+        "sentence_quote_dropped": "What time is the next showing for Jurassic Park?",
+        "entity_names_not_allowed": [
+            "next showing"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a classic movie with Humphrey Bogart, preferably on a streaming service. Any recommendations?",
+        "entity_names": [
+            "Humphrey Bogart",
+            "classic",
+            "streaming service"
+        ],
+        "filename": "completion-141",
+        "entity_types": [
+            "Actor",
+            "Genre",
+            "Entity Type"
+        ],
+        "reordered_entity_names": [
+            "classic",
+            "Humphrey Bogart",
+            "streaming service"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Actor",
+            "Entity Type"
+        ],
+        "entity_names_not_allowed": [
+            "streaming service"
+        ],
+        "entity_types_not_allowed": [
+            "Entity Type"
+        ]
+    },
+    {
+        "sentence": "Tell me the movie that won the most Oscars in the 90s",
+        "entity_names": [
+            "Oscars",
+            "90s"
+        ],
+        "filename": "completion-142",
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "I need to know which film was nominated for Best Picture, hurry up",
+        "entity_names": [
+            "Best Picture"
+        ],
+        "filename": "completion-142",
+        "entity_types": [
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "What movie was the winner of the Cannes Film Festival in the past 5 years",
+        "entity_names": [
+            "Cannes Film Festival",
+            "past 5 years"
+        ],
+        "filename": "completion-142",
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Cannes Film Festival"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Can you give me a brief summary of the plot for the movie Inception?",
+        "entity_names": [
+            "Inception",
+            "plot summary"
+        ],
+        "filename": "completion-143",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot summary"
+        ]
+    },
+    {
+        "sentence": "\"What movie won the most awards in 2020\"",
+        "entity_names": [
+            "2020",
+            "most awards"
+        ],
+        "filename": "completion-149",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "What movie won the most awards in 2020",
+        "reordered_entity_names": [
+            "most awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Has any movie with Meryl Streep won an Oscar\"",
+        "entity_names": [
+            "Meryl Streep",
+            "Oscar"
+        ],
+        "filename": "completion-149",
+        "entity_types": [
+            "Actor",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Has any movie with Meryl Streep won an Oscar",
+        "entity_names_not_allowed": [
+            "Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Which film received the most nominations in the comedy genre\"",
+        "entity_names": [
+            "comedy",
+            "most nominations"
+        ],
+        "filename": "completion-149",
+        "entity_types": [
+            "Genre",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Which film received the most nominations in the comedy genre",
+        "reordered_entity_names": [
+            "most nominations",
+            "comedy"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the classic movie Gone with the Wind and can you show me a trailer for it?\"",
+        "entity_names": [
+            "Gone with the Wind",
+            "director",
+            "trailer"
+        ],
+        "filename": "completion-155",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Trailer"
+        ],
+        "missing_entity_names": [
+            "director"
+        ],
+        "sentence_quote_dropped": "Who directed the classic movie Gone with the Wind and can you show me a trailer for it?"
+    },
+    {
+        "sentence": "\"Is the movie Frozen available on Netflix for kids to watch?\"",
+        "entity_names": [
+            "Frozen",
+            "Netflix",
+            "kids"
+        ],
+        "filename": "completion-156",
+        "entity_types": [
+            "Title",
+            "Streaming platform",
+            "Viewers' Rating"
+        ],
+        "sentence_quote_dropped": "Is the movie Frozen available on Netflix for kids to watch?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Are there any romantic movies from the 90s on Disney+?\"",
+        "entity_names": [
+            "romantic",
+            "90s",
+            "Disney+"
+        ],
+        "filename": "completion-156",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Are there any romantic movies from the 90s on Disney+?",
+        "entity_names_not_allowed": [
+            "Disney+"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Can I find any animated films on Amazon Prime with strong female characters?\"",
+        "entity_names": [
+            "animated",
+            "Amazon Prime",
+            "strong female characters"
+        ],
+        "filename": "completion-156",
+        "entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Character"
+        ],
+        "sentence_quote_dropped": "Can I find any animated films on Amazon Prime with strong female characters?",
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Which movie received the most awards last year?\"",
+        "entity_names": [
+            "most awards",
+            "last year"
+        ],
+        "filename": "completion-160",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "sentence_quote_dropped": "Which movie received the most awards last year?",
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Can you recommend a movie directed by a woman that has won multiple awards?\"",
+        "entity_names": [
+            "directed by a woman",
+            "multiple awards"
+        ],
+        "filename": "completion-160",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Can you recommend a movie directed by a woman that has won multiple awards?",
+        "entity_names_not_allowed": [
+            "multiple awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you show me a teaser for any new animated movies?",
+        "entity_names": [
+            "teaser",
+            "animated movies",
+            "families with young children"
+        ],
+        "filename": "completion-162",
+        "entity_types": [
+            "Trailer",
+            "Genre",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "families with young children"
+        ]
+    },
+    {
+        "sentence": "\"can I watch any good classic romance movies on Netflix tonight\"",
+        "entity_names": [
+            "classic romance",
+            "Netflix",
+            "tonight"
+        ],
+        "filename": "completion-163",
+        "entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Time"
+        ],
+        "sentence_quote_dropped": "can I watch any good classic romance movies on Netflix tonight",
+        "entity_names_not_allowed": [
+            "Netflix",
+            "tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform",
+            "Time"
+        ]
+    },
+    {
+        "sentence": "\"are there any comedy movies from the 2000s available on Amazon Prime\"",
+        "entity_names": [
+            "comedy",
+            "2000s",
+            "Amazon Prime"
+        ],
+        "filename": "completion-163",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "are there any comedy movies from the 2000s available on Amazon Prime",
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"show me some action-packed films with strong female leads that I can stream on Hulu\"",
+        "entity_names": [
+            "action-packed",
+            "female leads",
+            "Hulu"
+        ],
+        "filename": "completion-163",
+        "entity_types": [
+            "Genre",
+            "Character",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "show me some action-packed films with strong female leads that I can stream on Hulu",
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Could you show me a documentary about the making of the movie Inception?",
+        "entity_names": [
+            "documentary, making of",
+            "Inception"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "Plot",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "documentary, making of"
+        ]
+    },
+    {
+        "sentence": "Which director has the most number of Oscar-winning movies?",
+        "entities": [
+            "most number of Oscar-winning movies (Review)",
+            "Director"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the movie 'The Princess Diaries' and what is its viewers' rating?\"",
+        "entity_names": [
+            "The Princess Diaries",
+            "Director",
+            "viewers' rating"
+        ],
+        "filename": "completion-175",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "Director"
+        ],
+        "sentence_quote_dropped": "Who directed the movie 'The Princess Diaries' and what is its viewers' rating?"
+    },
+    {
+        "sentence": "What movie won the most Oscars in 1997",
+        "entity_names": [
+            "Oscars",
+            "1997"
+        ],
+        "filename": "completion-181",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Has Clint Eastwood's directed films ever received Golden Globe nominations",
+        "entity_names": [
+            "Clint Eastwood",
+            "Golden Globe",
+            "nominations"
+        ],
+        "filename": "completion-181",
+        "entity_types": [
+            "Director",
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe",
+            "nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you tell me about the movie with the most Bafta nominations in the 1980s",
+        "entity_names": [
+            "Bafta",
+            "most",
+            "1980s"
+        ],
+        "filename": "completion-181",
+        "entity_types": [
+            "Awards",
+            "Viewers' Rating",
+            "Year"
+        ],
+        "reordered_entity_names": [
+            "most",
+            "Bafta",
+            "1980s"
+        ],
+        "reordered_entity_types": [
+            "Viewers' Rating",
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Bafta"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "What movie directed by Brad Bird has won the most awards?",
+        "entities": [
+            "Brad Bird (Director)",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a children's movie with a high viewers' rating and multiple nominations for best animated feature",
+        "entity_names": [
+            "children's movie",
+            "high viewers' rating",
+            "nominations for best animated feature"
+        ],
+        "filename": "completion-182",
+        "entity_types": [
+            "Genre",
+            "Viewers' Rating",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "nominations for best animated feature"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me who directed the movie that won the most Oscars in 2020?\"",
+        "entities": [
+            "Oscars (Viewers' Rating)",
+            "2020 (Year)",
+            "Director"
+        ],
+        "sentence_quote_dropped": "Can you tell me who directed the movie that won the most Oscars in 2020?"
+    },
+    {
+        "sentence": "\"Are there any comedy movies from the 1990s available on Netflix?\"",
+        "entity_names": [
+            "comedy",
+            "1990s",
+            "Netflix"
+        ],
+        "filename": "completion-184",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Are there any comedy movies from the 1990s available on Netflix?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Could you recommend a movie with a strong female lead that's on Hulu?\"",
+        "entity_names": [
+            "strong female lead",
+            "Hulu"
+        ],
+        "filename": "completion-184",
+        "entity_types": [
+            "Character",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Could you recommend a movie with a strong female lead that's on Hulu?",
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Is there a romantic drama film on Amazon Prime Video directed by Ang Lee?\"",
+        "entity_names": [
+            "romantic drama",
+            "Ang Lee",
+            "Amazon Prime Video"
+        ],
+        "filename": "completion-184",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Is there a romantic drama film on Amazon Prime Video directed by Ang Lee?",
+        "reordered_entity_names": [
+            "romantic drama",
+            "Amazon Prime Video",
+            "Ang Lee"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Director"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime Video"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can you please hurry up and show me a behind-the-scenes look at the making of the new Spider-Man movie?",
+        "entity_names": [
+            "behind-the-scenes",
+            "making-of",
+            "Spider-Man"
+        ],
+        "filename": "completion-192",
+        "entity_types": [
+            "Plot",
+            "Plot",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "making-of"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Are there any movies that have won an Oscar for Best Picture?\"",
+        "entity_names": [
+            "Oscar for Best Picture"
+        ],
+        "filename": "completion-197",
+        "entity_types": [
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "Oscar for Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Which film has received the most nominations at the Golden Globe Awards?\"",
+        "entity_names": [
+            "Golden Globe Awards"
+        ],
+        "filename": "completion-197",
+        "entity_types": [
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Can you recommend a movie that has won multiple BAFTA awards?\"",
+        "entity_names": [
+            "BAFTA awards"
+        ],
+        "filename": "completion-197",
+        "entity_types": [
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "BAFTA awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Can you tell me if the movie Inception is available on Netflix, and if so, could you show me a trailer of it?",
+        "entity_names": [
+            "Inception",
+            "Netflix",
+            "trailer"
+        ],
+        "filename": "completion-205",
+        "entity_types": [
+            "Title",
+            "Streaming platform",
+            "Trailer"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a highly-rated horror movie from the 1980s with a catchy soundtrack. Can you recommend one available on Amazon Prime?",
+        "entity_names": [
+            "horror",
+            "1980s",
+            "Amazon Prime"
+        ],
+        "filename": "completion-205",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I want to watch a classic black and white film featuring Audrey Hepburn. Could you find me one with a high viewers' rating that's currently on Hulu?",
+        "entity_names": [
+            "black and white",
+            "Audrey Hepburn",
+            "Hulu",
+            "high viewers' rating"
+        ],
+        "filename": "completion-205",
+        "entity_types": [
+            "Genre",
+            "Actor",
+            "Streaming platform",
+            "Viewers' Rating"
+        ],
+        "reordered_entity_names": [
+            "black and white",
+            "Audrey Hepburn",
+            "high viewers' rating",
+            "Hulu"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Actor",
+            "Viewers' Rating",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a film in the horror genre that falls under the supernatural subgenre",
+        "entity_names": [
+            "horror",
+            "supernatural"
+        ],
+        "filename": "completion-208",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "supernatural"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a science fiction movie with cyberpunk elements, can you suggest one",
+        "entity_names": [
+            "science fiction",
+            "cyberpunk"
+        ],
+        "filename": "completion-208",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "cyberpunk"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "What are some of the top action movies with martial arts as the main subgenre",
+        "entity_names": [
+            "action",
+            "martial arts"
+        ],
+        "filename": "completion-208",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "martial arts"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "Hey, what's a cool action movie on Netflix with lots of explosions?",
+        "entity_names": [
+            "action movie",
+            "explosions",
+            "Netflix"
+        ],
+        "filename": "completion-210",
+        "entity_types": [
+            "Genre",
+            "Plot",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "action movie",
+            "Netflix",
+            "explosions"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Plot"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can I watch a scary movie on Disney+ with zombies and stuff like that?",
+        "entity_names": [
+            "scary movie",
+            "zombies",
+            "Disney+"
+        ],
+        "filename": "completion-210",
+        "entity_types": [
+            "Genre",
+            "Plot",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "scary movie",
+            "Disney+",
+            "zombies"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Plot"
+        ],
+        "entity_names_not_allowed": [
+            "Disney+"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I want to see a really funny movie on Amazon Prime, maybe with superheroes or something.",
+        "entity_names": [
+            "funny movie",
+            "superheroes",
+            "Amazon Prime"
+        ],
+        "filename": "completion-210",
+        "entity_types": [
+            "Review",
+            "Genre",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "funny movie",
+            "Amazon Prime",
+            "superheroes"
+        ],
+        "reordered_entity_types": [
+            "Review",
+            "Streaming platform",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Show me a movie directed by Greta Gerwig that has won an Oscar.",
+        "entity_names": [
+            "Greta Gerwig",
+            "Oscar"
+        ],
+        "filename": "completion-212",
+        "entity_types": [
+            "Director",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "\"Can you show me a behind-the-scenes look at the making of the movie Inception?\"",
+        "entity_names": [
+            "behind-the-scenes",
+            "making-of",
+            "Inception"
+        ],
+        "filename": "completion-213",
+        "entity_types": [
+            "Plot",
+            "Plot",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "making-of"
+        ],
+        "sentence_quote_dropped": "Can you show me a behind-the-scenes look at the making of the movie Inception?"
+    },
+    {
+        "sentence": "Can you tell me what Turbo Kid is about?",
+        "entity_names": [
+            "Turbo Kid",
+            "plot summary"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot summary"
+        ]
+    },
+    {
+        "sentence": "I want to know the story of How to Train Your Dragon. Can you tell me?",
+        "entity_names": [
+            "How to Train Your Dragon",
+            "plot synopsis"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot synopsis"
+        ]
+    },
+    {
+        "sentence": "\"Can I see the schedule for the romantic comedy movies playing this weekend?\"",
+        "entity_names": [
+            "romantic comedy",
+            "this weekend"
+        ],
+        "filename": "completion-233",
+        "entity_types": [
+            "Genre",
+            "Time"
+        ],
+        "sentence_quote_dropped": "Can I see the schedule for the romantic comedy movies playing this weekend?",
+        "entity_names_not_allowed": [
+            "this weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "\"which movie won the most Academy Awards in 2020\"",
+        "entity_names": [
+            "2020",
+            "Academy Awards"
+        ],
+        "filename": "completion-239",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "which movie won the most Academy Awards in 2020",
+        "reordered_entity_names": [
+            "Academy Awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"show me a movie directed by Christopher Nolan that was nominated for a Golden Globe\"",
+        "entity_names": [
+            "Christopher Nolan",
+            "Golden Globe"
+        ],
+        "filename": "completion-239",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "show me a movie directed by Christopher Nolan that was nominated for a Golden Globe",
+        "entity_names_not_allowed": [
+            "Golden Globe"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "What movies directed by Christopher Nolan are available on Netflix?",
+        "entity_names": [
+            "Christopher Nolan",
+            "Netflix"
+        ],
+        "filename": "completion-240",
+        "entity_types": [
+            "Director",
+            "Streaming Platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming Platform"
+        ]
+    },
+    {
+        "sentence": "Find me a movie with a high IMDb rating that I can watch on Amazon Prime",
+        "entity_names": [
+            "high IMDb rating",
+            "Amazon Prime"
+        ],
+        "filename": "completion-240",
+        "entity_types": [
+            "Viewers' Rating",
+            "Streaming Platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming Platform"
+        ]
+    },
+    {
+        "sentence": "Show me a film starring Meryl Streep that I can stream on Hulu",
+        "entity_names": [
+            "Meryl Streep",
+            "Hulu"
+        ],
+        "filename": "completion-240",
+        "entity_types": [
+            "Actor",
+            "Streaming Platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming Platform"
+        ]
+    },
+    {
+        "sentence": "is the movie Forrest Gump available on any streaming platforms",
+        "entities": [
+            "Forrest Gump (Title)",
+            "streaming platforms"
+        ]
+    },
+    {
+        "sentence": "what is the highest rated movie of 2020 and can I watch it on Netflix",
+        "entity_names": [
+            "highest rated",
+            "2020",
+            "Netflix"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "Review",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "show me a list of comedy movies directed by Christopher Guest that I can stream",
+        "entity_names": [
+            "comedy",
+            "Christopher Guest",
+            "stream"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "stream"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Is there a movie playing tonight that has a great soundtrack?",
+        "entity_names": [
+            "tonight",
+            "great soundtrack"
+        ],
+        "filename": "completion-248",
+        "entity_types": [
+            "Date",
+            "Review"
+        ],
+        "entity_names_not_allowed": [
+            "tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Date"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Who directed the film The Godfather and what year was it released?\"",
+        "entity_names": [
+            "The Godfather",
+            "director",
+            "year"
+        ],
+        "filename": "completion-251",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "\"What's the story behind the making of the movie Apocalypse Now, directed by Francis Ford Coppola?\"",
+        "entity_names": [
+            "Apocalypse Now",
+            "Francis Ford Coppola",
+            "making-of process"
+        ],
+        "filename": "completion-254",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "making-of process"
+        ],
+        "sentence_quote_dropped": "What's the story behind the making of the movie Apocalypse Now, directed by Francis Ford Coppola?"
+    },
+    {
+        "sentence": "\"I need to watch a movie with Chris Hemsworth on Netflix right now.\"",
+        "entity_names": [
+            "Chris Hemsworth",
+            "Netflix"
+        ],
+        "filename": "completion-255",
+        "entity_types": [
+            "Actor",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "I need to watch a movie with Chris Hemsworth on Netflix right now.",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Is there any good action movie with a high IMDb rating that I can stream on Amazon Prime?\"",
+        "entity_names": [
+            "action",
+            "IMDb rating",
+            "Amazon Prime"
+        ],
+        "filename": "completion-255",
+        "entity_types": [
+            "Genre",
+            "Viewers' Rating",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Is there any good action movie with a high IMDb rating that I can stream on Amazon Prime?",
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"I'm desperately in need of a comedy film to watch on Hulu. Can you recommend something with a high Rotten Tomatoes score?\"",
+        "entity_names": [
+            "comedy",
+            "Rotten Tomatoes score",
+            "Hulu"
+        ],
+        "filename": "completion-255",
+        "entity_types": [
+            "Genre",
+            "Review",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "I'm desperately in need of a comedy film to watch on Hulu. Can you recommend something with a high Rotten Tomatoes score?",
+        "reordered_entity_names": [
+            "comedy",
+            "Hulu",
+            "Rotten Tomatoes score"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Review"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "What movie won the Best Picture award at the Oscars in 2019?",
+        "entity_names": [
+            "Best Picture",
+            "Oscars",
+            "2019"
+        ],
+        "filename": "completion-260",
+        "entity_types": [
+            "Awards",
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture",
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Has Steven Spielberg directed any films that have won multiple Academy Awards?",
+        "entity_names": [
+            "Steven Spielberg",
+            "Academy Awards",
+            "multiple"
+        ],
+        "filename": "completion-260",
+        "entity_types": [
+            "Director",
+            "Awards",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "Steven Spielberg",
+            "multiple",
+            "Academy Awards"
+        ],
+        "reordered_entity_types": [
+            "Director",
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "multiple",
+            "Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a movie that was nominated for both Best Actor and Best Actress at the Golden Globes.",
+        "entity_names": [
+            "Best Actor",
+            "Best Actress",
+            "Golden Globes"
+        ],
+        "filename": "completion-260",
+        "entity_types": [
+            "Awards",
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Best Actor",
+            "Best Actress",
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Hey, I heard there's a new documentary about the making of The Godfather, can you tell me more about it?",
+        "entity_names": [
+            "documentary",
+            "The Godfather",
+            "making-of"
+        ],
+        "filename": "completion-262",
+        "entity_types": [
+            "Genre",
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "making-of"
+        ]
+    },
+    {
+        "sentence": "Is the movie The Matrix available for streaming?",
+        "entity_names": [
+            "The Matrix",
+            "streaming"
+        ],
+        "filename": "completion-264",
+        "entity_types": [
+            "Title",
+            "Platform"
+        ],
+        "entity_names_not_allowed": [
+            "streaming"
+        ],
+        "entity_types_not_allowed": [
+            "Platform"
+        ]
+    },
+    {
+        "sentence": "Can I watch any action movies starring Will Smith on any streaming service?",
+        "entity_names": [
+            "action",
+            "Will Smith",
+            "streaming service"
+        ],
+        "filename": "completion-264",
+        "entity_types": [
+            "Genre",
+            "Actor",
+            "Platform"
+        ],
+        "entity_names_not_allowed": [
+            "streaming service"
+        ],
+        "entity_types_not_allowed": [
+            "Platform"
+        ]
+    },
+    {
+        "sentence": "Are there any recent romantic comedies directed by Nancy Meyers that I can stream?",
+        "entity_names": [
+            "romantic comedies",
+            "Nancy Meyers",
+            "recent",
+            "stream"
+        ],
+        "filename": "completion-264",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Year",
+            "Platform"
+        ],
+        "reordered_entity_names": [
+            "recent",
+            "romantic comedies",
+            "Nancy Meyers",
+            "stream"
+        ],
+        "reordered_entity_types": [
+            "Year",
+            "Genre",
+            "Director",
+            "Platform"
+        ],
+        "entity_names_not_allowed": [
+            "stream"
+        ],
+        "entity_types_not_allowed": [
+            "Platform"
+        ]
+    },
+    {
+        "sentence": "Can you tell me about the movie that won the most awards in 2020",
+        "entity_names": [
+            "won the most awards",
+            "2020"
+        ],
+        "filename": "completion-265",
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "won the most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Which movie with a female lead was nominated for the most prestigious award last year",
+        "entity_names": [
+            "female lead",
+            "nominated",
+            "last year"
+        ],
+        "filename": "completion-265",
+        "entity_types": [
+            "Character",
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "nominated"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Who directed the film 'The Godfather' and what is the viewers' rating for it?",
+        "entities": [
+            "The Godfather (Title)",
+            "Director"
+        ]
+    },
+    {
+        "sentence": "Do you have any information about the latest movie directed by Christopher Nolan and its plot?",
+        "entities": [
+            "Christopher Nolan (Director)",
+            "Plot"
+        ]
+    },
+    {
+        "sentence": "Is there a film that has won multiple awards and is considered a classic?",
+        "entity_names": [
+            "multiple awards",
+            "classic"
+        ],
+        "filename": "completion-269",
+        "entity_types": [
+            "Awards",
+            "Viewers' Rating"
+        ],
+        "entity_names_not_allowed": [
+            "multiple awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a film from the 2000s that won the Palme d'Or at Cannes Film Festival",
+        "entity_names": [
+            "2000s",
+            "Palme d'Or"
+        ],
+        "filename": "completion-270",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Can I watch a movie with Humphrey Bogart on any streaming platforms?\"",
+        "entities": [
+            "Humphrey Bogart (Actor)",
+            "streaming platforms"
+        ],
+        "sentence_quote_dropped": "Can I watch a movie with Humphrey Bogart on any streaming platforms?"
+    },
+    {
+        "sentence": "\"Is there a classic musical film available to watch on streaming platforms?\"",
+        "entities": [
+            "classic musical film (Genre)",
+            "streaming platforms"
+        ],
+        "sentence_quote_dropped": "Is there a classic musical film available to watch on streaming platforms?"
+    },
+    {
+        "sentence": "\"Show me a romantic comedy movie from the 1950s that I can watch online\"",
+        "entities": [
+            "romantic comedy (Genre)",
+            "1950s (Year)",
+            "streaming platforms"
+        ],
+        "sentence_quote_dropped": "Show me a romantic comedy movie from the 1950s that I can watch online"
+    },
+    {
+        "sentence": "\"Who directed the iconic 1994 film Forrest Gump?\"",
+        "entity_names": [
+            "1994",
+            "Forrest Gump",
+            "director"
+        ],
+        "filename": "completion-276",
+        "entity_types": [
+            "Year",
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ],
+        "sentence_quote_dropped": "Who directed the iconic 1994 film Forrest Gump?"
+    },
+    {
+        "sentence": "What movie is currently playing in theaters near me",
+        "entity_names": [
+            "theaters, near me"
+        ],
+        "filename": "completion-280",
+        "entity_types": [
+            "Location"
+        ],
+        "missing_entity_names": [
+            "theaters, near me"
+        ]
+    },
+    {
+        "sentence": "Can I buy tickets for the movie Casablanca at 7pm tonight?",
+        "entity_names": [
+            "Casablanca",
+            "7pm tonight"
+        ],
+        "filename": "completion-280",
+        "entity_types": [
+            "Title",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "7pm tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Do you have any information on the movie Inception's showtimes this weekend?",
+        "entity_names": [
+            "Inception",
+            "this weekend"
+        ],
+        "filename": "completion-280",
+        "entity_types": [
+            "Title",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "this weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Have any James Bond movies won an Academy Award?",
+        "entity_names": [
+            "James Bond",
+            "Academy Award"
+        ],
+        "filename": "completion-283",
+        "entity_types": [
+            "Character",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Academy Award"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Can I watch any Cary Grant movies on Netflix that are considered classic comedies?",
+        "entity_names": [
+            "Cary Grant",
+            "classic comedies",
+            "Netflix"
+        ],
+        "filename": "completion-284",
+        "entity_types": [
+            "Actor",
+            "Genre",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "Cary Grant",
+            "Netflix",
+            "classic comedies"
+        ],
+        "reordered_entity_types": [
+            "Actor",
+            "Streaming platform",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Show me a list of movies from the 1960s that feature the song 'My Girl' by The Temptations and are available on Amazon Prime.",
+        "entity_names": [
+            "1960s",
+            "'My Girl'",
+            "The Temptations",
+            "Amazon Prime"
+        ],
+        "filename": "completion-284",
+        "entity_types": [
+            "Year",
+            "Song",
+            "Band",
+            "Streaming platform"
+        ],
+        "entity_spans_quote_drop": [
+            "'My Girl'"
+        ],
+        "entity_names_not_allowed": [
+            "The Temptations",
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Band",
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "What are some action movies directed by Steven Spielberg that I can stream online?",
+        "entity_names": [
+            "action movies",
+            "Steven Spielberg",
+            "stream online"
+        ],
+        "filename": "completion-284",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "stream online"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Can you give me a brief overview of the plot for the movie Inception\"",
+        "entity_names": [
+            "Inception",
+            "plot overview"
+        ],
+        "filename": "completion-286",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot overview"
+        ],
+        "sentence_quote_dropped": "Can you give me a brief overview of the plot for the movie Inception"
+    },
+    {
+        "sentence": "Spoken Query: \"Can I watch The Shawshank Redemption on Netflix?\"",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "Netflix"
+        ],
+        "filename": "completion-295",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Does the movie Inception have a high viewers' rating and is it available on Amazon Prime?\"",
+        "entity_names": [
+            "Inception",
+            "viewers' rating",
+            "Amazon Prime"
+        ],
+        "filename": "completion-295",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Is the director Christopher Nolan known for any science fiction films that are currently on Hulu?\"",
+        "entity_names": [
+            "Christopher Nolan",
+            "science fiction",
+            "Hulu"
+        ],
+        "filename": "completion-295",
+        "entity_types": [
+            "Director",
+            "Genre",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"What is the title of the movie where Leonardo DiCaprio starred alongside Kate Winslet and had a theme song that won an Oscar?\"",
+        "entity_names": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "theme song",
+            "Oscar"
+        ],
+        "filename": "completion-296",
+        "entity_types": [
+            "Actor",
+            "Actor",
+            "Song",
+            "Award"
+        ],
+        "sentence_quote_dropped": "What is the title of the movie where Leonardo DiCaprio starred alongside Kate Winslet and had a theme song that won an Oscar?",
+        "entity_names_not_allowed": [
+            "Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Can you tell me which movie won the most awards at the Oscars this year?",
+        "entity_names": [
+            "Oscars",
+            "this year"
+        ],
+        "filename": "completion-297",
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "I'm curious to know if the film 'The Shawshank Redemption' has received any prestigious nominations.",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "prestigious nominations"
+        ],
+        "filename": "completion-297",
+        "entity_types": [
+            "Title",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "prestigious nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "I'm feeling hopeful that the movie 'La La Land' has won some major accolades. Can you share that with me?",
+        "entity_names": [
+            "La La Land",
+            "major accolades"
+        ],
+        "filename": "completion-297",
+        "entity_types": [
+            "Title",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "major accolades"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "\"Is the movie 'The Shawshank Redemption' available for streaming on any platform?\"",
+        "entity_names": [
+            "'The Shawshank Redemption'",
+            "streaming platform"
+        ],
+        "filename": "completion-299",
+        "entity_types": [
+            "Title",
+            "Streaming Platform"
+        ],
+        "missing_entity_names": [
+            "streaming platform"
+        ],
+        "sentence_quote_dropped": "Is the movie 'The Shawshank Redemption' available for streaming on any platform?"
+    },
+    {
+        "sentence": "\"Which streaming platform offers the movie 'Inception' directed by Christopher Nolan and released in 2010?\"",
+        "entity_names": [
+            "'Inception'",
+            "Christopher Nolan",
+            "2010",
+            "streaming platform"
+        ],
+        "filename": "completion-299",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Year",
+            "Streaming Platform"
+        ],
+        "entity_spans_quote_drop": [
+            "'Inception'"
+        ],
+        "sentence_quote_dropped": "Which streaming platform offers the movie 'Inception' directed by Christopher Nolan and released in 2010?",
+        "reordered_entity_names": [
+            "streaming platform",
+            "Inception",
+            "Christopher Nolan",
+            "2010"
+        ],
+        "reordered_entity_types": [
+            "Streaming Platform",
+            "Title",
+            "Director",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "streaming platform"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming Platform"
+        ]
+    },
+    {
+        "sentence": "\"Can I watch the film 'Pulp Fiction' with an R rating on any streaming platform?\"",
+        "entity_names": [
+            "'Pulp Fiction'",
+            "R",
+            "streaming platform"
+        ],
+        "filename": "completion-299",
+        "entity_types": [
+            "Title",
+            "MPAA Rating",
+            "Streaming Platform"
+        ],
+        "entity_spans_quote_drop": [
+            "'Pulp Fiction'"
+        ],
+        "sentence_quote_dropped": "Can I watch the film 'Pulp Fiction' with an R rating on any streaming platform?",
+        "entity_names_not_allowed": [
+            "streaming platform"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming Platform"
+        ]
+    },
+    {
+        "sentence": "I heard that there's a movie with a lot of awards, can you tell me which one it is?",
+        "entity_names": [
+            "a lot of awards"
+        ],
+        "filename": "completion-301",
+        "entity_types": [
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "a lot of awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a film that received great recognition from the critics, can you help me find it?",
+        "entity_names": [
+            "great recognition",
+            "critics"
+        ],
+        "filename": "completion-301",
+        "entity_types": [
+            "Awards",
+            "Review"
+        ],
+        "entity_names_not_allowed": [
+            "great recognition"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm curious about a certain movie that got a lot of nominations, do you have any idea which one I'm thinking of?",
+        "entity_names": [
+            "a lot of nominations"
+        ],
+        "filename": "completion-301",
+        "entity_types": [
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "a lot of nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the 1994 film The Shawshank Redemption and what is the viewers' rating for it?\"",
+        "entities": [
+            "1994 (Year)",
+            "The Shawshank Redemption (Title)",
+            "viewers' rating (Viewers' Rating)",
+            "Director"
+        ],
+        "sentence_quote_dropped": "Who directed the 1994 film The Shawshank Redemption and what is the viewers' rating for it?"
+    },
+    {
+        "sentence": "Can I watch The Shawshank Redemption on Netflix?",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "Netflix"
+        ],
+        "filename": "completion-311",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I want to see a Quentin Tarantino film with a gritty plot. Is Pulp Fiction available on Amazon Prime?",
+        "entity_names": [
+            "Quentin Tarantino",
+            "gritty plot",
+            "Pulp Fiction",
+            "Amazon Prime"
+        ],
+        "filename": "completion-311",
+        "entity_types": [
+            "Director",
+            "Plot",
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Any idea what movies are playing at the theater down the street?",
+        "entity_names": [
+            "theater down the street"
+        ],
+        "filename": "completion-312",
+        "entity_types": [
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "theater down the street"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "which movie won the most Oscars in 2021",
+        "entity_names": [
+            "most Oscars",
+            "2021"
+        ],
+        "filename": "completion-320",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "can you tell me if the movie Inception received any Golden Globe nominations",
+        "entity_names": [
+            "Inception",
+            "Golden Globe nominations"
+        ],
+        "filename": "completion-320",
+        "entity_types": [
+            "Title",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "show me a film that won the Palme d'Or at the Cannes Film Festival",
+        "entity_names": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "filename": "completion-320",
+        "entity_types": [
+            "Awards",
+            "Event"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Event"
+        ]
+    },
+    {
+        "sentence": "Who directed the making of the Avengers: Endgame and what were the major challenges they faced during the production process?",
+        "entity_names": [
+            "Avengers: Endgame",
+            "Behind-the-scenes",
+            "challenges"
+        ],
+        "filename": "completion-323",
+        "entity_types": [
+            "Title",
+            "Plot",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "Behind-the-scenes"
+        ]
+    },
+    {
+        "sentence": "Which actor starred in a science fiction movie with the highest viewers' rating",
+        "entities": [
+            "science fiction (Genre)",
+            "highest viewers' rating (Viewers' Rating)",
+            "Actor"
+        ]
+    },
+    {
+        "sentence": "Are there any action movies playing in theaters tonight?",
+        "entity_names": [
+            "action movies",
+            "theaters",
+            "tonight"
+        ],
+        "filename": "completion-329",
+        "entity_types": [
+            "Genre",
+            "Location",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "theaters",
+            "tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Location",
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a popular comedy from the 90s currently showing in my area?",
+        "entity_names": [
+            "comedy",
+            "90s",
+            "area"
+        ],
+        "filename": "completion-329",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "area"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "Is there a theater nearby playing a recent thriller film that has received positive reviews?",
+        "entity_names": [
+            "thriller",
+            "recent",
+            "positive reviews",
+            "nearby"
+        ],
+        "filename": "completion-329",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Review",
+            "Location"
+        ],
+        "reordered_entity_names": [
+            "nearby",
+            "recent",
+            "thriller",
+            "positive reviews"
+        ],
+        "reordered_entity_types": [
+            "Location",
+            "Year",
+            "Genre",
+            "Review"
+        ],
+        "entity_names_not_allowed": [
+            "nearby"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "\"Can you recommend a good horror movie with a strong focus on psychological suspense?\"",
+        "entity_names": [
+            "horror",
+            "psychological suspense"
+        ],
+        "filename": "completion-330",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "sentence_quote_dropped": "Can you recommend a good horror movie with a strong focus on psychological suspense?",
+        "entity_names_not_allowed": [
+            "psychological suspense"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "\"Do you have any action-adventure movies set in a post-apocalyptic world that feature a strong female lead?\"",
+        "entity_names": [
+            "action-adventure",
+            "post-apocalyptic world",
+            "strong female lead"
+        ],
+        "filename": "completion-330",
+        "entity_types": [
+            "Genre",
+            "Setting",
+            "Character"
+        ],
+        "sentence_quote_dropped": "Do you have any action-adventure movies set in a post-apocalyptic world that feature a strong female lead?",
+        "entity_names_not_allowed": [
+            "post-apocalyptic world"
+        ],
+        "entity_types_not_allowed": [
+            "Setting"
+        ]
+    },
+    {
+        "sentence": "who's the director of that popular movie with action and drama",
+        "entity_names": [
+            "popular",
+            "action, drama"
+        ],
+        "filename": "completion-333",
+        "entity_types": [
+            "Viewers' Rating",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "action, drama"
+        ]
+    },
+    {
+        "sentence": "Is there a movie with a soundtrack by Hans Zimmer available to watch?",
+        "entity_names": [
+            "Hans Zimmer"
+        ],
+        "filename": "completion-346",
+        "entity_types": [
+            "Composer"
+        ],
+        "entity_names_not_allowed": [
+            "Hans Zimmer"
+        ],
+        "entity_types_not_allowed": [
+            "Composer"
+        ]
+    },
+    {
+        "sentence": "Is there a streaming service where I can watch the film The Godfather?",
+        "entity_names": [
+            "The Godfather"
+        ],
+        "filename": "completion-350",
+        "entity_types": [
+            "Title),"
+        ],
+        "entity_names_not_allowed": [
+            "The Godfather"
+        ],
+        "entity_types_not_allowed": [
+            "Title),"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the action movie that came out in 1999?\"",
+        "entity_names": [
+            "action",
+            "1999",
+            "director"
+        ],
+        "filename": "completion-353",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ],
+        "sentence_quote_dropped": "Who directed the action movie that came out in 1999?"
+    },
+    {
+        "sentence": "Hey, can you tell me who directed The Avengers and whether there's a documentary about the making of the film?",
+        "entity_names": [
+            "The Avengers",
+            "documentary about the making of the film",
+            "director"
+        ],
+        "filename": "completion-357",
+        "entity_types": [
+            "Title",
+            "Plot",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "director"
+        ]
+    },
+    {
+        "sentence": "What's the scoop on the new Christopher Nolan movie? Any insider details about the cast and crew?",
+        "entity_names": [
+            "new Christopher Nolan movie",
+            "insider details",
+            "cast and crew"
+        ],
+        "filename": "completion-357",
+        "entity_types": [
+            "Title",
+            "Plot",
+            "Actor/Director"
+        ],
+        "entity_names_not_allowed": [
+            "cast and crew"
+        ],
+        "entity_types_not_allowed": [
+            "Actor/Director"
+        ]
+    },
+    {
+        "sentence": "\"Has the movie Black Panther received any awards or nominations?\"",
+        "entity_names": [
+            "Black Panther",
+            "Awards and nominations"
+        ],
+        "filename": "completion-359",
+        "entity_types": [
+            "Title",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "Has the movie Black Panther received any awards or nominations?"
+    },
+    {
+        "sentence": "\"I want to explore some classic film noirs, do you have any recommendations?\"",
+        "entity_names": [
+            "classic",
+            "film noir"
+        ],
+        "filename": "completion-361",
+        "entity_types": [
+            "Viewers' Rating",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "film noir"
+        ],
+        "sentence_quote_dropped": "I want to explore some classic film noirs, do you have any recommendations?"
+    },
+    {
+        "sentence": "What movie from the 1990s with a high viewers' rating has won multiple Oscars?",
+        "entity_names": [
+            "1990s",
+            "high viewers' rating",
+            "multiple Oscars"
+        ],
+        "filename": "completion-362",
+        "entity_types": [
+            "Year",
+            "Viewers' Rating",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "multiple Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me which film won the Best Picture award in 2019 at the Oscars?\"",
+        "entity_names": [
+            "2019",
+            "Best Picture"
+        ],
+        "filename": "completion-363",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Can you tell me which film won the Best Picture award in 2019 at the Oscars?",
+        "reordered_entity_names": [
+            "Best Picture",
+            "2019"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Has any movie from the 1990s been nominated for the Palme d'Or at the Cannes Film Festival?\"",
+        "entity_names": [
+            "1990s",
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "filename": "completion-363",
+        "entity_types": [
+            "Year",
+            "Awards",
+            "Title"
+        ],
+        "sentence_quote_dropped": "Has any movie from the 1990s been nominated for the Palme d'Or at the Cannes Film Festival?",
+        "entity_names_not_allowed": [
+            "Palme d'Or"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"I'm looking for a movie directed by Quentin Tarantino that received multiple Oscar nominations.\"",
+        "entity_names": [
+            "Quentin Tarantino",
+            "Oscar nominations"
+        ],
+        "filename": "completion-363",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "I'm looking for a movie directed by Quentin Tarantino that received multiple Oscar nominations.",
+        "entity_names_not_allowed": [
+            "Oscar nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me about any movies that have won big awards?\"",
+        "entity_names": [
+            "big awards"
+        ],
+        "filename": "completion-371",
+        "entity_types": [
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Can you tell me about any movies that have won big awards?",
+        "entity_names_not_allowed": [
+            "big awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"I'm curious about any highly acclaimed films, could you share some with me?\"",
+        "entity_names": [
+            "highly acclaimed films"
+        ],
+        "filename": "completion-371",
+        "entity_types": [
+            "Awards"
+        ],
+        "sentence_quote_dropped": "I'm curious about any highly acclaimed films, could you share some with me?",
+        "entity_names_not_allowed": [
+            "highly acclaimed films"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Do you know any movies that have been nominated for prestigious awards recently?\"",
+        "entity_names": [
+            "prestigious awards",
+            "recently"
+        ],
+        "filename": "completion-371",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "sentence_quote_dropped": "Do you know any movies that have been nominated for prestigious awards recently?",
+        "entity_names_not_allowed": [
+            "prestigious awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you provide me with a list of films with scores composed by Hans Zimmer?",
+        "entity_names": [
+            "Hans Zimmer"
+        ],
+        "filename": "completion-373",
+        "entity_types": [
+            "Composer"
+        ],
+        "entity_names_not_allowed": [
+            "Hans Zimmer"
+        ],
+        "entity_types_not_allowed": [
+            "Composer"
+        ]
+    },
+    {
+        "sentence": "Spoken Query: \"Can you recommend a comedy film that is categorized as a romantic comedy and revolves around a workplace romance?\"",
+        "entity_names": [
+            "comedy",
+            "romantic comedy",
+            "workplace romance"
+        ],
+        "filename": "completion-381",
+        "entity_types": [
+            "Genre",
+            "Subgenre",
+            "Plot"
+        ],
+        "entity_names_not_allowed": [
+            "romantic comedy"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "Can you tell me which movie won the Oscar for Best Picture in 2020?",
+        "entity_names": [
+            "2020",
+            "Oscar",
+            "Best Picture"
+        ],
+        "filename": "completion-387",
+        "entity_types": [
+            "Year",
+            "Awards",
+            "Award Category"
+        ],
+        "reordered_entity_names": [
+            "Oscar",
+            "Best Picture",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Award Category",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscar",
+            "Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Award Category"
+        ]
+    },
+    {
+        "sentence": "I am looking for a film that was nominated for the Palme d'Or at the Cannes Film Festival in the past five years.",
+        "entity_names": [
+            "Palme d'Or",
+            "Cannes Film Festival",
+            "past five years"
+        ],
+        "filename": "completion-387",
+        "entity_types": [
+            "Awards",
+            "Event",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or",
+            "Cannes Film Festival",
+            "past five years"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Event",
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Please find me a movie directed by a filmmaker who has won the Golden Globe for Best Director.",
+        "entity_names": [
+            "Golden Globe",
+            "Best Director"
+        ],
+        "filename": "completion-387",
+        "entity_types": [
+            "Awards",
+            "Award Category"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe",
+            "Best Director"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Award Category"
+        ]
+    },
+    {
+        "sentence": "\"Can I watch the movie 'Frozen' on any streaming platforms?\"",
+        "entities": [
+            "'Frozen' (Title)",
+            "streaming platforms"
+        ],
+        "sentence_quote_dropped": "Can I watch the movie 'Frozen' on any streaming platforms?"
+    },
+    {
+        "sentence": "\"What kind of movies does Taylor Swift star in, and are they available on Netflix?\"",
+        "entities": [
+            "Taylor Swift (Actor)",
+            "movies, Netflix"
+        ],
+        "sentence_quote_dropped": "What kind of movies does Taylor Swift star in, and are they available on Netflix?"
+    },
+    {
+        "sentence": "\"Are there any romantic comedies from the 2000s that I can watch on Amazon Prime?\"",
+        "entities": [
+            "romantic comedies, 2000s (Year)",
+            "Amazon Prime"
+        ],
+        "sentence_quote_dropped": "Are there any romantic comedies from the 2000s that I can watch on Amazon Prime?"
+    },
+    {
+        "sentence": "\"Show me a film with a character that sings the song 'Let It Go.'\"",
+        "entities": [
+            "'Let It Go' (Song)",
+            "character"
+        ],
+        "sentence_quote_dropped": "Show me a film with a character that sings the song 'Let It Go.'"
+    },
+    {
+        "sentence": "Did that movie with Tom Hanks win any awards?",
+        "entity_names": [
+            "Tom Hanks",
+            "awards"
+        ],
+        "filename": "completion-400",
+        "entity_types": [
+            "Actor",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Have any of the recent animated movies been nominated for anything?",
+        "entity_names": [
+            "recent animated movies",
+            "nominated"
+        ],
+        "filename": "completion-400",
+        "entity_types": [
+            "Genre",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "nominated"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I heard that the movie directed by Christopher Nolan got some awards, is that true?",
+        "entity_names": [
+            "Christopher Nolan",
+            "awards"
+        ],
+        "filename": "completion-400",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Which movie from the 90s can I watch with my family on a streaming service?",
+        "entity_names": [
+            "90s",
+            "family",
+            "streaming service"
+        ],
+        "filename": "completion-403",
+        "entity_types": [
+            "Year",
+            "Viewers' Rating",
+            "Entity"
+        ],
+        "entity_names_not_allowed": [
+            "streaming service"
+        ],
+        "entity_types_not_allowed": [
+            "Entity"
+        ]
+    },
+    {
+        "sentence": "\"I'm bored, can you tell me which movie won the most Oscars?\"",
+        "entity_names": [
+            "most Oscars"
+        ],
+        "filename": "completion-407",
+        "entity_types": [
+            "Awards"
+        ],
+        "sentence_quote_dropped": "I'm bored, can you tell me which movie won the most Oscars?",
+        "entity_names_not_allowed": [
+            "most Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"I need something to watch, what movie received the most nominations at the Golden Globes?\"",
+        "entity_names": [
+            "received the most nominations",
+            "Golden Globes"
+        ],
+        "filename": "completion-407",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "I need something to watch, what movie received the most nominations at the Golden Globes?",
+        "entity_names_not_allowed": [
+            "received the most nominations",
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"I'm looking for a highly acclaimed film, can you recommend a movie that won Best Picture at the Academy Awards?\"",
+        "entity_names": [
+            "highly acclaimed",
+            "Best Picture",
+            "Academy Awards"
+        ],
+        "filename": "completion-407",
+        "entity_types": [
+            "Viewers' Rating",
+            "Awards",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "I'm looking for a highly acclaimed film, can you recommend a movie that won Best Picture at the Academy Awards?",
+        "entity_names_not_allowed": [
+            "Best Picture",
+            "Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Where can I find a teaser for the upcoming Marvel movie with Scarlett Johansson as the lead?\"",
+        "entity_names": [
+            "Marval",
+            "Scarlett Johansson"
+        ],
+        "filename": "completion-414",
+        "entity_types": [
+            "Title",
+            "Actor"
+        ],
+        "missing_entity_names": [
+            "Marval"
+        ],
+        "sentence_quote_dropped": "Where can I find a teaser for the upcoming Marvel movie with Scarlett Johansson as the lead?"
+    },
+    {
+        "sentence": "what year did the film Inception come out?",
+        "entities": [
+            "Inception (Title)",
+            "Year"
+        ]
+    },
+    {
+        "sentence": "Did the movie 'The Godfather' really win three Academy Awards?",
+        "entity_names": [
+            "'The Godfather'",
+            "three Academy Awards"
+        ],
+        "filename": "completion-423",
+        "entity_types": [
+            "Title",
+            "Awards and nominations received"
+        ],
+        "entity_spans_quote_drop": [
+            "'The Godfather'"
+        ],
+        "entity_names_not_allowed": [
+            "three Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "I heard 'Schindler's List' was nominated for seven BAFTA Awards, is that true?",
+        "entity_names": [
+            "'Schindler's List'",
+            "seven BAFTA Awards"
+        ],
+        "filename": "completion-423",
+        "entity_types": [
+            "Title",
+            "Awards and nominations received"
+        ],
+        "entity_spans_quote_drop": [
+            "'Schindler's List'"
+        ],
+        "entity_names_not_allowed": [
+            "seven BAFTA Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "Can you confirm if 'Titanic' actually won 11 Oscars?",
+        "entity_names": [
+            "'Titanic'",
+            "11 Oscars"
+        ],
+        "filename": "completion-423",
+        "entity_types": [
+            "Title",
+            "Awards and nominations received"
+        ],
+        "entity_spans_quote_drop": [
+            "'Titanic'"
+        ],
+        "entity_names_not_allowed": [
+            "11 Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations received"
+        ]
+    },
+    {
+        "sentence": "Which director has won the most Academy Awards?",
+        "entity_names": [
+            "Academy Awards",
+            "director"
+        ],
+        "filename": "completion-425",
+        "entity_types": [
+            "Award",
+            "Director"
+        ],
+        "reordered_entity_names": [
+            "director",
+            "Academy Awards"
+        ],
+        "reordered_entity_types": [
+            "Director",
+            "Award"
+        ],
+        "entity_names_not_allowed": [
+            "Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "What film received the most nominations for the Oscars this year?",
+        "entity_names": [
+            "Oscars",
+            "this year"
+        ],
+        "filename": "completion-429",
+        "entity_types": [
+            "Award",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "\"Can I watch the movie Inception on Netflix right now?\"",
+        "entity_names": [
+            "Inception",
+            "Netflix"
+        ],
+        "filename": "completion-437",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Can I watch the movie Inception on Netflix right now?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Is there a way to stream the film Avatar online?\"",
+        "entity_names": [
+            "Avatar",
+            "online"
+        ],
+        "filename": "completion-437",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Is there a way to stream the film Avatar online?",
+        "entity_names_not_allowed": [
+            "online"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Is the movie Inception available on any streaming platforms?\"",
+        "entities": [
+            "Inception (Title)",
+            "Streaming platform availability"
+        ],
+        "sentence_quote_dropped": "Is the movie Inception available on any streaming platforms?"
+    },
+    {
+        "sentence": "\"Can I watch the director's cut of Blade Runner on any streaming services?\"",
+        "entities": [
+            "Blade Runner (Title)",
+            "director's cut (Plot)",
+            "Streaming platform availability"
+        ],
+        "sentence_quote_dropped": "Can I watch the director's cut of Blade Runner on any streaming services?"
+    },
+    {
+        "sentence": "\"Is the movie Shawshank Redemption available in 4K resolution on any streaming platforms?\"",
+        "entities": [
+            "Shawshank Redemption (Title)",
+            "4K resolution (Viewers' Rating)",
+            "Streaming platform availability"
+        ],
+        "sentence_quote_dropped": "Is the movie Shawshank Redemption available in 4K resolution on any streaming platforms?"
+    },
+    {
+        "sentence": "Can you recommend any horror movies with a strong psychological thriller plot?",
+        "entity_names": [
+            "horror",
+            "psychological thriller"
+        ],
+        "filename": "completion-440",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "psychological thriller"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "Do you know any famous movies featuring a legendary song by Queen?",
+        "entity_names": [
+            "famous movies",
+            "legendary song",
+            "Queen"
+        ],
+        "filename": "completion-446",
+        "entity_types": [
+            "Viewers' Rating",
+            "Song",
+            "Band/Artist"
+        ],
+        "entity_names_not_allowed": [
+            "Queen"
+        ],
+        "entity_types_not_allowed": [
+            "Band/Artist"
+        ]
+    },
+    {
+        "sentence": "I'm not sure if it's worth watching, but did the film The Social Network win any awards?",
+        "entity_names": [
+            "The Social Network",
+            "Awards and nominations"
+        ],
+        "filename": "completion-451",
+        "entity_types": [
+            "Title",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "I'm not really a fan of musicals, but did La La Land receive any nominations?",
+        "entity_names": [
+            "La La Land",
+            "Awards and nominations"
+        ],
+        "filename": "completion-451",
+        "entity_types": [
+            "Title",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "I'm not sure if it's relevant, but has the director of The Shape of Water, Guillermo del Toro, won any awards?",
+        "entity_names": [
+            "The Shape of Water",
+            "Guillermo del Toro",
+            "Awards and nominations"
+        ],
+        "filename": "completion-451",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Who directed the highest-rated action movie of the year?",
+        "entities": [
+            "highest-rated (Viewers' Rating)",
+            "action (Genre)",
+            "Director"
+        ]
+    },
+    {
+        "sentence": "I'm trying to find a movie with a memorable musical score, can you show me one with a captivating soundtrack?",
+        "entity_names": [
+            "memorable musical score",
+            "captivating soundtrack"
+        ],
+        "filename": "completion-461",
+        "entity_types": [
+            "Review",
+            "Soundtrack"
+        ],
+        "entity_names_not_allowed": [
+            "captivating soundtrack"
+        ],
+        "entity_types_not_allowed": [
+            "Soundtrack"
+        ]
+    },
+    {
+        "sentence": "Who were the main actors in the making of the classic film Psycho?",
+        "entity_names": [
+            "main actors",
+            "making of",
+            "classic",
+            "Psycho"
+        ],
+        "filename": "completion-462",
+        "entity_types": [
+            "Actor",
+            "Behind-the-scenes",
+            "Viewers' Rating",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "making of"
+        ],
+        "entity_types_not_allowed": [
+            "Behind-the-scenes"
+        ]
+    },
+    {
+        "sentence": "Yo, can I stream a movie with Keanu Reeves on Netflix?",
+        "entity_names": [
+            "Keanu Reeves",
+            "Netflix"
+        ],
+        "filename": "completion-463",
+        "entity_types": [
+            "Actor",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Hey, is there a movie with some dope fight scenes available on Hulu?",
+        "entity_names": [
+            "dope fight scenes",
+            "Hulu"
+        ],
+        "filename": "completion-463",
+        "entity_types": [
+            "Plot",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I'm not sure if this movie won any awards, but did the film Inception receive any nominations?",
+        "entity_names": [
+            "Inception",
+            "nominations"
+        ],
+        "filename": "completion-472",
+        "entity_types": [
+            "Title",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm not entirely certain, but I heard that the actor Leonardo DiCaprio was outstanding in the movie Titanic. Did he win any awards for his performance?",
+        "entity_names": [
+            "Leonardo DiCaprio",
+            "Titanic",
+            "awards"
+        ],
+        "filename": "completion-472",
+        "entity_types": [
+            "Actor",
+            "Title",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm not 100% sure, but I think the film La La Land was highly praised. Can you tell me if it received any awards or nominations?",
+        "entity_names": [
+            "La La Land",
+            "awards",
+            "nominations"
+        ],
+        "filename": "completion-472",
+        "entity_types": [
+            "Title",
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "awards",
+            "nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the making of the Avengers: Endgame film and can you show me a behind-the-scenes clip?\"",
+        "entities": [
+            "Avengers: Endgame (Title)",
+            "behind-the-scenes (Plot)",
+            "Director"
+        ],
+        "sentence_quote_dropped": "Who directed the making of the Avengers: Endgame film and can you show me a behind-the-scenes clip?"
+    },
+    {
+        "sentence": "\"hey, can I watch the movie Titanic on Netflix?\"",
+        "entity_names": [
+            "Titanic",
+            "Netflix"
+        ],
+        "filename": "completion-480",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "hey, can I watch the movie Titanic on Netflix?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"is there a movie from the 90s with a killer soundtrack available on Amazon Prime?\"",
+        "entity_names": [
+            "90s",
+            "killer soundtrack",
+            "Amazon Prime"
+        ],
+        "filename": "completion-480",
+        "entity_types": [
+            "Year",
+            "Song",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "is there a movie from the 90s with a killer soundtrack available on Amazon Prime?",
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"show me a thriller directed by Alfred Hitchcock that I can stream on Hulu\"",
+        "entity_names": [
+            "thriller",
+            "Alfred Hitchcock",
+            "Hulu"
+        ],
+        "filename": "completion-480",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "show me a thriller directed by Alfred Hitchcock that I can stream on Hulu",
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a comedy movie with a romantic subgenre?",
+        "entity_names": [
+            "comedy",
+            "romantic"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "romantic"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a thriller film with a mystery subgenre that will keep me on the edge of my seat. Can you suggest one?",
+        "entity_names": [
+            "thriller",
+            "mystery"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "mystery"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "I want to watch a sci-fi movie that has a dystopian subgenre. Can you help me find one?",
+        "entity_names": [
+            "sci-fi",
+            "dystopian"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "dystopian"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "\"Has the film Gladiator won any awards?\"",
+        "entity_names": [
+            "Gladiator",
+            "awards"
+        ],
+        "filename": "completion-488",
+        "entity_types": [
+            "Title",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Has the film Gladiator won any awards?",
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"What movie from the 1960s was nominated for the most Oscars?\"",
+        "entity_names": [
+            "1960s",
+            "Oscars"
+        ],
+        "filename": "completion-488",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "What movie from the 1960s was nominated for the most Oscars?",
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"Did Steven Spielberg direct any movies that won a Golden Globe?\"",
+        "entity_names": [
+            "Steven Spielberg",
+            "Golden Globe"
+        ],
+        "filename": "completion-488",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "sentence_quote_dropped": "Did Steven Spielberg direct any movies that won a Golden Globe?",
+        "entity_names_not_allowed": [
+            "Golden Globe"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Which movie won the most Oscars in 2020",
+        "entity_names": [
+            "most Oscars",
+            "2020"
+        ],
+        "filename": "completion-495",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Did any films directed by Christopher Nolan receive Golden Globe nominations",
+        "entity_names": [
+            "Christopher Nolan",
+            "Golden Globe nominations"
+        ],
+        "filename": "completion-495",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "What movie was nominated for the Cannes Film Festival Palm d'Or in 2019",
+        "entity_names": [
+            "Cannes Film Festival Palm d'Or",
+            "2019"
+        ],
+        "filename": "completion-495",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Cannes Film Festival Palm d'Or"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a romantic comedy movie available for streaming with Julia Roberts in it",
+        "entity_names": [
+            "romantic comedy",
+            "Julia Roberts",
+            "streaming"
+        ],
+        "filename": "completion-501",
+        "entity_types": [
+            "Genre",
+            "Actor",
+            "Movie Availability"
+        ],
+        "reordered_entity_names": [
+            "romantic comedy",
+            "streaming",
+            "Julia Roberts"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Movie Availability",
+            "Actor"
+        ],
+        "entity_names_not_allowed": [
+            "streaming"
+        ],
+        "entity_types_not_allowed": [
+            "Movie Availability"
+        ]
+    },
+    {
+        "sentence": "Can you tell me which movie won the most Academy Awards in 2020?",
+        "entity_names": [
+            "2020",
+            "most Academy Awards"
+        ],
+        "filename": "completion-502",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "most Academy Awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most Academy Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm interested in knowing if the film 'The Godfather' received any nominations for the Golden Globe Awards?",
+        "entity_names": [
+            "'The Godfather'",
+            "Golden Globe Awards"
+        ],
+        "filename": "completion-502",
+        "entity_types": [
+            "Title",
+            "Awards"
+        ],
+        "entity_spans_quote_drop": [
+            "'The Godfather'"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'd like to watch a classic movie that won the Palme d'Or at the Cannes Film Festival. Can you recommend one?",
+        "entity_names": [
+            "Palme d'Or",
+            "Cannes Film Festival"
+        ],
+        "filename": "completion-502",
+        "entity_types": [
+            "Awards",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "Palme d'Or"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Spoken query: \"Has the movie Interstellar won any major awards?\"",
+        "entity_names": [
+            "Interstellar",
+            "major awards"
+        ],
+        "filename": "completion-509",
+        "entity_types": [
+            "Title",
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "major awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Spoken query: \"Is there a movie with Leonardo DiCaprio that won multiple Oscars?\"",
+        "entity_names": [
+            "Leonardo DiCaprio",
+            "multiple Oscars"
+        ],
+        "filename": "completion-509",
+        "entity_types": [
+            "Actor",
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "multiple Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Spoken query: \"What war film from the 2000s has received the most nominations?\"",
+        "entity_names": [
+            "war film",
+            "2000s",
+            "most nominations"
+        ],
+        "filename": "completion-509",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Awards and nominations"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "What awards did the movie The Shawshank Redemption win?",
+        "entity_names": [
+            "The Shawshank Redemption",
+            "Awards and nominations"
+        ],
+        "filename": "completion-512",
+        "entity_types": [
+            "Title",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Who was the director of the movie Titanic, and what awards did it receive?",
+        "entity_names": [
+            "Titanic",
+            "director",
+            "Awards and nominations"
+        ],
+        "filename": "completion-512",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "Which movie won the most awards in 2020?",
+        "entity_names": [
+            "2020",
+            "most awards"
+        ],
+        "filename": "completion-519",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "most awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I need to know the Oscars nominations for the best animated film this year, hurry up!",
+        "entity_names": [
+            "Oscars",
+            "best animated film",
+            "this year"
+        ],
+        "filename": "completion-519",
+        "entity_types": [
+            "Awards",
+            "Genre",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Tell me quickly, what film received the most nominations for the Golden Globes in the drama category?",
+        "entity_names": [
+            "Golden Globes",
+            "most nominations",
+            "drama"
+        ],
+        "filename": "completion-519",
+        "entity_types": [
+            "Awards",
+            "Awards",
+            "Genre"
+        ],
+        "reordered_entity_names": [
+            "most nominations",
+            "Golden Globes",
+            "drama"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Awards",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations",
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Has the movie Toy Story won any awards?",
+        "entities": [
+            "Toy Story (Title)",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "What movie from the 2010s has the most nominations?",
+        "entities": [
+            "2010s (Year)",
+            "nominations"
+        ]
+    },
+    {
+        "sentence": "Are there any action movies with lots of awards?",
+        "entities": [
+            "action (Genre)",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Which movie won the most awards in 2020?",
+        "entity_names": [
+            "2020",
+            "most awards"
+        ],
+        "filename": "completion-521",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "most awards",
+            "2020"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you tell me about any highly acclaimed movies from the 1980s?",
+        "entity_names": [
+            "1980s",
+            "highly acclaimed"
+        ],
+        "filename": "completion-521",
+        "entity_types": [
+            "Year",
+            "Awards, Review"
+        ],
+        "reordered_entity_names": [
+            "highly acclaimed",
+            "1980s"
+        ],
+        "reordered_entity_types": [
+            "Awards, Review",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "highly acclaimed"
+        ],
+        "entity_types_not_allowed": [
+            "Awards, Review"
+        ]
+    },
+    {
+        "sentence": "What film received the most nominations at the Oscars last year?",
+        "entity_names": [
+            "Oscars",
+            "last year",
+            "most nominations"
+        ],
+        "filename": "completion-521",
+        "entity_types": [
+            "Awards",
+            "Year",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "most nominations",
+            "Oscars",
+            "last year"
+        ],
+        "reordered_entity_types": [
+            "Awards",
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations",
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "\"What's a good horror movie I can watch on Hulu?\"",
+        "entity_names": [
+            "horror",
+            "Hulu"
+        ],
+        "filename": "completion-522",
+        "entity_types": [
+            "Genre",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "What's a good horror movie I can watch on Hulu?",
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Can I stream a romantic comedy movie from the 1980s that is available on Netflix?\"",
+        "entity_names": [
+            "romantic comedy",
+            "1980s",
+            "Netflix"
+        ],
+        "filename": "completion-525",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Can I stream a romantic comedy movie from the 1980s that is available on Netflix?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Is there a good mystery thriller film on Amazon Prime that was released in the 2000s?\"",
+        "entity_names": [
+            "mystery thriller",
+            "2000s",
+            "Amazon Prime"
+        ],
+        "filename": "completion-525",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Is there a good mystery thriller film on Amazon Prime that was released in the 2000s?",
+        "reordered_entity_names": [
+            "mystery thriller",
+            "Amazon Prime",
+            "2000s"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"I'm looking for a classic drama movie on Hulu. Can you recommend one from the 1960s?\"",
+        "entity_names": [
+            "classic drama",
+            "1960s",
+            "Hulu"
+        ],
+        "filename": "completion-525",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "I'm looking for a classic drama movie on Hulu. Can you recommend one from the 1960s?",
+        "reordered_entity_names": [
+            "classic drama",
+            "Hulu",
+            "1960s"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Can you provide me with a list of films with scores composed by Hans Zimmer?\"",
+        "entity_names": [
+            "Hans Zimmer"
+        ],
+        "filename": "completion-526",
+        "entity_types": [
+            "Composer"
+        ],
+        "sentence_quote_dropped": "Can you provide me with a list of films with scores composed by Hans Zimmer?",
+        "entity_names_not_allowed": [
+            "Hans Zimmer"
+        ],
+        "entity_types_not_allowed": [
+            "Composer"
+        ]
+    },
+    {
+        "sentence": "Which movie from the 1990s won the most awards?",
+        "entity_names": [
+            "1990s",
+            "most awards"
+        ],
+        "filename": "completion-527",
+        "entity_types": [
+            "Year",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "most awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I heard that the director of Parasite won several awards, can you provide more information?",
+        "entity_names": [
+            "Parasite",
+            "director",
+            "several awards"
+        ],
+        "filename": "completion-527",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Awards"
+        ],
+        "reordered_entity_names": [
+            "director",
+            "Parasite",
+            "several awards"
+        ],
+        "reordered_entity_types": [
+            "Director",
+            "Title",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "several awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a horror movie that is also a psychological thriller?",
+        "entity_names": [
+            "horror",
+            "psychological thriller"
+        ],
+        "filename": "completion-529",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "psychological thriller"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "Show me a musical movie with a romantic comedy subplot.",
+        "entity_names": [
+            "musical",
+            "romantic comedy"
+        ],
+        "filename": "completion-529",
+        "entity_types": [
+            "Genre",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "romantic comedy"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "\"What's the name of the film that won the Academy Award for Best Picture in the 1960s, and can you share any trivia about the filming process?\"",
+        "entity_names": [
+            "Academy Award for Best Picture",
+            "1960s",
+            "trivia"
+        ],
+        "filename": "completion-530",
+        "entity_types": [
+            "Award",
+            "Year",
+            "Plot"
+        ],
+        "sentence_quote_dropped": "What's the name of the film that won the Academy Award for Best Picture in the 1960s, and can you share any trivia about the filming process?",
+        "entity_names_not_allowed": [
+            "Academy Award for Best Picture"
+        ],
+        "entity_types_not_allowed": [
+            "Award"
+        ]
+    },
+    {
+        "sentence": "Can I find a movie from the 1960s that is available on Netflix and has a high rating?",
+        "entity_names": [
+            "1960s",
+            "Netflix",
+            "high rating"
+        ],
+        "filename": "completion-535",
+        "entity_types": [
+            "Year",
+            "Streaming platform",
+            "Viewers' Rating"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Which director made an action film that is on Amazon Prime, and can you show me the trailer?",
+        "entity_names": [
+            "action film",
+            "Amazon Prime",
+            "the trailer"
+        ],
+        "filename": "completion-535",
+        "entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Trailer"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I'm craving a classic romance movie that I can watch on Hulu, can you recommend one with a popular actor?",
+        "entity_names": [
+            "classic romance movie",
+            "Hulu",
+            "popular actor"
+        ],
+        "filename": "completion-535",
+        "entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Actor"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"What movies are playing on Friday at the downtown cinema?\"",
+        "entity_names": [
+            "Friday"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "Day"
+        ],
+        "sentence_quote_dropped": "What movies are playing on Friday at the downtown cinema?",
+        "entity_names_not_allowed": [
+            "Friday"
+        ],
+        "entity_types_not_allowed": [
+            "Day"
+        ]
+    },
+    {
+        "sentence": "\"Are there any romantic comedies showing this weekend at the theaters near me?\"",
+        "entity_names": [
+            "romantic comedies",
+            "this weekend"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "Genre",
+            "Time"
+        ],
+        "sentence_quote_dropped": "Are there any romantic comedies showing this weekend at the theaters near me?",
+        "entity_names_not_allowed": [
+            "this weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Is the movie Inception available for streaming?",
+        "entity_names": [
+            "Inception",
+            "streaming platform"
+        ],
+        "filename": "completion-544",
+        "entity_types": [
+            "Title",
+            "Entity Type"
+        ],
+        "missing_entity_names": [
+            "streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can I watch a Steven Spielberg directed movie on any streaming platform?",
+        "entity_names": [
+            "Steven Spielberg",
+            "streaming platform"
+        ],
+        "filename": "completion-544",
+        "entity_types": [
+            "Director",
+            "Entity Type"
+        ],
+        "entity_names_not_allowed": [
+            "streaming platform"
+        ],
+        "entity_types_not_allowed": [
+            "Entity Type"
+        ]
+    },
+    {
+        "sentence": "Is there a popular action movie from the 1990s that I can find on a streaming platform?",
+        "entity_names": [
+            "1990s",
+            "action",
+            "streaming platform"
+        ],
+        "filename": "completion-544",
+        "entity_types": [
+            "Year",
+            "Genre",
+            "Entity Type"
+        ],
+        "reordered_entity_names": [
+            "action",
+            "1990s",
+            "streaming platform"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Year",
+            "Entity Type"
+        ],
+        "entity_names_not_allowed": [
+            "streaming platform"
+        ],
+        "entity_types_not_allowed": [
+            "Entity Type"
+        ]
+    },
+    {
+        "sentence": "What is a good romantic comedy movie to watch this weekend?",
+        "entity_names": [
+            "romantic comedy",
+            "this weekend"
+        ],
+        "filename": "completion-546",
+        "entity_types": [
+            "Genre",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "this weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "can I find the movie The Godfather on Netflix",
+        "entity_names": [
+            "The Godfather",
+            "Netflix"
+        ],
+        "filename": "completion-551",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "show me a movie with Clint Eastwood from the 1970s on Amazon Prime",
+        "entity_names": [
+            "Clint Eastwood",
+            "1970s",
+            "Amazon Prime"
+        ],
+        "filename": "completion-551",
+        "entity_types": [
+            "Actor",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a classic black and white film with Humphrey Bogart on Hulu",
+        "entity_names": [
+            "classic black and white film",
+            "Humphrey Bogart",
+            "Hulu"
+        ],
+        "filename": "completion-551",
+        "entity_types": [
+            "Genre",
+            "Actor",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can you give me a brief summary of the plot of the movie Inception?",
+        "entity_names": [
+            "Inception",
+            "plot summary"
+        ],
+        "filename": "completion-553",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot summary"
+        ]
+    },
+    {
+        "sentence": "Is the movie Inception available to stream anywhere?",
+        "entity_names": [
+            "Inception",
+            "stream"
+        ],
+        "filename": "completion-554",
+        "entity_types": [
+            "Title",
+            "Action"
+        ],
+        "entity_names_not_allowed": [
+            "stream"
+        ],
+        "entity_types_not_allowed": [
+            "Action"
+        ]
+    },
+    {
+        "sentence": "Where can I watch the latest Spider-Man movie online?",
+        "entity_names": [
+            "Spider-Man",
+            "watch online"
+        ],
+        "filename": "completion-554",
+        "entity_types": [
+            "Title",
+            "Action"
+        ],
+        "missing_entity_names": [
+            "watch online"
+        ]
+    },
+    {
+        "sentence": "I need to find a platform to stream the new James Bond film, No Time to Die, quickly.",
+        "entity_names": [
+            "James Bond",
+            "No Time to Die",
+            "stream"
+        ],
+        "filename": "completion-554",
+        "entity_types": [
+            "Title",
+            "Title",
+            "Action"
+        ],
+        "reordered_entity_names": [
+            "stream",
+            "James Bond",
+            "No Time to Die"
+        ],
+        "reordered_entity_types": [
+            "Action",
+            "Title",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "stream"
+        ],
+        "entity_types_not_allowed": [
+            "Action"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for an action movie with intense fight scenes, preferably something with martial arts or superhero elements.",
+        "entity_names": [
+            "action movie",
+            "intense fight scenes",
+            "martial arts or superhero"
+        ],
+        "filename": "completion-555",
+        "entity_types": [
+            "Genre",
+            "Plot",
+            "Subgenre"
+        ],
+        "entity_names_not_allowed": [
+            "martial arts or superhero"
+        ],
+        "entity_types_not_allowed": [
+            "Subgenre"
+        ]
+    },
+    {
+        "sentence": "Is there a highly-rated comedy movie from 2010 available on Netflix or Hulu?",
+        "entity_names": [
+            "2010",
+            "highly-rated",
+            "comedy",
+            "Netflix",
+            "Hulu"
+        ],
+        "filename": "completion-557",
+        "entity_types": [
+            "Year",
+            "Viewers' Rating",
+            "Genre",
+            "Streaming platform",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "highly-rated",
+            "comedy",
+            "2010",
+            "Netflix",
+            "Hulu"
+        ],
+        "reordered_entity_types": [
+            "Viewers' Rating",
+            "Genre",
+            "Year",
+            "Streaming platform",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix",
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform",
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I want to watch a thriller directed by David Fincher, with a rating of at least 4 stars, on Amazon Prime or HBO Max",
+        "entity_names": [
+            "thriller",
+            "David Fincher",
+            "at least 4 stars",
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "filename": "completion-557",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Viewers' Rating",
+            "Streaming platform",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform",
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Show me a classic movie from the 1950s with Audrey Hepburn, available on Disney+ or Apple TV+",
+        "entity_names": [
+            "classic",
+            "1950s",
+            "Audrey Hepburn",
+            "Disney+",
+            "Apple TV+"
+        ],
+        "filename": "completion-557",
+        "entity_types": [
+            "Viewers' Rating",
+            "Year",
+            "Actor",
+            "Streaming platform",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Disney+",
+            "Apple TV+"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform",
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "I'm interested in the cinematographer for the behind-the-scenes footage of the film Avatar, can you assist me with that?",
+        "entity_names": [
+            "cinematographer",
+            "behind-the-scenes footage",
+            "Avatar"
+        ],
+        "filename": "completion-570",
+        "entity_types": [
+            "Job Title",
+            "Plot",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "cinematographer"
+        ],
+        "entity_types_not_allowed": [
+            "Job Title"
+        ]
+    },
+    {
+        "sentence": "Which production company was responsible for creating the behind-the-scenes featurette for the movie Gravity?",
+        "entity_names": [
+            "production company",
+            "behind-the-scenes featurette",
+            "Gravity"
+        ],
+        "filename": "completion-570",
+        "entity_types": [
+            "Job Title",
+            "Plot",
+            "Title"
+        ],
+        "entity_names_not_allowed": [
+            "production company"
+        ],
+        "entity_types_not_allowed": [
+            "Job Title"
+        ]
+    },
+    {
+        "sentence": "Which film won the most Oscars in 2020?",
+        "entity_names": [
+            "most Oscars",
+            "2020"
+        ],
+        "filename": "completion-571",
+        "entity_types": [
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a movie that received both Golden Globe and BAFTA nominations?",
+        "entity_names": [
+            "Golden Globe",
+            "BAFTA"
+        ],
+        "filename": "completion-571",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Golden Globe",
+            "BAFTA"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a film that was both a box office success and won several prestigious awards. Any suggestions?",
+        "entity_names": [
+            "box office success",
+            "prestigious awards"
+        ],
+        "filename": "completion-571",
+        "entity_types": [
+            "Viewers' Rating",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "prestigious awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Can you give me a brief summary of the plot for the movie Inception",
+        "entity_names": [
+            "Inception",
+            "plot summary"
+        ],
+        "filename": "completion-572",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot summary"
+        ]
+    },
+    {
+        "sentence": "Can you tell me which movie won the most awards at the Oscars last year?",
+        "entity_names": [
+            "most awards",
+            "Oscars",
+            "last year"
+        ],
+        "filename": "completion-573",
+        "entity_types": [
+            "Awards",
+            "Awards",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "most awards",
+            "Oscars"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I'm interested in movies that have been nominated for both Best Picture and Best Director at the Golden Globes. Can you recommend any?",
+        "entity_names": [
+            "Best Picture",
+            "Best Director",
+            "Golden Globes"
+        ],
+        "filename": "completion-573",
+        "entity_types": [
+            "Awards",
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "Best Picture",
+            "Best Director",
+            "Golden Globes"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I heard that there's a movie that received a lot of nominations at the BAFTA Awards. Can you tell me which one it is?",
+        "entity_names": [
+            "nominations",
+            "BAFTA Awards"
+        ],
+        "filename": "completion-573",
+        "entity_types": [
+            "Awards",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "nominations",
+            "BAFTA Awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards",
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Hey, can I watch a movie like The Dark Knight on Netflix tonight?",
+        "entity_names": [
+            "The Dark Knight",
+            "Netflix"
+        ],
+        "filename": "completion-574",
+        "entity_types": [
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Show me a good action movie from the 90s, preferably on Hulu.",
+        "entity_names": [
+            "action",
+            "90s",
+            "Hulu"
+        ],
+        "filename": "completion-574",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Do you know where I can find a classic film like Casablanca on any streaming service?",
+        "entity_names": [
+            "Casablanca",
+            "classic",
+            "streaming service"
+        ],
+        "filename": "completion-574",
+        "entity_types": [
+            "Title",
+            "Genre",
+            "Streaming platform"
+        ],
+        "reordered_entity_names": [
+            "classic",
+            "Casablanca",
+            "streaming service"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Title",
+            "Streaming platform"
+        ],
+        "entity_names_not_allowed": [
+            "streaming service"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "Can you give me a brief overview of the plot for the movie Inception?",
+        "entity_names": [
+            "Inception",
+            "plot overview"
+        ],
+        "filename": "completion-576",
+        "entity_types": [
+            "Title",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot overview"
+        ]
+    },
+    {
+        "sentence": "I'm hesitant about the reviews for the superhero movie Avengers: Endgame. Can you share a brief synopsis of the plot to help me decide if it's worth watching?",
+        "entity_names": [
+            "Avengers: Endgame",
+            "reviews",
+            "plot synopsis"
+        ],
+        "filename": "completion-576",
+        "entity_types": [
+            "Title",
+            "Review",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "plot synopsis"
+        ]
+    },
+    {
+        "sentence": "What are the showtimes for any action movie playing tonight?",
+        "entity_names": [
+            "action movie",
+            "tonight"
+        ],
+        "filename": "completion-581",
+        "entity_types": [
+            "Genre",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Can I buy tickets for a well-reviewed comedy film for this weekend?",
+        "entity_names": [
+            "well-reviewed",
+            "comedy film",
+            "this weekend"
+        ],
+        "filename": "completion-581",
+        "entity_types": [
+            "Review",
+            "Genre",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "this weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Do you have any information on dramatic movies showing near me?",
+        "entity_names": [
+            "dramatic movies",
+            "near me"
+        ],
+        "filename": "completion-581",
+        "entity_types": [
+            "Genre",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "near me"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "\"Has the movie La La Land won any awards?\"",
+        "entity_names": [
+            "La La Land",
+            "awards"
+        ],
+        "filename": "completion-583",
+        "entity_types": [
+            "Title",
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "Has the movie La La Land won any awards?",
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "\"Can you tell me about the movie Titanic's nominations?\"",
+        "entity_names": [
+            "Titanic",
+            "nominations"
+        ],
+        "filename": "completion-583",
+        "entity_types": [
+            "Title",
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "Can you tell me about the movie Titanic's nominations?",
+        "entity_names_not_allowed": [
+            "nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "\"What awards has the director Christopher Nolan received for his movies?\"",
+        "entity_names": [
+            "Christopher Nolan",
+            "awards"
+        ],
+        "filename": "completion-583",
+        "entity_types": [
+            "Director",
+            "Awards and nominations"
+        ],
+        "sentence_quote_dropped": "What awards has the director Christopher Nolan received for his movies?",
+        "reordered_entity_names": [
+            "awards",
+            "Christopher Nolan"
+        ],
+        "reordered_entity_types": [
+            "Awards and nominations",
+            "Director"
+        ],
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards and nominations"
+        ]
+    },
+    {
+        "sentence": "\"Do you have any tickets available for a comedy film this weekend?\"",
+        "entity_names": [
+            "comedy",
+            "weekend"
+        ],
+        "filename": "completion-587",
+        "entity_types": [
+            "Genre",
+            "Date"
+        ],
+        "sentence_quote_dropped": "Do you have any tickets available for a comedy film this weekend?",
+        "entity_names_not_allowed": [
+            "weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Date"
+        ]
+    },
+    {
+        "sentence": "Has the movie Titanic won any awards?",
+        "entity_names": [
+            "Titanic",
+            "awards"
+        ],
+        "filename": "completion-594",
+        "entity_types": [
+            "Title",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "awards"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "What movie directed by Martin Scorsese has received the most nominations?",
+        "entity_names": [
+            "Martin Scorsese",
+            "most nominations"
+        ],
+        "filename": "completion-594",
+        "entity_types": [
+            "Director",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "most nominations"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "Show me a film with Tom Hanks that has won an Oscar.",
+        "entity_names": [
+            "Tom Hanks",
+            "won an Oscar"
+        ],
+        "filename": "completion-594",
+        "entity_types": [
+            "Actor",
+            "Awards"
+        ],
+        "entity_names_not_allowed": [
+            "won an Oscar"
+        ],
+        "entity_types_not_allowed": [
+            "Awards"
+        ]
+    },
+    {
+        "sentence": "I need to know who directed the movie Interstellar, and also who are the main actors and the genre of the film. I am in a rush!",
+        "entity_names": [
+            "Interstellar",
+            "Director",
+            "main actors",
+            "genre"
+        ],
+        "filename": "completion-595",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Actor",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Director"
+        ]
+    },
+    {
+        "sentence": "\"Can I watch a classic western movie on Netflix?\"",
+        "entity_names": [
+            "classic",
+            "western",
+            "Netflix"
+        ],
+        "filename": "completion-596",
+        "entity_types": [
+            "Genre",
+            "Genre",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "Can I watch a classic western movie on Netflix?",
+        "entity_names_not_allowed": [
+            "Netflix"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"I want to watch a suspenseful movie from the 1950s, is there anything available on Amazon Prime?\"",
+        "entity_names": [
+            "suspenseful",
+            "1950s",
+            "Amazon Prime"
+        ],
+        "filename": "completion-596",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Streaming platform"
+        ],
+        "sentence_quote_dropped": "I want to watch a suspenseful movie from the 1950s, is there anything available on Amazon Prime?",
+        "entity_names_not_allowed": [
+            "Amazon Prime"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "\"Are there any action movies on Hulu with a high viewers' rating?\"",
+        "entity_names": [
+            "action",
+            "Hulu",
+            "high"
+        ],
+        "filename": "completion-596",
+        "entity_types": [
+            "Genre",
+            "Streaming platform",
+            "Viewers' Rating"
+        ],
+        "sentence_quote_dropped": "Are there any action movies on Hulu with a high viewers' rating?",
+        "entity_names_not_allowed": [
+            "Hulu"
+        ],
+        "entity_types_not_allowed": [
+            "Streaming platform"
+        ]
+    },
+    {
+        "sentence": "What are the top-rated horror films currently showing and where can I buy tickets?",
+        "entity_names": [
+            "top-rated horror films",
+            "tickets"
+        ],
+        "filename": "completion-597",
+        "entity_types": [
+            "Viewers' Rating",
+            "Entity"
+        ],
+        "entity_names_not_allowed": [
+            "tickets"
+        ],
+        "entity_types_not_allowed": [
+            "Entity"
+        ]
+    }
+]

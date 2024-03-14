@@ -1,0 +1,8 @@
+1. "What are some movies directed by Terry Gilliam set in an apocalyptic world?"
+   Named Entities: [Terry Gilliam (Director), Apocalyptic world (Plot)]
+
+2. "Can you recommend a film with Amy Adams that has been approved for all audiences?"
+   Named Entities: [Amy Adams (Actor), Approved (MPAA Rating)]
+
+3. "Show me a remarkable movie featuring the song 'Belle'."
+   Named Entities: [Remarkable (Review), Belle (Song)]

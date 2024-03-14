@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie featuring the song Sweet Caroline?"
+Named Entities: [Sweet Caroline (Song)]
+
+2. Query: "What epic movie starring Matt Damon was released in 2015?"
+Named Entities: [epic (Genre), Matt Damon (Actor), 2015 (Year)]
+
+3. Query: "Which movie directed by Ridley Scott has the highest viewers' rating?"
+Named Entities: [Ridley Scott (Director), highest viewers' rating (Viewers' Rating)]

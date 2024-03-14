@@ -1,0 +1,8 @@
+1. Text Span: "luxurious"
+   Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "affordable"
+   Label: (A). The span is a named entity of type price
+
+3. Text Span: "fancy"
+   Label: (C). Wrong Type. The correct entity type is Amenity.

@@ -1,0 +1,11 @@
+1. Sentence: "In 1939, the {{Parthenon Marbles}} were acquired by the British Museum in London, where they are now on display."
+Text Span: "Parthenon Marbles"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The {{1992 Summer Olympics}} took place in Barcelona, Spain, and the Paralympics in Madrid."
+Text Span: "1992 Summer Olympics"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Jim Fowler was an American zoologist and television personality, best known for co-hosting {{Mutual of Omaha}}'s Wild Kingdom from 1963 until 1988."
+Text Span: "Mutual of Omaha"
+Label: (A). The span is a named entity of type organization

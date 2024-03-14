@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a great soundtrack?"
+Named Entities: [great soundtrack (Review)]
+
+Query: "Show me a movie with an iconic song from the 80s"
+Named Entities: [iconic song (Song), 80s (Year)]
+
+Query: "Is there a movie with a famous song by Queen in it?"
+Named Entities: [famous song by Queen (Song)]

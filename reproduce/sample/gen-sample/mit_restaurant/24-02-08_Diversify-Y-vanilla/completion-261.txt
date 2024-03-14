@@ -1,0 +1,8 @@
+1. "Can you recommend any wallet-friendly restaurants with a cancellation policy in the downtown area?"
+Named Entities: [wallet-friendly (Price), cancellation policy (Amenity), downtown area (Location)]
+
+2. "I'm in the mood for some value-conscious cuisine, can you suggest a restaurant that offers a good menu for happy hour?"
+Named Entities: [value-conscious (Price), happy hour (Amenity)]
+
+3. "Where can I find value-conscious restaurants that serve Italian dishes in the evening?"
+Named Entities: [value-conscious (Price), Italian (Cuisine), evening (Hours)]

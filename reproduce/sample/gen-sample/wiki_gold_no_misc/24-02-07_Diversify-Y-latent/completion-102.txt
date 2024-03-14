@@ -1,0 +1,8 @@
+Sentence: "Dian Fossey conducted extensive research on mountain gorillas in Rwanda."
+Named Entities: [Dian Fossey (person), Rwanda (location)]
+
+Sentence: "The National Geographic Society funded Dian Fossey's research in Africa."
+Named Entities: [National Geographic Society (organization), Dian Fossey (person), Africa (location)]
+
+Sentence: "Dian Fossey's pioneering work in primate research has had a lasting impact on the field of primatology."
+Named Entities: [Dian Fossey (person)]

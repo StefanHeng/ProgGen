@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant near me that serves vegetarian dishes and is open past 10 pm?"
+Named Entities: [vegetarian (Cuisine), open past 10 pm (Hours)]
+
+2. "I'm craving a burger, where can I find a Five Guys in the area?"
+Named Entities: [Five Guys (Restaurant Name)]
+
+3. "What are the top-rated seafood restaurants with outdoor seating and a waterfront view?"
+Named Entities: [seafood (Cuisine), top-rated (Rating), outdoor seating (Amenity), waterfront view (Amenity)]

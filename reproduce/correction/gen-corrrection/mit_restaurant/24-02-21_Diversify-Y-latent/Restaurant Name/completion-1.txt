@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a {{burger joint}} open past midnight"
+Text Span: "burger joint"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "Do you know any reliable restaurants that serve {{Five Guys}} burgers?"
+Text Span: "Five Guys"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "I'm in the mood for some comfort food. Is {{The Mac and Cheese Mobile}} still open?"
+Text Span: "The Mac and Cheese Mobile"
+Label: (A). Correct Entity Annotation.

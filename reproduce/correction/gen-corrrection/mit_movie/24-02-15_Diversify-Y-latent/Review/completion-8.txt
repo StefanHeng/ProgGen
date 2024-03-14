@@ -1,0 +1,11 @@
+1. Query: "show me a {{review}} of the action movie with the title Die Hard"
+Text Span: "review"
+Label: (D). The span is not a named entity
+
+2. Query: "What was the {{highest-grossing}} movie in 2016?"
+Text Span: "highest-grossing"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "Could you recommend a movie directed by Wes Anderson and rated as the {{best picture}}?"
+Text Span: "best picture"
+Label: (A). Correct Entity Annotation.

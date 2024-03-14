@@ -1,0 +1,8 @@
+Query: "Where is the closest fast food restaurant with amazing burgers"
+Named Entities: [closest (Location), fast food (Cuisine), amazing (Rating), burgers (Dish)]
+
+Query: "I'm craving some amazing fast food, where can I find the best fries nearby"
+Named Entities: [amazing (Rating), fast food (Cuisine), best fries (Dish), nearby (Location)]
+
+Query: "Do you know any fast food joints with amazing milkshakes"
+Named Entities: [fast food (Cuisine), amazing (Rating), milkshakes (Dish)]

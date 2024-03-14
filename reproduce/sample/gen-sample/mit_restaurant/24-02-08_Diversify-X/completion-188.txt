@@ -1,0 +1,8 @@
+Query: "can you recommend a buffet restaurant with a high rating"
+Named Entities: [buffet (Amenity), high rating (Rating)]
+
+Query: "what's the best buffet restaurant in the downtown area"
+Named Entities: [buffet (Amenity), downtown area (Location), best (Rating)]
+
+Query: "are there any buffet restaurants with vegan options near me"
+Named Entities: [buffet (Amenity), vegan (Cuisine), near me (Location)]

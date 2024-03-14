@@ -1,0 +1,8 @@
+Query: "Can you recommend any outstanding lunch establishments with vegan options?"
+Named Entities: [Outstanding lunch establishments (Amenity), vegan (Cuisine)]
+
+Query: "Where can I find outstanding lunch establishments with outdoor seating in the downtown area?"
+Named Entities: [Outstanding lunch establishments (Amenity), outdoor seating (Amenity), downtown area (Location)]
+
+Query: "What are some outstanding lunch establishments with a 5-star rating and a moderate price range?"
+Named Entities: [Outstanding lunch establishments (Amenity), 5-star (Rating), moderate (Price)]

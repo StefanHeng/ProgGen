@@ -1,0 +1,8 @@
+Sentence: "Regular exercise is one of the best things you can do for your health."
+Named Entities: []
+
+Sentence: "The World Health Organization is a specialized agency of the United Nations responsible for international public health."
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+Sentence: "Dr. Smith conducted research on the effects of stress on mental health."
+Named Entities: [Dr. Smith (person)]

@@ -1,0 +1,8 @@
+Query: "I'm craving a chicken dish for dinner, do you know any upscale cafes in the area?"
+Named Entities: [chicken (Dish), upscale (Price), cafes (Amenity)]
+
+Query: "I'm looking for a place to take my colleagues for a nice meal, do you have any recommendations for upscale cafes in the vicinity?"
+Named Entities: [upscale (Price), colleagues (Amenity), cafes (Amenity)]
+
+Query: "I'm a teacher in my mid-thirties and I'd like to find a café with a diverse menu that includes Chipotle dishes. Any suggestions?"
+Named Entities: [teacher (Amenity), mid-thirties (Amenity), Chipotle (Cuisine), cafes (Amenity)]

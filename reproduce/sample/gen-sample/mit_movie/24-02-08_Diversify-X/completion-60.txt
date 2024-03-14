@@ -1,0 +1,8 @@
+1. "What movies are playing near me right now?"
+   Named Entities: [movies, playing, near me (Location)]
+
+2. "Is there a new action movie out this week?"
+   Named Entities: [new, action movie, this week (Time)]
+
+3. "Can you recommend a good comedy playing at the theater?"
+   Named Entities: [recommend, good, comedy, theater]

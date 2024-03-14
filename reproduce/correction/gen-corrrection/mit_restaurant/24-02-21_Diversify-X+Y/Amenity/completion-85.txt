@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a {{Pet-friendly}} restaurant with a rustic and charming ambiance for breakfast"
+Text Span: "Pet-friendly"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "Can you recommend a {{24-hour Pizzeria}} for late-night dining?"
+Text Span: "24-hour Pizzeria"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I want to have a nice lunch with a {{friend}}, can you recommend any LongHorn Steakhouse with high ratings"
+Text Span: "friend"
+Label: (D). The span is not a named entity

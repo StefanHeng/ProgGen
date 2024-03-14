@@ -1,0 +1,8 @@
+1. "Can you recommend any cheap eats in the area?"
+   Named Entities: [Cheap eats (Price)]
+
+2. "I'm craving some TGI Friday's, do you know where the nearest one is?"
+   Named Entities: [TGI Friday's (Restaurant Name)]
+
+3. "Where can I find outstanding food for steak lovers?"
+   Named Entities: [Outstanding food (Rating), steak (Dish)]

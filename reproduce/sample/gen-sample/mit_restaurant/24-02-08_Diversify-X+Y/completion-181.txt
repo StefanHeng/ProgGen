@@ -1,0 +1,8 @@
+1. "I'm looking for a buffet restaurant with a $35 budget, what are the operation hours?"
+   Named Entities: [buffet (Amenity), operation hours (Hours), $35 (Price)]
+
+2. "Can you recommend a buffet place that opens early and is within my $35 budget?"
+   Named Entities: [buffet (Amenity), opens early (Hours), $35 (Price)]
+
+3. "I need to find a restaurant that serves buffet and is affordable, preferably around $35, what are the operation hours?"
+   Named Entities: [buffet (Amenity), affordable (Price), operation hours (Hours), $35 (Price)]

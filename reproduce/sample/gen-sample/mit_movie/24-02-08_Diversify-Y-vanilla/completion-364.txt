@@ -1,0 +1,8 @@
+Query: "what are the most popular horror movies from the 1980s?"
+Named Entities: [horror (Genre), 1980s (Year), most popular (Viewers' Rating)]
+
+Query: "could you tell me the plot of the latest marvel film?"
+Named Entities: [latest marvel film (Title), plot (Plot)]
+
+Query: "who is the actress in the top gun movie that was directed by tony scott"
+Named Entities: [top gun (Title), tony scott (Director), actress (Actor)] [Reflective]

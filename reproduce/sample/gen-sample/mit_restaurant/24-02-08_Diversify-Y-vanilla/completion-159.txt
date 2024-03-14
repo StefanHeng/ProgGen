@@ -1,0 +1,8 @@
+1. "Can you recommend a high-rated Italian restaurant near [Brio Tuscan Grille]?"
+Named Entities: [high-rated (Rating), Italian (Cuisine), [Brio Tuscan Grille] (Restaurant Name)]
+
+2. "What are the operating hours of [Brio Tuscan Grille] on weekends?"
+Named Entities: [operating hours (Hours), weekends (Amenity), [Brio Tuscan Grille] (Restaurant Name)]
+
+3. "I'm craving some seafood, is there a good seafood restaurant not too far from [Brio Tuscan Grille]?"
+Named Entities: [seafood (Cuisine), not too far (Location), [Brio Tuscan Grille] (Restaurant Name)]

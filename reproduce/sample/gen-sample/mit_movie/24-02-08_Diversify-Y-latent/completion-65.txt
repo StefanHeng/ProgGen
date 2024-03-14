@@ -1,0 +1,8 @@
+Query: "Can you recommend an unrated horror movie from the 1965 era?"
+Named Entities: [unrated (MPAA Rating), 1965 (Year), horror (Genre)]
+
+Query: "What is the viewers' rating for the movie Black Panther?"
+Named Entities: [Black Panther (Title)]
+
+Query: "Do you have any TV-MA sports films that have a slasher theme?"
+Named Entities: [TV-MA (MPAA Rating), sports (Genre), slasher (Genre)]

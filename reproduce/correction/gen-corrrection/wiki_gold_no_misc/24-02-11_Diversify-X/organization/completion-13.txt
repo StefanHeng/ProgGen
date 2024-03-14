@@ -1,0 +1,8 @@
+1. Text Span: "wildlife conservation"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "FC Barcelona"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "GDP"
+Label: (C). Wrong Type. The correct entity type is other.

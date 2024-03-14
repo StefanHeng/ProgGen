@@ -1,0 +1,8 @@
+1. "What psychological thriller films has Baz Luhrmann directed?"
+   Named Entities: [psychological (Genre), Baz Luhrmann (Director)]
+
+2. "Can you recommend a movie about art theft with a high viewers' rating?"
+   Named Entities: [art theft (Plot), high (Viewers' Rating)]
+
+3. "When was the movie Mulan released and who is the lead actress?"
+   Named Entities: [Mulan (Title), lead actress (Character), released (Year)]

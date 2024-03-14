@@ -1,0 +1,78 @@
+1. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+2. The United States Department of Defense is an executive branch department of the federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States Armed Forces.
+Named Entities: [United States Department of Defense (organization), United States (location), United States Armed Forces (organization)]
+3. Stephen King has published 61 novels (including seven under the pen name Richard Bachman) and six non-fiction books. He has written approximately 200 short stories, most of which have been published in book collections.
+Named Entities: [Stephen King (person)]
+4. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. 
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+5. The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and aerospace research.
+Named Entities: [National Aeronautics and Space Administration (organization), U.S. (location)]
+6. Elon Musk is the founder, CEO, CTO, and chief designer of SpaceX, early investor, CEO, and product architect of Tesla, Inc., founder of The Boring Company, co-founder of Neuralink, and co-founder and initial co-chairman of OpenAI.
+Named Entities: [Elon Musk (person), SpaceX (organization), Tesla, Inc. (organization), The Boring Company (organization), Neuralink (organization), OpenAI (organization)]
+7. Sydney is the state capital of New South Wales and the most populous city in Australia and Oceania.
+Named Entities: [Sydney (location), New South Wales (location), Australia (location), Oceania (location)]
+8. Area 51 is the common name of a highly classified United States Air Force facility located within the Nevada Test and Training Range.
+Named Entities: [Area 51 (location), United States Air Force (organization), Nevada Test and Training Range (location)]
+9. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+10. The Statue of Liberty is a colossal copper statue, designed by Frédéric Auguste Bartholdi, a French sculptor, built by Gustave Eiffel, and dedicated on October 28, 1886.
+Named Entities: [Statue of Liberty (location), Frédéric Auguste Bartholdi (person), Gustave Eiffel (person), October 28, 1886 (location)]
+11. John F. Kennedy was the 35th President of the United States, serving from January 1961 until his assassination in November 1963.
+Named Entities: [John F. Kennedy (person), President of the United States (organization), November 1963 (location)]
+12. The Roman Empire was the post-Republican period of ancient Rome, characterized by government headed by emperors and large territorial holdings around the Mediterranean Sea in Europe, Africa, and Asia.
+Named Entities: [Roman Empire (location), Rome (location), Mediterranean Sea (location), Europe (location), Africa (location), Asia (location)]
+13. Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engines, cloud computing, software, and hardware.
+Named Entities: [Google LLC (organization), American (location)]
+14. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering Cairo, Egypt.
+Named Entities: [Great Pyramid of Giza (location), Giza (location), Cairo (location), Egypt (location)]
+15. The Internal Revenue Service is the revenue service of the United States federal government. 
+Named Entities: [Internal Revenue Service (organization), United States federal government (organization)]
+16. Leonardo da Vinci was an Italian polymath whose areas of interest included invention, drawing, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.
+Named Entities: [Leonardo da Vinci (person), Italian (location)]
+17. The Metropolitan Museum of Art of New York City, colloquially "the Met," is the largest art museum in the United States.
+Named Entities: [Metropolitan Museum of Art (organization), New York City (location), United States (location)]
+18. The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City. 
+Named Entities: [Sistine Chapel (location), Apostolic Palace (location), Vatican City (location)]
+19. Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.
+Named Entities: [Marie Curie (person), Polish (location), French (location)]
+20. The Himalayas are a mountain range in South and East Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Named Entities: [Himalayas (location), South Asia (location), East Asia (location), Indian subcontinent (location), Tibetan Plateau (location)]
+21. NASA began operations on October 1, 1958, replacing its predecessor, the National Advisory Committee for Aeronautics.
+Named Entities: [NASA (organization), October 1, 1958 (location), National Advisory Committee for Aeronautics (organization)]
+22. The Royal Ontario Museum is a museum of art, world culture, and natural history in Toronto, Ontario, Canada. 
+Named Entities: [Royal Ontario Museum (organization), Toronto (location), Canada (location), Ontario (location)]
+23. Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule. 
+Named Entities: [Mahatma Gandhi (person), Indian (location), India (location), British (location)]
+24. The University of Oxford is a collegiate research university in Oxford, England.
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+25. The Sphinx is a mythical creature with the head of a human and the body of a lion.
+Named Entities: [Sphinx (location)]
+26. The Hollywood Walk of Fame is a historic landmark located in Los Angeles, California, and is embedded with bronze stars featuring the names of notable celebrities.
+Named Entities: [Hollywood Walk of Fame (location), Los Angeles (location), California (location)]
+27. The Roman Catholic Church, also known as the Catholic Church, is the largest Christian church and the largest religious group in the world.
+Named Entities: [Roman Catholic Church (organization), Christian church (organization)]
+28. William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist.
+Named Entities: [William Shakespeare (person), English (location)]
+29. The Château de Versailles, which is on the UNESCO World Heritage List for thirty years, is one of the most remarkable historic sites in the world.
+Named Entities: [Château de Versailles (location), UNESCO World Heritage List (organization)]
+30. George Washington was the first President of the United States, serving from April 1789 until March 1797.
+Named Entities: [George Washington (person), President of the United States (organization), April 1789 (location), March 1797 (location)]
+31. The Egyptian Museum is home to an extensive collection of ancient Egyptian antiquities and is a prominent institution in Cairo.
+Named Entities: [Egyptian Museum (organization), Cairo (location)]
+32. Winston Churchill was a British statesman, army officer, and writer, who served as Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955.
+Named Entities: [Winston Churchill (person), British (location), Prime Minister of the United Kingdom (organization), 1940 (location), 1945 (location), 1951 (location), 1955 (location)]
+33. The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Named Entities: [Grand Canyon (location), Colorado River (location), Arizona (location), United States (location)]
+34. Florence was a centre of medieval European trade and finance, and one of the wealthiest cities of the time.
+Named Entities: [Florence (location)]
+35. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+Named Entities: [Albert Einstein (person), German (location)]
+36. The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City and is one of the oldest roadway bridges in the United States. 
+Named Entities: [Brooklyn Bridge (location), New York City (location), United States (location)]
+37. The Louvre in Paris is the world's largest art museum and a historic monument in France.
+Named Entities: [Louvre (organization), Paris (location), France (location)]
+38. Queen Elizabeth II is the longest-reigning monarch in British history, having ascended to the throne in 1952.
+Named Entities: [Queen Elizabeth II (person), British (location)]
+39. The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, New South Wales, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), Sydney Harbour (location), New South Wales (location

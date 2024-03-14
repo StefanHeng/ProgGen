@@ -1,0 +1,8 @@
+1. "Can you recommend a disaster movie with a high MPAA rating?"
+Named Entities: [Disaster (Genre), MPAA]
+
+2. "What is a good mockbuster movie directed by Clint Eastwood?"
+Named Entities: [Clint Eastwood (Director), mockbuster (Genre)]
+
+3. "Is there a movie from the 1980s with a high viewers' rating and a memorable character?"
+Named Entities: [1980s (Year), viewers' rating (Viewers' Rating), memorable character (Character)]

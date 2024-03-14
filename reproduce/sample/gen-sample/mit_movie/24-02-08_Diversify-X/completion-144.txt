@@ -1,0 +1,8 @@
+Query: "what's the deal with that new movie everyone's talking about?"
+Named Entities: [new movie (Title), everyone's talking about (Review)]
+
+Query: "who's the actor in that action movie with all the explosions?"
+Named Entities: [action movie (Genre), explosions (Plot), actor (Actor)]
+
+Query: "is there a funny movie from the 90s that's suitable for kids?"
+Named Entities: [funny movie (Review), 90s (Year), suitable for kids (MPAA Rating)]

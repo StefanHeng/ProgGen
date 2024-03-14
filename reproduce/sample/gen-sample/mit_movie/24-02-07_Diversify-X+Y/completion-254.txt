@@ -1,0 +1,8 @@
+Query: "Can I stream any movie directed by Richard Linklater? I'm in the mood for something romantic."
+Named Entities: [Richard Linklater (Director), romantic (Genre)]
+
+Query: "Are there any interstellar war movies available to watch right now?"
+Named Entities: [interstellar war (Genre)]
+
+Query: "I'm looking for movies directed by Robert Rodriguez that I can stream. Any recommendations for a non-binary young adult?"
+Named Entities: [Robert Rodriguez (Director), non-binary young adult (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "What movie directed by Paul Thomas Anderson has NC-17 rating and came out in 1992"
+   Named Entities: [Paul Thomas Anderson (Director), NC-17 (MPAA Rating), 1992 (Year)]
+
+2. "Show me a movie with stellar special effects directed by Werner Herzog"
+   Named Entities: [stellar special effects (Plot), Werner Herzog (Director)]
+
+3. "Can you recommend a film by Paul Thomas Anderson with a great performance by Joaquin Phoenix"
+   Named Entities: [Paul Thomas Anderson (Director), Joaquin Phoenix (Actor)]

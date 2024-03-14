@@ -1,0 +1,8 @@
+Query: "What is the lunch menu at Yard House on the West side?"
+Named Entities: [Yard House (Restaurant Name), West side (Location), lunch (Amenity), budget-friendly (Price)]
+
+Query: "Can you recommend a budget-friendly restaurant on the West side for lunch?"
+Named Entities: [budget-friendly (Price), West side (Location), lunch (Amenity)]
+
+Query: "I'm looking for a cheap lunch spot near Yard House, any suggestions?"
+Named Entities: [cheap (Price), lunch (Amenity), Yard House (Restaurant Name), West side (Location)]

@@ -1,0 +1,8 @@
+1. "Hi, I'm looking for showtimes and ticket availability for any fairy tale movies playing today."
+Named Entities: [fairy tale (Genre)]
+
+2. "Do you have any recommendations for movies about amnesia that I can watch this weekend?"
+Named Entities: [amnesia (Plot)]
+
+3. "I'm open to suggestions for any exciting movies with a fairy tale theme. What do you recommend?"
+Named Entities: [fairy tale (Genre)]

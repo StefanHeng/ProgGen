@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an epic quest and a 9.5/10 rating?"
+Named Entities: [epic quest (Genre), 9.5/10 rating (Viewers' Rating)]
+
+2. "Which movies released in 2015 are suitable for mature audiences?"
+Named Entities: [2015 (Year), Mature Audiences (MPAA Rating)]
+
+3. "I'm looking for a film that is not propaganda and has a TV-14 rating."
+Named Entities: [propaganda (Plot), TV-14 (MPAA Rating)]

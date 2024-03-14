@@ -1,0 +1,8 @@
+1. "Can you recommend any movie with Amy Adams that involves a story of revenge?"
+Named Entities: [Amy Adams (Actor), Revenge (Plot)]
+
+2. "I'm looking for an in-depth documentary about movies made between 1963 and 1968, can you help?"
+Named Entities: [in-depth (Review), 1963-1968 (Year)]
+
+3. "What are some of the best thriller movies directed by Alfred Hitchcock in the 1960s?"
+Named Entities: [thriller (Genre), Alfred Hitchcock (Director), 1960s (Year)]

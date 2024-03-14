@@ -1,0 +1,8 @@
+1. "Can you recommend a mid-range café with upscale price range for dinner tonight?"
+Named Entities: [mid-range (Price), café (Cuisine), dinner (Amenity), tonight (Hours), upscale (Price)]
+
+2. "I'm looking for a cozy mid-range café with an upscale price range that serves brunch nearby."
+Named Entities: [cozy (Amenity), mid-range (Price), café (Cuisine), upscale (Price), brunch (Amenity), nearby (Location)]
+
+3. "Which mid-range café with an upscale price range has the best dessert menu in the area?"
+Named Entities: [mid-range (Price), café (Cuisine), upscale (Price), best (Rating), dessert (Dish), area (Location)]

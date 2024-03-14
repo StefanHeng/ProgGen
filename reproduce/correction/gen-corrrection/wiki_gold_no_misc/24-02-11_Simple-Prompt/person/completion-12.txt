@@ -1,0 +1,11 @@
+1. Sentence: "{{Beethoven}}'s Symphony No. 9 is one of the most famous and influential works in the Western classical music tradition."
+Text Span: "Beethoven"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: 'The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist {{Leonardo da Vinci}} that has been described as "the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world".'
+Text Span: "Leonardo da Vinci"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Roger Stone}} is an American political consultant, lobbyist, author, and convicted felon."
+Text Span: "Roger Stone"
+Label: (A). The span is a named entity of type person

@@ -1,0 +1,8 @@
+Query: "Where is the best BBQ restaurant in Austin?"
+Named Entities: [best (Rating), BBQ (Cuisine), Austin (Location)]
+
+Query: "Do you know any restaurants in Austin that offer vegan options?"
+Named Entities: [vegan (Cuisine), Austin (Location)]
+
+Query: "What are the hours of the sushi restaurant near downtown Austin?"
+Named Entities: [sushi (Cuisine), near downtown Austin (Location), hours (Hours)]

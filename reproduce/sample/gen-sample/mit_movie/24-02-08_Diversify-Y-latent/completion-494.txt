@@ -1,0 +1,8 @@
+1. Query: "I want to watch a movie directed by Darren Aronofsky."
+Named Entities: [Darren Aronofsky (Director)]
+
+2. Query: "Can you recommend a movie with Emma Stone in it?"
+Named Entities: [Emma Stone (Actor)]
+
+3. Query: "What is the plot of Inception?"
+Named Entities: [Inception (Title), plot (Plot)]

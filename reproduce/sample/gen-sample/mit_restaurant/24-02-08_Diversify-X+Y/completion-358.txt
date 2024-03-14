@@ -1,0 +1,8 @@
+1. "Can you recommend any brunch spots with outdoor seating?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+2. "I'm craving some bottomless mimosas, where can I find a place with that deal?"
+Named Entities: [bottomless mimosas (Amenity)]
+
+3. "I need a place for a fancy brunch date, preferably with a view of the waterfront."
+Named Entities: [fancy (Price), brunch (Amenity), waterfront (Location)]

@@ -1,0 +1,10 @@
+Here are some example queries tailored to meet your requirements:
+
+1. Query: "Can you give me a brief overview of the plot for the action movie released between 1970 and 2010 with a great teaser trailer?"
+   Named Entities: [action movie (Genre), 1970-2010 (Year), great teaser trailer (Trailer)]
+
+2. Query: "What film from the 2000s has a thrilling plot and a really cool teaser?"
+   Named Entities: [thrilling plot (Plot), 2000s (Year), really cool teaser (Trailer)]
+
+3. Query: "I'm looking for a mystery movie with an intriguing plot released between 1970 and 2010, and could you show me a teaser for it?"
+   Named Entities: [mystery movie (Genre), 1970-2010 (Year), intriguing plot (Plot), teaser (Trailer)]

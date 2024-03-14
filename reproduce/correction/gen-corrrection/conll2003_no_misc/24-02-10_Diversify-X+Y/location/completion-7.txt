@@ -1,0 +1,8 @@
+1. Text Span: "Greenfield Hospital"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "downtown"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Europe"
+Label: (A). The span is a named entity of type location

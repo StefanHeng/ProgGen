@@ -1,0 +1,8 @@
+Query: "Can you recommend any Korean restaurants with weekend buffet timings?"
+Named Entities: [Korean (Cuisine), Weekend buffet timings (Hours)]
+
+Query: "I'm looking for a place with a weekend buffet serving Korean food, can you help?"
+Named Entities: [Weekend buffet (Amenity), Korean food (Cuisine)]
+
+Query: "Where can I find a Korean restaurant offering weekend buffet options?"
+Named Entities: [Korean (Cuisine), weekend buffet options (Amenity)]

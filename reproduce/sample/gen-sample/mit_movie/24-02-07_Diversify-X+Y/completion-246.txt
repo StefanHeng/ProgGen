@@ -1,0 +1,8 @@
+1. "Can you find me a film preview for a recent movie with a PG-13 rating?"
+   Named Entities: [film preview (Trailer), PG-13 (MPAA Rating)]
+
+2. "I'm looking for a movie teaser that features the song 'The Time of My Life' - do you have any recommendations?"
+   Named Entities: ['The Time of My Life' (Song)]
+
+3. "Is there a movie about corporate espionage that has an intriguing trailer?"
+   Named Entities: [Corporate Espionage (Plot), trailer (Trailer)]

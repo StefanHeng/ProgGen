@@ -1,0 +1,8 @@
+1. Text Span: "waterfront"
+Label: (C). The span is a named entity but the category is not location. Entity Type: Amenity
+
+2. Text Span: "view of the sea"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "nearest place"
+Label: (B). Wrong Boundary. The correct span boundary is "nearest place open past 10pm".

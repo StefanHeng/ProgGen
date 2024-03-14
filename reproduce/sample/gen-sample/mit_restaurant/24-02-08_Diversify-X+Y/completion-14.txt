@@ -1,0 +1,8 @@
+Query: "I'm craving a quirky and eccentric breakfast spot, maybe with a good granola bowl"
+Named Entities: [quirky and eccentric (Amenity), granola bowl (Dish)]
+
+Query: "recommend a restaurant with a unique atmosphere where I can enjoy a tasty granola bowl for breakfast"
+Named Entities: [unique atmosphere (Amenity), granola bowl (Dish), breakfast (Hours)]
+
+Query: "I need to find a breakfast place with a fun vibe and a delicious granola bowl"
+Named Entities: [fun vibe (Amenity), granola bowl (Dish), breakfast (Hours)]

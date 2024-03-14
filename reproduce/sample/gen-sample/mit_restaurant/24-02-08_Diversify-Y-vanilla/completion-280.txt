@@ -1,0 +1,8 @@
+1. Query: "Where can I dine on a budget and get some delicious miso soup?"
+   Named Entities: [Dine on a budget (Amenity), miso soup (Dish)]
+
+2. Query: "Can you recommend a restaurant with a great happy hour menu?"
+   Named Entities: [great (Rating), happy hour (Amenity)]
+
+3. Query: "I'm craving some authentic Japanese cuisine, can you find me a place nearby?"
+   Named Entities: [authentic (Rating), Japanese cuisine (Cuisine), nearby (Location)]

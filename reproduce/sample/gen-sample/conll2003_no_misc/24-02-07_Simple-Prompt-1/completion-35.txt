@@ -1,0 +1,149 @@
+1. NASA announces new mission to study Europa's ocean.
+Named Entities: [NASA (organization), Europa (location)]
+
+2. President Biden signs executive order on climate change.
+Named Entities: [President Biden (person)]
+
+3. Apple to release new iPhone model next month.
+Named Entities: [Apple (organization)]
+
+4. Former President Obama endorses candidate for Senate race.
+Named Entities: [Former President Obama (person)]
+
+5. Wildfire in California destroys thousands of acres.
+Named Entities: [California (location)]
+
+6. WHO issues new guidelines for COVID-19 prevention.
+Named Entities: [WHO (organization)]
+
+7. CEO of Amazon steps down from position.
+Named Entities: [Amazon (organization)]
+
+8. New study finds link between air pollution and respiratory illnesses.
+Named Entities: []
+
+9. SpaceX launches new satellites into orbit.
+Named Entities: [SpaceX (organization)]
+
+10. United Nations to hold emergency meeting on humanitarian crisis in Yemen.
+Named Entities: [United Nations (organization), Yemen (location)]
+
+11. High school student awarded scholarship for academic achievement.
+Named Entities: []
+
+12. Supreme Court justice announces retirement.
+Named Entities: [Supreme Court (organization)]
+
+13. Tornado causes widespread damage in Texas.
+Named Entities: [Texas (location)]
+
+14. International Red Cross delivers aid to refugees in Ukraine.
+Named Entities: [International Red Cross (organization), Ukraine (location)]
+
+15. Chinese president visits European leaders.
+Named Entities: [Chinese president (person), European (location)]
+
+16. New research from Harvard University identifies potential treatment for Alzheimer's disease.
+Named Entities: [Harvard University (organization), Alzheimer's (organization)]
+
+17. Police arrest suspect in connection with bank robbery.
+Named Entities: []
+
+18. African Union condemns human rights abuses in South Sudan.
+Named Entities: [African Union (organization), South Sudan (location)]
+
+19. Famous actor to star in upcoming movie.
+Named Entities: []
+
+20. Twitter bans accounts spreading misinformation about COVID-19 vaccines.
+Named Entities: [Twitter (organization)]
+
+21. Canadian Prime Minister promises new initiatives for climate change.
+Named Entities: [Canadian Prime Minister (person)]
+
+22. US Treasury Department to provide aid to small businesses affected by pandemic.
+Named Entities: [US Treasury Department (organization)]
+
+23. United Airlines to add new routes to Europe.
+Named Entities: [United Airlines (organization), Europe (location)]
+
+24. New York City Mayor announces plan to improve public transportation.
+Named Entities: [New York City (location), Mayor (person)]
+
+25. Doctor warns of potential outbreak of rare virus in Africa.
+Named Entities: [Africa (location)]
+
+26. Ford Motor Company recalls thousands of vehicles for safety issues.
+Named Entities: [Ford Motor Company (organization)]
+
+27. Japanese scientist wins Nobel Prize for groundbreaking research.
+Named Entities: [Japanese scientist (person)]
+
+28. UNICEF launches campaign to provide clean water to communities in need.
+Named Entities: [UNICEF (organization)]
+
+29. Amazon founder and CEO becomes world's richest person.
+Named Entities: [Amazon (organization)]
+
+30. Italian government introduces new measures to combat organized crime.
+Named Entities: [Italian government (organization)]
+
+31. Firefighters battle massive blaze in Australia.
+Named Entities: [Australia (location)]
+
+32. Olympic Games to be held in Paris in 2024.
+Named Entities: [Paris (location)]
+
+33. California governor signs bill to address homelessness crisis.
+Named Entities: [California governor (person)]
+
+34. Researchers develop promising vaccine for Malaria.
+Named Entities: []
+
+35. Bank of America to expand investment in renewable energy projects.
+Named Entities: [Bank of America (organization)]
+
+36. Russian president meets with leaders from Middle East countries.
+Named Entities: [Russian president (person), Middle East (location)]
+
+37. Royal Caribbean Cruises announces new ship for luxury travel.
+Named Entities: [Royal Caribbean Cruises (organization)]
+
+38. University of Oxford study shows potential link between diet and mental health.
+Named Entities: [University of Oxford (organization)]
+
+39. Apple CEO unveils new product at tech conference.
+Named Entities: [Apple (organization), CEO (person)]
+
+40. New round of peace talks to begin in Middle East conflict.
+Named Entities: [Middle East (location)]
+
+41. British actress wins award for performance in new film.
+Named Entities: [British actress (person)]
+
+42. Volkswagen to invest billions in electric vehicle production.
+Named Entities: [Volkswagen (organization)]
+
+43. Turkish government announces plans for infrastructure improvements.
+Named Entities: [Turkish government (organization)]
+
+44. Australian Open tennis tournament to allow limited spectators.
+Named Entities: [Australian Open (organization)]
+
+45. Former CEO of Google to testify before Congress.
+Named Entities: [CEO of Google (person), Congress (organization)]
+
+46. Solar storm could disrupt communication systems, warns scientist.
+Named Entities: []
+
+47. Yelp to add new features for restaurant reviews.
+Named Entities: [Yelp (organization)]
+
+48. Philippines president signs law to combat online child exploitation.
+Named Entities: [Philippines president (person)]
+
+49. New study finds correlation between social media use and depression.
+Named Entities: []
+
+50. IMF forecasts global economic growth in the upcoming year.
+Named Entities: [IMF (organization)]

@@ -1,0 +1,8 @@
+1. "Can you suggest a café with delivery options nearby?"
+Named Entities: [café (Cuisine), delivery (Amenity), nearby (Location)]
+
+2. "I'm looking for a café with brunch menu for this weekend"
+Named Entities: [café (Cuisine), brunch (Amenity), weekend (Hours)]
+
+3. "Which café in the area has a good rating and offers delivery service?"
+Named Entities: [café (Cuisine), good rating (Rating), delivery (Amenity), area (Location)]

@@ -1,0 +1,8 @@
+Query: "I'm craving some fondue, where can I find The Melting Pot"
+Named Entities: [The Melting Pot (Restaurant Name)]
+
+Query: "what's the price range at The Melting Pot?"
+Named Entities: [The Melting Pot (Restaurant Name), price range (Price)]
+
+Query: "can I make a reservation at The Melting Pot for tomorrow night?"
+Named Entities: [The Melting Pot (Restaurant Name), tomorrow night (Hours)]

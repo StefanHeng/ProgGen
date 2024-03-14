@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie about an undercover cop?"
+Named Entities: [Undercover cop (Character)]
+
+Query: "What year did the movie Bohemian Rhapsody come out?"
+Named Entities: [Bohemian Rhapsody (Title)]
+
+Query: "I'm looking for a movie that was a pleasant surprise."
+Named Entities: [Pleasant surprise (Review)]

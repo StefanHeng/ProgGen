@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any classic romance movies from the 1950s?"
+Named Entities: [classic romance (Genre), 1950s (Year)]
+
+2. Query: "I'm in the mood for a lighthearted comedy set in the 1920s. Any suggestions?"
+Named Entities: [lighthearted comedy (Genre), 1920s (Year)]
+
+3. Query: "What type of films fall under the crime genre, particularly those involving heists or capers?"
+Named Entities: [crime (Genre)]

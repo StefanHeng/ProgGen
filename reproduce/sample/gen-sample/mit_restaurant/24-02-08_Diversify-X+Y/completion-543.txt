@@ -1,0 +1,8 @@
+Query: "Can you suggest an affordable late night restaurant with a lounge/bar ambience?"
+Named Entities: [affordable late night restaurant (Price), lounge/bar (Amenity)]
+
+Query: "I'm looking for a late night dining option that is affordable and has a lounge/bar atmosphere"
+Named Entities: [late night dining (Hours), affordable (Price), lounge/bar (Amenity)]
+
+Query: "Where can I find an affordable late night restaurant with a lounge/bar vibe?"
+Named Entities: [affordable late night restaurant (Price), lounge/bar (Amenity)]

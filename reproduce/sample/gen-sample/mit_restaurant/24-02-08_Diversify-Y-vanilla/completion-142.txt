@@ -1,0 +1,8 @@
+1. "What is the price range at Potbelly Sandwich Shop in this area?"
+Named Entities: [Potbelly Sandwich Shop (Restaurant Name), price range (Price), this area (Location)]
+
+2. "Do you know any Mexican restaurants with a good outdoor seating area?"
+Named Entities: [Mexican (Cuisine), outdoor seating area (Amenity)]
+
+3. "Can you recommend a dish I should try at Potbelly Sandwich Shop?"
+Named Entities: [Potbelly Sandwich Shop (Restaurant Name), dish (Dish)]

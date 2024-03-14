@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some fast food, can you recommend a place like Burger King or Chipotle?"
+Named Entities: [fast food (Cuisine), Burger King (Restaurant Name), Chipotle (Restaurant Name)]
+
+Query: "I need a restaurant with a good outdoor patio for brunch."
+Named Entities: [good (Rating), outdoor patio (Amenity), brunch (Amenity)]
+
+Query: "Can you find me a restaurant with a 4-star rating and a location near the city center?"
+Named Entities: [4-star (Rating), city center (Location)]

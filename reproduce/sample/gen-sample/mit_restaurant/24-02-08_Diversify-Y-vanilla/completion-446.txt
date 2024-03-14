@@ -1,0 +1,8 @@
+1. "Where can I find a highly praised restaurant that serves Nasi goreng?"
+Named Entities: [highly praised (Rating), Nasi goreng (Dish)]
+
+2. "I'm looking for a restaurant with a great ambiance and good Nasi goreng."
+Named Entities: [great ambiance (Amenity), Nasi goreng (Dish)]
+
+3. "Can you recommend a Nasi goreng place with affordable prices nearby?"
+Named Entities: [affordable prices (Price), Nasi goreng (Dish), nearby (Location)]

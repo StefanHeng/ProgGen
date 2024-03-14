@@ -1,0 +1,8 @@
+Query: "show me a restaurant with a good buffet option"
+Named Entities: [good (Rating), buffet (Amenity)]
+
+Query: "where can I find a buffet restaurant with seafood dishes"
+Named Entities: [buffet (Amenity), seafood (Dish)]
+
+Query: "can you recommend a buffet place with affordable prices"
+Named Entities: [buffet (Amenity), affordable (Price)]

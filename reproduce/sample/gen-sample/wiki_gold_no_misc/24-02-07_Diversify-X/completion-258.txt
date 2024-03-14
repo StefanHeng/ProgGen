@@ -1,0 +1,8 @@
+Sentence: "The study of geology at Stanford University encompasses all aspects of the Earth, from the inner core to the outer atmosphere."
+Named Entities: [Stanford University (organization), Earth (location)]
+
+Sentence: "Plate tectonics is the scientific theory that attempts to explain the motions of the Earth's lithosphere, which involves the formation, destruction, and movement of the Earth's crust."
+Named Entities: [Earth (location)]
+
+Sentence: "Geologists use a wide range of tools such as GPS, seismic imaging, and satellite technology to study the Earth's structure and the processes that have shaped the planet over time."
+Named Entities: [Earth (location)]

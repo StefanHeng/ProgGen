@@ -1,0 +1,8 @@
+1. "I'm craving some Three-star Greek food, where can I find a restaurant that serves it?"
+Named Entities: [Three-star (Rating), Greek (Cuisine)]
+
+2. "What time does the Greek restaurant close?"
+Named Entities: [Greek (Cuisine)]
+
+3. "Can you recommend a nearby restaurant with affordable Greek dishes?"
+Named Entities: [affordable (Price), Greek (Cuisine)]

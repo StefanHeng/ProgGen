@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie directed by Tim Burton and starring Brie Larson that is rated R?"
+Named Entities: [Tim Burton (Director), Brie Larson (Actor), R (MPAA Rating)]
+
+Query: "Can you recommend a movie with Brie Larson released in 2017?"
+Named Entities: [Brie Larson (Actor), 2017 (Year)]
+
+Query: "Show me the trailer for the Tim Burton film that Brie Larson starred in"
+Named Entities: [Tim Burton (Director), Brie Larson (Actor)]

@@ -1,0 +1,8 @@
+1. Query: "Can you show me some teaser for a new action movie?"
+   Named Entities: [teaser (Trailer), action movie (Genre)]
+
+2. Query: "What's the latest movie trailer available for viewing?"
+   Named Entities: [latest (Year), movie trailer (Trailer)]
+
+3. Query: "Do you have any sneak peeks of upcoming mystery movies?"
+   Named Entities: [sneak peeks (Trailer), mystery movies (Genre)]

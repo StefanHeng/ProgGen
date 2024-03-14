@@ -1,0 +1,8 @@
+1. "Can you recommend a buffet restaurant with mid-range prices that also has happy hour specials?"
+Named Entities: [buffet (Amenity), mid-range (Price), happy hour (Amenity)]
+
+2. "I'm craving some mid-range buffet options with happy hour deals. Any suggestions?"
+Named Entities: [mid-range (Price), buffet (Amenity), happy hour (Amenity)]
+
+3. "Where can I find a buffet restaurant with happy hour specials and prices that aren't too high?"
+Named Entities: [buffet (Amenity), happy hour (Amenity), prices (Price)]

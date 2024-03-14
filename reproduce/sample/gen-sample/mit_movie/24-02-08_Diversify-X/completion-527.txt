@@ -1,0 +1,8 @@
+Query: "Can you tell me about the awards and nominations received by the film The Shape of Water?"
+Named Entities: [The Shape of Water (Title)]
+
+Query: "Which movie from the 1990s won the most awards?"
+Named Entities: [1990s (Year), most awards (Awards)]
+
+Query: "I heard that the director of Parasite won several awards, can you provide more information?"
+Named Entities: [Parasite (Title), director (Director), several awards (Awards)]

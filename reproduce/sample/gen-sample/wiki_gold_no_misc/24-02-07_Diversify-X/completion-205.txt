@@ -1,0 +1,8 @@
+Sentence: "Space exploration has led to numerous technological advancements in various fields, including telecommunications, weather forecasting, and materials science."
+Named Entities: []
+
+Sentence: "NASA, the European Space Agency, and SpaceX are some of the leading organizations in the field of space exploration."
+Named Entities: [NASA (organization), European Space Agency (organization), SpaceX (organization)]
+
+Sentence: "The International Space Station serves as a research laboratory in low Earth orbit, allowing for scientific experiments to be conducted in a microgravity environment."
+Named Entities: [International Space Station (location)]

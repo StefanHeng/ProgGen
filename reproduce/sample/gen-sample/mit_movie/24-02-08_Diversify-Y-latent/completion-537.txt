@@ -1,0 +1,8 @@
+1. Query: "who directed the movie The Green Mile and what is the viewers' rating"
+   Named Entities: [The Green Mile (Title), viewers' rating (Viewers' Rating)]
+
+2. Query: "can you recommend a movie with the song I Wanna Dance with Somebody"
+   Named Entities: [I Wanna Dance with Somebody (Song)]
+
+3. Query: "are there any masterful films about space exploration"
+   Named Entities: [masterful (Review), space exploration (Genre)]

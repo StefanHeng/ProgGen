@@ -1,0 +1,44 @@
+1. "I'm in the mood for some sushi, where's the best place for that around here?"
+Named Entities: [sushi (Cuisine), best (Rating), around here (Location)]
+
+2. "I want to grab a quick burger and fries, any recommendations?"
+Named Entities: [burger and fries (Dish), quick (Amenity)]
+
+3. "I need a family-friendly restaurant with outdoor seating, can you help?"
+Named Entities: [family-friendly (Amenity), outdoor seating (Amenity)]
+
+4. "What time does the Italian restaurant on Main Street close tonight?"
+Named Entities: [Italian restaurant (Cuisine), Main Street (Location), tonight (Hours)]
+
+5. "I want to splurge on a fancy dinner, any upscale options in the area?"
+Named Entities: [fancy (Rating), upscale (Rating), in the area (Location)]
+
+6. "I'm craving some authentic Mexican food, where's the best spot for that?"
+Named Entities: [authentic (Rating), Mexican food (Cuisine), best (Rating)]
+
+7. "Do you know if the Greek restaurant accepts reservations?"
+Named Entities: [Greek restaurant (Cuisine), reservations (Amenity)]
+
+8. "I'm looking for a cheap place to eat, preferably with vegetarian options"
+Named Entities: [cheap (Price), vegetarian options (Cuisine)]
+
+9. "What's a good place for brunch on Sunday in the downtown area?"
+Named Entities: [brunch (Amenity), Sunday (Hours), downtown area (Location)]
+
+10. "I want to have a romantic dinner with my partner, any recommendations?"
+Named Entities: [romantic (Rating), partner (Amenity)]
+
+11. "Is there a 24-hour diner nearby?"
+Named Entities: [24-hour (Hours), diner (Amenity), nearby (Location)]
+
+12. "I need a coffee shop with free Wi-Fi to work on my laptop for a few hours"
+Named Entities: [coffee shop (Amenity), free Wi-Fi (Amenity), laptop (Amenity), a few hours (Hours)]
+
+13. "Where's the nearest Chinese takeout place?"
+Named Entities: [Chinese (Cuisine), nearest (Location), takeout (Amenity)]
+
+14. "I want to find a place for some late-night dessert, any suggestions?"
+Named Entities: [late-night (Hours), dessert (Dish)]
+
+15. "Is there a good steakhouse in the vicinity?"
+Named Entities: [good (Rating), steakhouse (Cuisine), vicinity (Location)]

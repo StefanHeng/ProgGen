@@ -1,0 +1,11 @@
+1. Query: "Where can I get a {{quick and cheap}} lunch downtown?"
+Text Span: "quick and cheap"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Query: "What's the {{price range}} for the steakhouse downtown"
+Text Span: "price range"
+Label: (D). Not a Named Entity.
+
+3. Query: "How much does the {{average meal cost}} at Olive Garden"
+Text Span: "average meal cost"
+Label: (D). Not a Named Entity.

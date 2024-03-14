@@ -1,0 +1,8 @@
+1. Query: "Can you play a movie with the song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+2. Query: "I'm in the mood for a movie with a great soundtrack. Can you recommend one?"
+Named Entities: [great soundtrack (Review)]
+
+3. Query: "Is there a film with a memorable original song that I can watch?"
+Named Entities: [memorable original song (Song)]

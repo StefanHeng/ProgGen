@@ -1,0 +1,8 @@
+1. "Can you recommend a revenge movie with powerful emotions that came out in the 1980s?"
+   Named Entities: [revenge (Plot), powerful emotions (Review), 1980s (Year)]
+
+2. "Show me an extended preview of the new action movie with a disappointing viewers' rating"
+   Named Entities: [extended preview (Trailer), disappointing (Review)]
+
+3. "What director is known for creating movies with intense trailer excerpts?"
+   Named Entities: [intense trailer excerpts (Trailer), director (Director)]

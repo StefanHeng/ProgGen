@@ -1,0 +1,11 @@
+1. Sentence: 'Marie Antoinette, the last Queen of {{France}} before the French Revolution, is often associated with the phrase "Let them eat cake," although there is no historical evidence that she actually said this.'
+Text Span: "France"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "He served as Prime Minister of the {{United Kingdom}} from 1940 to 1945 and again from 1951 to 1955."
+Text Span: "United Kingdom"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The company Vivo is headquartered in {{São Paulo}}, Brazil and operates in 20 countries across Asia, Africa, Europe, and the Americas."
+Text Span: "São Paulo"
+Label: (A). The span is a named entity of type location

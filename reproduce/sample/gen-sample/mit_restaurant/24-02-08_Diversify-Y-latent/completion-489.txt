@@ -1,0 +1,8 @@
+1. "I'm craving some Chicken tikka masala. Where can I find a good Indian restaurant nearby?"
+Named Entities: [Chicken tikka masala (Dish), Indian (Cuisine), nearby (Location)]
+
+2. "Do you know any restaurants that serve Coq au Vin? I'm in the mood for some French cuisine."
+Named Entities: [Coq au Vin (Dish), French (Cuisine)]
+
+3. "I want to have a meal for a reasonable price. Can you recommend a restaurant with good ratings and affordable dishes?"
+Named Entities: [reasonable price (Price), good ratings (Rating)]

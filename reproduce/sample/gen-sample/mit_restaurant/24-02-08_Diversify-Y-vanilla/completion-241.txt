@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant that offers cut-price meals for lunch"
+Named Entities: [cut-price (Price), lunch (Amenity)]
+
+Query: "Can you recommend a cut-price Mexican cuisine spot with high ratings?"
+Named Entities: [cut-price (Price), Mexican cuisine (Cuisine), high ratings (Rating)]
+
+Query: "Where can I find a cut-price buffet with a wide selection of dishes?"
+Named Entities: [cut-price (Price), buffet (Amenity), wide selection of dishes (Dish)]

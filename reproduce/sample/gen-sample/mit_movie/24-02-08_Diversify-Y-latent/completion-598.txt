@@ -1,0 +1,8 @@
+Query: "Is there a movie adaptation of Tarzan with the song 'You're the One That'?"
+Named Entities: [Tarzan (Title), 'You're the One That' (Song)]
+
+Query: "Can I watch a movie snippet of The Sound of Silence?"
+Named Entities: [movie snippet (Trailer), The Sound of Silence (Title)]
+
+Query: "Are there any screenings of historical films in the local theater?"
+Named Entities: [historical (Genre), screenings (Viewers' Rating)]

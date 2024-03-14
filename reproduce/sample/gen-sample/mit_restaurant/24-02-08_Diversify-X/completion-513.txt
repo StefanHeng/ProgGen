@@ -1,0 +1,8 @@
+Query: "do you know any Italian restaurants with outdoor seating"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "what are the top-rated seafood places nearby"
+Named Entities: [seafood (Cuisine), top-rated (Rating)]
+
+Query: "which restaurant serves good steak for a reasonable price"
+Named Entities: [steak (Dish), reasonable price (Price)]

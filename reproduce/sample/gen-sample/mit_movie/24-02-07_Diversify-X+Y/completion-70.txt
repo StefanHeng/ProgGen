@@ -1,0 +1,8 @@
+1. "Hey, can you tell me if there are any showtimes for a well-paced and tightly edited movie from 1962?"
+Named Entities: [1962 (Year), Well-paced and tightly edited (Review)]
+
+2. "I'm looking to see a movie directed by George Miller, any recommendations?"
+Named Entities: [George Miller (Director)]
+
+3. "Is there a theater showing Harry Potter and the Sorcerer's Stone at U-rated movies with average ratings?"
+Named Entities: [Harry Potter and the Sorcerer's Stone (Title), U (MPAA Rating), Average (Viewers' Rating)]

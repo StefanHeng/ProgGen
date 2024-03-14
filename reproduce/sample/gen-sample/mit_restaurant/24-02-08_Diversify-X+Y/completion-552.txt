@@ -1,0 +1,8 @@
+Query: "I'm looking for a lunch spot with good steaks, where is the closest LongHorn Steakhouse"
+Named Entities: [lunch (Amenity), steaks (Dish), LongHorn Steakhouse (Restaurant Name), closest (Location)]
+
+Query: "what are the lunch hours for LongHorn Steakhouse"
+Named Entities: [lunch (Amenity), hours (Hours), LongHorn Steakhouse (Restaurant Name)]
+
+Query: "I want to have a nice lunch with a friend, can you recommend any LongHorn Steakhouse with high ratings"
+Named Entities: [lunch (Amenity), friend (Amenity), nice (Rating), LongHorn Steakhouse (Restaurant Name), high ratings (Rating)]

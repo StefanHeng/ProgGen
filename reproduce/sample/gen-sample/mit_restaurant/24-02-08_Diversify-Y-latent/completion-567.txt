@@ -1,0 +1,8 @@
+Query: "I'm looking for a pricy and luxurious restaurant with a fruit display"
+Named Entities: [pricy (Price), luxurious (Amenity), fruit display (Amenity)]
+
+Query: "Can you recommend a place with a good stir fry dish that's not overpriced"
+Named Entities: [good (Rating), stir fry (Dish), not overpriced (Price)]
+
+Query: "Where can I find a restaurant with a affordable price and a high rating"
+Named Entities: [affordable price (Price), high rating (Rating)]

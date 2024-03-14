@@ -1,0 +1,8 @@
+Query: "Can you recommend an open restaurant with a five-star rating?"
+Named Entities: [Open (Hours), five-star rating (Rating)]
+
+Query: "I'm craving Italian cuisine, can you find me a restaurant that's open now?"
+Named Entities: [Italian (Cuisine), open now (Hours)]
+
+Query: "Where can I find the closest restaurant with affordable prices?"
+Named Entities: [closest (Location), affordable prices (Price)]

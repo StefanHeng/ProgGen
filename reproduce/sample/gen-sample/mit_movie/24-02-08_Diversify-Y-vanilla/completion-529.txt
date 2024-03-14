@@ -1,0 +1,8 @@
+Query: "Can you recommend a comedy movie with GP and Owen Wilson?"
+Named Entities: [comedy (Genre), GP (Actor), Owen Wilson (Actor)]
+
+Query: "What is the plot of the newest movie starring Owen Wilson?"
+Named Entities: [newest movie (Title), Owen Wilson (Actor)]
+
+Query: "Show me the trailer for a movie directed by GP and released in 2019"
+Named Entities: [movie (Title), GP (Director), 2019 (Year)]

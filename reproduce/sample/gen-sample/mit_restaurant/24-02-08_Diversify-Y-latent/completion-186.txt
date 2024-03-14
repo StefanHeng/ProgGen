@@ -1,0 +1,8 @@
+1. "Can you recommend a good burger joint with outdoor seating?"
+Named Entities: [good (Rating), burger (Dish), outdoor seating (Amenity)]
+
+2. "What are the hours for the Italian restaurant that serves gourmet burgers?"
+Named Entities: [Italian (Cuisine), gourmet burgers (Dish), hours (Hours)]
+
+3. "I'm looking for a budget-friendly spot for burgers in the downtown area."
+Named Entities: [budget-friendly (Price), burgers (Dish), downtown area (Location)]

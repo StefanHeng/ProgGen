@@ -1,0 +1,11 @@
+1. Sentence: "The {{Pentagon}} is located in Arlington, Virginia."
+Text Span: "Pentagon"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The location {{Bra}}, Italy, is where the Slow Food International movement was born, as a response to the opening of a McDonald's in the historic center."
+Text Span: "Bra"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{The Galápagos Islands}}, located in the Pacific Ocean, are a province of Ecuador and a popular tourist destination for its unique wildlife and natural beauty."
+Text Span: "The Galápagos Islands"
+Label: (A). The span is a named entity of type location

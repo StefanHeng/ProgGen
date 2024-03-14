@@ -1,0 +1,8 @@
+1. "I'm craving Ukrainian cuisine tonight, can you recommend any nearby restaurants?"
+Named Entities: [Ukrainian (Cuisine), nearby (Location)]
+
+2. "Do you know any Northern food places that are open late?"
+Named Entities: [Northern (Cuisine), open late (Hours)]
+
+3. "I want to try a new dish, can you suggest a place that serves Northern seafood?"
+Named Entities: [Northern (Cuisine), seafood (Dish)]

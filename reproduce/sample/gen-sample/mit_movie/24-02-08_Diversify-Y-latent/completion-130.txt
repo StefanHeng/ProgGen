@@ -1,0 +1,8 @@
+1. Query: "Can you suggest an average 1980s action movie with a cult following?"
+Named Entities: [average (Viewers' Rating), 1980s (Year), action (Genre), cult (Viewers' Rating)]
+
+2. Query: "What is the official theatrical trailer for the Captain America film featuring Dev Patel as the main character?"
+Named Entities: [official theatrical trailer (Trailer), Captain America (Title), Dev Patel (Actor)]
+
+3. Query: "Which movie genre is best suited for a character like Dev Patel in a historical film?"
+Named Entities: [historical (Genre), Dev Patel (Actor)]

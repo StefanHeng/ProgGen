@@ -1,0 +1,8 @@
+Query: "I'm looking for a fancy restaurant with a farm-to-table menu in the countryside"
+Named Entities: [fancy (Price), farm-to-table (Amenity), countryside (Location)]
+
+Query: "Can you recommend a place with a good selection of vegan dishes within walking distance?"
+Named Entities: [vegan (Cuisine), walking distance (Amenity)]
+
+Query: "What are the opening hours for Blue Hill at Stone Barns?"
+Named Entities: [Blue Hill at Stone Barns (Restaurant Name), opening hours (Hours)]

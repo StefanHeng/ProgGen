@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with good brunch hours?"
+Named Entities: [café (Cuisine), brunch hours (Amenity)]
+
+Query: "What's the best café for brunch hours in the downtown area?"
+Named Entities: [best (Rating), café (Cuisine), brunch hours (Amenity), downtown area (Location)]
+
+Query: "I'm looking for a café with a relaxed atmosphere and great brunch hours."
+Named Entities: [relaxed atmosphere (Amenity), café (Cuisine), brunch hours (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend me a Palme d'Or winner that was released in the 90s?"
+Named Entities: [Palme d'Or winner (Review), 90s (Year)]
+
+2. "Show me a trailer for a movie that premiered at the Sundance Film Festival"
+Named Entities: [Sundance Film Festival (Title), Trailer]
+
+3. "Who directed the science fiction film that won the Viewers' Rating award last year?"
+Named Entities: [science fiction (Genre), Viewers' Rating (Review), last year (Year)]

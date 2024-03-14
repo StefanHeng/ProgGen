@@ -1,0 +1,11 @@
+1. Sentence: "{{Baikonur Cosmodrome}} is the world's first and largest operational space launch facility."
+Text Span: "Baikonur Cosmodrome"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Farm Aid is an annual benefit concert organized by Willie Nelson, John Mellencamp, and Neil Young to raise funds for family farmers in the {{United States}}."
+Text Span: "United States"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "LVMH Moët Hennessy Louis Vuitton SE is a multinational luxury goods conglomerate headquartered in {{Paris}}, France."
+Text Span: "Paris"
+Label: (A). The span is a named entity of type location

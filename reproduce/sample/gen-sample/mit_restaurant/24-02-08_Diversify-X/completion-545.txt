@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with seafood options?"
+Named Entities: [buffet (Amenity), seafood (Dish)]
+
+Query: "What are the hours of the nearest Indian buffet restaurant?"
+Named Entities: [Indian (Cuisine), buffet (Amenity), hours (Hours)]
+
+Query: "I'm looking for a buffet restaurant with a high rating. Where can I find one?"
+Named Entities: [buffet (Amenity), high rating (Rating)]

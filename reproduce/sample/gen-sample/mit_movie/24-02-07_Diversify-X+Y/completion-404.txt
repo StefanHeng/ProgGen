@@ -1,0 +1,8 @@
+1. Query: "Can I watch any Judd Apatow movies on any streaming platforms right now?"
+Named Entities: [Judd Apatow (Director)]
+
+2. Query: "Are there any Liam Neeson films available on streaming platforms with outstanding reviews?"
+Named Entities: [Liam Neeson (Actor), outstanding reviews (Review)]
+
+3. Query: "Is there a TV-MA movie directed by Judd Apatow that I can watch?"
+Named Entities: [Judd Apatow (Director), TV-MA (MPAA Rating)]

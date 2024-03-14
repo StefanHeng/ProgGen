@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an intense plot, like Joker?"
+Named Entities: [intense (Plot), Joker (Title)]
+
+2. "What year was the Joker movie released, and who directed it?"
+Named Entities: [Joker (Title), released (Year), directed (Director)]
+
+3. "Show me a list of movies similar to Joker in terms of viewers' rating and genre."
+Named Entities: [Joker (Title), similar (Genre), viewers' rating (Viewers' Rating)]

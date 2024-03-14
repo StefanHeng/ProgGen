@@ -1,0 +1,8 @@
+1. "What movie features the song Another Brick in the Wall and has terrible reviews?"
+Named Entities: [Another Brick in the Wall (Song), terrible reviews (Review)]
+
+2. "Show me the trailer for a film approved by the MPAA starring Ryan Gosling and Rosamund Pike."
+Named Entities: [approved (MPAA Rating), Ryan Gosling (Actor), Rosamund Pike (Actor), trailer (Trailer)]
+
+3. "In which movie did Denzel Washington portray a character experiencing a loss of memory, similar to Goodfellas?"
+Named Entities: [Denzel Washington (Actor), loss of memory (Plot), Goodfellas (Title)]

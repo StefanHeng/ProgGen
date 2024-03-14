@@ -1,0 +1,8 @@
+Query: "I'm craving some chili cheese fries, where can I find the best ones in town?"
+Named Entities: [chili cheese fries (Dish)]
+
+Query: "I need to satisfy my doner kebab craving, where's the closest place that serves it?"
+Named Entities: [doner kebab (Dish)]
+
+Query: "I want to take my friends out for dinner without breaking the bank, find us a place that offers good food for a reasonable price"
+Named Entities: [reasonable price (Price)]

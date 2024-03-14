@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a psychological thriller from 1976 that is considered unique?"
+   Named Entities: [psychological (Genre), 1976 (Year), unique (Viewers' Rating)]
+
+2. Query: "What movie features the song 'Don't You (Forget About Me)' and is set in a cyberpunk dystopia?"
+   Named Entities: ['Don't You (Forget About Me)' (Song), cyberpunk dystopia (Plot)]
+
+3. Query: "Who directed the film with the title 'Unique' and a PG-13 rating?"
+   Named Entities: [Unique (Title), PG-13 (MPAA Rating)]

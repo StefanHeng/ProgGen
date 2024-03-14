@@ -1,0 +1,8 @@
+Query: "Can you recommend a fast food restaurant with halal options nearby?"
+Named Entities: [fast food (Cuisine), halal (Amenity), nearby (Location)]
+
+Query: "What are the hours of operation for halal fast food restaurants in this area?"
+Named Entities: [halal (Amenity), fast food (Cuisine), hours (Hours), this area (Location)]
+
+Query: "I'm looking for a fast food joint with halal options and good reviews."
+Named Entities: [fast food (Cuisine), halal (Amenity), good reviews (Rating)]

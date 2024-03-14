@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from the 1970s with Robert Downey Jr. in it?"
+Named Entities: [1970s (Year), Robert Downey Jr. (Actor)]
+
+2. "Show me a trailer of a remarkable dance film set in the future, around 2025."
+Named Entities: [remarkable (Viewers' Rating), dance (Genre), 2025 (Year)]
+
+3. "What movie from the 80s is known for its remarkable use of special effects?"
+Named Entities: [remarkable (Viewers' Rating), 80s (Year)]

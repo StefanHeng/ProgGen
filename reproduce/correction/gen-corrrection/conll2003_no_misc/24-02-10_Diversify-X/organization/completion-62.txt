@@ -1,0 +1,11 @@
+1. Sentence: "Archaeologists uncover ancient {{Mayan}} ruins in Guatemala."
+Text Span: "Mayan"
+Label: (C), location
+
+2. Sentence: "The {{United Nations}} reports a significant increase in child labor in developing countries."
+Text Span: "United Nations"
+Label: (A)
+
+3. Sentence: "After years of lobbying, the {{local community}} finally secures funding to renovate the run-down public housing project."
+Text Span: "local community"
+Label: (C), other

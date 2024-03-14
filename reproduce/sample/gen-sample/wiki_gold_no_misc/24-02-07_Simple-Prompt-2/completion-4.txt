@@ -1,0 +1,59 @@
+1. The University of California, Berkeley, is a public research university in Berkeley, California.
+Named Entities: [University of California, Berkeley (organization), Berkeley, California (location)]
+
+2. The novelist Jane Austen is known for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century.
+Named Entities: [Jane Austen (person), 18th century (location)]
+
+3. The Food and Drug Administration is responsible for protecting and promoting public health through the control and supervision of food safety, tobacco products, dietary supplements, prescription and over-the-counter pharmaceutical drugs, vaccines, biopharmaceuticals, blood transfusions, medical devices, electromagnetic radiation emitting devices, cosmetics, animal foods and feed and veterinary products.
+Named Entities: [Food and Drug Administration (organization)]
+
+4. He won the Grammy Award for Best Large Jazz Ensemble Album in 2013 for his album, ¡Bien Bien!
+Named Entities: [Grammy Award (organization)]
+
+5. The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland, Australia (location)]
+
+6. Emily Dickinson is one of the most famous poets in American literature.
+Named Entities: [Emily Dickinson (person), American (location)]
+
+7. The International Monetary Fund plays a crucial role in the management of balance of payments difficulties and international financial crisis.
+Named Entities: [International Monetary Fund (organization)]
+
+8. The author Agatha Christie is known for her famous detective fiction, featuring Hercule Poirot and Miss Marple.
+Named Entities: [Agatha Christie (person), Hercule Poirot (person), Miss Marple (person)]
+
+9. The Crimean War was a military conflict fought from October 1853 to February 1856 in which Russia lost to an alliance of France, Britain, the Ottoman Empire, and Sardinia.
+Named Entities: [Crimean War (location), Russia (location), France (location), Britain (location), Ottoman Empire (location), Sardinia (location)]
+
+10. He served as the Secretary-General of the United Nations from 1953 to 1961.
+Named Entities: [United Nations (organization)]
+
+11. The Apollo program was responsible for landing the first humans on the Moon in 1969.
+Named Entities: [Apollo program (organization)]
+
+12. The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris, France (location)]
+
+13. Haruki Murakami is one of the most influential and acclaimed contemporary Japanese authors.
+Named Entities: [Haruki Murakami (person), Japanese (location)]
+
+14. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+15. The Panama Canal is an artificial waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+Named Entities: [Panama Canal (location), Panama (location), Atlantic Ocean (location), Pacific Ocean (location)]
+
+16. His company, SpaceX, has launched multiple successful missions to the International Space Station.
+Named Entities: [SpaceX (organization), International Space Station (location)]
+
+17. The Mona Lisa is a famous portrait painted by Leonardo da Vinci.
+Named Entities: [Mona Lisa (location), Leonardo da Vinci (person)]
+
+18. The Bill and Melinda Gates Foundation is known for its philanthropic work in education and global health.
+Named Entities: [Bill and Melinda Gates Foundation (organization)]
+
+19. Her novel, To Kill a Mockingbird, is considered a classic of modern American literature.
+Named Entities: [Mockingbird (person), American (location)]
+
+20. The Ganges River is a trans-boundary river of Asia, which flows through the nations of India and Bangladesh.
+Named Entities: [Ganges River (location), Asia (location), India (location), Bangladesh (location)]

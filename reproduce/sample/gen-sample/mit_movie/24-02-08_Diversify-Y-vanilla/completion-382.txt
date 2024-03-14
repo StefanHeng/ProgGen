@@ -1,0 +1,8 @@
+1. "Can you recommend a thriller with solid character development starring Emma Thompson?"
+Named Entities: [thriller (Genre), solid character development (Plot), Emma Thompson (Actor)]
+
+2. "What is the highest viewers' rating for a movie featuring the song 'Livin' on a Prayer'?
+Named Entities: [Livin' on a Prayer (Song), highest viewers' rating (Review)]
+
+3. "Who is the director of the latest thriller film released in 2021?"
+Named Entities: [thriller (Genre), 2021 (Year)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me the hours of operation for Alfred Coffee in downtown?"
+Named Entities: [Alfred Coffee (Restaurant Name), downtown (Location), hours of operation (Hours)]
+
+Query: "I'm craving acai bowls, where can I find the best ones in the area near Alfred Coffee?"
+Named Entities: [acai bowls (Dish), best (Rating), area near Alfred Coffee (Location)]
+
+Query: "Do you know of any Italian restaurants with outdoor seating and a view within walking distance of Alfred Coffee?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), view (Amenity), walking distance (Location), Alfred Coffee (Location)]

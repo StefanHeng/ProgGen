@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant that offers waterfront views around the corner"
+Named Entities: [fine dining (Amenity), waterfront views (Amenity), around the corner (Location)]
+
+Query: "I'm looking for a place with a romantic ambiance for fine dining around the corner"
+Named Entities: [romantic (Amenity), fine dining (Amenity), around the corner (Location)]
+
+Query: "Where can I find a top-rated fine dining restaurant with waterfront views around the corner"
+Named Entities: [top-rated (Rating), fine dining (Amenity), waterfront views (Amenity), around the corner (Location)]

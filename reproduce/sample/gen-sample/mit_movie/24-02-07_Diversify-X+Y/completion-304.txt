@@ -1,0 +1,8 @@
+1. "Hey, can you recommend a movie with the song 'I'm Gonna Love Me Again' by Elton John and Taron Egerton?"
+Named Entities: ['I'm Gonna Love Me Again' (Song)]
+
+2. "What's a surreal family dynamics movie from 1994 that's not rated?"
+Named Entities: [surreal (Genre), family dynamics (Plot), 1994 (Year), not rated (MPAA Rating)]
+
+3. "Is Cardi B in the movie 'School of Rock' or 'Wonder Woman'?"
+Named Entities: [Cardi B (Actor), 'School of Rock' (Title), 'Wonder Woman' (Title)]

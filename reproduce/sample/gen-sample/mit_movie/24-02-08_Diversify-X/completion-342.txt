@@ -1,0 +1,8 @@
+1. Query: "What are the showtimes for the latest Marvel movie?"
+Named Entities: [Marvel movie (Genre)]
+
+2. Query: "Can I buy tickets for the new horror film directed by Jordan Peele?"
+Named Entities: [horror film (Genre), Jordan Peele (Director)]
+
+3. Query: "Is there a romantic comedy playing at the theater this weekend?"
+Named Entities: [romantic comedy (Genre)]

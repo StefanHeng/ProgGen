@@ -1,0 +1,8 @@
+1. "Recommend an Italian restaurant with outdoor seating hours"
+Named Entities: [Italian (Cuisine), outdoor seating hours (Amenity)]
+
+2. "I'm craving some pizza, where can I find a good Italian place nearby"
+Named Entities: [pizza (Dish), Italian (Cuisine), nearby (Location)]
+
+3. "I need a recommendation for a family-friendly Italian restaurant with a good rating"
+Named Entities: [family-friendly (Amenity), Italian (Cuisine), good rating (Rating)]

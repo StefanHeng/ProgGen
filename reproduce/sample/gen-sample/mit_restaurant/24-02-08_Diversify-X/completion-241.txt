@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating for lunch and live music?"
+Named Entities: [outdoor seating (Amenity), lunch (Meal), live music (Amenity)]
+
+2. "I'm looking for a place with a diverse menu for a lunch meeting, preferably with a piano bar."
+Named Entities: [diverse menu (Cuisine), lunch (Meal), piano bar (Amenity)]
+
+3. "Where can I find a dine-in spot with a patio for a lunch date, maybe with a jazz band?"
+Named Entities: [dine-in (Amenity), patio (Amenity), lunch (Meal), jazz band (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "What are some compelling movies directed by Peter Jackson"
+   Named Entities: [compelling (Review), Peter Jackson (Director)]
+
+2. Query: "Can you recommend a film starring Johnny Depp with the song Lose Yourself"
+   Named Entities: [Johnny Depp (Actor), Lose Yourself (Song)]
+
+3. Query: "Is Argo a historical movie directed by Peter Jackson"
+   Named Entities: [Argo (Title), historical (Genre), Peter Jackson (Director)]

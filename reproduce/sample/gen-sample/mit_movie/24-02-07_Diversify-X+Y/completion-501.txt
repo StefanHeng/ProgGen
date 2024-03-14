@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of any satire film released between 2010 and 2020?"
+   Named Entities: [satire (Genre), 2010-2020 (Year)]
+
+2. Query: "What movies with satirical themes came out in the last decade?"
+   Named Entities: [satirical themes (Plot), last decade (Year)]
+
+3. Query: "I'm interested in finding out the synopsis of any satire movie from the past ten years. Can you help with that?"
+   Named Entities: [satire (Genre), past ten years (Year)]

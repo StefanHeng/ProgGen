@@ -1,0 +1,89 @@
+1. What are the top 10 highest grossing movies of all time?
+   Named Entities: [top 10 (Viewers' Rating)]
+
+2. Who directed the film Inception?
+   Named Entities: [Inception (Title)]
+
+3. Can you recommend a good animated movie for children?
+   Named Entities: [animated (Genre)]
+
+4. What is the plot of The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), plot (Plot)]
+
+5. Show me a trailer for the latest James Bond movie.
+   Named Entities: [James Bond (Character), latest (Year), trailer (Trailer)]
+
+6. What is your favorite Quentin Tarantino movie?
+   Named Entities: [Quentin Tarantino (Director)]
+
+7. Is The Matrix movie rated R?
+   Named Entities: [The Matrix (Title), R (MPAA Rating)]
+
+8. What is the viewers' rating for the film Titanic?
+   Named Entities: [Titanic (Title), viewers' rating (Viewers' Rating)]
+
+9. List all the movies that won Best Picture at the Oscars in the 2000s.
+   Named Entities: [Best Picture (Viewers' Rating), Oscars (Title), 2000s (Year)]
+
+10. Who played the character Darth Vader in Star Wars?
+    Named Entities: [Darth Vader (Character), Star Wars (Title)]
+
+11. Can you recommend a good romance movie from the 1980s?
+    Named Entities: [romance (Genre), 1980s (Year)]
+
+12. What is the title of the highest rated movie on Rotten Tomatoes?
+    Named Entities: [highest rated (Viewers' Rating), Rotten Tomatoes (Title)]
+
+13. Tell me about the actor who played Harry Potter in the movie series.
+    Named Entities: [Harry Potter (Character), movie series (Title), actor (Actor)]
+
+14. What is the song that plays during the credits of Guardians of the Galaxy?
+    Named Entities: [Guardians of the Galaxy (Title), credits (Song)]
+
+15. Show me a list of action movies directed by Michael Bay.
+    Named Entities: [action (Genre), Michael Bay (Director)]
+
+16. What is the plot of the film The Godfather?
+    Named Entities: [The Godfather (Title), plot (Plot)]
+
+17. Who is the director of the science fiction film Blade Runner?
+    Named Entities: [science fiction (Genre), Blade Runner (Title), director (Director)]
+
+18. What is the viewers' rating for the movie The Dark Knight?
+    Named Entities: [The Dark Knight (Title), viewers' rating (Viewers' Rating)]
+
+19. List all the movies that Tom Hanks starred in.
+    Named Entities: [Tom Hanks (Actor)]
+
+20. What is the MPAA rating for the movie The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+21. Show me a trailer for the latest Mission Impossible movie.
+    Named Entities: [Mission Impossible (Title), latest (Year), trailer (Trailer)]
+
+22. Who is the actor that played the character Jack Sparrow in Pirates of the Caribbean?
+    Named Entities: [Jack Sparrow (Character), Pirates of the Caribbean (Title), actor (Actor)]
+
+23. What is the viewers' rating for the film Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), viewers' rating (Viewers' Rating)]
+
+24. List all the superhero movies released in the 2010s.
+    Named Entities: [superhero (Genre), 2010s (Year)]
+
+25. Who directed the animated movie Finding Nemo?
+    Named Entities: [animated (Genre), Finding Nemo (Title), director (Director)]
+
+26. What is the plot of the film Jurassic Park?
+    Named Entities: [Jurassic Park (Title), plot (Plot)]
+
+27. What is the MPAA rating for the movie The Terminator?
+    Named Entities: [The Terminator (Title), MPAA rating (MPAA Rating)]
+
+28. Tell me about the actress who played Hermione Granger in the Harry Potter series.
+    Named Entities: [Hermione Granger (Character), Harry Potter series (Title), actress (Actor)]
+
+29. What is the viewers' rating for the movie Schindler's List?
+    Named Entities: [Schindler's List (Title), viewers' rating (Viewers' Rating)]
+
+30. List all the fantasy movies released in the 1990s.
+    Named Entities: [fantasy (Genre), 1990s (Year)]

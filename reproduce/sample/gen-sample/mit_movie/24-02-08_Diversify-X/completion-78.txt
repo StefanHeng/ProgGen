@@ -1,0 +1,8 @@
+1. Query: "Can you tell me who directed the making-of documentary for The Avengers film?"
+Named Entities: [The Avengers (Title), making-of documentary (Plot), Director]
+
+2. Query: "I'm curious, is there a trailer for the new Martin Scorsese movie about organized crime?"
+Named Entities: [trailer (Trailer), Martin Scorsese (Director), organized crime (Plot)]
+
+3. Query: "What's the behind-the-scenes story of the latest Star Wars movie?"
+Named Entities: [behind-the-scenes story (Plot), Star Wars (Title)]

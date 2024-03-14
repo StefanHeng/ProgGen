@@ -1,0 +1,11 @@
+1. Sentence: "{{Germany}}'s Chancellor Merkel addresses economic policy in Berlin."
+Text Span: "Germany"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The {{Sistine Chapel}} ceiling painted by Michelangelo Buonarroti has been restored to its former glory."
+Text Span: "Sistine Chapel"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Sydney {{Opera House}} to host international music festival next month."
+Text Span: "Opera House"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.

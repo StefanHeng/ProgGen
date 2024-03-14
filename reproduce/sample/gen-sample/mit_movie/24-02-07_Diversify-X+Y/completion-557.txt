@@ -1,0 +1,8 @@
+1. "What are the showtimes for the new Mr. Incredible movie?"
+Named Entities: [Mr. Incredible (Title)]
+
+2. "Is there a biography movie about Hugh Jackman playing in theaters?"
+Named Entities: [biography (Genre), Hugh Jackman (Actor)]
+
+3. "Where can I buy tickets for the new movie directed by James Mangold and starring Hugh Jackman?"
+Named Entities: [James Mangold (Director), Hugh Jackman (Actor)]

@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of the plot for the latest Idris Elba movie?"
+   Named Entities: [Idris Elba (Actor)]
+
+2. "What's the synopsis of the movie starring Idris Elba that came out last year?"
+   Named Entities: [Idris Elba (Actor), last year (Year)]
+
+3. "I'm interested in finding out the plot of the new action film featuring Idris Elba. Can you tell me more about it?"
+   Named Entities: [action film (Genre), Idris Elba (Actor)]

@@ -1,0 +1,8 @@
+Query: "Can you show me a teaser for the movie Dreamgirls and also provide some behind-the-scenes location scouting analysis?"
+Named Entities: [Dreamgirls (Title), Teaser (Trailer), Location scouting analysis (Plot)]
+
+Query: "I'm looking for an entertaining movie like Mamma Mia! with some smooth behind-the-scenes details. Can you suggest one?"
+Named Entities: [Mamma Mia! (Title), entertaining (Viewers' Rating), smooth (Review), behind-the-scenes (Plot)]
+
+Query: "Who directed the movie that features the song 'Smooth'? I'm interested in knowing more about the making-of details."
+Named Entities: [Smooth (Song), making-of (Plot)]

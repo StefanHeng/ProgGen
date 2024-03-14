@@ -1,0 +1,8 @@
+1. Text Span: "Pulp Fiction"
+   Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "avengers: endgame"
+   Label: (B). The span contains a named title entity but the span boundary is not precise. Correct span boundary: "Avengers: Endgame"
+
+3. Text Span: "citizen kane"
+   Label: (A). The span is a named entity of type movie title

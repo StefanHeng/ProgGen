@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with impressive stunts, directed by Ridley Scott?"
+Named Entities: [impressive stunts (Plot), Ridley Scott (Director)]
+
+2. Query: "Is Al Pacino in any movies where he plays the character Two-Face?"
+Named Entities: [Al Pacino (Actor), Two-Face (Character)]
+
+3. Query: "I'm looking for a highly recommended crime thriller from the 90s"
+Named Entities: [highly recommended (Viewers' Rating), crime thriller (Genre), the 90s (Year)]

@@ -1,0 +1,8 @@
+1. Text Span: "directed"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "Martin Scorsese"
+Label: (A). Named Entity of type Director
+
+3. Text Span: "directed"
+Label: (D). Not a Named Entity.

@@ -1,0 +1,8 @@
+Query: "Can you recommend a Foodies' Choice spot for some authentic Italian pasta?"
+Named Entities: [Foodies' Choice (Amenity), authentic Italian pasta (Cuisine)]
+
+Query: "I'm looking for a Foodies' Choice restaurant with a 5-star rating and outdoor seating."
+Named Entities: [Foodies' Choice (Amenity), 5-star rating (Rating), outdoor seating (Amenity)]
+
+Query: "What's the closest Foodies' Choice place with a diverse menu and affordable prices?"
+Named Entities: [Foodies' Choice (Amenity), closest (Location), diverse menu (Amenity), affordable prices (Price)]

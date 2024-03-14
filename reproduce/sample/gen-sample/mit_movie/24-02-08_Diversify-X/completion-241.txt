@@ -1,0 +1,8 @@
+Query: "What is the plot of the movie Inception"
+Named Entities: [Inception (Title), plot (Plot)]
+
+Query: "Can you give me a synopsis of the film The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), synopsis (Plot)]
+
+Query: "Tell me about the story of the movie The Godfather"
+Named Entities: [The Godfather (Title), story (Plot)]

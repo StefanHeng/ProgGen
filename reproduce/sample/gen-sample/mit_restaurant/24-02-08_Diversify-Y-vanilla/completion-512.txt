@@ -1,0 +1,8 @@
+1. "I'm craving some seafood. Where is the nearest Eddie V's Prime Seafood?"
+Named Entities: [Eddie V's Prime Seafood (Restaurant Name)]
+
+2. "Can you recommend a restaurant with a diverse menu for vegetarians and vegans?"
+Named Entities: [diverse menu (Amenity), vegetarians and vegans (Cuisine)]
+
+3. "What restaurants in the area are open for late-night dining?"
+Named Entities: [late-night (Hours)]

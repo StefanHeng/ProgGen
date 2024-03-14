@@ -1,0 +1,8 @@
+1. Text Span: "party of six"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "reservation for a party of six".
+
+2. Text Span: "French bistro"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Text Span: "trendy"
+Label: (A). Correct Entity Annotation.

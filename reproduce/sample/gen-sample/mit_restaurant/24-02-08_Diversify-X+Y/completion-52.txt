@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a special discount for an anniversary dinner"
+Named Entities: [fine dining (Amenity), special discount (Amenity), anniversary dinner (Amenity)]
+
+Query: "I'm looking for a high-end restaurant with happy hour specials, do you know any around here"
+Named Entities: [high-end (Price), happy hour specials (Amenity)]
+
+Query: "I need a reservation at a gourmet restaurant that offers early bird specials"
+Named Entities: [gourmet (Cuisine), reservation (Amenity), early bird specials (Amenity)]

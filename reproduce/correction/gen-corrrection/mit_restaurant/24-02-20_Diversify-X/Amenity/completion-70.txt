@@ -1,0 +1,8 @@
+1. Text Span: "dinner"
+Label: (B). The correct span boundary is "nice dinner". The correct entity type is Amenity.
+
+2. Text Span: "trendy spot"
+Label: (A). The correct entity type is Amenity.
+
+3. Text Span: "drive-thru"
+Label: (A). The correct entity type is Amenity.

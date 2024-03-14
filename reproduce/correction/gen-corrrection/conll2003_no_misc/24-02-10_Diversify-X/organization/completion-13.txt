@@ -1,0 +1,11 @@
+1. Sentence: "Traditional {{Japanese}} tea ceremony to be showcased at annual cultural fair in San Francisco."
+Text Span: "Japanese"
+Label: (C), location
+
+2. Sentence: "{{Hurricane Katrina}} makes landfall in Louisiana."
+Text Span: "Hurricane Katrina"
+Label: (A)
+
+3. Sentence: "{{GRAMMY AWARD}} WINNER TAYLOR SWIFT ANNOUNCES NEW ALBUM RELEASE DATE"
+Text Span: "GRAMMY AWARD"
+Label: (A)

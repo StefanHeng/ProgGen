@@ -1,0 +1,8 @@
+Query: "Can you recommend a sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]
+
+Query: "What's a good Italian restaurant with a 5-star rating?"
+Named Entities: [Italian (Cuisine), 5-star (Rating)]
+
+Query: "I'm looking for a Mexican restaurant that's open late tonight."
+Named Entities: [Mexican (Cuisine), open late tonight (Hours)]

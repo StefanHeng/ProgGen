@@ -1,0 +1,8 @@
+1. "Where can I find a food truck serving tacos in the downtown area?"
+Named Entities: [food truck (Amenity), tacos (Dish), downtown area (Location)]
+
+2. "What is the highest rated food truck for burgers in the city?"
+Named Entities: [highest rated (Rating), food truck (Amenity), burgers (Dish), city (Location)]
+
+3. "I'm looking for a food truck that serves vegetarian cuisine near the park."
+Named Entities: [food truck (Amenity), vegetarian (Cuisine), park (Location)

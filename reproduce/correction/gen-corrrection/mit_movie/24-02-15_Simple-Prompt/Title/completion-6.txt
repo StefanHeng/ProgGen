@@ -1,0 +1,11 @@
+1. Query: "Can I watch the trailer for the new {{Spider-Man}} movie"
+Text Span: "Spider-Man"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: "what is the song from the movie {{dirty dancing}}"
+Text Span: "dirty dancing"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: "Show me a trailer for the film {{Avatar}}"
+Text Span: "Avatar"
+Label: (A). The span is a named entity of type movie title

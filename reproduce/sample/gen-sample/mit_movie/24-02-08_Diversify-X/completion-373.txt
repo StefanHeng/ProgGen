@@ -1,0 +1,8 @@
+Query: "What is the name of the movie that features the song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+Query: "Can you provide me with a list of films with scores composed by Hans Zimmer?"
+Named Entities: [Hans Zimmer (Composer)]
+
+Query: "Show me a movie where the main character is a famous DJ"
+Named Entities: [famous DJ (Character)]

@@ -1,0 +1,8 @@
+1. Text Span: "Australian"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Australian Prime Minister".
+
+2. Text Span: "California"
+Label: (A).
+
+3. Text Span: "China"
+Label: (A).

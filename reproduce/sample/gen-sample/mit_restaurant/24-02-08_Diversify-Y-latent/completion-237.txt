@@ -1,0 +1,8 @@
+1. "Do you know any restaurants with great happy hour specials?"
+Named Entities: [great (Rating), happy hour specials (Amenity)]
+
+2. "I'm looking for a costly dining experience, where would you recommend?"
+Named Entities: [costly (Price)]
+
+3. "What restaurants around here offer brunch hours?"
+Named Entities: [brunch hours (Hours)]

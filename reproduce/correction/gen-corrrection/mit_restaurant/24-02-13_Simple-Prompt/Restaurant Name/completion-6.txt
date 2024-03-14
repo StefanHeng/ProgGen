@@ -1,0 +1,11 @@
+1. Query: "Find a {{burger joint}} with a drive-thru."
+Text Span: "burger joint"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Where can I find a good {{taco truck}} in the downtown area?"
+Text Span: "taco truck"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Query: "Where can I find a good dim sum {{restaurant}} in the city?"
+Text Span: "restaurant"
+Label: (D). Not a Named Entity.

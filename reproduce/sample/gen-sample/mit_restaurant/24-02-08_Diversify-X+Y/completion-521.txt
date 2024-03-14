@@ -1,0 +1,8 @@
+Query: "I'm in San Diego and craving some hot dogs, where can I find a food truck for a quick bite?"
+Named Entities: [San Diego (Location), hot dogs (Dish), food truck (Amenity)]
+
+Query: "I'm looking for an intimate food truck in San Diego that serves delicious hot dogs. Any recommendations?"
+Named Entities: [intimate (Amenity), San Diego (Location), hot dogs (Dish), food truck (Amenity)]
+
+Query: "Where can I grab a casual and quick bite from a food truck in San Diego that offers a variety of hot dogs?"
+Named Entities: [casual (Amenity), food truck (Amenity), San Diego (Location), hot dogs (Dish)]

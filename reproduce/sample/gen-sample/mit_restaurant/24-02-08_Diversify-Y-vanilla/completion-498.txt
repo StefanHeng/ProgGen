@@ -1,0 +1,8 @@
+1. "What is the closing time for Legal Sea Foods?"
+Named Entities: [closing time (Hours), Legal Sea Foods (Restaurant Name)]
+
+2. "Do I need to be on a waiting list for La Cucina Italiana?"
+Named Entities: [Waiting list (Amenity), La Cucina Italiana (Restaurant Name)]
+
+3. "I'm in the mood for some seafood. Can you recommend a good place nearby?"
+Named Entities: [seafood (Cuisine)]

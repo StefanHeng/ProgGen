@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good brunch menu and outdoor seating?"
+Named Entities: [good (Rating), brunch (Amenity), outdoor seating (Amenity)]
+
+2. "I'm looking for a brunch spot with vegetarian options within walking distance"
+Named Entities: [brunch (Amenity), vegetarian (Cuisine), walking distance (Location)]
+
+3. "What's a popular restaurant for brunch with bottomless mimosas in the area?"
+Named Entities: [popular (Rating), brunch (Amenity), bottomless mimosas (Amenity), area (Location)]

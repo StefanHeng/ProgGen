@@ -1,0 +1,149 @@
+1. "What is the viewers' rating for movie Forrest Gump?"
+   Named Entities: [Forrest Gump (Title), viewers' rating (Viewers' Rating)]
+
+2. "Can you suggest a good movie from the 90s?"
+   Named Entities: [90s (Year)]
+
+3. "Tell me about the science fiction movies directed by Steven Spielberg"
+   Named Entities: [science fiction (Genre), Steven Spielberg (Director)]
+
+4. "Is there a movie with an R rating that is set in the 18th century?"
+   Named Entities: [R rating (MPAA Rating), 18th century (Year)]
+
+5. "What is the plot of the movie Inception?"
+   Named Entities: [Inception (Title), plot (Plot)]
+
+6. "Who is the lead actor in the movie The Godfather?"
+   Named Entities: [The Godfather (Title), lead actor (Actor)]
+
+7. "Where can I find the trailer for the movie Avatar?"
+   Named Entities: [Avatar (Title), trailer (Trailer)]
+
+8. "Which movie features the song My Heart Will Go On?"
+   Named Entities: [My Heart Will Go On (Song)]
+
+9. "Has any notable critic reviewed the film Citizen Kane?"
+   Named Entities: [Citizen Kane (Title), critic (Review)]
+
+10. "What is a good crime movie from the 2000s?"
+    Named Entities: [crime (Genre), 2000s (Year)]
+
+11. "Can you list some movies directed by Quentin Tarantino?"
+    Named Entities: [Quentin Tarantino (Director)]
+
+12. "I'd like to watch a family-friendly film, maybe something from Disney"
+    Named Entities: [family-friendly (Genre), Disney (Genre)]
+
+13. "Is there a movie that tells the story of the RMS Titanic?"
+    Named Entities: [RMS Titanic (Plot)]
+
+14. "I'm a fan of Brad Pitt, what are some of his best movies?"
+    Named Entities: [Brad Pitt (Actor), best (Viewers' Rating)]
+
+15. "What is the rating for the movie The Shawshank Redemption?"
+    Named Entities: [The Shawshank Redemption (Title), rating (Viewers' Rating)]
+
+16. "Did Meryl Streep star in any romantic comedies?"
+    Named Entities: [Meryl Streep (Actor), romantic comedies (Genre)]
+
+17. "Show me a movie that was released in the 80s and features time travel"
+    Named Entities: [80s (Year), time travel (Plot)]
+
+18. "Can you find me the character trailer for the new Spider-Man movie?"
+    Named Entities: [character trailer (Trailer), Spider-Man (Character)]
+
+19. "What movie received the most Oscar nominations in 2019?"
+    Named Entities: [most (Viewers' Rating), 2019 (Year)]
+
+20. "I want to watch a classic movie, something from the Golden Age of Hollywood"
+    Named Entities: [classic (Viewers' Rating), Golden Age of Hollywood (Year)]
+
+21. "Who directed the film The Silence of the Lambs?"
+    Named Entities: [The Silence of the Lambs (Title), director (Director)]
+
+22. "What is the highest grossing movie of all time?"
+    Named Entities: [highest grossing (Viewers' Rating)]
+
+23. "Can you tell me about the latest superhero movie?"
+    Named Entities: [latest (Viewers' Rating), superhero (Genre)]
+
+24. "What movie is known for its iconic dance sequence?"
+    Named Entities: [iconic (Viewers' Rating), dance sequence (Plot)]
+
+25. "I'm in the mood for a thriller, what do you recommend?"
+    Named Entities: [thriller (Genre)]
+
+26. "Has there been a biographical film made about Nelson Mandela?"
+    Named Entities: [biographical (Genre), Nelson Mandela (Character)]
+
+27. "Are there any Quentin Tarantino movies with a soundtrack by Ennio Morricone?"
+    Named Entities: [Quentin Tarantino (Director), Ennio Morricone (Song)]
+
+28. "Which film is considered a classic Western?"
+    Named Entities: [classic (Viewers' Rating), Western (Genre)]
+
+29. "What movie is based on the novel by Stephen King?"
+    Named Entities: [Stephen King (Author)]
+
+30. "Tell me about a good fantasy movie from the 2000s"
+    Named Entities: [fantasy (Genre), 2000s (Year)]
+
+31. "I heard there is a new movie starring Tom Hanks, what's it called?"
+    Named Entities: [new (Viewers' Rating), Tom Hanks (Actor)]
+
+32. "What's the IMDB rating for The Dark Knight?"
+    Named Entities: [The Dark Knight (Title), IMDB rating (Viewers' Rating)]
+
+33. "Is there a war movie set in the Vietnam War era?"
+    Named Entities: [war (Genre), Vietnam War (Plot), era (Year)]
+
+34. "Show me the movie that features the character Captain Jack Sparrow"
+    Named Entities: [Captain Jack Sparrow (Character)]
+
+35. "Who is the lead actress in the movie Titanic?"
+    Named Entities: [lead actress (Actor), Titanic (Title)]
+
+36. "What movie has been adapted from a Shakespeare play?"
+    Named Entities: [Shakespeare (Author)]
+
+37. "I'm looking for a feel-good movie, maybe a romantic comedy"
+    Named Entities: [feel-good (Viewers' Rating), romantic comedy (Genre)]
+
+38. "Is there an Alfred Hitchcock movie with a twist ending?"
+    Named Entities: [Alfred Hitchcock (Director), twist ending (Plot)]
+
+39. "What are some classic movies from the 1950s?"
+    Named Entities: [classic (Viewers' Rating), 1950s (Year)]
+
+40. "I want to watch a musical that features the song Over the Rainbow"
+    Named Entities: [musical (Genre), Over the Rainbow (Song)]
+
+41. "Tell me about the movie that won the Palme d'Or at Cannes"
+    Named Entities: [Palme d'Or (Award), Cannes (Event)]
+
+42. "What film is known for its iconic car chase scene?"
+    Named Entities: [iconic (Viewers' Rating), car chase scene (Plot)]
+
+43. "Can you find the movie that stars Robin Williams and Matt Damon?"
+    Named Entities: [Robin Williams (Actor), Matt Damon (Actor)]
+
+44. "Which movie is considered to have the best twist ending?"
+    Named Entities: [best (Viewers' Rating), twist ending (Plot)]
+
+45. "I want to watch an action movie, something with a lot of explosions"
+    Named Entities: [action (Genre), explosions (Plot)]
+
+46. "What movie is based on a true story about a famous historical figure?"
+    Named Entities: [true story (Plot), famous historical figure (Character)]
+
+47. "Can you recommend a good sports movie from the 1990s?"
+    Named Entities: [sports (Genre), 1990s (Year)]
+
+48. "I'm in the mood for a tearjerker, what do you suggest?"
+    Named Entities: [tearjerker (Viewers' Rating)]
+
+49. "Is there a movie that features the song Eye of the Tiger?"
+    Named Entities: [Eye of the Tiger (Song)]
+
+50. "What movie is considered the scariest horror film of all time?"
+    Named Entities: [scariest of all time (Viewers' Rating), horror film (Genre)]

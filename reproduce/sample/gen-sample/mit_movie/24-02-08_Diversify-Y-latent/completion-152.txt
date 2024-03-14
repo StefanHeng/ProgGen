@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a thrilling survival adventure movie?"
+Named Entities: [Thrilling (Genre), Survival adventure (Plot)]
+
+2. Query: "Are there any fresh action films directed by Christopher Nolan?"
+Named Entities: [fresh (Viewers' Rating), action films (Genre), Christopher Nolan (Director)]
+
+3. Query: "What is the title of the movie with the best plot twist of all time?"
+Named Entities: [best plot twist of all time (Review)]

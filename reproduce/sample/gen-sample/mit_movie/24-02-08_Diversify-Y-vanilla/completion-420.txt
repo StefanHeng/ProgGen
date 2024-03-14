@@ -1,0 +1,8 @@
+1. Query: "What is a small town mystery movie that received 9.8 stars in viewers' rating?"
+   Named Entities: [small town mystery (Genre), 9.8 stars (Viewers' Rating)]
+
+2. Query: "Can I have a first look at the teaser for a wilderness survival film from 1972?"
+   Named Entities: [first look (Review), teaser (Trailer), 1972 (Year), wilderness survival (Genre)]
+
+3. Query: "Is there a cult movie with a rating of 5 out of 10?"
+   Named Entities: [5 out of 10 (Viewers' Rating), cult (Genre)]

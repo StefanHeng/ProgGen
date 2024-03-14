@@ -1,0 +1,95 @@
+1. The Eiffel Tower was constructed in 1889 for the Universal Exposition in Paris.
+Named Entities: [Eiffel Tower (location), Paris (location)]
+2. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+3. Queen Elizabeth II has been the queen of the United Kingdom since 1952.
+Named Entities: [Queen Elizabeth II (person), United Kingdom (location)]
+4. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+5. Steve Jobs co-founded Apple Inc. in 1976.
+Named Entities: [Steve Jobs (person), Apple Inc. (organization)]
+6. Mount Everest is the highest mountain in the world, with a peak reaching 29,032 feet above sea level.
+Named Entities: [Mount Everest (location)]
+7. Nelson Mandela was a South African anti-apartheid revolutionary and political leader who served as President of South Africa from 1994 to 1999.
+Named Entities: [Nelson Mandela (person), South Africa (location)]
+8. Beyoncé is an American singer, songwriter, and actress.
+Named Entities: [Beyoncé (person), American (location)]
+9. The Louvre Museum is located in Paris, France and is the world's largest art museum and a historic monument.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+10. The United Nations is an international organization founded in 1945 to promote peace, security, and cooperation among countries.
+Named Entities: [United Nations (organization)]
+11. William Shakespeare was an English playwright and poet, widely regarded as the greatest writer in the English language and the world's greatest dramatist.
+Named Entities: [William Shakespeare (person), English (location)]
+12. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, and other materials, built along the northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Named Entities: [Great Wall of China (location), China (location)]
+13. Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington.
+Named Entities: [Amazon.com, Inc. (organization), American (location), Seattle (location), Washington (location)]
+14. The Panama Canal is an artificial 82 km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+Named Entities: [Panama Canal (location), Panama (location), Atlantic Ocean (location), Pacific Ocean (location)]
+15. Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century.
+Named Entities: [Jane Austen (person), English (location), British (organization)]
+16. The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City.
+Named Entities: [Empire State Building (location), Midtown Manhattan (location), New York City (location)]
+17. The European Space Agency is an intergovernmental organization dedicated to the exploration of space.
+Named Entities: [European Space Agency (organization)]
+18. Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France.
+Named Entities: [Pablo Picasso (person), Spanish (location), France (location)]
+19. The Sahara Desert is the largest hot desert in the world, covering most of Northern Africa.
+Named Entities: [Sahara Desert (location), Northern Africa (location)]
+20. The Metropolitan Museum of Art is located in New York City and is one of the largest and most comprehensive art museums in the world.
+Named Entities: [Metropolitan Museum of Art (organization), New York City (location)]
+21. Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+Named Entities: [Leonardo da Vinci (person), Italian (location), High Renaissance (organization)]
+22. The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna River in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Yamuna River (location), Indian (location), Agra (location)]
+23. NASA is an independent agency of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research.
+Named Entities: [NASA (organization), United States (location)]
+24. Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent van Gogh (person), Dutch (location), Western (organization)]
+25. Disneyland Park, originally Disneyland, is the first of two theme parks built at the Disneyland Resort in Anaheim, California.
+Named Entities: [Disneyland Park (location), Disneyland Resort (organization), Anaheim (location), California (location)]
+26. The British Museum is located in London and houses a vast collection of world art and artifacts.
+Named Entities: [British Museum (organization), London (location)]
+27. Abraham Lincoln was the 16th President of the United States, serving from March 1861 until his assassination in April 1865.
+Named Entities: [Abraham Lincoln (person), United States (location)]
+28. The Pyramids of Giza consist of three massive pyramids built for the pharaohs Khufu, Khafre, and Menkaure.
+Named Entities: [Pyramids of Giza (location), Khufu (person), Khafre (person), Menkaure (person)]
+29. The University of Oxford is a collegiate research university located in Oxford, England.
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+30. The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+31. Isaac Newton was an English mathematician, physicist, and astronomer who is widely recognized as one of the most influential scientists of all time and as a key figure in the scientific revolution.
+Named Entities: [Isaac Newton (person), English (location)]
+32. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+33. Johann Sebastian Bach was a German composer and musician of the Baroque period.
+Named Entities: [Johann Sebastian Bach (person), German (location), Baroque (organization)]
+34. The Colosseum is an oval amphitheater in the center of Rome, Italy, and is the largest ancient amphitheater ever built.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+35. The White House is the official residence and workplace of the president of the United States, located in Washington, D.C.
+Named Entities: [White House (location), Washington, D.C. (location), United States (location)]
+36. Vladimir Putin has been serving as the President of Russia since 1999.
+Named Entities: [Vladimir Putin (person), Russia (location)]
+37. The Nile is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Named Entities: [Nile (location), Africa (location)]
+38. The Louvre Museum in France is the world's most visited museum.
+Named Entities: [Louvre Museum (organization), France (location)]
+39. The Great Sphinx of Giza is a limestone statue of a reclining or couchant sphinx near the Great Pyramid of Giza in Egypt.
+Named Entities: [Great Sphinx of Giza (location), Great Pyramid of Giza (location), Egypt (location)]
+40. The Louvre Pyramid is a large glass and metal pyramid that serves as the main entrance to the Louvre Museum in Paris, France.
+Named Entities: [Louvre Pyramid (location), Louvre Museum (organization), Paris (location), France (location)]
+41. The British Library is the national library of the United Kingdom and is located in London.
+Named Entities: [British Library (organization), United Kingdom (location), London (location)]
+42. Barack Obama served as the 44th President of the United States from 2009 to 2017.
+Named Entities: [Barack Obama (person), United States (location)]
+43. The Mississippi River is the second-longest river and chief river of the second-largest drainage system on the North American continent, second only to the Hudson Bay drainage system.
+Named Entities: [Mississippi River (location), North American (location), Hudson Bay (location)]
+44. The British monarchy is the constitutional monarchy of the United Kingdom and its overseas territories.
+Named Entities: [British (organization), United Kingdom (location)]
+45. The Acropolis is located in Athens and is an ancient citadel on a rocky outcrop above the city.
+Named Entities: [Acropolis (location), Athens (location)]
+46. Wolfgang Amadeus Mozart was a prolific and influential composer of the Classical era.
+Named Entities: [Wolfgang Amadeus Mozart (person), Classical (organization)]
+47. The Sydney Opera House is a multi-venue performing arts center in Sydney, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location)]
+48. The United States Capitol is the home of the United States Congress and the seat of

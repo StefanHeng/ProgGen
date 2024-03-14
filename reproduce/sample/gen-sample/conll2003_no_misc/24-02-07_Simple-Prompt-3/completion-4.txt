@@ -1,0 +1,149 @@
+1. Apple announces new iPhone release.
+Named Entities: [Apple (organization)]
+
+2. President Biden signs new executive order.
+Named Entities: [President Biden (person)]
+
+3. Amazon to open new headquarters in Texas.
+Named Entities: [Amazon (organization), Texas (location)]
+
+4. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+5. New study shows benefits of exercise.
+Named Entities: []
+
+6. Hurricane leaves trail of destruction in Florida.
+Named Entities: [Hurricane (location), Florida (location)]
+
+7. CEO of Microsoft steps down.
+Named Entities: [Microsoft (organization)]
+
+8. University of California experiences budget cuts.
+Named Entities: [University of California (organization)]
+
+9. Tesla announces record-breaking sales.
+Named Entities: [Tesla (organization)]
+
+10. Famous actor arrested for DUI.
+Named Entities: []
+
+11. New York City imposes new COVID-19 restrictions.
+Named Entities: [New York City (location)]
+
+12. WHO issues new guidelines for vaccine distribution.
+Named Entities: [WHO (organization)]
+
+13. Google acquires new tech startup.
+Named Entities: [Google (organization)]
+
+14. Olympic athlete tests positive for banned substance.
+Named Entities: [Olympic athlete (person)]
+
+15. Wildfire destroys homes in California.
+Named Entities: [California (location)]
+
+16. CEO of Amazon becomes world's richest person.
+Named Entities: [CEO of Amazon (person)]
+
+17. Paris Fashion Week kicks off.
+Named Entities: [Paris (location)]
+
+18. Walmart to raise minimum wage for employees.
+Named Entities: [Walmart (organization)]
+
+19. Governor of Texas faces corruption allegations.
+Named Entities: [Governor of Texas (person), Texas (location)]
+
+20. New study reveals link between diet and heart health.
+Named Entities: []
+
+21. Microsoft introduces new gaming console.
+Named Entities: [Microsoft (organization)]
+
+22. Senator from New York proposes new legislation.
+Named Entities: [Senator from New York (person), New York (location)]
+
+23. Delta variant spreads rapidly across Europe.
+Named Entities: [Delta variant (organization), Europe (location)]
+
+24. Apple and Google announce partnership for new app development.
+Named Entities: [Apple (organization), Google (organization)]
+
+25. Mayor of Chicago announces new public transportation initiative.
+Named Entities: [Mayor of Chicago (person), Chicago (location)]
+
+26. Protests erupt in Hong Kong over new extradition law.
+Named Entities: [Hong Kong (location)]
+
+27. Facebook under fire for privacy violations.
+Named Entities: [Facebook (organization)]
+
+28. John Doe elected as new mayor of Smalltown, USA.
+Named Entities: [John Doe (person), Smalltown (location), USA (location)]
+
+29. Wells Fargo to close multiple branches.
+Named Entities: [Wells Fargo (organization)]
+
+30. New York Times wins Pulitzer Prize for investigative journalism.
+Named Entities: [New York Times (organization)]
+
+31. California governor declares state of emergency after earthquake.
+Named Entities: [California (location)]
+
+32. CEO of Tesla unveils new electric car model.
+Named Entities: [CEO of Tesla (person), Tesla (organization)]
+
+33. Miami Heat signs star rookie to multi-million dollar contract.
+Named Entities: [Miami Heat (organization)]
+
+34. WHO declares global health emergency due to new virus.
+Named Entities: [WHO (organization)]
+
+35. Hurricane hits Caribbean islands, leaving widespread destruction.
+Named Entities: [Caribbean islands (location)]
+
+36. Amazon workers go on strike for better working conditions.
+Named Entities: [Amazon (organization)]
+
+37. Washington Post publishes article on climate change.
+Named Entities: [Washington Post (organization)]
+
+38. Mayor of London launches initiative to combat air pollution.
+Named Entities: [Mayor of London (person), London (location)]
+
+39. College students protest rising tuition costs.
+Named Entities: []
+
+40. Paris Hilton launches new fashion line.
+Named Entities: [Paris Hilton (person)]
+
+41. United Nations to send aid to conflict-affected region.
+Named Entities: [United Nations (organization)]
+
+42. Tokyo Olympics faces new challenges amid pandemic.
+Named Entities: [Tokyo Olympics (organization)]
+
+43. Google CEO testifies before Congress on antitrust issues.
+Named Entities: [Google (organization), Congress (organization)]
+
+44. Miami Beach imposes new restrictions on alcohol sales.
+Named Entities: [Miami Beach (location)]
+
+45. Secretary of State visits Middle East for peace negotiations.
+Named Entities: [Secretary of State (person), Middle East (location)]
+
+46. Starbucks introduces new plant-based menu options.
+Named Entities: [Starbucks (organization)]
+
+47. New study shows alarming increase in childhood obesity rates.
+Named Entities: []
+
+48. CEO of Facebook grilled by lawmakers in Congressional hearing.
+Named Entities: [CEO of Facebook (person), Congressional (organization)]
+
+49. Wildfire season in Australia poses new challenges for firefighters.
+Named Entities: [Australia (location)]
+
+50. Former president announces bid for reelection.
+Named Entities: [Former president (person)]

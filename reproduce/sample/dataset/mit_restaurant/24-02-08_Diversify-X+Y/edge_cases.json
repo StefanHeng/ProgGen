@@ -1,0 +1,4058 @@
+[
+    {
+        "sentence": "I'm looking for a fancy breakfast spot that offers vegetarian options",
+        "entity_names": [
+            "fancy",
+            "breakfast",
+            "vegetarian"
+        ],
+        "filename": "completion-3",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Dietary restriction"
+        ],
+        "entity_names_not_allowed": [
+            "vegetarian"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "where can I find a high-end restaurant serving vegetarian breakfast",
+        "entity_names": [
+            "high-end",
+            "vegetarian",
+            "breakfast"
+        ],
+        "filename": "completion-3",
+        "entity_types": [
+            "Price",
+            "Dietary restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "vegetarian"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "recommend a luxurious place for a vegetarian morning meal",
+        "entity_names": [
+            "luxurious",
+            "vegetarian",
+            "morning meal"
+        ],
+        "filename": "completion-3",
+        "entity_types": [
+            "Price",
+            "Dietary restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "vegetarian"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "find a mid-range Middle Eastern restaurant with a good wine selection",
+        "entity_names": [
+            "mid-range",
+            "Middle Eastern cuisine",
+            "good",
+            "wine selection"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "Price",
+            "Cuisine",
+            "Rating",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Middle Eastern cuisine"
+        ]
+    },
+    {
+        "sentence": "Which restaurants in the area offer a breakfast menu with luxurious options?",
+        "entity_names": [
+            "luxurious breakfast choices"
+        ],
+        "filename": "completion-20",
+        "entity_types": [
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "luxurious breakfast choices"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a Spanish restaurant with upscale and elegant ambience for dinner tonight?",
+        "entity_names": [
+            "Spanish",
+            "dinner"
+        ],
+        "filename": "completion-23",
+        "entity_types": [
+            "Cuisine",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant with upscale ambience and dinner hours serving Spanish cuisine.",
+        "entity_names": [
+            "upscale and elegant ambience",
+            "Spanish",
+            "dinner hours"
+        ],
+        "filename": "completion-23",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "upscale and elegant ambience"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a fine dining restaurant with gourmet cuisine?",
+        "entity_names": [
+            "fine dining",
+            "The Fat Duck",
+            "Gourmet"
+        ],
+        "filename": "completion-37",
+        "entity_types": [
+            "Amenity",
+            "Restaurant Name",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "The Fat Duck"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a fine dining restaurant known for its gourmet dishes",
+        "entity_names": [
+            "fine dining",
+            "The Fat Duck",
+            "gourmet"
+        ],
+        "filename": "completion-37",
+        "entity_types": [
+            "Amenity",
+            "Restaurant Name",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "The Fat Duck"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a formal restaurant that serves biscuits and gravy for breakfast",
+        "entity_names": [
+            "formal",
+            "biscuits and gravy",
+            "breakfast"
+        ],
+        "filename": "completion-40",
+        "entity_types": [
+            "Amenity",
+            "Dish",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I need to find a breakfast spot with a formal setting that offers biscuits and gravy",
+        "entity_names": [
+            "breakfast",
+            "formal",
+            "biscuits and gravy"
+        ],
+        "filename": "completion-40",
+        "entity_types": [
+            "Meal Category",
+            "Amenity",
+            "Dish"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a trendy fine dining restaurant with a low-carb menu in the suburbs?",
+        "entity_names": [
+            "trendy",
+            "fine dining",
+            "low-carb",
+            "suburbs"
+        ],
+        "filename": "completion-43",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Dietary restriction",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a fine dining restaurant with a trendy atmosphere and a low-carb menu in the suburbs, any recommendations?",
+        "entity_names": [
+            "trendy",
+            "fine dining",
+            "low-carb",
+            "suburbs"
+        ],
+        "filename": "completion-43",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Dietary restriction",
+            "Location"
+        ],
+        "reordered_entity_names": [
+            "fine dining",
+            "trendy",
+            "low-carb",
+            "suburbs"
+        ],
+        "reordered_entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Dietary restriction",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "Where in the suburbs can I find a fine dining restaurant with a trendy ambience and a low-carb menu?",
+        "entity_names": [
+            "suburbs",
+            "trendy",
+            "fine dining",
+            "low-carb"
+        ],
+        "filename": "completion-43",
+        "entity_types": [
+            "Location",
+            "Amenity",
+            "Cuisine",
+            "Dietary restriction"
+        ],
+        "reordered_entity_names": [
+            "suburbs",
+            "fine dining",
+            "trendy",
+            "low-carb"
+        ],
+        "reordered_entity_types": [
+            "Location",
+            "Cuisine",
+            "Amenity",
+            "Dietary restriction"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a food truck serving Mexican cuisine for lunch?",
+        "entity_names": [
+            "food truck",
+            "Mexican",
+            "lunch"
+        ],
+        "filename": "completion-44",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Meal Time"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Time"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a nearby food truck with a good rating and affordable prices for a quick dinner after work.",
+        "entity_names": [
+            "food truck",
+            "good rating",
+            "affordable",
+            "dinner"
+        ],
+        "filename": "completion-44",
+        "entity_types": [
+            "Amenity",
+            "Rating",
+            "Price",
+            "Meal Time"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Time"
+        ]
+    },
+    {
+        "sentence": "I need to grab a snack from a food truck before my evening meeting. Any recommendations close by?",
+        "entity_names": [
+            "food truck",
+            "snack",
+            "evening"
+        ],
+        "filename": "completion-44",
+        "entity_types": [
+            "Amenity",
+            "Meal Type",
+            "Meal Time"
+        ],
+        "reordered_entity_names": [
+            "snack",
+            "food truck",
+            "evening"
+        ],
+        "reordered_entity_types": [
+            "Meal Type",
+            "Amenity",
+            "Meal Time"
+        ],
+        "entity_names_not_allowed": [
+            "snack",
+            "evening"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Type",
+            "Meal Time"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a fancy restaurant with waterfront views that serves a delicious breakfast",
+        "entity_names": [
+            "fancy",
+            "waterfront views",
+            "breakfast"
+        ],
+        "filename": "completion-45",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend an upscale place with a breakfast menu and a beautiful waterfront location?",
+        "entity_names": [
+            "upscale",
+            "breakfast",
+            "beautiful waterfront location"
+        ],
+        "filename": "completion-45",
+        "entity_types": [
+            "Amenity",
+            "Meal Category",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I want to have a luxurious breakfast with a view of the water, can you suggest a restaurant?",
+        "entity_names": [
+            "luxurious",
+            "breakfast",
+            "view of the water"
+        ],
+        "filename": "completion-45",
+        "entity_types": [
+            "Amenity",
+            "Meal Category",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a popular caf\u00e9 with outdoor seating in San Francisco for a business meeting",
+        "entity_names": [
+            "popular caf\u00e9",
+            "San Francisco",
+            "Outdoor terrace",
+            "business meeting",
+            "caf\u00e9"
+        ],
+        "filename": "completion-60",
+        "entity_types": [
+            "Rating",
+            "Location",
+            "Amenity",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "Outdoor terrace"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a mid-range restaurant with low-carb options that also has a playground for kids.",
+        "entity_names": [
+            "mid-range",
+            "low-carb",
+            "Playground"
+        ],
+        "filename": "completion-65",
+        "entity_types": [
+            "Price",
+            "Dietary restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a fast food restaurant with low-carb options and a mid-range price range that also offers nutrition information?",
+        "entity_names": [
+            "fast food",
+            "low-carb",
+            "mid-range",
+            "Nutrition information"
+        ],
+        "filename": "completion-65",
+        "entity_types": [
+            "Cuisine",
+            "Dietary restriction",
+            "Price",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place with a low-carb brunch menu and a nice bar/lounge area",
+        "entity_names": [
+            "low-carb",
+            "brunch",
+            "bar/lounge area"
+        ],
+        "filename": "completion-68",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a restaurant with a low-carb brunch and a bar/lounge area?",
+        "entity_names": [
+            "low-carb",
+            "brunch",
+            "bar/lounge area"
+        ],
+        "filename": "completion-68",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I need a recommendation for a brunch place with a bar/lounge area that offers low-carb options",
+        "entity_names": [
+            "brunch",
+            "bar/lounge area",
+            "low-carb"
+        ],
+        "filename": "completion-68",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "What food trucks in Denver have a high rating for their cuisine?",
+        "entity_names": [
+            "food truck",
+            "Denver",
+            "high rating",
+            "cuisine"
+        ],
+        "filename": "completion-69",
+        "entity_types": [
+            "Amenity",
+            "Location",
+            "Rating",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "food truck"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any buffet restaurants for pescatarians near The World's 50 Best Restaurants?",
+        "entity_names": [
+            "buffet",
+            "pescatarians",
+            "The World's 50 Best Restaurants"
+        ],
+        "filename": "completion-71",
+        "entity_types": [
+            "Amenity",
+            "Dietary restriction",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "pescatarians"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "What are the buffet options for pescatarians at Shoney's?",
+        "entity_names": [
+            "buffet",
+            "pescatarians",
+            "Shoney's"
+        ],
+        "filename": "completion-71",
+        "entity_types": [
+            "Amenity",
+            "Dietary restriction",
+            "Restaurant Name"
+        ],
+        "entity_names_not_allowed": [
+            "pescatarians"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a buffet restaurant suitable for pescatarians within walking distance of The World's 50 Best Restaurants.",
+        "entity_names": [
+            "buffet",
+            "pescatarians",
+            "The World's 50 Best Restaurants"
+        ],
+        "filename": "completion-71",
+        "entity_types": [
+            "Amenity",
+            "Dietary restriction",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "pescatarians"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a waterfront restaurant offering a buffet for a 50-year-old male doctor?",
+        "entity_names": [
+            "waterfront",
+            "buffet",
+            "50-year-old male doctor"
+        ],
+        "filename": "completion-83",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "demographic"
+        ],
+        "entity_names_not_allowed": [
+            "50-year-old male doctor"
+        ],
+        "entity_types_not_allowed": [
+            "demographic"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a fancy outdoor dining experience near Atomix. What are the options?",
+        "entity_names": [
+            "fancy",
+            "outdoor dining",
+            "Atomix"
+        ],
+        "filename": "completion-85",
+        "entity_types": [
+            "Ambiance",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "entity_names_not_allowed": [
+            "fancy"
+        ],
+        "entity_types_not_allowed": [
+            "Ambiance"
+        ]
+    },
+    {
+        "sentence": "Which food trucks around here are known for their Mexican cuisine?",
+        "entity_names": [
+            "food truck",
+            "Mexican"
+        ],
+        "filename": "completion-87",
+        "entity_types": [
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "food truck"
+        ]
+    },
+    {
+        "sentence": "I'm craving some fast food for dinner, can you recommend a restaurant with delivery service?",
+        "entity_names": [
+            "fast food",
+            "dinner",
+            "delivery"
+        ],
+        "filename": "completion-88",
+        "entity_types": [
+            "Cuisine",
+            "Meal",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "I need to order a fine dining meal for delivery tonight, do you have any suggestions?",
+        "entity_names": [
+            "fine dining",
+            "delivery",
+            "tonight"
+        ],
+        "filename": "completion-88",
+        "entity_types": [
+            "Ambience",
+            "Amenity",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "fine dining"
+        ],
+        "entity_types_not_allowed": [
+            "Ambience"
+        ]
+    },
+    {
+        "sentence": "Where can I find a delivery service that offers fast food options for a quick lunch?",
+        "entity_names": [
+            "delivery",
+            "fast food",
+            "quick lunch"
+        ],
+        "filename": "completion-88",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Meal"
+        ],
+        "entity_names_not_allowed": [
+            "quick lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a budget-friendly breakfast spot near Parkside Diner?",
+        "entity_names": [
+            "budget-friendly",
+            "breakfast",
+            "Parkside Diner"
+        ],
+        "filename": "completion-102",
+        "entity_types": [
+            "Price",
+            "Meal category",
+            "Restaurant Name"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "Where can I grab a quick breakfast on a college campus with early hours?",
+        "entity_names": [
+            "quick",
+            "breakfast",
+            "college campus",
+            "early hours"
+        ],
+        "filename": "completion-102",
+        "entity_types": [
+            "Amenity",
+            "Meal category",
+            "Location",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a brunch & munch place that won't break the bank. Any suggestions?",
+        "entity_names": [
+            "brunch & munch",
+            "budget-friendly"
+        ],
+        "filename": "completion-102",
+        "entity_types": [
+            "Amenity",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant around the corner with live music during lunchtime?",
+        "entity_names": [
+            "around the corner",
+            "live music",
+            "lunch"
+        ],
+        "filename": "completion-103",
+        "entity_types": [
+            "Location",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "lunch"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any restaurants open late on Thursday with superb dinner options?",
+        "entity_names": [
+            "Thursday",
+            "Late-night",
+            "superb"
+        ],
+        "filename": "completion-106",
+        "entity_types": [
+            "Hours",
+            "Amenity",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "Late-night"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for some vegan options from a food truck. Do you know any Gourmet Grub spots nearby?",
+        "entity_names": [
+            "vegan",
+            "food truck",
+            "Gourmet Grub"
+        ],
+        "filename": "completion-110",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "entity_names_not_allowed": [
+            "vegan"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a vegan-friendly food truck with a bar counter for a quick bite?",
+        "entity_names": [
+            "vegan",
+            "food truck",
+            "bar counter"
+        ],
+        "filename": "completion-110",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "vegan"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm craving some vegan BBQ on Wheels. Any recommendations for a food truck serving that?",
+        "entity_names": [
+            "vegan",
+            "food truck",
+            "BBQ on Wheels"
+        ],
+        "filename": "completion-110",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Cuisine"
+        ],
+        "reordered_entity_names": [
+            "vegan",
+            "BBQ on Wheels",
+            "food truck"
+        ],
+        "reordered_entity_types": [
+            "Dietary Restriction",
+            "Cuisine",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "vegan"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I need a brunch spot near my workplace, preferably with a good rating",
+        "entity_names": [
+            "brunch",
+            "Bagel Bistro",
+            "good rating",
+            "workplace"
+        ],
+        "filename": "completion-111",
+        "entity_types": [
+            "Amenity",
+            "Restaurant Name",
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "Bagel Bistro"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a classy caf\u00e9 with a wheelchair-accessible entrance and a great margherita pizza for a group of business professionals in their 50s.",
+        "entity_names": [
+            "caf\u00e9",
+            "wheelchair-accessible entrance",
+            "margherita pizza",
+            "50s",
+            "business professionals"
+        ],
+        "filename": "completion-123",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Dish",
+            "Age Group",
+            "Demographic"
+        ],
+        "reordered_entity_names": [
+            "caf\u00e9",
+            "wheelchair-accessible entrance",
+            "margherita pizza",
+            "business professionals",
+            "50s"
+        ],
+        "reordered_entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Dish",
+            "Demographic",
+            "Age Group"
+        ],
+        "entity_names_not_allowed": [
+            "business professionals",
+            "50s"
+        ],
+        "entity_types_not_allowed": [
+            "Demographic",
+            "Age Group"
+        ]
+    },
+    {
+        "sentence": "Where can I find an upscale caf\u00e9 with a smoking area and wheelchair-accessible entrance, perfect for a business owner in his 50s, for a luxurious dining experience?",
+        "entity_names": [
+            "caf\u00e9",
+            "smoking area",
+            "wheelchair-accessible entrance",
+            "business owner",
+            "50s",
+            "expensive"
+        ],
+        "filename": "completion-123",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity",
+            "Demographic",
+            "Age Group",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "expensive"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a Korean restaurant in the vicinity that serves halal lunch?",
+        "entity_names": [
+            "Korean",
+            "in the vicinity",
+            "halal",
+            "lunch"
+        ],
+        "filename": "completion-127",
+        "entity_types": [
+            "Cuisine",
+            "Location",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "halal"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a halal Korean restaurant for lunch around here?",
+        "entity_names": [
+            "halal",
+            "Korean",
+            "lunch",
+            "around here"
+        ],
+        "filename": "completion-127",
+        "entity_types": [
+            "Dietary Restriction",
+            "Cuisine",
+            "Amenity",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "halal"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a luxurious dining experience, do you know of any high-end haul food trucks nearby",
+        "entity_names": [
+            "luxurious",
+            "high-end haul",
+            "food truck",
+            "nearby"
+        ],
+        "filename": "completion-131",
+        "entity_types": [
+            "Rating",
+            "Amenity",
+            "Cuisine",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "food truck"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a quirky late-night dining spot. Any suggestions?",
+        "entity_names": [
+            "quirky and eccentric",
+            "late-night dining"
+        ],
+        "filename": "completion-132",
+        "entity_types": [
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "quirky and eccentric"
+        ]
+    },
+    {
+        "sentence": "What are the nearest Italian restaurants open for dinner?",
+        "entity_names": [
+            "nearest",
+            "Italian",
+            "dinner",
+            "Business hours"
+        ],
+        "filename": "completion-135",
+        "entity_types": [
+            "Location",
+            "Cuisine",
+            "Amenity",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Business hours"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a late-night restaurant with vegan options, preferably close by",
+        "entity_names": [
+            "late-night restaurants",
+            "vegan options",
+            "close by"
+        ],
+        "filename": "completion-141",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "late-night restaurants"
+        ]
+    },
+    {
+        "sentence": "What food trucks around here serve barbecue grill?",
+        "entity_names": [
+            "food trucks",
+            "barbecue grill"
+        ],
+        "filename": "completion-144",
+        "entity_types": [
+            "Restaurant Name, Amenity",
+            "Cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "food trucks"
+        ],
+        "entity_types_not_allowed": [
+            "Restaurant Name, Amenity"
+        ]
+    },
+    {
+        "sentence": "Which food truck offers barbecue grill dishes in the area?",
+        "entity_names": [
+            "food truck",
+            "barbecue grill"
+        ],
+        "filename": "completion-144",
+        "entity_types": [
+            "Restaurant Name, Amenity",
+            "Cuisine"
+        ],
+        "entity_names_not_allowed": [
+            "food truck"
+        ],
+        "entity_types_not_allowed": [
+            "Restaurant Name, Amenity"
+        ]
+    },
+    {
+        "sentence": "I want to try some barbecue grill from a food truck, do you know any nearby?",
+        "entity_names": [
+            "barbecue grill",
+            "food truck"
+        ],
+        "filename": "completion-144",
+        "entity_types": [
+            "Cuisine",
+            "Restaurant Name, Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "food truck"
+        ],
+        "entity_types_not_allowed": [
+            "Restaurant Name, Amenity"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with upscale breakfast options like a breakfast wrap?",
+        "entity_names": [
+            "upscale",
+            "breakfast",
+            "breakfast wrap"
+        ],
+        "filename": "completion-150",
+        "entity_types": [
+            "Price",
+            "Meal category",
+            "Dish"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "Where can I find an upscale restaurant that specializes in breakfast wraps?",
+        "entity_names": [
+            "upscale",
+            "breakfast wrap"
+        ],
+        "filename": "completion-150",
+        "entity_types": [
+            "Price",
+            "Dish"
+        ],
+        "missing_entity_names": [
+            "breakfast wrap"
+        ]
+    },
+    {
+        "sentence": "What's a good place for a quick bite to eat, maybe a trendy caf\u00e9 with a cozy atmosphere?",
+        "entity_names": [
+            "quick bite to eat",
+            "trendy",
+            "caf\u00e9",
+            "cozy atmosphere",
+            "Chez Marie"
+        ],
+        "filename": "completion-152",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Cuisine",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "Chez Marie"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a trendy spot with wheelchair accessibility for a chic breakfast downtown",
+        "entity_names": [
+            "trendy",
+            "wheelchair accessibility",
+            "chic",
+            "breakfast",
+            "downtown"
+        ],
+        "filename": "completion-155",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Amenity",
+            "Meal",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "Where can I find a hip restaurant with wheelchair accessibility for breakfast near my retail job?",
+        "entity_names": [
+            "hip",
+            "wheelchair accessibility",
+            "breakfast",
+            "retail job"
+        ],
+        "filename": "completion-155",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Meal",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a cool place with wheelchair accessibility for a modern breakfast in this area?",
+        "entity_names": [
+            "cool",
+            "wheelchair accessibility",
+            "modern",
+            "breakfast",
+            "this area"
+        ],
+        "filename": "completion-155",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Amenity",
+            "Meal",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "breakfast"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a cozy restaurant with a brunch menu",
+        "entity_names": [
+            "cozy",
+            "brunch"
+        ],
+        "filename": "completion-163",
+        "entity_types": [
+            "Amenity",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a charming place to have brunch around here",
+        "entity_names": [
+            "charming",
+            "brunch"
+        ],
+        "filename": "completion-163",
+        "entity_types": [
+            "Amenity",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Where can I find a rustic restaurant that serves brunch",
+        "entity_names": [
+            "rustic",
+            "brunch"
+        ],
+        "filename": "completion-163",
+        "entity_types": [
+            "Amenity",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any Asian food trucks close by that serve Vietnamese cuisine?",
+        "entity_names": [
+            "Asian",
+            "food truck",
+            "close by",
+            "Vietnamese"
+        ],
+        "filename": "completion-165",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Location",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "food truck"
+        ]
+    },
+    {
+        "sentence": "find me a place with a fantastic breakfast value and private dining",
+        "entity_names": [
+            "fantastic",
+            "breakfast",
+            "private dining",
+            "breakfast value"
+        ],
+        "filename": "completion-168",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "breakfast"
+        ]
+    },
+    {
+        "sentence": "I'm craving some fish and chips, where can I get a discounted meal in the fast food category?",
+        "entity_names": [
+            "fish and chips",
+            "discounted",
+            "fast food",
+            "expensive"
+        ],
+        "filename": "completion-171",
+        "entity_types": [
+            "Dish",
+            "Amenity",
+            "Cuisine",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "expensive"
+        ]
+    },
+    {
+        "sentence": "Is there a restaurant nearby that offers a buffet option for vegetarians?",
+        "entity_names": [
+            "buffet",
+            "Vegetarian"
+        ],
+        "filename": "completion-182",
+        "entity_types": [
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "sentence": "I want to have a traditional English breakfast delivered to my hotel, where can I find a place that offers this?",
+        "entity_names": [
+            "traditional English breakfast",
+            "delivery",
+            "hotel"
+        ],
+        "filename": "completion-183",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "delivery"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a Lebanese restaurant in the upscale price range that serves low-carb brunch",
+        "entity_names": [
+            "Lebanese",
+            "upscale",
+            "low-carb",
+            "brunch"
+        ],
+        "filename": "completion-184",
+        "entity_types": [
+            "Cuisine",
+            "Price",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find an upscale Lebanese restaurant offering low-carb brunch options?",
+        "entity_names": [
+            "Lebanese",
+            "upscale",
+            "low-carb",
+            "brunch"
+        ],
+        "filename": "completion-184",
+        "entity_types": [
+            "Cuisine",
+            "Price",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "reordered_entity_names": [
+            "upscale",
+            "Lebanese",
+            "low-carb",
+            "brunch"
+        ],
+        "reordered_entity_types": [
+            "Price",
+            "Cuisine",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Do you know a caf\u00e9 that is wheelchair-accessible and has a peaceful atmosphere, as well as dairy-free options?",
+        "entity_names": [
+            "Wheelchair-accessible entrance",
+            "peaceful atmosphere",
+            "dairy-free",
+            "caf\u00e9"
+        ],
+        "filename": "completion-187",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "Wheelchair-accessible entrance"
+        ]
+    },
+    {
+        "sentence": "Do you know of any upscale caf\u00e9s that offer an express lunch menu",
+        "entity_names": [
+            "upscale",
+            "express lunch menu",
+            "caf\u00e9"
+        ],
+        "filename": "completion-190",
+        "entity_types": [
+            "Rating",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "caf\u00e9"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a low-cost fine dining restaurant for late-night American cuisine?",
+        "entity_names": [
+            "low-cost",
+            "late-night dining",
+            "fine dining",
+            "American"
+        ],
+        "filename": "completion-194",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "late-night dining"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a late-night dining option for American cuisine with a fine dining ambience that won't break the bank.",
+        "entity_names": [
+            "late-night dining",
+            "American",
+            "fine dining",
+            "low-cost"
+        ],
+        "filename": "completion-194",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Amenity",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "low-cost"
+        ]
+    },
+    {
+        "sentence": "Where can I find a wheelchair-accessible caf\u00e9 with mid-range prices?",
+        "entity_names": [
+            "wheelchair-accessible entrance",
+            "caf\u00e9",
+            "mid-range"
+        ],
+        "filename": "completion-195",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "wheelchair-accessible entrance"
+        ]
+    },
+    {
+        "sentence": "can you recommend a brunch place that allows pets on their patio",
+        "entity_names": [
+            "brunch",
+            "pet-friendly patio"
+        ],
+        "filename": "completion-202",
+        "entity_types": [
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "pet-friendly patio"
+        ]
+    },
+    {
+        "sentence": "Where can I find a brunch place with a tasting menu in the late morning",
+        "entity_names": [
+            "brunch",
+            "tasting menu",
+            "Late morning"
+        ],
+        "filename": "completion-207",
+        "entity_types": [
+            "Meal Category",
+            "Amenity",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Which restaurant has a tasting menu for brunch around late morning",
+        "entity_names": [
+            "tasting menu",
+            "brunch",
+            "Late morning"
+        ],
+        "filename": "completion-207",
+        "entity_types": [
+            "Amenity",
+            "Meal Category",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a place with a tasting menu for brunch around late morning",
+        "entity_names": [
+            "tasting menu",
+            "brunch",
+            "Late morning"
+        ],
+        "filename": "completion-207",
+        "entity_types": [
+            "Amenity",
+            "Meal Category",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a caf\u00e9 with outdoor seating and a good brunch menu",
+        "entity_names": [
+            "outdoor seating",
+            "brunch",
+            "caf\u00e9"
+        ],
+        "filename": "completion-211",
+        "entity_types": [
+            "Amenity",
+            "Meal",
+            "Cuisine"
+        ],
+        "reordered_entity_names": [
+            "caf\u00e9",
+            "outdoor seating",
+            "brunch"
+        ],
+        "reordered_entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Meal"
+        ],
+        "entity_names_not_allowed": [
+            "brunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "what are the top-rated caf\u00e9s in downtown with free Wi-Fi?",
+        "entity_names": [
+            "top-rated",
+            "downtown",
+            "free Wi-Fi",
+            "caf\u00e9"
+        ],
+        "filename": "completion-211",
+        "entity_types": [
+            "Rating",
+            "Location",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "caf\u00e9"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with a good happy hour deal for lunch?",
+        "entity_names": [
+            "good",
+            "happy hour",
+            "lunch"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "Rating",
+            "Amenity",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place with lunch specials and a great happy hour menu, do you have any suggestions?",
+        "entity_names": [
+            "lunch specials",
+            "happy hour",
+            "lunch"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Meal Category"
+        ],
+        "missing_entity_names": [
+            "lunch"
+        ]
+    },
+    {
+        "sentence": "Find me a restaurant with lunch options and a happy hour that starts before 3 pm",
+        "entity_names": [
+            "lunch options",
+            "happy hour",
+            "before 3 pm",
+            "lunch"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Hours",
+            "Meal Category"
+        ],
+        "missing_entity_names": [
+            "lunch"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a place with a good rating that serves gluten-free food late at night?",
+        "entity_names": [
+            "good rating",
+            "gluten-free",
+            "late-night dining"
+        ],
+        "filename": "completion-218",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "late-night dining"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a cool and trendy fast food spot, maybe like Five Guys?",
+        "entity_names": [
+            "fast food",
+            "hip and trendy",
+            "Five Guys"
+        ],
+        "filename": "completion-220",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "hip and trendy"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a Vietnamese restaurant in Portland with vegetarian lunch options",
+        "entity_names": [
+            "Vietnamese",
+            "lunch",
+            "vegetarian options",
+            "Portland"
+        ],
+        "filename": "completion-221",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "vegetarian options"
+        ]
+    },
+    {
+        "sentence": "Which quirky and eccentric restaurant serves the best bagels for brunch",
+        "entity_names": [
+            "Bagel Bistro",
+            "brunch",
+            "quirky and eccentric",
+            "bagels"
+        ],
+        "filename": "completion-231",
+        "entity_types": [
+            "Restaurant Name",
+            "Amenity",
+            "Amenity",
+            "Dish"
+        ],
+        "missing_entity_names": [
+            "Bagel Bistro"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a late night buffet with a dessert bar for a gluten-free meal",
+        "entity_names": [
+            "late night buffet",
+            "dessert bar",
+            "gluten-free"
+        ],
+        "filename": "completion-232",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "gluten-free"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "What's the best gluten-free buffet restaurant in the area with a dessert bar?",
+        "entity_names": [
+            "gluten-free",
+            "buffet",
+            "dessert bar"
+        ],
+        "filename": "completion-232",
+        "entity_types": [
+            "Dietary Restriction",
+            "Meal Category",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "gluten-free",
+            "buffet"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction",
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Find me a restaurant with a gluten-free late night buffet and a wide variety of dessert options",
+        "entity_names": [
+            "gluten-free",
+            "late night buffet",
+            "dessert options"
+        ],
+        "filename": "completion-232",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "gluten-free"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "what time does The Bagel Barn open for brunch",
+        "entity_names": [
+            "The Bagel Barn",
+            "brunch",
+            "open for brunch"
+        ],
+        "filename": "completion-242",
+        "entity_types": [
+            "Restaurant Name",
+            "Amenity",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "brunch"
+        ]
+    },
+    {
+        "sentence": "Which restaurant serves gourmet sandwiches for a five-star lunch experience?",
+        "entity_names": [
+            "Five-star lunch places",
+            "gourmet sandwiches"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "Amenity",
+            "Dish"
+        ],
+        "missing_entity_names": [
+            "Five-star lunch places"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a five-star lunch place that offers a prix fixe menu.",
+        "entity_names": [
+            "Five-star lunch places",
+            "prix fixe menu"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "Amenity",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "Five-star lunch places"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a high-end restaurant with a great breakfast menu for the morning shift?",
+        "entity_names": [
+            "high-end",
+            "breakfast",
+            "morning shift",
+            "recommended"
+        ],
+        "filename": "completion-248",
+        "entity_types": [
+            "Price",
+            "Cuisine",
+            "Hours",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "recommended"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a Lebanese restaurant with an urban/chic ambience for a doctor in his 30s for lunch?",
+        "entity_names": [
+            "Lebanese",
+            "urban/chic",
+            "doctor in his 30s",
+            "lunch"
+        ],
+        "filename": "completion-259",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "demographic",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "doctor in his 30s"
+        ],
+        "entity_types_not_allowed": [
+            "demographic"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a quality-approved Italian restaurant with a chic atmosphere for a 30-something male doctor. Any suggestions for lunch?",
+        "entity_names": [
+            "Quality-approved",
+            "Italian",
+            "chic",
+            "30-something male doctor",
+            "lunch"
+        ],
+        "filename": "completion-259",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Amenity",
+            "demographic",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "30-something male doctor"
+        ],
+        "entity_types_not_allowed": [
+            "demographic"
+        ]
+    },
+    {
+        "sentence": "Where can I find an Italian restaurant that is popular among professionals in their 30s and has a chic urban ambience for lunch?",
+        "entity_names": [
+            "Italian",
+            "professionals in their 30s",
+            "chic urban",
+            "lunch"
+        ],
+        "filename": "completion-259",
+        "entity_types": [
+            "Cuisine",
+            "demographic",
+            "Amenity",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "professionals in their 30s"
+        ],
+        "entity_types_not_allowed": [
+            "demographic"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a pocket-friendly restaurant with buffet serving hours",
+        "entity_names": [
+            "Pocket-friendly",
+            "buffet",
+            "Buffet serving hours"
+        ],
+        "filename": "completion-263",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "buffet"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a highly rated gourmet restaurant with a waterfront ambience for dinner on Thursday?",
+        "entity_names": [
+            "Highly rated gourmet restaurant",
+            "Thursday",
+            "Dinner"
+        ],
+        "filename": "completion-264",
+        "entity_types": [
+            "Rating, Amenity",
+            "Hours",
+            "Amenity"
+        ],
+        "reordered_entity_names": [
+            "Highly rated gourmet restaurant",
+            "Dinner",
+            "Thursday"
+        ],
+        "reordered_entity_types": [
+            "Rating, Amenity",
+            "Amenity",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "Highly rated gourmet restaurant"
+        ],
+        "entity_types_not_allowed": [
+            "Rating, Amenity"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a breakfast place with WiFi where I can have a business meeting with a client?",
+        "entity_names": [
+            "breakfast",
+            "WiFi availability",
+            "business meeting"
+        ],
+        "filename": "completion-267",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "WiFi availability"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a breakfast spot with WiFi that has a cozy atmosphere and is within a 10-minute walk from my office",
+        "entity_names": [
+            "breakfast",
+            "WiFi availability",
+            "cozy atmosphere",
+            "10-minute walk"
+        ],
+        "filename": "completion-267",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "WiFi availability"
+        ]
+    },
+    {
+        "sentence": "I'm craving some Asian cuisine, where can I find a buffet place open until 10 p.m.?",
+        "entity_names": [
+            "Asian cuisine",
+            "buffet",
+            "Opening hours",
+            "until 10 p.m."
+        ],
+        "filename": "completion-268",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Hours",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Opening hours"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a buffet restaurant with a kid-friendly atmosphere that opens for lunch?",
+        "entity_names": [
+            "buffet",
+            "kid-friendly",
+            "Opening hours",
+            "lunch"
+        ],
+        "filename": "completion-268",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Hours",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Opening hours"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a trendy restaurant for dinner near Chez Panisse?",
+        "entity_names": [
+            "trendy",
+            "dinner",
+            "Chez Panisse"
+        ],
+        "filename": "completion-270",
+        "entity_types": [
+            "Amenity",
+            "Meal category",
+            "Restaurant Name"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a trendy restaurant with a dinner menu around Chez Panisse",
+        "entity_names": [
+            "trendy",
+            "dinner",
+            "Chez Panisse"
+        ],
+        "filename": "completion-270",
+        "entity_types": [
+            "Amenity",
+            "Meal category",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "do you know any casual caf\u00e9s around here that offer tasting menus",
+        "entity_names": [
+            "casual",
+            "caf\u00e9",
+            "tasting menus"
+        ],
+        "filename": "completion-276",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "caf\u00e9"
+        ]
+    },
+    {
+        "sentence": "where can I have a fancy dinner with a view tonight",
+        "entity_names": [
+            "fancy",
+            "dinner",
+            "tonight"
+        ],
+        "filename": "completion-288",
+        "entity_types": [
+            "Amenity",
+            "Meal",
+            "Hours"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "show me fast food restaurants with chef's specials",
+        "entity_names": [
+            "fast food",
+            "chef's specials",
+            "Special offers"
+        ],
+        "filename": "completion-289",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Special offers"
+        ]
+    },
+    {
+        "sentence": "recommend a fast food restaurant with chef's specials",
+        "entity_names": [
+            "fast food",
+            "chef's specials",
+            "Special offers"
+        ],
+        "filename": "completion-289",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Special offers"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a chic place to have a fine dining experience with a cocktail bar. Do you have any suggestions?",
+        "entity_names": [
+            "chic",
+            "cocktail bar"
+        ],
+        "filename": "completion-290",
+        "entity_types": [
+            "Ambience",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "chic"
+        ],
+        "entity_types_not_allowed": [
+            "Ambience"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for an upscale and elegant Japanese restaurant for a paleo-friendly lunch",
+        "entity_names": [
+            "upscale and elegant",
+            "Japanese",
+            "paleo-friendly",
+            "lunch"
+        ],
+        "filename": "completion-298",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Dietary Restriction",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "paleo-friendly",
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction",
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend an elegant lunch spot with paleo options, maybe a PF Chang's location?",
+        "entity_names": [
+            "elegant",
+            "paleo options",
+            "PF Chang's",
+            "lunch"
+        ],
+        "filename": "completion-298",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction",
+            "Restaurant Name",
+            "Meal Category"
+        ],
+        "reordered_entity_names": [
+            "elegant",
+            "lunch",
+            "paleo options",
+            "PF Chang's"
+        ],
+        "reordered_entity_types": [
+            "Amenity",
+            "Meal Category",
+            "Dietary Restriction",
+            "Restaurant Name"
+        ],
+        "entity_names_not_allowed": [
+            "lunch",
+            "paleo options"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category",
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a fancy Japanese restaurant in the area that serves paleo-friendly dishes for lunch?",
+        "entity_names": [
+            "fancy",
+            "Japanese",
+            "paleo-friendly",
+            "lunch"
+        ],
+        "filename": "completion-298",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Dietary Restriction",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "paleo-friendly",
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction",
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a fine dining restaurant that offers gluten-free options?",
+        "entity_names": [
+            "fine dining",
+            "gluten-free"
+        ],
+        "filename": "completion-315",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "gluten-free"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a high-end restaurant with a gluten-free menu, do you have any suggestions?",
+        "entity_names": [
+            "high-end",
+            "gluten-free"
+        ],
+        "filename": "completion-315",
+        "entity_types": [
+            "Price",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "gluten-free"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a top-notch fine dining restaurant that caters to gluten-free diners?",
+        "entity_names": [
+            "top-notch",
+            "fine dining",
+            "gluten-free",
+            "The French Laundry"
+        ],
+        "filename": "completion-315",
+        "entity_types": [
+            "Rating",
+            "Amenity",
+            "Dietary Restriction",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "The French Laundry"
+        ]
+    },
+    {
+        "sentence": "I'm craving some vegan paella. Is there a food truck nearby that serves it?",
+        "entity_names": [
+            "vegan",
+            "paella",
+            "food truck",
+            "within walking distance"
+        ],
+        "filename": "completion-318",
+        "entity_types": [
+            "Amenity",
+            "Dish",
+            "Restaurant Name",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "within walking distance"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a peaceful lunch spot with Caribbean food in Nashville that's popular among young adults. Any suggestions?",
+        "entity_names": [
+            "Caribbean",
+            "lunch",
+            "Nashville",
+            "young adult"
+        ],
+        "filename": "completion-331",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Location",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "young adult"
+        ]
+    },
+    {
+        "sentence": "Where can I find a quiet lunch place serving Caribbean cuisine that's popular with female students in Nashville on Fridays?",
+        "entity_names": [
+            "Caribbean",
+            "lunch",
+            "Nashville",
+            "Friday",
+            "female, student"
+        ],
+        "filename": "completion-331",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Location",
+            "Hours",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "Friday",
+            "female, student"
+        ]
+    },
+    {
+        "sentence": "What is the lunch menu at Yard House on the West side?",
+        "entity_names": [
+            "Yard House",
+            "West side",
+            "lunch",
+            "budget-friendly"
+        ],
+        "filename": "completion-334",
+        "entity_types": [
+            "Restaurant Name",
+            "Location",
+            "Amenity",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a cheap lunch spot near Yard House, any suggestions?",
+        "entity_names": [
+            "cheap",
+            "lunch",
+            "Yard House",
+            "West side"
+        ],
+        "filename": "completion-334",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Restaurant Name",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "West side"
+        ]
+    },
+    {
+        "sentence": "What are some brunch spots that serve acai bowls and are known for their cozy ambiance?",
+        "entity_names": [
+            "acai bowl",
+            "brunch",
+            "cozy ambiance"
+        ],
+        "filename": "completion-337",
+        "entity_types": [
+            "Dish",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "acai bowl"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant that offers healthy options for brunch, particularly acai bowls.",
+        "entity_names": [
+            "healthy",
+            "brunch",
+            "acai bowl"
+        ],
+        "filename": "completion-337",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Dish"
+        ],
+        "missing_entity_names": [
+            "acai bowl"
+        ]
+    },
+    {
+        "sentence": "I need to find a place for dinner that is gluten-free and offers takeout.",
+        "entity_names": [
+            "gluten-free",
+            "dinner",
+            "takeout",
+            "The Smokehouse"
+        ],
+        "filename": "completion-344",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "The Smokehouse"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a mid-range restaurant in Seattle that serves American brunch with cocktails",
+        "entity_names": [
+            "mid-range",
+            "Seattle",
+            "American",
+            "Brunch cocktails"
+        ],
+        "filename": "completion-351",
+        "entity_types": [
+            "Price",
+            "Location",
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Brunch cocktails"
+        ]
+    },
+    {
+        "sentence": "I'm looking for high-priced food truck fare in the area, can you recommend one?",
+        "entity_names": [
+            "high-priced",
+            "food truck",
+            "GPS coordinates"
+        ],
+        "filename": "completion-354",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "GPS coordinates"
+        ]
+    },
+    {
+        "sentence": "I'm a teacher in my mid-thirties and I'd like to find a caf\u00e9 with a diverse menu that includes Chipotle dishes. Any suggestions?",
+        "entity_names": [
+            "teacher",
+            "mid-thirties",
+            "Chipotle",
+            "cafes"
+        ],
+        "filename": "completion-357",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "cafes"
+        ]
+    },
+    {
+        "sentence": "I'm craving a late-night meal with a fast-casual vibe, where can I find some Texas Roadhouse around here?",
+        "entity_names": [
+            "late-night dining",
+            "fast-casual",
+            "Texas Roadhouse"
+        ],
+        "filename": "completion-361",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "late-night dining"
+        ]
+    },
+    {
+        "sentence": "I need to grab some late-night food, do you know if there's a fast-casual spot like P.F. Chang's nearby?",
+        "entity_names": [
+            "late-night dining",
+            "fast-casual",
+            "P.F. Chang's"
+        ],
+        "filename": "completion-361",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "late-night dining"
+        ]
+    },
+    {
+        "sentence": "Is there a place near P.F. Chang's where I can get a hearty meal after my construction shift ends at 10 pm?",
+        "entity_names": [
+            "hearty",
+            "construction worker",
+            "10 pm",
+            "P.F. Chang's"
+        ],
+        "filename": "completion-371",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Hours",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "construction worker"
+        ]
+    },
+    {
+        "sentence": "recommend a rustic buffet restaurant with halal options in the area",
+        "entity_names": [
+            "rustic",
+            "buffet",
+            "halal"
+        ],
+        "filename": "completion-381",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "halal"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "find me a buffet place with a rustic atmosphere serving halal food",
+        "entity_names": [
+            "buffet",
+            "rustic",
+            "halal"
+        ],
+        "filename": "completion-381",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "halal"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant with a buffet that offers halal dishes and has a rustic vibe",
+        "entity_names": [
+            "buffet",
+            "halal",
+            "rustic"
+        ],
+        "filename": "completion-381",
+        "entity_types": [
+            "Cuisine",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "halal"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Can you recommend an outstanding fast food restaurant with low-carb options in the downtown area?",
+        "entity_names": [
+            "Outstanding fast food restaurant",
+            "low-carb",
+            "downtown area"
+        ],
+        "filename": "completion-389",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "What outstanding fast food restaurant in the city serves low-carb meals and has a high rating?",
+        "entity_names": [
+            "Outstanding fast food restaurant",
+            "low-carb",
+            "city",
+            "high rating"
+        ],
+        "filename": "completion-389",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction",
+            "Location",
+            "Rating"
+        ],
+        "reordered_entity_names": [
+            "Outstanding fast food restaurant",
+            "city",
+            "low-carb",
+            "high rating"
+        ],
+        "reordered_entity_types": [
+            "Amenity",
+            "Location",
+            "Dietary Restriction",
+            "Rating"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for an outstanding fast food restaurant that offers low-carb dishes, where can I find one?",
+        "entity_names": [
+            "Outstanding fast food restaurant",
+            "low-carb"
+        ],
+        "filename": "completion-389",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I need to grab some food on the go, is there a Dunkin' Donuts with a drive-thru?",
+        "entity_names": [
+            "fast food",
+            "Dunkin' Donuts",
+            "drive-thru"
+        ],
+        "filename": "completion-391",
+        "entity_types": [
+            "Cuisine",
+            "Restaurant Name",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "fast food"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place with early bird specials for dinner",
+        "entity_names": [
+            "early bird specials",
+            "dinner"
+        ],
+        "filename": "completion-400",
+        "entity_types": [
+            "Amenity",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Where is the nearest Chili's Grill & Bar for dinner tonight?",
+        "entity_names": [
+            "Chili's Grill & Bar",
+            "dinner"
+        ],
+        "filename": "completion-400",
+        "entity_types": [
+            "Restaurant Name",
+            "Meal Category"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for some fast food, where can I find a place with gourmet burgers?",
+        "entity_names": [
+            "fast food",
+            "gourmet burgers",
+            "place with expensive price range"
+        ],
+        "filename": "completion-403",
+        "entity_types": [
+            "Cuisine",
+            "Dish",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "place with expensive price range"
+        ]
+    },
+    {
+        "sentence": "I want to grab a quick bite, where can I get some high-end tacos in this area?",
+        "entity_names": [
+            "fast food",
+            "high-end tacos",
+            "this area",
+            "place with expensive price range"
+        ],
+        "filename": "completion-403",
+        "entity_types": [
+            "Cuisine",
+            "Dish",
+            "Location",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "fast food",
+            "place with expensive price range"
+        ]
+    },
+    {
+        "sentence": "I need to find a place for a fancy fast food meal, where can I get some upscale chicken sandwiches?",
+        "entity_names": [
+            "fast food",
+            "upscale chicken sandwiches",
+            "place with expensive price range"
+        ],
+        "filename": "completion-403",
+        "entity_types": [
+            "Cuisine",
+            "Dish",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "place with expensive price range"
+        ]
+    },
+    {
+        "sentence": "can you recommend a buffet restaurant with gourmet options that won't break the bank",
+        "entity_names": [
+            "buffet",
+            "gourmet",
+            "budget-friendly"
+        ],
+        "filename": "completion-408",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "I'm craving some late-night Indian cuisine with a rustic ambience, can you recommend any restaurants?",
+        "entity_names": [
+            "late-night dining",
+            "rustic",
+            "Indian"
+        ],
+        "filename": "completion-415",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "late-night dining"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant with outdoor seating and a good lunch menu near the waterfront",
+        "entity_names": [
+            "outdoor seating",
+            "lunch",
+            "waterfront"
+        ],
+        "filename": "completion-416",
+        "entity_types": [
+            "Amenity",
+            "Meal Category",
+            "Location"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a place with vegetarian options for lunch and a 4-star rating?",
+        "entity_names": [
+            "vegetarian options",
+            "lunch",
+            "4-star"
+        ],
+        "filename": "completion-416",
+        "entity_types": [
+            "Cuisine",
+            "Meal Category",
+            "Rating"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal Category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any fine dining restaurants with gluten-free options and a business center?",
+        "entity_names": [
+            "fine dining",
+            "gluten-free",
+            "business center"
+        ],
+        "filename": "completion-423",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "gluten-free"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a fine dining restaurant with a high OpenTable rating that serves Chinese and French cuisine.",
+        "entity_names": [
+            "fine dining",
+            "OpenTable rating",
+            "Chinese cuisine",
+            "French cuisine"
+        ],
+        "filename": "completion-423",
+        "entity_types": [
+            "Amenity",
+            "Rating",
+            "Cuisine",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "Chinese cuisine"
+        ]
+    },
+    {
+        "sentence": "Which fine dining restaurant nearby offers gluten-free options and specializes in Chinese and French cuisine?",
+        "entity_names": [
+            "fine dining",
+            "gluten-free",
+            "Chinese cuisine",
+            "French cuisine"
+        ],
+        "filename": "completion-423",
+        "entity_types": [
+            "Amenity",
+            "Dietary Restriction",
+            "Cuisine",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "Chinese cuisine"
+        ]
+    },
+    {
+        "sentence": "I'm craving sushi. Is there a highly rated sushi bar with a view near downtown?",
+        "entity_names": [
+            "sushi",
+            "highly rated",
+            "view",
+            "downtown",
+            "dinner"
+        ],
+        "filename": "completion-429",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Amenity",
+            "Location",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "dinner"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a budget-friendly restaurant with a buffet for a 35-year-old male construction worker?",
+        "entity_names": [
+            "buffet",
+            "budget-friendly",
+            "35-year-old"
+        ],
+        "filename": "completion-434",
+        "entity_types": [
+            "Amenity",
+            "Price",
+            "Demographic"
+        ],
+        "reordered_entity_names": [
+            "budget-friendly",
+            "buffet",
+            "35-year-old"
+        ],
+        "reordered_entity_types": [
+            "Price",
+            "Amenity",
+            "Demographic"
+        ],
+        "entity_names_not_allowed": [
+            "35-year-old"
+        ],
+        "entity_types_not_allowed": [
+            "Demographic"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place with a buffet that's good for a 35-year-old construction worker and won't break the bank.",
+        "entity_names": [
+            "buffet",
+            "35-year-old",
+            "budget-friendly"
+        ],
+        "filename": "completion-434",
+        "entity_types": [
+            "Amenity",
+            "Demographic",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "Where can I find a buffet that's suitable for a 35-year-old construction worker without spending too much?",
+        "entity_names": [
+            "buffet",
+            "35-year-old",
+            "suitable",
+            "budget-friendly"
+        ],
+        "filename": "completion-434",
+        "entity_types": [
+            "Amenity",
+            "Demographic",
+            "Rating",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with an oceanview buffet?",
+        "entity_names": [
+            "oceanview buffet",
+            "critic recommendation"
+        ],
+        "filename": "completion-450",
+        "entity_types": [
+            "Amenity",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "critic recommendation"
+        ]
+    },
+    {
+        "sentence": "Where can I find a critic-recommended restaurant with a buffet offering?",
+        "entity_names": [
+            "critic recommendation",
+            "buffet"
+        ],
+        "filename": "completion-450",
+        "entity_types": [
+            "Rating",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "critic recommendation"
+        ]
+    },
+    {
+        "sentence": "which restaurant offers breakfast tasting menus with affordable prices and business hours",
+        "entity_names": [
+            "breakfast",
+            "tasting menu",
+            "affordable prices",
+            "business hours"
+        ],
+        "filename": "completion-453",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Price",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "tasting menu"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with good lunch meal deals for delivery?",
+        "entity_names": [
+            "good",
+            "lunch",
+            "delivery",
+            "Meal deals"
+        ],
+        "filename": "completion-458",
+        "entity_types": [
+            "Rating",
+            "Meal",
+            "Amenity",
+            "Amenity"
+        ],
+        "reordered_entity_names": [
+            "good",
+            "lunch",
+            "Meal deals",
+            "delivery"
+        ],
+        "reordered_entity_types": [
+            "Rating",
+            "Meal",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place with affordable lunch options for delivery. Any recommendations?",
+        "entity_names": [
+            "affordable",
+            "lunch",
+            "delivery"
+        ],
+        "filename": "completion-458",
+        "entity_types": [
+            "Price",
+            "Meal",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal"
+        ]
+    },
+    {
+        "sentence": "Is there a restaurant that offers lunch meal deals and delivers in the area?",
+        "entity_names": [
+            "lunch",
+            "Meal deals",
+            "delivery"
+        ],
+        "filename": "completion-458",
+        "entity_types": [
+            "Meal",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "delivery"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant with parking that offers happy hour specials for dinner",
+        "entity_names": [
+            "Parking",
+            "happy hour specials",
+            "dinner"
+        ],
+        "filename": "completion-460",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Where can I find a restaurant with margherita pizza and fajitas for dinner",
+        "entity_names": [
+            "margherita pizza",
+            "fajitas",
+            "dinner"
+        ],
+        "filename": "completion-460",
+        "entity_types": [
+            "Dish",
+            "Dish",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "I need a recommendation for a dinner place with good margherita pizza and fajitas and a parking lot",
+        "entity_names": [
+            "margherita pizza",
+            "fajitas",
+            "dinner",
+            "parking"
+        ],
+        "filename": "completion-460",
+        "entity_types": [
+            "Dish",
+            "Dish",
+            "Time",
+            "Amenity"
+        ],
+        "reordered_entity_names": [
+            "dinner",
+            "margherita pizza",
+            "fajitas",
+            "parking"
+        ],
+        "reordered_entity_types": [
+            "Time",
+            "Dish",
+            "Dish",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "dinner"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "I'm a male doctor in my 30s looking for a sushi place with affordable prices and a relaxed atmosphere for dinner. Any recommendations?",
+        "entity_names": [
+            "male",
+            "doctor",
+            "30s",
+            "sushi",
+            "affordable",
+            "relaxed atmosphere",
+            "dinner"
+        ],
+        "filename": "completion-463",
+        "entity_types": [
+            "demographic",
+            "demographic",
+            "demographic",
+            "Cuisine",
+            "Price",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "male",
+            "doctor",
+            "30s"
+        ],
+        "entity_types_not_allowed": [
+            "demographic",
+            "demographic",
+            "demographic"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a top-notch buffet restaurant that offers vegetarian options and delivery service.",
+        "entity_names": [
+            "top-notch buffet",
+            "vegetarian",
+            "delivery"
+        ],
+        "filename": "completion-471",
+        "entity_types": [
+            "Amenity, Cuisine",
+            "Dish",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "top-notch buffet"
+        ],
+        "entity_types_not_allowed": [
+            "Amenity, Cuisine"
+        ]
+    },
+    {
+        "sentence": "Where can I find a buffet restaurant that delivers and serves vegetarian dishes, like Old Country Buffet?",
+        "entity_names": [
+            "buffet",
+            "delivery",
+            "vegetarian",
+            "Old Country Buffet"
+        ],
+        "filename": "completion-471",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Dish",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "delivery"
+        ]
+    },
+    {
+        "sentence": "Where can I find a buffet restaurant with Greek cuisine and a lounge/bar atmosphere that won't break the bank?",
+        "entity_names": [
+            "buffet",
+            "Greek",
+            "lounge/bar",
+            "wallet-friendly"
+        ],
+        "filename": "completion-474",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Amenity",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "wallet-friendly"
+        ]
+    },
+    {
+        "sentence": "I'm craving a low-carb dinner, any suggestions for a restaurant with Margherita pizza?",
+        "entity_names": [
+            "low-carb",
+            "Margherita pizza"
+        ],
+        "filename": "completion-476",
+        "entity_types": [
+            "Dietary restriction",
+            "Dish"
+        ],
+        "entity_names_not_allowed": [
+            "low-carb"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary restriction"
+        ]
+    },
+    {
+        "sentence": "can you recommend a private dining spot for an elegant lunch",
+        "entity_names": [
+            "private dining",
+            "elegant",
+            "lunch"
+        ],
+        "filename": "completion-486",
+        "entity_types": [
+            "Amenity",
+            "Ambience",
+            "Meal category"
+        ],
+        "entity_names_not_allowed": [
+            "elegant",
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Ambience",
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "where can I find an upscale restaurant with french cuisine for a senior lady's lunch",
+        "entity_names": [
+            "upscale",
+            "French",
+            "senior lady",
+            "lunch"
+        ],
+        "filename": "completion-486",
+        "entity_types": [
+            "Ambience",
+            "Cuisine",
+            "User demographic",
+            "Meal category"
+        ],
+        "entity_names_not_allowed": [
+            "upscale",
+            "senior lady",
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Ambience",
+            "User demographic",
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "show me the nearest elegant restaurant, maybe La Petite Creperie, for a retired woman's lunch",
+        "entity_names": [
+            "elegant",
+            "La Petite Creperie",
+            "retired woman",
+            "lunch"
+        ],
+        "filename": "completion-486",
+        "entity_types": [
+            "Ambience",
+            "Restaurant Name",
+            "User demographic",
+            "Meal category"
+        ],
+        "entity_names_not_allowed": [
+            "elegant",
+            "retired woman",
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Ambience",
+            "User demographic",
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "I need a breakfast spot that caters to a construction worker like me and stays open late",
+        "entity_names": [
+            "breakfast",
+            "construction worker",
+            "late closing"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "late closing"
+        ]
+    },
+    {
+        "sentence": "Where can I find a restaurant with a breakfast menu that's open late, and also has a good rating?",
+        "entity_names": [
+            "breakfast",
+            "late closing",
+            "good"
+        ],
+        "filename": "completion-487",
+        "entity_types": [
+            "Cuisine",
+            "Hours",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "late closing"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a cozy and intimate restaurant with a bar that serves lunch?",
+        "entity_names": [
+            "cozy and intimate",
+            "bar",
+            "lunch"
+        ],
+        "filename": "completion-504",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Meal category"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a late-night dining spot with a cozy ambience that serves lunch.",
+        "entity_names": [
+            "late-night dining",
+            "cozy ambience",
+            "lunch"
+        ],
+        "filename": "completion-504",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Meal category"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "Find me a restaurant with a bar and a cozy atmosphere for a lunch meeting.",
+        "entity_names": [
+            "bar",
+            "cozy atmosphere",
+            "lunch"
+        ],
+        "filename": "completion-504",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Meal category"
+        ],
+        "entity_names_not_allowed": [
+            "lunch"
+        ],
+        "entity_types_not_allowed": [
+            "Meal category"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with delicious ribs and a rustic, charming atmosphere for dinner?",
+        "entity_names": [
+            "Ribs",
+            "rustic and charming",
+            "dinner"
+        ],
+        "filename": "completion-509",
+        "entity_types": [
+            "Dish",
+            "Amenity",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "rustic and charming"
+        ]
+    },
+    {
+        "sentence": "What quality caf\u00e9s around here offer tasting menus?",
+        "entity_names": [
+            "Quality caf\u00e9",
+            "tasting menus"
+        ],
+        "filename": "completion-523",
+        "entity_types": [
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Quality caf\u00e9"
+        ]
+    },
+    {
+        "sentence": "Where can I find a caf\u00e9 with high-quality tasting menus nearby?",
+        "entity_names": [
+            "Quality caf\u00e9",
+            "tasting menus"
+        ],
+        "filename": "completion-523",
+        "entity_types": [
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Quality caf\u00e9"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a buffet restaurant in Paris with a chic urban ambience and paleo options",
+        "entity_names": [
+            "buffet",
+            "Paris",
+            "urban/chic",
+            "paleo"
+        ],
+        "filename": "completion-528",
+        "entity_types": [
+            "Amenity",
+            "Location",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "urban/chic"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a Mediterranean restaurant in Paris with a buffet and a chic urban atmosphere",
+        "entity_names": [
+            "Mediterranean",
+            "Paris",
+            "buffet",
+            "urban/chic"
+        ],
+        "filename": "completion-528",
+        "entity_types": [
+            "Cuisine",
+            "Location",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "urban/chic"
+        ]
+    },
+    {
+        "sentence": "Where can I find BBQ ribs in Paris with a chic urban atmosphere and a buffet option for paleo eaters",
+        "entity_names": [
+            "BBQ ribs",
+            "Paris",
+            "urban/chic",
+            "buffet",
+            "paleo"
+        ],
+        "filename": "completion-528",
+        "entity_types": [
+            "Dish",
+            "Location",
+            "Amenity",
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "urban/chic"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with a drive-thru that operates during lunch hours in the city center?",
+        "entity_names": [
+            "drive-thru",
+            "lunch",
+            "city center",
+            "Time of operations"
+        ],
+        "filename": "completion-533",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Location",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Time of operations"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a cost-efficient buffet restaurant with WiFi that serves paleo-friendly dishes",
+        "entity_names": [
+            "cost-efficient",
+            "buffet",
+            "WiFi",
+            "paleo-friendly"
+        ],
+        "filename": "completion-540",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "paleo-friendly"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a budget-friendly buffet place with WiFi that offers paleo options",
+        "entity_names": [
+            "budget-friendly",
+            "buffet",
+            "WiFi",
+            "paleo options"
+        ],
+        "filename": "completion-540",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "paleo options"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a buffet restaurant that is affordable, has WiFi, and accommodates paleo diets?",
+        "entity_names": [
+            "affordable",
+            "buffet",
+            "WiFi",
+            "paleo diets"
+        ],
+        "filename": "completion-540",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "reordered_entity_names": [
+            "buffet",
+            "affordable",
+            "WiFi",
+            "paleo diets"
+        ],
+        "reordered_entity_types": [
+            "Amenity",
+            "Price",
+            "Amenity",
+            "Dietary Restriction"
+        ],
+        "entity_names_not_allowed": [
+            "paleo diets"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant that offers inexpensive late-night dining options, can you recommend one?",
+        "entity_names": [
+            "inexpensive late-night dining options"
+        ],
+        "filename": "completion-544",
+        "entity_types": [
+            "Price, Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "inexpensive late-night dining options"
+        ],
+        "entity_types_not_allowed": [
+            "Price, Amenity"
+        ]
+    },
+    {
+        "sentence": "which nearby caf\u00e9 offers takeout for coffee and pastries",
+        "entity_names": [
+            "coffee and pastries",
+            "Takeout service"
+        ],
+        "filename": "completion-548",
+        "entity_types": [
+            "Dish",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Takeout service"
+        ]
+    },
+    {
+        "sentence": "Where can I find a restaurant that offers waffles as part of their brunch menu on Tuesday mornings?",
+        "entity_names": [
+            "waffles",
+            "Tuesday morning"
+        ],
+        "filename": "completion-560",
+        "entity_types": [
+            "Dish",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Tuesday morning"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a food truck with patio seating for a dine-in meal?",
+        "entity_names": [
+            "food truck",
+            "patio seating",
+            "dine-in"
+        ],
+        "filename": "completion-566",
+        "entity_types": [
+            "Restaurant Type",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "food truck"
+        ],
+        "entity_types_not_allowed": [
+            "Restaurant Type"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a food truck with patio seating that offers dine-in options. Any suggestions?",
+        "entity_names": [
+            "food truck",
+            "patio seating",
+            "dine-in"
+        ],
+        "filename": "completion-566",
+        "entity_types": [
+            "Restaurant Type",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "food truck"
+        ],
+        "entity_types_not_allowed": [
+            "Restaurant Type"
+        ]
+    },
+    {
+        "sentence": "Is there a food truck around here that has patio seating for dine-in meals?",
+        "entity_names": [
+            "food truck",
+            "patio seating",
+            "dine-in"
+        ],
+        "filename": "completion-566",
+        "entity_types": [
+            "Restaurant Type",
+            "Amenity",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "food truck"
+        ],
+        "entity_types_not_allowed": [
+            "Restaurant Type"
+        ]
+    },
+    {
+        "sentence": "which restaurants around here serve late-night Chinese dishes and deliver?",
+        "entity_names": [
+            "Chinese",
+            "late-night",
+            "delivery"
+        ],
+        "filename": "completion-572",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "delivery"
+        ]
+    },
+    {
+        "sentence": "Where can I have a fine dining experience with a romantic ambience and a view of the mountains?",
+        "entity_names": [
+            "fine dining",
+            "romantic",
+            "mountain view"
+        ],
+        "filename": "completion-576",
+        "entity_types": [
+            "Price",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "mountain view"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant with a buffet and bottomless mimosas that won't break the bank. Do you have any suggestions?",
+        "entity_names": [
+            "buffet",
+            "bottomless mimosas",
+            "budget-friendly"
+        ],
+        "filename": "completion-583",
+        "entity_types": [
+            "Amenity",
+            "Amenity",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "Which restaurant around here offers breakfast at a reasonable price",
+        "entity_names": [
+            "breakfast",
+            "reasonable price",
+            "The Cereal Spot"
+        ],
+        "filename": "completion-591",
+        "entity_types": [
+            "Cuisine",
+            "Price",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "The Cereal Spot"
+        ]
+    },
+    {
+        "sentence": "Where can I find a Mexican restaurant with vegetarian options for dinner?",
+        "entity_names": [
+            "Mexican",
+            "vegetarian options",
+            "dinner",
+            "budget-friendly"
+        ],
+        "filename": "completion-595",
+        "entity_types": [
+            "Cuisine",
+            "Dish",
+            "Hours",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "budget-friendly"
+        ]
+    },
+    {
+        "sentence": "What are the top-rated restaurants with a late-night dining menu for families?",
+        "entity_names": [
+            "top-rated",
+            "late-night dining",
+            "family-friendly"
+        ],
+        "filename": "completion-597",
+        "entity_types": [
+            "Rating",
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "family-friendly"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any Chinese restaurants with paleo options for dinner?",
+        "entity_names": [
+            "Chinese",
+            "paleo",
+            "dinner"
+        ],
+        "filename": "completion-600",
+        "entity_types": [
+            "Cuisine",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "paleo"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    },
+    {
+        "sentence": "Where can I find a restaurant for dinner that offers paleo-friendly options and also serves afternoon tea?",
+        "entity_names": [
+            "paleo",
+            "dinner",
+            "afternoon tea"
+        ],
+        "filename": "completion-600",
+        "entity_types": [
+            "Dietary Restriction",
+            "Amenity",
+            "Amenity"
+        ],
+        "reordered_entity_names": [
+            "dinner",
+            "paleo",
+            "afternoon tea"
+        ],
+        "reordered_entity_types": [
+            "Amenity",
+            "Dietary Restriction",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "paleo"
+        ],
+        "entity_types_not_allowed": [
+            "Dietary Restriction"
+        ]
+    }
+]

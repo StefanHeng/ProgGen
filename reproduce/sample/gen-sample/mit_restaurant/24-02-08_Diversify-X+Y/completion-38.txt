@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a cozy and intimate buffet restaurant, preferably with a dim sum option"
+Named Entities: [cozy and intimate (Amenity), buffet (Cuisine), Dim Sum (Dish)]
+
+Query: "can you recommend a buffet restaurant with a dim sum selection in a cozy atmosphere?"
+Named Entities: [buffet (Cuisine), Dim Sum (Dish), cozy atmosphere (Amenity)]
+
+Query: "where can I find a buffet place with a dim sum menu and a cozy ambience?"
+Named Entities: [buffet (Cuisine), Dim Sum (Dish), cozy ambience (Amenity)]

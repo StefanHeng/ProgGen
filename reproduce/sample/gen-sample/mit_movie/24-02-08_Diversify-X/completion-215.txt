@@ -1,0 +1,8 @@
+Query: "What's the best horror movie of the 2010s?"
+Named Entities: [horror movie (Genre), 2010s (Year)]
+
+Query: "Who directed the classic romantic comedy with the song 'You've Got a Friend in Me'?"
+Named Entities: [romantic comedy (Genre), You've Got a Friend in Me (Song)]
+
+Query: "Can you recommend a recent action film with a strong female lead?"
+Named Entities: [action film (Genre), strong female lead (Character)]

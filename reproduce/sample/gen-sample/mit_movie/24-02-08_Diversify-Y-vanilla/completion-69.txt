@@ -1,0 +1,8 @@
+1. "Could you recommend a movie suitable for children that has a Parental Guidance rating?"
+Named Entities: [Parental Guidance (MPAA Rating)]
+
+2. "I'm looking for a movie featuring a character who sings Chandelier."
+Named Entities: [Chandelier (Song)]
+
+3. "Which movie does Princess Anna appear in?"
+Named Entities: [Princess Anna (Character)]

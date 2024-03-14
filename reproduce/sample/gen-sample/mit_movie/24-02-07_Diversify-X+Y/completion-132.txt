@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the latest sci-fi movie released this year?" 
+Named Entities: [Sci-fi (Genre), this year (Year), viewers' rating (Viewers' Rating)]
+
+2. "Show me a movie with the song Unchained Melody in its soundtrack."
+Named Entities: [Unchained Melody (Song)]
+
+3. "Can you recommend a good martial arts film that has received positive reviews?"
+Named Entities: [martial arts (Genre), positive reviews (Review)]

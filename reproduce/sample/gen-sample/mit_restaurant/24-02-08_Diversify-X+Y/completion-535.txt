@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with a private dining area that serves Indian brunch"
+Named Entities: [private dining (Amenity), Indian (Cuisine), brunch (Amenity)]
+
+Query: "Where can I find an expensive restaurant with a good selection of breakfast sandwiches"
+Named Entities: [expensive (Price), breakfast sandwiches (Dish)]
+
+Query: "Do you know of any upscale Indian restaurants in the area that offer brunch service"
+Named Entities: [upscale (Price), Indian (Cuisine), brunch (Amenity)]

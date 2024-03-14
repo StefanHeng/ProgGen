@@ -1,0 +1,8 @@
+1. Query: "Where can I find famous Mexican restaurants in the area?"
+   Named Entities: [famous (Rating), Mexican (Cuisine), area (Location)]
+
+2. Query: "I'm craving some famous sushi, can you recommend any nearby places?"
+   Named Entities: [famous (Rating), sushi (Cuisine), nearby (Location)]
+
+3. Query: "What are the famous Italian restaurants with outdoor seating?"
+   Named Entities: [famous (Rating), Italian (Cuisine), outdoor seating (Amenity)]

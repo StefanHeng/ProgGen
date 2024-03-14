@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly recommended food truck with vegetarian options in the downtown area?"
+Named Entities: [Highly recommended food truck (Rating), vegetarian options (Cuisine), downtown area (Location)]
+
+Query: "What is the highest rated food truck in the city that serves Mexican cuisine?"
+Named Entities: [highest rated food truck (Rating), Mexican cuisine (Cuisine), city (Location)]
+
+Query: "I'm craving some authentic barbecue. Can you suggest a highly recommended food truck with barbecue in the nearby suburbs?"
+Named Entities: [authentic barbecue (Cuisine), highly recommended food truck (Rating), nearby suburbs (Location)]

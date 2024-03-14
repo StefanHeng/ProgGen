@@ -1,0 +1,8 @@
+1. "Can you play the Hakuna Matata song from The Lion King movie?"
+Named Entities: [Hakuna Matata (Song), The Lion King (Title)]
+
+2. "What is the viewers' rating of the movie La La Land released in 2017?"
+Named Entities: [La La Land (Title), 2017 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Who directed the approved film in which Tom Hanks starred in?"
+Named Entities: [Tom Hanks (Actor), approved (MPAA Rating)]

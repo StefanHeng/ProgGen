@@ -1,0 +1,8 @@
+1. "I need to find showtimes for the new mockumentary film 'NR' and buy tickets ASAP"
+Named Entities: [NR (MPAA Rating), mockumentary (Genre), showtimes (Viewers' Rating), buy tickets (Action)
+
+2. "I'm freaking out! Where can I watch the official trailer for the highest-grossing box office movie of all time"
+Named Entities: [highest-grossing (Viewers' Rating), box office (Plot), official trailer (Trailer)]
+
+3. "I'm really stressed about finding a theater with the most recent box office hits. Can you help me with that?"
+Named Entities: [most recent (Year), box office hits (Plot)]

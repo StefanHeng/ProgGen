@@ -1,0 +1,8 @@
+1. Query: "could you recommend a 2017 movie featuring Keira Knightley that has a disappointing ending"
+   Named Entities: [2017 (Year), Keira Knightley (Actor), disappointing ending (Review)]
+
+2. Query: "show me a movie with the song Uptown Funk"
+   Named Entities: [Uptown Funk (Song)]
+
+3. Query: "what genre of movie is known for having the best plot twists"
+   Named Entities: [best plot twists (Review)]

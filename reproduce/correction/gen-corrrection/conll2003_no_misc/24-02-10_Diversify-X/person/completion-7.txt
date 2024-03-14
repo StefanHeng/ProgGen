@@ -1,0 +1,8 @@
+1. Text Span: "Ava DuVernay"
+Label: (A)
+
+2. Text Span: "Former President Johnson"
+Label: (B). The correct span boundary is "Johnson".
+
+3. Text Span: "Vladimir Putin"
+Label: (A)

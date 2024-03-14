@@ -1,0 +1,8 @@
+Query: "Do you know if The Greek Island Taverna offers parking options?"
+Named Entities: [The Greek Island Taverna (Restaurant Name), Parking options (Amenity)]
+
+Query: "I'm craving a bowl of clam chowder, is there a place nearby that serves it?"
+Named Entities: [clam chowder (Dish), nearby (Location)]
+
+Query: "What time does Panera Bread close tonight?"
+Named Entities: [Panera Bread (Restaurant Name), tonight (Hours)]

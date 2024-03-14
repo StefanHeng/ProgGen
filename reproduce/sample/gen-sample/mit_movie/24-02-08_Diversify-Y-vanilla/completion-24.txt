@@ -1,0 +1,8 @@
+1. Query: "can you recommend a good black comedy film starring Jodie Foster"
+   Named Entities: [black comedy (Genre), Jodie Foster (Actor)]
+
+2. Query: "show me a movie with the song My Way that is considered touching"
+   Named Entities: [My Way (Song), touching (Viewers' Rating)]
+
+3. Query: "could you tell me about any decent movies from the 90s"
+   Named Entities: [decent (Review), 90s (Year)]

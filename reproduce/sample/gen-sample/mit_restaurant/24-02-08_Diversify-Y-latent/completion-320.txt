@@ -1,0 +1,8 @@
+1. Query: "do you know of any buffet restaurants nearby"
+   Named Entities: [buffet (Amenity), nearby (Location)]
+
+2. Query: "I'm craving bacon and eggs, where can I find a place that serves them all day"
+   Named Entities: [bacon and eggs (Dish), all day (Hours)]
+
+3. Query: "I want to have dinner at an affordable place with a good rating"
+   Named Entities: [affordable (Price), good rating (Rating)]

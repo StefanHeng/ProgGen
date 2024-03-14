@@ -1,0 +1,8 @@
+1. "Can you give me a quick overview of the plot for a movie with an undercover operation in it?"
+   Named Entities: [Undercover operation (Plot)]
+
+2. "What PG-14 movie has an awe-inspiring storyline?"
+   Named Entities: [PG-14 (MPAA Rating), awe-inspiring (Plot)]
+
+3. "I'm looking for a movie with a one-star review that features Julia Roberts and the song Old Time Rock and Roll. Can you recommend one?"
+   Named Entities: [One-star review (Review), Julia Roberts (Actor), Old Time Rock and Roll (Song)]

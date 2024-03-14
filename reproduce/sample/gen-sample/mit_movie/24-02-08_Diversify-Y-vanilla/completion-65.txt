@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an iconic car chase scene?" 
+Named Entities: [iconic car chase scene (Plot)] [GP]
+
+2. "Show me a film starring Leonardo DiCaprio and directed by Martin Scorsese"
+Named Entities: [Leonardo DiCaprio (Actor), Martin Scorsese (Director)] [GP]
+
+3. "Which movie from the 1980s has the most intense action sequences?"
+Named Entities: [1980s (Year), intense action sequences (Plot)] [GP]

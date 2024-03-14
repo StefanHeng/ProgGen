@@ -1,0 +1,8 @@
+1. Text Span: "Clay Mathematics Institute"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Academy Award"
+Label: (C). Wrong Type. The correct entity type is other.

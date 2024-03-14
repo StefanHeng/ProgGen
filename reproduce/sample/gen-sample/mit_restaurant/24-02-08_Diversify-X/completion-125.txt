@@ -1,0 +1,8 @@
+1. "I'm craving fast food, is there a place nearby that offers tasting menus?"
+Named Entities: [fast food (Cuisine), tasting menus (Amenity), nearby (Location)]
+
+2. "What are the hours of operation for the closest fast food restaurant with a tasting menu?"
+Named Entities: [fast food (Cuisine), tasting menu (Amenity), closest (Location), hours of operation (Hours)]
+
+3. "Can you recommend a fast food spot with a good rating and a tasting menu in this area?"
+Named Entities: [fast food (Cuisine), good rating (Rating), tasting menu (Amenity), this area (Location)]

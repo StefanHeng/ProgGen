@@ -1,0 +1,8 @@
+1. "Can you recommend a five-star movie with a special feature focused on The Blues Brothers?"
+Named Entities: [Five-star (Viewers' Rating), Special feature (Feature), The Blues Brothers (Title)]
+
+2. "I'm looking for a teaser of a movie that's a gem, such as Boyhood."
+Named Entities: [Teaser (Trailer), a gem (Review), Boyhood (Title)]
+
+3. "Is there a movie with a great review that features the song 'Don't Worry, Be Happy'?"
+Named Entities: [great review (Review), the song 'Don't Worry, Be Happy' (Song)]

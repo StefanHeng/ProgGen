@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a kids menu that offers late-night dining."
+Named Entities: [kids menu (Amenity), late-night dining (Amenity)]
+
+2. "Do you know any place with valet service for late-night dining?"
+Named Entities: [valet service (Amenity), late-night dining (Amenity)]
+
+3. "Where can I find a restaurant with a good late-night dining menu and valet service for kids?"
+Named Entities: [late-night dining (Amenity), valet service (Amenity), kids (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants with cheap brunch options?"
+Named Entities: [Cheap brunch options (Amenity)]
+
+Query: "I'm craving some authentic Italian food, any suggestions for a good Italian restaurant?"
+Named Entities: [authentic Italian food (Cuisine), Italian (Cuisine)]
+
+Query: "What's the best place in the area for a quick bite to eat?"
+Named Entities: [best (Rating), quick (Amenity)]

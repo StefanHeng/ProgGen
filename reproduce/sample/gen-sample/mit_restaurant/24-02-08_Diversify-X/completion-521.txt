@@ -1,0 +1,8 @@
+1. "Where can I find a food truck with vegan options?"
+Named Entities: [food truck (Amenity), vegan (Cuisine)]
+
+2. "What food trucks are open after 10 pm?"
+Named Entities: [food trucks (Amenity), after 10 pm (Hours)]
+
+3. "I want to grab a quick bite from a food truck with affordable prices."
+Named Entities: [food truck (Amenity), affordable prices (Price)]

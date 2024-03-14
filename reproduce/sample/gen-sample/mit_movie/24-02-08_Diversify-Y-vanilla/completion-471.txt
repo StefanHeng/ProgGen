@@ -1,0 +1,8 @@
+1. "Can you recommend a Room-related movie with a captivating plot?"
+Named Entities: [Room (Title)]
+
+2. "I'm looking for a stoner comedy released in the last 5 years with great viewers' ratings"
+Named Entities: [stoner (Genre), comedy (Genre), last 5 years (Year), great viewers' ratings (Viewers' Rating)]
+
+3. "What year was 12 Angry Men, the classic legal drama, released?"
+Named Entities: [12 Angry Men (Title), classic legal drama (Genre), released (Year)]

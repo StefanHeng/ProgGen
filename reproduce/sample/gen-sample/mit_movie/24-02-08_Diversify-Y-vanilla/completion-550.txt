@@ -1,0 +1,8 @@
+1. Query: "Which movie conveys a powerful message about social justice?"
+Named Entities: [Powerful message]
+
+2. Query: "What was the first look at the next Batman movie directed by Matt Reeves?"
+Named Entities: [first look (Trailer), Batman (Title), Matt Reeves (Director)]
+
+3. Query: "Is there a movie with a powerful message about environmental conservation?"
+Named Entities: [Powerful message, environmental conservation (Plot)]

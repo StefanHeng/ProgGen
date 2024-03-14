@@ -1,0 +1,8 @@
+1. Spoken Query: "What popular movie released in the 2000s has the song 'Just Keep Swimming' in its soundtrack?"
+   Named Entities: ['Just Keep Swimming' (Song), 2000s (Year)]
+
+2. Spoken Query: "Can you recommend a movie with an action-packed soundtrack that was released in the past 5 years?"
+   Named Entities: [action-packed (Genre), past 5 years (Year)]
+
+3. Spoken Query: "I'm looking for a movie that features the song 'Beyond the Sea' in its soundtrack, preferably a thriller or suspense film. Can you suggest one?"
+   Named Entities: ['Beyond the Sea' (Song), thriller or suspense (Genre)]

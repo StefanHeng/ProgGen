@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with WiFi availability to have breakfast with a friend tomorrow"
+Named Entities: [WiFi availability (Amenity), breakfast (Cuisine), tomorrow (Hours)]
+
+Query: "which restaurant in the city offers breakfast and WiFi?"
+Named Entities: [breakfast (Cuisine), WiFi (Amenity), city (Location)]
+
+Query: "can you recommend a breakfast spot with WiFi that has high ratings?"
+Named Entities: [breakfast (Cuisine), WiFi (Amenity), high ratings (Rating)]

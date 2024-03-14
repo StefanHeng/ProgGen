@@ -1,0 +1,8 @@
+Query: "Can you tell me what movies Emma Stone has starred in?"
+Named Entities: [Emma Stone (Actor)]
+
+Query: "Who directed the movie Inception?"
+Named Entities: [Inception (Title)]
+
+Query: "What is the viewer's rating for the film The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewer's rating (Viewers' Rating)]

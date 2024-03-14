@@ -1,0 +1,8 @@
+1. "Where can I find Spanish restaurants with inexpensive lunch menus?"
+   Named Entities: [Spanish (Cuisine), Inexpensive lunch menus (Price)]
+
+2. "I'm craving Italian, can you recommend me a place like Carrabba's Italian Grill?"
+   Named Entities: [Italian (Cuisine), Carrabba's Italian Grill (Restaurant Name)]
+
+3. "What are the dining hours for restaurants that serve Spanish cuisine?"
+   Named Entities: [Spanish (Cuisine), dining hours (Hours)]

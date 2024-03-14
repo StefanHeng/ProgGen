@@ -1,0 +1,8 @@
+1. Text Span: "nostalgic"
+   Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "children's"
+   Label: (C). Wrong Type. The correct entity type is Genre.
+
+3. Text Span: "high"
+   Label: (A). The span is a named entity of type viewers' rating

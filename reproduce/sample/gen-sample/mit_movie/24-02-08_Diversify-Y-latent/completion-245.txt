@@ -1,0 +1,8 @@
+1. "Can you recommend a G-rated movie for a family movie night?"
+Named Entities: [G (MPAA Rating), family movie night (Viewers' Rating)]
+
+2. "I Wanna Dance with Somebody is a great song in which movie?"
+Named Entities: [I Wanna Dance with Somebody (Song)]
+
+3. "Is there a movie called Battle for Justice that was rated Not Rated?"
+Named Entities: [Battle for justice (Title), Not Rated (MPAA Rating)]

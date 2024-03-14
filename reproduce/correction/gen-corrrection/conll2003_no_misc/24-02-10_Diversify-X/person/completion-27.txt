@@ -1,0 +1,8 @@
+1. Text Span: "Obama"
+Label: (A)
+
+2. Text Span: "Woman"
+Label: (C). The correct entity type is person.
+
+3. Text Span: "Local hero"
+Label: (C). The correct entity type is person.

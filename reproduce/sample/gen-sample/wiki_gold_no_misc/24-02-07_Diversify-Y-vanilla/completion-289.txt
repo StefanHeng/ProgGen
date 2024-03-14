@@ -1,0 +1,8 @@
+Sentence: "The International Committee of the Red Cross (ICRC) is a humanitarian institution based in Geneva, Switzerland."
+Named Entities: [International Committee of the Red Cross (organization), Geneva (location), Switzerland (location)]
+
+Sentence: "The painting was donated to the museum by a private collector."
+Named Entities: []
+
+Sentence: "She was appointed as the new CEO of the company, replacing John Smith."
+Named Entities: [John Smith (person)]

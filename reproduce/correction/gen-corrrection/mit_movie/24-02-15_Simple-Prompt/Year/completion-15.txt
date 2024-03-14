@@ -1,0 +1,11 @@
+1. Query: "When was the {{first}} Superman movie released"
+Text Span: "first"
+Label: (C). The span is a named entity but the category is not year. Entity Type: Title
+
+2. Query: "What are the best thriller movies from the {{90s}}?"
+Text Span: "90s"
+Label: (A). The span is a named entity of type year
+
+3. Query: "What year did the movie E.T. the Extra-Terrestrial {{come out}}?"
+Text Span: "come out"
+Label: (D). Not a Named Entity

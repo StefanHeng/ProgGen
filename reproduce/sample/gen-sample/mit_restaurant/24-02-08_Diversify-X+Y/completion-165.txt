@@ -1,0 +1,8 @@
+1. "Can you recommend any Asian food trucks close by that serve Vietnamese cuisine?"
+   Named Entities: [Asian (Cuisine), food truck (Amenity), close by (Location), Vietnamese (Cuisine)]
+
+2. "What are the top-rated Vietnamese food truck options in the area?"
+   Named Entities: [top-rated (Rating), Vietnamese (Cuisine), food truck (Amenity), area (Location)]
+
+3. "I'm looking for a budget-friendly Asian food truck with Vietnamese dishes. Any suggestions?"
+   Named Entities: [budget-friendly (Price), Asian (Cuisine), Vietnamese (Cuisine), food truck (Amenity)]

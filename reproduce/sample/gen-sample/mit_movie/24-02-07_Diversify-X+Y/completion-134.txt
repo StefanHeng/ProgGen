@@ -1,0 +1,8 @@
+1. "Hey, can you recommend a good political thriller movie starring Ryan Reynolds?"
+Named Entities: [Ryan Reynolds (Actor), Political Thriller (Genre)]
+
+2. "What's the best action movie with a subgenre of spy thriller?"
+Named Entities: [action (Genre), spy thriller (Subgenre)]
+
+3. "I'm in the mood for a comedy, but more specifically a romantic comedy. What's a great one to watch?"
+Named Entities: [comedy (Genre), romantic comedy (Subgenre)]

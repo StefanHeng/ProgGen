@@ -1,0 +1,8 @@
+Query: "Has that movie with the intense car chase scene won any awards?"
+Named Entities: [intense car chase scene (Plot)]
+
+Query: "Did the film about the family road trip get any nominations?"
+Named Entities: [family road trip (Plot)]
+
+Query: "Hey, has the movie where the guy saves the world from aliens received any accolades?"
+Named Entities: [saves the world from aliens (Plot)]

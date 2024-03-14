@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, can you recommend a mid-range priced place with a drive-thru?"
+   Named Entities: [fast food (Cuisine), mid-range (Price), drive-thru (Amenity)]
+
+2. "What are the hours for the nearest fast food joint with outdoor seating?"
+   Named Entities: [fast food (Cuisine), nearest (Location), outdoor seating (Amenity), hours (Hours)]
+
+3. "I need to grab a quick bite at a fast food spot with a high rating, any suggestions?"
+   Named Entities: [fast food (Cuisine), quick bite (Amenity), high rating (Rating)]

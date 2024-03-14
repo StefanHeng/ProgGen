@@ -1,0 +1,11 @@
+1. Query: "What type of cuisine does {{Gaggan}} serve?"
+Text Span: "Gaggan"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What are the delivery hours for {{LongHorn Steakhouse}} in Seattle?"
+Text Span: "LongHorn Steakhouse"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What are the hours for {{Italian Village Restaurant}}?"
+Text Span: "Italian Village Restaurant"
+Label: (A). The span is a named entity of type restaurant name

@@ -1,0 +1,8 @@
+Sentence: "Space exploration is the use of astronomy and space technology to explore outer space."
+Named Entities: []
+
+Sentence: "NASA, the National Aeronautics and Space Administration, is responsible for the United States' civilian space program and for aeronautics and aerospace research."
+Named Entities: [NASA (organization), United States (location)]
+
+Sentence: "The International Space Station is a habitable artificial satellite in low Earth orbit." 
+Named Entities: [International Space Station (location), Earth (location)]

@@ -1,0 +1,8 @@
+Query: "I'm craving some Chinese food, where can I find a good buffet in [Old Empire Buffet]"
+Named Entities: [Chinese (Cuisine), buffet (Amenity), [Old Empire Buffet] (Restaurant Name)]
+
+Query: "what are the opening hours for [Old Empire Buffet]"
+Named Entities: [opening hours (Hours), [Old Empire Buffet] (Restaurant Name)]
+
+Query: "show me the top-rated restaurants near [Old Empire Buffet]"
+Named Entities: [top-rated (Rating), [Old Empire Buffet] (Location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with chef's specials in the area?"
+Named Entities: [fine dining (Amenity), chef's specials (Dish), area (Location)]
+
+2. "I'm looking for a high-end restaurant with chef's specials and a good wine selection."
+Named Entities: [high-end (Price), chef's specials (Dish), good (Rating), wine selection (Amenity)]
+
+3. "Find me a top-rated restaurant with a fine dining atmosphere and chef's specials on the menu."
+Named Entities: [top-rated (Rating), fine dining (Amenity), chef's specials (Dish)]

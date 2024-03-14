@@ -1,0 +1,8 @@
+1. "Can you recommend a critically acclaimed restaurant that serves ramen?"
+Named Entities: [critically acclaimed (Rating), ramen (Dish)]
+
+2. "Do you know any restaurants that offer meal deals for dinner tonight?"
+Named Entities: [meal deals (Amenity), dinner tonight (Hours)]
+
+3. "Where is the nearest place to get a good bowl of ramen?"
+Named Entities: [nearest (Location), good (Rating), bowl of ramen (Dish)]

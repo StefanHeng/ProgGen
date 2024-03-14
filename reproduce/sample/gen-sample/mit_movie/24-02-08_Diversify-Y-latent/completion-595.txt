@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a twisted plot similar to The Silence of the Lambs?"
+Named Entities: [twisted plot (Plot), The Silence of the Lambs (Title)]
+
+2. "Tell me about any layered narrative movies released between 2020 and 2022"
+Named Entities: [layered narrative (Plot), 2020-2022 (Year)]
+
+3. "What movie features Han Solo and was released in 1997?"
+Named Entities: [Han Solo (Character), 1997 (Year)]

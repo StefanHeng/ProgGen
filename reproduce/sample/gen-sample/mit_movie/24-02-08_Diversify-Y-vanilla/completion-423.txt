@@ -1,0 +1,8 @@
+Query: "can you recommend a movie from 1993 with seamless editing"
+Named Entities: [1993 (Year), seamless editing]
+
+Query: "show me a movie with Rambo in the title"
+Named Entities: [Rambo (Title)]
+
+Query: "what are some U-rated animated movies"
+Named Entities: [U (MPAA Rating)]

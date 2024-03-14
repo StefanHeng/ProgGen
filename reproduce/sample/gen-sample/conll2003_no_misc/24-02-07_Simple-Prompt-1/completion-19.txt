@@ -1,0 +1,100 @@
+1. President Biden signs infrastructure bill into law.
+Named Entities: [President Biden (person)]
+2. Wildfires rage in California, forcing evacuations.
+Named Entities: [California (location)]
+3. Apple announces new iPhone release date.
+Named Entities: [Apple (organization)]
+4. Elon Musk's SpaceX launches new satellite into orbit.
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+5. Former President Obama to speak at climate change conference.
+Named Entities: [Former President Obama (person)]
+6. United Nations calls for ceasefire in war-torn region.
+Named Entities: [United Nations (organization)]
+7. Tokyo to host 2021 Summer Olympics.
+Named Entities: [Tokyo (location)]
+8. Pfizer vaccine approved for children ages 5-11.
+Named Entities: [Pfizer (organization)]
+9. Hurricane devastates communities along the Gulf Coast.
+Named Entities: [Gulf Coast (location)]
+10. Facebook faces allegations of antitrust violations.
+Named Entities: [Facebook (organization)]
+11. London Stock Exchange experiences record-breaking gains.
+Named Entities: [London Stock Exchange (organization)]
+12. Germany imposes new restrictions to curb COVID-19 spread.
+Named Entities: [Germany (location)]
+13. Actress Emma Watson announces new film project.
+Named Entities: [Emma Watson (person)]
+14. Amazon plans to open new fulfillment center in Texas.
+Named Entities: [Amazon (organization), Texas (location)]
+15. New York City mayor proposes budget cuts to address fiscal crisis.
+Named Entities: [New York City (location)]
+16. CEO of Tesla predicts surge in electric vehicle sales.
+Named Entities: [Tesla (organization)]
+17. NASA unveils plans for lunar exploration mission.
+Named Entities: [NASA (organization)]
+18. Argentina seeks IMF assistance to address economic challenges.
+Named Entities: [Argentina (location), IMF (organization)]
+19. Pop star Taylor Swift surprises fans with new album release.
+Named Entities: [Taylor Swift (person)]
+20. Hong Kong protests erupt over proposed extradition law.
+Named Entities: [Hong Kong (location)]
+21. Google faces lawsuit over alleged privacy violations.
+Named Entities: [Google (organization)]
+22. President Macron addresses nation in televised speech.
+Named Entities: [President Macron (person)]
+23. Chicago police department under investigation for misconduct.
+Named Entities: [Chicago (location)]
+24. Ferrari unveils new lineup of luxury sports cars.
+Named Entities: [Ferrari (organization)]
+25. Bill Gates donates $1 million to humanitarian aid efforts.
+Named Entities: [Bill Gates (person)]
+26. World Health Organization issues global health alert.
+Named Entities: [World Health Organization (organization)]
+27. Australian Open tennis tournament postponed due to COVID-19 concerns.
+Named Entities: [Australian Open (organization)]
+28. Bank of America reports record profits for the quarter.
+Named Entities: [Bank of America (organization)]
+29. Rihanna launches new fashion collection.
+Named Entities: [Rihanna (person)]
+30. Paris climate agreement gains support from major nations.
+Named Entities: [Paris (location)]
+31. Starbucks unveils plans for sustainable packaging initiative.
+Named Entities: [Starbucks (organization)]
+32. J.K. Rowling faces backlash over controversial statements.
+Named Entities: [J.K. Rowling (person)]
+33. South Africa announces new measures to combat rising crime rates.
+Named Entities: [South Africa (location)]
+34. Beyoncé set to headline music festival in New Orleans.
+Named Entities: [Beyoncé (person), New Orleans (location)]
+35. Microsoft acquires AI startup for $1 billion.
+Named Entities: [Microsoft (organization)]
+36. Los Angeles Lakers win NBA championship.
+Named Entities: [Los Angeles Lakers (organization)]
+37. Jeff Bezos steps down as CEO of Amazon.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+38. Philippine president visits China to discuss trade agreements.
+Named Entities: [Philippine (location), China (location)]
+39. Sony announces release date for new PlayStation console.
+Named Entities: [Sony (organization)]
+40. Major earthquake strikes off the coast of Japan.
+Named Entities: [Japan (location)]
+41. Warren Buffet donates $1 billion to charity.
+Named Entities: [Warren Buffet (person)]
+42. WHO declares global pandemic due to novel coronavirus.
+Named Entities: [WHO (organization)]
+43. Justin Bieber's new album breaks streaming records.
+Named Entities: [Justin Bieber (person)]
+44. European Union imposes sanctions on Russia for human rights abuses.
+Named Entities: [European Union (organization), Russia (location)]
+45. Golden State Warriors to face off against the Brooklyn Nets in the NBA Finals.
+Named Entities: [Golden State Warriors (organization), Brooklyn Nets (organization)]
+46. Federal Reserve raises interest rates in response to inflation concerns.
+Named Entities: [Federal Reserve (organization)]
+47. Taylor Swift wins Grammy Award for Album of the Year.
+Named Entities: [Taylor Swift (person)]
+48. Reddit co-founder resigns from company board.
+Named Entities: [Reddit (organization)]
+49. International Space Station conducts groundbreaking experiments in zero gravity.
+Named Entities: [International Space Station (organization)]
+50. New Zealand Prime Minister announces new policies to address climate change.
+Named Entities: [New Zealand (location), Prime Minister (person)]

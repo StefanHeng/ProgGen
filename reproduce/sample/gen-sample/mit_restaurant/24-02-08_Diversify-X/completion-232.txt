@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly fine dining restaurant nearby?"
+Named Entities: [fine dining (Amenity), budget-friendly (Price), nearby (Location)]
+
+2. "Which fine dining restaurants offer a good selection of vegetarian dishes?"
+Named Entities: [fine dining (Amenity), vegetarian dishes (Cuisine)]
+
+3. "What are the operating hours for affordable fine dining restaurants in this area?"
+Named Entities: [affordable (Price), fine dining (Amenity), operating hours (Hours), this area (Location)]

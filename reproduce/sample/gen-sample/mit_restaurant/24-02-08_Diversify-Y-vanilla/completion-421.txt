@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with air conditioning and outdoor seating"
+Named Entities: [air conditioning (Amenity), outdoor seating (Amenity)]
+
+Query: "what's a good sushi place with air conditioning"
+Named Entities: [good (Rating), sushi (Cuisine), air conditioning (Amenity)]
+
+Query: "where can I find a budget-friendly spot with air conditioning and a diverse menu"
+Named Entities: [budget-friendly (Price), air conditioning (Amenity), diverse (Amenity)]

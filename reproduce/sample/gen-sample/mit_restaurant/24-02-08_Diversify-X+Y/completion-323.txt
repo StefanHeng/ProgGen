@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a pet-friendly patio for lunch?"
+Named Entities: [pet-friendly patio (Amenity), lunch (Hours)]
+
+Query: "I'm looking for lunch options for less than 15 dollars, any suggestions?"
+Named Entities: [less than 15 dollars (Price), lunch (Hours)]
+
+Query: "Which restaurant nearby offers a pet-friendly patio for lunch?"
+Named Entities: [pet-friendly patio (Amenity), lunch (Hours)]

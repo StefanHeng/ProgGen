@@ -1,0 +1,8 @@
+Query: "Where can I find some Mid-range Munchies around here?"
+Named Entities: [Mid-range Munchies (Amenity)]
+
+Query: "I'm craving some Italian food, can you recommend a good spot?"
+Named Entities: [Italian (Cuisine)]
+
+Query: "What's a highly rated sushi restaurant in this area?"
+Named Entities: [sushi (Cuisine), highly rated (Rating)]

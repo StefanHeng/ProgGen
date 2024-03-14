@@ -1,0 +1,8 @@
+1. Text Span: "Summer and Winter Games"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Harvard University"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Open Era"
+Label: (C). Wrong Type. The correct entity type is other.

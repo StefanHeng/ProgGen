@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with excellent tempura dishes?"
+Named Entities: [fine dining (Amenity), tempura (Dish)]
+
+Query: "Where can I reserve a table at a fine dining restaurant with a chef's table experience?"
+Named Entities: [fine dining (Amenity), chef's table (Amenity)]
+
+Query: "I'm looking for a top-rated fine dining establishment that serves exquisite tempura cuisine."
+Named Entities: [top-rated (Rating), fine dining (Amenity), tempura (Cuisine)]

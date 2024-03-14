@@ -1,0 +1,8 @@
+Query: "can you recommend a movie directed by Michel Gondry with a great soundtrack?"
+Named Entities: [Michel Gondry (Director), great soundtrack (Song)]
+
+Query: "what is the best song from the movie Pulp Fiction from the early 2000s?"
+Named Entities: [Pulp Fiction (Title), best song (Song), early 2000s (Year)]
+
+Query: "show me a romantic movie with a memorable soundtrack from the early 2000s"
+Named Entities: [romantic (Genre), memorable soundtrack (Song), early 2000s (Year)]

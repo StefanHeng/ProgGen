@@ -1,0 +1,8 @@
+1. Text Span: "non-profit organization"
+Label: (A)
+
+2. Text Span: "High School"
+Label: (C) entity type: organization
+
+3. Text Span: "Community"
+Label: (C) entity type: other

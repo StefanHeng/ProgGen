@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Clint Eastwood that was released in 1999?"
+Named Entities: [Clint Eastwood (Director), 1999 (Year)]
+
+2. "I want to watch a movie with the song Let It Go, can you suggest one?"
+Named Entities: [Let It Go (Song)]
+
+3. "What is the plot of the greatest dreams-related movie of all time?"
+Named Entities: [greatest (Review), Dreams (Plot)]

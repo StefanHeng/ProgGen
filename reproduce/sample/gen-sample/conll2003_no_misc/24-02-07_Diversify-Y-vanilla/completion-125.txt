@@ -1,0 +1,8 @@
+1. "The CEO of Apple Inc. announced a new product launch event next month."
+Named Entities: [CEO (person), Apple Inc. (organization)]
+
+2. "Tensions rise between Russia and Ukraine over border disputes."
+Named Entities: [Russia (location), Ukraine (location)]
+
+3. "Renowned chef Gordon Ramsay opens a new restaurant in New York City."
+Named Entities: [Gordon Ramsay (person), New York City (location)]

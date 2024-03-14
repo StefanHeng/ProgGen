@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, where can I find a place with outdoor seating"
+Named Entities: [fast food (Cuisine), outdoor seating (Amenity)]
+
+Query: "Is there a fast food restaurant nearby with outdoor seating and a drive-thru"
+Named Entities: [fast food (Cuisine), outdoor seating (Amenity), drive-thru (Amenity)]
+
+Query: "I need a quick bite to eat, where can I get fast food with outdoor seating"
+Named Entities: [quick (Amenity), fast food (Cuisine), outdoor seating (Amenity)]

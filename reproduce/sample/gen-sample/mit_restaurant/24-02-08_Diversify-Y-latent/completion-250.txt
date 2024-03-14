@@ -1,0 +1,8 @@
+Query: "I'm craving spaghetti carbonara, is there a good Italian restaurant nearby that serves it?"
+Named Entities: [spaghetti carbonara (Dish), Italian (Cuisine), nearby (Location)]
+
+Query: "What's a highly rated restaurant in this area where I can enjoy a nice steak dinner?"
+Named Entities: [highly rated (Rating), restaurant (Amenity), steak (Dish), this area (Location)]
+
+Query: "Can you suggest a place with outdoor seating and a diverse menu, maybe with some vegetarian options?"
+Named Entities: [outdoor seating (Amenity), diverse menu (Amenity), vegetarian options (Dish)]

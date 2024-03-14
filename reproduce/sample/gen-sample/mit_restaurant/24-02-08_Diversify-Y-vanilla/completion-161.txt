@@ -1,0 +1,8 @@
+Query: "I'm looking for a low-cost restaurant with holiday hours"
+Named Entities: [low-cost (Price), holiday hours (Hours)]
+
+Query: "What restaurants offer brunch specials hours?"
+Named Entities: [brunch specials hours (Amenity)]
+
+Query: "Where can I find In-N-Out Burger for some late night ramen?"
+Named Entities: [In-N-Out Burger (Restaurant Name), late night (Hours), ramen (Dish)]

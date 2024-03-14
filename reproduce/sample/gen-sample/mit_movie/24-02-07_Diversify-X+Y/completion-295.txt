@@ -1,0 +1,8 @@
+1. "Can you tell me if any movies have won an award for Best Original Screenplay?"
+Named Entities: [Best Original Screenplay (Award)]
+
+2. "I'm curious to know if the movie X has been nominated for any awards."
+Named Entities: [X (Title), nominated for any awards (Award)]
+
+3. "Could you show me a film clip from the award-winning Superman movie with the song 'I Will Always Love You'?"
+Named Entities: [Superman (Title), film clip (Trailer), 'I Will Always Love You' (Song), award-winning (Viewers' Rating)]

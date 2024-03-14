@@ -1,0 +1,8 @@
+Query: "can you recommend a private dining spot for an elegant lunch"
+Named Entities: [private dining (Amenity), elegant (Ambience), lunch (Meal category)]
+
+Query: "where can I find an upscale restaurant with french cuisine for a senior lady's lunch"
+Named Entities: [upscale (Ambience), French (Cuisine), senior lady (User demographic), lunch (Meal category)]
+
+Query: "show me the nearest elegant restaurant, maybe La Petite Creperie, for a retired woman's lunch"
+Named Entities: [elegant (Ambience), La Petite Creperie (Restaurant Name), retired woman (User demographic), lunch (Meal category)]

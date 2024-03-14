@@ -1,0 +1,8 @@
+1. "Can you recommend a good vampire movie starring Brie Larson that has a viewers' rating of 8 out of 10?"
+Named Entities: [Brie Larson (Actor), vampire (Genre), 8 out of 10 (Viewers' Rating)]
+
+2. "Show me a featurette for a movie directed by E."
+Named Entities: [featurette (Trailer), E (Director)]
+
+3. "What is the genre of the movie E directed?"
+Named Entities: [E (Director)]

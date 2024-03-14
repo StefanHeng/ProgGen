@@ -1,0 +1,8 @@
+1. "Can you recommend a Bargain sushi restaurant near me?"
+Named Entities: [Bargain (Amenity), sushi (Cuisine), near me (Location)]
+
+2. "I'm craving some authentic Italian pizza, where can I find a good deal?"
+Named Entities: [authentic Italian (Cuisine), pizza (Dish), good deal (Price)]
+
+3. "Which burger joint has the highest rating in this area?"
+Named Entities: [burger joint (Restaurant Name), highest rating (Rating), this area (Location)]

@@ -1,0 +1,8 @@
+Query: "I'm craving some Korean barbecue, where can I find a good place for it?"
+Named Entities: [Korean (Cuisine), good (Rating)]
+
+Query: "What restaurants around here serve Korean food?"
+Named Entities: [Korean (Cuisine)]
+
+Query: "I need to grab a quick bite to eat, where can I find a Korean restaurant open at this time?"
+Named Entities: [Korean (Cuisine), open at this time (Hours)]

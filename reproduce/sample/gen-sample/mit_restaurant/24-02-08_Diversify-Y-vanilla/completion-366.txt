@@ -1,0 +1,8 @@
+1. "Where can I find an authentic Chinese restaurant that serves delicious Chow Mein"
+Named Entities: [authentic Chinese restaurant (Cuisine), Chow Mein (Dish)]
+
+2. "I need recommendations from Restaurant Guru for a romantic dinner in the downtown district"
+Named Entities: [Restaurant Guru (Amenity), romantic dinner (Amenity), downtown district (Location)]
+
+3. "What restaurants in the area offer lunch specials for under 15 dollars"
+Named Entities: [lunch specials (Amenity), under 15 dollars (Price)]

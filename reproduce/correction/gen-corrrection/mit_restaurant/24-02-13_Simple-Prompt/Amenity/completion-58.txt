@@ -1,0 +1,8 @@
+1. Text Span: "decent meal"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "brunch spot"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "happy hour"
+Label: (A). Correct Entity Annotation.

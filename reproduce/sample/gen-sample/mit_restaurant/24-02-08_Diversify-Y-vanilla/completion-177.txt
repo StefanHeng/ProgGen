@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that serves beef stroganoff?"
+Named Entities: [beef stroganoff (Dish)]
+
+2. "Where can I find a restaurant with a diverse menuism?"
+Named Entities: [diverse (Amenity), menuism (Amenity)]
+
+3. "I'm craving Italian cuisine, can you suggest a place with high ratings?"
+Named Entities: [Italian (Cuisine), high ratings (Rating)]

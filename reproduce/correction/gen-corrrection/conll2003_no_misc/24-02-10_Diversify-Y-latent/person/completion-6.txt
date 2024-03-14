@@ -1,0 +1,8 @@
+1. Text Span: "Olivia Morales"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "actress"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+3. Text Span: "Prime Minister Trudeau"
+Label: (B). Wrong Boundary. The correct span boundary is "Trudeau"

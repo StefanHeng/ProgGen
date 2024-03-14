@@ -1,0 +1,8 @@
+1. "I'm craving a juicy steak, where's the nearest Black Angus Steakhouse?"
+Named Entities: [Black Angus Steakhouse (Restaurant Name)]
+
+2. "I'm looking for a romantic restaurant in Paris with a view of the Eiffel Tower"
+Named Entities: [romantic (Amenity), Paris (Location), Eiffel Tower (Amenity)]
+
+3. "Do you know any affordable places to eat in Paris with authentic French cuisine?"
+Named Entities: [affordable (Price), Paris (Location), French (Cuisine)]

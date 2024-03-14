@@ -1,0 +1,8 @@
+1. Text Span: "budget-friendly"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "fine dining"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Text Span: "upscale"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Text Span: "Extended preview"
+Label: (B). The correct span boundary is "preview"
+
+2. Text Span: "director's cut preview"
+Label: (B). The correct span boundary is "preview"
+
+3. Text Span: "Exclusive look"
+Label: (A). Correct Entity Annotation.

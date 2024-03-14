@@ -1,0 +1,8 @@
+1. "Can you provide me with the behind-the-scenes details of the impressive unrated documentary about Anne Bancroft's acting career?"
+Named Entities: [impressive (Review), unrated (MPAA Rating), Anne Bancroft (Actor)]
+
+2. "I'm looking for a G or PG rated film that delves into the making-of process of a critically acclaimed Anne Bancroft movie."
+Named Entities: [G/PG (MPAA Rating), Anne Bancroft (Actor)]
+
+3. "Could you recommend a documentary that explores the impressive behind-the-scenes work involved in bringing Anne Bancroft's character to life?" 
+Named Entities: [impressive (Review), Anne Bancroft (Actor), documentary (Genre)]

@@ -1,0 +1,8 @@
+Query: "who directed the Lord of the Rings movies featuring Legolas"
+Named Entities: [Lord of the Rings (Title), Legolas (Character)]
+
+Query: "can you recommend any good movies that are not rated"
+Named Entities: [not rated (MPAA Rating)]
+
+Query: "what is the best action movie from the 1980s"
+Named Entities: [action (Genre), 1980s (Year)]

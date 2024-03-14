@@ -1,0 +1,8 @@
+1. "I'm craving a buffet dinner after work, can you recommend a place nearby?"
+Named Entities: [buffet (Amenity), nearby (Location)]
+
+2. "Where can I find a cheap buffet lunch during my break?"
+Named Entities: [buffet (Amenity), lunch (Price)]
+
+3. "I want to try a new buffet restaurant for my birthday, any recommendations?"
+Named Entities: [buffet (Amenity), birthday (Amenity)]

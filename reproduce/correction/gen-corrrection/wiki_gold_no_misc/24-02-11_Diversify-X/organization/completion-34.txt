@@ -1,0 +1,8 @@
+1. Text Span: "Dragon King"
+Label: (C). Wrong Type. The correct entity type is organization.
+
+2. Text Span: "New York Times"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "National Football League (NFL)"
+Label: (B). The correct span boundary is "National Football League".

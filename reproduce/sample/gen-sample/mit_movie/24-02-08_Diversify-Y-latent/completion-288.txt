@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Million Dollar Baby and what is its viewers' rating?"
+Named Entities: [Million Dollar Baby (Title), viewers' rating (Viewers' Rating)]
+
+2. Query: "Show me a movie set in a medieval kingdom from the year 2000"
+Named Entities: [medieval kingdom (Plot), 2000 (Year)]
+
+3. Query: "I want to watch a movie similar to Remember Me, can you recommend one?"
+Named Entities: [Remember Me (Title)]

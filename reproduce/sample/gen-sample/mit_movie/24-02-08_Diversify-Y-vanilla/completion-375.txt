@@ -1,0 +1,8 @@
+1. "Can you recommend a PG-rated action movie directed by Mark Joffe?"
+Named Entities: [PG (MPAA Rating), Mark Joffe (Director), action (Genre)]
+
+2. "I'm looking for a thrilling movie involving corporate espionage with Julia Roberts or Kerry Washington in the cast. Do you have any suggestions?"
+Named Entities: [corporate espionage (Plot), Julia Roberts (Actor), Kerry Washington (Actor), thrilling (Genre)]
+
+3. "Show me a trailer for a 2012 film with an engaging plot and a song featured in it called 'Thunderstruck'."
+Named Entities: [trailer (Promo), 2012 (Year), engaging (Plot), Thunderstruck (Song)]

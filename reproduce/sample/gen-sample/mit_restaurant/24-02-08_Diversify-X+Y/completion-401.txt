@@ -1,0 +1,8 @@
+1. "Where can I grab some tasty chicken and waffles for brunch around here"
+Named Entities: [tasty (Rating), chicken and waffles (Dish), brunch (Amenity)]
+
+2. "I'm looking for a mid-range restaurant for brunch called The Breakfast Nook"
+Named Entities: [mid-range (Price), The Breakfast Nook (Restaurant Name), brunch (Amenity)]
+
+3. "What are the hours of The Breakfast Nook for brunch"
+Named Entities: [The Breakfast Nook (Restaurant Name), brunch (Amenity), hours (Hours)]

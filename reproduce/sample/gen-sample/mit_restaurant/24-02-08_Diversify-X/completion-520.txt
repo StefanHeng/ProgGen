@@ -1,0 +1,8 @@
+Query: "where can i find a kosher breakfast spot with good reviews"
+Named Entities: [kosher (Cuisine), breakfast (Amenity), good reviews (Rating)]
+
+Query: "i need a breakfast place with kosher options near me"
+Named Entities: [breakfast (Amenity), kosher options (Cuisine), near me (Location)]
+
+Query: "which restaurant serves kosher breakfast and opens early"
+Named Entities: [kosher (Cuisine), breakfast (Amenity), opens early (Hours), restaurant (Amenity)]

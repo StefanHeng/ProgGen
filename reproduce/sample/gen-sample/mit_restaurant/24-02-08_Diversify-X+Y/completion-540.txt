@@ -1,0 +1,8 @@
+Query: "I'm looking for a cost-efficient buffet restaurant with WiFi that serves paleo-friendly dishes"
+Named Entities: [cost-efficient (Price), buffet (Amenity), WiFi (Amenity), paleo-friendly (Dietary Restriction)]
+
+Query: "Can you recommend a budget-friendly buffet place with WiFi that offers paleo options"
+Named Entities: [budget-friendly (Price), buffet (Amenity), WiFi (Amenity), paleo options (Dietary Restriction)]
+
+Query: "Where can I find a buffet restaurant that is affordable, has WiFi, and accommodates paleo diets?"
+Named Entities: [affordable (Price), buffet (Amenity), WiFi (Amenity), paleo diets (Dietary Restriction)]

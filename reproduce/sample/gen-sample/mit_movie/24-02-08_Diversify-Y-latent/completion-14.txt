@@ -1,0 +1,8 @@
+1. "Can you recommend a historical drama set in the 1840s?"
+Named Entities: [historical drama (Genre), 1840s (Year)]
+
+2. "Who directed the film that takes place in the 1890s and features a teen romance?"
+Named Entities: [1890s (Year), teen romance (Genre), F. Gary Gray (Director)]
+
+3. "I'm in the mood for a movie with an apocalypse theme directed by Wes Anderson."
+Named Entities: [apocalypse (Plot), Wes Anderson (Director)]

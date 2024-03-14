@@ -1,0 +1,8 @@
+1. "I'm feeling down. Can you check if there are any showtimes available for the new Vin Diesel movie?"
+Named Entities: [Vin Diesel (Actor)]
+
+2. "I'm really sad. Can you tell me when the trailer for the upcoming Mr. Incredible movie will be released?"
+Named Entities: [Mr. Incredible (Title), trailer release (Trailer)]
+
+3. "I'm feeling a little low. Are there any Pulp Fiction showtimes available? I could use a good adrenaline-pumping movie right now."
+Named Entities: [Pulp Fiction (Title), adrenaline-pumping (Genre)]

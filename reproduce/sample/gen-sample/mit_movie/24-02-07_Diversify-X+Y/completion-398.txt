@@ -1,0 +1,8 @@
+1. Spoken Query: "What famous actors were in the movie Her that came out in 2011"
+   Named Entities: [Her (Title), 2011 (Year), actors (Genre)]
+
+2. Spoken Query: "Can you tell me about the set designer for the movie with underwhelming performances"
+   Named Entities: [underwhelming performances (Plot), set designer (Director)]
+
+3. Spoken Query: "Show me a movie about technology gone wrong featuring Sarah Connor"
+   Named Entities: [technology gone wrong (Plot), Sarah Connor (Character)]

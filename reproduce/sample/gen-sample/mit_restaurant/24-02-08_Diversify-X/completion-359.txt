@@ -1,0 +1,8 @@
+Query: "I'm hungry and looking for late-night dining with delivery options"
+Named Entities: [late-night dining (Amenity), delivery (Amenity)]
+
+Query: "Can you recommend a restaurant with a diverse late-night menu that delivers?"
+Named Entities: [diverse (Amenity), late-night menu (Amenity), delivers (Amenity)]
+
+Query: "Find me a place that offers late-night delivery and has a high rating for their menu"
+Named Entities: [late-night delivery (Amenity), high rating (Rating), menu (Amenity)]

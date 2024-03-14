@@ -1,0 +1,8 @@
+1. Text Span: "Syrian"
+Label: (B). The span contains a named location entity but the span boundary is not precise. Correct span boundary: "Syrian city"
+
+2. Text Span: "Russian"
+Label: (D). Not a Named Entity
+
+3. Text Span: "Bogotá"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+Query: "I heard that there's a movie with a lot of awards, can you tell me which one it is?"
+Named Entities: [a lot of awards (Awards)]
+
+Query: "I'm looking for a film that received great recognition from the critics, can you help me find it?"
+Named Entities: [great recognition (Awards), critics (Review)]
+
+Query: "I'm curious about a certain movie that got a lot of nominations, do you have any idea which one I'm thinking of?"
+Named Entities: [a lot of nominations (Awards)]

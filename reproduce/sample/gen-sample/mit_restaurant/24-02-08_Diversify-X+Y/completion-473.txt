@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food restaurant with a play area for kids?"
+Named Entities: [fast food (Cuisine), play area (Amenity)]
+
+2. "I'm looking for a restaurant with a tasting menu and adjacent parking."
+Named Entities: [tasting menu (Amenity), adjacent (Location)]
+
+3. "Where can I find a fast food place with a play area and a tasting menu?"
+Named Entities: [fast food (Cuisine), play area (Amenity), tasting menu (Amenity)]

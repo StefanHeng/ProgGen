@@ -1,0 +1,8 @@
+Query: "are there any zombie movies released in 1993"
+Named Entities: [1993 (Year), Zombie (Genre)]
+
+Query: "can you suggest a detective mystery movie directed by Peter Jackson"
+Named Entities: [detective mystery (Genre), Peter Jackson (Director)]
+
+Query: "show me a techno-thriller film with a character similar to Maleficent"
+Named Entities: [techno-thriller (Genre), Maleficent (Character)]

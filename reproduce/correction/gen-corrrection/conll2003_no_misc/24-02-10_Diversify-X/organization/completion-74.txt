@@ -1,0 +1,11 @@
+1. Sentence: "{{Study}} finds link between early childhood education and long-term success."
+Text Span: "Study"
+Label: (C) organization
+
+2. Sentence: "The {{International Monetary Fund}} warns of potential economic slowdown in emerging markets due to rising inflation and currency instability."
+Text Span: "International Monetary Fund"
+Label: (A)
+
+3. Sentence: "Local {{high school}} football team wins state championship for the third consecutive year."
+Text Span: "high school"
+Label: (D)

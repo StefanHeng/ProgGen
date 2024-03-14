@@ -1,0 +1,8 @@
+1. Query: "Can you show me the theatrical trailer for the movie Singin' in the Rain?"
+   Named Entities: [theatrical trailer (Trailer), Singin' in the Rain (Title)]
+
+2. Query: "Is the movie The Shawshank Redemption considered stale by viewers?"
+   Named Entities: [The Shawshank Redemption (Title), stale (Review)]
+
+3. Query: "Who is the actor that portrayed Shang in the film with a TV-G rating?"
+   Named Entities: [Shang (Character), TV-G (MPAA Rating)]

@@ -1,0 +1,11 @@
+1. Query: "Please show me a movie with a {{high}} viewers' rating."
+Text Span: "high"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Query: "I want to watch a family-friendly film for {{kids}}"
+Text Span: "kids"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other
+
+3. Query: "Which films have a rating of {{9 out of 10}}?"
+Text Span: "9 out of 10"
+Label: (A). The span is a named entity of type viewers' rating

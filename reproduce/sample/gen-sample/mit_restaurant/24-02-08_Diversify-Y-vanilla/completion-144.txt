@@ -1,0 +1,8 @@
+1. "What are the opening hours for Romano's Macaroni Grill tonight?"
+Named Entities: [Romano's Macaroni Grill (Restaurant Name), opening hours (Hours)]
+
+2. "Can I make a reservation at Chope for a party of 6?"
+Named Entities: [Chope (Restaurant Name), reservation (Amenity), party of 6 (Amenity)]
+
+3. "I'm craving some Italian cuisine, where can I find a good place with reasonable prices?"
+Named Entities: [Italian cuisine (Cuisine), good (Rating), reasonable prices (Price)]

@@ -1,0 +1,8 @@
+1. "Where can I find the best grilled sea bass in the area?"
+Named Entities: [grilled sea bass (Dish), area (Location)]
+
+2. "I'm looking for a restaurant with a steeper price range, any recommendations?"
+Named Entities: [steeper (Price), recommendations (Amenity)]
+
+3. "What's the rating for the Italian restaurant with outdoor seating and a fire pit?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), fire pit (Amenity)]

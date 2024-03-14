@@ -1,0 +1,8 @@
+1. Text Span: "craft beer"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "view"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "view of the waterfront".
+
+3. Text Span: "good selection"
+Label: (A). Correct Entity Annotation.

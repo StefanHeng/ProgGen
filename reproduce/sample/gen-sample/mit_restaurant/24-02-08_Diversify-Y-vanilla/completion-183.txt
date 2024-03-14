@@ -1,0 +1,8 @@
+Query: "Can you recommend a good seafood restaurant in the area?"
+Named Entities: [seafood (Cuisine), area (Location), good (Rating)]
+
+Query: "What time does [Applebee's] close tonight?"
+Named Entities: [Applebee's (Restaurant Name), tonight (Hours)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a moderate price range."
+Named Entities: [outdoor seating (Amenity), moderate (Price)]

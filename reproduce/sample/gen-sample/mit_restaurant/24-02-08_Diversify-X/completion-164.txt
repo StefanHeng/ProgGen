@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant that serves Italian cuisine and has a good rating for dinner."
+Named Entities: [Italian cuisine (Cuisine), good rating (Rating), dinner (Amenity)]
+
+2. "What are the hours of operation for the nearest sushi restaurant for dinner?"
+Named Entities: [sushi restaurant (Restaurant Name), hours of operation (Hours), dinner (Amenity)]
+
+3. "Can you recommend a restaurant with outdoor seating and a moderate price range for dinner?"
+Named Entities: [outdoor seating (Amenity), moderate price range (Price), dinner (Amenity)]

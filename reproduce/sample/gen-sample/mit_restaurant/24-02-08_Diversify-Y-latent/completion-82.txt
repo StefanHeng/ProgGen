@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a high rating for a special occasion like a birthday dinner?"
+Named Entities: [high rating (Rating), special occasion (Amenity), birthday dinner (Amenity)]
+
+Query: "Where can I find a restaurant that serves vegetarian dishes and is open late at night?"
+Named Entities: [vegetarian dishes (Cuisine), open late at night (Hours)]
+
+Query: "I'm craving some authentic Italian food, preferably in the downtown area, and I'm willing to spend a little more for a quality meal."
+Named Entities: [authentic Italian food (Cuisine), downtown area (Location), willing to spend a little more (Price)]

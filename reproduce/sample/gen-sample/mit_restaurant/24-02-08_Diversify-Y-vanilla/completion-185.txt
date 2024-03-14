@@ -1,0 +1,8 @@
+Query: "Can I order from Chipotle after the service cut-off time?"
+Named Entities: [Chipotle (Restaurant Name), after the service cut-off time (Hours)]
+
+Query: "I'm craving some Mexican cuisine, do you know any place with a drive-thru?"
+Named Entities: [Mexican (Cuisine), drive-thru (Amenity)]
+
+Query: "Find me a restaurant with high ratings and a price range of $20-30 per person"
+Named Entities: [high ratings (Rating), $20-30 per person (Price)]

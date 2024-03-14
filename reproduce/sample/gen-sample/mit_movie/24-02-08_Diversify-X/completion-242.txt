@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the classic film The Sound of Music?"
+   Named Entities: [The Sound of Music (Title), plot (Plot)]
+   
+2. "I'm feeling nostalgic for a 90s movie with a compelling storyline, could you recommend one?"
+   Named Entities: [90s (Year), compelling storyline (Plot)]
+   
+3. "What's the synopsis of the Steven Spielberg-directed adventure movie Jurassic Park?"
+   Named Entities: [Steven Spielberg (Director), Jurassic Park (Title), synopsis (Plot)]

@@ -1,0 +1,1480 @@
+[
+    {
+        "sentence": "The Protestant Reformation played a significant role in shaping the religious landscape of Europe during the 16th century.",
+        "entity_names": [
+            "Protestant Reformation",
+            "Europe"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Protestant Reformation"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Council of Nicaea, convened by Emperor Constantine in 325, was a key event in the history of Christianity.",
+        "entity_names": [
+            "Council of Nicaea",
+            "Emperor Constantine",
+            "Christianity"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "event",
+            "person",
+            "religion"
+        ],
+        "entity_names_not_allowed": [
+            "Council of Nicaea",
+            "Christianity"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "religion"
+        ]
+    },
+    {
+        "sentence": "Wycliffe Bible Translators is a non-profit organization that focuses on translating the Bible into various languages in order to make it accessible to people around the world.",
+        "entity_names": [
+            "Wycliffe Bible Translators",
+            "Bible"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "organization",
+            "publication"
+        ],
+        "entity_names_not_allowed": [
+            "Bible"
+        ],
+        "entity_types_not_allowed": [
+            "publication"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was fought July 1\u20133, 1863, in and around the town of Gettysburg, Pennsylvania, by Union and Confederate forces during the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "Pennsylvania",
+            "Union",
+            "Confederate",
+            "American Civil War"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "location",
+            "location",
+            "organization",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The historic Wembley Stadium has hosted numerous significant sporting events, including the 1948 Summer Olympics and the 1966 FIFA World Cup final.",
+        "entity_names": [
+            "Wembley Stadium",
+            "1948 Summer Olympics",
+            "1966 FIFA World Cup"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "location",
+            "event",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "1948 Summer Olympics",
+            "1966 FIFA World Cup"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "Linguistics is the scientific study of language, and involves an analysis of language form, language meaning, and language in context.",
+        "entity_names": [
+            "William Labov"
+        ],
+        "filename": "completion-20",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "William Labov"
+        ]
+    },
+    {
+        "sentence": "Isis, an important figure in Egyptian mythology, was worshipped as the ideal mother, wife, and patron of magic.",
+        "entity_names": [
+            "Isis",
+            "Egypt"
+        ],
+        "filename": "completion-22",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Egypt"
+        ]
+    },
+    {
+        "sentence": "The Pilgrimage of Grace was a popular uprising that began in Yorkshire in October 1536, before spreading to other parts of Northern England, and was a protest against Henry VIII's break with the Roman Catholic Church.",
+        "entity_names": [
+            "Pilgrimage of Grace",
+            "Yorkshire",
+            "Northern England",
+            "Henry VIII",
+            "Roman Catholic Church"
+        ],
+        "filename": "completion-47",
+        "entity_types": [
+            "event",
+            "location",
+            "location",
+            "person",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "Pilgrimage of Grace"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Studio Ghibli is a renowned Japanese animation film studio known for producing critically acclaimed and internationally successful animated films.",
+        "entity_names": [
+            "Studio Ghibli",
+            "Tokyo",
+            "Japan"
+        ],
+        "filename": "completion-67",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "The pilgrimage to Mecca, known as the Hajj, is one of the Five Pillars of Islam, a religious duty that must be carried out by every able-bodied Muslim who can afford to do so.",
+        "entity_names": [
+            "Mecca",
+            "Hajj",
+            "Islam",
+            "Muslim"
+        ],
+        "filename": "completion-75",
+        "entity_types": [
+            "location",
+            "event",
+            "organization",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Hajj"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Bront\u00eb sisters, Charlotte, Emily, and Anne, made significant contributions to English literature with their novels such as \"Jane Eyre\" and \"Wuthering Heights\".",
+        "entity_names": [
+            "Charlotte Bront\u00eb",
+            "Emily Bront\u00eb",
+            "Anne Bront\u00eb"
+        ],
+        "filename": "completion-77",
+        "entity_types": [
+            "person",
+            "person",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Charlotte Bront\u00eb",
+            "Emily Bront\u00eb",
+            "Anne Bront\u00eb"
+        ]
+    },
+    {
+        "sentence": "Several scientific studies have been conducted to assess the long-term impact of the Chernobyl nuclear disaster on the environment within the Exclusion Zone.",
+        "entity_names": [
+            "Chernobyl Exclusion Zone"
+        ],
+        "filename": "completion-79",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Chernobyl Exclusion Zone"
+        ]
+    },
+    {
+        "sentence": "Montreal is known for its diverse linguistic landscape, with French as the majority language and English as a strong minority language.",
+        "entity_names": [
+            "Montreal",
+            "French",
+            "English"
+        ],
+        "filename": "completion-88",
+        "entity_types": [
+            "location",
+            "language",
+            "language"
+        ],
+        "entity_names_not_allowed": [
+            "French",
+            "English"
+        ],
+        "entity_types_not_allowed": [
+            "language",
+            "language"
+        ]
+    },
+    {
+        "sentence": "The Arctic tern has the longest migration of any bird, traveling from its Arctic breeding grounds to the Antarctic and back again each year.",
+        "entity_names": [
+            "Arctic Circle"
+        ],
+        "filename": "completion-92",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Arctic Circle"
+        ]
+    },
+    {
+        "sentence": "The field of psychology has seen significant developments in recent years, with a growing emphasis on evidence-based practice and ethical considerations in research and clinical settings.",
+        "entity_names": [
+            "American Counseling Association"
+        ],
+        "filename": "completion-96",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "American Counseling Association"
+        ]
+    },
+    {
+        "sentence": "Charles Dickens, one of the most prominent English writers of the 19th century, was known for his vivid portrayal of London and its social issues in his novels.",
+        "entity_names": [
+            "Charles Dickens",
+            "London",
+            "England"
+        ],
+        "filename": "completion-99",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The ESA hosts a biennial conference, bringing together sociologists from across Europe to discuss the latest research and developments in the field.",
+        "entity_names": [
+            "European Sociological Association"
+        ],
+        "filename": "completion-149",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "European Sociological Association"
+        ]
+    },
+    {
+        "sentence": "Spike Lee is known for his impactful films that often tackle themes such as race, prejudice, and urban life.",
+        "entity_names": [
+            "Spike Lee",
+            "New York City"
+        ],
+        "filename": "completion-152",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "New York City"
+        ]
+    },
+    {
+        "sentence": "The Toronto International Dance Festival is a major event in the city's cultural calendar, attracting both local and international dance troupes to showcase their talents.",
+        "entity_names": [
+            "Toronto International Dance Festival",
+            "Toronto"
+        ],
+        "filename": "completion-158",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Toronto"
+        ]
+    },
+    {
+        "sentence": "The Romance languages, such as Italian, French, and Spanish, have their roots in the Latin language.",
+        "entity_names": [
+            "Italian",
+            "French",
+            "Spanish",
+            "Latin"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "language",
+            "language",
+            "language",
+            "language"
+        ],
+        "entity_names_not_allowed": [
+            "Italian",
+            "French",
+            "Spanish",
+            "Latin"
+        ],
+        "entity_types_not_allowed": [
+            "language",
+            "language",
+            "language",
+            "language"
+        ]
+    },
+    {
+        "sentence": "The United Nations has designated 2022 as the International Year of Indigenous Languages to raise awareness of the crucial role languages play in people's daily lives.",
+        "entity_names": [
+            "United Nations",
+            "International Year of Indigenous Languages"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "International Year of Indigenous Languages"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Engineering is a diverse and interdisciplinary field that can be pursued at universities in Houston, Texas.",
+        "entity_names": [
+            "Houston",
+            "Texas",
+            "United States"
+        ],
+        "filename": "completion-175",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The Kellogg Company is the world's leading producer of cereal and a leading producer of convenience foods, including Pop-Tarts toaster pastries and Eggo frozen waffles.",
+        "entity_names": [
+            "Kellogg Company",
+            "Pop-Tarts",
+            "Eggo"
+        ],
+        "filename": "completion-178",
+        "entity_types": [
+            "organization",
+            "product",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "Pop-Tarts",
+            "Eggo"
+        ],
+        "entity_types_not_allowed": [
+            "product",
+            "product"
+        ]
+    },
+    {
+        "sentence": "The gray wolf (Canis lupus) is a species of canid native to the wilderness and remote areas of North America, Eurasia, and North Africa.",
+        "entity_names": [
+            "gray wolf",
+            "North America",
+            "Eurasia",
+            "North Africa"
+        ],
+        "filename": "completion-187",
+        "entity_types": [
+            "species",
+            "location",
+            "location",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "gray wolf"
+        ],
+        "entity_types_not_allowed": [
+            "species"
+        ]
+    },
+    {
+        "sentence": "Italian cuisine has developed through centuries of social and political changes, with roots stretching to antiquity.",
+        "entity_names": [
+            "Italy"
+        ],
+        "filename": "completion-195",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "NAIS provides professional development, advocacy, research, and other services to more than 1,800 member schools.",
+        "entity_names": [
+            "National Association of Independent Schools"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Association of Independent Schools"
+        ]
+    },
+    {
+        "sentence": "Independent schools affiliated with NAIS are known for their high academic standards and innovative educational approaches.",
+        "entity_names": [
+            "National Association of Independent Schools"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Association of Independent Schools"
+        ]
+    },
+    {
+        "sentence": "The philosophy of Stoicism, originating in ancient Greece, promotes the idea of living in accordance with nature and maintaining inner tranquility.",
+        "entity_names": [
+            "Stoicism",
+            "Greece"
+        ],
+        "filename": "completion-222",
+        "entity_types": [
+            "philosophy",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Stoicism"
+        ],
+        "entity_types_not_allowed": [
+            "philosophy"
+        ]
+    },
+    {
+        "sentence": "Linguistics is the scientific study of language and its structure, including the analysis of grammar, syntax, and phonetics.",
+        "entity_names": [
+            "USA"
+        ],
+        "filename": "completion-230",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "USA"
+        ]
+    },
+    {
+        "sentence": "The invention of the wheel revolutionized transportation, allowing for the movement of goods and people over long distances more efficiently than ever before.",
+        "entity_names": [
+            "wheel"
+        ],
+        "filename": "completion-235",
+        "entity_types": [
+            "object"
+        ],
+        "entity_names_not_allowed": [
+            "wheel"
+        ],
+        "entity_types_not_allowed": [
+            "object"
+        ]
+    },
+    {
+        "sentence": "The Pantanal is home to a diverse range of flora and fauna, including species such as the jaguar, giant otter, and hyacinth macaw.",
+        "entity_names": [
+            "Pantanal",
+            "jaguar",
+            "giant otter",
+            "hyacinth macaw"
+        ],
+        "filename": "completion-239",
+        "entity_types": [
+            "location",
+            "organism",
+            "organism",
+            "organism"
+        ],
+        "entity_names_not_allowed": [
+            "jaguar",
+            "giant otter",
+            "hyacinth macaw"
+        ],
+        "entity_types_not_allowed": [
+            "organism",
+            "organism",
+            "organism"
+        ]
+    },
+    {
+        "sentence": "The setting of To Kill a Mockingbird, a coming-of-age novel by Harper Lee, is the fictional town of Maycomb, Alabama.",
+        "entity_names": [
+            "To Kill a Mockingbird",
+            "Harper Lee",
+            "Maycomb",
+            "Alabama"
+        ],
+        "filename": "completion-241",
+        "entity_types": [
+            "literature",
+            "person",
+            "location",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "To Kill a Mockingbird"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "She is the author of the critically acclaimed novel, The Nightingale.",
+        "entity_names": [
+            "The Nightingale"
+        ],
+        "filename": "completion-244",
+        "entity_types": [
+            "literature"
+        ],
+        "entity_names_not_allowed": [
+            "The Nightingale"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The concept of zero and its integration into the numeral system revolutionized mathematics.",
+        "entity_names": [
+            "Bengaluru",
+            "India"
+        ],
+        "filename": "completion-254",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Bengaluru",
+            "India"
+        ]
+    },
+    {
+        "sentence": "Bodh Gaya is a religious site and place of pilgrimage associated with the Mahabodhi Temple Complex in Gaya district in the Indian state of Bihar.",
+        "entity_names": [
+            "Bodh Gaya",
+            "Mahabodhi Temple Complex",
+            "Gaya",
+            "Bihar",
+            "India"
+        ],
+        "filename": "completion-260",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "Sushi is a traditional Japanese dish consisting of vinegared rice, usually with some sugar and salt, and combined with a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.",
+        "entity_names": [
+            "Tokyo",
+            "Japan"
+        ],
+        "filename": "completion-263",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Tokyo",
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "Tempura is a popular Japanese dish of deep-fried seafood or vegetables, coated in a light, crispy batter, commonly served as a main dish or as a topping for rice bowls in many restaurants across [Tokyo].",
+        "entity_names": [
+            "Tokyo",
+            "Japan"
+        ],
+        "filename": "completion-263",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "The World Health Organization (WHO) has declared the ongoing outbreak of coronavirus disease (COVID-19) a public health emergency of international concern.",
+        "entity_names": [
+            "World Health Organization",
+            "COVID-19"
+        ],
+        "filename": "completion-281",
+        "entity_types": [
+            "organization",
+            "medical condition"
+        ],
+        "entity_names_not_allowed": [
+            "COVID-19"
+        ],
+        "entity_types_not_allowed": [
+            "medical condition"
+        ]
+    },
+    {
+        "sentence": "The discovery of the vaccine for poliovirus was a major breakthrough in the field of medicine.",
+        "entity_names": [
+            "poliovirus"
+        ],
+        "filename": "completion-281",
+        "entity_types": [
+            "medical condition"
+        ],
+        "entity_names_not_allowed": [
+            "poliovirus"
+        ],
+        "entity_types_not_allowed": [
+            "medical condition"
+        ]
+    },
+    {
+        "sentence": "The establishment of national parks and wildlife reserves in the 19th century marked a significant shift towards formalized wildlife conservation efforts around the world.",
+        "entity_names": [
+            "19th century"
+        ],
+        "filename": "completion-285",
+        "entity_types": [
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "19th century"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "Language acquisition is the process by which humans acquire the capacity to perceive and comprehend language, as well as to produce and use words and sentences to communicate.",
+        "entity_names": [
+            "human"
+        ],
+        "filename": "completion-289",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "human"
+        ]
+    },
+    {
+        "sentence": "John Nash, an American mathematician, was awarded the Nobel Memorial Prize in Economic Sciences in 1994 for his work on game theory.",
+        "entity_names": [
+            "John Nash",
+            "Nobel Memorial Prize in Economic Sciences",
+            "1994"
+        ],
+        "filename": "completion-292",
+        "entity_types": [
+            "person",
+            "organization",
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "1994"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "The World Health Organization (WHO) has been leading global efforts to combat the COVID-19 pandemic.",
+        "entity_names": [
+            "World Health Organization",
+            "COVID-19"
+        ],
+        "filename": "completion-320",
+        "entity_types": [
+            "organization",
+            "health"
+        ],
+        "entity_names_not_allowed": [
+            "COVID-19"
+        ],
+        "entity_types_not_allowed": [
+            "health"
+        ]
+    },
+    {
+        "sentence": "Nancy Grace Roman, also known as the \"Mother of Hubble,\" was an American astronomer who was instrumental in the planning and development of the Hubble Space Telescope.",
+        "entity_names": [
+            "Nancy Grace Roman",
+            "Hubble Space Telescope",
+            "American"
+        ],
+        "filename": "completion-325",
+        "entity_types": [
+            "person",
+            "organization",
+            "nationality"
+        ],
+        "reordered_entity_names": [
+            "Nancy Grace Roman",
+            "American",
+            "Hubble Space Telescope"
+        ],
+        "reordered_entity_types": [
+            "person",
+            "nationality",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "American"
+        ],
+        "entity_types_not_allowed": [
+            "nationality"
+        ]
+    },
+    {
+        "sentence": "The art of distilling Cognac in France dates back to the 16th century, and today the region is home to numerous renowned Cognac producers.",
+        "entity_names": [
+            "France",
+            "Cognac"
+        ],
+        "filename": "completion-330",
+        "entity_types": [
+            "location",
+            "product"
+        ],
+        "entity_names_after_add": [
+            "Cognac",
+            "France",
+            "Cognac"
+        ],
+        "entity_types_after_add": [
+            "product",
+            "location",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "Cognac",
+            "Cognac"
+        ],
+        "entity_types_not_allowed": [
+            "product",
+            "product"
+        ]
+    },
+    {
+        "sentence": "Modern agriculture relies heavily on machinery and technology, whereas in the past, it was largely dependent on manual labor and traditional farming methods.",
+        "entity_names": [
+            "Henry A. Wallace"
+        ],
+        "filename": "completion-336",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Henry A. Wallace"
+        ]
+    },
+    {
+        "sentence": "The field of engineering involves the application of scientific principles to design and build structures, machines, devices, systems, and processes.",
+        "entity_names": [
+            "Institution of Engineering and Technology"
+        ],
+        "filename": "completion-340",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Institution of Engineering and Technology"
+        ]
+    },
+    {
+        "sentence": "The [Republican Party] is one of the two major contemporary political parties in the United States, along with its main historic rival, the Democratic Party.",
+        "entity_names": [
+            "Republican Party",
+            "[United States",
+            "[Democratic Party"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "organization)]",
+            "location)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[United States",
+            "[Democratic Party"
+        ]
+    },
+    {
+        "sentence": "The [Republican Party] has held the presidency for 20 of the past 40 years, with Presidents Ronald Reagan, George H. W. Bush, George W. Bush, and Donald Trump all representing the party.",
+        "entity_names": [
+            "Republican Party",
+            "[Ronald Reagan",
+            "[George H. W. Bush",
+            "[George W. Bush",
+            "[Donald Trump"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "organization)]",
+            "person)]",
+            "person)]",
+            "person)]",
+            "person"
+        ],
+        "missing_entity_names": [
+            "[Ronald Reagan",
+            "[George H. W. Bush",
+            "[George W. Bush",
+            "[Donald Trump"
+        ]
+    },
+    {
+        "sentence": "The International Association of Applied Psychology is a global network of psychologists, researchers, and practitioners who aim to promote the scientific and professional study of psychological issues in diverse applied contexts.",
+        "entity_names": [
+            "Mental Health Foundation",
+            "World Psychiatric Association",
+            "International Association of Applied Psychology"
+        ],
+        "filename": "completion-367",
+        "entity_types": [
+            "organization",
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Mental Health Foundation",
+            "World Psychiatric Association"
+        ]
+    },
+    {
+        "sentence": "Lagerfeld's influence extended beyond clothing, as he made significant contributions to the world of photography and interior design.",
+        "entity_names": [
+            "Karl Lagerfeld"
+        ],
+        "filename": "completion-371",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Karl Lagerfeld"
+        ]
+    },
+    {
+        "sentence": "Turkish cuisine is known for its rich flavors and diverse influences, combining elements of Mediterranean, Middle Eastern, and Central Asian cooking traditions.",
+        "entity_names": [
+            "Istanbul",
+            "Turkey"
+        ],
+        "filename": "completion-399",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Istanbul",
+            "Turkey"
+        ]
+    },
+    {
+        "sentence": "Martin Heidegger was a German philosopher and a seminal thinker in the Continental tradition and philosophical hermeneutics.",
+        "entity_names": [
+            "Martin Heidegger",
+            "Germany"
+        ],
+        "filename": "completion-402",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was a significant turning point in the American Civil War.",
+        "entity_names": [
+            "Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-408",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Isoroku Yamamoto was a Japanese Marshal Admiral of the Navy and the commander-in-chief of the Combined Fleet during World War II.",
+        "entity_names": [
+            "Isoroku Yamamoto",
+            "Combined Fleet",
+            "World War II"
+        ],
+        "filename": "completion-408",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The process of crop rotation involves alternating the cultivation of different crops in the same area to improve soil fertility and crop yield.",
+        "entity_names": [
+            "crop rotation"
+        ],
+        "filename": "completion-436",
+        "entity_types": [
+            "agricultural technique"
+        ],
+        "entity_names_not_allowed": [
+            "crop rotation"
+        ],
+        "entity_types_not_allowed": [
+            "agricultural technique"
+        ]
+    },
+    {
+        "sentence": "Precision agriculture utilizes advanced technologies such as GPS, remote sensing, and data analytics to optimize inputs, reduce waste, and enhance productivity in crop production.",
+        "entity_names": [
+            "Precision agriculture",
+            "GPS",
+            "remote sensing"
+        ],
+        "filename": "completion-436",
+        "entity_types": [
+            "agricultural technique",
+            "technology",
+            "technology"
+        ],
+        "entity_names_not_allowed": [
+            "Precision agriculture",
+            "GPS",
+            "remote sensing"
+        ],
+        "entity_types_not_allowed": [
+            "agricultural technique",
+            "technology",
+            "technology"
+        ]
+    },
+    {
+        "sentence": "The United States Anti-Doping Agency is responsible for drug-testing athletes in the Olympic and Paralympic movements in the United States.",
+        "entity_names": [
+            "United States Anti-Doping Agency",
+            "Olympic",
+            "Paralympic",
+            "United States"
+        ],
+        "filename": "completion-446",
+        "entity_types": [
+            "organization",
+            "event",
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Olympic",
+            "Paralympic"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "In ancient Athens, travelers from all corners of the world would converge upon the majestic city to behold the grandeur of The Acropolis.",
+        "entity_names": [
+            "The Acropolis",
+            "Athens",
+            "Greece"
+        ],
+        "filename": "completion-449",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Greece"
+        ]
+    },
+    {
+        "sentence": "The championship series of Major League Baseball is known as the World Series, where the champions of the American League and the National League compete for the title.",
+        "entity_names": [
+            "Major League Baseball",
+            "World Series",
+            "American League",
+            "National League"
+        ],
+        "filename": "completion-482",
+        "entity_types": [
+            "organization",
+            "event",
+            "organization",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "World Series"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Emmy Noether's famous theorem, which established the connection between symmetries and conservation laws in physics, has become a cornerstone of mathematical physics.",
+        "entity_names": [
+            "Emmy Noether's theorem"
+        ],
+        "filename": "completion-501",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Emmy Noether's theorem"
+        ]
+    },
+    {
+        "sentence": "Following the March on Rome in 1922, King Victor Emmanuel III invited Benito Mussolini to become Prime Minister, marking the beginning of the Fascist dictatorship in Italy.",
+        "entity_names": [
+            "March on Rome",
+            "Victor Emmanuel III",
+            "Benito Mussolini",
+            "Italy"
+        ],
+        "filename": "completion-508",
+        "entity_types": [
+            "event",
+            "person",
+            "person",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "March on Rome"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Throughout the 1930s, Benito Mussolini pursued an expansionist foreign policy, which eventually led to Italy's involvement in World War II as part of the Axis powers.",
+        "entity_names": [
+            "Benito Mussolini",
+            "World War II",
+            "Italy",
+            "Axis powers"
+        ],
+        "filename": "completion-508",
+        "entity_types": [
+            "person",
+            "event",
+            "location",
+            "organization"
+        ],
+        "reordered_entity_names": [
+            "Benito Mussolini",
+            "Italy",
+            "World War II",
+            "Axis powers"
+        ],
+        "reordered_entity_types": [
+            "person",
+            "location",
+            "event",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Russian Armed Forces are the military forces of Russia and are one of the largest and most powerful military forces in the world.",
+        "entity_names": [
+            "United States Army",
+            "People's Liberation Army",
+            "Russian Armed Forces"
+        ],
+        "filename": "completion-509",
+        "entity_types": [
+            "organization",
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "United States Army",
+            "People's Liberation Army"
+        ]
+    },
+    {
+        "sentence": "Euclidean geometry is a mathematical system attributed to the ancient Greek mathematician Euclid, which he described in his textbook on geometry, the Elements.",
+        "entity_names": [
+            "Euclidean geometry",
+            "Euclid"
+        ],
+        "filename": "completion-519",
+        "entity_types": [
+            "concept",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Euclidean geometry"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "The European Space Agency (ESA) has successfully launched multiple missions to explore the outer solar system, including the Huygens probe that landed on Titan, Saturn's largest moon.",
+        "entity_names": [
+            "European Space Agency",
+            "Huygens",
+            "Titan",
+            "Saturn"
+        ],
+        "filename": "completion-531",
+        "entity_types": [
+            "organization",
+            "probe",
+            "location",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Huygens"
+        ],
+        "entity_types_not_allowed": [
+            "probe"
+        ]
+    },
+    {
+        "sentence": "The fashion house Christian Dior SE is known for its iconic \"New Look\" silhouette, which revolutionized women's fashion in the post-World War II era.",
+        "entity_names": [
+            "Christian Dior SE",
+            "World War II"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Ibn Battuta, a Moroccan explorer, traveled extensively throughout the known world in the 14th century.",
+        "entity_names": [
+            "Ibn Battuta",
+            "14th century"
+        ],
+        "filename": "completion-554",
+        "entity_types": [
+            "person",
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "14th century"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "Wuthering Heights, Emily Bront\u00eb's only novel, was published in 1847 under the pseudonym Ellis Bell.",
+        "entity_names": [
+            "Wuthering Heights"
+        ],
+        "filename": "completion-562",
+        "entity_types": [
+            "literature"
+        ],
+        "entity_names_not_allowed": [
+            "Wuthering Heights"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The novel Wuthering Heights is set in the moorland of Yorkshire and depicts the passionate, often violent, relationships between the characters.",
+        "entity_names": [
+            "Wuthering Heights",
+            "Yorkshire"
+        ],
+        "filename": "completion-562",
+        "entity_types": [
+            "literature",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Wuthering Heights"
+        ],
+        "entity_types_not_allowed": [
+            "literature"
+        ]
+    },
+    {
+        "sentence": "The Wisconsin Department of Agriculture, Trade and Consumer Protection plays a crucial role in ensuring the safety and quality of food and drink products in the state, working closely with producers and businesses to maintain high standards.",
+        "entity_names": [
+            "Wisconsin Department of Agriculture, Trade and Consumer Protection",
+            "Wisconsin"
+        ],
+        "filename": "completion-578",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Wisconsin"
+        ]
+    },
+    {
+        "sentence": "Engineering is the application of scientific, economic, social, and practical knowledge in order to design, build, and maintain structures, machines, devices, systems, materials, and processes.",
+        "entity_names": [
+            "ASME"
+        ],
+        "filename": "completion-584",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "ASME"
+        ]
+    },
+    {
+        "sentence": "Engineers in Houston, Texas, are working on developing new methods for sustainable energy production.",
+        "entity_names": [
+            "Houston",
+            "Texas",
+            "United States"
+        ],
+        "filename": "completion-585",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Simone Biles is an American artistic gymnast who has won numerous Olympic and World Championship titles.",
+        "entity_names": [
+            "Simone Biles",
+            "National Football League"
+        ],
+        "filename": "completion-591",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Football League"
+        ]
+    },
+    {
+        "sentence": "Grigori Perelman, a Russian mathematician, is known for his contributions to the study of geometric analysis and his proof of the Poincar\u00e9 conjecture.",
+        "entity_names": [
+            "Grigori Perelman",
+            "Russian",
+            "Poincar\u00e9 conjecture"
+        ],
+        "filename": "completion-600",
+        "entity_types": [
+            "person",
+            "location",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "Poincar\u00e9 conjecture"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "Mathematics conferences play a crucial role in fostering collaboration and the exchange of ideas among scholars, with renowned institutions such as the Mathematisches Forschungsinstitut Oberwolfach, Germany leading the way.",
+        "entity_names": [
+            "Mathematics",
+            "Mathematisches Forschungsinstitut Oberwolfach",
+            "Oberwolfach",
+            "Germany"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "organization",
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Oberwolfach"
+        ]
+    },
+    {
+        "sentence": "Poe's famous poem \"The Raven\" is known for its haunting rhythm and its exploration of grief and loss.",
+        "entity_names": [
+            "Edgar Allan Poe"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Edgar Allan Poe"
+        ]
+    },
+    {
+        "sentence": "The Arctic National Wildlife Refuge is home to a diverse range of wildlife, including caribou, polar bears, and migratory birds.",
+        "entity_names": [
+            "Arctic National Wildlife Refuge",
+            "BirdLife International"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "BirdLife International"
+        ]
+    },
+    {
+        "sentence": "In 2003, the Japan Aerospace Exploration Agency launched the unmanned spacecraft Hayabusa to collect samples from asteroid Itokawa.",
+        "entity_names": [
+            "Japan Aerospace Exploration Agency",
+            "Hayabusa",
+            "Itokawa"
+        ],
+        "filename": "completion-13",
+        "entity_types": [
+            "organization",
+            "unmanned spacecraft",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Hayabusa"
+        ],
+        "entity_types_not_allowed": [
+            "unmanned spacecraft"
+        ]
+    },
+    {
+        "sentence": "The philosophy of mind explores the nature of the mind and its relationship to the body, as well as the nature of conscious experience.",
+        "entity_names": [
+            "mind"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "concept"
+        ],
+        "entity_names_after_add": [
+            "mind",
+            "mind"
+        ],
+        "entity_types_after_add": [
+            "concept",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "mind",
+            "mind"
+        ],
+        "entity_types_not_allowed": [
+            "concept",
+            "concept"
+        ]
+    },
+    {
+        "sentence": "Barcelona, a city known for its rich culinary tradition, offers a wide array of cooking classes and workshops for both local residents and tourists to experience the art of Spanish cuisine.",
+        "entity_names": [
+            "Barcelona",
+            "Spain"
+        ],
+        "filename": "completion-17",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Spain"
+        ]
+    }
+]

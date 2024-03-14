@@ -1,0 +1,8 @@
+Query: "I'm craving a breakfast café with takeout service"
+Named Entities: [breakfast café (Cuisine), Takeout service (Amenity)]
+
+Query: "which nearby café offers takeout for coffee and pastries"
+Named Entities: [coffee and pastries (Dish), Takeout service (Amenity)]
+
+Query: "find me a cozy café with takeout service for a quick lunch"
+Named Entities: [cozy café (Amenity), Takeout service (Amenity), quick lunch (Price)]

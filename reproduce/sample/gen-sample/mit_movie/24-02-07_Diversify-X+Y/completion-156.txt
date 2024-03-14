@@ -1,0 +1,8 @@
+1. Query: "Can you provide some background on the art direction in the latest spy film featuring Jane Smith?"
+   Named Entities: [art direction (Plot), spy film (Genre), Jane Smith (Actor)]
+
+2. Query: "I'm looking for an informative documentary about the making of a movie with an F rating. Any recommendations?"
+   Named Entities: [informative (Viewers' Rating), F rating (MPAA Rating)]
+
+3. Query: "Which movie directed by a female filmmaker has the best behind-the-scenes content?"
+   Named Entities: [female filmmaker (Director)]

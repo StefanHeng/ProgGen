@@ -1,0 +1,8 @@
+1. Text Span: "thriller"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "musical"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "World War II"
+Label: (C). The span is a named entity but the category is not genre. The correct entity type is Plot.

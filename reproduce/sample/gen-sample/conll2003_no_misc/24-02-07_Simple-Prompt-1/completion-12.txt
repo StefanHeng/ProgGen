@@ -1,0 +1,59 @@
+1. Apple announces new iPhone models.
+Named Entities: [Apple (organization)]
+
+2. President Biden visits troops in Afghanistan.
+Named Entities: [President Biden (person), Afghanistan (location)]
+
+3. Google CEO resigns amid controversy.
+Named Entities: [Google (organization)]
+
+4. California wildfires rage on, threatening homes.
+Named Entities: [California (location)]
+
+5. Tesla stock reaches all-time high.
+Named Entities: [Tesla (organization)]
+
+6. Dr. Anthony Fauci warns of potential COVID-19 surge.
+Named Entities: [Dr. Anthony Fauci (person)]
+
+7. United Nations calls for ceasefire in Syria.
+Named Entities: [United Nations (organization), Syria (location)]
+
+8. Amazon Prime Day sales exceed expectations.
+Named Entities: [Amazon (organization)]
+
+9. New York City imposes vaccine mandate for indoor dining.
+Named Entities: [New York City (location)]
+
+10. Facebook faces backlash over privacy concerns.
+Named Entities: [Facebook (organization)]
+
+11. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+12. Angela Merkel elected as President of the European Union.
+Named Entities: [Angela Merkel (person), European Union (organization)]
+
+13. Tokyo Olympics postponed due to pandemic.
+Named Entities: [Tokyo (location)]
+
+14. International Monetary Fund projects global economic slowdown.
+Named Entities: [International Monetary Fund (organization)]
+
+15. FDA approves new cancer treatment.
+Named Entities: [FDA (organization)]
+
+16. Paris Hilton launches new fashion line.
+Named Entities: [Paris Hilton (person)]
+
+17. World Health Organization declares polio eradicated in Africa.
+Named Entities: [World Health Organization (organization), Africa (location)]
+
+18. Uber partners with local restaurant to offer food delivery.
+Named Entities: [Uber (organization)]
+
+19. Bill Gates donates $1 million to charity.
+Named Entities: [Bill Gates (person)]
+
+20. London Stock Exchange experiences trading delay.
+Named Entities: [London Stock Exchange (organization), London (location)]

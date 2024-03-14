@@ -1,0 +1,8 @@
+1. "Can you recommend a romantic fine dining restaurant with French cuisine and a rating of at least 4 stars?"
+   Named Entities: [romantic (Amenity), fine dining (Amenity), French cuisine (Cuisine), at least 4 stars (Rating)]
+
+2. "I'm looking for a high-end restaurant with a beautiful view and a price range of $100-200 per person for a special occasion."
+   Named Entities: [high-end (Amenity), beautiful view (Amenity), $100-200 per person (Price), special occasion (Amenity)]
+
+3. "Where can I find a fancy upscale eatery with a tasting menu and a location near the city center?"
+   Named Entities: [fancy (Amenity), upscale (Amenity), tasting menu (Amenity), near the city center (Location)]

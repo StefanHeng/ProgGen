@@ -1,0 +1,8 @@
+Query: "I'm craving some vegan paella. Is there a food truck nearby that serves it?"
+Named Entities: [vegan (Amenity), paella (Dish), food truck (Restaurant Name), within walking distance (Location)]
+
+Query: "I want to try some vegan paella. Can you recommend a food truck that's within walking distance?"
+Named Entities: [vegan (Amenity), paella (Dish), food truck (Restaurant Name), within walking distance (Location)]
+
+Query: "Where can I find a food truck serving vegan paella that's within walking distance from here?"
+Named Entities: [vegan (Amenity), paella (Dish), food truck (Restaurant Name), within walking distance (Location)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a late-night dining option, preferably with Chinese cuisine, near P.F. Chang's"
+Named Entities: [late-night dining (Amenity), Chinese (Cuisine), P.F. Chang's (Restaurant Name)]
+
+Query: "Is there a place near P.F. Chang's where I can get a hearty meal after my construction shift ends at 10 pm?"
+Named Entities: [hearty (Amenity), construction worker (Amenity), 10 pm (Hours), P.F. Chang's (Location)]
+
+Query: "I'm a 35-year-old male construction worker looking for a restaurant open late near P.F. Chang's"
+Named Entities: [35-year-old (Amenity), male (Amenity), construction worker (Amenity), open late (Hours), P.F. Chang's (Location)]

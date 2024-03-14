@@ -1,0 +1,8 @@
+Sentence: "Mark Zuckerberg announces new feature to enhance user privacy on Facebook."
+Named Entities: [Mark Zuckerberg (person), Facebook (organization)]
+
+Sentence: "Technology industry leaders gather for Mark Zuckerberg's keynote address at the annual tech conference in Silicon Valley."
+Named Entities: [Mark Zuckerberg (person), Silicon Valley (location)]
+
+Sentence: "Investors speculate on the impact of Mark Zuckerberg's latest innovation on the stock market."
+Named Entities: [Mark Zuckerberg (person)]

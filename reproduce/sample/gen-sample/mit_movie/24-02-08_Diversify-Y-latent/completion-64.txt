@@ -1,0 +1,8 @@
+1. "Can you recommend any Walk the Line movies that are rated PG-13?"
+Named Entities: [Walk the Line (Title), PG-13 (MPAA Rating)]
+
+2. "Show me a thrilling and action-packed New Wave movie from the 1980s."
+Named Entities: [thrilling (Genre), action-packed (Genre), New Wave (Title), 1980s (Year)]
+
+3. "Is there an NC-17 movie directed by Quentin Tarantino that features an intense plot?"
+Named Entities: [NC-17 (MPAA Rating), Quentin Tarantino (Director), intense (Plot)]

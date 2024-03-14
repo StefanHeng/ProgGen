@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie that showcases amazing on-screen presence?"
+   Named Entities: [amazing on-screen presence (Review)]
+
+2. Query: "I'm a fan of David Lynch's work, can you suggest a film directed by him?"
+   Named Entities: [David Lynch (Director)]
+
+3. Query: "What year was the movie with an amazing on-screen presence released?"
+   Named Entities: [amazing on-screen presence (Review)]

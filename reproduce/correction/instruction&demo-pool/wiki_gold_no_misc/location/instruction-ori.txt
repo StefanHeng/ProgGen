@@ -1,0 +1,9 @@
+A named location entity must be the name of a location.
+Locations in mythology such as "Underworld" are also named location entities.
+General reference to a location such as "city" and "business park" is not a named entity.
+Demonyms such as "French", "English", "American", "African", "Indian" and "Greek" are not relevant named entities.
+Viruses such as "COVID-19" are not named location entities.
+Hurricanes and other natural disasters are also not named location entities.
+
+Demonyms such as "French", "American", "African", "Chinese", "Indian", "South Korean" and "Australian" are not relevant named entities.
+// Works of art such as "Mona Lisa" are also not relevant named entities.

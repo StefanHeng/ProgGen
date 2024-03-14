@@ -1,0 +1,8 @@
+Query: "can you recommend a movie about wartime resistance with a high rating"
+Named Entities: [wartime resistance (Plot), high rating (Viewers' Rating)]
+
+Query: "have you seen any abysmal horror movies from the 1980s"
+Named Entities: [abysmal (Review), horror (Genre), 1980s (Year)]
+
+Query: "who was the director of the film adaptation of the novel 'To Kill a Mockingbird' and what is the viewers' rating"
+Named Entities: [to kill a mockingbird (Title), film adaptation (Plot), viewers' rating (Viewers' Rating)]

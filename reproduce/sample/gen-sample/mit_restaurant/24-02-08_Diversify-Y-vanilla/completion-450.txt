@@ -1,0 +1,8 @@
+Query: "Can you recommend a breakfast spot with a good rating?"
+Named Entities: [breakfast (Amenity), good rating (Rating)]
+
+Query: "What is the price range for Italian restaurants in the area?"
+Named Entities: [Italian (Cuisine), price range (Price), area (Location)]
+
+Query: "Where can I find a sushi place that opens before 11 am?"
+Named Entities: [sushi (Cuisine), before 11 am (Hours)]

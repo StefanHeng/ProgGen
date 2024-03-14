@@ -1,0 +1,8 @@
+1. Query: "Can I watch the latest horror movie tonight?"
+   Named Entities: [latest horror movie (Genre)]
+
+2. Query: "Is there a romantic comedy playing this weekend?"
+   Named Entities: [romantic comedy (Genre), this weekend (Year)]
+
+3. Query: "Do you have any action films with Tom Cruise in the lead role?"
+   Named Entities: [action films (Genre), Tom Cruise (Actor)]

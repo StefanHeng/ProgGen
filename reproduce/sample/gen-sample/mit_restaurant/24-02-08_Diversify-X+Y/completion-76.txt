@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly-rated fine dining restaurant with a vegetarian menu?"
+Named Entities: [highly-rated (Rating), fine dining (Amenity), vegetarian (Cuisine)]
+
+Query: "I'm looking for a fine dining restaurant that serves seafood and is open past 10 pm."
+Named Entities: [fine dining (Amenity), seafood (Cuisine), open past 10 pm (Hours)]
+
+Query: "Where can I find a top-rated fine dining restaurant that offers a tasting menu for a reasonable price?"
+Named Entities: [top-rated (Rating), fine dining (Amenity), tasting menu (Amenity), reasonable price (Price)]

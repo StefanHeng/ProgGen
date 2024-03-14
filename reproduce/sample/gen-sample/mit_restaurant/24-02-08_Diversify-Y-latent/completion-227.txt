@@ -1,0 +1,8 @@
+1. "Which restaurants offer brunch hours near Sunnyside Cafe?"
+Named Entities: [Brunch hours (Amenity), Sunnyside Cafe (Restaurant Name)]
+
+2. "I'm looking for an acclaimed restaurant with vegetarian options."
+Named Entities: [acclaimed (Rating), vegetarian options (Cuisine)]
+
+3. "Where can I find a place for dinner with outdoor seating and a view of the lake?"
+Named Entities: [dinner (Amenity), outdoor seating (Amenity), view of the lake (Location)]

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of any family-friendly movies released between 1945 and 1955?"
+Named Entities: [1945-1955 (Year)]
+
+2. Query: "What movies with a G rating have a heartwarming plot suitable for young children from the 1950s era?"
+Named Entities: [G (MPAA Rating), 1950s (Year)]
+
+3. Query: "Show me movies from the 1940s and 1950s that have an inspirational plot suitable for family viewing."
+Named Entities: [1940s (Year), 1950s (Year)]

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the reviews for the recent Lara Croft movie?"
+Named Entities: [Lara Croft (Character), reviews (Review)]
+
+2. Query: "I'm feeling nostalgic. Show me an extended look of the film Grease Lightning."
+Named Entities: [Grease Lightning (Title), extended look (Trailer)]
+
+3. Query: "I'm curious about the viewers' rating for the sports movie featuring Michael Fassbender."
+Named Entities: [Michael Fassbender (Actor), sports (Genre), viewers' rating (Viewers' Rating)]

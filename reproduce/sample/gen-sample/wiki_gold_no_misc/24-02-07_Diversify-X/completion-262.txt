@@ -1,0 +1,8 @@
+Sentence: "The United Nations Environment Programme (UNEP) is a program that coordinates the development of environmental policy consensus by keeping the global environment under review and bringing emerging issues to the attention of governments and the international community."
+Named Entities: [United Nations Environment Programme (organization)]
+
+Sentence: "She is known for her groundbreaking work in environmental activism, particularly in the areas of sustainability and conservation."
+Named Entities: []
+
+Sentence: "The Amazon rainforest, also known in English as Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America."
+Named Entities: [Amazon rainforest (location), Amazon biome (location), South America (location)]

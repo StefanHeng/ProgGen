@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants with a good happy hour special?"
+Named Entities: [good (Rating), happy hour (Amenity)]
+
+2. "Where can I find the best Eggs Benedict in town?"
+Named Entities: [best (Rating), Eggs Benedict (Dish)]
+
+3. "I'm craving some sushi, can you recommend a good sushi place nearby?"
+Named Entities: [sushi (Cuisine), good (Rating), nearby (Location)]

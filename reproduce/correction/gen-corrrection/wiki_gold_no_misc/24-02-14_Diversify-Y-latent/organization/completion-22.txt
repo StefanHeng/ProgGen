@@ -1,0 +1,11 @@
+1. Sentence: "The Russian space agency, {{Roscosmos}}, was formed in 1992 after the dissolution of the Soviet Union."
+Text Span: "Roscosmos"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "In 2007, he founded the {{Elon Musk Foundation}}, an organization focused on space exploration, education, renewable energy, and pediatric research."
+Text Span: "Elon Musk Foundation"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The {{Hare Krishna mantra}}, also known as the Maha Mantra, is a 16-word Vaishnava mantra that can be chanted in a call-and-response format and is closely associated with the Hare Krishna movement."
+Text Span: "Hare Krishna mantra"
+Label: (C). Wrong Type. The correct entity type is other.

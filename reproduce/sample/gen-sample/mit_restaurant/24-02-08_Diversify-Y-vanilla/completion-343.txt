@@ -1,0 +1,8 @@
+1. "I'm looking for a highly-revered sushi restaurant in Uptown"
+Named Entities: [highly-revered (Rating), Uptown (Location), sushi (Cuisine)]
+
+2. "What's a good place to grab a bite to eat with outdoor seating and a lively atmosphere?"
+Named Entities: [good (Rating), outdoor seating (Amenity), lively atmosphere (Amenity)]
+
+3. "Can you recommend a family-friendly Italian restaurant open past 9 PM?"
+Named Entities: [family-friendly (Amenity), Italian (Cuisine), past 9 PM (Hours)]

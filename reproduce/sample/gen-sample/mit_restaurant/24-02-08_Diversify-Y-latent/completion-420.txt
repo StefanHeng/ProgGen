@@ -1,0 +1,8 @@
+1. "Do you know if The Great Buffet has WiFi availability?"
+Named Entities: [The Great Buffet (Restaurant Name), WiFi availability (Amenity)]
+
+2. "Where can I find a restaurant with handicap accessibility and a good menu for under 20 dollars?"
+Named Entities: [handicap accessibility (Amenity), under 20 dollars (Price)]
+
+3. "Is there any place nearby that offers outdoor seating and serves Vietnamese cuisine?"
+Named Entities: [outdoor seating (Amenity), Vietnamese (Cuisine)]

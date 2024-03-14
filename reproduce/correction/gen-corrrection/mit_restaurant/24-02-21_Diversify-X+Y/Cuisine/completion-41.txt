@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a restaurant with unbeatable {{brunch}} options and outdoor seating?"
+Text Span: "brunch"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Query: "I'm craving some {{fast food}}, where can I get a gourmet burger in this area?"
+Text Span: "fast food"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "What are the hours of operation for halal {{fast food}} restaurants in this area?"
+Text Span: "fast food"
+Label: (A). The span is a named entity of type cuisine

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie similar to The Notebook?"
+Named Entities: [The Notebook (Title)]
+
+2. "Is there a movie worth watching that features a character like Jack Dawson?"
+Named Entities: [worth watching (Viewers' Rating), Jack Dawson (Character)]
+
+3. "Are there any family-friendly movies rated as TV-Y7 that are action-packed?"
+Named Entities: [TV-Y7 (MPAA Rating)]

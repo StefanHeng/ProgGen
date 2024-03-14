@@ -1,0 +1,8 @@
+Query: "I'm looking for an exorbitant dinner place for tonight"
+Named Entities: [exorbitant (Price), dinner (Amenity)]
+
+Query: "where can I find the best-reviewed tavern for dinner"
+Named Entities: [best-reviewed (Rating), tavern (Restaurant Name), dinner (Amenity)]
+
+Query: "suggest a dinner spot with exquisite cuisine and a modest price"
+Named Entities: [exquisite (Rating), cuisine (Cuisine), modest (Price), dinner (Amenity) ]

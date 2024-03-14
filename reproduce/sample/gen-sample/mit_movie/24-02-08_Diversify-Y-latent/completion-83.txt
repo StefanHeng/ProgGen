@@ -1,0 +1,8 @@
+1. "Where can I find a movie snippet for The Exorcist?"
+   Named Entities: [The Exorcist (Title), Movie snippet (Trailer)]
+
+2. "What are some spectacular movies released between 1945-1950?"
+   Named Entities: [spectacular (Viewers' Rating), 1945-1950 (Year)]
+
+3. "Can you tell me the genre of the movie directed by Alfred Hitchcock in 1954?"
+   Named Entities: [Alfred Hitchcock (Director), 1954 (Year)]

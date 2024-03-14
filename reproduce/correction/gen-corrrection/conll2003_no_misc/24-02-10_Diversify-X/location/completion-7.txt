@@ -1,0 +1,8 @@
+1. Text Span: "Roman"
+Label: (A)
+
+2. Text Span: "Tokyo"
+Label: (A)
+
+3. Text Span: "downtown arts district"
+Label: (B). The correct span boundary is "arts district"

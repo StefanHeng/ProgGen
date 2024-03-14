@@ -1,0 +1,8 @@
+1. Text Span: "2014"
+Label: (D). The span is not a named entity
+
+2. Text Span: "United Kingdom"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is person.

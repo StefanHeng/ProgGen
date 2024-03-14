@@ -1,0 +1,8 @@
+1. "I want to grab a budget-friendly brunch spot around here"
+Named Entities: [brunch (Amenity), budget-friendly (Price), around here (Location)]
+
+2. "Which restaurant in the area serves affordable brunch options"
+Named Entities: [affordable (Price), brunch (Amenity), area (Location)]
+
+3. "Can you recommend a place with cheap brunch menus nearby"
+Named Entities: [cheap (Price), brunch (Amenity), nearby (Location)]

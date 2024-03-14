@@ -1,0 +1,8 @@
+1. "Where can we find a 24-hour diner serving American comfort food?"
+Named Entities: [24-hour (Hours), American comfort food (Cuisine)]
+
+2. "Can you recommend any pizza joints open past midnight?"
+Named Entities: [pizza (Cuisine), past midnight (Hours)]
+
+3. "I'm craving some late-night Chinese takeout, are there any spots nearby?"
+Named Entities: [late-night (Hours), Chinese (Cuisine), nearby (Location)]

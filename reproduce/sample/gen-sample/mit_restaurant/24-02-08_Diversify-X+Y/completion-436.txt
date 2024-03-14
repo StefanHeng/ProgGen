@@ -1,0 +1,8 @@
+1. "I'm craving a buffet dinner for takeout tonight, where should I go?"
+Named Entities: [buffet (Amenity), takeout (Amenity)]
+
+2. "What's the nearest place that offers a takeout buffet for lunch?"
+Named Entities: [takeout (Amenity), buffet (Amenity)]
+
+3. "Can you recommend a restaurant with a good takeout buffet in the area for under $20 per person?"
+Named Entities: [takeout (Amenity), buffet (Amenity), under $20 per person (Price)]

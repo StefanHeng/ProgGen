@@ -1,0 +1,8 @@
+1. Query: "what are the top-rated restaurants in Las Vegas"
+   Named Entities: [Las Vegas (Location), top-rated (Rating)]
+
+2. Query: "show me Japanese restaurants in Las Vegas that are open past midnight"
+   Named Entities: [Japanese (Cuisine), Las Vegas (Location), open past midnight (Hours)]
+
+3. Query: "recommend a seafood place with outdoor seating in Las Vegas"
+   Named Entities: [seafood (Cuisine), outdoor seating (Amenity), Las Vegas (Location)]

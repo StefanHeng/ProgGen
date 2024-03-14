@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food by the waterfront, where's the nearest burger joint?"
+Named Entities: [fast food (Cuisine), waterfront (Amenity), nearest (Location), burger (Dish)]
+
+Query: "What's a good place for fast food with a waterfront view?"
+Named Entities: [good (Rating), fast food (Cuisine), waterfront (Amenity)]
+
+Query: "I need a fast food spot with a waterfront patio, can you recommend one?"
+Named Entities: [fast food (Cuisine), waterfront (Amenity), patio (Amenity)]

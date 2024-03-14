@@ -1,0 +1,8 @@
+Sentence: "The Mississippi River is the second-longest river and chief river of the second-largest drainage system on the North American continent."
+Named Entities: [Mississippi River (location), North American (location)]
+
+Sentence: "The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers."
+Named Entities: [Great Barrier Reef (location)]
+
+Sentence: "The Sahara is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic."
+Named Entities: [Sahara (location), Antarctica (location), Arctic (location)]

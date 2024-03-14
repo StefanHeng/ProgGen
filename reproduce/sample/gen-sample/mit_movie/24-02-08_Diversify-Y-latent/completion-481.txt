@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie Black Swan?"
+Named Entities: [Black Swan (Title)]
+
+2. Query: "Can you recommend an uplifting war documentary?"
+Named Entities: [War documentary (Genre), Uplifting (Review)]
+
+3. Query: "Did Mila Kunis and Tom Hanks star in a movie together?"
+Named Entities: [Mila Kunis (Actor), Tom Hanks (Actor)]

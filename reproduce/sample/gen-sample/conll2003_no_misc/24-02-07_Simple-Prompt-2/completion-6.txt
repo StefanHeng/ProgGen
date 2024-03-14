@@ -1,0 +1,29 @@
+1. "President Biden signs executive order to boost cybersecurity."
+Named Entities: [President Biden (person)]
+
+2. "New York City announces plan to reopen all schools in September."
+Named Entities: [New York City (location)]
+
+3. "Apple unveils new iPhone with upgraded camera and battery life."
+Named Entities: [Apple (organization)]
+
+4. "Scientists discover new species of butterfly in the Amazon rainforest."
+Named Entities: [Amazon (location)]
+
+5. "Tesla CEO Elon Musk becomes the world's richest person."
+Named Entities: [Tesla (organization), Elon Musk (person)]
+
+6. "United Nations reports record-breaking temperatures in Antarctica."
+Named Entities: [United Nations (organization), Antarctica (location)]
+
+7. "Former President Obama to release memoir this fall."
+Named Entities: [President Obama (person)]
+
+8. "Hurricane warning issued for coastal areas of Florida."
+Named Entities: [Florida (location)]
+
+9. "Google to invest $1 billion in renewable energy projects."
+Named Entities: [Google (organization)]
+
+10. "Legendary musician Bob Dylan announces new album."
+Named Entities: [Bob Dylan (person)]

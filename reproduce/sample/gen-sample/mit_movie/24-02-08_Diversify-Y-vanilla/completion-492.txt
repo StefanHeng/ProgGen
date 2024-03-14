@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with the song Blackbird?"
+Named Entities: [Blackbird (Song)]
+
+2. "I'm looking for a coming-of-age film from the 1990s, any suggestions?"
+Named Entities: [coming-of-age (Genre), 1990s (Year)]
+
+3. "What is the first movie featuring the character Hannibal Lecter?"
+Named Entities: [Hannibal Lecter (Character)]

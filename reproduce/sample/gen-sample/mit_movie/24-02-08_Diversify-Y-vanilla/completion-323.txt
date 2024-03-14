@@ -1,0 +1,8 @@
+1. Query: "What movie was released in 2001 that has stunning costume design?"
+Named Entities: [2001 (Year), stunning costume design (Plot)]
+
+2. Query: "Is Viggo Mortensen in any U-rated movies?"
+Named Entities: [Viggo Mortensen (Actor), U-rated (MPAA Rating)]
+
+3. Query: "Show me a movie featuring the song Hound Dog and Optimus Prime."
+Named Entities: [Hound Dog (Song), Optimus Prime (Character)]

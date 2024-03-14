@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an artistic plot and a 0-star rating?"
+Named Entities: [Artistic (Genre), 0-star rating (Viewers' Rating)]
+
+2. "I'm looking for a film directed by Quentin Tarantino with an AA rating."
+Named Entities: [Quentin Tarantino (Director), AA (MPAA Rating)]
+
+3. "What year did the movie 'Gone with the Wind' come out, and is it considered a classic?" 
+Named Entities: [Gone with the Wind (Title), classic (Viewers' Rating)]

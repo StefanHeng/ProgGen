@@ -1,0 +1,8 @@
+1. "Can you recommend a good historical drama available for streaming on Hulu?"
+Named Entities: [historical drama (Genre), streamable on Hulu (MPAA Rating)]
+
+2. "Could I see the official trailer for the latest Christopher Nolan film?"
+Named Entities: [official trailer (Trailer), Christopher Nolan (Director)]
+
+3. "What's the viewers' rating for the popular horror movie 'The Conjuring'?"
+Named Entities: [viewers' rating (Viewers' Rating), The Conjuring (Title)]

@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in the city?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), city (Location)]
+
+Query: "I'm craving sushi, are there any good all-you-can-eat sushi places nearby?"
+Named Entities: [sushi (Cuisine), good (Rating), all-you-can-eat (Amenity), nearby (Location)]
+
+Query: "Could you recommend a Mexican restaurant with outdoor seating and a children's menu?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), children's menu (Amenity)]

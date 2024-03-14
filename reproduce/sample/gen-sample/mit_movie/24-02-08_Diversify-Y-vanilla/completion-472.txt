@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Niki Caro that has a strong female lead?"
+   Named Entities: [Niki Caro (Director), strong female lead (Character)]
+
+2. "I'm looking for a comedy film similar to American Pie, but with a different cast."
+   Named Entities: [American Pie (Title), comedy (Genre)]
+
+3. "Show me a trailer for a movie starring Ryan Reynolds that has been approved for all audiences."
+   Named Entities: [Ryan Reynolds (Actor), approved for all audiences (MPAA Rating)]

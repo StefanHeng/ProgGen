@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant near me that has a good selection of seafood dishes?"
+   Named Entities: [seafood (Cuisine), near me (Location)]
+
+2. "What are the operating hours for Italian restaurant [Sizzler] on Friday?"
+   Named Entities: [Italian (Cuisine), [Sizzler] (Restaurant Name), on Friday (Hours)]
+
+3. "I'm looking for a budget-friendly place for dinner, preferably with outdoor seating."
+   Named Entities: [budget-friendly (Price), outdoor seating (Amenity)]

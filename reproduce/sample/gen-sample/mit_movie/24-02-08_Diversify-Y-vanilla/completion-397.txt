@@ -1,0 +1,8 @@
+1. "Show me a TV spot for the unrated movie that is epic in scale"
+Named Entities: [TV spot (Trailer), Unrated (MPAA Rating), epic in scale (Plot)]
+
+2. "What year did Akira Kurosawa direct the movie with a family feud as the central plot"
+Named Entities: [Akira Kurosawa (Director), family feud (Plot)]
+
+3. "Which movie featuring a family feud has the highest viewers' rating"
+Named Entities: [family feud (Plot), highest viewers' rating (Review)]

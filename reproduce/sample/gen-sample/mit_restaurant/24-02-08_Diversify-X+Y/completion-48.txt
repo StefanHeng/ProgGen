@@ -1,0 +1,8 @@
+Query: "find a buffet restaurant with a good rating"
+Named Entities: [buffet (Amenity), good (Rating)]
+
+Query: "which buffet restaurant near me has a high rating"
+Named Entities: [buffet (Amenity), high (Rating), near me (Location)]
+
+Query: "what's the price range for buffet restaurants in this area"
+Named Entities: [buffet (Amenity), price range (Price), this area (Location)]

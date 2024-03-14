@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about a movie that has some informative scene on computer hacking in 2019?"
+   Named Entities: [informative (Plot), computer hacking (Genre), 2019 (Year)]
+
+2. Query: "I'm looking for a film that delves into the behind-the-scenes of computer hacking in a recent year."
+   Named Entities: [behind-the-scenes (Plot), computer hacking (Genre), recent year (Year)]
+
+3. Query: "Do you have any information on a movie from 2019 that explores the making-of computer hacking scenes in an educational way?"
+   Named Entities: [making-of (Plot), computer hacking (Genre), 2019 (Year), educational (Plot)]

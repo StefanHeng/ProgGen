@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with outdoor seating and a good view for lunch"
+Named Entities: [outdoor seating (Amenity), good view (Amenity), lunch (Amenity)]
+
+2. "Can you recommend any Italian restaurants with a rating of at least 4 stars for lunch?"
+Named Entities: [Italian (Cuisine), at least 4 stars (Rating), lunch (Amenity)]
+
+3. "What are the hours for a nearby sushi place open for lunch on weekdays?"
+Named Entities: [sushi (Cuisine), weekdays (Hours), lunch (Amenity)]

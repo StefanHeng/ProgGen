@@ -1,0 +1,839 @@
+[
+    {
+        "sentence": "International aid organizations provide assistance to Caracas flood victims.",
+        "entities": [
+            "Caracas (location)",
+            "organizations"
+        ]
+    },
+    {
+        "sentence": "The Claude Monet Foundation announces a new scholarship for young artists.",
+        "entity_names": [
+            "Claude Monet",
+            "Claude Monet Foundation"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Claude Monet"
+        ]
+    },
+    {
+        "sentence": "Environmental organization proposes new conservation measures in The Andes Mountains.",
+        "entities": [
+            "The Andes Mountains (location)",
+            "organization"
+        ]
+    },
+    {
+        "sentence": "General James Mattis resigns as Secretary of Defense.",
+        "entity_names": [
+            "General James Mattis",
+            "Pentagon"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Pentagon"
+        ]
+    },
+    {
+        "sentence": "Israeli Prime Minister Benjamin Netanyahu visits Jerusalem for security summit.",
+        "entity_names": [
+            "Benjamin Netanyahu",
+            "Jerusalem",
+            "Israel"
+        ],
+        "filename": "completion-48",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Israel"
+        ]
+    },
+    {
+        "sentence": "U.S. Immigration and Customs Enforcement arrests 100 undocumented immigrants in nationwide operation.",
+        "entity_names": [
+            "U.S. Immigration and Customs Enforcement",
+            "Immigrant Legal Resource Center"
+        ],
+        "filename": "completion-50",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Immigrant Legal Resource Center"
+        ]
+    },
+    {
+        "sentence": "Sydney Opera House to undergo major renovations.",
+        "entity_names": [
+            "Sydney",
+            "Sydney Opera House"
+        ],
+        "filename": "completion-53",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Sydney"
+        ]
+    },
+    {
+        "sentence": "Apple announces plans to release new iPhone with 5G capabilities later this year.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-55",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Lakers defeat Warriors in overtime thriller.",
+        "entity_names": [
+            "Lakers",
+            "Warriors",
+            "Los Angeles"
+        ],
+        "filename": "completion-58",
+        "entity_types": [
+            "organization",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Los Angeles"
+        ]
+    },
+    {
+        "sentence": "Jerusalem mayor declares new city-wide environmental initiative.",
+        "entity_names": [
+            "Jerusalem",
+            "mayor of Jerusalem"
+        ],
+        "filename": "completion-65",
+        "entity_types": [
+            "location",
+            "person"
+        ],
+        "missing_entity_names": [
+            "mayor of Jerusalem"
+        ]
+    },
+    {
+        "sentence": "Top designers from around the world are set to showcase their latest collections at Cape Town Fashion Week.",
+        "entity_names": [
+            "Cape Town Fashion Week"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "organization, location"
+        ],
+        "entity_names_not_allowed": [
+            "Cape Town Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "organization, location"
+        ]
+    },
+    {
+        "sentence": "Renowned fashion blogger will be attending Cape Town Fashion Week for the first time.",
+        "entity_names": [
+            "Cape Town Fashion Week"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "organization, location"
+        ],
+        "entity_names_not_allowed": [
+            "Cape Town Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "organization, location"
+        ]
+    },
+    {
+        "sentence": "Local boutiques are gearing up for the influx of visitors during Cape Town Fashion Week.",
+        "entity_names": [
+            "Cape Town Fashion Week"
+        ],
+        "filename": "completion-66",
+        "entity_types": [
+            "organization, location"
+        ],
+        "entity_names_not_allowed": [
+            "Cape Town Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "organization, location"
+        ]
+    },
+    {
+        "sentence": "Iris Apfel set to be honored at the upcoming Met Gala.",
+        "entity_names": [
+            "Iris Apfel",
+            "Met Gala"
+        ],
+        "filename": "completion-69",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Met Gala"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Iris Apfel Foundation donation to support art education in underserved communities.",
+        "entity_names": [
+            "Iris Apfel",
+            "Iris Apfel Foundation"
+        ],
+        "filename": "completion-69",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Iris Apfel"
+        ]
+    },
+    {
+        "sentence": "Brazilian government announces new environmental protection measures.",
+        "entity_names": [
+            "Brazil"
+        ],
+        "filename": "completion-79",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Brazil"
+        ]
+    },
+    {
+        "sentence": "Local organization hosts annual charity event.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "New York City to invest $10 million in public transportation upgrades.",
+        "entity_names": [
+            "New York City",
+            "USA"
+        ],
+        "filename": "completion-89",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "USA"
+        ]
+    },
+    {
+        "sentence": "[Whole Foods Market, Inc.] announces plan to open 10 new stores across the country.",
+        "entity_names": [
+            "Whole Foods Market, Inc."
+        ],
+        "filename": "completion-90",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Whole Foods Market, Inc."
+        ]
+    },
+    {
+        "sentence": "Renowned chef Jamie Oliver partners with [Whole Foods Market, Inc.] to promote healthy eating and cooking.",
+        "entity_names": [
+            "Jamie Oliver",
+            "Whole Foods Market, Inc."
+        ],
+        "filename": "completion-90",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Whole Foods Market, Inc."
+        ]
+    },
+    {
+        "sentence": "Protesters gather outside [Whole Foods Market, Inc.] headquarters to demand better treatment of employees.",
+        "entity_names": [
+            "Whole Foods Market, Inc."
+        ],
+        "filename": "completion-90",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Whole Foods Market, Inc."
+        ]
+    },
+    {
+        "sentence": "The Atlanta Braves clinch the division title.",
+        "entity_names": [
+            "Atlanta Braves",
+            "Atlanta"
+        ],
+        "filename": "completion-92",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Atlanta"
+        ]
+    },
+    {
+        "sentence": "The It Gets Better Project releases new video featuring LGBTQ+ youth",
+        "entity_names": [
+            "It Gets Better Project",
+            "LGBTQ+ youth"
+        ],
+        "filename": "completion-99",
+        "entity_types": [
+            "organization",
+            "group"
+        ],
+        "entity_names_not_allowed": [
+            "LGBTQ+ youth"
+        ],
+        "entity_types_not_allowed": [
+            "group"
+        ]
+    },
+    {
+        "sentence": "Celebrities speak out in support of It Gets Better Project",
+        "entity_names": [
+            "It Gets Better Project",
+            "Celebrities"
+        ],
+        "filename": "completion-99",
+        "entity_types": [
+            "organization",
+            "group"
+        ],
+        "reordered_entity_names": [
+            "Celebrities",
+            "It Gets Better Project"
+        ],
+        "reordered_entity_types": [
+            "group",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "Celebrities"
+        ],
+        "entity_types_not_allowed": [
+            "group"
+        ]
+    },
+    {
+        "sentence": "[Person] appointed as the new manager of [Chelsea Football Club].",
+        "entities": [
+            "Chelsea Football Club (organization)",
+            "person"
+        ]
+    },
+    {
+        "sentence": "Biggest music festival in Austin City Limits Live at The Moody Theater history set to begin next week.",
+        "entity_names": [
+            "Austin City Limits Live at The Moody Theater",
+            "Austin"
+        ],
+        "filename": "completion-125",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Austin"
+        ]
+    },
+    {
+        "sentence": "Coventry City Council announces plans for new public transportation system.",
+        "entity_names": [
+            "Coventry",
+            "Coventry City Council"
+        ],
+        "filename": "completion-128",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Coventry"
+        ]
+    },
+    {
+        "sentence": "[The American Meteorological Society] issues a warning for severe storms in the Midwest.",
+        "entity_names": [
+            "The American Meteorological Society",
+            "[Midwest"
+        ],
+        "filename": "completion-130",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Midwest"
+        ]
+    },
+    {
+        "sentence": "Financial scandal rocks major German bank.",
+        "entity_names": [
+            "German bank",
+            "Germany"
+        ],
+        "filename": "completion-151",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "European Union fines [Uber Technologies Inc.] for breaching competition law.",
+        "entity_names": [
+            "European Union",
+            "Uber Technologies Inc."
+        ],
+        "filename": "completion-180",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Uber Technologies Inc."
+        ]
+    },
+    {
+        "sentence": "Ride-sharing giant [Uber Technologies Inc.] reports revenue exceeding $10 billion in the last quarter.",
+        "entity_names": [
+            "Uber Technologies Inc."
+        ],
+        "filename": "completion-180",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Uber Technologies Inc."
+        ]
+    },
+    {
+        "sentence": "A massive crowd gathers in Times Square to ring in the New Year.",
+        "entity_names": [
+            "Times Square",
+            "New York City"
+        ],
+        "filename": "completion-185",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "New York City"
+        ]
+    },
+    {
+        "sentence": "The famous Venice Biennale art exhibition attracts thousands of visitors from around the world.",
+        "entity_names": [
+            "Venice",
+            "Venice Biennale",
+            "world"
+        ],
+        "filename": "completion-185",
+        "entity_types": [
+            "location",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Venice"
+        ]
+    },
+    {
+        "sentence": "Great Barrier Reef Foundation receives $500,000 in new funding for conservation efforts.",
+        "entity_names": [
+            "Great Barrier Reef Foundation",
+            "Great Barrier Reef"
+        ],
+        "filename": "completion-206",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Great Barrier Reef"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils the latest iPhone model with advanced features.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-230",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Local organization holds fundraiser to support victims of natural disaster.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Sydney Opera House announces new concert series.",
+        "entity_names": [
+            "Sydney Opera House",
+            "Sydney"
+        ],
+        "filename": "completion-244",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Sydney"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces the launch of the new iPhone 13.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone 13"
+        ],
+        "filename": "completion-263",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Amtrak introduces new high-speed rail service between Niagara Falls and major cities in Canada and USA.",
+        "entity_names": [
+            "Amtrak",
+            "Niagara Falls",
+            "Canada/USA"
+        ],
+        "filename": "completion-282",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Canada/USA"
+        ]
+    },
+    {
+        "sentence": "Russian authorities investigate alleged corruption in Moscow.",
+        "entity_names": [
+            "Moscow",
+            "Russia"
+        ],
+        "filename": "completion-303",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "Local organization holds charity fundraiser for homeless in [London].",
+        "entities": [
+            "London (location)",
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone 13 launch date.",
+        "entity_names": [
+            "Apple",
+            "iPhone 13"
+        ],
+        "filename": "completion-397",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces the launch of the new iPhone 13.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone 13"
+        ],
+        "filename": "completion-441",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "President Biden delivers his first State of the Union address.",
+        "entity_names": [
+            "President Biden",
+            "State of the Union"
+        ],
+        "filename": "completion-441",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "State of the Union"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Tokyo Olympics closing ceremony celebrates the perseverance of athletes worldwide.",
+        "entity_names": [
+            "Tokyo",
+            "Olympics"
+        ],
+        "filename": "completion-441",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Olympics"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "RAF Lakenheath conducts joint military exercise with Afghan forces in Kabul.",
+        "entity_names": [
+            "RAF Lakenheath",
+            "Kabul",
+            "Afghanistan"
+        ],
+        "filename": "completion-492",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Afghanistan"
+        ]
+    },
+    {
+        "sentence": "Local organization hosts charity fundraiser for homeless veterans.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "New technology company to open headquarters in downtown area.",
+        "entities": [
+            "location, organization"
+        ]
+    },
+    {
+        "sentence": "The Chicago Bulls have signed a new head coach.",
+        "entity_names": [
+            "Chicago",
+            "Chicago Bulls"
+        ],
+        "filename": "completion-503",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Chicago"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils latest iPhone with enhanced camera features.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-504",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Shanghai reports surge in new COVID-19 cases.",
+        "entity_names": [
+            "Shanghai",
+            "China"
+        ],
+        "filename": "completion-529",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Environmental organization calls for protection of The Coral Triangle.",
+        "entities": [
+            "The Coral Triangle (location)",
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Actor Dwayne 'The Rock' Johnson to star in new action-packed film.",
+        "entity_names": [
+            "Dwayne \"The Rock\" Johnson"
+        ],
+        "filename": "completion-553",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Dwayne \"The Rock\" Johnson"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new line of iPhone models at annual product event.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-568",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "IMF raises global growth forecast for 2021.",
+        "entity_names": [
+            "International Monetary Fund"
+        ],
+        "filename": "completion-585",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "International Monetary Fund"
+        ]
+    },
+    {
+        "sentence": "Elon Musk announces new electric vehicle model for [Tesla, Inc.].",
+        "entity_names": [
+            "Elon Musk",
+            "Tesla, Inc."
+        ],
+        "filename": "completion-587",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Tesla, Inc."
+        ]
+    },
+    {
+        "sentence": "Stock prices surge as [Tesla, Inc.] unveils plans for new manufacturing plant.",
+        "entity_names": [
+            "Tesla, Inc."
+        ],
+        "filename": "completion-587",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Tesla, Inc."
+        ]
+    },
+    {
+        "sentence": "California governor visits [Tesla, Inc.] headquarters to discuss renewable energy initiatives.",
+        "entity_names": [
+            "California",
+            "Tesla, Inc."
+        ],
+        "filename": "completion-587",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Tesla, Inc."
+        ]
+    }
+]

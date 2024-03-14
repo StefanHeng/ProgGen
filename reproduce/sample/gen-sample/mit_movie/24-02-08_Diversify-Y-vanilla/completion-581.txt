@@ -1,0 +1,8 @@
+1. "Can you recommend any movies with compelling plot twists that came out in the last year?"
+Named Entities: [compelling plot twists (Plot), last year (Year)]
+
+2. "What is the viewers' rating for The Hunger Games film series directed by Sofia Coppola?"
+Named Entities: [The Hunger Games (Title), Sofia Coppola (Director), viewers' rating (Viewers' Rating)]
+
+3. "Is there a fairy tale movie that features the song Amazing Grace?"
+Named Entities: [fairy tale (Genre), Amazing Grace (Song)]

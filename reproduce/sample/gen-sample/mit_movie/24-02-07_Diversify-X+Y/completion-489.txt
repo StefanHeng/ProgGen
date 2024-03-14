@@ -1,0 +1,8 @@
+1. "I'm bored, can you tell me if the movie starring John Legend received any awards or nominations for its soundtrack?"
+Named Entities: [John Legend (Actor), awards or nominations (Review)]
+
+2. "I need something to watch from the 1980s, can you recommend a movie set in the Prohibition era that won multiple awards?"
+Named Entities: [1980s (Year), Prohibition era (Plot), multiple awards (Review)]
+
+3. "I'm looking for a supernatural movie that received critical acclaim and nominations, any suggestions?"
+Named Entities: [supernatural (Genre), nominations (Review)]

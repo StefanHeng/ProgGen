@@ -1,0 +1,8 @@
+1. "I'm craving some Pho, can you recommend a nearby restaurant that serves it?"
+   Named Entities: [Pho (Dish), nearby (Location)]
+
+2. "What's the best place in town for a fancy dinner?"
+   Named Entities: [best (Rating), fancy dinner (Amenity)]
+
+3. "I need a restaurant that offers vegan options and is open late tonight."
+   Named Entities: [vegan options (Cuisine), open late tonight (Hours)]

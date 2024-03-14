@@ -1,0 +1,8 @@
+1. "Yo, what kind of movie is The Matrix? Like, is it sci-fi or what?"
+   Named Entities: [The Matrix (Title), sci-fi (Genre)]
+
+2. "I'm lookin' for a movie that's like, action but also crime, you know what I mean?"
+   Named Entities: [action (Genre), crime (Genre)]
+
+3. "What's that movie with Will Ferrell that's both comedy and sports at the same time?"
+   Named Entities: [Will Ferrell (Actor), comedy (Genre), sports (Genre)]

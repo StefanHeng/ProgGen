@@ -1,0 +1,8 @@
+Sentence: "The Mississippi River is the second-longest river and chief river of the second-largest drainage system on the North American continent."
+Named Entities: [Mississippi River (location), North American continent (location)]
+
+Sentence: "The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers over an area of approximately 344,400 square kilometers."
+Named Entities: [Great Barrier Reef (location)]
+
+Sentence: "The Amazon River, usually abbreviated to Amazon, is a large river which flows through the countries of Peru, Bolivia, Venezuela, Colombia, Ecuador, and Brazil."
+Named Entities: [Amazon River (location), Peru (location), Bolivia (location), Venezuela (location), Colombia (location), Ecuador (location), Brazil (location)]

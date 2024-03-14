@@ -1,0 +1,8 @@
+1. Query: "can you recommend a [Children's] movie with a high Viewers' Rating?"
+Named Entities: [Children's (Genre), Viewers' Rating (Viewers' Rating)]
+
+2. Query: "who directed the [Children's] movie Frozen?"
+Named Entities: [Children's (Genre), Frozen (Title)]
+
+3. Query: "what is the MPAA Rating for the [Children's] movie Moana?"
+Named Entities: [Children's (Genre), Moana (Title), MPAA Rating (MPAA Rating)]

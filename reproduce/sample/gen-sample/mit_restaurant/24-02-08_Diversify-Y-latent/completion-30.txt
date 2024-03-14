@@ -1,0 +1,8 @@
+Query: "What are the top rated Italian restaurants in this area?"
+Named Entities: [top rated (Rating), Italian (Cuisine), area (Location)]
+
+Query: "Do you know any restaurants with outdoor seating and a kids menu?"
+Named Entities: [outdoor seating (Amenity), kids menu (Amenity), restaurants (Restaurant Name)]
+
+Query: "I'm craving some sushi, can you recommend a place with reasonable prices?"
+Named Entities: [sushi (Cuisine), reasonable prices (Price)]

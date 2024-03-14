@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a rooftop patio?"
+   Named Entities: [rooftop patio (Amenity)]
+
+2. "I'm in the mood for sushi. Is there a place nearby with good reviews?"
+   Named Entities: [sushi (Cuisine), nearby (Location), good reviews (Rating)]
+
+3. "What's the price range for Italian restaurants in the city center?"
+   Named Entities: [Italian (Cuisine), city center (Location), price range (Price)]

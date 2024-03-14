@@ -1,0 +1,8 @@
+1. Spoken Movie Query: "What's the viewers' rating for the survival movie set in the 1960s?"
+   Named Entities: [survival (Genre), 1960s (Year)]
+
+2. Spoken Movie Query: "Can you recommend a movie similar to Deadpool with a high viewers' rating?"
+   Named Entities: [Deadpool (Title), viewers' rating (Viewers' Rating)]
+
+3. Spoken Movie Query: "Show me some reviews for the recent survival movie set in the 1960s."
+   Named Entities: [survival (Genre), 1960s (Year), reviews (Review)]

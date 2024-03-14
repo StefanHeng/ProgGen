@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a buffet restaurant with a variety of seafood options"
+   Named Entities: [buffet (Amenity), seafood (Cuisine)]
+
+2. Query: "Where can I find a buffet with a great ambience for a girls' night out"
+   Named Entities: [buffet (Amenity), girls' night out (Amenity)]
+
+3. Query: "What's the best-rated buffet restaurant in the downtown area for a business lunch"
+   Named Entities: [buffet (Amenity), downtown area (Location), business lunch (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a soundtrack featuring the song 'I Will Always Love You'?"
+Named Entities: ['I Will Always Love You' (Song)]
+
+Query: "What's a movie from the 90s with a popular love song in its soundtrack?"
+Named Entities: [90s (Year), popular love song (Song)]
+
+Query: "I'm looking for a film with a soundtrack filled with classic rock hits, can you suggest one?"
+Named Entities: [classic rock hits (Genre) ]

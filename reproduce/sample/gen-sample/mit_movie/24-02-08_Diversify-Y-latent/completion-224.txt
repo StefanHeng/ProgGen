@@ -1,0 +1,8 @@
+1. "What movie features the song Can't Stop the Feeling!"
+   Named Entities: [Can't Stop the Feeling! (Song)]
+
+2. "Who directed the film with awe-inspiring visuals"
+   Named Entities: [awe-inspiring visuals (Plot)]
+
+3. "Are there any animal adventure movies rated TV-MA"
+   Named Entities: [animal adventure (Genre), TV-MA (MPAA Rating)]

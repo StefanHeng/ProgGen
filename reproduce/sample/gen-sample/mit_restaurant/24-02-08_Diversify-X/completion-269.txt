@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good outdoor seating and vegetarian options?"
+Named Entities: [good (Rating), outdoor seating (Amenity), vegetarian options (Cuisine)]
+
+2. "I'm looking for a place with a beautiful view and seafood dinner options."
+Named Entities: [beautiful view (Amenity), seafood (Cuisine), dinner (Meal Category)]
+
+3. "Do you know of any Italian restaurants with a 4-star rating and open past 10 pm?"
+Named Entities: [Italian (Cuisine), 4-star (Rating), past 10 pm (Hours)]

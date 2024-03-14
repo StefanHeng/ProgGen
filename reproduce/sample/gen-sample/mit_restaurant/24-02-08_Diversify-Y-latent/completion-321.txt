@@ -1,0 +1,8 @@
+Query: "Which restaurants in the vicinity offer tacos for a good price?"
+Named Entities: [Vicinity (Location), tacos (Dish), good price (Price)]
+
+Query: "I'm craving some curly fries, could you recommend a Jack in the Box location nearby?"
+Named Entities: [curly fries (Dish), Jack in the Box (Restaurant Name), nearby (Location)]
+
+Query: "What are the hours of the closest restaurant that serves breakfast all day?"
+Named Entities: [closest (Location), breakfast (Cuisine), all day (Hours)]

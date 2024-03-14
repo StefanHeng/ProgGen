@@ -1,0 +1,8 @@
+1. Text Span: "buffets"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "address"
+Label: (C). Wrong Type. The correct entity type is Location.
+
+3. Text Span: "delivery"
+Label: (A). The span is a named entity of type amenity

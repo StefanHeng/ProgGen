@@ -1,0 +1,8 @@
+1. The company was founded by Mark Zuckerberg and his college roommates.
+Named Entities: [Mark Zuckerberg (person)]
+
+2. The Battle of Gettysburg was fought in 1863 between Confederate General Robert E. Lee's Army of Northern Virginia and the Union Army of the Potomac, commanded by Major General George G. Meade.
+Named Entities: [Gettysburg (location), Robert E. Lee (person), Army of Northern Virginia (organization), Union Army of the Potomac (organization), George G. Meade (person)]
+
+3. The United Nations is an international organization founded in 1945 after the Second World War.
+Named Entities: [United Nations (organization), Second World War (event)]

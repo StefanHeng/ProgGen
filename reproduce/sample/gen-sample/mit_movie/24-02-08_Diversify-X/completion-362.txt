@@ -1,0 +1,8 @@
+Query: "Can you tell me about any awards or nominations that The Shawshank Redemption received?"
+Named Entities: [The Shawshank Redemption (Title), awards or nominations (Review)]
+
+Query: "I'm open to watching a movie directed by a female filmmaker that received critical acclaim. Do you have any recommendations?"
+Named Entities: [female filmmaker (Director), critical acclaim (Review)]
+
+Query: "What movie from the 1990s with a high viewers' rating has won multiple Oscars?"
+Named Entities: [1990s (Year), high viewers' rating (Viewers' Rating), multiple Oscars (Awards)]

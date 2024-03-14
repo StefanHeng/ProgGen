@@ -1,0 +1,8 @@
+Query: "I need a wheelchair-accessible entrance to a quiet and peaceful café with dairy-free options"
+Named Entities: [Wheelchair-accessible entrance (Amenity), quiet and peaceful (Amenity), dairy-free (Amenity), café (Cuisine)]
+
+Query: "Where can I find a dairy-free café with a quiet ambience and a wheelchair-accessible entrance?"
+Named Entities: [dairy-free (Amenity), quiet ambience (Amenity), wheelchair-accessible entrance (Amenity), café (Cuisine)]
+
+Query: "Do you know a café that is wheelchair-accessible and has a peaceful atmosphere, as well as dairy-free options?"
+Named Entities: [Wheelchair-accessible entrance (Amenity), peaceful atmosphere (Amenity), dairy-free (Amenity), café (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Could you provide the plot summary for the movie A Whole New World?"
+Named Entities: [A Whole New World (Title), Plot summary (Plot)]
+
+2. "I am interested in a formal synopsis of a promotional film released in 1969, can you provide that for me?"
+Named Entities: [promotional film (Plot), 1969 (Year)]
+
+3. "I would like to know more about the plot of the movie A Whole New World, can you provide a summary?"
+Named Entities: [A Whole New World (Title), plot summary (Plot)]

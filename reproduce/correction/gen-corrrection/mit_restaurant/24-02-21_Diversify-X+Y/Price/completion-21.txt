@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a {{high-end}} place for lunch that is budget-conscious and offers quiche"
+Text Span: "high-end"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+2. Query: "I'm looking for a waterfront restaurant with {{good deals}} for lunch."
+Text Span: "good deals"
+Label: (D). The span is not a named entity
+
+3. Query: "what's a good restaurant for late-night dining with a {{mid-range price}} for pho soup"
+Text Span: "mid-range price"
+Label: (A). The span is a named entity of type price

@@ -1,0 +1,8 @@
+1. Text Span: "classic 80s action vibe"
+Label: (B). Wrong Boundary. The correct span boundary is "80s action vibe".
+
+2. Text Span: "action thriller"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "streaming platforms"
+Label: (C). Wrong Type. The correct entity type is other.

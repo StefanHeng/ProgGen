@@ -1,0 +1,8 @@
+1. Text Span: "designers"
+Label: (D). The span is not a named entity
+
+2. Text Span: "Maria Montessori"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Athena"
+Label: (C). Wrong Type. The correct entity type is other.

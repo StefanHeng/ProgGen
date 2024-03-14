@@ -1,0 +1,149 @@
+1. Can you find me a movie with a character named Elsa?
+Named Entities: [Elsa (Character)]
+
+2. Show me a film directed by Christopher Nolan.
+Named Entities: [Christopher Nolan (Director)]
+
+3. What's the best movie with a viewers' rating of 9/10 or higher?
+Named Entities: [9/10 or higher (Viewers' Rating)]
+
+4. Tell me about a movie with a plot related to time travel.
+Named Entities: [time travel (Plot)]
+
+5. Are there any action movies released in the 1990s?
+Named Entities: [action (Genre), 1990s (Year)]
+
+6. Can you find the trailer for the latest Jurassic Park movie?
+Named Entities: [Jurassic Park (Title), latest (Year), Trailer (Trailer)]
+
+7. I want to watch a film with a great song like "My Heart Will Go On".
+Named Entities: ["My Heart Will Go On" (Song)]
+
+8. What's the highest rated Tarantino film according to reviewers?
+Named Entities: [Tarantino (Director), highest rated (Review)]
+
+9. Which movie did Tom Hanks star in with a PG-13 rating?
+Named Entities: [Tom Hanks (Actor), PG-13 (MPAA Rating)]
+
+10. Show me a comedy movie from the 1980s.
+Named Entities: [comedy (Genre), 1980s (Year)]
+
+11. Find me a film directed by Steven Spielberg.
+Named Entities: [Steven Spielberg (Director)]
+
+12. What's the top-rated thriller from the 2000s?
+Named Entities: [thriller (Genre), 2000s (Year), top-rated (Review)]
+
+13. Can I see a list of movies featuring Leonardo DiCaprio?
+Named Entities: [Leonardo DiCaprio (Actor)]
+
+14. Show me the trailer for the latest James Bond movie.
+Named Entities: [James Bond (Character), latest (Year), Trailer (Trailer)]
+
+15. What is the best Stephen King movie adaptation?
+Named Entities: [Stephen King (Director), best (Review)]
+
+16. I'm looking for a Bollywood movie to watch.
+Named Entities: [Bollywood (Genre)]
+
+17. Can you recommend a movie with a great soundtrack?
+Named Entities: [great soundtrack (Review)]
+
+18. What's the highest-grossing movie from the 2010s?
+Named Entities: [highest-grossing (Review), 2010s (Year)]
+
+19. Find me a horror movie from the 1970s.
+Named Entities: [horror (Genre), 1970s (Year)]
+
+20. I want a film with a character like Sherlock Holmes.
+Named Entities: [Sherlock Holmes (Character)]
+
+21. Show me a film directed by Alfred Hitchcock.
+Named Entities: [Alfred Hitchcock (Director)]
+
+22. What's the best movie with a viewers' rating of 8/10 or higher?
+Named Entities: [8/10 or higher (Viewers' Rating)]
+
+23. Tell me about a movie with a plot related to time loops.
+Named Entities: [time loops (Plot)]
+
+24. Are there any science fiction movies released in the 1980s?
+Named Entities: [science fiction (Genre), 1980s (Year)]
+
+25. Can you find the trailer for the latest Star Wars movie?
+Named Entities: [Star Wars (Title), latest (Year), Trailer (Trailer)]
+
+26. I want to watch a film with a great song like "I Will Always Love You".
+Named Entities: ["I Will Always Love You" (Song)]
+
+27. What's the highest rated war film according to reviewers?
+Named Entities: [war film (Genre), highest rated (Review)]
+
+28. Which movie did Meryl Streep star in with an R rating?
+Named Entities: [Meryl Streep (Actor), R (MPAA Rating)]
+
+29. Show me a romantic movie from the 1990s.
+Named Entities: [romantic (Genre), 1990s (Year)]
+
+30. Find me a film directed by Martin Scorsese.
+Named Entities: [Martin Scorsese (Director)]
+
+31. What's the top-rated animated film from the 2000s?
+Named Entities: [animated (Genre), 2000s (Year), top-rated (Review)]
+
+32. Can I see a list of movies featuring Johnny Depp?
+Named Entities: [Johnny Depp (Actor)]
+
+33. Show me the trailer for the latest Marvel movie.
+Named Entities: [Marvel (Title), latest (Year), Trailer (Trailer)]
+
+34. What is the best superhero movie?
+Named Entities: [superhero (Genre), best (Review)]
+
+35. I'm looking for a French movie to watch.
+Named Entities: [French (Genre)]
+
+36. Can you recommend a movie with breathtaking cinematography?
+Named Entities: [breathtaking cinematography (Review)]
+
+37. What's the highest-grossing comedy movie from the 2010s?
+Named Entities: [highest-grossing (Review), 2010s (Year)]
+
+38. Find me a slasher movie from the 1980s.
+Named Entities: [slasher (Genre), 1980s (Year)]
+
+39. I want a film with a character like Indiana Jones.
+Named Entities: [Indiana Jones (Character)]
+
+40. Show me a film directed by Quentin Tarantino.
+Named Entities: [Quentin Tarantino (Director)]
+
+41. What's the best movie with a viewers' rating of 7/10 or higher?
+Named Entities: [7/10 or higher (Viewers' Rating)]
+
+42. Tell me about a movie with a plot related to dystopian society.
+Named Entities: [dystopian society (Plot)]
+
+43. Are there any fantasy movies released in the 1990s?
+Named Entities: [fantasy (Genre), 1990s (Year)]
+
+44. Can you find the trailer for the latest Spider-Man movie?
+Named Entities: [Spider-Man (Title), latest (Year), Trailer (Trailer)]
+
+45. I want to watch a film with a great song like "Bohemian Rhapsody".
+Named Entities: ["Bohemian Rhapsody" (Song)]
+
+46. What's the highest rated drama film according to reviewers?
+Named Entities: [drama (Genre), highest rated (Review)]
+
+47. Which movie did Denzel Washington star in with a PG rating?
+Named Entities: [Denzel Washington (Actor), PG (MPAA Rating)]
+
+48. Show me a thriller movie from the 2000s.
+Named Entities: [thriller (Genre), 2000s (Year)]
+
+49. Find me a film directed by Spike Lee.
+Named Entities: [Spike Lee (Director)]
+
+50. What's the top-rated sci-fi film from the 2010s?
+Named Entities: [sci-fi (Genre), 2010s (Year), top-rated (Review)

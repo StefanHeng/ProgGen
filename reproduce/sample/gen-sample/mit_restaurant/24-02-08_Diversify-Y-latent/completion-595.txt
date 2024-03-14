@@ -1,0 +1,8 @@
+Query: "what are the hours for Bistro Queen Anne?"
+Named Entities: [Bistro Queen Anne (Restaurant Name), hours (Hours)]
+
+Query: "recommend a restaurant with outdoor seating and vegetarian options"
+Named Entities: [outdoor seating (Amenity), vegetarian (Cuisine)]
+
+Query: "show me top-rated sushi restaurants in the downtown area"
+Named Entities: [top-rated (Rating), sushi (Cuisine), downtown area (Location)]

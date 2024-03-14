@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for some sushi, can you recommend a top-ranked Japanese restaurant?"
+   Named Entities: [sushi (Dish), top-ranked (Rating), Japanese (Cuisine)]
+
+2. Query: "I need to find a buffet that serves Japanese food within walking distance"
+   Named Entities: [buffet (Amenity), Japanese (Cuisine), walking distance (Location)]
+
+3. Query: "What are the opening hours for the top-ranked Japanese restaurant in the area?"
+   Named Entities: [top-ranked (Rating), Japanese (Cuisine), opening hours (Hours)]

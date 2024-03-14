@@ -1,0 +1,8 @@
+1. Text Span: "the 90s"
+Label: (B). The correct span boundary is "90s".
+
+2. Text Span: "originally released"
+Label: (C). The span is not a named entity. Entity Type: other
+
+3. Text Span: "upcoming"
+Label: (C). The span is not a named entity. Entity Type: other

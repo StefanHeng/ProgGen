@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies directed by Robert Redford between 1980 and 2000?"
+Named Entities: [Robert Redford (Director), 1980-2000 (Year)]
+
+2. Query: "I'm in the mood for an action thriller, what movies would you suggest?"
+Named Entities: [action thriller (Genre)]
+
+3. Query: "Can you show me a clip from The Wizard of Oz?"
+Named Entities: [The Wizard of Oz (Title)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any movies about a struggling artist?"
+Named Entities: [struggling artist (Character)]
+
+2. "What genre does the movie La La Land fall into?"
+Named Entities: [La La Land (Title)]
+
+3. "I'm looking for a movie with a soundtrack known for its cinematic music, perhaps directed by Ryan Coogler."
+Named Entities: [cinematic music (Song), Ryan Coogler (Director)]

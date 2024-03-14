@@ -1,0 +1,8 @@
+1. "I'm craving some Peking duck tonight. Can you recommend a good restaurant?"
+   Named Entities: [Peking duck (Dish)]
+
+2. "I'm a commuter and need a quick bite to eat before my train. Any suggestions for Costa Rican cuisine nearby?"
+   Named Entities: [Commuter (Amenity), Costa Rican (Cuisine)]
+
+3. "What's the best seafood restaurant in the area that opens early in the morning?"
+   Named Entities: [seafood (Cuisine), early in the morning (Hours)]

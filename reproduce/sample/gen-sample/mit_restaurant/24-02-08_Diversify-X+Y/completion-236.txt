@@ -1,0 +1,8 @@
+Query: "What restaurant serves quiche for lunch at an expensive price range"
+Named Entities: [quiche (Dish), lunch (Amenity), expensive (Price)]
+
+Query: "I'm looking for an elegant spot for lunch with a good selection of quiche"
+Named Entities: [elegant (Amenity), lunch (Amenity), quiche (Dish)]
+
+Query: "Can you recommend a high-end place for lunch that is budget-conscious and offers quiche"
+Named Entities: [high-end (Price), lunch (Amenity), budget-conscious (Price), quiche (Dish)]

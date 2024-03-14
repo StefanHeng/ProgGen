@@ -1,0 +1,8 @@
+Query: "Can you recommend any movies about overcoming adversity?"
+Named Entities: [Overcoming adversity (Plot)]
+
+Query: "I want to watch a movie with Ryan Reynolds and Leonardo DiCaprio, any suggestions?"
+Named Entities: [Ryan Reynolds (Actor), Leonardo DiCaprio (Actor)]
+
+Query: "Do you have an extended preview of the film where Martin Riggs is a character?"
+Named Entities: [Extended preview (Trailer), Martin Riggs (Character)]

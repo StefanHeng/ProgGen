@@ -1,0 +1,8 @@
+1. Text Span: "viewers' rating of 9/10"
+   Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "high"
+   Label: (B). The span contains a named viewers' rating entity but the span boundary is not precise. The correct span boundary is "high IMDb rating".
+
+3. Text Span: "New York Film Critics Circle honoree"
+   Label: (C). The span is a named entity but the category is not viewers' rating. The correct entity type is "Award".

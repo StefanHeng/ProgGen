@@ -1,0 +1,8 @@
+1. "What are the hours of Ming's Chinese Bistro at City center?"
+Named Entities: [Ming's Chinese Bistro (Restaurant Name), City center (Location), hours (Hours)]
+
+2. "I'm craving some authentic Chinese cuisine, where can I find it around City center?"
+Named Entities: [Chinese cuisine (Cuisine), City center (Location)]
+
+3. "Can you recommend a restaurant with a high rating and reasonable prices in City center?"
+Named Entities: [high rating (Rating), reasonable prices (Price), City center (Location)]

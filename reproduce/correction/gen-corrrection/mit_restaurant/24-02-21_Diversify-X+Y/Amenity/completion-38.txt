@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a place with a {{cozy}} atmosphere and outdoor seating for brunch hours"
+Text Span: "cozy"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "Can you recommend a {{fine dining}} restaurant specializing in French cuisine with a price range of over $100 per person?"
+Text Span: "fine dining"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "Where can I get some mouth-watering {{takeout}} lobster rolls from a food truck here?"
+Text Span: "takeout"
+Label: (A). The span is a named entity of type amenity

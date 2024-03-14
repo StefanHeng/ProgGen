@@ -1,0 +1,8 @@
+1. Text Span: "quick lunch meeting"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "quick lunch".
+
+2. Text Span: "café"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Text Span: "lunch"
+Label: (C). Wrong Type. The correct entity type is Hours.

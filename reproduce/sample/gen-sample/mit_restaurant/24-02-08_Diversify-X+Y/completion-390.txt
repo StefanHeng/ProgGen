@@ -1,0 +1,8 @@
+Query: "recommend a luxurious restaurant with a high rating for dinner"
+Named Entities: [luxurious (Amenity), high rating (Rating), dinner (Hours)]
+
+Query: "I'm looking for a fancy place with upscale cuisine for dinner"
+Named Entities: [fancy (Amenity), upscale cuisine (Cuisine), dinner (Hours)]
+
+Query: "find me a posh restaurant with a great atmosphere for dinner"
+Named Entities: [posh (Amenity), great atmosphere (Amenity), dinner (Hours)]

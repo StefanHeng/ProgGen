@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie from 2012 directed by Julianne Moore"
+Named Entities: [2012 (Year), Julianne Moore (Director)]
+
+2. Query: "show me a classic movie from 1968 that won an Emmy Award"
+Named Entities: [1968 (Year), Emmy Award-winning (Viewers' Rating)]
+
+3. Query: "what is a thriller movie starring Julianne Moore and released in 2012"
+Named Entities: [thriller (Genre), Julianne Moore (Actor), 2012 (Year)]

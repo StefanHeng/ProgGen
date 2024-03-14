@@ -1,0 +1,8 @@
+Query: "I'm craving some eggs benedict, is there a brunch spot nearby with a good rating?"
+Named Entities: [eggs benedict (Dish), brunch (Amenity), nearby (Location), good rating (Rating)]
+
+Query: "I need a place for brunch that serves bottomless mimosas, where can I find one?"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "What's a nice restaurant in the area with a brunch menu that offers vegetarian options?"
+Named Entities: [brunch (Amenity), vegetarian options (Cuisine), area (Location), nice (Rating)]

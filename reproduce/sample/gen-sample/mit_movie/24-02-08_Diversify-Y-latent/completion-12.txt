@@ -1,0 +1,8 @@
+1. "Can you show me a clip of the new Jafar movie?"
+   Named Entities: [clip (Trailer), Jafar (Character)]
+
+2. "What PG-rated film preview features Samuel L. Jackson as the lead actor?"
+   Named Entities: [PG (MPAA Rating), film preview (Trailer), Samuel L. Jackson (Actor)]
+
+3. "Which movie did Samuel L. Jackson star in as the lead actor?"
+   Named Entities: [Samuel L. Jackson (Actor)]

@@ -1,0 +1,8 @@
+1. "What is the name of the movie directed by Mel Brooks that has an episodic plot and received a 1/10 rating?"
+Named Entities: [Mel Brooks (Director), episodic plot (Plot), 1/10 rating (Viewers' Rating)]
+
+2. "Can you recommend a movie with an undercover mission theme?"
+Named Entities: [undercover mission (Plot)]
+
+3. "What year did the movie with the title 'Blazing Saddles' come out, and what genre does it belong to?"
+Named Entities: [Blazing Saddles (Title), Year (Year), genre (Genre)]

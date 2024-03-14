@@ -1,0 +1,8 @@
+1. Text Span: "G"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Text Span: "M-rated"
+Label: (C). The span is a named entity but the category is not mpaa rating. The correct entity type is other.
+
+3. Text Span: "R-rated"
+Label: (B). The span contains a named mpaa rating entity but the span boundary is not precise. The correct span boundary is "R".

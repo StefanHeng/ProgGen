@@ -1,0 +1,8 @@
+1. "I'm craving some jumbo lump crab cakes, where can I find a place with that dish?"
+Named Entities: [jumbo lump crab cakes (Dish)]
+
+2. "Do you know of any restaurants in the area that serve delicious pasta dishes?"
+Named Entities: [pasta (Dish)]
+
+3. "I'm looking for a restaurant with affordable pasta options, can you recommend any?"
+Named Entities: [pasta (Dish), affordable (Price)]

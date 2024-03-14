@@ -1,0 +1,8 @@
+1. "I'm in the mood for some upscale dining tonight, where can I find a reservation at Blue Hill at Stone Barns?"
+Named Entities: [Blue Hill at Stone Barns (Restaurant Name), upscale dining (Amenity)]
+
+2. "Do you know any restaurants in the area that serve Grilled sea bass?"
+Named Entities: [Grilled sea bass (Dish), the area (Location)]
+
+3. "I want to indulge in some luxurious food, where can I find a restaurant that offers Caviar on their menu?"
+Named Entities: [luxurious food (Amenity), Caviar (Dish)]

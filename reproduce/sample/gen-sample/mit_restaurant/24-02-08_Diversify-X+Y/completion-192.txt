@@ -1,0 +1,8 @@
+Query: "where can I find a restaurant with expensive lunch options for chicken fajitas"
+Named Entities: [expensive (Price), lunch (Amenity), chicken fajitas (Dish)]
+
+Query: "recommend a lunch spot with pricey chicken fajitas nearby"
+Named Entities: [lunch (Amenity), pricey (Price), chicken fajitas (Dish), nearby (Location)]
+
+Query: "which restaurant serves expensive chicken fajitas for lunch"
+Named Entities: [expensive (Price), chicken fajitas (Dish), lunch (Amenity)]

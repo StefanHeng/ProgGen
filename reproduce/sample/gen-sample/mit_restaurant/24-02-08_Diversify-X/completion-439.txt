@@ -1,0 +1,8 @@
+Query: "can you recommend a place for late-night dining with casual ambience"
+Named Entities: [late-night dining (Amenity), casual (Amenity)]
+
+Query: "what restaurants are open late and have a casual atmosphere"
+Named Entities: [open late (Hours), casual (Amenity)]
+
+Query: "find me a casual dining spot that serves late-night meals"
+Named Entities: [casual (Amenity), late-night meals (Amenity)]

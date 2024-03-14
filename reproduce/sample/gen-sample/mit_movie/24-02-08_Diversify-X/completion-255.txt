@@ -1,0 +1,8 @@
+1. Query: "I need to watch a movie with Chris Hemsworth on Netflix right now."
+Named Entities: [Chris Hemsworth (Actor), Netflix (Streaming platform)]
+
+2. Query: "Is there any good action movie with a high IMDb rating that I can stream on Amazon Prime?"
+Named Entities: [action (Genre), IMDb rating (Viewers' Rating), Amazon Prime (Streaming platform)]
+
+3. Query: "I'm desperately in need of a comedy film to watch on Hulu. Can you recommend something with a high Rotten Tomatoes score?"
+Named Entities: [comedy (Genre), Rotten Tomatoes score (Review), Hulu (Streaming platform)]

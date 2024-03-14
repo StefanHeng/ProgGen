@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a great wine cellar and an urban/chic ambience?"
+Named Entities: [fine dining (Amenity), wine cellar (Amenity), urban/chic (Amenity)]
+
+2. "I'm looking for a restaurant with outstanding decor and handicap parking. Do you have any suggestions?"
+Named Entities: [outstanding (Rating), handicap parking (Amenity)]
+
+3. "Where can I find a fine dining place with a wine cellar and chic ambience for a special occasion?"
+Named Entities: [fine dining (Amenity), wine cellar (Amenity), chic (Amenity)]

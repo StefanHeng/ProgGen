@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a great selection of escargot?"
+Named Entities: [great selection (Amenity), escargot (Dish)]
+
+2. "How do I get to Dave & Buster's using public transit?"
+Named Entities: [Dave & Buster's (Restaurant Name), public transit (Amenity)]
+
+3. "What's a good place around here for a late-night snack?"
+Named Entities: [good (Rating), late-night (Hours)]

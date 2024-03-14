@@ -1,0 +1,8 @@
+1. Spoken Query: "I'm not sure where to watch the movie John Wick. Can you tell me which streaming platforms have it?"
+   Named Entities: [John Wick (Title)]
+
+2. Spoken Query: "I'm feeling indecisive about what to watch, maybe Harry Potter? Is it available to stream anywhere?"
+   Named Entities: [Harry Potter (Title)]
+
+3. Spoken Query: "I'm in the mood for a classic, maybe Cinderella. Can you let me know if it's on any streaming platforms?"
+   Named Entities: [Cinderella (Title)]

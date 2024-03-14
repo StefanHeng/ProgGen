@@ -1,0 +1,8 @@
+1. Text Span: "1983"
+Label: (A). The span is a named entity of type year
+
+2. Text Span: "latest"
+Label: (D). Not a Named Entity
+
+3. Text Span: "year"
+Label: (D). Not a Named Entity

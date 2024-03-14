@@ -1,0 +1,8 @@
+1. "Do you know any restaurants with a customer loyalty program around here?"
+Named Entities: [customer loyalty program (Amenity)]
+
+2. "I'd like to find a restaurant with a party room for an event next Saturday."
+Named Entities: [party room (Amenity), next Saturday (Hours)]
+
+3. "Where can I get a good caesar salad and mozzarella sticks for takeout?"
+Named Entities: [caesar salad (Dish), mozzarella sticks (Dish), takeout (Amenity)]

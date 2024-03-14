@@ -1,0 +1,8 @@
+1. "Can you recommend a good adrenaline-pumping movie?"
+Named Entities: [adrenaline-pumping (Genre)]
+
+2. "What indie films were released in 2020 directed by Benedict Cumberbatch?"
+Named Entities: [2020 (Year), Benedict Cumberbatch (Director), indie (Genre)]
+
+3. "I want to watch a movie with Benedict Cumberbatch as the main character, what do you recommend?"
+Named Entities: [Benedict Cumberbatch (Actor)]

@@ -1,0 +1,11 @@
+1. Query: "Is there a movie with an {{amazing soundtrack}} available on any streaming platform?"
+Text Span: "amazing soundtrack"
+Label: (A). Named Entity of type Review
+
+2. Query: "What are some iconic historical films directed by Steven Spielberg that I {{should watch}}?"
+Text Span: "should watch"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "Can you recommend a film with an {{iconic}} soundtrack from the 80s?"
+Text Span: "iconic"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

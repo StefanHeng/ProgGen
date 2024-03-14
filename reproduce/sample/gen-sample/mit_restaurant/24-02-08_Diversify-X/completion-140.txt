@@ -1,0 +1,8 @@
+Query: "I'm looking for a lounge with a good seafood menu for dinner"
+Named Entities: [seafood (Cuisine), dinner (Hours), lounge (Amenity)]
+
+Query: "can you suggest a bar with a cozy atmosphere and a good wine list for dinner?"
+Named Entities: [wine (Dish), cozy (Amenity), dinner (Hours), bar (Amenity)]
+
+Query: "where can I find a restaurant with a rooftop for dinner tonight"
+Named Entities: [rooftop (Amenity), dinner (Hours)]

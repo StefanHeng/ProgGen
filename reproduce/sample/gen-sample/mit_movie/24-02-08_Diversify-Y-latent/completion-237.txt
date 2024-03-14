@@ -1,0 +1,8 @@
+1. Query: "Can you suggest an unconventional movie to watch with my friends this weekend"
+   Named Entities: [Unconventional (Genre)]
+
+2. Query: "What is the viewers' rating for Sister Act"
+   Named Entities: [Sister Act (Title)]
+
+3. Query: "Show me a trailer for a movie directed by a female filmmaker that came out in the 90s"
+   Named Entities: [trailer (Trailer), female filmmaker (Director), 90s (Year)]

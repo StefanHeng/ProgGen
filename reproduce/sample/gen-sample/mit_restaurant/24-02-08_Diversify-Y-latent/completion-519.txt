@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with exceptional late-night dining experiences in the downtown area?"
+Named Entities: [exceptional late-night dining experiences (Amenity), downtown area (Location)]
+
+2. "I'm craving some authentic Italian cuisine, do you know of any nearby Italian restaurants with a high rating?"
+Named Entities: [authentic Italian cuisine (Cuisine), nearby (Location), high rating (Rating)]
+
+3. "What are the hours of operation for the sushi restaurant near the mall?"
+Named Entities: [sushi restaurant (Restaurant Name), near the mall (Location), hours of operation (Hours)]

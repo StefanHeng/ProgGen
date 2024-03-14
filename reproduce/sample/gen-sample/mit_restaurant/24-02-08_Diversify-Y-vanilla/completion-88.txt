@@ -1,0 +1,8 @@
+1. "Where can I find outstanding cocktails in the area?"
+Named Entities: [outstanding cocktails (Amenity), area (Location)]
+
+2. "I'm craving Italian food, can you recommend any Bertucci's nearby?"
+Named Entities: [Italian (Cuisine), Bertucci's (Restaurant Name), nearby (Location)]
+
+3. "What's the best place for brunch with a view in the city?"
+Named Entities: [best (Rating), brunch (Amenity), view (Amenity), city (Location)]

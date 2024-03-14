@@ -1,0 +1,8 @@
+1. Query: "What's a good sci-fi movie to watch?"
+Named Entities: [sci-fi (Genre)]
+
+2. Query: "Who starred in the top-rated action movie of the year?"
+Named Entities: [top-rated (Viewers' Rating), action (Genre), the year (Year)]
+
+3. Query: "Tell me about the new comedy with the catchy theme song."
+Named Entities: [comedy (Genre), catchy theme song (Song)]

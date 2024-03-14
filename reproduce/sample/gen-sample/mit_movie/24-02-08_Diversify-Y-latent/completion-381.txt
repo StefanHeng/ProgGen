@@ -1,0 +1,8 @@
+1. Query: "What genre is the movie The Revenant featuring Salma Hayek known for?"
+Named Entities: [The Revenant (Title), Salma Hayek (Actor)]
+
+2. Query: "Can you suggest a family inheritance themed movie released in the last year?"
+Named Entities: [family inheritance (Plot)]
+
+3. Query: "I'm interested in a movie with characters similar to Nebula from Guardians of the Galaxy, can you recommend one?"
+Named Entities: [Nebula (Character), Guardians of the Galaxy (Title)]

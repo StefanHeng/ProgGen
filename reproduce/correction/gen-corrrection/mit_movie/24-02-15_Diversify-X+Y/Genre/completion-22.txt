@@ -1,0 +1,8 @@
+1. Text Span: "historical assassination"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "War drama"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "instrumental music"
+Label: (B). Wrong Boundary. The correct span boundary is "instrumental".

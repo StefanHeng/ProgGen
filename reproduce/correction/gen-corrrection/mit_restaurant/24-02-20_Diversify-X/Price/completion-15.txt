@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a place for a romantic dinner with a tasting menu and a price range of {{$50-100}} per person?"
+Text Span: "$50-100"
+Label: (A). The span is a named entity of type price
+
+2. Query: "Do you know any late-night dining spots with {{affordable prices}}?"
+Text Span: "affordable prices"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+3. Query: "where can I have a luxurious meal {{without breaking the bank}}"
+Text Span: "without breaking the bank"
+Label: (C). Wrong Type. The correct entity type is Price.

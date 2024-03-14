@@ -1,0 +1,8 @@
+Query: "Do you know any hip and trendy restaurants open for late-night dining?"
+Named Entities: [late-night dining (Amenity), hip and trendy (Amenity)]
+
+Query: "I'm looking for a cool spot to eat after midnight. Any recommendations?"
+Named Entities: [after midnight (Hours)]
+
+Query: "Where can I find a trendy restaurant with late-night dining options?"
+Named Entities: [trendy (Amenity), late-night dining (Amenity)]

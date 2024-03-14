@@ -1,0 +1,8 @@
+1. Query: "Can you show me the teaser for the upcoming movie directed by George Lucas set in the Western frontier?"
+Named Entities: [teaser (Trailer), George Lucas (Director), Western frontier (Plot)]
+
+2. Query: "What movies in history have a PG-14 rating and fall into the thriller genre?"
+Named Entities: [PG-14 (MPAA Rating), History (Genre)]
+
+3. Query: "Which movie, from the 1990s, features a character who is a renowned composer?"
+Named Entities: [1990s (Year), renowned composer (Character)]

@@ -1,0 +1,8 @@
+1. "What are some affordable French fast food restaurants with indoor seating?"
+Named Entities: [affordable (Price), French (Cuisine), fast food (Amenity), indoor seating (Amenity)]
+
+2. "Can you recommend a place for quick French bites with indoor seating?"
+Named Entities: [quick (Amenity), French (Cuisine), indoor seating (Amenity)]
+
+3. "I'm craving some fast French food with indoor seating, where should I go?"
+Named Entities: [fast (Amenity), French (Cuisine), indoor seating (Amenity)]

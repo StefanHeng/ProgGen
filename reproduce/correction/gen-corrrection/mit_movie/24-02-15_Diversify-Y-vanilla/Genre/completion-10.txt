@@ -1,0 +1,8 @@
+1. Text Span: "uplifting"
+Label: (B). Wrong Boundary. The correct span boundary is "uplifting movie".
+
+2. Text Span: "silent"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "martial arts"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Text Span: "director"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "stunt coordinator"
+Label: (C). The span is a named entity but the category is not director. Entity Type: other
+
+3. Text Span: "new Christopher Nolan film"
+Label: (B). Wrong Boundary. The correct span boundary is "Christopher Nolan"

@@ -1,0 +1,8 @@
+1. Query: "Can you show me a trailer for the latest action movie directed by Michael Bay?"
+Named Entities: [trailer (Trailer), action movie (Genre), Michael Bay (Director)]
+
+2. Query: "What movie released in 1994 has the song 'I Will Always Love You' in it?"
+Named Entities: [1994 (Year), I Will Always Love You (Song)]
+
+3. Query: "Is there a movie with the character Jack Sparrow that has received a high viewers' rating?"
+Named Entities: [Jack Sparrow (Character), high viewers' rating (Viewers' Rating)]

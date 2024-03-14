@@ -1,0 +1,8 @@
+1. Text Span: "music"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "Survival story"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "Survival"
+
+3. Text Span: "Eye-opening"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "documentary"

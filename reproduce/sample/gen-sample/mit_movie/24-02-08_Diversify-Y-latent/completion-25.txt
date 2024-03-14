@@ -1,0 +1,8 @@
+1. "Can you recommend a riveting action movie from the 1990s?" 
+Named Entities: [riveting (Viewers' Rating), 1990s (Year), action (Genre)]
+
+2. "Is there a movie where Flynn Rider is the main character?"
+Named Entities: [Flynn Rider (Character)]
+
+3. "Show me a thriller directed by Alfred Hitchcock that received a five-star rating."
+Named Entities: [thriller (Genre), Alfred Hitchcock (Director), five-star (Viewers' Rating)]

@@ -1,0 +1,8 @@
+Query: "Where can I find a brunch place with a tasting menu in the late morning"
+Named Entities: [brunch (Meal Category), tasting menu (Amenity), Late morning (Hours)]
+
+Query: "Which restaurant has a tasting menu for brunch around late morning"
+Named Entities: [tasting menu (Amenity), brunch (Meal Category), Late morning (Hours)]
+
+Query: "Can you recommend a place with a tasting menu for brunch around late morning"
+Named Entities: [tasting menu (Amenity), brunch (Meal Category), Late morning (Hours)]

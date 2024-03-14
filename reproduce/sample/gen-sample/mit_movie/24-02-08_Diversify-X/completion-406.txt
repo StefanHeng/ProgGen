@@ -1,0 +1,8 @@
+1. "Can you actually show me a trailer for the new James Bond movie?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. "Are there any teasers for the upcoming horror film directed by Jordan Peele?"
+Named Entities: [teasers (Trailer), horror (Genre), Jordan Peele (Director)]
+
+3. "I'm not sure if it's real, but can you play a snippet of the trailer for the next Marvel superhero movie?"
+Named Entities: [snippet (Trailer), Marvel (Genre), superhero (Genre)]

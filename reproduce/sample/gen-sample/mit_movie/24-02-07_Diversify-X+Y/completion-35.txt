@@ -1,0 +1,8 @@
+1. "Could you provide me with the behind-the-scenes details for the film directed by Matt Damon and rated TV-MA?"
+Named Entities: [Matt Damon (Director), TV-MA (MPAA Rating)]
+
+2. "I am interested in learning about the making-of aspects of the movie starring Samuel L. Jackson and receiving a high rating of 4.5 stars out of 5."
+Named Entities: [Samuel L. Jackson (Actor), 4.5 stars out of 5 (Viewers' Rating)]
+
+3. "Can you recommend a movie with behind-the-scenes insights that involve Samuel L. Jackson and a TV-MA rating?"
+Named Entities: [Samuel L. Jackson (Actor), TV-MA (MPAA Rating)]

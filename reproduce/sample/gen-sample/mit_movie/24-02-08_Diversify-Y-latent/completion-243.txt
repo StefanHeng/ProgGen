@@ -1,0 +1,8 @@
+1. "Can you tell me about any movies directed by Seth MacFarlane?"
+Named Entities: [Seth MacFarlane (Director)]
+
+2. "I want to watch a classic film from the 1945-1950 era, perhaps involving Charlie Bucket."
+Named Entities: [1945-1950 (Year), Charlie Bucket (Character)]
+
+3. "I'm looking for a movie with rave reviews similar to The Truman Show."
+Named Entities: [The Truman Show (Title), rave reviews (Review)]

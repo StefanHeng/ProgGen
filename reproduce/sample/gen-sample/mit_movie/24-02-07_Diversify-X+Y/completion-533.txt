@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an outstanding original score that was composed by Hans Zimmer?"
+Named Entities: [outstanding original score (Review), Hans Zimmer (Composer)]
+
+2. "Show me a movie from the 1990s with a memorable original score that won an Oscar."
+Named Entities: [1990s (Year), original score (Soundtrack), Oscar (Award)]
+
+3. "I'm looking for a film with an emotional original score that perfectly complements the storyline."
+Named Entities: [emotional original score (Review)]

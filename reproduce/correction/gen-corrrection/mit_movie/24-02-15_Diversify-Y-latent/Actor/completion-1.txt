@@ -1,0 +1,8 @@
+1. Text Span: "Tom Hanks"
+   Label: (A). The span is a named entity of type actor
+
+2. Text Span: "George Miller"
+   Label: (C). The span is a named entity but the category is not actor. (Director)
+
+3. Text Span: "Will Smith"
+   Label: (A). The span is a named entity of type actor

@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in the area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), area (Location)]
+
+Query: "Which restaurants offer breakfast before 10 a m?"
+Named Entities: [breakfast (Cuisine), before 10 a m (Morning hours)]
+
+Query: "Can you recommend a budget-friendly Thai eatery nearby?"
+Named Entities: [budget-friendly (Price), Thai (Cuisine), nearby (Location)]

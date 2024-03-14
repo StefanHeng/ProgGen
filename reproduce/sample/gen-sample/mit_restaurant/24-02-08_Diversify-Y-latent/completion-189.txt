@@ -1,0 +1,8 @@
+1. "What are the hours for the [Greek] restaurant on Main Street?"
+Named Entities: [Greek (Cuisine), Main Street (Location), hours (Hours)]
+
+2. "I'm craving some [Greek] food, can you recommend a highly rated place?"
+Named Entities: [Greek (Cuisine), highly rated (Rating)]
+
+3. "Where can I find a [Greek] restaurant with outdoor seating?"
+Named Entities: [Greek (Cuisine), outdoor seating (Amenity)]

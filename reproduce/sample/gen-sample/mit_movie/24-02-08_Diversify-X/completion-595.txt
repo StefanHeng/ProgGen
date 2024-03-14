@@ -1,0 +1,8 @@
+1. "I need to know who directed the movie Interstellar, and also who are the main actors and the genre of the film. I am in a rush!"
+Named Entities: [Interstellar (Title), Director (Director), main actors (Actor), genre (Genre)]
+
+2. "What is the viewers' rating for the movie Inception? I also want to know the name of the song played in the movie. Hurry up, please!"
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating), song (Song)]
+
+3. "I'm running late for a movie trivia contest! Can you tell me the release year and the plot of the film Titanic? And who was the main actor? I need this information now!"
+Named Entities: [Titanic (Title), release year (Year), plot (Plot), main actor (Actor)]

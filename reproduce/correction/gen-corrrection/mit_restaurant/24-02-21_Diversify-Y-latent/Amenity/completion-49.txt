@@ -1,0 +1,11 @@
+1. Query: "What is the closest restaurant with a {{diverse}} menu and reasonable prices?"
+Text Span: "diverse"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "I'm looking for a high-end Japanese restaurant with a {{decadent}} menu"
+Text Span: "decadent"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "recommend a budget-friendly {{steakhouse}} with a good wine selection"
+Text Span: "steakhouse"
+Label: (A). The span is a named entity of type amenity

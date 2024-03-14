@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a high-end restaurant with a buffet for a 35-year-old male teacher?"
+   Named Entities: [high-end (Price), buffet (Amenity)]
+
+2. Query: "I'm looking for a lavish place with a buffet for a teacher in his mid-30s"
+   Named Entities: [lavish (Price), buffet (Amenity)]
+
+3. Query: "Where can I find an upscale restaurant with a buffet for a 35-year-old male?"
+   Named Entities: [upscale (Price), buffet (Amenity)]

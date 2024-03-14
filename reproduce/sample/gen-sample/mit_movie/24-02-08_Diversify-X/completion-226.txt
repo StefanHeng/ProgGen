@@ -1,0 +1,8 @@
+Query: "Can I find any showtimes for a movie with a superhero character?"
+Named Entities: [superhero character (Genre)]
+
+Query: "Is there a movie playing with a song by Michael Jackson?"
+Named Entities: [Michael Jackson (Song)]
+
+Query: "Are there any highly-rated movies from the 1980s?"
+Named Entities: [1980s (Year), highly-rated (Viewers' Rating)]

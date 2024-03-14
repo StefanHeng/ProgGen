@@ -1,0 +1,8 @@
+Sentence: "Local non-profit organization provides free meals to homeless veterans."
+Named Entities: [non-profit organization (organization)]
+
+Sentence: "Young cancer survivor fulfills dream of becoming a professional dancer."
+Named Entities: [cancer survivor (person)]
+
+Sentence: "Community comes together to support family who lost their home in a fire."
+Named Entities: [community (organization), family (organization)]

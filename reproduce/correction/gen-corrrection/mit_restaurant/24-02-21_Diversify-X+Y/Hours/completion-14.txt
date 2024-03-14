@@ -1,0 +1,8 @@
+1. Text Span: "late"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "open for dinner tonight"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "dinner tonight"
+Label: (A). Correct Entity Annotation.

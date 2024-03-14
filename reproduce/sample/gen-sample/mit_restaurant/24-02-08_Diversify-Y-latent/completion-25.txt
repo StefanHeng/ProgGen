@@ -1,0 +1,8 @@
+Query: "Can you recommend any Italian restaurants with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "What are the hours of operation for The Cheesecake Factory?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), hours of operation (Hours)]
+
+Query: "I'm looking for a seafood restaurant with a high rating"
+Named Entities: [seafood (Cuisine), high rating (Rating)]

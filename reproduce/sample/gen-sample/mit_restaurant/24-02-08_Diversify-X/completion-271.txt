@@ -1,0 +1,8 @@
+1. "I'm craving some tacos, can you recommend a good food truck nearby?"
+Named Entities: [tacos (Dish), food truck (Amenity), nearby (Location)]
+
+2. "I want to grab a quick bite from a food truck, where can I find one with affordable options?"
+Named Entities: [food truck (Amenity), affordable options (Price)]
+
+3. "I'm in the mood for some street food, can you suggest a food truck with a variety of options?"
+Named Entities: [street food (Cuisine), food truck (Amenity), variety of options (Amenity)]

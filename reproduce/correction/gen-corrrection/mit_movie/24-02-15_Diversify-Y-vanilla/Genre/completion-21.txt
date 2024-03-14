@@ -1,0 +1,8 @@
+1. Text Span: "love and war"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "thriller"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "genre"
+Label: (D). The span is not a named entity.

@@ -1,0 +1,6 @@
+1. Query: "Can you tell me what the latest Liam Neeson movie is about?"
+Named Entities: [Liam Neeson (Actor)]
+2. Query: "Hey, what's the deal with that new horror flick with the haunted house?"
+Named Entities: [horror (Genre), haunted house (Plot)]
+3. Query: "What's the story behind that Tom Hanks movie where he gets stranded on a desert island?"
+Named Entities: [Tom Hanks (Actor), desert island (Plot)]

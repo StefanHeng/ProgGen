@@ -1,0 +1,8 @@
+1. Query: "What are some good world-building movies from the 2010s"
+   Named Entities: [world-building (Plot), 2010s (Year)]
+
+2. Query: "Is the movie Whiplash worth watching for music lovers"
+   Named Entities: [Whiplash (Title), music lovers (Viewers' Rating)]
+
+3. Query: "Who directed the film with Terrence Malick and a family-friendly M/PG rating"
+   Named Entities: [Terrence Malick (Director), M/PG (MPAA Rating)]

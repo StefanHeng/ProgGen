@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants with a good selection of vegetarian dishes"
+Named Entities: [good (Rating), vegetarian dishes (Cuisine)]
+
+Query: "I'm craving some seafood, can you suggest a place with a high rating"
+Named Entities: [seafood (Cuisine), high rating (Rating)]
+
+Query: "What are the operating hours for O'Charley's on Friday"
+Named Entities: [O'Charley's (Restaurant Name), Friday (Hours)]

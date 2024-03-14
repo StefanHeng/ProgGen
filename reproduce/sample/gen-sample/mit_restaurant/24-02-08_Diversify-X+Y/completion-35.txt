@@ -1,0 +1,8 @@
+Query: "what restaurants are open for late-night dining in the downtown area"
+Named Entities: [late-night dining (Amenity), downtown area (Location)]
+
+Query: "i'm craving some sushi, where can i find late-night dining options"
+Named Entities: [sushi (Cuisine), late-night dining (Amenity)]
+
+Query: "can you recommend a place for late-night dining with affordable prices"
+Named Entities: [late-night dining (Amenity), affordable prices (Price)]

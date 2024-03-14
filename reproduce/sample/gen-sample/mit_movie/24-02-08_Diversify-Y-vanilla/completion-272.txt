@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies directed by Ava DuVernay that are rated TV-14?"
+   Named Entities: [Ava DuVernay (Director), TV-14 (MPAA Rating)]
+
+2. Query: "I'm looking for a movie with the song Hound Dog, can you help me find one?"
+   Named Entities: [Hound Dog (Song)]
+
+3. Query: "What year did the movie Selma, directed by Ava DuVernay, come out?"
+   Named Entities: [Selma (Title), Ava DuVernay (Director)]

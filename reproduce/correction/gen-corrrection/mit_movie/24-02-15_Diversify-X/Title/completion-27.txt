@@ -1,0 +1,11 @@
+1. Query: "Can I trust the ratings for the {{new horror film}}?"
+Text Span: "new horror film"
+Label: (C). The span is a named entity but the category is not title. Entity Type: Genre
+
+2. Query: "Which actor played the lead role in the film {{The Godfather}}?"
+Text Span: "The Godfather"
+Label: (A). The span is a named entity of type title
+
+3. Query: "What nominations did the movie {{The Shape of Water}} receive?"
+Text Span: "The Shape of Water"
+Label: (A). The span is a named entity of type title

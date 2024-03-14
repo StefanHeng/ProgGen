@@ -1,0 +1,8 @@
+1. Text Span: "open late"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "operating hours"
+Label: (D). Not a Named Entity.
+
+3. Text Span: "lunch"
+Label: (A). Correct Entity Annotation.

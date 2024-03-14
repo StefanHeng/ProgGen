@@ -1,0 +1,8 @@
+Query: "can you recommend a buffet restaurant with a drive-thru nearby"
+Named Entities: [buffet (Amenity), drive-thru (Amenity), nearby (Location)]
+
+Query: "I'm craving a drive-thru buffet, where can I find one"
+Named Entities: [drive-thru (Amenity), buffet (Amenity), craving (Amenity)]
+
+Query: "I need to grab some food quickly, is there a buffet with a drive-thru open now"
+Named Entities: [buffet (Amenity), drive-thru (Amenity), open now (Hours)]

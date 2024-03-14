@@ -1,0 +1,8 @@
+Query: "Can you tell me if the movie "The Pursuit of Happyness" starring Will Smith has received any awards or nominations?"
+Named Entities: ["The Pursuit of Happyness" (Title), Will Smith (Actor), awards or nominations (Review)]
+
+Query: "I'm looking for a satire movie suitable for seniors, perhaps a PG-13 rated film. Do you have any suggestions?"
+Named Entities: [satire (Genre), seniors (Viewers' Rating), PG-13 (MPAA Rating)]
+
+Query: "I'm interested in watching a movie set in the Prohibition era. Can you recommend a film with a similar setting, perhaps featuring a character like Jason Bourne?" 
+Named Entities: [Prohibition era (Plot), Jason Bourne (Character)]

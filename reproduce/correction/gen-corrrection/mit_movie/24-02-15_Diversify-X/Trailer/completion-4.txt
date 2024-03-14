@@ -1,0 +1,11 @@
+1. Query: "Can you show me the {{trailer}} for the new James Bond movie?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Can you recommend a movie with a really {{intense}} trailer?"
+Text Span: "intense"
+Label: (D). The span is not a named entity
+
+3. Query: "I'm not sure if the {{trailer}} for the new James Bond film truly represents the storyline. Can you provide a summary of the plot?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

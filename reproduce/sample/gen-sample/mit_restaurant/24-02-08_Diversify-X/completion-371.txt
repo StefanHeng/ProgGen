@@ -1,0 +1,8 @@
+Query: "Can you suggest a restaurant nearby with a good brunch menu?"
+Named Entities: [brunch (Amenity), nearby (Location)]
+
+Query: "What's the best place for brunch in the city with a reasonable price range?"
+Named Entities: [brunch (Amenity), best (Rating), reasonable price range (Price), city (Location)]
+
+Query: "I'm looking for a restaurant that serves Mexican cuisine for brunch, can you help me find one?"
+Named Entities: [Mexican (Cuisine), brunch (Amenity)]

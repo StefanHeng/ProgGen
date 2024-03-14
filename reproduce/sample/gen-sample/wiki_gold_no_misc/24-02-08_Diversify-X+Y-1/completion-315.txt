@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+Sentence: "The airline operates over 5,000 flights a day and serves 325 destinations in 52 countries."
+Named Entities: [airline (organization)]
+
+Sentence: "She traveled to Machu Picchu, a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru."
+Named Entities: [Machu Picchu (location), Inca (organization), Peru(location)]

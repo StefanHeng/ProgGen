@@ -1,0 +1,8 @@
+1. "I'm craving some pad thai, what's the best Thai restaurant nearby?"
+Named Entities: [pad thai (Dish), best (Rating), Thai (Cuisine), nearby (Location)]
+
+2. "I want to try a highly rated restaurant, can you suggest a highly rated one in Quintonil?"
+Named Entities: [highly rated (Rating), Quintonil (Location), highly rated (Rating), Restaurant Name]
+
+3. "What are the hours of the nearest Thai restaurant?"
+Named Entities: [nearest (Location), Thai (Cuisine), Hours]

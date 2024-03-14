@@ -1,0 +1,8 @@
+1. "Can you provide me with a brief plot synopsis of the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), plot synopsis (Plot)]
+   
+2. "What is the storyline of the film Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director), storyline (Plot)]
+
+3. "Tell me about the plot of the sci-fi movie Blade Runner 2049 released in 2017."
+Named Entities: [Blade Runner 2049 (Title), 2017 (Year), plot (Plot), sci-fi (Genre)]

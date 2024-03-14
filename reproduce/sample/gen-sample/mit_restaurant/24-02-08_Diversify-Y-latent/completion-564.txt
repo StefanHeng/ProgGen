@@ -1,0 +1,8 @@
+1. "Where is the nearest steakhouse around here for midday lunch?"
+Named Entities: [nearest (Location), steakhouse (Cuisine), midday (Hours), around here (Location)]
+
+2. "Do you know of any restaurants that serve veggie burgers for under $15?"
+Named Entities: [restaurants (Amenity), veggie burgers (Dish), under $15 (Price)]
+
+3. "What's the rating for the Italian restaurant with outdoor seating?"
+Named Entities: [Italian restaurant (Cuisine), outdoor seating (Amenity)]

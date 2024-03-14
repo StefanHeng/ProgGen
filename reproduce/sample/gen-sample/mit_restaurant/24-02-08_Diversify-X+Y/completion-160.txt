@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with unbeatable brunch options and outdoor seating?"
+Named Entities: [brunch (Cuisine), unbeatable (Rating), outdoor seating (Amenity)]
+
+Query: "I'm looking for a place with unbeatable outdoor seating for brunch, where can I go?"
+Named Entities: [unbeatable (Rating), outdoor seating (Amenity), brunch (Cuisine)]
+
+Query: "I want to find a restaurant with an unbeatable brunch menu and outdoor seating, any suggestions?"
+Named Entities: [unbeatable (Rating), brunch (Cuisine), outdoor seating (Amenity)]

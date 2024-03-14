@@ -1,0 +1,8 @@
+1. "I need a reservation for 2 at a top-rated Italian restaurant for tonight"
+Named Entities: [reservation for 2 (Amenity), top-rated (Rating), Italian (Cuisine)
+
+2. "Hey, can you recommend a place for a special occasion dinner with a view of the water?"
+Named Entities: [special occasion (Amenity), dinner with a view of the water (Amenity)]
+
+3. "Where is the closest place I can grab some pho soup for lunch?"
+Named Entities: [closest (Location), pho soup (Dish)]

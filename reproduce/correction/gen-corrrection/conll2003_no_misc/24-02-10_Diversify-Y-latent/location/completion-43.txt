@@ -1,0 +1,11 @@
+1. Sentence: "Concerns about water contamination in {{Flint, Michigan}} continue to grow."
+Text Span: "Flint, Michigan"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The United Nations releases new report on {{global climate change}}."
+Text Span: "global climate change"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+3. Sentence: "Simone Biles wins gold in gymnastics at {{Tokyo Olympics}}."
+Text Span: "Tokyo Olympics"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Tokyo"

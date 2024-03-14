@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a zombie movie directed by Sam Mendes?"
+Named Entities: [Zombie (Genre), Sam Mendes (Director)]
+
+2. Query: "What is the viewers' rating for the Sam Mendes movie about war?"
+Named Entities: [Sam Mendes (Director), war (Plot), viewers' rating (Review)]
+
+3. Query: "Show me a trailer for a zombie movie from the 1980s with a killer soundtrack"
+Named Entities: [zombie (Genre), 1980s (Year), killer soundtrack (Song)]

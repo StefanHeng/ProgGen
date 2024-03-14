@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer release for the new Leonardo DiCaprio movie?"
+Named Entities: [Trailer release (Trailer), Leonardo DiCaprio (Actor)]
+
+2. Query: "What is the best mystery movie from 1677?"
+Named Entities: [1677 (Year), Mystery (Genre)]
+
+3. Query: "Tell me about the Adam Sandler film that is a romantic comedy."
+Named Entities: [Adam Sandler (Actor), romantic comedy (Genre)]

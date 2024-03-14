@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the movie Purple Haze directed by Edward Barber and rated R?"
+   Named Entities: [Purple Haze (Title), Edward Barber (Director), R (MPAA Rating)]
+
+2. Query: "Are there any featurette videos available for the movie Heist released in 2015?"
+   Named Entities: [Heist (Title), 2015 (Year), featurette (Trailer)]
+
+3. Query: "Can you recommend a heist movie with a high viewers' rating?"
+   Named Entities: [heist (Genre), high viewers' rating (Viewers' Rating)]

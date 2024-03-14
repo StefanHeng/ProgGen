@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the new Jurassic Park movie?"
+   Named Entities: [trailer (Trailer), Jurassic Park (Title)]
+
+2. "What sci-fi thriller film has the highest viewers' rating?"
+   Named Entities: [highest viewers' rating (Review), sci-fi thriller (Genre)]
+
+3. "Who directed the original Jurassic Park and what year was it released?"
+   Named Entities: [directed (Director), original Jurassic Park (Title), released (Year)]

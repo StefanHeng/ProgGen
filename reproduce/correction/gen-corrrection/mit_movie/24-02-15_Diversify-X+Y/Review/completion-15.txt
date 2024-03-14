@@ -1,0 +1,8 @@
+1. Text Span: "emotional"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "masterpiece"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "terrifying"
+Label: (A). Correct Entity Annotation.

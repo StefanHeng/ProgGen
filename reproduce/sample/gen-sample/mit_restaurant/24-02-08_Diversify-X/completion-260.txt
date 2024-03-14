@@ -1,0 +1,8 @@
+1. "Which food truck in the vicinity serves the best tacos?"
+   Named Entities: [food truck (Amenity), best (Rating), tacos (Dish)]
+
+2. "I'm craving some street food. Can you recommend a food truck with a diverse menu?"
+   Named Entities: [street food (Cuisine), diverse menu (Amenity), food truck (Amenity)]
+
+3. "Where can I find a food truck that offers vegetarian options for lunch?"
+   Named Entities: [vegetarian options (Cuisine), lunch (Amenity), food truck (Amenity)]

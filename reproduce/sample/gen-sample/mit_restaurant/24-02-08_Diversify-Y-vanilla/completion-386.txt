@@ -1,0 +1,8 @@
+Query: "Can you recommend a nearby place with outdoor seating for [Ristorante Roma]"
+Named Entities: [outdoor seating (Amenity), [Ristorante Roma] (Restaurant Name)]
+
+Query: "What time does [Ristorante Roma] close on Sundays?"
+Named Entities: [[Ristorante Roma] (Restaurant Name), Sundays (Hours)]
+
+Query: "I'm craving Italian food, where can I find a good pasta dish near [Ristorante Roma]?"
+Named Entities: [Italian food (Cuisine), pasta dish (Dish), [Ristorante Roma] (Restaurant Name)]

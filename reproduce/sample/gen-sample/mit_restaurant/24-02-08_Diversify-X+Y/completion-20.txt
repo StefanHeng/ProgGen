@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants with luxurious breakfast choices?"
+Named Entities: [luxurious breakfast choices (Amenity)]
+
+Query: "I'm in the mood for Flapjack Frenzy, where can I find it?"
+Named Entities: [flapjack frenzy (Amenity)]
+
+Query: "Which restaurants in the area offer a breakfast menu with luxurious options?"
+Named Entities: [luxurious breakfast choices (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a heart-wrenching movie with a high viewers' rating?"
+   Named Entities: [heart-wrenching (Genre), high viewers' rating (Viewers' Rating)]
+
+2. "I need a movie that will make me cry. Who directed it?"
+   Named Entities: [make me cry (Review), directed (Director)]
+
+3. "What's a movie with a tragic plot that received rave reviews?"
+   Named Entities: [tragic plot (Plot), rave reviews (Review)]

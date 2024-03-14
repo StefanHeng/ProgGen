@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some unique dishes from a food truck, any recommendations?"
+Named Entities: [food truck (Amenity), unique dishes (Dish)]
+
+Query: "Can you suggest a food truck with chef's specials around here?"
+Named Entities: [food truck (Amenity), chef's specials (Amenity)]
+
+Query: "Where's the best food truck with mid-range prices and a variety of options for lunch?"
+Named Entities: [food truck (Amenity), mid-range (Price), variety of options (Amenity) ]

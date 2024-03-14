@@ -1,0 +1,8 @@
+1. "I want to make a reservation at Atelier Crenn for tonight"
+   Named Entities: [Atelier Crenn (Restaurant Name), tonight (Hours)]
+
+2. "I'm in the mood for fine dining, is The French Laundry nearby?"
+   Named Entities: [fine dining (Amenity), The French Laundry (Restaurant Name), nearby (Location)]
+
+3. "Can you recommend a restaurant with a diverse menu and reasonable prices?"
+   Named Entities: [diverse menu (Amenity), reasonable prices (Price)]

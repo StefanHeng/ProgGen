@@ -1,0 +1,8 @@
+1. Query: "Hey, are there any showtimes for The Great Gatsby tonight?"
+Named Entities: [The Great Gatsby (Title)]
+
+2. Query: "I heard there's a commercial for the 2008 cult classic film clip, do you have any details or showtimes?"
+Named Entities: [2008 (Year), commercial (Plot), film clip (Trailer)]
+
+3. Query: "Do you have any unrated movies playing? I'm in the mood for something different."
+Named Entities: [Unrated (MPAA Rating)]

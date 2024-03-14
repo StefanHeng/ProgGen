@@ -1,0 +1,8 @@
+1. "Is there a five-star rating for The Exorcist?"
+Named Entities: [five-star (Viewers' Rating), The Exorcist (Title)]
+
+2. "What is the scariest Slasher movie directed by Christopher Nolan?"
+Named Entities: [scariest (Review), Slasher (Genre), Christopher Nolan (Director)]
+
+3. "Can you show me the trailer for the latest film by Christopher Nolan?"
+Named Entities: [latest film (Title), Christopher Nolan (Director), trailer (Trailer)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a farm-to-table restaurant on the map?"
+   Named Entities: [farm-to-table (Amenity), restaurant (Amenity), map (Location)]
+
+2. Query: "I'm in the mood for some Italian cuisine, where's a good place with a rating of 4 stars or above?"
+   Named Entities: [Italian (Cuisine), good (Rating)]
+
+3. Query: "What are the operating hours for the nearest steakhouse?"
+   Named Entities: [nearest (Location), steakhouse (Restaurant Name), operating hours (Hours)]

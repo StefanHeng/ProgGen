@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a great brunch menu featuring quiche?"
+Named Entities: [brunch (Amenity), quiche (Dish)]
+
+2. "I'm looking for a place with a cozy atmosphere and delicious quiche for brunch, any suggestions?"
+Named Entities: [cozy atmosphere (Amenity), quiche (Dish), brunch (Amenity)]
+
+3. "Where can I find the best quiche for brunch in the area?"
+Named Entities: [best (Rating), quiche (Dish), brunch (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a wheelchair accessible café with outdoor seating?"
+Named Entities: [Wheelchair accessible (Amenity), outdoor seating (Amenity), café (Cuisine)]
+
+Query: "What are the opening hours of a wheelchair accessible café nearby?"
+Named Entities: [Wheelchair accessible (Amenity), café (Cuisine)]
+
+Query: "I'm looking for a wheelchair accessible café with a vegetarian menu, do you have any suggestions?"
+Named Entities: [Wheelchair accessible (Amenity), vegetarian (Cuisine), café (Cuisine)]

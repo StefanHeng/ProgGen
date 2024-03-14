@@ -1,0 +1,8 @@
+Query: "Where can we find a budget-conscious restaurant with live music?"
+Named Entities: [budget-conscious (Price), live music (Amenity)]
+
+Query: "I'm looking for a restaurant with a good rating and outdoor seating."
+Named Entities: [good rating (Rating), outdoor seating (Amenity)]
+
+Query: "Can you recommend a Thai restaurant with a lunch menu available before 2 p m?"
+Named Entities: [Thai (Cuisine), lunch menu (Amenity), before 2 p m (Hours)]

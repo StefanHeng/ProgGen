@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a post-apocalyptic survival movie starring Michael B. Jordan?"
+Named Entities: [post-apocalyptic survival (Genre), Michael B. Jordan (Actor)]
+
+2. Query: "What is the most disappointing movie directed by Steven Spielberg?"
+Named Entities: [disappointing (Review), Steven Spielberg (Director)]
+
+3. Query: "Show me a thriller movie from the 2010s with a high viewers' rating"
+Named Entities: [thriller (Genre), 2010s (Year), high (Viewers' Rating)]

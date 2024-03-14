@@ -1,0 +1,8 @@
+1. "I heard the movie 'Piano Man' has some excellent award-worthy performances, can you tell me more about it?"
+Named Entities: [Piano Man (Title), Excellent (Review), Award-worthy performances (Review)]
+
+2. "What genre of movie is 'The Space Odyssey', released in 2001?"
+Named Entities: [The Space Odyssey (Title), 2001 (Year)]
+
+3. "Show me the trailer for the new action movie directed by Kathryn Bigelow"
+Named Entities: [action movie (Genre), Kathryn Bigelow (Director)]

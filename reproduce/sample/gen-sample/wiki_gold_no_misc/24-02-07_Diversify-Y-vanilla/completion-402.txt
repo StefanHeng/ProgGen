@@ -1,0 +1,8 @@
+Sentence: "The company announced a partnership with the United Nations to promote sustainable development."
+Named Entities: [United Nations (organization)]
+
+Sentence: "She studied environmental science at the University of California, Berkeley."
+Named Entities: [University of California, Berkeley (organization)]
+
+Sentence: "The scientist conducted field research in the Amazon rainforest."
+Named Entities: [Amazon rainforest (location)]

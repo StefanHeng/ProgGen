@@ -1,0 +1,8 @@
+Sentence: "The Imperial Palace East Gardens are located on the site of the former Edo Castle."
+Named Entities: [Edo Castle (location)]
+
+Sentence: "She was appointed as the Deputy Minister of Foreign Affairs in 2018."
+Named Entities: []
+
+Sentence: "The company partnered with a local non-profit organization to organize a charity event in Tokyo, Japan."
+Named Entities: [Tokyo (location), Japan (location), non-profit organization (organization)]

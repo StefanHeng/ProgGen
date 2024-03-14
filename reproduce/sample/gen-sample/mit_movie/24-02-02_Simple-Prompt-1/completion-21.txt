@@ -1,0 +1,149 @@
+1. "can you recommend any good horror movies from the 1980s"
+Named Entities: [horror (Genre), 1980s (Year)]
+
+2. "show me a movie with the title the shawshank redemption"
+Named Entities: [the shawshank redemption (Title)]
+
+3. "who directed the godfather part ii"
+Named Entities: [the godfather part ii (Title)]
+
+4. "is there a trailer for the new james bond film"
+Named Entities: [james bond (Character), new (Year) (Trailer)]
+
+5. "what is the viewers' rating for the film the dark knight"
+Named Entities: [the dark knight (Title)]
+
+6. "can you tell me about the plot of the movie inception"
+Named Entities: [inception (Title), plot (Plot)]
+
+7. "what is the song from the movie titanic"
+Named Entities: [titanic (Title)]
+
+8. "is there a review for the movie parasite"
+Named Entities: [parasite (Title), review (Review)]
+
+9. "who are the main actors in the film good will hunting"
+Named Entities: [good will hunting (Title), main actors (Actor)]
+
+10. "is the movie the martian appropriate for kids"
+Named Entities: [the martian (Title), appropriate for kids (MPAA Rating)]
+
+11. "show me a movie directed by steven spielberg that is a sci-fi film"
+Named Entities: [steven spielberg (Director), sci-fi (Genre)]
+
+12. "what are the top 10 action movies of all time"
+Named Entities: [top 10 (Viewers' Rating), action (Genre)]
+
+13. "what year was the movie toy story released"
+Named Entities: [toy story (Title)]
+
+14. "are there any comedies starring jim carrey"
+Named Entities: [comedies (Genre), jim carrey (Actor)]
+
+15. "what is the genre of the movie the silence of the lambs"
+Named Entities: [the silence of the lambs (Title)]
+
+16. "show me a movie with the title the departed"
+Named Entities: [the departed (Title)]
+
+17. "what is the viewers' rating for the film the matrix"
+Named Entities: [the matrix (Title)]
+
+18. "can you tell me about the plot of the movie the godfather"
+Named Entities: [the godfather (Title), plot (Plot)]
+
+19. "what is the song from the movie dirty dancing"
+Named Entities: [dirty dancing (Title)]
+
+20. "is there a review for the movie the shawshank redemption"
+Named Entities: [the shawshank redemption (Title), review (Review)]
+
+21. "who are the main actors in the film inception"
+Named Entities: [inception (Title), main actors (Actor)]
+
+22. "is the movie the lion king appropriate for kids"
+Named Entities: [the lion king (Title), appropriate for kids (MPAA Rating)]
+
+23. "show me a movie directed by christopher nolan that is a thriller"
+Named Entities: [christopher nolan (Director), thriller (Genre)]
+
+24. "what are the top 10 romantic movies of all time"
+Named Entities: [top 10 (Viewers' Rating), romantic (Genre)]
+
+25. "what year was the movie aliens released"
+Named Entities: [aliens (Title)]
+
+26. "are there any documentaries narrated by morgan freeman"
+Named Entities: [documentaries (Genre), morgan freeman (Actor)]
+
+27. "what is the genre of the movie the wizard of oz"
+Named Entities: [the wizard of oz (Title)]
+
+28. "show me a movie with the title the godfather"
+Named Entities: [the godfather (Title)]
+
+29. "what is the viewers' rating for the film inception"
+Named Entities: [inception (Title)]
+
+30. "can you tell me about the plot of the movie fight club"
+Named Entities: [fight club (Title), plot (Plot)]
+
+31. "what is the song from the movie grease"
+Named Entities: [grease (Title)]
+
+32. "is there a review for the movie the dark knight"
+Named Entities: [the dark knight (Title), review (Review)]
+
+33. "who are the main actors in the film the departed"
+Named Entities: [the departed (Title), main actors (Actor)]
+
+34. "is the movie the princess bride appropriate for kids"
+Named Entities: [the princess bride (Title), appropriate for kids (MPAA Rating)]
+
+35. "show me a movie directed by quentin tarantino that is a crime film"
+Named Entities: [quentin tarantino (Director), crime (Genre)]
+
+36. "what are the top 10 thriller movies of all time"
+Named Entities: [top 10 (Viewers' Rating), thriller (Genre)]
+
+37. "what year was the movie the godfather released"
+Named Entities: [the godfather (Title)]
+
+38. "are there any musicals starring julie andrews"
+Named Entities: [musicals (Genre), julie andrews (Actor)]
+
+39. "what is the genre of the movie the matrix"
+Named Entities: [the matrix (Title)]
+
+40. "show me a movie with the title the social network"
+Named Entities: [the social network (Title)]
+
+41. "what is the viewers' rating for the film the silence of the lambs"
+Named Entities: [the silence of the lambs (Title)]
+
+42. "can you tell me about the plot of the movie the shawshank redemption"
+Named Entities: [the shawshank redemption (Title), plot (Plot)]
+
+43. "what is the song from the movie the lion king"
+Named Entities: [the lion king (Title)]
+
+44. "is there a review for the movie inception"
+Named Entities: [inception (Title), review (Review)]
+
+45. "who are the main actors in the film the dark knight"
+Named Entities: [the dark knight (Title), main actors (Actor)]
+
+46. "is the movie pulp fiction appropriate for kids"
+Named Entities: [pulp fiction (Title), appropriate for kids (MPAA Rating)]
+
+47. "show me a movie directed by alfred hitchcock that is a mystery film"
+Named Entities: [alfred hitchcock (Director), mystery (Genre)]
+
+48. "what are the top 10 fantasy movies of all time"
+Named Entities: [top 10 (Viewers' Rating), fantasy (Genre)]
+
+49. "what year was the movie jurassic park released"
+Named Entities: [jurassic park (Title)]
+
+50. "are there any westerns starring john wayne"
+Named Entities: [westerns (Genre), john wayne (Actor)]

@@ -1,0 +1,8 @@
+Sentence: "The United Nations Environment Programme (UNEP) is working to address the environmental challenges facing our world today."
+Named Entities: [United Nations Environment Programme (organization)]
+
+Sentence: "The Great Barrier Reef, located in the Coral Sea off the coast of Queensland, Australia, is the world's largest coral reef system."
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+
+Sentence: "Rachel Carson, an American marine biologist, writer, and conservationist, is credited with advancing the global environmental movement through her book, Silent Spring."
+Named Entities: [Rachel Carson (person), American (organization)]

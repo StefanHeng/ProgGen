@@ -1,0 +1,8 @@
+1. The Nobel Prize is a set of annual international awards bestowed in several categories by Swedish and Norwegian institutions in recognition of academic, cultural, or scientific advances.
+Named Entities: [Nobel Prize (organization), Swedish (location), Norwegian (location)]
+
+2. The Volvo Group, as a whole, includes Volvo Trucks, Mack Trucks, Renault Trucks, UD Trucks, Volvo Construction Equipment, Volvo Buses, Volvo Penta, and Volvo Financial Services.
+Named Entities: [Volvo Group (organization), Volvo Trucks (organization), Mack Trucks (organization), Renault Trucks (organization), UD Trucks (organization), Volvo Construction Equipment (organization), Volvo Buses (organization), Volvo Penta (organization), Volvo Financial Services (organization)]
+
+3. In 2020, the United States Environmental Protection Agency announced the Chrysler Town and Country, Dodge Caravan, and Tesla Model S would be retroactively added to the list of eligible vehicles, effective August 15.
+Named Entities: [United States Environmental Protection Agency (organization), Chrysler Town and Country (organization), Dodge Caravan (organization), Tesla Model S (organization), August 15 (location)]

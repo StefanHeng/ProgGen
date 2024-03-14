@@ -1,0 +1,8 @@
+Query: "What type of cuisine does [The Night Owl Cafe] serve?"
+Named Entities: [The Night Owl Cafe (Restaurant Name), cuisine (Amenity)]
+
+Query: "I'm looking for a restaurant with a high rating in this area, any suggestions?"
+Named Entities: [high rating (Rating), this area (Location)]
+
+Query: "Can you tell me the operating hours of [The Night Owl Cafe]?"
+Named Entities: [The Night Owl Cafe (Restaurant Name), operating hours (Hours)]

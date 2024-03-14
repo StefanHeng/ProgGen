@@ -1,0 +1,8 @@
+1. "Can you recommend a James Beard Award winning restaurant in the downtown area?"
+Named Entities: [James Beard Award (Amenity), downtown area (Location)]
+
+2. "I'm craving for some authentic Italian cuisine, where can I find a place with a good wine selection?"
+Named Entities: [Italian (Cuisine), good wine selection (Amenity)]
+
+3. "Are there any restaurants in the area that serve brunch before 10 am on weekdays?"
+Named Entities: [brunch (Amenity), before 10 am on weekdays (Hours), area (Location)]

@@ -1,0 +1,6 @@
+A named location entity must be the name of a location.
+Any general reference to a location or locations such as "city hall", "community center", "downtown", "major cities" and "bank" is not a named entity.
+Specific references to a location or locations not assigned a name such as "major airports" and "arts district" are also not named entities.
+Events like "Olympics" and "Fashion Week" are not relevant named entities.
+Adjectives like "American", "Chinese" and "Russian" are not named location entities.
+Hurricanes and other natural disasters are not named location entities.

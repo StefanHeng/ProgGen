@@ -1,0 +1,8 @@
+1. "Can you find me a movie released between 2020-2022 that is rated NC-17?"
+Named Entities: [2020-2022 (Year), NC-17 (MPAA Rating)]
+
+2. "Show me a True Crime film directed by Francis Ford Coppola"
+Named Entities: [True Crime (Genre), Francis Ford Coppola (Director)]
+
+3. "Could you recommend a movie starring Nicole Kidman with a riveting plot and the song 'Don't You' in it?"
+Named Entities: [Nicole Kidman (Actor), riveting (Review), Don't You (Song)]

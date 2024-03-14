@@ -1,0 +1,8 @@
+1. Text Span: "late"
+Label: (A). The span is a named entity of type Hours
+
+2. Text Span: "late-night"
+Label: (A). The span is a named entity of type Hours
+
+3. Text Span: "operating hours"
+Label: (D). The span is not a named entity

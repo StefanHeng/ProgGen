@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a teaser that came out in 2008?"
+Named Entities: [Teaser (Trailer), 2008 (Year)]
+
+2. "I'm looking for a historical reenactment film starring Jessica Chastain. Any suggestions?"
+Named Entities: [historical reenactment (Genre), Jessica Chastain (Actor)]
+
+3. "What is the viewers' rating for the movie directed by Guillermo del Toro?"
+Named Entities: [Guillermo del Toro (Director), viewers' rating (Viewers' Rating)]

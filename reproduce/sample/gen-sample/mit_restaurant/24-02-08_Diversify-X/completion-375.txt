@@ -1,0 +1,8 @@
+Query: "can you recommend a waterfront restaurant for lunch with vegan options?"
+Named Entities: [waterfront (Amenity), lunch (Hours), vegan (Cuisine)]
+
+Query: "what's a good place by the water for lunch with outdoor seating?"
+Named Entities: [water (Amenity), lunch (Hours), outdoor seating (Amenity)]
+
+Query: "find me a waterfront restaurant with patio dining for lunch"
+Named Entities: [waterfront (Amenity), patio dining (Amenity), lunch (Hours)]

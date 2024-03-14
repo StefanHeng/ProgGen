@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where can I find a mid-range priced burger joint?"
+Named Entities: [fast food (Cuisine), mid-range (Price), burger joint (Restaurant Name)]
+
+2. "What's a good place for a quick bite that serves fast food and has reasonable prices?"
+Named Entities: [quick bite (Amenity), fast food (Cuisine), reasonable prices (Price)]
+
+3. "I need a recommendation for a mid-range fast food spot that's open before 10 pm."
+Named Entities: [mid-range (Price), fast food (Cuisine), before 10 pm (Hours)]

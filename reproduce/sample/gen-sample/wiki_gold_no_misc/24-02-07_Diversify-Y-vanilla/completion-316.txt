@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "She joined the United Nations as a civil servant and served in various high-profile roles."
+Named Entities: [United Nations (organization)]
+
+Sentence: "The actor starred in several blockbuster films, including Titanic and Inception."
+Named Entities: [Titanic (organization), Inception (organization)]

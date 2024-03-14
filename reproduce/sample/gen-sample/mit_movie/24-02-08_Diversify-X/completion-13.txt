@@ -1,0 +1,8 @@
+1. "Can you tell me about a movie with a famous song in it?"
+   Named Entities: [famous song (Song)]
+
+2. "I want to watch a film that has great music, do you have any recommendations?"
+   Named Entities: [great music (Song/Viewers' Rating)]
+
+3. "Is there a movie known for its iconic soundtrack?"
+   Named Entities: [iconic soundtrack (Song/Review)]

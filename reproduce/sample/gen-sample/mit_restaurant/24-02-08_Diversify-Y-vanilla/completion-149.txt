@@ -1,0 +1,8 @@
+1. "I'm craving Italian food, where can I find a highly-rated Italian restaurant in the area?"
+Named Entities: [Italian (Cuisine), highly-rated (Rating), area (Location)]
+
+2. "Can you recommend a restaurant from The World's 50 Best list for a special occasion dinner tonight?"
+Named Entities: [The World's 50 Best (Amenity), special occasion (Amenity), tonight (Hours)]
+
+3. "I'm looking for a budget-friendly Italian place with outdoor seating, can you help me find one?"
+Named Entities: [budget-friendly (Price), Italian (Cuisine), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can I watch a movie preview for a family-friendly film?" 
+   Named Entities: [family-friendly (MPAA Rating), Movie preview (Trailer), All Ages (MPAA Rating)]
+
+2. Query: "Is there a fierce action movie with a high viewers' rating?" 
+   Named Entities: [fierce (Character), action (Genre), high viewers' rating (Viewers' Rating)]
+
+3. Query: "Which movie is a complete waste of time according to the critics' reviews?" 
+   Named Entities: [complete waste of time (Review)]

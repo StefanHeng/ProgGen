@@ -1,0 +1,8 @@
+1. Query: "what is considered the most divisive supernatural movie of the past decade"
+Named Entities: [most divisive (Review), supernatural (Genre)]
+
+2. Query: "who directed the supernatural film The Lighthouse, released in 2019"
+Named Entities: [The Lighthouse (Title), 2019 (Year), Robert Eggers (Director)]
+
+3. Query: "can you recommend a supernatural movie with a high viewers' rating"
+Named Entities: [supernatural (Genre), high viewers' rating (Viewers' Rating)]

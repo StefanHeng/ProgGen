@@ -1,0 +1,11 @@
+1. Sentence: "Zara Larsson is a {{Swedish}} singer and songwriter."
+Text Span: "Swedish"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+2. Sentence: "The {{Globe Theatre}} was a theatre in London associated with William Shakespeare."
+Text Span: "Globe Theatre"
+Label: (A). The span is a named entity of type location.
+
+3. Sentence: "This event took place in {{Rotterdam}}, Netherlands."
+Text Span: "Rotterdam"
+Label: (A). The span is a named entity of type location.

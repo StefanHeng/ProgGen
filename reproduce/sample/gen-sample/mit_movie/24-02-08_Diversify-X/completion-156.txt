@@ -1,0 +1,8 @@
+1. Query: "Is the movie Frozen available on Netflix for kids to watch?"
+Named Entities: [Frozen (Title), Netflix (Streaming platform), kids (Viewers' Rating)]
+
+2. Query: "Are there any romantic movies from the 90s on Disney+?"
+Named Entities: [romantic (Genre), 90s (Year), Disney+ (Streaming platform)]
+
+3. Query: "Can I find any animated films on Amazon Prime with strong female characters?"
+Named Entities: [animated (Genre), Amazon Prime (Streaming platform), strong female characters (Character)]

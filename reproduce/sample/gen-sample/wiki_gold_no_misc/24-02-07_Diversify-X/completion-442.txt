@@ -1,0 +1,8 @@
+Sentence: "Traveling allows people to explore new cultures, cuisines, and traditions."
+Named Entities: []
+
+Sentence: "The International Air Transport Association (IATA) sets standards for the global airline industry."
+Named Entities: [International Air Transport Association (organization)]
+
+Sentence: "She visited the famous landmarks such as the Eiffel Tower, Taj Mahal, and Machu Picchu during her world travels."
+Named Entities: [Eiffel Tower (location), Taj Mahal (location), Machu Picchu (location)]

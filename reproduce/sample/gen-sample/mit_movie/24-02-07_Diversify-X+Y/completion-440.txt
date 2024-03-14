@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which movie has the song Stayin' Alive in its soundtrack?"
+   Named Entities: [Stayin' Alive (Song)]
+
+2. Query: "I want to watch a movie with Mark Wahlberg and some cool jazz music in it, do you have any suggestions?"
+   Named Entities: [Mark Wahlberg (Actor), jazz (Genre)]
+
+3. Query: "Is there a movie about Buzz Lightyear with no rating for me to watch?"
+   Named Entities: [Buzz Lightyear (Character), NR (MPAA Rating)]

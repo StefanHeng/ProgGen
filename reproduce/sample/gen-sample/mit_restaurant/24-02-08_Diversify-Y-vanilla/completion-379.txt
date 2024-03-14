@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant that serves delicious salads near [Panera Bread]?
+Named Entities: [delicious salads (Dish), [Panera Bread] (Location)]
+
+Query: "What are some good options for breakfast around [Panera Bread]?"
+Named Entities: [good (Rating), breakfast (Cuisine), [Panera Bread] (Location)]
+
+Query: "I'm craving some sandwiches for lunch, where can I find a place that offers a variety of options near [Panera Bread]?"
+Named Entities: [sandwiches (Dish), variety of options (Amenity), [Panera Bread] (Location)]

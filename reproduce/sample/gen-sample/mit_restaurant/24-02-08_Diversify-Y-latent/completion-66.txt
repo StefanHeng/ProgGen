@@ -1,0 +1,8 @@
+1. "Can you recommend a Turkish restaurant within walking distance?"
+Named Entities: [Turkish (Cuisine), Within walking distance (Amenity)]
+
+2. "I'm craving some Turkish kebabs, where can I find the best ones around here?"
+Named Entities: [Turkish (Cuisine), kebabs (Dish)]
+
+3. "What are the operating hours for Sultan's Palace, the Turkish restaurant on Main Street?"
+Named Entities: [Sultan's Palace (Restaurant Name), Turkish (Cuisine), Main Street (Location), operating hours (Hours)]

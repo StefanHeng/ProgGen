@@ -1,0 +1,8 @@
+1. "I'm craving some delicious risotto, do you know any economically priced Italian restaurants nearby?"
+   Named Entities: [risotto (Dish), economically priced (Price), Italian (Cuisine)]
+
+2. "What are the top-rated restaurants in the area known for their economic yet high-quality meals?"
+   Named Entities: [top-rated (Rating), economic (Price)]
+
+3. "Can you recommend a place with a diverse cuisine selection that won't break the bank?"
+   Named Entities: [diverse cuisine selection (Cuisine), won't break the bank (Price)]

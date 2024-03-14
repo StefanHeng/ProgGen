@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a fireplace?"
+Named Entities: [fine dining (Amenity), fireplace (Amenity)]
+
+2. "I'm looking for a reservation at The French Laundry for tonight."
+Named Entities: [The French Laundry (Restaurant Name), tonight (Hours)]
+
+3. "Where can I find a high-end restaurant with a cozy fireplace ambiance?"
+Named Entities: [high-end (Price), cozy (Amenity), fireplace (Amenity)]

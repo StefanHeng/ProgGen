@@ -1,0 +1,8 @@
+1. "Who directed the film The Fugitive and what makes the casting exceptional?"
+   Named Entities: [The Fugitive (Title), exceptional casting (Review)]
+
+2. "Can you tell me if Dorothy Gale appears in the movie Aashiqui 2, which actor stars in it and is it considered perfect by viewers?"
+   Named Entities: [Dorothy Gale (Character), Aashiqui 2 (Title), perfect (Viewers' Rating), Kevin Hart (Actor)]
+
+3. "I'm looking for a movie that features the song 'A Whole New World' - can you provide information about the cast and a trailer?"
+   Named Entities: [A Whole New World (Song)]

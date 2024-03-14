@@ -1,0 +1,8 @@
+Query: "What are the best brunch spots in town?"
+Named Entities: [Best brunch spots in town (Amenity)]
+
+Query: "I'm craving some Italian food, where can I find a good Italian restaurant with outdoor seating?"
+Named Entities: [Italian (Cuisine), good (Rating), outdoor seating (Amenity)]
+
+Query: "Which restaurant serves the best sushi in the city and is open late on weekends?"
+Named Entities: [sushi (Dish), best (Rating), late on weekends (Hours)]

@@ -1,0 +1,8 @@
+1. "The company was founded by Elon Musk and is headquartered in Palo Alto, California."
+Named Entities: [Elon Musk (person), Palo Alto (location), California (location)]
+
+2. "The Eiffel Tower is one of the most famous landmarks in Paris, and it was named after engineer Gustave Eiffel."
+Named Entities: [Eiffel Tower (location), Paris (location), Gustave Eiffel (person)]
+
+3. "The World Health Organization has been actively involved in coordinating the global response to the COVID-19 pandemic."
+Named Entities: [World Health Organization (organization), COVID-19 (location)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant with dairy-free options"
+Named Entities: [buffet (Amenity), dairy-free (Amenity)]
+
+Query: "Which restaurants nearby offer dairy-free buffet options?"
+Named Entities: [dairy-free (Amenity), buffet (Amenity)]
+
+Query: "Can you recommend a buffet place with dairy-free dishes?"
+Named Entities: [buffet (Amenity), dairy-free (Amenity)]

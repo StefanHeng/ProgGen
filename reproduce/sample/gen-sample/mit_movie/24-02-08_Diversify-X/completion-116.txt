@@ -1,0 +1,8 @@
+1. Query: "Can you tell me if the movie Frozen won any awards?"
+Named Entities: [Frozen (Title), won any awards (Awards)]
+
+2. Query: "What movie from 2019 got the most nominations?"
+Named Entities: [2019 (Year), most nominations (Awards)]
+
+3. Query: "I want to watch a movie with a strong female lead who has won a lot of awards, can you recommend one?"
+Named Entities: [strong female lead (Character), won a lot of awards (Awards)]

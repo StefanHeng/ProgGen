@@ -1,0 +1,10 @@
+Sure!
+
+Query: "Can you recommend a comedy movie with a strong female lead that is set in the 1990s"
+Named Entities: [comedy (Genre), strong female lead (Character), 1990s (Year)]
+
+Query: "I am looking for a thriller movie with espionage as the main plot in the style of the Bourne series"
+Named Entities: [thriller (Genre), espionage (Plot), the Bourne series (Title)]
+
+Query: "Do you have any recommendations for science fiction movies that are centered around time travel and have a mind-bending plot twist"
+Named Entities: [science fiction (Genre), time travel (Plot), mind-bending plot twist (Plot)]

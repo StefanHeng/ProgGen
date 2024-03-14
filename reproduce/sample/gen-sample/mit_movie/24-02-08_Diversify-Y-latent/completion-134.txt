@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a compelling movie from 1975?"
+Named Entities: [compelling (Review), 1975 (Year)]
+
+2. Query: "What's the genre of Schindler's List?"
+Named Entities: [Schindler's List (Title)]
+
+3. Query: "Who is the director of the film Schindler's List that is rated R?"
+Named Entities: [Schindler's List (Title), R (MPAA Rating)]

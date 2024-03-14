@@ -1,0 +1,8 @@
+1. "Can you show me the teaser poster for the new blockbuster movie coming out in 2022?"
+Named Entities: [teaser poster (Teaser poster), 2022 (Year)]
+
+2. "I heard a movie had the song 'Bad Moon Rising' in it. Can you tell me more about it?"
+Named Entities: [Bad Moon Rising (Song)]
+
+3. "I'm looking for a movie with dynamic performances and a viewers' rating of at least 7.5/10 stars."
+Named Entities: [Dynamic performances (Review), 7.5/10 stars (Viewers' Rating)]

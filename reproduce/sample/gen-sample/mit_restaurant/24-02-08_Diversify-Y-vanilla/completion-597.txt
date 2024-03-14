@@ -1,0 +1,8 @@
+1. "I'm craving hot pot, are there any restaurants in the area that serve that cuisine?"
+Named Entities: [hot pot (Cuisine), area (Location)]
+
+2. "I heard there's a new New Zealand restaurant in town, can you help me find it?"
+Named Entities: [new New Zealand restaurant (Restaurant Name), town (Location)]
+
+3. "I need to find a place for dinner with a good rating and affordable prices, can you recommend any options?"
+Named Entities: [good rating (Rating), affordable prices (Price)]

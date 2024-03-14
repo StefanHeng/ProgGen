@@ -1,0 +1,8 @@
+Query: "Has the movie Titanic won any awards?"
+Named Entities: [Titanic (Title), awards (Awards)]
+
+Query: "What movie directed by Martin Scorsese has received the most nominations?"
+Named Entities: [Martin Scorsese (Director), most nominations (Awards)]
+
+Query: "Show me a film with Tom Hanks that has won an Oscar."
+Named Entities: [Tom Hanks (Actor), won an Oscar (Awards)]

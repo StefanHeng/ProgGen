@@ -1,0 +1,8 @@
+1. Text Span: "French"
+Label: (A)
+
+2. Text Span: "Tokyo"
+Label: (A)
+
+3. Text Span: "Swedish"
+Label: (B). The correct span boundary is "{{Swedish pop group ABBA}}"

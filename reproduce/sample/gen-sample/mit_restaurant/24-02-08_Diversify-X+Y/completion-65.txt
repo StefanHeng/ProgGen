@@ -1,0 +1,8 @@
+Query: "Can you provide me with the nutrition information for some fast food options in the area?"
+Named Entities: [fast food (Cuisine), Nutrition information (Amenity)]
+
+Query: "I'm looking for a mid-range restaurant with low-carb options that also has a playground for kids."
+Named Entities: [mid-range (Price), low-carb (Dietary restriction), Playground (Amenity)]
+
+Query: "Where can I find a fast food restaurant with low-carb options and a mid-range price range that also offers nutrition information?"
+Named Entities: [fast food (Cuisine), low-carb (Dietary restriction), mid-range (Price), Nutrition information (Amenity)]

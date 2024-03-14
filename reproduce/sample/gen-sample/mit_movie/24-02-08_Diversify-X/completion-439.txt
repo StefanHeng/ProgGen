@@ -1,0 +1,8 @@
+1. Query: "Is the movie Inception available on any streaming platforms?"
+Named Entities: [Inception (Title), Streaming platform availability]
+
+2. Query: "Can I watch the director's cut of Blade Runner on any streaming services?"
+Named Entities: [Blade Runner (Title), director's cut (Plot), Streaming platform availability]
+
+3. Query: "Is the movie Shawshank Redemption available in 4K resolution on any streaming platforms?"
+Named Entities: [Shawshank Redemption (Title), 4K resolution (Viewers' Rating), Streaming platform availability]

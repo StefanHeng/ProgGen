@@ -1,0 +1,134 @@
+Query: "What's a good nearby restaurant for a date night?"
+Named Entities: [good (Rating), nearby (Location), date night (Amenity)]
+
+Query: "I'm craving some authentic Italian food, where can I find a good place?"
+Named Entities: [authentic Italian (Cuisine), good (Rating)]
+
+Query: "What are the hours for Taco Bell?"
+Named Entities: [Taco Bell (Restaurant Name), hours (Hours)]
+
+Query: "I want to try some sushi, where's the best sushi spot in town?"
+Named Entities: [sushi (Cuisine), best (Rating), town (Location)]
+
+Query: "I'm looking for a five-star restaurant with outdoor seating, any recommendations?"
+Named Entities: [five-star (Rating), outdoor seating (Amenity)]
+
+Query: "I need a cheap place to grab a quick bite to eat, any ideas?"
+Named Entities: [cheap (Price), quick bite (Amenity)]
+
+Query: "Where can I find a good seafood restaurant around here?"
+Named Entities: [good (Rating), seafood (Cuisine), around here (Location)]
+
+Query: "I want to try some authentic Mexican tacos, any suggestions?"
+Named Entities: [authentic Mexican (Cuisine)]
+
+Query: "What's the best place for brunch in this area?"
+Named Entities: [best (Rating), brunch (Amenity), this area (Location)]
+
+Query: "I'd like to reserve a table at Olive Garden for tonight"
+Named Entities: [Olive Garden (Restaurant Name), tonight (Hours)]
+
+Query: "Where can I find a steakhouse with a good wine selection?"
+Named Entities: [steakhouse (Cuisine), good (Rating), wine selection (Amenity)]
+
+Query: "What's the closest fast food place with a drive-thru?"
+Named Entities: [closest (Location), fast food (Cuisine), drive-thru (Amenity)]
+
+Query: "Is there a place around here with live music and a vegetarian menu?"
+Named Entities: [around here (Location), live music (Amenity), vegetarian (Cuisine)]
+
+Query: "I want to try some Korean BBQ, where's the best place to go?"
+Named Entities: [Korean BBQ (Cuisine), best (Rating)]
+
+Query: "What's a good place for a business lunch in the downtown area?"
+Named Entities: [good (Rating), business lunch (Amenity), downtown (Location)]
+
+Query: "I need a restaurant that's open late, any recommendations?"
+Named Entities: [open late (Hours)]
+
+Query: "Where can I find a cheap pizza place with delivery?"
+Named Entities: [cheap (Price), pizza (Cuisine), delivery (Amenity)]
+
+Query: "I want to try some Indian curry, where's the best place for that?"
+Named Entities: [Indian curry (Cuisine), best (Rating)]
+
+Query: "Is there a place around here that's good for kids and has a playground?"
+Named Entities: [good for kids (Amenity), playground (Amenity), around here (Location)]
+
+Query: "What's a good place for happy hour specials near the waterfront?"
+Named Entities: [good (Rating), happy hour (Amenity), specials (Amenity), waterfront (Location)]
+
+Query: "Where can I find a restaurant with a view and a good wine list?"
+Named Entities: [view (Amenity), good (Rating), wine list (Amenity)]
+
+Query: "I need a place with outdoor seating and vegan options, any ideas?"
+Named Entities: [outdoor seating (Amenity), vegan (Cuisine)]
+
+Query: "What's a good place for a celebratory dinner with a private dining room?"
+Named Entities: [good (Rating), celebratory dinner (Amenity), private dining room (Amenity)]
+
+Query: "I want to try some pho, where's the best Vietnamese restaurant?"
+Named Entities: [pho (Cuisine), best (Rating), Vietnamese (Cuisine)]
+
+Query: "Is there a restaurant that's budget-friendly and has a kids menu?"
+Named Entities: [budget-friendly (Price), kids menu (Amenity)]
+
+Query: "I need a place that's open early for breakfast, any suggestions?"
+Named Entities: [open early (Hours), breakfast (Amenity)]
+
+Query: "Where can I find a place with a great view and outdoor seating?"
+Named Entities: [great (Rating), view (Amenity), outdoor seating (Amenity)]
+
+Query: "What's a good place for a romantic dinner with a prix fixe menu?"
+Named Entities: [good (Rating), romantic dinner (Amenity), prix fixe menu (Amenity)]
+
+Query: "I want to try some Ethiopian food, where's the best place for that?"
+Named Entities: [Ethiopian food (Cuisine), best (Rating)]
+
+Query: "Is there a place that's open 24 hours and serves breakfast all day?"
+Named Entities: [open 24 hours (Hours), breakfast (Amenity)]
+
+Query: "Where can I find a restaurant with a good view of the city?"
+Named Entities: [good (Rating), view of the city (Amenity)]
+
+Query: "I need a place with gluten-free options and a nice outdoor patio"
+Named Entities: [gluten-free (Cuisine), outdoor patio (Amenity)]
+
+Query: "What's a good place for a family dinner with a kids play area?"
+Named Entities: [good (Rating), family dinner (Amenity), kids play area (Amenity)]
+
+Query: "I want to try some ramen, where's the best place for that?"
+Named Entities: [ramen (Cuisine), best (Rating)]
+
+Query: "Is there a place with a good happy hour and outdoor seating?"
+Named Entities: [good (Rating), happy hour (Amenity), outdoor seating (Amenity)]
+
+Query: "Where can I find a restaurant with a great selection of craft beers?"
+Named Entities: [great (Rating), craft beers (Amenity)]
+
+Query: "I need a place with a good selection of desserts and coffee"
+Named Entities: [good (Rating), desserts (Amenity), coffee (Amenity)]
+
+Query: "What's a good place for a casual lunch with outdoor seating?"
+Named Entities: [good (Rating), casual lunch (Amenity), outdoor seating (Amenity)]
+
+Query: "I want to try some Thai food, where's the best place for that?"
+Named Entities: [Thai food (Cuisine), best (Rating)]
+
+Query: "Is there a place with a rooftop bar and a view of the city?"
+Named Entities: [rooftop bar (Amenity), view of the city (Amenity)]
+
+Query: "Where can I find a restaurant with a private dining area for a party?"
+Named Entities: [private dining area (Amenity), party (Amenity)]
+
+Query: "I need a place with live music and a dance floor, any ideas?"
+Named Entities: [live music (Amenity), dance floor (Amenity)]
+
+Query: "What's a good place for a late-night snack with a drive-thru?"
+Named Entities: [good (Rating), late-night snack (Amenity), drive-thru (Amenity)]
+
+Query: "I want to try some Cuban food, where's the best place for that?"
+Named Entities: [Cuban food (Cuisine), best (Rating)]
+
+Query: "Is there a place with a good brunch menu and bottomless mimosas?"
+Named Entities: [good (Rating), brunch menu (Amenity), bottomless mimosas (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "which movie won the most Academy Awards in 2020"
+   Named Entities: [2020 (Year), Academy Awards (Awards)]
+
+2. Query: "can you tell me about the highest-rated film in terms of viewers' ratings"
+   Named Entities: [highest-rated (Viewers' Rating)]
+
+3. Query: "show me a movie directed by Christopher Nolan that was nominated for a Golden Globe"
+   Named Entities: [Christopher Nolan (Director), Golden Globe (Awards)]

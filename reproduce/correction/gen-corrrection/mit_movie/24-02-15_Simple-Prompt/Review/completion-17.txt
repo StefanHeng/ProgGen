@@ -1,0 +1,11 @@
+1. Query: "what are some of alfred hitchcock's {{most famous}} movies"
+Text Span: "most famous"
+Label: (A). The span is a named entity of type review
+
+2. Query: "Are there any {{good}} action movies from the 1990s"
+Text Span: "good"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Viewers' Rating.
+
+3. Query: "What are the {{top 5}} highest grossing movies of all time?"
+Text Span: "top 5"
+Label: (A). The span is a named entity of type review

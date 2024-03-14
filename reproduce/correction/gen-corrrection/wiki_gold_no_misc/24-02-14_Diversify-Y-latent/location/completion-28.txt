@@ -1,0 +1,11 @@
+1. Sentence: 'After graduating from Waseda University, Murakami opened a jazz bar in {{Tokyo}} called "Peter Cat".'
+Text Span: "Tokyo"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Great Rift Valley, a continuous geographic trench, extends from {{Lebanon}} in Asia to Mozambique in East Africa."
+Text Span: "Lebanon"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The location of the Statue of Liberty on {{Liberty Island}} in New York Harbor provides panoramic views of the skyline of New York City and New Jersey."
+Text Span: "Liberty Island"
+Label: (A). The span is a named entity of type location

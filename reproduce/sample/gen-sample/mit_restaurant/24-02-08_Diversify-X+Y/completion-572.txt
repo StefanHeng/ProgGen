@@ -1,0 +1,8 @@
+Query: "show me Chinese late-night dining options that offer delivery"
+Named Entities: [Chinese (Cuisine), late-night dining (Amenity), delivery (Amenity)]
+
+Query: "I'm craving Moroccan food for late-night delivery, can you help me find a place?"
+Named Entities: [Moroccan (Cuisine), late-night (Amenity), delivery (Amenity)]
+
+Query: "which restaurants around here serve late-night Chinese dishes and deliver?"
+Named Entities: [Chinese (Cuisine), late-night (Amenity), delivery (Amenity)]

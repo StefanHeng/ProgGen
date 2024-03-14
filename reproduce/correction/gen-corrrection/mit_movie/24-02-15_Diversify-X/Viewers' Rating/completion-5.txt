@@ -1,0 +1,8 @@
+1. Text Span: "awards"
+   Label: (C). Wrong Type. The correct entity type is Other.
+
+2. Text Span: "rating"
+   Label: (D). Not a Named Entity
+
+3. Text Span: "highly-rated"
+   Label: (A). Correct Entity Annotation.

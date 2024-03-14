@@ -1,0 +1,8 @@
+1. "I'm craving a burger, can you recommend a restaurant with outstanding food?"
+Named Entities: [Burger (Dish), Outstanding food (Rating)]
+
+2. "Where can I find the best pho soup in town?"
+Named Entities: [best (Rating), pho soup (Dish), town (Location)]
+
+3. "Which restaurant has the most affordable prices for a plate of pho soup?"
+Named Entities: [affordable prices (Price), pho soup (Dish)]

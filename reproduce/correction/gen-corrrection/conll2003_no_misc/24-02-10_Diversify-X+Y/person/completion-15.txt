@@ -1,0 +1,8 @@
+1. Text Span: "detective"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Text Span: "Kim Jong Un"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "refugee"
+Label: (C). The span is a named entity but the category is not person. Entity type: other

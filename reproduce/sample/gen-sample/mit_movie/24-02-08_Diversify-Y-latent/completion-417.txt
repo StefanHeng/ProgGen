@@ -1,0 +1,8 @@
+1. Query: "Can I watch an extended trailer for a Western comedy film?"
+   Named Entities: [extended trailer (Trailer), Western comedy (Genre)]
+
+2. Query: "I'm looking for a movie with phenomenal storytelling directed by Steven Spielberg and starring Nicole Kidman."
+   Named Entities: [phenomenal storytelling (Plot), Steven Spielberg (Director), Nicole Kidman (Actor)]
+
+3. Query: "What epic movie did Nicole Kidman star in?"
+   Named Entities: [epic (Genre), Nicole Kidman (Actor)]

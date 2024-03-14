@@ -1,0 +1,8 @@
+Query: "Can you recommend a good restaurant around here for dinner tonight?"
+Named Entities: [good (Rating), dinner (Amenity), tonight (Hours), Around (Location)]
+
+Query: "I'm looking for a restaurant serving Italian cuisine around for dinner at a reasonable price."
+Named Entities: [Italian (Cuisine), dinner (Amenity), reasonable price (Price), Around (Location)]
+
+Query: "Where can I find a highly rated restaurant around for dinner with outdoor seating?"
+Named Entities: [highly rated (Rating), dinner (Amenity), outdoor seating (Amenity), Around (Location)]

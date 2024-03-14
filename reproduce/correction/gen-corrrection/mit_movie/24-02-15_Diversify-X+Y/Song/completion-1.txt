@@ -1,0 +1,8 @@
+1. Text Span: "song"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "captivating music"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "musical score"
+Label: (C). Wrong Type. The correct entity type is other.

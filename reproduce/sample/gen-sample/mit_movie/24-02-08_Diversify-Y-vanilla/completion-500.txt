@@ -1,0 +1,8 @@
+1. "Can you show me a movie trailer for the film featuring the song Black Velvet?"
+Named Entities: [Black Velvet (Song), movie trailer (Trailer)]
+
+2. "I'm looking for a movie with a character similar to Professor X, any recommendations?"
+Named Entities: [Professor X (Character)]
+
+3. "Is the movie with the song Livin' on a Prayer available to watch in theaters this year?"
+Named Entities: [Livin' on a Prayer (Song), theaters (Location), this year (Year)]

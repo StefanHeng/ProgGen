@@ -1,0 +1,8 @@
+1. Text Span: "retail industry"
+Label: (C). Not a named entity. Category: other
+
+2. Text Span: "French Open"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "luxury hotel chain"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. Correct span boundary: "luxury hotel chain"

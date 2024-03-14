@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a Michelin star rating for Monday night dinner"
+Named Entities: [fine dining (Amenity), Michelin star (Rating), Monday (Hours)]
+
+2. "Where can I find a high-end French cuisine restaurant open for Monday lunch"
+Named Entities: [high-end (Price), French cuisine (Cuisine), Monday (Hours)]
+
+3. "I'm looking for a fancy seafood place serving Monday brunch, preferably with a waterfront location"
+Named Entities: [fancy (Price), seafood (Cuisine), Monday (Hours), waterfront (Location)]

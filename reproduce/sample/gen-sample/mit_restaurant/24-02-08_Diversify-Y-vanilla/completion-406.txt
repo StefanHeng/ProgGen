@@ -1,0 +1,8 @@
+1. "I'm craving some late-night snacking. Where can I find a Japanese restaurant open late?"
+Named Entities: [Japanese (Cuisine), Late-night snacking hours (Hours)]
+
+2. "I want to take my date to a romantic restaurant with a high rating. Any recommendations?"
+Named Entities: [romantic (Amenity), high rating (Rating)]
+
+3. "I'm looking for a budget-friendly place to grab lunch. Any good places with vegetarian options?"
+Named Entities: [budget-friendly (Price), vegetarian options (Cuisine)]

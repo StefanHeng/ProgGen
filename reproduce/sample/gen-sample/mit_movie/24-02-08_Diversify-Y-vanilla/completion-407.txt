@@ -1,0 +1,8 @@
+1. Query: "What are the top three highest rated movies released in 2020 [NR-17]?"
+Named Entities: [2020 (Year), top three highest rated movies (Viewers' Rating)]
+
+2. Query: "Who directed the sci-fi movie Inception?"
+Named Entities: [Inception (Title), sci-fi (Genre)]
+
+3. Query: "Can you recommend a good action movie from the 1980s [NR-17]?"
+Named Entities: [action (Genre), 1980s (Year), recommend (Review)]

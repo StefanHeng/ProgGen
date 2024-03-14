@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the name of the movie with the song 'Let It Go'?"
+Named Entities: ['Let It Go' (Song)]
+
+2. Query: "I want to watch a film with the best soundtrack, what do you recommend?"
+Named Entities: [best soundtrack (Review)]
+
+3. Query: "Could you show me a movie with a great love song in it?"
+Named Entities: [love song (Song)]

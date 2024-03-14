@@ -1,0 +1,8 @@
+1. Query: "I want to take my date somewhere excellent. Can you recommend a restaurant?"
+Named Entities: [excellent (Rating)]
+
+2. Query: "I'm in the mood for some PF Chang's. Is there one nearby?"
+Named Entities: [PF Chang's (Restaurant Name)]
+
+3. Query: "Where can I find the best curry in town?"
+Named Entities: [curry (Dish)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good brunch menu and bottomless mimosas?"
+Named Entities: [good (Rating), brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "I'm looking for a place with a cozy atmosphere and outdoor seating for brunch hours"
+Named Entities: [cozy (Amenity), outdoor seating (Amenity), brunch hours (Amenity)]
+
+Query: "Where can I find a restaurant that serves vegetarian brunch options before 11 am?"
+Named Entities: [vegetarian (Cuisine), brunch options (Amenity), before 11 am (Hours)]

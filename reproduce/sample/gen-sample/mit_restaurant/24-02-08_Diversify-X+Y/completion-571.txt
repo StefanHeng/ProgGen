@@ -1,0 +1,8 @@
+1. "Where can I find a mid-range buffet restaurant in Rome?"
+   Named Entities: [buffet (Amenity), mid-range (Price), Rome (Location)]
+
+2. "What are the operating hours for The Luxe Buffet in Rome?"
+   Named Entities: [The Luxe Buffet (Restaurant Name), Rome (Location), operating hours (Hours)]
+
+3. "Can you recommend a buffet restaurant with good ratings in Rome?"
+   Named Entities: [buffet (Amenity), good ratings (Rating), Rome (Location)]

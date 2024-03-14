@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from the 1950s that is a must-see?"
+   Named Entities: [1950 (Year), must see (Viewers' Rating)]
+
+2. "I'm interested in movies with Forest Whitaker. Can you suggest a good one?"
+   Named Entities: [Forest Whitaker (Actor)]
+
+3. "Show me a biopic with glowing reviews from award voters."
+   Named Entities: [biopic (Genre), glowing reviews from award voters (Review)]

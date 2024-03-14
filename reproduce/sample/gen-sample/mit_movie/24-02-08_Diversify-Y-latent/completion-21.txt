@@ -1,0 +1,8 @@
+Query: "what are some popular movies from the 1980s?"
+Named Entities: [1980s (Year)]
+
+Query: "can you recommend a family-friendly movie with a GP rating and featuring the song Livin' On a Prayer?"
+Named Entities: [GP (MPAA Rating), Livin' on a Prayer (Song)]
+
+Query: "who directed the movie Forrest Gump that does not have a specific rating?"
+Named Entities: [Forrest Gump (Title), NR (MPAA Rating)]

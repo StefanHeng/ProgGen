@@ -1,0 +1,8 @@
+1. Text Span: "Amazon"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Amazon"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.
+
+3. Text Span: "Mediterranean Sea"
+Label: (A). The span is a named entity of type location

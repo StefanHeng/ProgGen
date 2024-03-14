@@ -1,0 +1,8 @@
+1. Query: "I heard about a movie with a magical quest in 2021, can you tell me more about it?"
+Named Entities: [2021 (Year), magical quest (Plot)]
+
+2. Query: "Do you know if there's a spy movie called Fiona with good ratings?"
+Named Entities: [spy movie (Genre), Fiona (Title), good ratings (Viewers' Rating)]
+
+3. Query: "I'm curious to know if there are any highly-rated movies involving a character named Fiona."
+Named Entities: [highly-rated movies (Review), character named Fiona (Character)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any fine dining restaurants with a prix fixe menu?"
+Named Entities: [fine dining (Amenity), prix fixe menu (Price)]
+
+2. "I'm looking for a high-end restaurant with a 5-star rating and a location in downtown Manhattan"
+Named Entities: [high-end (Price), 5-star (Rating), downtown Manhattan (Location)]
+
+3. "What are the operating hours for Le Bernardin in Midtown?"
+Named Entities: [Le Bernardin (Restaurant Name), Midtown (Location), operating hours (Hours)]

@@ -1,0 +1,149 @@
+1. What is the rating for Parasite?
+   Named Entities: [Parasite (Title), rating (Viewers' Rating)]
+
+2. Show me movies directed by Christopher Nolan.
+   Named Entities: [Christopher Nolan (Director)]
+
+3. Can you tell me the year When Harry Met Sally was released?
+   Named Entities: [When Harry Met Sally (Title), year (Year)]
+
+4. Recommend an action movie from the 90s.
+   Named Entities: [action (Genre), 90s (Year)]
+
+5. Who stars in The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title)]
+
+6. Give me the plot of The Godfather.
+   Named Entities: [The Godfather (Title), plot (Plot)]
+
+7. Is Fight Club suitable for children?
+   Named Entities: [Fight Club (Title), suitable (MPAA Rating), children (Character)]
+
+8. Can I see a trailer for The Matrix?
+   Named Entities: [The Matrix (Title), trailer (Trailer)]
+
+9. What is the soundtrack for A Star is Born?
+   Named Entities: [A Star is Born (Title), soundtrack (Song)]
+
+10. Tell me about the director of Avatar.
+    Named Entities: [Avatar (Title), director (Director)]
+
+11. Is Inception a science fiction movie?
+    Named Entities: [Inception (Title), science fiction (Genre)]
+
+12. What's the viewers' rating of The Lord of the Rings trilogy?
+    Named Entities: [The Lord of the Rings (Title), viewers' rating (Viewers' Rating)]
+
+13. Can I watch the review for Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), review (Review)]
+
+14. Are there any historical movies featuring Cate Blanchett?
+    Named Entities: [historical (Genre), Cate Blanchett (Actor)]
+
+15. Who played the character Joker in The Dark Knight?
+    Named Entities: [Joker (Character), The Dark Knight (Title)]
+
+16. What song is featured in The Greatest Showman?
+    Named Entities: [The Greatest Showman (Title), song (Song)]
+
+17. What is the MPAA rating for The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+18. When did Steven Spielberg direct Jaws?
+    Named Entities: [Steven Spielberg (Director), Jaws (Title)]
+
+19. Show me a list of Quentin Tarantino movies.
+    Named Entities: [Quentin Tarantino (Director)]
+
+20. What year did The Shawshank Redemption come out?
+    Named Entities: [The Shawshank Redemption (Title), year (Year)]
+
+21. How about a good romance movie from the 80s?
+    Named Entities: [romance (Genre), 80s (Year)]
+
+22. What's the best-rated movie of all time?
+    Named Entities: [best-rated (Viewers' Rating)]
+
+23. Can you tell me the plot of Goodfellas?
+    Named Entities: [Goodfellas (Title), plot (Plot)]
+
+24. Is Blade Runner appropriate for kids?
+    Named Entities: [Blade Runner (Title), appropriate (MPAA Rating), kids (Character)]
+
+25. Could you play the trailer for Avatar?
+    Named Entities: [Avatar (Title), trailer (Trailer)]
+
+26. What songs are in the soundtrack for A Star is Born?
+    Named Entities: [A Star is Born (Title), soundtrack (Song)]
+
+27. Who directed Titanic?
+    Named Entities: [Titanic (Title), director (Director)]
+
+28. Is The Matrix a sci-fi movie?
+    Named Entities: [The Matrix (Title), sci-fi (Genre)]
+
+29. What's the viewers' rating for The Lord of the Rings trilogy?
+    Named Entities: [The Lord of the Rings (Title), viewers' rating (Viewers' Rating)]
+
+30. Can I see the review for Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), review (Review)]
+
+31. Are there any historical movies featuring Cate Blanchett?
+    Named Entities: [historical (Genre), Cate Blanchett (Actor)]
+
+32. Who played the character Joker in The Dark Knight?
+    Named Entities: [Joker (Character), The Dark Knight (Title)]
+
+33. What song is featured in The Greatest Showman?
+    Named Entities: [The Greatest Showman (Title), song (Song)]
+
+34. What is the MPAA rating for The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+35. When did Steven Spielberg direct Jaws?
+    Named Entities: [Steven Spielberg (Director), Jaws (Title)]
+
+36. Show me a list of Quentin Tarantino movies.
+    Named Entities: [Quentin Tarantino (Director)]
+
+37. What year did The Shawshank Redemption come out?
+    Named Entities: [The Shawshank Redemption (Title), year (Year)]
+
+38. How about a good romance movie from the 80s?
+    Named Entities: [romance (Genre), 80s (Year)]
+
+39. What's the best-rated movie of all time?
+    Named Entities: [best-rated (Viewers' Rating)]
+
+40. Can you tell me the plot of Goodfellas?
+    Named Entities: [Goodfellas (Title), plot (Plot)]
+
+41. Is Blade Runner appropriate for kids?
+    Named Entities: [Blade Runner (Title), appropriate (MPAA Rating), kids (Character)]
+
+42. Could you play the trailer for Avatar?
+    Named Entities: [Avatar (Title), trailer (Trailer)]
+
+43. What songs are in the soundtrack for A Star is Born?
+    Named Entities: [A Star is Born (Title), soundtrack (Song)]
+
+44. Who directed Titanic?
+    Named Entities: [Titanic (Title), director (Director)]
+
+45. Is The Matrix a sci-fi movie?
+    Named Entities: [The Matrix (Title), sci-fi (Genre)]
+
+46. What's the viewers' rating for The Lord of the Rings trilogy?
+    Named Entities: [The Lord of the Rings (Title), viewers' rating (Viewers' Rating)]
+
+47. Can I see the review for Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), review (Review)]
+
+48. Are there any historical movies featuring Cate Blanchett?
+    Named Entities: [historical (Genre), Cate Blanchett (Actor)]
+
+49. Who played the character Joker in The Dark Knight?
+    Named Entities: [Joker (Character), The Dark Knight (Title)]
+
+50. What song is featured in The Greatest Showman?
+    Named Entities: [The Greatest Showman (Title), song (Song)]

@@ -1,0 +1,11 @@
+1. Query: "What is the {{most extraordinary}} film ever made?"
+Text Span: "most extraordinary"
+Label: (A). The span is a named entity of type review
+
+2. Query: "Who directed the {{top action movie}} of the 1990s?"
+Text Span: "top action movie"
+Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "top action movie of the 1990s".
+
+3. Query: "can you recommend a {{captivating}} movie directed by Céline Sciamma"
+Text Span: "captivating"
+Label: (A). The span is a named entity of type review

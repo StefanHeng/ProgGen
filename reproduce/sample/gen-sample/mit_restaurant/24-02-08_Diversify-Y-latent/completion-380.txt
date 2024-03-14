@@ -1,0 +1,8 @@
+1. "Which restaurants offer pocket-friendly breakfast places on weekdays?"
+Named Entities: [pocket-friendly breakfast places (Amenity), weekdays (Hours)]
+
+2. "I'm craving some authentic Mexican cuisine, where can I find a place with good tacos nearby?"
+Named Entities: [authentic Mexican (Cuisine), tacos (Dish), nearby (Location)]
+
+3. "Can you recommend a highly-rated seafood restaurant with a waterfront location for a special occasion dinner?"
+Named Entities: [highly-rated (Rating), seafood (Cuisine), waterfront (Location), special occasion dinner (Amenity)]

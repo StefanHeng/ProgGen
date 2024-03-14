@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for the latest Star Wars movie?"
+   Named Entities: [Star Wars (Title), trailer (Trailer)]
+
+2. Query: "Which movie directed by Christopher Nolan has the highest viewers' rating?"
+   Named Entities: [Christopher Nolan (Director), viewers' rating (Review)]
+
+3. Query: "What are some must-see movies with Tom Hanks as the lead actor?"
+   Named Entities: [Tom Hanks (Actor), must-see (Viewers' Rating)]

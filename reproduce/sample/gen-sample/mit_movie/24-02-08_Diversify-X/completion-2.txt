@@ -1,0 +1,8 @@
+Query: "Can you tell me the plot of the latest Cinderella movie?"
+Named Entities: [Cinderella (Title)]
+
+Query: "Is there a movie directed by Greta Gerwig with a heartwarming storyline?"
+Named Entities: [Greta Gerwig (Director), heartwarming (Plot)]
+
+Query: "Which film featuring Zendaya has the most romantic plot?"
+Named Entities: [Zendaya (Actor), romantic (Plot)]

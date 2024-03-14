@@ -1,0 +1,8 @@
+1. Text Span: "CEO of Google"
+Label: (B). The correct span boundary is "CEO of Google" to "Google".
+
+2. Text Span: "Former President Obama"
+Label: (A).
+
+3. Text Span: "Taylor Swift"
+Label: (A).

@@ -1,0 +1,11 @@
+1. Query: "Is Lieutenant Dan in any {{award-winning}} movies?"
+Text Span: "award-winning"
+Label: (A). Named Entity of type Review
+
+2. Query: "Can you recommend an Urban Fantasy movie that is considered {{unpredictable}}"
+Text Span: "unpredictable"
+Label: (A). Named Entity of type Review
+
+3. Query: "which movie directed by Pharrell Williams has an {{8-star score}}"
+Text Span: "8-star score"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

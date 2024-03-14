@@ -1,0 +1,8 @@
+1. Query: "Can you show me a teaser for the upcoming Avengers movie"
+Named Entities: [teaser (Trailer), Avengers (Title)]
+
+2. Query: "I'm excited about the new Star Wars film, could you show me a sneak peek"
+Named Entities: [sneak peek (Trailer), Star Wars (Title)]
+
+3. Query: "I want to see a preview of the new Spider-Man movie, please"
+Named Entities: [preview (Trailer), Spider-Man (Title)]

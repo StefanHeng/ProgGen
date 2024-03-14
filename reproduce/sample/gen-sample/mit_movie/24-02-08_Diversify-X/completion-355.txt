@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with an epic soundtrack and action-packed scenes?"
+Named Entities: [epic soundtrack (Song), action-packed scenes (Plot)]
+
+Query: "Is there a movie with a heavy metal song in its soundtrack that has intense fight scenes?"
+Named Entities: [heavy metal song (Song), intense fight scenes (Plot)]
+
+Query: "What movie has the best rock music and high-energy concert scenes?"
+Named Entities: [rock music (Song), high-energy concert scenes (Plot)]

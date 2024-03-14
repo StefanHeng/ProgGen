@@ -1,0 +1,14 @@
+Query: "What is the viewers' rating for the movie The Devil Wears Prada starring Anne Hathaway"
+Named Entities: [The Devil Wears Prada (Title), Anne Hathaway (Actor)]
+
+Query: "Can I watch the preview trailer of the movie Billy Elliot directed by Stephen Daldry"
+Named Entities: [Billy Elliot (Title), Stephen Daldry (Director), Preview trailer (Trailer)]
+
+Query: "Are there any TV-Y rated movies that feature dance as the main theme"
+Named Entities: [TV-Y (MPAA Rating), dance (Plot)]
+
+Query: "Who is the director of the cinematic Wonder Woman movie featuring Patty Jenkins"
+Named Entities: [Wonder Woman (Title), Patty Jenkins (Director), cinematic (Plot)]
+
+Query: "Could you recommend a chilling horror film with Charlize Theron as the main lead"
+Named Entities: [chilling (Genre), Charlize Theron (Actor)]

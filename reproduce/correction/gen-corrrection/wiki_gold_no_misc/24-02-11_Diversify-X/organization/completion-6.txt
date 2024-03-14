@@ -1,0 +1,8 @@
+1. Text Span: "Harry Potter series"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Met Gala"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Greek mythology"
+Label: (C). Wrong Type. The correct entity type is other.

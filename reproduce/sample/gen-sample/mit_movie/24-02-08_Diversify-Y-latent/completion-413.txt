@@ -1,0 +1,8 @@
+1. Query: "What movie directed by John Favreau features cybercrime as the central plot?"
+   Named Entities: [John Favreau (Director), cybercrime (Plot)]
+
+2. Query: "I'm looking for a documentary film about the life of a famous undercover cop."
+   Named Entities: [documentary (Genre), famous (Viewers' Rating), undercover cop (Character)]
+
+3. Query: "Is The Exorcist known for mixed reviews related to its fame?"
+   Named Entities: [Mixed reviews (Review), The Exorcist (Title), fame (Plot)]

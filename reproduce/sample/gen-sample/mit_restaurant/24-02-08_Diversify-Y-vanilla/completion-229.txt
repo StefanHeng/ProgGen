@@ -1,0 +1,8 @@
+Query: "what’s the best sushi place in town?"
+Named Entities: [best (Rating), sushi (Cuisine), town (Location)]
+
+Query: "show me a restaurant with outdoor seating"
+Named Entities: [outdoor seating (Amenity)]
+
+Query: "where can I find a 24-hour diner nearby?"
+Named Entities: [24-hour (Hours), diner (Restaurant Name), nearby (Location)]

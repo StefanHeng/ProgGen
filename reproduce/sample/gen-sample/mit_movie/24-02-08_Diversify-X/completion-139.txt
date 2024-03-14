@@ -1,0 +1,8 @@
+Query: "Can you tell me about the making-of process for the latest Mission: Impossible movie?"
+Named Entities: [making-of process (Plot), Mission: Impossible (Title)]
+
+Query: "Show me a movie with the behind-the-scenes footage of a famous action sequence."
+Named Entities: [behind-the-scenes footage (Plot), action sequence (Plot)]
+
+Query: "I want to learn more about the special effects in a recent fantasy film."
+Named Entities: [special effects (Plot), fantasy (Genre)]

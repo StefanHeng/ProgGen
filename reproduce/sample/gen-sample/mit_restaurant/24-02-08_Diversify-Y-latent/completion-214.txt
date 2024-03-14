@@ -1,0 +1,8 @@
+1. "Can you recommend a sushi restaurant with a rating of at least 4 stars?"
+Named Entities: [sushi (Cuisine), at least 4 stars (Rating)]
+
+2. "What are the operating hours for Italian Kitchen in downtown?"
+Named Entities: [Italian Kitchen (Restaurant Name), downtown (Location), operating hours (Hours)]
+
+3. "I'm craving some Mexican food, where can I find a place with outdoor seating?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]

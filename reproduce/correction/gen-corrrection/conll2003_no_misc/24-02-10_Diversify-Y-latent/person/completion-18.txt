@@ -1,0 +1,11 @@
+1. Sentence: "The {{CEO}} of Apple Inc. announces a new product launch event."
+Text Span: "CEO"
+Label: (D). Not a Named Entity
+
+2. Sentence: "{{Greta Thunberg}} announces new climate change initiative."
+Text Span: "Greta Thunberg"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Raf Simons}} named creative director of fashion house."
+Text Span: "Raf Simons"
+Label: (A). The span is a named entity of type person

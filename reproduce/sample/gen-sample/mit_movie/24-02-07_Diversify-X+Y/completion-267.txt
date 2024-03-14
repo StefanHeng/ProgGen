@@ -1,0 +1,8 @@
+1. "Hey, what's the deal with The Shawshank Redemption? Did it win any major awards?"
+Named Entities: [The Shawshank Redemption (Title), Awards]
+
+2. "Have you seen any movie from 1956 that got an NC-17 rating? That must've been scandalous!"
+Named Entities: [1956 (Year), NC-17 (MPAA Rating)]
+
+3. "I heard Lady Gaga is starring in a new film directed by Oliver Stone. What's it about and has it received any nominations yet?"
+Named Entities: [Lady Gaga (Actor), Oliver Stone (Director), Nominations]

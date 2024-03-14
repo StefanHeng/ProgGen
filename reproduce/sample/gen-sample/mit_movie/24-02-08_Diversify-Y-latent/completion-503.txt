@@ -1,0 +1,8 @@
+1. "What type of movie genre is the perfect weapon directed by Ethan Coen"
+   Named Entities: [the perfect weapon (Title), Ethan Coen (Director)]
+
+2. "Show me a movie with the song A Whole New World by Randy Newman"
+   Named Entities: [A Whole New World (Song), Randy Newman (Song)]
+
+3. "What TV-MA movie directed by Niki Caro is commended by critics and industry professionals"
+   Named Entities: [TV-MA (MPAA Rating), Niki Caro (Director), Commended by critics and industry professionals (Review)]

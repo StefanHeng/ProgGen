@@ -1,0 +1,8 @@
+1. "Which critically acclaimed movies from 1980 to 1985 have Yorgos Lanthimos directed?"
+Named Entities: [critically acclaimed (Review), 1980-1985 (Year), Yorgos Lanthimos (Director)]
+
+2. "Can you recommend any disaster movies that were nominated for awards?"
+Named Entities: [disaster (Plot), nominated for awards (Awards)]
+
+3. "I'm looking for movies involving Hannibal Lecter; are there any directed by Spike Jonze?"
+Named Entities: [Hannibal Lecter (Character), Spike Jonze (Director)]

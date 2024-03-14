@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any restaurants in Honolulu that serve authentic Hawaiian cuisine?"
+   Named Entities: [Honolulu (Location), authentic Hawaiian cuisine (Cuisine)]
+
+2. Query: "What are the operating hours for the Italian restaurant near my hotel in Honolulu?"
+   Named Entities: [Italian restaurant (Cuisine), near my hotel (Location), Honolulu (Location), operating hours (Hours)]
+
+3. Query: "I'm looking for a budget-friendly sushi place in Honolulu with a high rating."
+   Named Entities: [budget-friendly (Price), sushi (Cuisine), high rating (Rating), Honolulu (Location)]

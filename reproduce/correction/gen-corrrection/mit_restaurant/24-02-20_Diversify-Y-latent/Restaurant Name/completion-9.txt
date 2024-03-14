@@ -1,0 +1,11 @@
+1. Query: "I'm craving some wine, can you recommend a place like {{Cooper's Hawk Winery & Restaurants}}"
+Text Span: "Cooper's Hawk Winery & Restaurants"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What are the hours for the {{burger joint}} On the Border?"
+Text Span: "burger joint"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Query: "I heard there's a {{new New Zealand restaurant}} in town, can you help me find it?"
+Text Span: "new New Zealand restaurant"
+Label: (A). The span is a named entity of type restaurant name

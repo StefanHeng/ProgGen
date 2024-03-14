@@ -1,0 +1,8 @@
+Query: "Can I find the groundbreaking movie 12 Years a Slave on any streaming platform?"
+Named Entities: [12 Years a Slave (Title), groundbreaking (Review), Streaming platform (Genre)]
+
+Query: "Is there an exclusive look at the new World War II movie available on any streaming platform?"
+Named Entities: [exclusive look (Trailer), World War II (Genre), Streaming platform (Title)]
+
+Query: "Are there any 1960s movies with strong female characters available for streaming?"
+Named Entities: [1960s (Year), strong female characters (Character), Streaming platform (Plot)]

@@ -1,0 +1,9 @@
+1. Text Span: "Apple Inc."
+Label: (A)
+
+2. Text Span: "president"
+Label: (C) 
+Correct entity type: person
+
+3. Text Span: "Apple"
+Label: (A)

@@ -1,0 +1,8 @@
+1. "What food trucks in the area serve kosher dishes?"
+Named Entities: [food trucks (Amenity), kosher (Cuisine)]
+
+2. "Where can I find a kosher food truck with a high rating?"
+Named Entities: [kosher (Cuisine), high rating (Rating)]
+
+3. "Which food truck offers kosher meals for a reasonable price?"
+Named Entities: [kosher (Cuisine), reasonable price (Price)]

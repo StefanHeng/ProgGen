@@ -1,0 +1,8 @@
+1. "Can you tell me the director of the movie Inception?"
+Named Entities: [Inception (Title), director (Director)]
+
+2. "What is the viewers' rating for the film The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+3. "Which actor played the lead role in the film The Godfather?"
+Named Entities: [The Godfather (Title), lead role (Character)]

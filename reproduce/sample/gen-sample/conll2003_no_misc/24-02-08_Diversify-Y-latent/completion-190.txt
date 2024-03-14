@@ -1,0 +1,8 @@
+Sentence: "Dubai International Airport ranked as the world's busiest airport for international travel in 2020."
+Named Entities: [Dubai International Airport (location)]
+
+Sentence: "United Arab Emirates to invest $10 billion in renewable energy sector."
+Named Entities: [United Arab Emirates (location)]
+
+Sentence: "Lima, Peru experiences record high temperatures during summer heatwave."
+Named Entities: [Lima (location), Peru (location)]

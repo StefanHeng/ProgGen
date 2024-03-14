@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with valet parking and a mid-range price for dinner tonight?"
+Named Entities: [valet parking (Amenity), mid-range (Price), dinner (Amenity)]
+
+2. "Where can I find a mid-range restaurant with valet parking for dinner in this area?"
+Named Entities: [mid-range (Price), valet parking (Amenity), dinner (Amenity), area (Location)]
+
+3. "I'm looking for a dinner spot with valet parking and mid-range pricing, any suggestions?"
+Named Entities: [dinner (Amenity), valet parking (Amenity), mid-range (Price)]

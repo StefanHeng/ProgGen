@@ -1,0 +1,8 @@
+1. Text Span: "top-rated"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "best"
+Label: (C). Wrong Type. The correct entity type is Review.
+
+3. Text Span: "mixed reviews"
+Label: (A). Correct Entity Annotation.

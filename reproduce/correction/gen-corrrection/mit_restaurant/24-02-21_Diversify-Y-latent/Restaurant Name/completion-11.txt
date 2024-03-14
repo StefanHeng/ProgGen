@@ -1,0 +1,11 @@
+1. Query: "What are the operating hours for the {{burger joint}} downtown?"
+Text Span: "burger joint"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "I'm in the mood for some upscale dining tonight, where can I find a reservation at {{Blue Hill at Stone Barns}}?"
+Text Span: "Blue Hill at Stone Barns"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "I'm in the mood for sushi, can you recommend a {{sushi bar}} with outdoor seating?"
+Text Span: "sushi bar"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

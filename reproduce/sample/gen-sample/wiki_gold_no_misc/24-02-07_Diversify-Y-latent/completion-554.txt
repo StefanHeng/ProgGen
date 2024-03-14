@@ -1,0 +1,8 @@
+Sentence: "The University of Oxford is a collegiate research university in Oxford, England."
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+
+Sentence: "In 2019, American singer Taylor Swift released her album Lover, which received critical acclaim."
+Named Entities: [Taylor Swift (person)]
+
+Sentence: "The International Red Cross and Red Crescent Movement is an international humanitarian movement with approximately 100 million volunteers, members and staff worldwide."
+Named Entities: [International Red Cross and Red Crescent Movement (organization)]

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some sushi, where can I find a place with a sushi bar [Closing soon]?"
+Named Entities: [sushi (Cuisine), Closing soon (Hours)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a view of the sea [Closing soon]?"
+Named Entities: [outdoor seating (Amenity), view of the sea (Location), Closing soon (Hours)]
+
+Query: "I want to try some authentic Italian pasta, do you know a place with good reviews and reasonable prices [Closing soon]?"
+Named Entities: [Italian (Cuisine), pasta (Dish), good reviews (Rating), reasonable prices (Price), Closing soon (Hours)]

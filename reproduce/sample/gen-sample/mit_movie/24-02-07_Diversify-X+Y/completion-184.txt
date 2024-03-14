@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Terry Gilliam that has a high viewers' rating?"
+   Named Entities: [Terry Gilliam (Director)]
+
+2. "Show me a movie featuring Sarah Connor and rated R."
+   Named Entities: [Sarah Connor (Character), R (MPAA Rating)]
+
+3. "What's the viewers' rating for The Sound of Music?"
+   Named Entities: [The Sound of Music (Title), viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the movie Sleepless in Seattle?"
+Named Entities: [Sleepless in Seattle (Title), plot (Plot)]
+
+2. "What movie with romance as the genre has a captivating and heartwarming plot?"
+Named Entities: [romance (Genre), captivating (Plot), heartwarming (Plot)]
+
+3. "Could you recommend a movie directed by Nora Ephron with a plot that involves a love story?"
+Named Entities: [Nora Ephron (Director), love story (Plot)]

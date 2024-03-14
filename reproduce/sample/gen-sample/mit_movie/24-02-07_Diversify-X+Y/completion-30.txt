@@ -1,0 +1,8 @@
+1. Query: "I'm bored, can you tell me if the theatrical trailer for any Martin Scorsese movie is available to stream?"
+Named Entities: [theatrical trailer (Trailer), Martin Scorsese (Director)]
+
+2. Query: "Hey, I'm feeling a bit bored, can you find me a movie directed by JJ Abrams that I can watch on a streaming platform?"
+Named Entities: [JJ Abrams (Director)]
+
+3. Query: "I'm so bored, is there a Martin Scorsese movie with a great plot available on any streaming platform?"
+Named Entities: [Martin Scorsese (Director)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any moderate-priced eateries with waterfront views in the area?"
+Named Entities: [moderate-priced eateries (Price), waterfront (Location)]
+
+2. "Where are the low-priced burger joints located?"
+Named Entities: [low-priced burger joints (Price)]
+
+3. "I'm craving some seafood. Any good waterfront restaurants nearby?"
+Named Entities: [seafood (Cuisine), waterfront (Location)]

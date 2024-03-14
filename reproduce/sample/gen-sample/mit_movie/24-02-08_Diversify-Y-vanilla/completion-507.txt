@@ -1,0 +1,8 @@
+1. Query: "Could you show me the trailer for the upcoming releases in The Twilight Saga?"
+Named Entities: [trailer (Trailer), upcoming releases (Title), The Twilight Saga (Title)]
+
+2. Query: "What film in The Twilight Saga has the best viewers' rating?"
+Named Entities: [The Twilight Saga (Title), best (Review), viewers' rating (Viewers' Rating)]
+
+3. Query: "Who directed the most recent movie in The Twilight Saga?"
+Named Entities: [directed (Director), most recent (Year), The Twilight Saga (Title)]

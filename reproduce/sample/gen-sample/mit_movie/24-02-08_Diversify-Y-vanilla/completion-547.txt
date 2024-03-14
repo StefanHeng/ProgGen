@@ -1,0 +1,8 @@
+Query: "can you recommend a movie with a strong female lead"
+Named Entities: [strong female lead (Character)]
+
+Query: "show me a political thriller that came out in the 1990s"
+Named Entities: [political thriller (Genre), 1990s (Year)]
+
+Query: "what's the highest rated movie directed by christopher nolan"
+Named Entities: [highest rated (Viewers' Rating), christopher nolan (Director)]

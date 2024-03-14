@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food restaurant with breakfast hours?"
+Named Entities: [fast food (Cuisine), breakfast hours (Hours)]
+
+2. "I'm craving some breakfast items from a fast food place, any suggestions?"
+Named Entities: [breakfast items (Dish), fast food (Cuisine)]
+
+3. "What fast food joint around here serves breakfast in the morning?"
+Named Entities: [fast food (Cuisine), breakfast (Amenity), morning (Hours)]

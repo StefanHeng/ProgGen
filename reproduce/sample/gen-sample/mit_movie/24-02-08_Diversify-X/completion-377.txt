@@ -1,0 +1,8 @@
+Query: "what movie features the song my heart will go on"
+Named Entities: [my heart will go on (Song)]
+
+Query: "can you recommend a film with an iconic soundtrack"
+Named Entities: [iconic (Review)]
+
+Query: "who directed the movie that features the song eye of the tiger"
+Named Entities: [eye of the tiger (Song)]

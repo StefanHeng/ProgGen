@@ -1,0 +1,8 @@
+1. "Can you recommend any movies with world-building that are suitable for adults?"
+Named Entities: [world-building (Genre), suitable for adults (MPAA Rating)]
+
+2. "I want to see a James Cameron film with a theatrical trailer, can you help me with that?"
+Named Entities: [James Cameron (Director), theatrical trailer (Trailer)]
+
+3. "Please show me a zombie movie related to organized crime."
+Named Entities: [zombie (Genre), organized crime (Plot)]

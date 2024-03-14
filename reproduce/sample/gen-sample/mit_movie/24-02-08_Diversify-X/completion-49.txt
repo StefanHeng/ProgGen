@@ -1,0 +1,8 @@
+1. "Can you tell me about the making-of the newest Star Wars movie?"
+   Named Entities: [newest Star Wars movie (Title), making-of (Plot)]
+
+2. "Is there a documentary about the special effects in the Marvel superhero movies?"
+   Named Entities: [special effects (Plot), Marvel superhero movies (Title), documentary (Genre)]
+
+3. "I'm looking for a film that shows the director's cut and deleted scenes from The Dark Knight."
+   Named Entities: [director's cut (Plot), deleted scenes (Plot), The Dark Knight (Title)]

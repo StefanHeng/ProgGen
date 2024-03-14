@@ -1,0 +1,8 @@
+1. Text Span: "supernatural thriller"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "lead"
+Label: (C). The span is a named entity but the category is not genre. Entity Type: Character
+
+3. Text Span: "animated"
+Label: (A). The span is a named entity of type genre

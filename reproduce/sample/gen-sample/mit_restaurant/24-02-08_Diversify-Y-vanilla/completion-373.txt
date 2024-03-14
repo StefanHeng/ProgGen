@@ -1,0 +1,8 @@
+Query: "Where can I find low calorie options for lunch in this area?"
+Named Entities: [low calorie (Amenity), lunch (Hours), this area (Location)]
+
+Query: "Do you know any restaurants with a good kids menu nearby?"
+Named Entities: [good (Rating), kids menu (Amenity), nearby (Location)]
+
+Query: "Can you recommend any top-tier restaurants for dinner tonight?"
+Named Entities: [top-tier restaurants (Rating), dinner (Hours), tonight (Hours)]

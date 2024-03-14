@@ -1,0 +1,8 @@
+1. "Can you recommend any Syrian restaurants with a high rating?"
+Named Entities: [Syrian (Cuisine), high rating (Rating)]
+
+2. "What are the operating hours for the closest Syrian restaurant?"
+Named Entities: [closest (Location), Syrian (Cuisine), operating hours (Hours)]
+
+3. "I'm looking for a reasonably priced Syrian restaurant in the downtown area."
+Named Entities: [reasonably priced (Price), Syrian (Cuisine), downtown area (Location)]

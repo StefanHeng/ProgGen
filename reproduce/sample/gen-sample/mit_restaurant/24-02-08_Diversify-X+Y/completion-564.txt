@@ -1,0 +1,8 @@
+Query: "Can you recommend a sushi restaurant in Sydney with a reasonable price range for dinner?"
+Named Entities: [sushi (Cuisine), Sydney (Location), reasonable (Price), dinner (Amenity)]
+
+Query: "I'm looking for a mid-range sushi place in Sydney with a last call for dinner."
+Named Entities: [sushi (Cuisine), mid-range (Price), Sydney (Location), last call (Hours), dinner (Amenity)]
+
+Query: "Where can I find a sushi restaurant with a mid-range price for dinner in Sydney?"
+Named Entities: [sushi (Cuisine), mid-range (Price), dinner (Amenity), Sydney (Location)]

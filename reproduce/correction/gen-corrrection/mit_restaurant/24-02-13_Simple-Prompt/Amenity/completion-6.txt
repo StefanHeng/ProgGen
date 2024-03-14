@@ -1,0 +1,8 @@
+1. Text Span: "reservation for a group of 6"
+Label: (B). The correct span boundary is "reservation for a group of 6". The correct entity type is Hours.
+
+2. Text Span: "dinner"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "breakfast"
+Label: (A). Correct Entity Annotation.

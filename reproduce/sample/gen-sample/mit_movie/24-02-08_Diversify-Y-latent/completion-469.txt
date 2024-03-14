@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the film starring Hermione Granger?"
+Named Entities: [Hermione Granger (Character), viewers' rating (Review)]
+
+2. Query: "Show me a PG-rated movie directed by Michael Fassbender"
+Named Entities: [PG (MPAA Rating), Michael Fassbender (Director)]
+
+3. Query: "Could you recommend a unique unrated movie for me to watch?"
+Named Entities: [unique (Viewers' Rating), unrated (MPAA Rating)]

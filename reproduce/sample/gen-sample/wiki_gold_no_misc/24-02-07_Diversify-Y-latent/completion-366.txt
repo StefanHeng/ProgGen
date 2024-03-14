@@ -1,0 +1,8 @@
+Sentence: Jeff Corwin is an American wildlife biologist, television producer, and host who is known for his TV shows The Jeff Corwin Experience and Corwin's Quest.
+Named Entities: [Jeff Corwin (person)]
+
+Sentence: The National Museum of Natural History is located in Washington, D.C., and is administered by the Smithsonian Institution.
+Named Entities: [National Museum of Natural History (organization), Washington, D.C. (location), Smithsonian Institution (organization)]
+
+Sentence: In 2008, she was named the recipient of the Presidential Medal of Freedom by President George W. Bush.
+Named Entities: [Presidential Medal of Freedom (organization), George W. Bush (person)]

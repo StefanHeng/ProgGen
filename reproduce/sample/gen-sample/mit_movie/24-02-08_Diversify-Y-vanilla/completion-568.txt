@@ -1,0 +1,8 @@
+1. "Can you recommend a G-rated movie with unforgettable performances?"
+Named Entities: [G (MPAA Rating), unforgettable performances (Viewers' Rating)]
+
+2. "Do you have an extended trailer for the new superhero movie?"
+Named Entities: [extended trailer (Trailer), superhero (Genre)]
+
+3. "What is the best action movie of the 1990s with a killer soundtrack?"
+Named Entities: [best action movie (Review), 1990s (Year), killer soundtrack (Viewers' Rating)]

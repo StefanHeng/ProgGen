@@ -1,0 +1,8 @@
+1. "Can you recommend any Chinese restaurants with a good lunch menu around here?" 
+Named Entities: [Chinese (Cuisine), lunch (Amenity), around here (Location)]
+
+2. "I'm looking for a place to eat with outdoor seating and a view of the ocean." 
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]
+
+3. "What are the opening hours for the Italian restaurant on Main Street?" 
+Named Entities: [opening hours (Hours), Italian (Cuisine), Main Street (Location)]

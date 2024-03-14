@@ -1,0 +1,8 @@
+1. "I'm craving some Korean barbecue from a food truck, do you know any place that offers low-carb options and delivers?"
+Named Entities: [Korean (Cuisine), food truck (Amenity), low-carb (Amenity), delivers (Amenity)]
+
+2. "Where can I find a food truck specializing in Korean cuisine that delivers and has low-carb options?"
+Named Entities: [Korean (Cuisine), food truck (Amenity), delivers (Amenity), low-carb (Amenity)]
+
+3. "Can you recommend a food truck with Korean dishes that cater to low-carb diets and provide delivery service?"
+Named Entities: [Korean (Cuisine), food truck (Amenity), low-carb (Amenity), delivery (Amenity)]

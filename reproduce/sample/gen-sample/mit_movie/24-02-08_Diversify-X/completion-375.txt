@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which film has received the highest viewers' rating recently?"
+Named Entities: [highest viewers' rating (Review)]
+
+2. Query: "I'm curious about the type of movie that Quentin Tarantino directed in 2019, can you provide some information?"
+Named Entities: [Quentin Tarantino (Director), 2019 (Year)]
+
+3. Query: "I'm looking for a classic movie that has an iconic song in it, any recommendations?"
+Named Entities: [iconic song (Song)]

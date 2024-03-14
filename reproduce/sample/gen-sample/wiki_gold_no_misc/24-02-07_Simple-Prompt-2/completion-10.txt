@@ -1,0 +1,149 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+2. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+3. She worked at the United Nations in New York City.
+Named Entities: [United Nations (organization), New York City (location)]
+
+4. Albert Einstein's theory of relativity changed the way we understand the universe.
+Named Entities: [Albert Einstein (person)]
+
+5. The Great Wall of China is the world's longest wall and biggest ancient architecture.
+Named Entities: [Great Wall of China (location)]
+
+6. NASA, the National Aeronautics and Space Administration, is responsible for the United States' civilian space program.
+Named Entities: [NASA (organization), United States (location)]
+
+7. He received the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect.
+Named Entities: [Nobel Prize (organization)]
+
+8. The University of Oxford is the oldest university in the English-speaking world.
+Named Entities: [University of Oxford (organization), English-speaking world (location)]
+
+9. The Mona Lisa is a famous painting created by Leonardo da Vinci.
+Named Entities: [Mona Lisa (person), Leonardo da Vinci (person)]
+
+10. The Statue of Liberty was a gift from France to the United States in 1886.
+Named Entities: [Statue of Liberty (location), France (location), United States (location)]
+
+11. Marie Curie was the first woman to win a Nobel Prize, and the only person to win Nobel Prizes in two different scientific fields.
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+
+12. The Amazon Rainforest is the world's largest tropical rainforest, covering most of the Amazon Basin in South America.
+Named Entities: [Amazon Rainforest (location), Amazon Basin (location), South America (location)]
+
+13. He founded the Ford Motor Company and developed the assembly line technique of mass production.
+Named Entities: [Ford Motor Company (organization)]
+
+14. The Parthenon is an ancient temple located on the Acropolis in Athens, Greece.
+Named Entities: [Parthenon (location), Acropolis (location), Athens (location), Greece (location)]
+
+15. Aristotle was a Greek philosopher and polymath during the Classical period in Ancient Greece.
+Named Entities: [Aristotle (person), Ancient Greece (location)]
+
+16. The Louvre Museum is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+17. She is the CEO of Apple Inc., a multinational technology company headquartered in Cupertino, California.
+Named Entities: [Apple Inc. (organization), Cupertino (location), California (location)]
+
+18. The Taj Mahal is a white marble mausoleum located in Agra, India.
+Named Entities: [Taj Mahal (location), Agra (location), India (location)]
+
+19. Mark Zuckerberg is the founder and CEO of Facebook, a social media company based in Menlo Park, California.
+Named Entities: [Mark Zuckerberg (person), Facebook (organization), Menlo Park (location), California (location)]
+
+20. The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.
+Named Entities: [Continental Congress (organization)]
+
+21. The Kremlin is a historic fortified complex at the heart of Moscow, Russia.
+Named Entities: [Kremlin (location), Moscow (location), Russia (location)]
+
+22. Thomas Edison invented the light bulb and held over a thousand patents in various fields.
+Named Entities: [Thomas Edison (person)]
+
+23. The Sahara Desert is the largest hot desert in the world, located in North Africa.
+Named Entities: [Sahara Desert (location), North Africa (location)]
+
+24. Leonardo da Vinci was a Renaissance polymath who made significant contributions to art, science, and anatomy.
+Named Entities: [Leonardo da Vinci (person), Renaissance (location)]
+
+25. The United Nations was established to promote international cooperation and maintain peace and security.
+Named Entities: [United Nations (organization)]
+
+26. Emperor Qin Shi Huang ordered the construction of the Great Wall of China.
+Named Entities: [Emperor Qin Shi Huang (person), Great Wall of China (location)]
+
+27. The Sydney Opera House is a famous performing arts venue in Sydney, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location)]
+
+28. Amelia Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+Named Entities: [Amelia Earhart (person), Atlantic Ocean (location)]
+
+29. The Sistine Chapel is a renowned chapel located in Vatican City, famous for its ceiling painted by Michelangelo.
+Named Entities: [Sistine Chapel (location), Vatican City (location), Michelangelo (person)]
+
+30. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+
+31. Martin Luther King Jr. was a prominent leader in the American civil rights movement.
+Named Entities: [Martin Luther King Jr. (person), American civil rights movement (organization)]
+
+32. The Colosseum is an ancient amphitheater located in the center of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+33. Beethoven composed some of the greatest musical works in history, despite becoming deaf later in life.
+Named Entities: [Beethoven (person)]
+
+34. The Nile River is the longest river in the world, flowing through northeastern Africa.
+Named Entities: [Nile River (location), Africa (location)]
+
+35. Marie Antoinette was the last Queen of France before the French Revolution.
+Named Entities: [Marie Antoinette (person), France (location), French Revolution (organization)]
+
+36. The Microsoft Corporation was founded by Bill Gates and Paul Allen in 1975.
+Named Entities: [Microsoft Corporation (organization), Bill Gates (person), Paul Allen (person)]
+
+37. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+38. Alexander Graham Bell invented the first practical telephone in 1876.
+Named Entities: [Alexander Graham Bell (person)]
+
+39. The Roman Empire was one of the most powerful economic, cultural, and military forces in the world.
+Named Entities: [Roman Empire (organization)]
+
+40. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex.
+Named Entities: [Great Pyramid of Giza (location), Giza pyramid complex (location)]
+
+41. Muhammad Ali was a legendary boxer and activist known for his charismatic personality and fighting skills.
+Named Entities: [Muhammad Ali (person)]
+
+42. Machu Picchu is an ancient Inca city located in the Andes Mountains of Peru.
+Named Entities: [Machu Picchu (location), Inca (organization), Andes Mountains (location), Peru (location)]
+
+43. Beethoven's Symphony No. 9 is considered one of the greatest works in the history of music.
+Named Entities: [Beethoven (person)]
+
+44. The Louvre Museum houses thousands of works of art, including the famous Mona Lisa.
+Named Entities: [Louvre Museum (organization), Mona Lisa (person)]
+
+45. The Panama Canal is a key conduit for international maritime trade, connecting the Atlantic and Pacific Oceans.
+Named Entities: [Panama Canal (location), Atlantic Ocean (location), Pacific Ocean (location)]
+
+46. Queen Elizabeth II is the longest-reigning monarch in British history.
+Named Entities: [Queen Elizabeth II (person), British (location)]
+
+47. Pablo Picasso was an influential artist known for co-founding the Cubist movement in modern art.
+Named Entities: [Pablo Picasso (person), Cubist (organization)]
+
+48. The Pyramids of Giza were built as tombs for the pharaohs of ancient Egypt.
+Named Entities: [Pyramids of Giza (location), ancient Egypt (location)]
+
+49. The White House is the official residence and workplace of the President of the United States.
+Named Entities: [White House (location), President of the United States (organization)]
+
+50. The eruption of Mount Vesuvius in 79 AD buried the Roman city of Pompeii under volcanic ash and pumice.
+Named Entities: [Mount Vesuvius (location), Pompeii (location), Roman (location)]

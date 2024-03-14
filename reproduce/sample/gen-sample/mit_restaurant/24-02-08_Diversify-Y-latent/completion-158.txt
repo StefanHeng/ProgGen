@@ -1,0 +1,8 @@
+1. "What are the top-rated late-night dining options in the vicinity?"
+   Named Entities: [Top-rated late-night dining (Amenity), vicinity (Location)]
+
+2. "I'm craving a burrito, where can I find the nearest Chipotle?"
+   Named Entities: [burrito (Dish), nearest (Location), Chipotle (Restaurant Name)]
+
+3. "Do you know if Huddle House serves breakfast all day or if they have specific hours for it?"
+   Named Entities: [serves breakfast all day (Hours), Huddle House (Restaurant Name)]

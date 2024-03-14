@@ -1,0 +1,8 @@
+Query: "where can I have a breakfast tasting menu with affordable prices"
+Named Entities: [breakfast (Amenity), tasting menu (Amenity), affordable prices (Price)]
+
+Query: "find a restaurant with business hours for breakfast tasting menu"
+Named Entities: [business hours (Hours), breakfast (Amenity), tasting menu (Amenity)]
+
+Query: "which restaurant offers breakfast tasting menus with affordable prices and business hours"
+Named Entities: [breakfast (Amenity), tasting menu (Amenity), affordable prices (Price), business hours (Hours)]

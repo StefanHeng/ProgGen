@@ -1,0 +1,8 @@
+1. "Hey, can you recommend a movie with Octavia Spencer in a leading role? I'm really into the Golden Age films."
+Named Entities: [Octavia Spencer (Actor), Golden Age (Genre)]
+
+2. "What's a good family-friendly movie like The Lion King, but with a zombie twist? I'm looking for something that's rated PG and got a thumbs up from critics."
+Named Entities: [The Lion King (Title), Zombie (Genre), PG (MPAA Rating), thumbs up (Review)]
+
+3. "I'm in the mood for a movie that's light-hearted and fun. Can you suggest a film with a strong female lead in the comedy genre?"
+Named Entities: [comedy (Genre)]

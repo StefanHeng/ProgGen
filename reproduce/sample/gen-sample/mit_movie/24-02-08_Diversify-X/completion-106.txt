@@ -1,0 +1,8 @@
+1. Query: "I'm not sure where to watch the movie The Shawshank Redemption, can you tell me?"
+Named Entities: [The Shawshank Redemption (Title)]
+
+2. Query: "I'm not sure if I should watch a comedy or a thriller, do you have any recommendations of movies available on streaming platforms?"
+Named Entities: [comedy (Genre), thriller (Genre)]
+
+3. Query: "I can't decide what to watch tonight, is there a popular movie from the 90s available for streaming?"
+Named Entities: [90s (Year)]

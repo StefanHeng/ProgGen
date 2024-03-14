@@ -1,0 +1,8 @@
+1. Text Span: "holiday season"
+Label: (C). The span is a named entity but the category is not location. Entity type: organization
+
+2. Text Span: "Tokyo"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Smithfield Farmers' Market"
+Label: (A). The span is a named entity of type location

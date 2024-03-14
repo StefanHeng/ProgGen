@@ -1,0 +1,8 @@
+1. Query: "What are some 5-star rating movies directed by Christopher Nolan?"
+Named Entities: [5-star rating (Viewers' Rating), Christopher Nolan (Director)]
+
+2. Query: "Show me a 5-star rating movie from the 1990s with a plot about time travel"
+Named Entities: [5-star rating (Viewers' Rating), 1990s (Year), time travel (Plot)]
+
+3. Query: "Can you recommend a 5-star rating comedy movie featuring Will Ferrell?"
+Named Entities: [5-star rating (Viewers' Rating), comedy (Genre), Will Ferrell (Actor)]

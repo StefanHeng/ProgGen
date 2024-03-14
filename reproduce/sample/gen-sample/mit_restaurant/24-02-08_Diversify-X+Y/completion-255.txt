@@ -1,0 +1,8 @@
+1. "Can you recommend a trendy food truck in Downtown with a diverse menu?"
+Named Entities: [Downtown(Location), food truck(Cuisine), diverse menu(Amenity)]
+
+2. "What are the operating hours of the popular food truck in Downtown known for its unique dishes?"
+Named Entities: [Downtown(Location), popular(Rating), food truck(Cuisine), unique dishes(Dish), operating hours(Hours)]
+
+3. "I'm looking for a budget-friendly food truck with a lively ambience in Downtown. Any suggestions?"
+Named Entities: [Downtown(Location), budget-friendly(Price), food truck(Cuisine), lively ambience(Amenity)]

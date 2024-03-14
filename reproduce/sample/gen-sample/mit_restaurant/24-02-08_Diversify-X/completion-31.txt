@@ -1,0 +1,8 @@
+Query: "find a fast food restaurant with special discounts for delivery"
+Named Entities: [fast food (Cuisine), special discounts (Amenity), delivery (Amenity)]
+
+Query: "which fast food places are offering delivery and have special deals right now"
+Named Entities: [fast food (Cuisine), delivery (Amenity), special deals (Amenity)]
+
+Query: "I'm in the mood for fast food, can you recommend a place with delivery and special offers"
+Named Entities: [fast food (Cuisine), delivery (Amenity), special offers (Amenity)]

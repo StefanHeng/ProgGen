@@ -1,0 +1,11 @@
+1. Query: "What are your thoughts on the new {{Thai}} place that opened last week?"
+Text Span: "Thai"
+Label: (A). Correct Entity Annotation
+
+2. Query: "Where can I find some delicious {{sushi}} in this area?"
+Text Span: "sushi"
+Label: (A). Correct Entity Annotation
+
+3. Query: "I'm in the mood for tapas, where can I find a good {{tapas}} bar?"
+Text Span: "tapas"
+Label: (A). Correct Entity Annotation

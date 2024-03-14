@@ -1,0 +1,8 @@
+Query: "I'm looking for a romantic lunch spot, maybe with some outdoor seating, near Panera Bread."
+Named Entities: [romantic (Amenity), outdoor seating (Amenity), Panera Bread (Restaurant Name)]
+
+Query: "Can you recommend a romantic lunch place around Panera Bread that serves Italian cuisine?"
+Named Entities: [romantic (Amenity), lunch (Amenity), Italian (Cuisine), Panera Bread (Restaurant Name)]
+
+Query: "What are some nearby lunch options with a romantic atmosphere, not too pricey, near Panera Bread?"
+Named Entities: [lunch (Amenity), romantic (Amenity), not too pricey (Price), Panera Bread (Restaurant Name)]

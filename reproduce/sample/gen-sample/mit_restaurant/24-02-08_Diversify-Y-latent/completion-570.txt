@@ -1,0 +1,8 @@
+1. "Where can I find a waffle station for brunch?"
+Named Entities: [waffle station (Amenity), brunch (Lunchtime)]
+
+2. "I'm craving some Mexican cuisine, do you know of any places with good tacos?"
+Named Entities: [Mexican (Cuisine), tacos (Dish)]
+
+3. "Can you recommend a restaurant with outdoor seating and a view of the river for dinner?"
+Named Entities: [outdoor seating (Amenity), view of the river (Location), dinner (Lunchtime)]

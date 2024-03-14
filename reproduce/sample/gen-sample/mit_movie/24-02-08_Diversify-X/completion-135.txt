@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie The Shawshank Redemption directed by Frank Darabont?"
+Named Entities: [The Shawshank Redemption (Title), Frank Darabont (Director)]
+
+Query: "Can you provide me with a review of the film Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director), Review]
+
+Query: "Show me a trailer for the movie Titanic, directed by James Cameron."
+Named Entities: [Titanic (Title), James Cameron (Director), Trailer]

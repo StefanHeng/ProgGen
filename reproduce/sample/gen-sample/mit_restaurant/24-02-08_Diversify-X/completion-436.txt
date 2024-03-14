@@ -1,0 +1,8 @@
+Query: "What cafes around here have a good brunch menu?"
+Named Entities: [café (Amenity), good (Rating), brunch (Amenity)]
+
+Query: "I want to grab a quick lunch at a mid-range cafe, can you recommend one?"
+Named Entities: [quick lunch (Meal), mid-range (Price), café (Amenity)]
+
+Query: "I'm craving some specialty coffee, where can I find a café with unique coffee drinks?"
+Named Entities: [specialty coffee (Amenity), café (Amenity)]

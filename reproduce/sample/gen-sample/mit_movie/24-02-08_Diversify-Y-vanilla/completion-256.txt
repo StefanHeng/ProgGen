@@ -1,0 +1,8 @@
+Query: "what is the viewers' rating for the movie inside out"
+Named Entities: [inside out (Title), viewers' rating (Viewers' Rating)]
+
+Query: "who is the director of the movie inside out"
+Named Entities: [inside out (Title), director (Director)]
+
+Query: "can you provide a plot summary for the movie inside out"
+Named Entities: [inside out (Title), plot (Plot)]

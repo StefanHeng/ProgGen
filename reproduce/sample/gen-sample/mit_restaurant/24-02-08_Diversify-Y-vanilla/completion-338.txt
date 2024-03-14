@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-rated seafood restaurant in the downtown area?"
+Named Entities: [high-rated (Rating), seafood (Cuisine), downtown area (Location)]
+
+Query: "What time does the Italian restaurant 'Pasta Palace' close on weekends?"
+Named Entities: [Italian (Cuisine), 'Pasta Palace' (Restaurant Name), weekends (Hours)]
+
+Query: "I'm craving sushi, where can I find a budget-friendly sushi place nearby?"
+Named Entities: [sushi (Cuisine), budget-friendly (Price), nearby (Location)]

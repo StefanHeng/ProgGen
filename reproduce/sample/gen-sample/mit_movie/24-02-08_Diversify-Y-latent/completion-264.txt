@@ -1,0 +1,8 @@
+1. "Could you recommend a Judd Apatow movie that is both funny and compelling?"
+   Named Entities: [Judd Apatow (Director), funny (Genre), compelling (Plot)]
+
+2. "Show me a timeless movie with an electrifying soundtrack."
+   Named Entities: [timeless (Viewers' Rating), electrifying (Song)]
+
+3. "Is there a TV-G movie from the 1990s that has an intense plot?"
+   Named Entities: [TV-G (MPAA Rating), 1990s (Year), intense (Plot)]

@@ -1,0 +1,8 @@
+1. Text Span: "Hillary Clinton"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Xi Jinping"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "student"
+Label: (D). The span is not a named entity

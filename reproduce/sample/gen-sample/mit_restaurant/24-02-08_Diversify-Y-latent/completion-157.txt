@@ -1,0 +1,8 @@
+Query: "are there any restaurants in the area that have won the Wine Spectator Award of Excellence"
+Named Entities: [Wine Spectator Award of Excellence (Amenity)]
+
+Query: "I'm in the mood for some pocket-friendly options, where can I find some"
+Named Entities: [pocket-friendly (Price)]
+
+Query: "I'm craving seared scallops, do you know any restaurants nearby that serve them"
+Named Entities: [seared scallops (Dish), nearby (Location)]

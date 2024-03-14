@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a {{fancy}} restaurant with a farm-to-table menu in the countryside"
+Text Span: "fancy"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Query: "I'm on a budget, can you recommend a place with {{affordable}} prices for dinner?"
+Text Span: "affordable"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What are the prices like at Seasons 52 for a {{dinner for two}}?"
+Text Span: "dinner for two"
+Label: (C). Wrong Type. The correct entity type is Dish.

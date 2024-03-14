@@ -1,0 +1,8 @@
+Query: "What's the business hours for that Italian restaurant in the downtown area?"
+Named Entities: [Italian restaurant (Cuisine), downtown area (Location), business hours (Hours)]
+
+Query: "I'm looking for a place for night time dining with good seafood, any suggestions?"
+Named Entities: [night time dining (Amenity), good seafood (Cuisine)]
+
+Query: "Do you know a Mexican restaurant with a good rating and affordable prices?"
+Named Entities: [Mexican restaurant (Cuisine), good rating (Rating), affordable prices (Price)]

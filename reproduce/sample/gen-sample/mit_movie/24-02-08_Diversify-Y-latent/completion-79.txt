@@ -1,0 +1,8 @@
+1. "What is the best slasher movie from the 1970s?"
+   Named Entities: [slasher (Genre), 1970s (Year)]
+
+2. "Is Margot Robbie in any superhero origin films?"
+   Named Entities: [Margot Robbie (Actor), superhero origin (Plot)]
+
+3. "Can you tell me which movie features Dolores Umbridge, played by Anne Hathaway?"
+   Named Entities: [Dolores Umbridge (Character), Anne Hathaway (Actor)]

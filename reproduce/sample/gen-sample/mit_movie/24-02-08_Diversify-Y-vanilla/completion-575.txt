@@ -1,0 +1,8 @@
+1. Query: "What is a must-see comedy film from 2010?"
+   Named Entities: [must-see (Viewers' Rating), 2010 (Year), comedy (Genre)]
+
+2. Query: "Can you recommend a movie featuring the song 'Bridge Over Troubled Water'?"
+   Named Entities: [Bridge Over Troubled Water (Song)]
+
+3. Query: "Are there any good movies about time travel?"
+   Named Entities: [time travel (Plot)]

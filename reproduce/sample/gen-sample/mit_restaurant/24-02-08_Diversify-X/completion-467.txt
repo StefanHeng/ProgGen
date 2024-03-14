@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with a high rating?"
+Named Entities: [buffet (Amenity), high rating (Rating)]
+
+Query: "I want to find a buffet restaurant with a reasonable price"
+Named Entities: [buffet (Amenity), reasonable price (Price)]
+
+Query: "Where can I have a buffet dinner with a great view?"
+Named Entities: [buffet dinner (Amenity), great view (Amenity)]

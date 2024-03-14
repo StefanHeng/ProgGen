@@ -1,0 +1,8 @@
+Query: "Where can I find a brunch spot around the corner?"
+Named Entities: [brunch (Amenity), around the corner (Location)]
+
+Query: "I'm craving brunch, can you suggest a place like The Omelette Cafe?"
+Named Entities: [brunch (Amenity), The Omelette Cafe (Restaurant Name)]
+
+Query: "Is there a good brunch place nearby with reasonable prices?"
+Named Entities: [brunch (Amenity), nearby (Location), reasonable prices (Price)]

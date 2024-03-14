@@ -1,0 +1,8 @@
+1. "I'd like to see the new Marvel superhero movie, can you tell me the showtimes and ticket availability?"
+   Named Entities: [Marvel superhero (Genre)]
+
+2. "What is the best-rated action movie of the year and when can I see it?"
+   Named Entities: [best-rated (Viewers' Rating), action (Genre), the year (Year)]
+
+3. "I'm looking for a comedy film that's suitable for families, can I get the showtimes and buy tickets?"
+   Named Entities: [comedy (Genre), families (Viewers' Rating)]

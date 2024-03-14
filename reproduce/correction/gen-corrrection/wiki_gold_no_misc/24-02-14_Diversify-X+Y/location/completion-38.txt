@@ -1,0 +1,11 @@
+1. Sentence: "With its innovative and sustainable design, the Burj Khalifa in {{Dubai}} has become an iconic symbol of modern architecture, recognized by the Council on Tall Buildings and Urban Habitat as the tallest building in the world."
+Text Span: "Dubai"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Prime Minister announced new policies to address economic inequality in {{Canberra}}."
+Text Span: "Canberra"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The geography of New York City includes five boroughs—Manhattan, Brooklyn, Queens, {{the Bronx}}, and Staten Island—each with its own distinct neighborhoods and landmarks."
+Text Span: "the Bronx"
+Label: (A). The span is a named entity of type location

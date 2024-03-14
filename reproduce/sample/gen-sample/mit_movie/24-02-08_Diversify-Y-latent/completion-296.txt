@@ -1,0 +1,8 @@
+1. Query: "Is Die Hard a Christmas movie?"
+Named Entities: [Die Hard (Title), Christmas (Genre)]
+
+2. Query: "Can you recommend a mystery movie released in the past year?"
+Named Entities: [mystery (Genre), the past year (Year)]
+
+3. Query: "Show me an underwater adventure film with a high viewers' rating"
+Named Entities: [underwater adventure (Genre), high viewers' rating (Viewers' Rating)]

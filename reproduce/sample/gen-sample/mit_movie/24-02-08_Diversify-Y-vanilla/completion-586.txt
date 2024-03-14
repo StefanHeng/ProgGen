@@ -1,0 +1,8 @@
+1. "Can you recommend a Wes Anderson film that features a song by Tony Montana?"
+   Named Entities: [Wes Anderson (Director), Tony Montana (Song)]
+
+2. "Is Rob Reiner the director of any movies with a plot twist?"
+   Named Entities: [Rob Reiner (Director), plot twist (Plot)]
+
+3. "Not recommended movie with a high viewers' rating from the 1990s"
+   Named Entities: [1990s (Year), Not recommended (Review), high viewers' rating (Viewers' Rating)]

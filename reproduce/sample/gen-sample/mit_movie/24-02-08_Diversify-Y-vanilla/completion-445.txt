@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of Doctor Strange?"
+   Named Entities: [Doctor Strange (Title), Plot]
+
+2. "What film directed by Lucy Walker can I watch with my family?"
+   Named Entities: [Lucy Walker (Director), Family secret (Plot)]
+
+3. "Is there a Fantasy quest movie featuring Natalie Portman that's considered addictive?"
+   Named Entities: [Fantasy quest (Genre), Natalie Portman (Actor), Addictive (Viewers' Rating)]

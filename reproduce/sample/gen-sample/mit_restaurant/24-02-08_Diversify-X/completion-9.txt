@@ -1,0 +1,8 @@
+1. "I'm looking for a vegan-friendly spot for lunch that has a good rating"
+Named Entities: [vegan-friendly (Amenity), lunch (Cuisine), good (Rating)]
+
+2. "Where can I find a restaurant with a vegan lunch menu that's open late?"
+Named Entities: [vegan (Cuisine), lunch (Amenity), open late (Hours)]
+
+3. "I need to book a table for a vegan lunch at a place with affordable prices"
+Named Entities: [vegan (Cuisine), lunch (Amenity), affordable prices (Price)]

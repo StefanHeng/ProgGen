@@ -1,0 +1,8 @@
+Query: "Can you recommend any Italian restaurants with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "What are some sushi spots with late night hours?"
+Named Entities: [sushi (Cuisine), late night (Hours)]
+
+Query: "Where is the best place for a romantic dinner with a view?"
+Named Entities: [romantic (Amenity), dinner (Meal), view (Amenity)]

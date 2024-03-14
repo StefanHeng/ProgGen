@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a film about the history and production of {{Disney animated classics}}?"
+Text Span: "Disney animated classics"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "Can I really trust that the {{action}} movie has good reviews?"
+Text Span: "action"
+Label: (A). The span is a named entity of type genre
+
+3. Query: "I want to watch a film about a {{superhero}} who can fly - do you know any?"
+Text Span: "superhero"
+Label: (A). The span is a named entity of type genre

@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants in Atlanta that offer not too expensive late night dining?"
+Named Entities: [Atlanta (Location), not too expensive late night dining (Amenity)]
+
+2. "I am craving some authentic Mexican cuisine, where can I find a place with great ratings?"
+Named Entities: [authentic Mexican (Cuisine), great ratings (Rating)]
+
+3. "I need a restaurant with outdoor seating and a view of the city, do you have any suggestions?"
+Named Entities: [outdoor seating (Amenity), view of the city (Amenity)]

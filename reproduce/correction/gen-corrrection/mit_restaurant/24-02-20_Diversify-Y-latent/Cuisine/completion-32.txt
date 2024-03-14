@@ -1,0 +1,11 @@
+1. Query: "What are some good options for {{breakfast}} around Panera Bread ?"
+Text Span: "breakfast"
+Label: (C). The span is not a named entity. The correct entity type is Hours.
+
+2. Query: "I need a restaurant with {{authentic Italian cuisine}} for pickup in the next hour"
+Text Span: "authentic Italian cuisine"
+Label: (A). The span is a named entity of type cuisine.
+
+3. Query: "I'm in the mood for some {{pizza}}. Where can I find a place with a high rating?"
+Text Span: "pizza"
+Label: (A). The span is a named entity of type cuisine.

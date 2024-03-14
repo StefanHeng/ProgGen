@@ -1,0 +1,100 @@
+1. What is the viewers' rating of Inception?
+   Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]
+2. When was the movie Titanic released?
+   Named Entities: [Titanic (Title)]
+3. Can you tell me the genre of The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title), genre (Genre)]
+4. Who directed the movie Interstellar?
+   Named Entities: [Interstellar (Title), directed (Director)]
+5. Show me a movie with Hugh Jackman as the lead actor.
+   Named Entities: [Hugh Jackman (Actor)]
+6. What is the plot of The Matrix?
+   Named Entities: [The Matrix (Title), plot (Plot)]
+7. Is The Godfather a classic movie?
+   Named Entities: [The Godfather (Title), classic (Viewers' Rating)]
+8. Can you find the trailer for the latest Star Wars movie?
+   Named Entities: [Star Wars (Title), latest (Year), trailer (Trailer)]
+9. Was there a song in the movie A Star is Born?
+   Named Entities: [A Star is Born (Title), song (Song)]
+10. Is there any review available for The Dark Knight?
+    Named Entities: [The Dark Knight (Title), review (Review)]
+11. What is the MPAA rating for The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+12. What character did Meryl Streep play in The Devil Wears Prada?
+    Named Entities: [Meryl Streep (Actor), The Devil Wears Prada (Title), character (Character)]
+13. Who directed the movie 12 Years a Slave?
+    Named Entities: [12 Years a Slave (Title), directed (Director)]
+14. Give me a list of comedy movies from the 1990s.
+    Named Entities: [comedy (Genre), 1990s (Year)]
+15. Recommend a must-see film directed by Alfred Hitchcock.
+    Named Entities: [Alfred Hitchcock (Director), must see (Viewers' Rating)]
+16. What is the viewers' rating for the movie The Departed?
+    Named Entities: [The Departed (Title), viewers' rating (Viewers' Rating)]
+17. When did The Shawshank Redemption come out?
+    Named Entities: [The Shawshank Redemption (Title)]
+18. Can you find the trailer for the latest James Bond film?
+    Named Entities: [James Bond (Title), latest (Year), trailer (Trailer)]
+19. Was there a song featured in the movie Sound of Music?
+    Named Entities: [Sound of Music (Title), song (Song)]
+20. Is there a review available for the film Inglourious Basterds?
+    Named Entities: [Inglourious Basterds (Title), review (Review)]
+21. What is the MPAA rating for The Green Mile?
+    Named Entities: [The Green Mile (Title), MPAA rating (MPAA Rating)]
+22. What character did Tom Hanks play in Forrest Gump?
+    Named Entities: [Tom Hanks (Actor), Forrest Gump (Title), character (Character)]
+23. Who directed the movie Gladiator?
+    Named Entities: [Gladiator (Title), directed (Director)]
+24. Give me a list of action movies from the 2000s.
+    Named Entities: [action (Genre), 2000s (Year)]
+25. Recommend a must-see film starring Audrey Hepburn.
+    Named Entities: [Audrey Hepburn (Actor), must see (Viewers' Rating)]
+26. What is the viewers' rating for the movie The Lion King?
+    Named Entities: [The Lion King (Title), viewers' rating (Viewers' Rating)]
+27. When was The Lake House released?
+    Named Entities: [The Lake House (Title)]
+28. Can you find the trailer for the latest Mission Impossible movie?
+    Named Entities: [Mission Impossible (Title), latest (Year), trailer (Trailer)]
+29. Was there a song in the movie La La Land?
+    Named Entities: [La La Land (Title), song (Song)]
+30. Is there a review available for the film The Avengers?
+    Named Entities: [The Avengers (Title), review (Review)]
+31. What is the MPAA rating for The Incredibles?
+    Named Entities: [The Incredibles (Title), MPAA rating (MPAA Rating)]
+32. What character did Leonardo DiCaprio play in Titanic?
+    Named Entities: [Leonardo DiCaprio (Actor), Titanic (Title), character (Character)]
+33. Who directed the movie The Dark Knight Rises?
+    Named Entities: [The Dark Knight Rises (Title), directed (Director)]
+34. Give me a list of horror movies from the 1980s.
+    Named Entities: [horror (Genre), 1980s (Year)]
+35. Recommend a must-see film by Steven Spielberg.
+    Named Entities: [Steven Spielberg (Director), must see (Viewers' Rating)]
+36. What is the viewers' rating for the movie Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title), viewers' rating (Viewers' Rating)]
+37. When did The Breakfast Club come out?
+    Named Entities: [The Breakfast Club (Title)]
+38. Can you find the trailer for the latest Jurassic Park movie?
+    Named Entities: [Jurassic Park (Title), latest (Year), trailer (Trailer)]
+39. Was there a song featured in the movie Grease?
+    Named Entities: [Grease (Title), song (Song)]
+40. Is there a review available for the film The Social Network?
+    Named Entities: [The Social Network (Title), review (Review)]
+41. What is the MPAA rating for The Shawshank Redemption?
+    Named Entities: [The Shawshank Redemption (Title), MPAA rating (MPAA Rating)]
+42. What character did Johnny Depp play in Pirates of the Caribbean?
+    Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Title), character (Character)]
+43. Who directed the movie Braveheart?
+    Named Entities: [Braveheart (Title), directed (Director)]
+44. Give me a list of fantasy movies from the 2010s.
+    Named Entities: [fantasy (Genre), 2010s (Year)]
+45. Recommend a must-see film starring Marilyn Monroe.
+    Named Entities: [Marilyn Monroe (Actor), must see (Viewers' Rating)]
+46. What is the viewers' rating for the movie The Godfather?
+    Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+47. When was The Matrix released?
+    Named Entities: [The Matrix (Title)]
+48. Can you find the trailer for the latest Spider-Man movie?
+    Named Entities: [Spider-Man (Title), latest (Year), trailer (Trailer)]
+49. Was there a song in the movie Dirty Dancing?
+    Named Entities: [Dirty Dancing (Title), song (Song)]
+50. Is there a review available for the film The Shawshank Redemption?
+    Named Entities: [The Shawshank Redemption (Title), review (Review)]

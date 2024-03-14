@@ -1,0 +1,8 @@
+1. "Could you show me some behind the scenes footage of the new Emerald Fennell movie that is rated PG?"
+Named Entities: [behind the scenes (Trailer), Emerald Fennell (Director), PG (MPAA Rating)]
+
+2. "What is the viewers' rating for the movie Emerald Fennell directed?"
+Named Entities: [Emerald Fennell (Director)]
+
+3. "Show me a movie from 2019 with Emerald Fennell as the director"
+Named Entities: [2019 (Year), Emerald Fennell (Director)]

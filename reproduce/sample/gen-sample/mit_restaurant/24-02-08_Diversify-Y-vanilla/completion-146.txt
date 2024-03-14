@@ -1,0 +1,8 @@
+1. "What are the opening hours for Mastro's Steakhouse in the downtown area?"
+   Named Entities: [Mastro's Steakhouse (Restaurant Name), downtown area (Location), opening hours (Hours)]
+
+2. "I'm craving Malaysian cuisine, where can I find a good Malaysian restaurant nearby?"
+   Named Entities: [Malaysian (Cuisine), nearby (Location)]
+
+3. "I need to book a table at a top-rated restaurant for a special occasion, what are my options?"
+   Named Entities: [top-rated (Rating), special occasion (Amenity)]

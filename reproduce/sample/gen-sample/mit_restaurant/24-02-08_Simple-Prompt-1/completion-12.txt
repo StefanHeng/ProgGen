@@ -1,0 +1,29 @@
+1. Can you recommend a good Italian restaurant nearby?
+Named Entities: [Italian (Cuisine)]
+
+2. What time does the sushi place close tonight?
+Named Entities: [sushi (Cuisine), tonight (Hours)]
+
+3. I'm craving some Mexican food, where is the best taco spot in town?
+Named Entities: [Mexican (Cuisine), taco (Dish)]
+
+4. What's the highest rated burger joint in the area?
+Named Entities: [highest rated (Rating), burger (Dish)]
+
+5. Is there a place with outdoor seating and a view of the ocean?
+Named Entities: [outdoor seating (Amenity), ocean (Location)]
+
+6. I'm looking for a restaurant that serves vegan dishes.
+Named Entities: [vegan (Cuisine)]
+
+7. Where can I find a place with live music and a full bar?
+Named Entities: [live music (Amenity), full bar (Amenity)]
+
+8. What's the best Chinese restaurant in the city?
+Named Entities: [Chinese (Cuisine)]
+
+9. I'm in the mood for some Thai food, where's the closest Thai place?
+Named Entities: [Thai (Cuisine)]
+
+10. Can you recommend a restaurant with a prix fixe menu?
+Named Entities: [prix fixe (Price)]

@@ -1,0 +1,149 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+2. The American Red Cross was founded by Clara Barton in 1881.
+Named Entities: [American Red Cross (organization), Clara Barton (person)]
+
+3. Mount Everest, at 8,848.86 meters (29,031.7 feet), is the world's highest mountain.
+Named Entities: [Mount Everest (location)]
+
+4. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+5. Albert Einstein's theory of relativity revolutionized the way we understand space and time.
+Named Entities: [Albert Einstein (person)]
+
+6. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+Named Entities: [Great Wall of China (location)]
+
+7. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+8. Marie Curie was the first woman to win a Nobel Prize, and she remains the only person to win Nobel Prizes in two different scientific fields.
+Named Entities: [Marie Curie (person)]
+
+9. The Leaning Tower of Pisa is known for its unintended tilt to one side.
+Named Entities: [Leaning Tower of Pisa (location)]
+
+10. NASA, the United States space agency, was established in 1958.
+Named Entities: [NASA (organization), United States (location)]
+
+11. The Mona Lisa, a portrait by Leonardo da Vinci, is housed in the Louvre Museum in Paris.
+Named Entities: [Mona Lisa (location), Leonardo da Vinci (person), Louvre Museum (location), Paris (location)]
+
+12. Barack Obama served as the 44th President of the United States from 2009 to 2017.
+Named Entities: [Barack Obama (person), United States (location)]
+
+13. The Organization of the Petroleum Exporting Countries (OPEC) is an intergovernmental organization of 13 oil-exporting countries.
+Named Entities: [Organization of the Petroleum Exporting Countries (organization)]
+
+14. The Nile River is the longest river in the world, flowing through northeastern Africa.
+Named Entities: [Nile River (location), Africa (location)]
+
+15. The Nobel Peace Prize is awarded by the Norwegian Nobel Committee to individuals and organizations who have made significant contributions to world peace.
+Named Entities: [Nobel Peace Prize (organization), Norwegian Nobel Committee (organization)]
+
+16. Jane Austen was an English novelist known for her six major novels.
+Named Entities: [Jane Austen (person), English (location)]
+
+17. Madison Square Garden is a multi-purpose indoor arena located in Midtown Manhattan, New York City.
+Named Entities: [Madison Square Garden (location), Midtown Manhattan (location), New York City (location)]
+
+18. The United Nations is an international organization founded in 1945 to promote peace and cooperation among countries.
+Named Entities: [United Nations (organization)]
+
+19. Pablo Picasso was a Spanish painter and sculptor known for co-founding the Cubist movement.
+Named Entities: [Pablo Picasso (person), Spanish (location)]
+
+20. The Amazon Rainforest is the largest tropical rainforest in the world, covering much of the Amazon Basin in South America.
+Named Entities: [Amazon Rainforest (location), Amazon Basin (location), South America (location)]
+
+21. The Red Cross provides humanitarian aid to millions of people affected by conflicts and disasters around the world.
+Named Entities: [Red Cross (organization)]
+
+22. The Colosseum, an ancient amphitheater, is a popular tourist attraction in Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+23. Robert Frost was an American poet known for his realistic depictions of rural life.
+Named Entities: [Robert Frost (person), American (location)]
+
+24. The Statue of Liberty, a symbol of freedom, was a gift from France to the United States.
+Named Entities: [Statue of Liberty (location), France (location), United States (location)]
+
+25. The United Nations Educational, Scientific and Cultural Organization (UNESCO) is a specialized agency of the United Nations aimed at promoting peace and security through international collaboration in education, science, and culture.
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (organization), UNESCO (organization), United Nations (organization)]
+
+26. Michael Jordan, a former professional basketball player, is widely regarded as one of the greatest basketball players of all time.
+Named Entities: [Michael Jordan (person)]
+
+27. Yellowstone National Park is located primarily in the U.S. state of Wyoming.
+Named Entities: [Yellowstone National Park (location), Wyoming (location)]
+
+28. The Metropolitan Museum of Art, commonly referred to as the Met, is located in New York City and is one of the largest and most comprehensive art museums in the world.
+Named Entities: [Metropolitan Museum of Art (organization), Met (organization), New York City (location)]
+
+29. Ernest Hemingway was an American novelist and short-story writer known for his distinctive writing style.
+Named Entities: [Ernest Hemingway (person), American (location)]
+
+30. Stonehenge is a prehistoric monument located in the English county of Wiltshire.
+Named Entities: [Stonehenge (location), English (location), Wiltshire (location)]
+
+31. The World Trade Organization (WTO) is an intergovernmental organization that regulates international trade.
+Named Entities: [World Trade Organization (organization), WTO (organization)]
+
+32. Haruki Murakami is a Japanese writer known for his unique blend of magical realism and existential themes.
+Named Entities: [Haruki Murakami (person), Japanese (location)]
+
+33. The Dead Sea, bordered by Jordan to the east and Israel and Palestine to the west, is one of the saltiest bodies of water in the world.
+Named Entities: [Dead Sea (location), Jordan (location), Israel (location), Palestine (location)]
+
+34. Amnesty International is a global movement aimed at protecting human rights around the world.
+Named Entities: [Amnesty International (organization)]
+
+35. Ayn Rand was a Russian-American writer known for her philosophy of Objectivism.
+Named Entities: [Ayn Rand (person), Russian (location), American (location)]
+
+36. The Great Barrier Reef, the world's largest coral reef system, is located in the Coral Sea off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+
+37. The European Space Agency (ESA) is an intergovernmental organization dedicated to space exploration and research.
+Named Entities: [European Space Agency (organization), ESA (organization)]
+
+38. William Shakespeare, often called the Bard of Avon, is widely regarded as the greatest writer in the English language.
+Named Entities: [William Shakespeare (person), Avon (location), English (location)]
+
+39. The Louvre Museum, located in Paris, is the world's largest art museum and a historic monument in France.
+Named Entities: [Louvre Museum (location), Paris (location), France (location)]
+
+40. Ada Lovelace, an English mathematician, is considered to be the world's first computer programmer.
+Named Entities: [Ada Lovelace (person), English (location)]
+
+41. The International Monetary Fund (IMF) is an organization of 190 countries working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world.
+Named Entities: [International Monetary Fund (organization), IMF (organization)]
+
+42. J.K. Rowling, a British author, is best known for creating the Harry Potter fantasy series.
+Named Entities: [J.K. Rowling (person), British (location)]
+
+43. The Sahara Desert, the largest hot desert in the world, covers most of Northern Africa.
+Named Entities: [Sahara Desert (location), Northern Africa (location)]
+
+44. Médecins Sans Frontières (Doctors Without Borders) is a non-governmental organization providing medical assistance to people affected by conflict, epidemics, and natural disasters.
+Named Entities: [Médecins Sans Frontières (organization), Doctors Without Borders (organization)]
+
+45. Leo Tolstoy, a Russian writer, is best known for his novels "War and Peace" and "Anna Karenina."
+Named Entities: [Leo Tolstoy (person), Russian (location)]
+
+46. The Sydney Opera House, an iconic building in Sydney, Australia, is a UNESCO World Heritage Site.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location), UNESCO (organization)]
+
+47. The European Union (EU) is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), EU (organization), Europe (location)]
+
+48. Margaret Thatcher, the first woman to serve as Prime Minister of the United Kingdom, was a controversial but influential political figure.
+Named Entities: [Margaret Thatcher (person), Prime Minister of the United Kingdom (organization), United Kingdom (location)]
+
+49. The Victoria and Albert Museum in London is the world's largest museum of decorative arts and design.
+Named Entities: [Victoria and Albert Museum (organization), London (location)]
+
+50. Albert Schweitzer, a French-German theologian, musician, and medical missionary, was awarded the Nobel Peace Prize in 1952.
+Named Entities: [Albert Schweitzer (person), French (location), German (location), Nobel Peace Prize (organization)]

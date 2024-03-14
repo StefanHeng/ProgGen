@@ -1,0 +1,8 @@
+Query: "Can you tell me if Aladdin has won any People's Choice Awards"
+Named Entities: [Aladdin (Title), People's Choice Award nominee (Awards and nominations)]
+
+Query: "I'm looking for a masterpiece like My Fair Lady, any recommendations"
+Named Entities: [masterpiece (Viewers' Rating), My Fair Lady (Title)]
+
+Query: "I want to watch a must-see movie that won multiple Awards like The Bridge on the River Kwai"
+Named Entities: [A must-see (Viewers' Rating), The Bridge on the River Kwai (Title), Awards and nominations (Awards and nominations)]

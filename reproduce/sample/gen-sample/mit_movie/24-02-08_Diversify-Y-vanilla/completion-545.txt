@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for Kill Bill, directed by Quentin Tarantino?"
+   Named Entities: [Kill Bill (Title), Quentin Tarantino (Director), trailer (Trailer)]
+
+2. "What do viewers think of the movie directed by Darren Aronofsky that came out in 2003?"
+   Named Entities: [Darren Aronofsky (Director), 2003 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Could you recommend a very good action film from the 2000s?"
+   Named Entities: [very good (Viewers' Rating), 2000s (Year), action (Genre)]

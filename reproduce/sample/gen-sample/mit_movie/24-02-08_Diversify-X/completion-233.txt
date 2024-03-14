@@ -1,0 +1,8 @@
+1. Query: "Can I see the schedule for the romantic comedy movies playing this weekend?"
+Named Entities: [romantic comedy (Genre), this weekend (Time)]
+
+2. Query: "I'm looking for a drama film with Hugh Jackman. Do you have any recommendations?"
+Named Entities: [drama (Genre), Hugh Jackman (Actor)]
+
+3. Query: "What are the top-rated action films from the 90s?"
+Named Entities: [action films (Genre), 90s (Year), top-rated (Review)]

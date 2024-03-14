@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a top-notch plot and a gripping review?"
+Named Entities: [top-notch (Viewers' Rating), gripping (Review)]
+
+2. Query: "What movie from the 90s has an exceptional rating and a memorable song in its soundtrack?"
+Named Entities: [90s (Year), exceptional (Viewers' Rating), memorable (Song)]
+
+3. Query: "I'm looking for a film that received rave reviews and features an outstanding performance by a renowned actor, can you suggest one?"
+Named Entities: [rave reviews (Review), outstanding (Viewers' Rating), renowned actor (Actor)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any Thai restaurants with outdoor seating for lunch?"
+Named Entities: [Thai (Cuisine), outdoor seating (Amenity), lunch (Amenity)]
+
+2. "What is the best Italian restaurant in the downtown area that opens at 11 AM?"
+Named Entities: [Italian (Cuisine), downtown area (Location), 11 AM (Hours), best (Rating), lunch (Amenity)]
+
+3. "I'm looking for a budget-friendly sushi place with a high rating for a quick lunch."
+Named Entities: [budget-friendly (Price), sushi (Cuisine), high rating (Rating), quick lunch (Amenity) ]

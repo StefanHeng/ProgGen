@@ -1,0 +1,8 @@
+Query: "Can you recommend any fine dining restaurants with gluten-free options and a business center?"
+Named Entities: [fine dining (Amenity), gluten-free (Dietary Restriction), business center (Amenity)]
+
+Query: "I'm looking for a fine dining restaurant with a high OpenTable rating that serves Chinese and French cuisine."
+Named Entities: [fine dining (Amenity), OpenTable rating (Rating), Chinese cuisine (Cuisine), French cuisine (Cuisine)]
+
+Query: "Which fine dining restaurant nearby offers gluten-free options and specializes in Chinese and French cuisine?"
+Named Entities: [fine dining (Amenity), gluten-free (Dietary Restriction), Chinese cuisine (Cuisine), French cuisine (Cuisine)]

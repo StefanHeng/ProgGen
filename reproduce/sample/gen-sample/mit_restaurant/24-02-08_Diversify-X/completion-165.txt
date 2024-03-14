@@ -1,0 +1,8 @@
+Query: "can you recommend a café with low-carb options for breakfast"
+Named Entities: [café (Cuisine), low-carb (Dietary Restriction), breakfast (Amenity)]
+
+Query: "what are the operating hours for a nearby café with low-carb menu"
+Named Entities: [café (Cuisine), low-carb (Dietary Restriction), operating hours (Hours), nearby (Location)]
+
+Query: "what's the best-rated café in the area with low-carb dishes"
+Named Entities: [café (Cuisine), low-carb (Dietary Restriction), best-rated (Rating), area (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "Beasts of No Nation"
+Label: (A). The span is a named entity of type title
+
+2. Text Span: "streaming platforms"
+Label: (C). The span is a named entity but the category is not title. Entity Type: other
+
+3. Text Span: "Captain Marvel"
+Label: (A). The span is a named entity of type title

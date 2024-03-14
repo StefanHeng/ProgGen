@@ -1,0 +1,8 @@
+1. "I'm looking for a non-smoking restaurant near Del Posto."
+Named Entities: [Del Posto (Restaurant Name), non-smoking (Amenity)]
+
+2. "What are the hours for Del Posto?"
+Named Entities: [Del Posto (Restaurant Name), hours (Hours)]
+
+3. "I want to find a restaurant with a fine dining menu within a reasonable price range."
+Named Entities: [fine dining (Amenity), reasonable price range (Price)]

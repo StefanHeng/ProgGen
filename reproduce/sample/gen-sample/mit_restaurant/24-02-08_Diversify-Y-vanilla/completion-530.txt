@@ -1,0 +1,8 @@
+1. "Where is the best place nearby to have some authentic Italian cuisine?"
+Named Entities: [best (Rating), nearby (Location), authentic Italian (Cuisine)]
+
+2. "I'm craving some sushi. Can you recommend any sushi restaurants that offer locally sourced ingredients?"
+Named Entities: [sushi (Cuisine), locally sourced (Amenity)]
+
+3. "I need a restaurant with outdoor seating and a good happy hour deal."
+Named Entities: [outdoor seating (Amenity), good (Rating), happy hour (Amenity)]

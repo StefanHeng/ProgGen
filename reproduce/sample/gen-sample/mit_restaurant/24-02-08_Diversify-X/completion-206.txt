@@ -1,0 +1,8 @@
+Query: "Which restaurant serves authentic Mexican cuisine for lunch in downtown?"
+Named Entities: [authentic Mexican cuisine (Cuisine), lunch (Amenity), downtown (Location)]
+
+Query: "I'm craving a burger for lunch, where can I find the best one in the area?"
+Named Entities: [burger (Dish), lunch (Amenity), best (Rating), area (Location)]
+
+Query: "What are the operating hours for the Italian restaurant near the park that offers lunch specials?"
+Named Entities: [operating hours (Hours), Italian restaurant (Cuisine), park (Location), lunch specials (Amenity)]

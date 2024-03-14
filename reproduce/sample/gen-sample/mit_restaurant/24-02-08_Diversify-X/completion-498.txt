@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast spot with a mid-range price range?"
+Named Entities: [breakfast (Amenity), mid-range (Price)]
+
+2. "I'm looking for a place with a decent breakfast menu, not too expensive"
+Named Entities: [breakfast (Amenity), decent (Rating)]
+
+3. "Do you know any breakfast restaurants in the area that offer good value for the price?"
+Named Entities: [breakfast (Amenity), good value (Rating)]

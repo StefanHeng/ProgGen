@@ -1,0 +1,8 @@
+1. "I want to watch a movie with the song Georgia on My Mind, can you recommend one?"
+Named Entities: [Georgia on My Mind (Song)]
+
+2. "Can you show me an adventure movie set in a war-torn country from 1989?"
+Named Entities: [adventure (Genre), war-torn country (Plot), 1989 (Year)]
+
+3. "What movie with a 90% viewers' rating is about a sport?"
+Named Entities: [90% (Viewers' Rating), sport (Genre)]

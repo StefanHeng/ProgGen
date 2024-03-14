@@ -1,0 +1,100 @@
+1. Can you tell me about the movie Inception directed by Christopher Nolan
+Named Entities: [Inception (Title), Christopher Nolan (Director)]
+2. Give me a list of action movies from the 1990s
+Named Entities: [action movies (Genre), 1990s (Year)]
+3. What is the rating for the movie Titanic
+Named Entities: [Titanic (Title)]
+4. Who directed the film The Dark Knight
+Named Entities: [The Dark Knight (Title)]
+5. Can you recommend a good horror movie from the 1980s
+Named Entities: [horror movie (Genre), 1980s (Year)]
+6. What is the plot of the movie The Shawshank Redemption
+Named Entities: [The Shawshank Redemption (Title)]
+7. Show me a trailer for the film Avatar
+Named Entities: [Avatar (Title)]
+8. Which actor stars in the movie The Godfather
+Named Entities: [The Godfather (Title)]
+9. What is the viewers' rating for the movie The Lord of the Rings: The Return of the King
+Named Entities: [The Lord of the Rings: The Return of the King (Title)]
+10. What is the MPAA rating for the film Jaws
+Named Entities: [Jaws (Title)]
+11. What is the year of release for The Matrix
+Named Entities: [The Matrix (Title)]
+12. Can you provide a list of musical movies
+Named Entities: [musical movies (Genre)]
+13. Who is the director of the film Black Panther
+Named Entities: [Black Panther (Title)]
+14. Is there a review available for The Silence of the Lambs
+Named Entities: [The Silence of the Lambs (Title)]
+15. I want to watch a movie starring Tom Hanks
+Named Entities: [Tom Hanks (Actor)]
+16. Show me a movie with the song Can't Help Falling In Love
+Named Entities: [Can't Help Falling In Love (Song)]
+17. Is there a character named Luke Skywalker in any movies
+Named Entities: [Luke Skywalker (Character)]
+18. Can you recommend a family-friendly movie
+Named Entities: [family-friendly (Genre)]
+19. Which film is known as a classic in the western genre
+Named Entities: [western (Genre)]
+20. Give me a list of romantic comedy movies
+Named Entities: [romantic comedy (Genre)]
+21. What is the plot of the movie Jurassic Park
+Named Entities: [Jurassic Park (Title)]
+22. Show me a trailer for the film The Lion King
+Named Entities: [The Lion King (Title)]
+23. Who is the director of the film The Dark Knight Rises
+Named Entities: [The Dark Knight Rises (Title)]
+24. Can you recommend a good science fiction movie
+Named Entities: [science fiction (Genre)]
+25. What is the viewers' rating for the movie Pulp Fiction
+Named Entities: [Pulp Fiction (Title)]
+26. What is the MPAA rating for the film Psycho
+Named Entities: [Psycho (Title)]
+27. What is the year of release for The Princess Bride
+Named Entities: [The Princess Bride (Title)]
+28. Can you provide a list of documentaries
+Named Entities: [documentaries (Genre)]
+29. Who is the director of the film Schindler's List
+Named Entities: [Schindler's List (Title)]
+30. Is there a review available for the movie The Exorcist
+Named Entities: [The Exorcist (Title)]
+31. I want to watch a movie starring Meryl Streep
+Named Entities: [Meryl Streep (Actor)]
+32. Show me a movie with the song My Heart Will Go On
+Named Entities: [My Heart Will Go On (Song)]
+33. Is there a character named Jack Sparrow in any movies
+Named Entities: [Jack Sparrow (Character)]
+34. Can you recommend a fantasy movie
+Named Entities: [fantasy (Genre)]
+35. Which film is known as a classic in the comedy genre
+Named Entities: [comedy (Genre)]
+36. Give me a list of animated movies
+Named Entities: [animated (Genre)]
+37. What is the plot of the movie The Green Mile
+Named Entities: [The Green Mile (Title)]
+38. Show me a trailer for the film The Terminator
+Named Entities: [The Terminator (Title)]
+39. Who is the director of the film The Shining
+Named Entities: [The Shining (Title)]
+40. Can you recommend a good thriller movie
+Named Entities: [thriller (Genre)]
+41. What is the viewers' rating for the movie Fight Club
+Named Entities: [Fight Club (Title)]
+42. What is the MPAA rating for the film The Godfather Part II
+Named Entities: [The Godfather Part II (Title)]
+43. What is the year of release for The Sound of Music
+Named Entities: [The Sound of Music (Title)]
+44. Can you provide a list of war movies
+Named Entities: [war movies (Genre)]
+45. Who is the director of the film Citizen Kane
+Named Entities: [Citizen Kane (Title)]
+46. Is there a review available for the movie Goodfellas
+Named Entities: [Goodfellas (Title)]
+47. I want to watch a movie starring Brad Pitt
+Named Entities: [Brad Pitt (Actor)]
+48. Show me a movie with the song I Will Always Love You
+Named Entities: [I Will Always Love You (Song)]
+49. Is there a character named Batman in any movies
+Named Entities: [Batman (Character)]
+50. Can you recommend a mystery movie
+Named Entities: [mystery (Genre)]

@@ -1,0 +1,8 @@
+1. Query: "Can you give me a quick summary of the plot for the movie Inception?"
+Named Entities: [Inception (Title), plot summary (Plot)]
+
+2. Query: "I don't have much time, just tell me the storyline for the film The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), storyline (Plot)]
+
+3. Query: "I need a brief synopsis for the movie Pulp Fiction, hurry up!"
+Named Entities: [Pulp Fiction (Title), brief synopsis (Plot)]

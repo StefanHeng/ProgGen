@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you show me the trailer for a Johnny Depp movie with a disappointing reception in the action genre?"
+Named Entities: [Johnny Depp (Actor), disappointing reception (Review), action (Genre), trailer (Trailer)]
+
+2. Spoken Query: "What action movie with Johnny Depp received disappointing ratings for its trailer?"
+Named Entities: [Johnny Depp (Actor), disappointing ratings (Review), action (Genre), trailer (Trailer)]
+
+3. Spoken Query: "Are there any action movie teasers with Johnny Depp that were poorly received?"
+Named Entities: [Johnny Depp (Actor), poorly received (Review), action (Genre), teasers (Trailer)]

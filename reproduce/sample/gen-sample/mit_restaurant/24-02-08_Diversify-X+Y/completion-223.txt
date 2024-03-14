@@ -1,0 +1,8 @@
+Query: "Where can I find a breakfast spot with a great menu in Flapjack Frenzy?"
+Named Entities: [breakfast (Amenity), Flapjack Frenzy (Restaurant Name)]
+
+Query: "What time does Flapjack Frenzy open for breakfast?"
+Named Entities: [Flapjack Frenzy (Restaurant Name), breakfast (Amenity), open (Hours)]
+
+Query: "Is Flapjack Frenzy the best place for breakfast in town?"
+Named Entities: [Flapjack Frenzy (Restaurant Name), breakfast (Amenity), best (Rating)]

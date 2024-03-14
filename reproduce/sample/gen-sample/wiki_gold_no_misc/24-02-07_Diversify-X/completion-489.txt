@@ -1,0 +1,8 @@
+Sentence: "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits."
+Named Entities: [Education (organization)]
+
+Sentence: "Teachers may provide instruction specially tailored to the needs and interests of the individual students."
+Named Entities: [Teachers (person)]
+
+Sentence: "Many countries are now drastically reforming their education systems to close the gap between the rich and the poor."
+Named Entities: [countries (location)]

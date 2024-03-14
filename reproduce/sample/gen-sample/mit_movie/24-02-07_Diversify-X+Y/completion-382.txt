@@ -1,0 +1,8 @@
+1. "Can you recommend an empowering biographical movie about a historical figure?"
+Named Entities: [empowering (Genre), biographical (Genre), historical figure (Character)]
+
+2. "I'm looking for a thriller with a strong female lead, any recommendations?"
+Named Entities: [thriller (Genre), strong female lead (Character)]
+
+3. "What are some captivating historical dramas from the 2000s?"
+Named Entities: [historical drama (Genre), 2000s (Year)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a pricy buffet?"
+Named Entities: [fine dining (Amenity), pricy (Price), buffet (Cuisine)]
+
+Query: "I'm looking for a buffet restaurant around here. Do you know any place around named Golden Dragon Buffet?"
+Named Entities: [buffet (Cuisine), Golden Dragon Buffet (Restaurant Name)]
+
+Query: "I need a reservation for a buffet dinner tonight. Do you know any place that charges around $55 to $60 per person?"
+Named Entities: [buffet (Cuisine), $55 to $60 (Price)]

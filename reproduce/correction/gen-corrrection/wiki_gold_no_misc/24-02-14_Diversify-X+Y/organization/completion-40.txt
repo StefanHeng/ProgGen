@@ -1,0 +1,8 @@
+1. Text Span: "FIBA"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "gender"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Farm Aid"
+Label: (A). The span is a named entity of type organization

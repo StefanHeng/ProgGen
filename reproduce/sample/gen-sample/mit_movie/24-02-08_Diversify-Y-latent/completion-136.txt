@@ -1,0 +1,8 @@
+1. "Can you recommend any movies directed by Christopher Nolan?"
+Named Entities: [Christopher Nolan (Director)]
+
+2. "What are some Unforgettable movies from the 1990s?"
+Named Entities: [Unforgettable (Title), 1990s (Year)]
+
+3. "Show me a movie with a 4.5-star rating."
+Named Entities: [4.5 stars (Viewers' Rating)]

@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants near the city center?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), city center (Location)]
+
+Query: "I'm craving sushi, where can I find a sushi buffet in the city center?"
+Named Entities: [sushi (Cuisine), sushi buffet (Amenity), city center (Location)]
+
+Query: "Can you recommend a budget-friendly Mexican restaurant for dinner in the city center?"
+Named Entities: [budget-friendly (Price), Mexican (Cuisine), dinner (Amenity), city center (Location)]

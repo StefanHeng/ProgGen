@@ -1,0 +1,8 @@
+1. "What genre does the movie "Surreal" fall under?"
+Named Entities: [Surreal (Title)]
+
+2. "I heard George Miller directed a movie with a thrilling plot, can you recommend it?"
+Named Entities: [George Miller (Director), thrilling (Plot)]
+
+3. "Is there a movie directed by Michael Smith that has a PG-13 rating and is a romantic comedy?"
+Named Entities: [Michael Smith (Director), PG-13 (MPAA Rating), romantic comedy (Genre)]

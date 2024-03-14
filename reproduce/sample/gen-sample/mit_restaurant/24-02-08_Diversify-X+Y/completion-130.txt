@@ -1,0 +1,8 @@
+1. "Can you recommend a good Italian buffet restaurant in the area for those with a dairy-free diet"
+Named Entities: [Good (Rating), Italian (Cuisine), dairy-free (Amenity)]
+
+2. "Where can I find an Italian buffet with a dairy-free menu and great cocktails"
+Named Entities: [Italian (Cuisine), dairy-free (Amenity), great (Rating), cocktails (Amenity)]
+
+3. "I'm looking for a buffet restaurant that offers dairy-free options, particularly Italian cuisine and a good selection of cocktails"
+Named Entities: [dairy-free (Amenity), Italian (Cuisine), good (Rating), cocktails (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of the movie Geppetto directed by Tom Moore?"
+Named Entities: [Geppetto (Title), Tom Moore (Director)]
+
+2. "Are there any movies about bank robberies that have a high viewers' rating?"
+Named Entities: [bank robberies (Plot), high (Viewers' Rating)]
+
+3. "I'm looking for a thriller involving organized crime and betrayal and double-cross."
+Named Entities: [thriller (Genre), organized crime (Plot), betrayal and double-cross (Plot)]

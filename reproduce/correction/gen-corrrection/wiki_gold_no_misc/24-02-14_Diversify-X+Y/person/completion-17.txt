@@ -1,0 +1,8 @@
+1. Text Span: "Apollo"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Chester W. Nimitz"
+Label: (B). Wrong Boundary. The correct span boundary is "Chester W. Nimitz"
+
+3. Text Span: "Serena Williams"
+Label: (A). Correct Entity Annotation.

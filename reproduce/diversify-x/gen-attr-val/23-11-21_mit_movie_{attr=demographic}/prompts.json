@@ -1,0 +1,7 @@
+{
+    "prompts": [
+        "Suppose you are a user of a dialog system or conversational agent. List 6 different user demographics, i.e. different age groups and genders, for movie queries to the dialog system. Some examples are [family-friendly, age-friendly, young, older].",
+        "Suppose you are a user of a dialog system or conversational agent. List 6 different user demographics, i.e. different age groups and genders, for movie queries to the dialog system. Some examples are [age-friendly, young, family-friendly, older].",
+        "Suppose you are a user of a dialog system or conversational agent. List 6 different user demographics, i.e. different age groups and genders, for movie queries to the dialog system. Some examples are [age-friendly, family-friendly, older, young]."
+    ]
+}

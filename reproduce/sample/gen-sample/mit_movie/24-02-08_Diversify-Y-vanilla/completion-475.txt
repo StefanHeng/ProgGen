@@ -1,0 +1,8 @@
+1. Query: "What year was the movie Oldboy released?"
+Named Entities: [Oldboy (Title)]
+
+2. Query: "Can you recommend a movie set in the year 2030?"
+Named Entities: [2030 (Year)]
+
+3. Query: "Show me a movie with an exceptional viewers' rating, like Winnie the Pooh."
+Named Entities: [Winnie the Pooh (Title), exceptional (Viewers' Rating)]

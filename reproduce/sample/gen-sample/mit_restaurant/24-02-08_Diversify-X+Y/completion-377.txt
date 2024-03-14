@@ -1,0 +1,8 @@
+Query: "Can you recommend a terrific café with halal options by the waterfront?"
+Named Entities: [terrific café (Amenity), halal (Cuisine), waterfront (Location)]
+
+Query: "I'm looking for a top-notch café with budget-friendly options for halal food"
+Named Entities: [top-notch café (Amenity), budget-friendly (Price), halal (Cuisine)]
+
+Query: "Where can I find a waterfront café with halal dishes at an affordable price?"
+Named Entities: [waterfront (Location), halal (Cuisine), affordable (Price)]

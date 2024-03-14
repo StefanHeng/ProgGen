@@ -1,0 +1,44 @@
+1. Stock market hits record high as tech companies soar.
+Named Entities: []
+
+2. President Biden signs executive order on climate change.
+Named Entities: [President Biden (person)]
+
+3. New York City subway system faces budget crisis.
+Named Entities: [New York City (location)]
+
+4. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+5. The United Nations condemns human rights abuses in Myanmar.
+Named Entities: [United Nations (organization), Myanmar (location)]
+
+6. Apple unveils latest iPhone model.
+Named Entities: [Apple (organization)]
+
+7. China surpasses United States in renewable energy production.
+Named Entities: [China (location), United States (location)]
+
+8. Prime Minister Modi meets with Russian President Putin.
+Named Entities: [Prime Minister Modi (person), Russian President Putin (person)]
+
+9. Pfizer announces new vaccine efficacy study results.
+Named Entities: [Pfizer (organization)]
+
+10. Hurricane Florence devastates coastal communities.
+Named Entities: [Hurricane Florence (location)]
+
+11. Tesla reports record profits for the quarter.
+Named Entities: [Tesla (organization)]
+
+12. Brazil surpasses 500,000 COVID-19 deaths.
+Named Entities: [Brazil (location)]
+
+13. Google faces antitrust probe from European Union.
+Named Entities: [Google (organization), European Union (organization)]
+
+14. CEO of Amazon steps down from role.
+Named Entities: [CEO of Amazon (person)]
+
+15. Massive wildfire threatens California town.
+Named Entities: [California (location)]

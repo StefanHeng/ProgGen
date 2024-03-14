@@ -1,0 +1,11 @@
+1. Query: 'When was "The Godfather" {{released}}?'
+Text Span: "released"
+Label: (D). Not a Named Entity
+
+2. Query: "what are the best musicals that have been released {{recently}}"
+Text Span: "recently"
+Label: (D). Not a Named Entity
+
+3. Query: "Who directed Saving Private Ryan and what year was it {{released}}"
+Text Span: "released"
+Label: (D). Not a Named Entity

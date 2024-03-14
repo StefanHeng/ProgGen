@@ -1,0 +1,12 @@
+// {"sentence": "I need to find a 24-hour diner for late-night cravings.", "entity_span": "24-hour diner", "label": "WRONG_SPAN", "correct_span": "24-hour"}
+// {"sentence": "I need to book a table at Olive Garden for 7 pm tonight.", "entity_span": "7 pm tonight", "label": "CORRECT"}
+// {"sentence": "I'm looking for a quick lunch spot with vegetarian options", "entity_span": "lunch", "label": "CORRECT"}
+// {"sentence": "Is there a place around here that serves late-night tacos?", "entity_span": "late-night", "label": "CORRECT"}
+{"sentence": "Call Olive Garden and make a [reservation for 7:00 pm].", "entity_span": "reservation for 7:00 pm", "label": "WRONG_SPAN", "correct_span": "7:00 pm"}
+
+{"sentence": "I need to find a 24-hour diner for late-night cravings.", "entity_span": "24-hour diner", "label": "WRONG_SPAN", "correct_span": "24-hour"}
+{"sentence": "I need to book a table at Olive Garden for 7 pm tonight.", "entity_span": "7 pm tonight", "label": "CORRECT"}
+{"sentence": "I'm looking for a quick lunch spot with vegetarian options", "entity_span": "lunch", "label": "CORRECT"}
+{"sentence": "Is there a place around here that serves late-night tacos?", "entity_span": "late-night", "label": "CORRECT"}
+{"sentence": "Call Olive Garden and make a reservation for 7:00 pm.", "entity_span": "reservation for 7:00 pm", "label": "WRONG_SPAN", "correct_span": "7:00 pm"}
+{"sentence": "What are the operating hours of the nearest burger joint?", "entity_span": "operating hours", "label": "NA"}

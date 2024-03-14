@@ -1,0 +1,8 @@
+Query: "What movies directed by Christopher Nolan are available on Netflix?"
+Named Entities: [Christopher Nolan (Director), Netflix (Streaming Platform)]
+
+Query: "Find me a movie with a high IMDb rating that I can watch on Amazon Prime"
+Named Entities: [high IMDb rating (Viewers' Rating), Amazon Prime (Streaming Platform)]
+
+Query: "Show me a film starring Meryl Streep that I can stream on Hulu"
+Named Entities: [Meryl Streep (Actor), Hulu (Streaming Platform)]

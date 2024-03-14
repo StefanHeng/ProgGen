@@ -1,0 +1,8 @@
+1. "What are the hours of operation for The Cheesecake Factory?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), hours of operation (Hours)]
+
+2. "I'm craving a burger, where can I find a fast food restaurant nearby?"
+Named Entities: [burger (Dish), fast food (Amenity), nearby (Location)]
+
+3. "Can you recommend a fine dining restaurant with a good seafood menu?"
+Named Entities: [fine dining (Amenity), seafood (Cuisine)]

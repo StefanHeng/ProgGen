@@ -1,0 +1,8 @@
+1. Query: "Hey, can you tell me about a movie directed by Quentin Tarantino that gives a behind-the-scenes look at filmmaking?"
+   Named Entities: [Quentin Tarantino (Director), behind-the-scenes (Plot)]
+
+2. Query: "I'm so pumped to learn about a classic action movie from the 80s with a killer soundtrack. Can you show me a behind-the-scenes clip?"
+   Named Entities: [classic action movie (Genre), 80s (Year), killer soundtrack (Song), behind-the-scenes (Trailer)]
+
+3. Query: "I'm dying to know about a suspenseful thriller directed by Alfred Hitchcock. Can you please share some behind-the-scenes secrets with me?"
+   Named Entities: [suspenseful thriller (Genre), Alfred Hitchcock (Director), behind-the-scenes (Plot)]

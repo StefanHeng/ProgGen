@@ -1,0 +1,8 @@
+1. Text Span: "Preview clip"
+Label: (B). The correct span boundary is "clip".
+
+2. Text Span: "movie snippet"
+Label: (B). The correct span boundary is "snippet".
+
+3. Text Span: "Glimpse"
+Label: (C). The span is a named entity but the category is not trailer. The correct entity type is "Title".

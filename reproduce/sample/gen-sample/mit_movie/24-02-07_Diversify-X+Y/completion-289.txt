@@ -1,0 +1,8 @@
+1. "Could you provide the plot summary for the film noir classic 'Double Indemnity' released in 1944?"
+Named Entities: ['Double Indemnity' (Title), 1944 (Year), film noir (Genre)]
+
+2. "I am interested in learning more about the plot and synopsis of a movie starring Saoirse Ronan. Can you recommend one?"
+Named Entities: [Saoirse Ronan (Actor)]
+
+3. "I'm looking for a movie with interesting plot developments that received a three-star review. Can you suggest one released in 1990?"
+Named Entities: [three-star review (Review), 1990 (Year), interesting plot developments (Plot)]

@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Italian food, is there a good pizza place nearby"
+Named Entities: [Italian (Cuisine), pizza (Dish), nearby (Location)]
+
+Query: "what time does the seafood restaurant close tonight"
+Named Entities: [seafood (Cuisine), tonight (Hours)]
+
+Query: "show me the top-rated sushi spots in town"
+Named Entities: [top-rated (Rating), sushi (Cuisine), town (Location)]

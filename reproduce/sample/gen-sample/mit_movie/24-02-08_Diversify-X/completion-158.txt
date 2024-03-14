@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for the latest James Bond movie?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. Query: "What movie from the 1990s is a must-see action film?"
+Named Entities: [1990s (Year), action (Genre), must-see (Viewers' Rating)]
+
+3. Query: "Who directed the science fiction movie with a PG-13 rating that came out last year?"
+Named Entities: [science fiction (Genre), PG-13 (MPAA Rating), last year (Year)]

@@ -1,0 +1,11 @@
+1. Query: "Is Margot Robbie in any historical films that are a {{must see}} with a GP rating?"
+Text Span: "must see"
+Label: (A). The span is a named entity of type review
+
+2. Query: "I heard {{mixed reviews}} about the latest action film. Can you give me some details about its mediocre feedback?"
+Text Span: "mixed reviews"
+Label: (A). The span is a named entity of type review
+
+3. Query: "Can you recommend a movie from the 90s with a strong female lead and a {{great Plot}}?"
+Text Span: "great Plot"
+Label: (A). The span is a named entity of type review

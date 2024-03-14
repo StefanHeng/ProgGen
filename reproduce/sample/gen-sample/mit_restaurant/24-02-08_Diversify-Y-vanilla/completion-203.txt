@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Mexican restaurant with a high rating for under 20 dollars per person?"
+   Named Entities: [Mexican (Cuisine), high rating (Rating), under 20 dollars per person (Price)]
+
+2. Query: "Where can I find a vegan restaurant serving Tofu Stir-fry?"
+   Named Entities: [vegan (Cuisine), Tofu Stir-fry (Dish)]
+
+3. Query: "What are the hours of the Thai restaurant near the city center?"
+   Named Entities: [Thai (Cuisine), near the city center (Location)]

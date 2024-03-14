@@ -1,0 +1,4 @@
+{"sentence": "Can you recommend a family-friendly movie rated PG with the song Sound of Silence?", "entity_span": "PG", "label": "CORRECT"}
+{"sentence": "What are some unforgettable G-rated movies from the 90s", "entity_span": "G-rated", "label": "WRONG_SPAN", "correct_span": "G"}
+{"sentence": "I want to see a trailer for The Wolf of Wall Street, rated R", "entity_span": "rated R", "label": "WRONG_SPAN", "correct_span": "R"}
+{"sentence": "who directed the movie Amadeus and is it appropriate for mature audiences", "entity_span": "mature audiences", "label": "WRONG_TYPE", "correct_type": "other"}

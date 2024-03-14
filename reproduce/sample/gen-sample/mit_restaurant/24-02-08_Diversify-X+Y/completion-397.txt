@@ -1,0 +1,8 @@
+Query: "What are some nearby fast food options for a meal deal"
+Named Entities: [fast food (Cuisine), Meal Deal (Amenity), Nearby (Location)]
+
+Query: "Where can I find a food truck rally serving fast food"
+Named Entities: [food truck rally (Amenity), fast food (Cuisine)]
+
+Query: "I'm craving a quick meal, can you recommend a good fast food place with affordable prices"
+Named Entities: [quick meal (Amenity), fast food (Cuisine), affordable prices (Price)]

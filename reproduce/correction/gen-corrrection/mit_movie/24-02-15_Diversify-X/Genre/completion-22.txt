@@ -1,0 +1,8 @@
+1. Text Span: "new thriller film"
+Label: (B). Wrong Boundary. The correct span boundary is "thriller film".
+
+2. Text Span: "adventure plot"
+Label: (C). The span is a named entity but the category is not genre. Entity Type: Plot
+
+3. Text Span: "crazy action movie"
+Label: (A). The span is a named entity of type genre

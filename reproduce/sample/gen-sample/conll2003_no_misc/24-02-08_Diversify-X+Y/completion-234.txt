@@ -1,0 +1,8 @@
+Sentence: "PFLAG opens new support center for LGBTQ+ youth."
+Named Entities: [PFLAG (organization), LGBTQ+ (group)]
+
+Sentence: "City Council holds public hearing on PFLAG-sponsored anti-discrimination ordinance."
+Named Entities: [City Council (organization), PFLAG (organization)]
+
+Sentence: "Transgender activist speaks at PFLAG event on LGBTQ+ rights."
+Named Entities: [PFLAG (organization), LGBTQ+ (group), transgender activist (person)]

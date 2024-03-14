@@ -1,0 +1,59 @@
+1. Where is the best Italian restaurant in town?
+   Named Entities: [Italian (Cuisine)]
+
+2. What time does the Chinese restaurant open?
+   Named Entities: [Chinese (Cuisine), open (Hours)]
+
+3. Can you recommend a burger joint with a kids menu?
+   Named Entities: [burger (Cuisine), kids menu (Amenity)]
+
+4. I want to try authentic Mexican food, any suggestions?
+   Named Entities: [authentic (Rating), Mexican (Cuisine)]
+
+5. What is the price range for seafood restaurants in the area?
+   Named Entities: [seafood (Cuisine), price range (Price)]
+
+6. Show me a list of restaurants with vegan options.
+   Named Entities: [vegan (Cuisine)]
+
+7. Find a restaurant that serves brunch all day.
+   Named Entities: [brunch (Amenity), all day (Hours)]
+
+8. I need a reservation for a party of 6 at a French restaurant.
+   Named Entities: [reservation (Amenity), party of 6 (Amenity), French (Cuisine)]
+
+9. Take me to the nearest pizza place.
+   Named Entities: [nearest (Location), pizza (Cuisine)]
+
+10. Can you tell me the rating of that new sushi restaurant?
+    Named Entities: [rating (Rating), sushi (Cuisine)]
+
+11. Are there any 24-hour diners in the area?
+    Named Entities: [24-hour (Hours), diners (Amenity)]
+
+12. Where can I get a good cup of coffee around here?
+    Named Entities: [good (Rating), coffee (Cuisine), around here (Location)]
+
+13. I'm craving some barbecue, can you find a place nearby?
+    Named Entities: [barbecue (Cuisine), nearby (Location)]
+
+14. I would like to know the opening hours of the Thai restaurant.
+    Named Entities: [opening hours (Hours), Thai (Cuisine)]
+
+15. Do you have any recommendations for a restaurant with outdoor seating?
+    Named Entities: [recommendations (Amenity), outdoor seating (Amenity)]
+
+16. Find me a place with a 5-star rating.
+    Named Entities: [5-star (Rating)]
+
+17. What is the best Italian restaurant in the city?
+    Named Entities: [best (Rating), Italian (Cuisine), the city (Location)]
+
+18. I want to have dinner at a place with live music.
+    Named Entities: [dinner (Amenity), live music (Amenity)]
+
+19. Is there a Mexican restaurant with a rooftop patio?
+    Named Entities: [Mexican (Cuisine), rooftop patio (Amenity)]
+
+20. Can you find a nice Italian restaurant for a special occasion?
+    Named Entities: [nice (Rating), Italian (Cuisine), special occasion (Amenity)]

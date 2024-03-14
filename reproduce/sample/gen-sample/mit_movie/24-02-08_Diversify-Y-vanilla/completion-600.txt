@@ -1,0 +1,8 @@
+1. "Can you recommend a resonant movie with a powerful message and a Western theme?"
+Named Entities: [resonant (Review), powerful message (Plot), Western (Genre)]
+
+2. "I'm looking for a film from the 1970s with a strong female lead, can you suggest one?"
+Named Entities: [1970s (Year), strong female lead (Character)]
+
+3. "Who directed the top-rated science fiction movie of all time and can you provide a trailer?"
+Named Entities: [top-rated (Viewers' Rating), science fiction (Genre), trailer (Trailer)]

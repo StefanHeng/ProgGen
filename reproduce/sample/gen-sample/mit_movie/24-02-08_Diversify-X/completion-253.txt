@@ -1,0 +1,8 @@
+1. Query: "Hey, when is the next showing for the latest Fast & Furious movie?"
+   Named Entities: [Fast & Furious (Title)]
+
+2. Query: "Do you know if there are any good action movies playing this weekend?"
+   Named Entities: [action movies (Genre), weekend (Year)]
+
+3. Query: "Can you find me tickets for the new Spider-Man movie?"
+   Named Entities: [Spider-Man (Title)]

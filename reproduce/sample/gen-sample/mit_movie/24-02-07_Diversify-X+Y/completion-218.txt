@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me the plot of a movie with a spectacular and dense plot released between 1995 and 2005?"
+   Named Entities: [Spectacular (Plot), Dense plot (Plot), 1995-2005 (Year)]
+
+2. Spoken Query: "I'm looking for a G-rated movie with a dance theme and an intriguing plot. Can you recommend one?"
+   Named Entities: [G (MPAA Rating), Dance (Plot)]
+
+3. Spoken Query: "I'm interested in a movie from the late 90s with a captivating plot. Can you give me a synopsis of such a film?"
+   Named Entities: [1995-2005 (Year), Captivating (Plot)]

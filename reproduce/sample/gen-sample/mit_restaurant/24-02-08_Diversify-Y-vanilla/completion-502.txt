@@ -1,0 +1,8 @@
+1. "I'm craving some tapas for dinner, can you recommend a good spot nearby?"
+   Named Entities: [tapas (Cuisine), nearby (Location)]
+
+2. "What time does McDonald's open for breakfast?"
+   Named Entities: [McDonald's (Restaurant Name), breakfast (Hours)]
+
+3. "Do you know any affordable restaurants that serve tapas?"
+   Named Entities: [affordable (Price), tapas (Cuisine)]

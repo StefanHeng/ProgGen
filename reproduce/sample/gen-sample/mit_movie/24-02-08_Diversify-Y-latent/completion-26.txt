@@ -1,0 +1,8 @@
+Query: "What is the genre of the movie Beauty and the Beast"
+Named Entities: [Beauty and the Beast (Title)]
+
+Query: "Show me a movie that features the character Mystique"
+Named Entities: [Mystique (Character)]
+
+Query: "Is the movie directed by Paul Feig considered top-notch"
+Named Entities: [Paul Feig (Director), top-notch (Review)]

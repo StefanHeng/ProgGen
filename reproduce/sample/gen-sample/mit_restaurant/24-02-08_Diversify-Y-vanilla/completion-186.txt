@@ -1,0 +1,8 @@
+Query: "I'm looking for a vegetarian restaurant with a good rating for dinner hours."
+Named Entities: [vegetarian (Cuisine), good (Rating), [Dinner hours]
+
+Query: "Can you recommend a Mexican restaurant with outdoor seating and a children's menu for dinner hours?"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), children's menu (Amenity), [Dinner hours]
+
+Query: "What's the nearest Italian restaurant with a 4-star rating and a price range of $20-30 per person for dinner hours?"
+Named Entities: [Italian (Cuisine), 4-star (Rating), $20-30 per person (Price), [Dinner hours]

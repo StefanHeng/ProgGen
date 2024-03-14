@@ -1,0 +1,8 @@
+1. "Do you know any fine dining restaurants with an early bird special?"
+Named Entities: [fine dining (Amenity), early bird special (Amenity)]
+
+2. "I want to make a reservation at Osteria Mozza, a cozy and intimate Italian restaurant."
+Named Entities: [Osteria Mozza (Restaurant Name), cozy and intimate (Amenity), Italian (Cuisine)]
+
+3. "Can you recommend a fine dining place with a romantic atmosphere like Osteria Mozza?"
+Named Entities: [fine dining (Amenity), romantic atmosphere (Amenity), Osteria Mozza (Restaurant Name)]

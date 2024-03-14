@@ -1,0 +1,11 @@
+1. Sentence: "The Naval Special Warfare Development Group, commonly known as DEVGRU or SEAL Team Six, is the United States Navy component of the {{Joint Special Operations Command}}."
+Text Span: "Joint Special Operations Command"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{Ingredients}} and traditions can vary significantly between different cuisines, and it is often influenced by the local produce and cultural preferences."
+Text Span: "Ingredients"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "The United Nations Environment Programme (UNEP) is the leading global environmental authority that sets the global environmental agenda, promotes the coherent implementation of the environmental dimension of sustainable development within the {{United Nations}} system, and serves as an authoritative advocate for the global environment."
+Text Span: "United Nations"
+Label: (A). The span is a named entity of type organization

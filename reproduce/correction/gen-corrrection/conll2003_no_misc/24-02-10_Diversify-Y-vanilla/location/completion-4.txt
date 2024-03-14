@@ -1,0 +1,11 @@
+1. Sentence: "{{Tel Aviv}} mayor announces new public transportation initiatives to reduce traffic congestion."
+Text Span: "Tel Aviv"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Tokyo}} to host 2021 Summer Olympics."
+Text Span: "Tokyo"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Local organization in {{Beirut}} launches community recycling program to combat pollution."
+Text Span: "Beirut"
+Label: (A). The span is a named entity of type location

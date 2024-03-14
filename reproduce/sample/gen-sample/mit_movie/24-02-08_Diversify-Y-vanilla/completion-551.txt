@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a nostalgic movie featuring Tom Cruise?"
+   Named Entities: [nostalgic (Viewers' Rating), Tom Cruise (Actor)]
+
+2. Query: "Show me a featurette for the 2014 movie with a character like Gollum."
+   Named Entities: [featurette (Trailer), 2014 (Year), Gollum (Character)]
+
+3. Query: "What is the plot of the movie about the Gladiator rebellion, with a character like Mystique?"
+   Named Entities: [Gladiator rebellion (Plot), Mystique (Character)]

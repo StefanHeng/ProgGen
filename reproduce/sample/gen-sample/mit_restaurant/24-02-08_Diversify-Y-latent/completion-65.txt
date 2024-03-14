@@ -1,0 +1,8 @@
+1. "Can you recommend a popular choice for a restaurant that offers gluten-free options?"
+Named Entities: [popular choice (Amenity), gluten-free options (Amenity)]
+
+2. "I'm looking for a place with gluten-free options and a good rating. Any suggestions?"
+Named Entities: [gluten-free options (Amenity), good rating (Rating)]
+
+3. "Where can I find a popular choice for a restaurant with gluten-free options and a variety of vegetarian dishes?"
+Named Entities: [popular choice (Amenity), gluten-free options (Amenity), vegetarian dishes (Cuisine)]

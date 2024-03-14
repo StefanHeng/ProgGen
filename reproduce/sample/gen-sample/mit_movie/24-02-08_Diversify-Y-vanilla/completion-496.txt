@@ -1,0 +1,8 @@
+1. Query: "Can you recommend an Anime movie directed by Werner Herzog?"
+Named Entities: [Anime (Genre), Werner Herzog (Director)]
+
+2. Query: "Could you show me a Trailer segment for the new Tarzan movie?"
+Named Entities: [Trailer segment (Trailer), Tarzan (Title)]
+
+3. Query: "Is there a movie directed by Edgar Wright with a high Viewers' Rating?"
+Named Entities: [Edgar Wright (Director), Viewers' Rating (Viewers' Rating)]

@@ -1,0 +1,11 @@
+1. Query: "What are some outstanding lunch establishments with a 5-star rating and a {{moderate}} price range?"
+Text Span: "moderate"
+Label: (A). The span is a named entity of type price
+
+2. Query: "I'm in the mood for some barbecue fast food, where can I find a {{mid-range}} restaurant nearby?"
+Text Span: "mid-range"
+Label: (A). The span is a named entity of type price
+
+3. Query: "Can you recommend a {{high-end}} fast food restaurant with a special on fish and chips?"
+Text Span: "high-end"
+Label: (A). The span is a named entity of type price

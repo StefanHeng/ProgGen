@@ -1,0 +1,11 @@
+1. Query: "can you recommend any {{Nearby}} Italian restaurants with a patio?"
+Text Span: "Nearby"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "Nearby Italian restaurants".
+
+2. Query: "Can you recommend any restaurants nearby that have a {{great selection}} of sandwiches"
+Text Span: "great selection"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "Do you know any upscale restaurants with a {{prix fixe}} menu in the area?"
+Text Span: "prix fixe"
+Label: (A). The span is a named entity of type amenity

@@ -1,0 +1,8 @@
+1. "I am looking for a movie directed by Steven Spielberg in 1843 with a TV-MA rating"
+Named Entities: [Steven Spielberg (Director), 1843 (Year), TV-MA (MPAA Rating)]
+
+2. "Can you show me a clip from a movie featuring Arya Stark?"
+Named Entities: [Arya Stark (Character), clip (Trailer)]
+
+3. "Are there any cinema listings for Grease, the movie with the character Mad Hatter?"
+Named Entities: [Grease (Title), Mad Hatter (Character), cinema listings (Plot)]

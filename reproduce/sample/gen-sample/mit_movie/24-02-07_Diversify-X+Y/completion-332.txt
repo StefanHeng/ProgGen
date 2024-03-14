@@ -1,0 +1,8 @@
+1. "Can you recommend a film that falls into the Drama genre, but with a subgenre that's a bit dark and mysterious?"
+Named Entities: [Drama (Genre)]
+
+2. "Is there an unrated movie directed by Joe Wright that has elements of both comedy and psycho-thriller?"
+Named Entities: [unrated (MPAA Rating), Joe Wright (Director), comedy (Genre), psycho (Genre)]
+
+3. "I'm looking for a film that combines elements of both comedy and drama - something light-hearted, but with depth. Can you suggest anything?"
+Named Entities: [comedy (Genre), drama (Genre)]

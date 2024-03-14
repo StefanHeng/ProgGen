@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Inception?"
+   Named Entities: [Inception (Title)]
+
+2. Query: "What movie did Meryl Streep star in with the song 'Dancing Queen'?"
+   Named Entities: [Meryl Streep (Actor), Dancing Queen (Song)]
+
+3. Query: "Show me a film with a high viewers' rating that was directed by Christopher Nolan"
+   Named Entities: [Christopher Nolan (Director), high viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a mind-bending movie similar to Inception?"
+Named Entities: [mind-bending (Genre), Inception (Title)]
+
+2. "Show me a sports movie directed by Clint Eastwood and released in the 2000s"
+Named Entities: [sports (Genre), Clint Eastwood (Director), 2000s (Year)]
+
+3. "What is the viewers' rating for Million Dollar Baby?"
+Named Entities: [Million Dollar Baby (Title), viewers' rating (Viewers' Rating)]

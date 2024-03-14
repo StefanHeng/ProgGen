@@ -1,0 +1,8 @@
+1. Text Span: "Hindu philosophy"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Academy Awards"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Vostok 6"
+Label: (A). Correct Entity Annotation.

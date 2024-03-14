@@ -1,0 +1,8 @@
+Query: "Can I watch the latest Marvel movie at the theater tonight?"
+Named Entities: [Marvel (Genre)]
+
+Query: "Is there a showing of the new Christopher Nolan film at the cinema near me?"
+Named Entities: [Christopher Nolan (Director)]
+
+Query: "What are the showtimes for the action movie with Tom Cruise in it?"
+Named Entities: [Tom Cruise (Actor), action (Genre)]

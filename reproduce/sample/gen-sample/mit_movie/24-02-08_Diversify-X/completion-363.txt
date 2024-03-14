@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which film won the Best Picture award in 2019 at the Oscars?"
+Named Entities: [2019 (Year), Best Picture (Awards)]
+
+2. Query: "Has any movie from the 1990s been nominated for the Palme d'Or at the Cannes Film Festival?"
+Named Entities: [1990s (Year), Palme d'Or (Awards), Cannes Film Festival (Title)]
+
+3. Query: "I'm looking for a movie directed by Quentin Tarantino that received multiple Oscar nominations."
+Named Entities: [Quentin Tarantino (Director), Oscar nominations (Awards)]

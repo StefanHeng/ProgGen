@@ -1,0 +1,149 @@
+1. Can you recommend a good horror movie from the 1980s?
+   Named Entities: [horror (Genre), 1980s (Year)]
+
+2. Who directed the movie The Shawshank Redemption?
+   Named Entities: [The Shawshank Redemption (Title)]
+
+3. Show me some action movie trailers from the 1990s.
+   Named Entities: [action (Genre), 1990s (Year)]
+
+4. What is the plot of the movie Inception?
+   Named Entities: [Inception (Title)]
+
+5. Is there a movie with a character named Jack Sparrow?
+   Named Entities: [Jack Sparrow (Character)]
+
+6. Tell me about some highly-rated comedy films.
+   Named Entities: [comedy (Genre), highly-rated (Viewers' Rating)]
+
+7. Can I watch a romance movie from the 2000s?
+   Named Entities: [romance (Genre), 2000s (Year)]
+
+8. Who starred in the film Titanic?
+   Named Entities: [Titanic (Title)]
+
+9. Are there any musicals with the song "I Dreamed a Dream"?
+   Named Entities: ["I Dreamed a Dream" (Song)]
+
+10. What is the MPAA rating for the movie The Dark Knight?
+    Named Entities: [The Dark Knight (Title)]
+
+11. Can you tell me about action movies starring Bruce Willis?
+    Named Entities: [action (Genre), Bruce Willis (Actor)]
+
+12. What movies have a viewers' rating of 5 stars?
+    Named Entities: [5 stars (Viewers' Rating)]
+
+13. Who directed the film Pulp Fiction?
+    Named Entities: [Pulp Fiction (Title)]
+
+14. Show me a movie trailer for a sci-fi film.
+    Named Entities: [sci-fi (Genre)]
+
+15. What is the plot of the movie Jurassic Park?
+    Named Entities: [Jurassic Park (Title)]
+
+16. Are there any movies with a character named Sherlock Holmes?
+    Named Entities: [Sherlock Holmes (Character)]
+
+17. Tell me about some highly-rated fantasy films.
+    Named Entities: [fantasy (Genre), highly-rated (Viewers' Rating)]
+
+18. Can I watch a thriller movie from the 2010s?
+    Named Entities: [thriller (Genre), 2010s (Year)]
+
+19. Who starred in the film The Godfather?
+    Named Entities: [The Godfather (Title)]
+
+20. Are there any movies with a viewers' rating of 4 stars?
+    Named Entities: [4 stars (Viewers' Rating)]
+
+21. What are some animated movies with a G rating?
+    Named Entities: [animated (Genre), G (MPAA Rating)]
+
+22. Who directed the film The Matrix?
+    Named Entities: [The Matrix (Title)]
+
+23. Show me a movie trailer for a romantic comedy.
+    Named Entities: [romantic comedy (Genre)]
+
+24. What is the plot of the movie The Lion King?
+    Named Entities: [The Lion King (Title)]
+
+25. Are there any movies with a character named James Bond?
+    Named Entities: [James Bond (Character)]
+
+26. Tell me about some highly-rated documentary films.
+    Named Entities: [documentary (Genre), highly-rated (Viewers' Rating)]
+
+27. Can I watch a western movie from the 1960s?
+    Named Entities: [western (Genre), 1960s (Year)]
+
+28. Who starred in the film Casablanca?
+    Named Entities: [Casablanca (Title)]
+
+29. Are there any movies with a viewers' rating of 3 stars?
+    Named Entities: [3 stars (Viewers' Rating)]
+
+30. What are some science fiction movies with a PG-13 rating?
+    Named Entities: [science fiction (Genre), PG-13 (MPAA Rating)]
+
+31. Who directed the film E.T. the Extra-Terrestrial?
+    Named Entities: [E.T. the Extra-Terrestrial (Title)]
+
+32. Show me a movie trailer for a mystery film.
+    Named Entities: [mystery (Genre)]
+
+33. What is the plot of the movie The Silence of the Lambs?
+    Named Entities: [The Silence of the Lambs (Title)]
+
+34. Are there any movies with a character named Indiana Jones?
+    Named Entities: [Indiana Jones (Character)]
+
+35. Tell me about some highly-rated war films.
+    Named Entities: [war (Genre), highly-rated (Viewers' Rating)]
+
+36. Can I watch a musical movie from the 1950s?
+    Named Entities: [musical (Genre), 1950s (Year)]
+
+37. Who starred in the film Gone with the Wind?
+    Named Entities: [Gone with the Wind (Title)]
+
+38. Are there any movies with a viewers' rating of 2 stars?
+    Named Entities: [2 stars (Viewers' Rating)]
+
+39. What are some thriller movies with an R rating?
+    Named Entities: [thriller (Genre), R (MPAA Rating)]
+
+40. Who directed the film The Godfather Part II?
+    Named Entities: [The Godfather Part II (Title)]
+
+41. Show me a movie trailer for a biographical film.
+    Named Entities: [biographical (Genre)]
+
+42. What is the plot of the movie The Wizard of Oz?
+    Named Entities: [The Wizard of Oz (Title)]
+
+43. Are there any movies with a character named Harry Potter?
+    Named Entities: [Harry Potter (Character)]
+
+44. Tell me about some highly-rated sports films.
+    Named Entities: [sports (Genre), highly-rated (Viewers' Rating)]
+
+45. Can I watch a comedy movie from the 1970s?
+    Named Entities: [comedy (Genre), 1970s (Year)]
+
+46. Who starred in the film Citizen Kane?
+    Named Entities: [Citizen Kane (Title)]
+
+47. Are there any movies with a viewers' rating of 1 star?
+    Named Entities: [1 star (Viewers' Rating)]
+
+48. What are some horror movies with an NC-17 rating?
+    Named Entities: [horror (Genre), NC-17 (MPAA Rating)]
+
+49. Who directed the film Schindler's List?
+    Named Entities: [Schindler's List (Title)]
+
+50. Show me a movie trailer for a fantasy adventure.
+    Named Entities: [fantasy adventure (Genre)]

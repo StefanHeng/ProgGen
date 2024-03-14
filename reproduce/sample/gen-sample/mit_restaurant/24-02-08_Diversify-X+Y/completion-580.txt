@@ -1,0 +1,8 @@
+Query: "Can you recommend any food trucks with a bakery section?"
+Named Entities: [food trucks (Amenity), bakery section (Amenity)]
+
+Query: "I'm looking for a food truck with live music and a bakery section, any suggestions?"
+Named Entities: [food truck (Amenity), live music (Amenity), bakery section (Amenity)]
+
+Query: "Where can I find a food truck that offers live music and has a bakery section?"
+Named Entities: [food truck (Amenity), live music (Amenity), bakery section (Amenity)]

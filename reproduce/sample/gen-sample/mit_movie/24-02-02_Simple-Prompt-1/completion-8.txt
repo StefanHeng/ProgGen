@@ -1,0 +1,149 @@
+1. Can I watch the trailer for the new Spider-Man movie
+   Named Entities: [trailer (Trailer), Spider-Man (Title)]
+
+2. What's your favorite movie from the 1980s
+   Named Entities: [1980s (Year)]
+
+3. Can you recommend a good horror movie to watch
+   Named Entities: [horror (Genre)]
+
+4. Who directed the film Inception
+   Named Entities: [Inception (Title)]
+
+5. What's the rating for the movie Titanic
+   Named Entities: [Titanic (Title)]
+
+6. Can you tell me the plot of the movie Shawshank Redemption
+   Named Entities: [Shawshank Redemption (Title)]
+
+7. Is Leonardo DiCaprio in any new action movies
+   Named Entities: [Leonardo DiCaprio (Actor), action (Genre)]
+
+8. Show me a list of all the movies directed by Steven Spielberg
+   Named Entities: [Steven Spielberg (Director)]
+
+9. Can you find a review for the movie The Godfather
+   Named Entities: [The Godfather (Title), review (Review)]
+
+10. What's the title of the highest-grossing film of all time
+   Named Entities: [highest-grossing (Viewers' Rating)]
+
+11. Are there any romantic comedies from the 1990s that are worth watching
+   Named Entities: [romantic comedies (Genre), 1990s (Year), worth watching (Viewers' Rating)]
+
+12. I want to watch a sci-fi movie with time travel, can you recommend one
+   Named Entities: [sci-fi (Genre)]
+
+13. Does the movie Pulp Fiction have a lot of violence
+   Named Entities: [Pulp Fiction (Title), violence (Plot)]
+
+14. What's the name of the movie with the song "My Heart Will Go On"
+   Named Entities: ["My Heart Will Go On" (Song)]
+
+15. Can you show me a clip of the movie The Matrix
+   Named Entities: [The Matrix (Title)]
+
+16. Who are the main actors in the movie Escape Room
+   Named Entities: [Escape Room (Title), actors (Actor)]
+
+17. I want to watch a movie with a strong female lead, any recommendations
+   Named Entities: [strong female lead (Character)]
+
+18. What's the MPAA rating for the film Black Panther
+   Named Entities: [Black Panther (Title), MPAA rating (MPAA Rating)]
+
+19. How many movies has Quentin Tarantino directed
+   Named Entities: [Quentin Tarantino (Director)]
+
+20. Show me a list of all the James Bond movies
+   Named Entities: [James Bond (Title)]
+
+21. What's the viewers' rating for the movie Inglourious Basterds
+   Named Entities: [Inglourious Basterds (Title), viewers' rating (Viewers' Rating)]
+
+22. Can you tell me the character names in the Avengers movie
+   Named Entities: [Avengers (Title), character names (Character)]
+
+23. Is there a specific song associated with the movie The Lion King
+   Named Entities: [The Lion King (Title), specific song (Song)]
+
+24. What's the best war movie from the 2000s
+   Named Entities: [war (Genre), 2000s (Year), best (Viewers' Rating)]
+
+25. Who is the director of the film Saving Private Ryan
+   Named Entities: [Saving Private Ryan (Title), director (Director)]
+
+26. Can you show me a clip of the movie The Dark Knight
+   Named Entities: [The Dark Knight (Title)]
+
+27. What's your favorite movie from the 1970s
+   Named Entities: [1970s (Year)]
+
+28. Can you recommend a good thriller movie to watch
+   Named Entities: [thriller (Genre)]
+
+29. Who directed the film Gladiator
+   Named Entities: [Gladiator (Title), director (Director)]
+
+30. What's the rating for the movie The Shawshank Redemption
+   Named Entities: [The Shawshank Redemption (Title)]
+
+31. Can you tell me the plot of the movie Forrest Gump
+   Named Entities: [Forrest Gump (Title)]
+
+32. Is Tom Cruise in any new action movies
+   Named Entities: [Tom Cruise (Actor), action (Genre)]
+
+33. Show me a list of all the movies directed by Christopher Nolan
+   Named Entities: [Christopher Nolan (Director)]
+
+34. Can you find a review for the movie Gone with the Wind
+   Named Entities: [Gone with the Wind (Title), review (Review)]
+
+35. What's the title of the highest-grossing animated film of all time
+   Named Entities: [highest-grossing (Viewers' Rating), animated film (Genre)]
+
+36. Are there any romantic comedies from the 1980s that are worth watching
+   Named Entities: [romantic comedies (Genre), 1980s (Year), worth watching (Viewers' Rating)]
+
+37. I want to watch a sci-fi movie with alien invasions, can you recommend one
+   Named Entities: [sci-fi (Genre)]
+
+38. Does the movie The Silence of the Lambs have a lot of violence
+   Named Entities: [The Silence of the Lambs (Title), violence (Plot)]
+
+39. What's the name of the movie with the song "I Will Always Love You"
+   Named Entities: ["I Will Always Love You" (Song)]
+
+40. Can you show me a clip of the movie Jurassic Park
+   Named Entities: [Jurassic Park (Title)]
+
+41. Who are the main actors in the movie The Grand Budapest Hotel
+   Named Entities: [The Grand Budapest Hotel (Title), actors (Actor)]
+
+42. I want to watch a movie with a mysterious suspense, any recommendations
+   Named Entities: [mysterious suspense (Plot)]
+
+43. What's the MPAA rating for the film The Avengers
+   Named Entities: [The Avengers (Title), MPAA rating (MPAA Rating)]
+
+44. How many movies has Sofia Coppola directed
+   Named Entities: [Sofia Coppola (Director)]
+
+45. Show me a list of all the James Cameron movies
+   Named Entities: [James Cameron (Director)]
+
+46. What's the viewers' rating for the movie The Departed
+   Named Entities: [The Departed (Title), viewers' rating (Viewers' Rating)]
+
+47. Can you tell me the character names in the Star Wars movie
+   Named Entities: [Star Wars (Title), character names (Character)]
+
+48. Is there a specific song associated with the movie Beauty and the Beast
+   Named Entities: [Beauty and the Beast (Title), specific song (Song)]
+
+49. What's the best drama movie from the 2010s
+   Named Entities: [drama (Genre), 2010s (Year), best (Viewers' Rating)]
+
+50. Who is the director of the film The Social Network
+   Named Entities: [The Social Network (Title), director (Director)]

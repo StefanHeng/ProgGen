@@ -1,0 +1,8 @@
+1. "What year was Platoon released and who directed it?"
+Named Entities: [Platoon (Title), released (Year), directed (Director)]
+
+2. "Can you recommend a movie that has received The recipient of numerous nominations for best picture?"
+Named Entities: [The recipient of numerous nominations (Viewers' Rating)]
+
+3. "Show me a trailer for a film with the same genre as The recipient of numerous nominations."
+Named Entities: [trailer (Trailer), The recipient of numerous nominations (Genre)]

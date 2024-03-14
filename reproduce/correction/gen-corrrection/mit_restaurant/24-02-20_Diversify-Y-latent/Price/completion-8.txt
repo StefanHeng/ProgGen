@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a restaurant with AAA Diamond Ratings and a {{prix fixe menu}} for dinner?"
+Text Span: "prix fixe menu"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Query: "Can you recommend a nice restaurant with {{Affordable Luxury}} for dinner tonight?"
+Text Span: "Affordable Luxury"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "What are the top-rated restaurants in the area known for their {{economic}} yet high-quality meals?"
+Text Span: "economic"
+Label: (C). Wrong Type. The correct entity type is Price.

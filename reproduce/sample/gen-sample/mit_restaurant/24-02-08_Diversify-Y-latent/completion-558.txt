@@ -1,0 +1,8 @@
+Query: "Can you recommend a budget-friendly Italian restaurant in the area?"
+Named Entities: [budget-friendly (Price), Italian (Cuisine), in the area (Location)]
+
+Query: "Which restaurant around here has a good happy hour menu?"
+Named Entities: [good (Rating), happy hour (Amenity), around here (Location)]
+
+Query: "I'm looking for a pricey steakhouse with outdoor seating and a view"
+Named Entities: [pricey (Price), steakhouse (Cuisine), outdoor seating (Amenity), with a view (Amenity)]

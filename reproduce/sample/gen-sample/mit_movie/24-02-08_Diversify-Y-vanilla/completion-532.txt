@@ -1,0 +1,8 @@
+1. "What are some 2008-2010 action movies that are considered a must-see"
+   Named Entities: [2008-2010 (Year), action (Genre), must-see (Viewers' Rating)]
+
+2. "Could you recommend a comedy film from 1945 with a 7 out of 10 rating"
+   Named Entities: [1945 (Year), comedy (Genre), 7 out of 10 (Viewers' Rating)]
+
+3. "Show me a trailer of the movie La Bamba"
+   Named Entities: [La Bamba (Title), trailer (Trailer)]

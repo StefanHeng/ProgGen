@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with wheelchair accessibility and brunch hours?"
+Named Entities: [Wheelchair accessibility (Amenity), Brunch hours (Hours)]
+
+Query: "I'm in the mood for some shrimp scampi, where can I find the best one in town?"
+Named Entities: [shrimp scampi (Dish)]
+
+Query: "Do you know a high-rated restaurant with a diverse menu for happy hour?"
+Named Entities: [high-rated (Rating), happy hour (Amenity)]

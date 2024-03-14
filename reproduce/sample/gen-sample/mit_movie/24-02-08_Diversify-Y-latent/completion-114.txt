@@ -1,0 +1,8 @@
+Query: "Can you recommend a mind-blowing film noir movie?"
+Named Entities: [mind-blowing (Viewers' Rating), film noir (Genre)]
+
+Query: "Who directed the Harry Potter film featuring James P. Sullivan as a character?"
+Named Entities: [Harry Potter (Title), James P. Sullivan (Character), directed (Director)]
+ 
+Query: "Show me a trailer for a movie with a similar plot to Harry Potter"
+Named Entities: [trailer (Trailer), Harry Potter (Title), similar plot (Plot)]

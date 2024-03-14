@@ -1,0 +1,8 @@
+1. "What's the rating for the latest Marvel movie?"
+Named Entities: [Marvel movie (Title), rating (Viewers' Rating)]
+
+2. "Who directed the highest-grossing film of last year?"
+Named Entities: [highest-grossing film (Title), last year (Year), directed (Director)]
+
+3. "Can you recommend a thriller movie with a high IMDb rating?"
+Named Entities: [thriller movie (Genre), high IMDb rating (Viewers' Rating)]

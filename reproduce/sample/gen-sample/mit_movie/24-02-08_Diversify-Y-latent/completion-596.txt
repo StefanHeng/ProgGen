@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie featuring Amy Adams as the lead actress?"
+Named Entities: [Amy Adams (Actor), viewers' rating (Viewers' Rating)]
+
+2. "Can you recommend a family-friendly movie with a rating of G and a sport-related plot?"
+Named Entities: [G (MPAA Rating), sport-related (Genre)]
+
+3. "I'm looking for a movie from the 90s with a GP rating and a 2.5 out of 5 viewers' rating."
+Named Entities: [90s (Year), GP (MPAA Rating), 2.5 out of (Viewers' Rating)]

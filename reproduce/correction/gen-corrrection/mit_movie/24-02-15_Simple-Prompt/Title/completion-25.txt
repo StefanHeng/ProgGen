@@ -1,0 +1,11 @@
+1. Query: "Who played the character Vito Corleone in {{The Godfather}}?"
+Text Span: "The Godfather"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: "Is there a review available for {{The Silence of the Lambs}}"
+Text Span: "The Silence of the Lambs"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: 'What is the theme song of the James Bond movie "{{Skyfall}}"?'
+Text Span: "Skyfall"
+Label: (A). The span is a named entity of type movie title

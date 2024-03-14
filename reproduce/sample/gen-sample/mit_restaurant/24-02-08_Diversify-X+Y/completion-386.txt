@@ -1,0 +1,8 @@
+Query: "I'm craving some late-night dining, can you suggest a place that does takeout, maybe like Midnight Munchies Diner?"
+Named Entities: [late-night dining (Amenity), takeout (Amenity), Midnight Munchies Diner (Restaurant Name)]
+
+Query: "I need a recommendation for a takeout place with late-night dining, maybe like Midnight Munchies Diner?"
+Named Entities: [takeout (Amenity), late-night dining (Amenity), Midnight Munchies Diner (Restaurant Name)]
+
+Query: "Where can I find a restaurant that offers takeout and specializes in late-night dining, possibly like Midnight Munchies Diner?"
+Named Entities: [takeout (Amenity), late-night dining (Amenity), Midnight Munchies Diner (Restaurant Name)]

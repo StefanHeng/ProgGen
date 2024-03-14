@@ -1,0 +1,10 @@
+Synthetic spoken queries related to restaurants:
+
+1. "What are the operating hours for the nearby Italian restaurant?"
+   Named Entities: [Italian (Cuisine), nearby (Location), operating hours (Hours)]
+
+2. "I'd like to find a sushi place with a high rating in this area."
+   Named Entities: [sushi (Cuisine), high (Rating), this area (Location)]
+
+3. "Can you recommend a restaurant with outdoor seating and a vegetarian menu?"
+   Named Entities: [outdoor seating (Amenity), vegetarian (Cuisine), restaurant (Amenity)]

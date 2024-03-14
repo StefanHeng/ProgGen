@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a cyberpunk dystopia film with a 4.5-star rating and available on streaming websites?"
+Named Entities: [cyberpunk dystopia (Genre), 4.5-star rating (Viewers' Rating), available on streaming websites (Availability)]
+
+2. Query: "I'm looking for a Sherlock Holmes movie starring Gerard Butler and directed by an award-winning director."
+Named Entities: [Sherlock Holmes (Title), Gerard Butler (Actor), award-winning (Award-winning)]
+
+3. Query: "What year did the cyberpunk dystopia film by director Ridley Scott with a 5-star rating come out?"
+Named Entities: [cyberpunk dystopia (Genre), Ridley Scott (Director), 5-star rating (Viewers' Rating)]

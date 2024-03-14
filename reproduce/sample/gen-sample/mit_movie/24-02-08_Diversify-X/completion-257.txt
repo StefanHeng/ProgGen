@@ -1,0 +1,8 @@
+Query: "What's a highly-rated movie with an intense plot that will keep me on the edge of my seat?"
+Named Entities: [highly-rated (Viewers' Rating), intense plot (Plot)]
+
+Query: "Can you recommend a movie with a mind-blowing twist ending that has received great reviews?"
+Named Entities: [mind-blowing twist ending (Plot), great reviews (Review)]
+
+Query: "I need a feel-good movie with a heartwarming plot and positive viewers' ratings to lift my spirits."
+Named Entities: [feel-good (Genre), heartwarming plot (Plot), positive viewers' ratings (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "can you recommend any U-rated wonderful movies released between 2015 and 2020 with a powerful message?"
+Named Entities: [U (MPAA Rating), wonderful (Viewers' Rating), 2015-2020 (Year), powerful message (Review)]
+
+2. Query: "can you show me a preview clip of a world war ii movie directed by steven spielberg"
+Named Entities: [preview clip (Trailer), world war ii (Genre), steven spielberg (Director)]
+
+3. Query: "is there a sports movie suitable for all ages with a great soundtrack?"
+Named Entities: [sports (Genre), all ages (MPAA Rating), great soundtrack (Song)]

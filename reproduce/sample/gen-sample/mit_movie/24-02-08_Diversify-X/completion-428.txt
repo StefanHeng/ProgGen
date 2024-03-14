@@ -1,0 +1,8 @@
+1. "Can you tell me about the director of the movie The Aviator?"
+   Named Entities: [The Aviator (Title), director (Director)]
+
+2. "What was the process of creating the special effects for the movie Jurassic Park?"
+   Named Entities: [Jurassic Park (Title), special effects (Plot)]
+
+3. "I'm interested in knowing about the actors who performed their own stunts in the movie Mission: Impossible. Can you provide some details?"
+   Named Entities: [Mission: Impossible (Title), actors (Actor), stunts (Plot)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the showtimes for the new James Bond movie?"
+Named Entities: [showtimes (Plot), James Bond (Character)]
+
+2. "Which theater is playing the latest Marvel movie and what time does it start?"
+Named Entities: [Marvel movie (Title)]
+
+3. "Are there any science fiction films with high viewers' ratings currently showing?"
+Named Entities: [science fiction (Genre), high viewers' ratings (Viewers' Rating)]

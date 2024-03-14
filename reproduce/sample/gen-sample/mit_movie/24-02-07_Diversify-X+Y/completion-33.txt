@@ -1,0 +1,8 @@
+1. "Can you provide me with the showtimes and ticket availability for the latest Jennifer Lawrence film?"
+Named Entities: [Jennifer Lawrence (Actor)]
+
+2. "I need information on the box office availability of a fantastic movie released in 2007."
+Named Entities: [fantastic (Genre), 2007 (Year), Box office availability]
+
+3. "Where can I find showtimes for the movie 'Ursula: Undercover Cop'?"
+Named Entities: [Ursula: Undercover Cop (Title)]

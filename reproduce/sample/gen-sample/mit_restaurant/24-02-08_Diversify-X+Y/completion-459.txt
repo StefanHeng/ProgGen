@@ -1,0 +1,8 @@
+Query: "Where can I find a luxury dining experience near a riverside?" 
+Named Entities: [luxury dining (Amenity), riverside (Location)]
+
+Query: "I'm looking for a high-end restaurant with a riverside view."
+Named Entities: [high-end (Price), riverside view (Amenity)]
+
+Query: "Do you have any recommendations for upscale dining options, like The French Laundry?"
+Named Entities: [upscale dining (Price), The French Laundry (Restaurant Name)]

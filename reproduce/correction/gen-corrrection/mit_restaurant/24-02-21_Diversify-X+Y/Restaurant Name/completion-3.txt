@@ -1,0 +1,11 @@
+1. Query: "I'm craving {{Chipotle}}, is there a location nearby?"
+Text Span: "Chipotle"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Can you recommend a romantic lunch place around {{Panera Bread}} that serves Italian cuisine?"
+Text Span: "Panera Bread"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What {{Homestyle Kitchen}} restaurants are open before 8 am?"
+Text Span: "Homestyle Kitchen"
+Label: (A). The span is a named entity of type restaurant name

@@ -1,0 +1,8 @@
+Query: "Can you suggest a must-try Italian restaurant in the downtown area?"
+Named Entities: [Italian (Cuisine), downtown area (Location), [Must-try]
+
+Query: "I'm looking for a place with outdoor seating and a kid-friendly menu. Do you know any restaurants like that nearby?"
+Named Entities: [outdoor seating (Amenity), kid-friendly (Amenity), nearby (Location)]
+
+Query: "What are the top-rated seafood restaurants in this city?"
+Named Entities: [top-rated (Rating), seafood (Cuisine), city (Location)]

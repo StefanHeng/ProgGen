@@ -1,0 +1,8 @@
+1. Text Span: "kids"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "doesn't like horror"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Text Span: "mpaa rating of g"
+Label: (B). Wrong Boundary. The correct span boundary is "G".

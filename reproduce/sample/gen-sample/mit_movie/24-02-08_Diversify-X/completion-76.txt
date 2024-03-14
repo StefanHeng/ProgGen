@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me about any movies directed by Martin Scorsese that have won an Oscar?"
+   Named Entities: [Martin Scorsese (Director), won an Oscar (Awards and nominations)]
+
+2. Spoken Query: "What are some highly acclaimed science fiction movies from the 1980s?"
+   Named Entities: [science fiction (Genre), 1980s (Year)]
+
+3. Spoken Query: "Show me a film featuring Meryl Streep that received multiple Golden Globe nominations."
+   Named Entities: [Meryl Streep (Actor), Golden Globe nominations (Awards and nominations)]

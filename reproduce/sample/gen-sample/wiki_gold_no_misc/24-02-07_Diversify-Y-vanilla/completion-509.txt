@@ -1,0 +1,8 @@
+Sentence: "The company was founded in 1975 and is headquartered in Cupertino, California."
+Named Entities: [Cupertino (location), California (location)]
+
+Sentence: "She became the first person to win the award three times in a row."
+Named Entities: []
+
+Sentence: "The organization's annual conference will be held in Tokyo, Japan next year."
+Named Entities: [Tokyo (location), Japan (location)]

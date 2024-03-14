@@ -1,0 +1,11 @@
+1. Query: 'What movies feature a character named "{{Scarlett O'Hara}}"?'
+Text Span: "Scarlett O'Hara"
+Label: (A). The span is a named entity of type character
+
+2. Query: "Who are the {{main leads}} in the romantic comedy Pretty Woman"
+Text Span: "main leads"
+Label: (D). Not a Named Entity.
+
+3. Query: "show me a movie that features the character {{indiana jones}}"
+Text Span: "indiana jones"
+Label: (A). The span is a named entity of type character

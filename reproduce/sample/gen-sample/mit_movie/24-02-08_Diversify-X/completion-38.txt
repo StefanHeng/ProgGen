@@ -1,0 +1,9 @@
+1. Query: "What is the viewers' rating for the movie Inception directed by Christopher Nolan?"
+   Named Entities: [Inception (Title), Christopher Nolan (Director), viewers' rating (Viewers' Rating)]
+
+2. Query: "Can you recommend a highly-rated action movie from the 1990s?"
+   Named Entities: [action movie (Genre), 1990s (Year), highly-rated (Viewers' Rating)]
+
+3. Query: "Show me a film with a compelling plot and strong performances from Meryl Streep."
+   Named Entities: [compelling plot (Plot), Meryl Streep (Actor)]
+

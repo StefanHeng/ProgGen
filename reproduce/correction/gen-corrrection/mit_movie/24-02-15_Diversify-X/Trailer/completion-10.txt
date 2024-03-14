@@ -1,0 +1,11 @@
+1. Query: "Can you show me the {{trailer}} for the film Inception?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "What movie from last year has a {{fun and exciting preview}} that kids will love?"
+Text Span: "fun and exciting preview"
+Label: (B). The span contains a named trailer entity but the span boundary is not precise. The correct span boundary is "preview".
+
+3. Query: "I'm really hyped for the next Star Wars film, can you show me a {{sneak peek}} of the teaser?"
+Text Span: "sneak peek"
+Label: (A). Correct Entity Annotation.

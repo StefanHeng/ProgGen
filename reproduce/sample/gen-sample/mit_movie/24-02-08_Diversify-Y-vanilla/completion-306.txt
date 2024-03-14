@@ -1,0 +1,8 @@
+1. Query: "what is the plot of the movie Scarecrow"
+   Named Entities: [Scarecrow (Title)]
+   
+2. Query: "can I watch the footage of the new movie Shallow"
+   Named Entities: [footage (Trailer), Shallow (Title)]
+   
+3. Query: "show me the announcement trailer for the latest film directed by Sandra Bullock"
+   Named Entities: [announcement trailer (Trailer), Sandra Bullock (Director)]

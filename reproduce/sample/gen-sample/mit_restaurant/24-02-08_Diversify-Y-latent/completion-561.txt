@@ -1,0 +1,8 @@
+1. "I'm craving some soup, where can I find the best bowl of soup in town?"
+Named Entities: [best (Rating), soup (Dish)]
+
+2. "What's the address and opening hours of The Rustic Farmhouse Café?"
+Named Entities: [The Rustic Farmhouse Café (Restaurant Name), address (Location), opening hours (Hours)]
+
+3. "I want to have a luxurious dinner, where can I find a high-end restaurant with a French cuisine?"
+Named Entities: [luxurious (Price), high-end (Rating), French (Cuisine)]

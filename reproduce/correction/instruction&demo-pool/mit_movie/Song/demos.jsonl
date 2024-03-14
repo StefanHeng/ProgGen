@@ -1,0 +1,4 @@
+{"sentence": "Is Every Breath You Take featured in any popular movie soundtracks?", "entity_span": "Every Breath You Take", "label": "CORRECT"}
+{"sentence": "What is the theme song of the James Bond movie \"Skyfall\"?", "entity_span": "theme song", "label": "NA"}
+{"sentence": "Can you play a song from the movie \"The Sound of Music\"?", "entity_span": "song", "label": "NA"}
+{"sentence": "Can you suggest a movie with a famous soundtrack?", "entity_span": "famous soundtrack", "label": "WRONG_TYPE", "correct_type": "other"}

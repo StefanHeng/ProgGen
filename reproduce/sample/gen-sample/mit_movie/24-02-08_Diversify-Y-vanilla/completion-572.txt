@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with the song Singin' in the Rain?"
+Named Entities: [Singin' in the Rain (Song)]
+
+Query: "What's the advisory rating for the movie Masterful?"
+Named Entities: [Masterful (Title), Advisory (MPAA Rating)]
+
+Query: "Is Mufasa in any films rated AO?"
+Named Entities: [Mufasa (Character), AO (MPAA Rating), films rated (Viewers' Rating)]

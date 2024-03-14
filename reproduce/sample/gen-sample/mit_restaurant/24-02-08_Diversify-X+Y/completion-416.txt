@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with outdoor seating and a good lunch menu near the waterfront"
+Named Entities: [outdoor seating (Amenity), lunch (Meal Category), waterfront (Location)]
+
+2. "Can you recommend a place with vegetarian options for lunch and a 4-star rating?"
+Named Entities: [vegetarian options (Cuisine), lunch (Meal Category), 4-star (Rating)]
+
+3. "Find me a spot with affordable lunch specials and a kid-friendly atmosphere"
+Named Entities: [affordable (Price), lunch specials (Amenity), kid-friendly (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Which restaurants in Chicago offer bottomless mimosas for brunch?"
+Named Entities: [bottomless mimosas (Amenity), Chicago (Location), brunch (Amenity)]
+
+Query: "Can you recommend a Chicago brunch spot with outdoor seating and a high rating?"
+Named Entities: [outdoor seating (Amenity), high rating (Rating), Chicago (Location), brunch (Amenity)]
+
+Query: "What are the top-rated brunch places in Chicago that serve vegetarian dishes?"
+Named Entities: [top-rated (Rating), vegetarian dishes (Cuisine), Chicago (Location), brunch (Amenity)]

@@ -1,0 +1,8 @@
+Query: "which restaurants in the area serve kosher late-night meals"
+Named Entities: [kosher (Cuisine), late-night (Hours)]
+
+Query: "I'm craving some kosher food after midnight, can you recommend a place"
+Named Entities: [kosher (Cuisine), after midnight (Hours)]
+
+Query: "what are the options for late-night kosher dining nearby"
+Named Entities: [late-night (Hours), kosher (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Could you tell me if Kate Winslet starred in any romance films directed by Peter Jackson"
+Named Entities: [Kate Winslet (Actor), romance (Genre), Peter Jackson (Director)]
+
+2. "What is the viewers' rating for the latest Johnny Depp movie"
+Named Entities: [Johnny Depp (Actor), viewers' rating (Viewers' Rating)]
+
+3. "Is there a behind-the-scenes look at any horror movies directed by John Carpenter"
+Named Entities: [behind-the-scenes look (Trailer), horror (Genre), John Carpenter (Director)]

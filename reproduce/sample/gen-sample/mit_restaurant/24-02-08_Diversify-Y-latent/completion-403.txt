@@ -1,0 +1,8 @@
+1. "I'm craving a burrito, where can I find a good Mexican restaurant nearby?"
+Named Entities: [burrito (Dish), Mexican (Cuisine), nearby (Location)]
+
+2. "What time does Domino's Pizza close tonight?"
+Named Entities: [Domino's Pizza (Restaurant Name), tonight (Hours)]
+
+3. "I'm looking for a budget-friendly place to eat, can you recommend a restaurant with low prices?"
+Named Entities: [budget-friendly (Price), restaurant (Amenity)]

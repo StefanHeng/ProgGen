@@ -1,0 +1,8 @@
+Sentence: "The Engineering Council is the UK regulatory body for the engineering profession."
+Named Entities: [Engineering Council (organization), UK (location)]
+
+Sentence: "Baikonur Cosmodrome is the world's first and largest operational space launch facility."
+Named Entities: [Baikonur Cosmodrome (location)]
+
+Sentence: "Engineering plays a critical role in the development of new technologies and infrastructure."
+Named Entities: []

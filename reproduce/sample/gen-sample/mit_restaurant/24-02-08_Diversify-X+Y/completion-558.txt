@@ -1,0 +1,8 @@
+Query: "where is the nearest food truck with an impressive menu"
+Named Entities: [nearest food truck (Location), impressive menu (Amenity)]
+
+Query: "i want to try some tasty dishes, can you find me a food truck around the corner"
+Named Entities: [tasty dishes (Dish), around the corner (Location), food truck (Amenity)]
+
+Query: "show me the best food truck with delicious options"
+Named Entities: [best (Rating), delicious options (Amenity), food truck (Amenity)]

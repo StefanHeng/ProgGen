@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a nice outdoor patio for lunch?"
+Named Entities: [nice outdoor patio (Amenity), lunch (Meal Category)]
+
+2. "I'm in the mood for some authentic Italian pasta, where can I find a good spot?"
+Named Entities: [authentic Italian (Cuisine), pasta (Dish)]
+
+3. "Do you know of any restaurants with a 5-star rating near the city center for lunch today?"
+Named Entities: [5-star (Rating), city center (Location), lunch (Meal Category)]

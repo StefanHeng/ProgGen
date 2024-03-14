@@ -1,0 +1,7 @@
+1. Query: "I want to know the plot of the action film directed by Christopher Nolan and rated {{PG-13}}"
+Text Span: "PG-13"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Query: "Are there any special features or bonus content available for the {{Blu-ray edition}} of the film Jurassic Park?"
+Text Span: "Blu-ray edition"
+Label: (C). The span is a named entity but the category is not mpaa rating. Entity Type: Edition

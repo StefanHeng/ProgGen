@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me who the versatile actors are in the movie School of Rock?"
+Named Entities: [School of Rock (Title), versatile actors (Actor)]
+
+2. Spoken Query: "I'm looking for a movie with Aragorn from Lord of the Rings. Can you recommend something?"
+Named Entities: [Aragorn (Character), Lord of the Rings (Title)]
+
+3. Spoken Query: "Do you have any information about the R-rated film starring Luke Skywalker?"
+Named Entities: [R (MPAA Rating), Luke Skywalker (Character)]

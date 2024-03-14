@@ -1,0 +1,8 @@
+Sentence: "Tropical storm expected to hit Florida coast by Thursday."
+Named Entities: [Florida (location)]
+
+Sentence: "Heavy rainfall causes flooding in the Midwest."
+Named Entities: [Midwest (location)]
+
+Sentence: "National Weather Service issues heat advisory for the Northeast."
+Named Entities: [National Weather Service (organization), Northeast (location)]

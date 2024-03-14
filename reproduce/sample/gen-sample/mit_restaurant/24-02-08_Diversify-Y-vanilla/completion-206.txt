@@ -1,0 +1,8 @@
+1. "What are the opening times for Red Lobster in this area?"
+   Named Entities: [Red Lobster (Restaurant Name), opening time (Hours)]
+
+2. "I'm in the mood for seafood, is there a good place with a happy hour nearby?"
+   Named Entities: [seafood (Cuisine), happy hour (Amenity)]
+
+3. "Can you recommend a restaurant with a good rating and affordable prices for dinner tonight?"
+   Named Entities: [good (Rating), affordable prices (Price), dinner (Amenity)]

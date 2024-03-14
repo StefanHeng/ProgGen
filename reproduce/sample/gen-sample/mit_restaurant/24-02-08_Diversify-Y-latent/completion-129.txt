@@ -1,0 +1,8 @@
+Query: "where is the closest bakery counter"
+Named Entities: [closest (Location), Bakery counter (Amenity)]
+
+Query: "do you know any place with cheap breakfast specials"
+Named Entities: [cheap (Price), Breakfast specials (Amenity)]
+
+Query: "what are the breakfast deals and specials in this area"
+Named Entities: [Breakfast deals and specials (Amenity)]

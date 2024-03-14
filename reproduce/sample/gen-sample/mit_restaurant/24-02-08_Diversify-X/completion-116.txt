@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a brunch spot with outdoor seating?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+2. Query: "What are the best brunch places with bottomless mimosas?"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+3. Query: "I'm looking for a brunch place with a view of the ocean."
+Named Entities: [brunch (Amenity), view of the ocean (Location)]

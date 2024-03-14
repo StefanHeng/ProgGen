@@ -1,0 +1,8 @@
+Query: "I'm in the mood for African cuisine, where can I find a good restaurant?"
+Named Entities: [African (Cuisine)]
+
+Query: "Do you know of any restaurants that have comedy night?"
+Named Entities: [comedy night (Amenity)]
+
+Query: "I need a budget-friendly restaurant with a good rating, can you help me find one?"
+Named Entities: [budget-friendly (Price), good (Rating)]

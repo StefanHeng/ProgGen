@@ -1,0 +1,8 @@
+1. "Is there a movie playing tonight that has a great soundtrack?"
+Named Entities: [tonight (Date), great soundtrack (Review)]
+
+2. "I'm looking for a film with a famous actor and a plot full of suspense."
+Named Entities: [famous actor (Actor), plot full of suspense (Plot)]
+
+3. "Can you recommend a movie from the 90s with a lot of action?"
+Named Entities: [90s (Year), a lot of action (Genre)]

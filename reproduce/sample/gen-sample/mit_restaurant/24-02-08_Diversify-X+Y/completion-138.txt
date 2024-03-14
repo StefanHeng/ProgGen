@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that serves a delicious breakfast burrito?"
+Named Entities: [delicious (Rating), breakfast burrito (Dish)]
+
+2. "I'm looking for a cozy place with a good breakfast menu and a relaxed atmosphere."
+Named Entities: [cozy (Amenity), good (Rating), breakfast menu (Amenity), relaxed atmosphere (Amenity)]
+
+3. "Where can I find a restaurant that offers a budget-friendly breakfast option?"
+Named Entities: [budget-friendly (Price), breakfast option (Amenity)]

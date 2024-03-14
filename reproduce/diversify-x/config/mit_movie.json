@@ -1,0 +1,77 @@
+{
+    "meta": {
+        "dataset_name": "mit-movie",
+        "diverse_context": true,
+        "diverse_entity": false,
+        "attributes": [
+            "query-category",
+            "demographic",
+            "emotion",
+            "language"
+        ]
+    },
+    "attribute2values": {
+        "query-category": [
+            "Movie showtimes and ticket availability",
+            "Plot summary and synopsis",
+            "Cast and crew information",
+            "Movie reviews and ratings",
+            "Streaming platform availability",
+            "Soundtrack and music information",
+            "Behind-the-scenes and making-of details",
+            "Genre and subgenre classification",
+            "Movie trailers and teasers",
+            "Awards and nominations received"
+        ],
+        "demographic": [
+            "Teenage girl",
+            "Middle-aged man",
+            "Senior woman",
+            "Young adult",
+            "Preteen boy",
+            "Gender-neutral individual",
+            "Teenage boys",
+            "Middle-aged women",
+            "Senior citizens",
+            "Young adults",
+            "Families with young children",
+            "Gender-neutral individuals",
+            "Teenage female",
+            "Young adult male",
+            "Middle-aged female",
+            "Senior male",
+            "Pre-teen female",
+            "Young adult non-binary"
+        ],
+        "emotion": [
+            "Excited",
+            "Bored",
+            "Indifferent",
+            "Anxious",
+            "Impatient",
+            "Picky",
+            "Nostalgic",
+            "Optimistic",
+            "Ambivalent",
+            "Sceptical",
+            "Indecisive",
+            "Overwhelmed",
+            "Open-minded",
+            "Adventurous",
+            "Pickiest",
+            "Happy",
+            "Sad"
+        ],
+        "language": [
+            "Vague",
+            "Formal",
+            "Indirect",
+            "Informal",
+            "Technical",
+            "Casual",
+            "Straightforward",
+            "Slang",
+            "Colloquial"
+        ]
+    }
+}

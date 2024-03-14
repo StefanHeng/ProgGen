@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant in the area that offers takeout, maybe something like Noma?"
+Named Entities: [fine dining (Amenity), takeout (Amenity), Noma (Restaurant Name)]
+
+Query: "I'm looking for a high-end restaurant that does takeout, maybe in the style of Noma?"
+Named Entities: [high-end (Price), takeout (Amenity), Noma (Restaurant Name)]
+
+Query: "I heard Noma does takeout, can you confirm and find similar high-quality options?"
+Named Entities: [Noma (Restaurant Name), takeout (Amenity)]

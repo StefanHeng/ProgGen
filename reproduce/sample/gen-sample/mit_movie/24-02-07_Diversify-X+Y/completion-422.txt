@@ -1,0 +1,8 @@
+1. "Can you recommend a family-friendly drama movie from the 1960s?"
+Named Entities: [family-friendly (Viewers' Rating), drama (Genre), 1960s (Year)]
+
+2. "What subgenre does the movie Moana fall under?"
+Named Entities: [Moana (Title)]
+
+3. "Is the song 'Can You Feel the Love Tonight' featured in any M-rated movies from the 1960s?"
+Named Entities: [Can You Feel the Love Tonight (Song), M (MPAA Rating), 1960s (Year)]

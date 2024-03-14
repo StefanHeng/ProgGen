@@ -1,0 +1,8 @@
+1. Text Span: "National Theatre"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "1998"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Tesla Model S"
+Label: (A). The span is a named entity of type organization

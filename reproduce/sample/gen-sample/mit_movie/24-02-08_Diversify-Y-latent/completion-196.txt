@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the new James Bond movie that was rated TV-MA?"
+Named Entities: [trailer (Trailer), James Bond (Character), TV-MA (MPAA Rating)]
+
+2. "I'm looking for a movie directed by David Fincher that stars Kevin Spacey and was released in the 1990s"
+Named Entities: [David Fincher (Director), Kevin Spacey (Actor), 1990s (Year)]
+
+3. "What is the plot of the action movie starring Jason Statham and Jennifer Lopez, rated M?"
+Named Entities: [action (Genre), Jason Statham (Actor), Jennifer Lopez (Actor), M (MPAA Rating)]

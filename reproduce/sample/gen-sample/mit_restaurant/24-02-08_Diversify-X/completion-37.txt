@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with a good seafood selection?"
+Named Entities: [buffet (Amenity), seafood (Cuisine)]
+
+Query: "What's the best-rated buffet restaurant with a dessert bar?"
+Named Entities: [best-rated (Rating), buffet (Amenity), dessert bar (Amenity)]
+
+Query: "Where can I find a buffet restaurant that serves international cuisine for dinner?"
+Named Entities: [buffet (Amenity), international (Cuisine), dinner (Hours) ]

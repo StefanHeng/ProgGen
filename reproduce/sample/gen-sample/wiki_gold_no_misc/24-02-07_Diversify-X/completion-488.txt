@@ -1,0 +1,8 @@
+Sentence: "Agriculture has been the primary means of subsistence for the majority of human societies throughout history."
+Named Entities: []
+
+Sentence: "The United States Department of Agriculture (USDA) has been instrumental in promoting and regulating agricultural practices in the United States."
+Named Entities: [United States Department of Agriculture (organization), United States (location)]
+
+Sentence: "Gregor Mendel, known as the father of modern genetics, conducted his famous experiments on pea plants, laying the foundation for the science of agricultural genetics."
+Named Entities: [Gregor Mendel (person)]

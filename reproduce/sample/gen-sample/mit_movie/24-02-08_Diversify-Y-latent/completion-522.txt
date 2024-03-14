@@ -1,0 +1,8 @@
+1. "What is the name of the movie that features the song 'A Whiter Shade of Pale' by Celtic?"
+Named Entities: ['A Whiter Shade of Pale' (Song), Celtic (Genre)]
+
+2. "What movie did Daniel Craig and Jeremy Renner both star in together?"
+Named Entities: [Daniel Craig (Actor), Jeremy Renner (Actor)]
+
+3. "I heard the soundtrack for a new movie received a 3.5-star rating, which movie is it?"
+Named Entities: [3.5-star soundtrack (Viewers' Rating) ]

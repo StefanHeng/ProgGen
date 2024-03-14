@@ -1,0 +1,8 @@
+1. "Can you recommend any movies directed by Peter Jackson that are rated R?"
+Named Entities: [Peter Jackson (Director), R (MPAA Rating)]
+
+2. "I'm looking for a movie with a very detailed narrative that is not rated."
+Named Entities: [detailed narrative (Plot), NR (MPAA Rating)]
+
+3. "What is the top-rated movie with Peter Jackson as the director?"
+Named Entities: [Peter Jackson (Director), top-rated (Viewers' Rating)]

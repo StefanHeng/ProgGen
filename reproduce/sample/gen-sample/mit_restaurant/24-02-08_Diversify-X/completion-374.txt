@@ -1,0 +1,8 @@
+Query: "Where can I find upscale fast food in the area"
+Named Entities: [upscale (Price), fast food (Cuisine), area (Location)]
+
+Query: "What are the hours for the upscale fast food restaurant nearby"
+Named Entities: [upscale fast food (Cuisine), hours (Hours), nearby (Location)]
+
+Query: "Can you recommend a highly-rated fast food restaurant with upscale pricing"
+Named Entities: [highly-rated (Rating), fast food (Cuisine), upscale (Price)]

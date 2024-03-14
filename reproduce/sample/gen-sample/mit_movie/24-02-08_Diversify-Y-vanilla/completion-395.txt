@@ -1,0 +1,8 @@
+Query: "What are some must-see movies with compelling characters"
+Named Entities: [must-see (Viewers' Rating), compelling characters (Character)]
+
+Query: "Show me an extended preview of the new U-rated movie with Anne Bancroft"
+Named Entities: [extended preview (Trailer), U-rated (MPAA Rating), Anne Bancroft (Actor)]
+
+Query: "What five-star not rated movies came out as TV-PG in the 90s"
+Named Entities: [five-star (Viewers' Rating), not rated (MPAA Rating), TV-PG (MPAA Rating), the 90s (Year)]

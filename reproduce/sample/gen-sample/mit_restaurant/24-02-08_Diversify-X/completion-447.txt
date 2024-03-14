@@ -1,0 +1,8 @@
+1. "Can you recommend any breakfast places with gluten-free options?"
+Named Entities: [breakfast (Amenity), gluten-free (Dish)]
+
+2. "I'm looking for a breakfast spot with outdoor seating and a high rating."
+Named Entities: [breakfast (Amenity), outdoor seating (Amenity), high rating (Rating)]
+
+3. "Where can I find a cozy breakfast place with a low price range?"
+Named Entities: [breakfast (Amenity), cozy (Amenity), low price range (Price)]

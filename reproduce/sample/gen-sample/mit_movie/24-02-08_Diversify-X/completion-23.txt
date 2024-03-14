@@ -1,0 +1,8 @@
+Query: "Could you provide me with the trailer for the movie The Dark Knight"
+Named Entities: [The Dark Knight (Title), trailer (Trailer)]
+
+Query: "I am interested in watching a movie directed by Steven Spielberg. Can you recommend a film with a captivating trailer?"
+Named Entities: [Steven Spielberg (Director), captivating trailer (Trailer)]
+
+Query: "What is the viewers' rating for the movie Inception"
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]

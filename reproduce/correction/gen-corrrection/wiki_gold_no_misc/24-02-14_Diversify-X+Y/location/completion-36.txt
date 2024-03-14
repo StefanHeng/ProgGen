@@ -1,0 +1,11 @@
+1. Sentence: "The Interstate Highway System is a network of controlled-access highways that forms a part of the National Highway System of the {{United States}}."
+Text Span: "United States"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Cannes Film Festival, held annually in Cannes, {{France}}, is one of the most prestigious events in the international film industry, showcasing a wide array of films from around the world and attracting filmmakers, critics, and audiences alike."
+Text Span: "France"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Each year, The National Book Foundation presents the National Book Awards to honor exceptional contributions to {{American}} literature in various genres such as fiction, nonfiction, poetry, and young people's literature."
+Text Span: "American"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a fire pit for tonight, preferably near the Strip."
+Named Entities: [fire pit (Amenity), near the Strip (Location)]
+
+2. "Is Restaurant Guy Savoy open for lunch on weekdays?"
+Named Entities: [Restaurant Guy Savoy (Restaurant Name), lunch (Hours), weekdays (Hours)]
+
+3. "Can you recommend a handicap accessible restaurant with a diverse menu and good reviews in the downtown area?"
+Named Entities: [handicap accessible (Amenity), diverse menu (Cuisine), good reviews (Rating), downtown area (Location)]

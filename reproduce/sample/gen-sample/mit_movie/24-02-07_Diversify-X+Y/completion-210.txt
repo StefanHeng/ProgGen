@@ -1,0 +1,8 @@
+1. "Can I watch any of Patty Jenkins' movies on Netflix?"
+Named Entities: [Patty Jenkins (Director), Netflix (Streaming platform)]
+
+2. "Is Spider-Man: No Way Home available for streaming on any platform for middle-aged women?"
+Named Entities: [Spider-Man: No Way Home (Title), middle-aged women (Viewer demographic), Streaming platform]
+
+3. "What genre of movies does Patty Jenkins typically direct that would appeal to middle-aged women?"
+Named Entities: [Patty Jenkins (Director), Genre, middle-aged women (Viewer demographic)]

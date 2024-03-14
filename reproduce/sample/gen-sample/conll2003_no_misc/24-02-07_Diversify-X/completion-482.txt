@@ -1,0 +1,8 @@
+Sentence: "Harvard University announces new scholarship program."
+Named Entities: [Harvard University (organization)]
+
+Sentence: "Students protest budget cuts in California schools."
+Named Entities: [California (location)]
+
+Sentence: "Renowned professor to receive prestigious award for contributions to education research."
+Named Entities: [professor (person)]

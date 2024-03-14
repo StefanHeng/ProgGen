@@ -1,0 +1,8 @@
+1. Text Span: "lead role"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "rocky balboa"
+Label: (A). The span is a named entity of type character
+
+3. Text Span: "Hermione Granger"
+Label: (A). The span is a named entity of type character

@@ -1,0 +1,8 @@
+Sentence: "The United Nations Global Compact was launched in 2000 and is the world's largest corporate sustainability initiative."
+Named Entities: [United Nations (organization)]
+
+Sentence: "She studied at the University of Oxford and later worked at the National Institutes of Health."
+Named Entities: [University of Oxford (location), National Institutes of Health (organization)]
+
+Sentence: "The actor won an Academy Award for Best Actor for his performance in the film."
+Named Entities: [Academy Award (organization)]

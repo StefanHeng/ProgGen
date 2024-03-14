@@ -1,0 +1,8 @@
+1. "Can you provide me with the trailer for the 1993 movie Jurassic Park directed by Steven Spielberg?"
+Named Entities: [trailer (Trailer), 1993 (Year), Jurassic Park (Title), Steven Spielberg (Director)]
+
+2. "I'm interested in learning about the making-of process for the G-rated animated film Toy Story, could you provide me with some details?"
+Named Entities: [making-of (Plot), G-rated (MPAA Rating), Toy Story (Title)]
+
+3. "I'm looking for movies with a G/PG rating that feature Tom Hanks as the lead actor, can you suggest some titles?"
+Named Entities: [G/PG (MPAA Rating), Tom Hanks (Actor)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with upscale buffet options and live music?"
+Named Entities: [upscale (Price), buffet (Amenity), live music (Amenity)]
+
+2. "I'm looking for a place with a high-end buffet and live music performances."
+Named Entities: [high-end (Price), buffet (Amenity), live music (Amenity)]
+
+3. "Where can I find a restaurant that serves a luxurious buffet and has live music acts?"
+Named Entities: [luxurious (Price), buffet (Amenity), live music (Amenity)]

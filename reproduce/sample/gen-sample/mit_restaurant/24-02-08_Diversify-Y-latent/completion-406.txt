@@ -1,0 +1,8 @@
+Query: "Is there a restaurant nearby with Wi-Fi availability?"
+Named Entities: [Wi-Fi availability (Amenity), nearby (Location)]
+
+Query: "Can you recommend a restaurant with Wi-Fi availability and outdoor seating?"
+Named Entities: [Wi-Fi availability (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm looking for a place with Wi-Fi availability and a good selection of vegan dishes"
+Named Entities: [Wi-Fi availability (Amenity), good selection (Amenity), vegan (Cuisine)]

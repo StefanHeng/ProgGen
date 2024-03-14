@@ -1,0 +1,8 @@
+1. Text Span: "Downtown"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "outskirts of the city"
+Label: (B). The correct span boundary is "outskirts of the city".
+
+3. Text Span: "Dubai"
+Label: (A). The span is a named entity of type location

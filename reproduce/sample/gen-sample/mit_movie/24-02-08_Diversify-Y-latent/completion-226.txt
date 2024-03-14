@@ -1,0 +1,8 @@
+1. "Can you recommend any movies featuring captivating performances?"
+Named Entities: [captivating performances (Review)]
+
+2. "Show me the official trailer for a corporate espionage movie."
+Named Entities: [official trailer (Trailer), corporate espionage (Genre)]
+
+3. "Is Ryan Gosling starring in any Sci-Fi films similar to The Blues Brothers?"
+Named Entities: [Ryan Gosling (Actor), Sci-Fi (Genre), The Blues Brothers (Title)]

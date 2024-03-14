@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me if there are any Oscar-winning melodramas that have received impressive accolades?"
+Named Entities: [Oscar-winning (Awards), melodramas (Genre), impressive accolades (Review)]
+
+2. Spoken Query: "Which drama film has the most notable awards and nominations?"
+Named Entities: [most notable awards and nominations (Awards), drama (Genre)]
+
+3. Spoken Query: "I'm looking for a movie that has won impressive accolades and nominations for its dramatic performances."
+Named Entities: [impressive accolades (Review), dramatic performances (Genre)]

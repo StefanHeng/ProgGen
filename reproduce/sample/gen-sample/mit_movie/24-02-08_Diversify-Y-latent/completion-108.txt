@@ -1,0 +1,8 @@
+Query: "What is John Smith's favorite dance movie from the 1930-1940 era?"
+Named Entities: [John Smith (Actor), Dance (Genre), 1930-1940 (Year)]
+
+Query: "Is there a Mark Wahlberg movie that is not rated and is classified as cyberpunk?"
+Named Entities: [Mark Wahlberg (Actor), Not Rated (MPAA Rating), Cyberpunk (Genre)]
+
+Query: "Can you give me some information about the movie The Terminator featuring John Smith?"
+Named Entities: [The Terminator (Title), John Smith (Actor)]

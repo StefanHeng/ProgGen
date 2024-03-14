@@ -1,0 +1,8 @@
+1. Text Span: "Tom Hanks"
+   Label: (A). The span is a named entity of type actor
+
+2. Text Span: "Anne Bancroft"
+   Label: (A). The span is a named entity of type actor
+
+3. Text Span: "Gwen Stefani"
+   Label: (C). The span is a named entity but the category is not actor (Music Artist)

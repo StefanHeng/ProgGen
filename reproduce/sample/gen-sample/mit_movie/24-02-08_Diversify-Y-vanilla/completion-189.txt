@@ -1,0 +1,8 @@
+Query: "What are the top 5 highest rated movies of all time"
+Named Entities: [top 5 (Viewers' Rating)]
+
+Query: "Can you recommend a classic film directed by Alfred Hitchcock"
+Named Entities: [classic (Genre), Alfred Hitchcock (Director)]
+
+Query: "Show me a review of the latest film starring Tom Hanks"
+Named Entities: [latest (Year), Tom Hanks (Actor)]

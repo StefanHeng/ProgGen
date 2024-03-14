@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good lunch meal deals for delivery?"
+Named Entities: [good (Rating), lunch (Meal), delivery (Amenity), Meal deals (Amenity)]
+
+2. "I'm looking for a place with affordable lunch options for delivery. Any recommendations?"
+Named Entities: [affordable (Price), lunch (Meal), delivery (Amenity)]
+
+3. "Is there a restaurant that offers lunch meal deals and delivers in the area?"
+Named Entities: [lunch (Meal), Meal deals (Amenity), delivery (Amenity)]

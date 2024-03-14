@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you give me a synopsis of a remarkable satire film?"
+   Named Entities: [remarkable (Review), satire (Genre)]
+
+2. Spoken Query: "Is there a movie featuring Morgan Freeman and Natalie Portman worth watching?"
+   Named Entities: [Morgan Freeman (Actor), Natalie Portman (Actor), worth watching (Viewers' Rating)]
+
+3. Spoken Query: "Show me a movie directed by Hayao Miyazaki with an intriguing plot."
+   Named Entities: [Hayao Miyazaki (Director), intriguing (Review)]

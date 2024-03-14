@@ -1,0 +1,8 @@
+1. Text Span: "seafood menu"
+Label: (C). The span is not a named entity. The correct entity type is Dish.
+
+2. Text Span: "seafood"
+Label: (A). The span is a named entity of type cuisine.
+
+3. Text Span: "dairy-free"
+Label: (B). Wrong Boundary. The correct span boundary is "dairy-free options".

@@ -1,0 +1,44 @@
+1. The United Nations issues a new report on climate change.
+Named Entities: [United Nations (organization)]
+
+2. Elon Musk plans to send more astronauts to the International Space Station.
+Named Entities: [Elon Musk (person), International Space Station (location)]
+
+3. The European Union imposes new tariffs on steel imports from China.
+Named Entities: [European Union (organization), China (location)]
+
+4. Meghan Markle and Prince Harry welcome their second child.
+Named Entities: [Meghan Markle (person), Prince Harry (person)]
+
+5. Wildfires continue to devastate parts of California.
+Named Entities: [California (location)]
+
+6. Pfizer announces new vaccine efficacy data against COVID-19 variants.
+Named Entities: [Pfizer (organization), COVID-19 (organization)]
+
+7. India reports a surge in COVID-19 cases.
+Named Entities: [India (location), COVID-19 (organization)]
+
+8. Facebook faces antitrust probe from the Federal Trade Commission.
+Named Entities: [Facebook (organization), Federal Trade Commission (organization)]
+
+9. SpaceX launches a new batch of Starlink satellites into orbit.
+Named Entities: [SpaceX (organization), Starlink (organization)]
+
+10. Angela Merkel visits the United States for diplomatic talks.
+Named Entities: [Angela Merkel (person), United States (location)]
+
+11. An earthquake hits Tokyo, causing widespread damage.
+Named Entities: [Tokyo (location)]
+
+12. Apple unveils the latest iPhone model at a product launch event.
+Named Entities: [Apple (organization), iPhone (organization)]
+
+13. Cristiano Ronaldo signs a new contract with Juventus.
+Named Entities: [Cristiano Ronaldo (person), Juventus (organization)]
+
+14. The World Health Organization warns of a new variant of the Ebola virus.
+Named Entities: [World Health Organization (organization), Ebola (organization)]
+
+15. The United Kingdom imposes stricter travel restrictions due to COVID-19.
+Named Entities: [United Kingdom (location), COVID-19 (organization)]

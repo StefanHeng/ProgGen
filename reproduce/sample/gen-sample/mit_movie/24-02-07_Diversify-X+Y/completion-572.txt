@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of any good murder mystery movies released in the last year?"
+   Named Entities: [murder mystery (Genre), last year (Year)]
+
+2. Query: "What's the plot of that murder mystery movie with the highest viewers' rating?"
+   Named Entities: [murder mystery (Genre), highest viewers' rating (Viewers' Rating)]
+
+3. Query: "I'm looking for murder mystery films directed by Alfred Hitchcock, can you give me a brief overview?"
+   Named Entities: [murder mystery (Genre), Alfred Hitchcock (Director)]

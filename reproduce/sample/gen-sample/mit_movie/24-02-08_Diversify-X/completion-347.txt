@@ -1,0 +1,8 @@
+1. Query: "Which film has been highly praised by critics and viewers alike?"
+Named Entities: [highly praised (Review)]
+
+2. Query: "Can you recommend a recent movie with a stellar cast and a compelling plot?"
+Named Entities: [recent (Year), stellar cast (Actor), compelling plot (Plot)]
+
+3. Query: "I'm interested in a movie that is known for its incredible soundtrack, any suggestions?"
+Named Entities: [incredible soundtrack (Song)]

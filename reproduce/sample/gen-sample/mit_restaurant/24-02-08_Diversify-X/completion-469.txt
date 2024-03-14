@@ -1,0 +1,8 @@
+1. "Hey, can you recommend a spot with a good sandwich for lunch?"
+Named Entities: [sandwich (Dish), lunch (Amenity)]
+
+2. "I'm looking for a place with quick service and some hearty burgers for lunch."
+Named Entities: [quick service (Amenity), hearty burgers (Dish), lunch (Amenity)]
+
+3. "Where can I find a budget-friendly joint with a variety of lunch specials?"
+Named Entities: [budget-friendly (Price), lunch specials (Amenity)]

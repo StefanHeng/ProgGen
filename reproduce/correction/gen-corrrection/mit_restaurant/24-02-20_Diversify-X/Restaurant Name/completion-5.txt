@@ -1,0 +1,11 @@
+1. Query: "I'm craving a hearty breakfast, where can I find a good {{diner}} nearby?"
+Text Span: "diner"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "I'm craving some street food, where can I find a {{food truck}} with a diverse menu?"
+Text Span: "food truck"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What {{food trucks}} with a romantic ambience are open late tonight?"
+Text Span: "food trucks"
+Label: (B). The span contains a restaurant name entity but the span boundary is not precise. The correct span should be "food trucks"

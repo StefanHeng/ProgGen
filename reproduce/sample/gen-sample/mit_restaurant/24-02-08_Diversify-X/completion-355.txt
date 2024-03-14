@@ -1,0 +1,8 @@
+1. "I'm craving some late-night Italian food, can you suggest a place with good ratings?"
+Named Entities: [late-night dining (Amenity), Italian (Cuisine), good ratings (Rating)]
+
+2. "Where can I find a restaurant nearby that serves late-night vegan dishes?"
+Named Entities: [late-night dining (Amenity), vegan (Cuisine), nearby (Location)]
+
+3. "I'm looking for a late-night dining place with a cozy ambiance and affordable prices, any suggestions?"
+Named Entities: [late-night dining (Amenity), cozy ambiance (Amenity), affordable prices (Price)]

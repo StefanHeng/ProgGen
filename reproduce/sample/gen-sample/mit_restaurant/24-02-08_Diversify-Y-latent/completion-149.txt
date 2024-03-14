@@ -1,0 +1,8 @@
+Query: "Can you recommend a must-try Italian restaurant that is cost-effective"
+Named Entities: [must-try (Rating), Italian (Cuisine), cost-effective (Price)]
+
+Query: "Where can I find a cost-effective sushi place with good reviews"
+Named Entities: [cost-effective (Price), sushi (Cuisine), good reviews (Rating)]
+
+Query: "I'm looking for a cost-effective restaurant with a must-try dish around here"
+Named Entities: [cost-effective (Price), must-try dish (Rating)]

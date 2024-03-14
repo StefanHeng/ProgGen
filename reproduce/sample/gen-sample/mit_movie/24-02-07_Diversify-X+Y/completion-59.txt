@@ -1,0 +1,8 @@
+1. "What is the name of the movie where Steven Spielberg directed and the main actor has a great rapport with the director?"
+Named Entities: [Steven Spielberg (Director), great rapport (Character)]
+
+2. "Can you recommend any environmental movies that are considered mockbusters?"
+Named Entities: [environmental (Genre), mockbusters (Viewers' Rating)]
+
+3. "I'm interested in learning about the cast and crew of a movie focused on the director's rapport with the actors. Could you recommend a film?"
+Named Entities: [director's rapport (Plot)]

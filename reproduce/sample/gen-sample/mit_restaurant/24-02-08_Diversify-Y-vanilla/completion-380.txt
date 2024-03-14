@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a Michelin-starred chef, preferably in the French cuisine category?"
+Named Entities: [Michelin-starred (Rating), French cuisine (Cuisine)]
+
+Query: "I'm craving some modern fine dining. Is there a restaurant in the city that serves avant-garde dishes?"
+Named Entities: [modern fine dining (Amenity), avant-garde dishes (Dish), in the city (Location)]
+
+Query: "What are the operating hours for Atelier Crenn?"
+Named Entities: [Atelier Crenn (Restaurant Name), operating hours (Hours)]

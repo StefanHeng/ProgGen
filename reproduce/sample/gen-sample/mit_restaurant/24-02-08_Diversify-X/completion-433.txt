@@ -1,0 +1,8 @@
+1. "I'm looking for a place with outdoor seating and a good selection of vegan options for lunch"
+Named Entities: [outdoor seating (Amenity), vegan options (Cuisine), lunch (Amenity)]
+
+2. "Is there a restaurant nearby with a high rating that serves Italian cuisine for lunch?"
+Named Entities: [high rating (Rating), Italian cuisine (Cuisine), lunch (Amenity)]
+
+3. "I need to find a budget-friendly place for lunch, preferably under 15 dollars per person"
+Named Entities: [budget-friendly (Price), under 15 dollars per person (Price), lunch (Amenity)]

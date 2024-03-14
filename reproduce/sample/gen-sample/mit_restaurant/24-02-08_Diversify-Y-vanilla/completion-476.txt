@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Bolivian food with rooftop dining, where can I find a place?"
+Named Entities: [Bolivian (Cuisine), rooftop dining (Amenity)]
+
+2. "Can you recommend a restaurant that serves Tanzanian dishes and is open past 10 pm?"
+Named Entities: [Tanzanian (Cuisine), past 10 pm (Hours)]
+
+3. "I need to find a restaurant with a good rating that offers dishes for under 20 dollars, any suggestions?"
+Named Entities: [good (Rating), under 20 dollars (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good breakfast menu for affordable prices?"
+Named Entities: [good (Rating), breakfast (Amenity), affordable (Price)]
+
+2. "Which restaurants in the area serve cheap breakfast options?"
+Named Entities: [cheap (Price), breakfast (Amenity)]
+
+3. "Please find me a place with a breakfast special for under $10"
+Named Entities: [breakfast (Amenity), under $10 (Price)]

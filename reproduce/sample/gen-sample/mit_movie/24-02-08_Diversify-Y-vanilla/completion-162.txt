@@ -1,0 +1,8 @@
+Query: "Can you recommend a must-see film noir?"
+Named Entities: [must-see (Viewers' Rating), Film noir (Genre)]
+
+Query: "Who directed the film U-571 and when was it released?"
+Named Entities: [U-571 (Title), released (Year)]
+
+Query: "Show me a thriller movie with the actor Kevin Spacey in it."
+Named Entities: [thriller (Genre), Kevin Spacey (Actor)]

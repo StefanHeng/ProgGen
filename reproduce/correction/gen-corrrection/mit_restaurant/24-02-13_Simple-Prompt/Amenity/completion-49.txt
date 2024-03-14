@@ -1,0 +1,8 @@
+1. Text Span: "Sunday brunch"
+Label: (B). The correct span boundary is "brunch". The correct entity type is Hours.
+
+2. Text Span: "new"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "vegetarian-friendly"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Text Span: "African"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Córdoba"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Gombe Stream National Park"
+Label: (A). Correct Entity Annotation.

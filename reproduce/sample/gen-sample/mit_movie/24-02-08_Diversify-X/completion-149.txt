@@ -1,0 +1,8 @@
+1. Query: "What movie won the most awards in 2020"
+   Named Entities: [2020 (Year), most awards (Awards)]
+
+2. Query: "Has any movie with Meryl Streep won an Oscar"
+   Named Entities: [Meryl Streep (Actor), Oscar (Awards)]
+
+3. Query: "Which film received the most nominations in the comedy genre"
+   Named Entities: [comedy (Genre), most nominations (Awards)]

@@ -1,0 +1,8 @@
+1. "Can you tell me if there were any movies between 1990 and 1995 that received outstanding awards?"
+   Named Entities: [1990-1995 (Year), Outstanding (Award)]
+
+2. "Could you find out if the movie Can You Feel the Love Tonight has won any awards or nominations?"
+   Named Entities: [Can You Feel the Love Tonight (Song), awards or nominations (Review)]
+
+3. "I'm curious if any films featuring Princess Leia or George Clooney have been recognized for any awards?"
+   Named Entities: [Princess Leia (Character), George Clooney (Actor), recognized for any awards (Review)]

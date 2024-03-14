@@ -1,0 +1,8 @@
+1. Text Span: "Paul Simon"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Christian"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.
+
+3. Text Span: "Christian"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.

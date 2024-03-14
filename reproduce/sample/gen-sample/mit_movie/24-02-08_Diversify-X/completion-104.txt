@@ -1,0 +1,8 @@
+1. Query: "Who directed the science fiction film from 1997 that received the highest rating from viewers?"
+Named Entities: [1997 (Year), science fiction film (Genre), highest rating (Viewers' Rating)]
+
+2. Query: "Can you tell me about the making of the film 'Inception' directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director)]
+
+3. Query: "What are some iconic historical films directed by Steven Spielberg that I should watch?"
+Named Entities: [historical films (Genre), Steven Spielberg (Director), should watch (Review)]

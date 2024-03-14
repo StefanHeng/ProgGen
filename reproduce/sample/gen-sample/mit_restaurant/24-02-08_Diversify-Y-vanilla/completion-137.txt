@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that serves Chocolate lava cake?"
+Named Entities: [Chocolate lava cake (Dish)]
+
+2. "I'm looking for an Ecuadorian restaurant in the County. Any recommendations?"
+Named Entities: [Ecuadorian (Cuisine), County (Location)]
+
+3. "Can you find me a Diner's Choice Award winner in the area?"
+Named Entities: [Diner's Choice Award winner (Amenity)]

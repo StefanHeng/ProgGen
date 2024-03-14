@@ -1,0 +1,8 @@
+1. Query: "recommend a movie with a breathtaking plot"
+   Named Entities: [breathtaking (Review)]
+
+2. Query: "what M-rated movies did quentin tarantino direct"
+   Named Entities: [M-rated (MPAA Rating), quentin tarantino (Director)]
+
+3. Query: "are there any GP-rated movies featuring a fearless female protagonist"
+   Named Entities: [GP-rated (MPAA Rating), fearless female protagonist (Character)]

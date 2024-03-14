@@ -1,0 +1,11 @@
+1. Sentence: "{{Maputo}} is the capital and largest city of Mozambique."
+Text Span: "Maputo"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Great Barrier Reef is located in the Coral Sea, off the coast of Queensland, {{Australia}}, making it easily accessible from cities like Brisbane and Cairns."
+Text Span: "Australia"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The famous golfer, Tiger Woods, won his first major in 1997 at the {{Augusta National}}, Georgia."
+Text Span: "Augusta National"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Augusta National, Georgia".

@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie directed by Ridley Scott that is both entertaining and features Will Smith as the lead actor?"
+Named Entities: [Ridley Scott (Director), entertaining (Viewers' Rating), Will Smith (Actor)]
+
+2. Query: "Does The Hunger Games movie have any sequels and if so, what are their titles?"
+Named Entities: [The Hunger Games (Title)]
+
+3. Query: "Can you provide me with a list of movies released in the 1990s that were directed by Ridley Scott?"
+Named Entities: [1990s (Year), Ridley Scott (Director)]

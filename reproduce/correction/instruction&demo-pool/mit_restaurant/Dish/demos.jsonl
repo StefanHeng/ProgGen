@@ -1,0 +1,4 @@
+{"sentence": "What is the best burger joint in town?", "entity_span": "burger", "label": "WRONG_TYPE", "correct_type": "Cuisine"}
+{"sentence": "Recommend a place to get a good burger.", "entity_span": "burger", "label": "CORRECT"}
+{"sentence": "I want to try a new dish, what's popular at the Thai restaurant?", "entity_span": "new dish", "label": "NA"}
+{"sentence": "Where can I find a late-night diner that serves breakfast? ", "entity_span": "breakfast", "label": "WRONG_TYPE", "correct_type": "Hours"}

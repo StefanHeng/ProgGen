@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some tacos, can you recommend a Taco Bell nearby?"
+Named Entities: [Taco Bell (Restaurant Name), nearby (Location)]
+
+Query: "are there any restaurants open past midnight in this area?"
+Named Entities: [past midnight (Hours), area (Location)]
+
+Query: "I'm craving some fast food, is there a Taco Bell around here?"
+Named Entities: [fast food (Cuisine), Taco Bell (Restaurant Name), around here (Location)]

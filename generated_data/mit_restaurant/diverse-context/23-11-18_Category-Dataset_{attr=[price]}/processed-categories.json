@@ -1,0 +1,20 @@
+{
+    "attribute2categories": {
+        "price": [
+            "Affordable",
+            "Budget-friendly",
+            "Mid-range",
+            "Upscale",
+            "Expensive"
+        ]
+    },
+    "meta": {
+        "dataset-name": "mit-restaurant",
+        "attributes": [
+            "price"
+        ],
+        "entity-sizes": {
+            "price": 6
+        }
+    }
+}

@@ -1,0 +1,8 @@
+Query 1: "Can you recommend a lunch spot with a variety of vegetarian options?"
+Named Entities: [lunch (Amenity), vegetarian options (Cuisine)]
+
+Query 2: "I'm looking for a place with a quiet atmosphere and good value for lunch."
+Named Entities: [lunch (Amenity), quiet atmosphere (Amenity), good value (Price)]
+
+Query 3: "Where can I find a lunch special for under $15 around here?"
+Named Entities: [lunch special (Amenity), under $15 (Price)]

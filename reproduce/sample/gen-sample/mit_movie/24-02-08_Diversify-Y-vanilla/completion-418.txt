@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for Top Gun?"
+Named Entities: [Top Gun (Title)]
+
+2. Query: "Can you show me the Character teaser for the movie directed by Werner Herzog in the 2020s?"
+Named Entities: [Character teaser (Trailer), Werner Herzog (Director), 2020s (Year)]
+
+3. Query: "Is the movie The Maltese Falcon rated TV-14?"
+Named Entities: [The Maltese Falcon (Title), TV-14 (MPAA Rating)]

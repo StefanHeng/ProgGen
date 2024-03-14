@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a mid-range price for a special occasion?"
+Named Entities: [fine dining (Amenity), mid-range (Price), special occasion (Amenity)]
+
+2. "I'd like to make a reservation at an upscale restaurant with reasonable prices. Any recommendations?"
+Named Entities: [upscale (Amenity), reasonable prices (Price)]
+
+3. "Where can I find a mid-range fine dining restaurant with a diverse menu in the area?"
+Named Entities: [mid-range (Price), fine dining (Amenity), diverse menu (Amenity), the area (Location)]

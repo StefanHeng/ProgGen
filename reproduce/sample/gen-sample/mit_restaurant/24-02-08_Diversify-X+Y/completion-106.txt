@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants open late on Thursday with superb dinner options?"
+Named Entities: [Thursday (Hours), Late-night (Amenity), superb (Rating)]
+
+2. "I'm looking for a top-rated place to have dinner on Thursday night, any suggestions?
+Named Entities: [Thursday (Hours), top-rated (Rating)]
+
+3. "Where can I find a fantastic late-night dining spot for dinner on Thursday?"
+Named Entities: [late-night (Amenity), Thursday (Hours), fantastic (Rating)]

@@ -1,0 +1,8 @@
+Query: "Can you suggest a highly recommended restaurant in The Grid area for dinner tonight?"
+Named Entities: [Highly recommended (Rating), The Grid (Location), dinner (Amenity)]
+
+Query: "I'm craving sushi, where can I find a top-rated sushi place nearby?"
+Named Entities: [sushi (Cuisine), top-rated (Rating), nearby (Location)]
+
+Query: "What are the hours of operation for the Italian restaurant at The Grid?"
+Named Entities: [Italian (Cuisine), The Grid (Location), hours of operation (Hours)]

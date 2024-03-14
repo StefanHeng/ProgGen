@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me about any behind-the-scenes details for the movie directed by U?"
+   Named Entities: [U (Director)]
+
+2. Spoken Query: "What is the making-of story for the film Staying Alive?"
+   Named Entities: [Staying Alive (Title)]
+
+3. Spoken Query: "Do you have any information on the abysmal war movie featuring Ed Harris?"
+   Named Entities: [abysmal (Review), war (Genre), Ed Harris (Actor)]

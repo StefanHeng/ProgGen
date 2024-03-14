@@ -1,0 +1,8 @@
+Query: "Where can I find a restaurant serving a delicious breakfast before 9 am?"
+Named Entities: [delicious (Rating), breakfast (Amenity), before 9 am (Hours)]
+
+Query: "I'm craving some pancakes and coffee, where can I go for breakfast within walking distance?"
+Named Entities: [pancakes (Dish), coffee (Dish), within walking distance (Location), breakfast (Amenity)]
+
+Query: "I want to try some French breakfast, where can I find a place with French cuisine open before 8 am?"
+Named Entities: [French (Cuisine), before 8 am (Hours)]

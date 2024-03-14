@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with a good menu for food and wine pairing?"
+   Named Entities: [good (Rating), food and wine pairing (Amenity)]
+
+2. Query: "I'm craving Italian cuisine, can you suggest a place with outdoor seating?"
+   Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+3. Query: "What are the hours for the nearest Chinese restaurant?"
+   Named Entities: [nearest (Location), Chinese (Cuisine), Hours]

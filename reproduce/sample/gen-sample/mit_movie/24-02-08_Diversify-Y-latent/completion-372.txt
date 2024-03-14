@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of the sci-fi thriller movie Black Panther directed by Ryan Coogler?"
+Named Entities: [Black Panther (Title), Ryan Coogler (Director), sci-fi thriller (Genre), plot (Plot)]
+
+2. "Who are the main characters in the time travel movie featuring Halle Berry?"
+Named Entities: [time travel (Plot), Halle Berry (Actor)]
+
+3. "Show me some sports movies released in the 1990s that received high viewers' ratings."
+Named Entities: [sports (Genre), 1990s (Year), high viewers' ratings (Viewers' Rating)]

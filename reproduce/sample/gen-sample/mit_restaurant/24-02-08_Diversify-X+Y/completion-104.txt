@@ -1,0 +1,8 @@
+1. "I'm in the mood for some breakfast tacos at a cozy café, any recommendations?"
+Named Entities: [breakfast tacos (Dish), cozy (Amenity), café (Cuisine)]
+
+2. "What's the best spot for affordable tacos and coffee in a café around here?"
+Named Entities: [affordable (Price), tacos (Dish), coffee (Dish), café (Amenity)]
+
+3. "Can you suggest a café with a good rating where I can grab some late-night tacos?"
+Named Entities: [good rating (Rating), late-night (Hours), tacos (Dish), café (Amenity)]

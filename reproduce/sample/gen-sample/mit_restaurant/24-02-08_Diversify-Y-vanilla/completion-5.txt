@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with authentic Peking Duck?"
+Named Entities: [authentic Peking Duck (Dish)]
+
+2. "I'm craving some Paraguayan food, where is the nearest place that serves it?"
+Named Entities: [Paraguayan (Cuisine), nearest place (Location)]
+
+3. "I'm in the mood for seafood, is there a good restaurant at Fisherman's Wharf Seafood?"
+Named Entities: [seafood (Cuisine), Fisherman's Wharf Seafood (Restaurant Name)]

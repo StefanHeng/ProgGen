@@ -1,0 +1,11 @@
+1. Sentence: "Dian Fossey's groundbreaking work with mountain gorillas continues to inspire conservation efforts in {{Rwanda}}."
+Text Span: "Rwanda"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Sydney}} Opera House to host international music festival next month."
+Text Span: "Sydney"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "{{Russia}} criticizes the International Criminal Court for its handling of a high-profile case involving a former military leader."
+Text Span: "Russia"
+Label: (A). The span is a named entity of type location

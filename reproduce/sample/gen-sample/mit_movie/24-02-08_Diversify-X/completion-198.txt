@@ -1,0 +1,8 @@
+1. "What are people saying about the new Marvel movie directed by Jon Watts?"
+Named Entities: [Marvel movie (Title), Jon Watts (Director)]
+
+2. "Show me a movie from the 90s with a high viewers' rating."
+Named Entities: [90s (Year), high viewers' rating (Viewers' Rating)]
+
+3. "Can you recommend a family-friendly animated movie with a catchy soundtrack?"
+Named Entities: [family-friendly (Genre), animated (Genre), catchy soundtrack (Song)]

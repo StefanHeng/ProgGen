@@ -1,0 +1,8 @@
+Query: "can you recommend any Expensive Eats in the downtown area for dinner"
+Named Entities: [Expensive Eats (Price), downtown area (Location)]
+
+Query: "I'm in the mood for some Italian cuisine, is there a good Italian restaurant in the Region"
+Named Entities: [Italian cuisine (Cuisine), Region (Location)]
+
+Query: "what are the Hours for the fancy sushi place near the theater district"
+Named Entities: [fancy sushi place (Restaurant Name), theater district (Location), Hours (Hours)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie featuring George Clooney?"
+Named Entities: [George Clooney (Actor)]
+
+2. "Find me a thriller released between 1980 and 1985."
+Named Entities: [1980-1985 (Year), Thriller (Genre)]
+
+3. "Show me a crime movie related to cybercrime."
+Named Entities: [Cybercrime (Genre)]

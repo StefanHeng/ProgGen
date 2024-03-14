@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a classic Blues soundtrack that will take me on an adventure?"
+   Named Entities: [Blues (Song), adventure (Genre)]
+
+2. Query: "I'm feeling nostalgic for a film about body swapping with a memorable score. Can you suggest one?"
+   Named Entities: [body swapping (Plot), score (Music)]
+
+3. Query: "Are there any G-rated movies from the past that have a fantastic Adventure theme song?"
+   Named Entities: [G (MPAA Rating), Adventure (Genre), theme song (Song)]

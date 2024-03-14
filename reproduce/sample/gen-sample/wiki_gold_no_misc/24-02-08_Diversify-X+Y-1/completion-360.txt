@@ -1,0 +1,8 @@
+Sentence: "The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse equals the sum of the squares of the lengths of the other two sides."
+Named Entities: []
+
+Sentence: "The European Mathematical Society is a learned society representing mathematicians throughout Europe."
+Named Entities: [European Mathematical Society (organization)]
+
+Sentence: "Mathematics is the study of numbers, shapes, and patterns, and it plays a crucial role in various fields such as science, engineering, and finance."
+Named Entities: []

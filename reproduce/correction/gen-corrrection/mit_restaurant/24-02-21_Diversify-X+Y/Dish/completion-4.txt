@@ -1,0 +1,8 @@
+1. Text Span: "vegetarian"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "great selection of desserts"
+Label: (C). The span is a named entity but the category is not dish. The correct entity type is Cuisine.
+
+3. Text Span: "burritos"
+Label: (A). The span is a named entity of type dish

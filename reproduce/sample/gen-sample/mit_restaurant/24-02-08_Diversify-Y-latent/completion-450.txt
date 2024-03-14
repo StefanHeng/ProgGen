@@ -1,0 +1,8 @@
+1. "Can you recommend a vegetarian restaurant with outdoor seating?"
+Named Entities: [vegetarian (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm looking for a place that serves sushi and is open late."
+Named Entities: [sushi (Cuisine), open late (Hours)]
+
+3. "What's the best Italian restaurant in the area with affordable prices?"
+Named Entities: [Italian (Cuisine), affordable prices (Price), best (Rating)]

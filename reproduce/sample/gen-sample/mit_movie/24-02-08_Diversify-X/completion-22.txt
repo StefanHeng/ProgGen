@@ -1,0 +1,8 @@
+1. Query: "Is the movie Inception available to stream?"
+   Named Entities: [Inception (Title)]
+
+2. Query: "What are the top-rated 80s action movies available to stream?"
+   Named Entities: [80s (Year), action (Genre)]
+
+3. Query: "Can I watch any George Clooney films on Netflix?"
+   Named Entities: [George Clooney (Actor), Netflix (Streaming platform)]

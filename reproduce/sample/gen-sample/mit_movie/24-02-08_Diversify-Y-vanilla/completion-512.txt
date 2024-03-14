@@ -1,0 +1,8 @@
+1. Query: "Can I see the highlight reel of the classic movie Rocky?"
+   Named Entities: [highlight reel (Trailer), Rocky (Title)]
+
+2. Query: "Could you recommend any TV-G movies from the 1990s?"
+   Named Entities: [TV-G (MPAA Rating), 1990s (Year)]
+
+3. Query: "Is there an 18+ film directed by Christopher Nolan?"
+   Named Entities: [18+ (MPAA Rating), Christopher Nolan (Director)]

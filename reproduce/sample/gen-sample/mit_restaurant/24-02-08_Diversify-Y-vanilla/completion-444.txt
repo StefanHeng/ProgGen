@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant that serves lobster mac and cheese?"
+Named Entities: [lobster mac and cheese (Dish)]
+
+2. "I'm in the mood for some lamb. Is there a restaurant nearby that specializes in lamb dishes?"
+Named Entities: [lamb (Dish), nearby (Location)]
+
+3. "I'm looking for a high-rated restaurant with a diverse menu, including options for vegetarians and vegans."
+Named Entities: [high-rated (Rating), diverse menu (Amenity), vegetarians and vegans (Cuisine)]

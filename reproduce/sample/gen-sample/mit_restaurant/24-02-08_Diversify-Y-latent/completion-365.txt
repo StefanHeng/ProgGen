@@ -1,0 +1,8 @@
+Query: "Where can I find a good Italian restaurant around here?"
+Named Entities: [good (Rating), Italian (Cuisine), around (Location)]
+
+Query: "Is there a place around with outdoor seating and an extensive wine list?"
+Named Entities: [outdoor seating (Amenity), extensive wine list (Amenity), around (Location)]
+
+Query: "Can you recommend a restaurant around that serves vegan dishes?"
+Named Entities: [vegan (Cuisine), around (Location)]

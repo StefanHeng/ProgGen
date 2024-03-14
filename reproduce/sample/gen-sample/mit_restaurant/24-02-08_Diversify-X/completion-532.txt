@@ -1,0 +1,8 @@
+1. "I'm looking for a buffet restaurant with low-carb options"
+Named Entities: [buffet (Amenity), low-carb (Cuisine)]
+
+2. "Where can I find a low-carb buffet around here?"
+Named Entities: [low-carb (Cuisine), buffet (Amenity)]
+
+3. "What are the top-rated buffet restaurants with low-carb dishes?"
+Named Entities: [top-rated (Rating), buffet (Amenity), low-carb (Cuisine)]

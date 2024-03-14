@@ -1,0 +1,11 @@
+1. Query: "Can you suggest a restaurant with a {{diverse}} cuisine options that is open late?"
+Text Span: "diverse"
+Label: (D). The span is not a named entity
+
+2. Query: "What's a popular {{Mexican}} restaurant with outdoor seating for dinner?"
+Text Span: "Mexican"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "Which restaurant in Chicago offers a good selection of {{vegetarian dishes}}?"
+Text Span: "vegetarian dishes"
+Label: (A). The span is a named entity of type cuisine

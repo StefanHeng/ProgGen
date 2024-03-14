@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie featuring Princess Leia that was directed by George Lucas?"
+Named Entities: [Princess Leia (Character), George Lucas (Director)]
+
+Query: "What is the viewers' rating for the movie directed by Quentin Tarantino and starring Samuel L. Jackson?"
+Named Entities: [Quentin Tarantino (Director), Samuel L. Jackson (Actor)]
+
+Query: "Show me a trailer for a classic movie with the song 'My Heart Will Go On'."
+Named Entities: ['My Heart Will Go On' (Song)]

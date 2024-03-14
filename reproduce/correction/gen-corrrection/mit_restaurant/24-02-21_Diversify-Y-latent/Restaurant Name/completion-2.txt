@@ -1,0 +1,11 @@
+1. Query: "I'm craving a fine dining experience, can you suggest a restaurant like {{Per Se}}?"
+Text Span: "Per Se"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Where can I find a restaurant with vegan options in the same area as {{Applebee's}}?"
+Text Span: "Applebee's"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "I'm craving some authentic Italian cuisine, where can I find a good {{Italian restaurant}} open late?"
+Text Span: "Italian restaurant"
+Label: (C). The span is a named entity but the category is not restaurant name. The correct entity type is Cuisine.

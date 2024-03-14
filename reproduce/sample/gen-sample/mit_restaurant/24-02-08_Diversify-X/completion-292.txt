@@ -1,0 +1,8 @@
+1. "I'm looking for a hip and trendy place for lunch with low-carb options."
+Named Entities: [lunch (Amenity), hip and trendy (Amenity), low-carb (Cuisine)]
+
+2. "Where can I find a cool spot with a variety of low-carb dishes for lunch?"
+Named Entities: [lunch (Amenity), cool spot (Amenity), low-carb (Cuisine)]
+
+3. "Recommend a stylish restaurant with a lunch menu that's low-carb friendly."
+Named Entities: [stylish (Amenity), lunch (Amenity), low-carb (Cuisine)]

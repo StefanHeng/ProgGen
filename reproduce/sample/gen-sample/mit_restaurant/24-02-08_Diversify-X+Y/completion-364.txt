@@ -1,0 +1,8 @@
+1. Query: "I'm looking for an inexpensive place for lunch with highly recommended happy hours"
+   Named Entities: [inexpensive (Price), lunch (Amenity), highly recommended (Rating), happy hours (Amenity)]
+
+2. Query: "Can you suggest a highly recommended restaurant with inexpensive lunch and happy hours nearby?"
+   Named Entities: [highly recommended (Rating), inexpensive (Price), lunch (Amenity), happy hours (Amenity), nearby (Location)]
+
+3. Query: "I need a place with highly recommended happy hours and inexpensive lunch options for today"
+   Named Entities: [highly recommended (Rating), happy hours (Amenity), inexpensive (Price), lunch (Amenity), today (Hours) ]

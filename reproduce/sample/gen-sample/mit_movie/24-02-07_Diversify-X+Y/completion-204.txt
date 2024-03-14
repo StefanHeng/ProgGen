@@ -1,0 +1,8 @@
+1. "Can you recommend any war movies from the 90s that are similar to The Usual Suspects?"
+   Named Entities: [war (Genre), 90s (Year), The Usual Suspects (Title)]
+
+2. "I'm feeling nostalgic for some psychodrama films from the 80s, any recommendations?"
+   Named Entities: [psychodrama (Genre), 80s (Year)]
+
+3. "Do you have any suggestions for movies with an undercover cop seeking revenge, directed by Ridley Scott?"
+   Named Entities: [undercover cop (Plot), revenge (Plot), Ridley Scott (Director)]

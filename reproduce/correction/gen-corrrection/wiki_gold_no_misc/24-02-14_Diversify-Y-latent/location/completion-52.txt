@@ -1,0 +1,8 @@
+1. Text Span: "Ethiopia"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Australia"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Cape Canaveral Space Force Station"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Cape Canaveral Space Force Station"

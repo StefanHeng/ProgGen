@@ -1,0 +1,8 @@
+1. Query: "I need to watch a movie on a streaming platform, can you recommend a great action movie with a killer soundtrack and a stunning Trailer breakdown?"
+Named Entities: [action (Genre), killer soundtrack (Song), stunning (Viewers' Rating), Trailer breakdown (Trailer)]
+
+2. Query: "I can't decide what to watch tonight, is there a classic comedy with a high IMDb rating available for streaming? I need to see a Trailer breakdown before I commit."
+Named Entities: [classic comedy (Genre), high IMDb rating (Viewers' Rating), Trailer breakdown (Trailer)]
+
+3. Query: "I'm stressed and need something to distract me, do you know of any recent science-fiction movies with a mind-blowing special effects and available for streaming? I want to see a detailed Trailer breakdown!"
+Named Entities: [recent science-fiction (Genre), mind-blowing special effects (Viewers' Rating), detailed (Review), Trailer breakdown (Trailer)]

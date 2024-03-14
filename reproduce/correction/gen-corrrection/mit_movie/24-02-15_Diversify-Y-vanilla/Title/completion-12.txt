@@ -1,0 +1,11 @@
+1. Query: "What {{Movie promo}} features Cinematic brilliance"
+Text Span: "Movie promo"
+Label: (C). Other
+
+2. Query: "What is the {{perfect}} exploitation film to watch tonight?"
+Text Span: "perfect"
+Label: (C). Other
+
+3. Query: "What is the plot of {{The Godfather Part II}}?"
+Text Span: "The Godfather Part II"
+Label: (A). Title

@@ -1,0 +1,8 @@
+1. "Can you recommend a survival movie released between 1975 and 1985?"
+Named Entities: [Survival (Genre), 1975-1985 (Year)]
+
+2. "What is the viewers' rating for the movie Bohemian Rhapsody?"
+Named Entities: [Bohemian Rhapsody (Title), Viewers' Rating (Viewers' Rating)]
+
+3. "Is the film 12 Years rated X?"
+Named Entities: [12 Years (Title), Rated X (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant nearby with a good lunch menu?"
+Named Entities: [good (Rating), nearby (Location), lunch (Amenity)]
+
+2. "I'm looking for a place with outdoor seating for lunch, preferably with Italian cuisine"
+Named Entities: [outdoor seating (Amenity), lunch (Amenity), Italian (Cuisine)]
+
+3. "What's the best place for a quick lunch in the downtown area?"
+Named Entities: [best (Rating), quick (Amenity), downtown area (Location), lunch (Amenity) ]

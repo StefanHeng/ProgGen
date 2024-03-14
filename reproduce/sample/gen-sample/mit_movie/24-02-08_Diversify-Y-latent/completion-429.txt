@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a Neo-Noir film starring Tim Robbins?"
+Named Entities: [Neo-Noir (Genre), Tim Robbins (Actor)]
+
+2. Query: "Show me the trailer for Romeo + Juliet directed by Baz Luhrmann"
+Named Entities: [Trailer, Romeo + Juliet (Title), Baz Luhrmann (Director)]
+
+3. Query: "What is the viewers' rating for the movie starring R and Luke Skywalker?"
+Named Entities: [R (MPAA Rating), Luke Skywalker (Character)]

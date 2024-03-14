@@ -1,0 +1,11 @@
+1. Query: "What year was A Few Good Men released and who {{directed}} it?"
+Text Span: "directed"
+Label: (D). Not a Named Entity.
+
+2. Query: "What was the {{director's vision for the cast}} in the film released in 1968?"
+Text Span: "director's vision for the cast"
+Label: (C). The span is not a named entity, Category: Other
+
+3. Query: "What {{Wes Anderson}} movie came out in 1997 with a brilliant plot and a G rating?"
+Text Span: "Wes Anderson"
+Label: (A). The span is a named entity of type director.

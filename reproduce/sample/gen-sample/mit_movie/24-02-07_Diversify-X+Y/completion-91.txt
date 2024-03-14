@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any showtimes for The Silence of the Lambs?"
+Named Entities: [The Silence of the Lambs (Title)]
+
+2. Query: "I'm looking for a movie to watch from the 1900s, any suggestions?"
+Named Entities: [1900s (Year)]
+
+3. Query: "Do you have any tickets available for a Musical film?"
+Named Entities: [Musical (Genre)]

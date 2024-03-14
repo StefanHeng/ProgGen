@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with a Good Food Guide rating within walking distance?"
+Named Entities: [Good Food Guide rating (Amenity), walking distance (Location)]
+
+2. "I'm craving some authentic Mexican cuisine. Are there any restaurants nearby that fit the bill?"
+Named Entities: [Mexican cuisine (Cuisine), nearby (Location)]
+
+3. "I'm looking for a place with outdoor seating and a good happy hour deal. Any recommendations?"
+Named Entities: [outdoor seating (Amenity), happy hour (Amenity)]

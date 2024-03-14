@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a thrilling plot and a touch of mystery?"
+   Named Entities: [thrilling (Genre), mystery (Genre)]
+
+2. "I'm looking for a film that has a mix of action and romance, any suggestions?"
+   Named Entities: [action (Genre), romance (Genre)]
+
+3. "Do you know of any movies that fall into the fantasy genre, maybe with some elements of adventure?"
+   Named Entities: [fantasy (Genre), adventure (Genre)]

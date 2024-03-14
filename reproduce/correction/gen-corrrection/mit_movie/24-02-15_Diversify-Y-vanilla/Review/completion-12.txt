@@ -1,0 +1,11 @@
+1. Query: "Which film, directed by Christopher Nolan, is rated R and received {{high viewers' rating}}?"
+Text Span: "high viewers' rating"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Show me an extended preview of the new action movie with a {{disappointing}} viewers' rating"
+Text Span: "disappointing"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "What is the {{highest-rated}} comedy film featuring Ron Weasley as a character?"
+Text Span: "highest-rated"
+Label: (A). Correct Entity Annotation.

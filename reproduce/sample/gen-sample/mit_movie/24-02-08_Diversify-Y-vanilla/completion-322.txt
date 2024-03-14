@@ -1,0 +1,8 @@
+1. Query: "can I watch a preview of the new rags to riches movie"
+Named Entities: [preview (Trailer), rags to riches (Plot)]
+
+2. Query: "are there any art house films from the 1960s that are highly rated"
+Named Entities: [art house (Genre), 1960s (Year), highly rated (Viewers' Rating)]
+
+3. Query: "show me a trailer clip for a martial arts film directed by ang lee"
+Named Entities: [trailer clip (Trailer), martial arts (Genre), ang lee (Director)]

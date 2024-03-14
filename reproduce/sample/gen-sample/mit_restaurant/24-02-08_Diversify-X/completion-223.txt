@@ -1,0 +1,11 @@
+1. "Can you recommend a cozy café with outdoor seating and a good selection of vegan dishes?"
+Named Entities: [cozy (Amenity), outdoor seating (Amenity), vegan dishes (Cuisine)]
+
+2. "I'm looking for a café near my workplace that serves breakfast all day and has a relaxed atmosphere"
+Named Entities: [breakfast all day (Hours), relaxed atmosphere (Amenity)]
+
+3. "I want to find a trendy café with Instagram-worthy desserts and a moderate price range for a coffee date with my friends"
+Named Entities: [trendy (Amenity), Instagram-worthy desserts (Dish), moderate price range (Price)]
+
+4. "Take me to a cute café in the downtown area that has a good lunch menu and is known for its friendly staff"
+Named Entities: [cute (Amenity), downtown area (Location), good lunch menu (Dish), friendly staff (Amenity)]

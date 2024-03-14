@@ -1,0 +1,8 @@
+Query: "Can you recommend an excellent seafood restaurant nearby?"
+Named Entities: [excellent (Rating), seafood (Cuisine), nearby (Location)]
+
+Query: "I'm looking for an excellent Italian restaurant with outdoor seating and good wine selection"
+Named Entities: [excellent (Rating), Italian (Cuisine), outdoor seating (Amenity), good wine selection (Amenity)]
+
+Query: "Where can I find excellent sushi with a view and open past 10 pm?"
+Named Entities: [excellent (Rating), sushi (Cuisine), with a view (Amenity), open past 10 pm (Hours)]

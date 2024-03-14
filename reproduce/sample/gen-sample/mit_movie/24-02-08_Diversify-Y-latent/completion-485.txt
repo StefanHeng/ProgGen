@@ -1,0 +1,8 @@
+1. "What is the genre of the movie directed by Michael Mann?"
+   Named Entities: [Michael Mann (Director)]
+
+2. "Can you recommend a short musical film from the 1980s?"
+   Named Entities: [1980s (Year), Musical (Genre), Short (Viewers' Rating)]
+
+3. "Is Professor X a character in the movie directed by John Favreau?"
+   Named Entities: [Professor X (Character), John Favreau (Director)]

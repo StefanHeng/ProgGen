@@ -1,0 +1,8 @@
+1. "I'm craving a good steak. Can you recommend a nearby place like Fleming's Prime Steakhouse?"
+Named Entities: [Fleming's Prime Steakhouse (Restaurant Name)]
+
+2. "Where can I find the best cannoli in town?"
+Named Entities: [cannoli (Dish)]
+
+3. "Do you know any restaurants with a fine dining atmosphere and a prix fixe menu for under $50?"
+Named Entities: [fine dining (Amenity), prix fixe (Amenity), under $50 (Price)]

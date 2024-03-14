@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with high viewers' rating and a thrilling plot for young adults?"
+Named Entities: [high viewers' rating (Viewers' Rating), thrilling (Genre), young adults (Character)]
+
+2. Query: "Who directed the highest rated movie for young adults in the past 5 years?"
+Named Entities: [highest rated (Viewers' Rating), past 5 years (Year), young adults (Character)]
+
+3. Query: "I'm looking for a movie with a strong female lead and positive reviews from the past decade."
+Named Entities: [strong female lead (Character), positive reviews (Review), past decade (Year)]

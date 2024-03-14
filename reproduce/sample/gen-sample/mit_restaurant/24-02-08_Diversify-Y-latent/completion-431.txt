@@ -1,0 +1,8 @@
+1. "I'm in the mood for some doner kebab, where can I find a place to eat it?"
+Named Entities: [doner kebab (Dish)]
+
+2. "I need to find a reasonable Greek restaurant in the area for dinner tonight."
+Named Entities: [reasonable (Price), Greek (Cuisine)]
+
+3. "Where is the nearest Panda Express with high ratings?"
+Named Entities: [nearest (Location), Panda Express (Restaurant Name), high ratings (Rating)]

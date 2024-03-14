@@ -1,0 +1,8 @@
+1. "I'm craving a hearty breakfast, can you recommend a place with a late closing time?"
+Named Entities: [breakfast (Cuisine), late closing (Hours)]
+
+2. "I need a breakfast spot that caters to a construction worker like me and stays open late"
+Named Entities: [breakfast (Cuisine), construction worker (Amenity), late closing (Hours)]
+
+3. "Where can I find a restaurant with a breakfast menu that's open late, and also has a good rating?"
+Named Entities: [breakfast (Cuisine), late closing (Hours), good (Rating)]

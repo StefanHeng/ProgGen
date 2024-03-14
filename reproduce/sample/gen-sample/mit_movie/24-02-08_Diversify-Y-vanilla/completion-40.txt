@@ -1,0 +1,8 @@
+1. "Can you show me a one-minute trailer for the new Jennifer Garner movie"
+Named Entities: [one-minute trailer (Trailer), Jennifer Garner (Actor)]
+
+2. "Is there an epic movie not worth watching that came out in 2019"
+Named Entities: [epic (Genre), not worth watching (Review), 2019 (Year)]
+
+3. "What is the viewers' rating for the movie directed by John Woo and starring Chow Yun-fat"
+Named Entities: [viewers' rating (Viewers' Rating), John Woo (Director), Chow Yun-fat (Actor)]

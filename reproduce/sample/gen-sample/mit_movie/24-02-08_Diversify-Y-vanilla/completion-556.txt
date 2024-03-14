@@ -1,0 +1,8 @@
+1. Query: "Can I watch a stale, one-minute trailer of the classic film Casablanca"
+   Named Entities: [Casablanca (Title), stale (Viewers' Rating), one-minute trailer (Trailer)]
+
+2. Query: "What's the genre of the movie Pulp Fiction"
+   Named Entities: [Pulp Fiction (Title)]
+
+3. Query: "Who is the director of the blockbuster film Inception"
+   Named Entities: [Inception (Title), blockbuster (Viewers' Rating)]

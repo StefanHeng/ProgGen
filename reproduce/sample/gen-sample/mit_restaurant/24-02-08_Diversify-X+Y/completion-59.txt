@@ -1,0 +1,8 @@
+1. "Find us a cheap spot for waffles and coffee before 9 am"
+Named Entities: [cheap (Price), waffles (Dish), before 9 am (Hours)]
+
+2. "Where can I get affordable waffles for breakfast around here?"
+Named Entities: [affordable (Price), waffles (Dish), breakfast (Amenity)]
+
+3. "I'm looking for a budget-friendly place that serves delicious waffles in the morning"
+Named Entities: [budget-friendly (Price), delicious (Rating), waffles (Dish), morning (Hours)]

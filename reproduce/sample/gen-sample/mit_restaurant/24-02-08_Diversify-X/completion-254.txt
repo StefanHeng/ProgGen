@@ -1,0 +1,8 @@
+1. "I'm craving some late-night Chinese food, where can I find a place with good reviews?"
+Named Entities: [late-night dining (Amenity), Chinese (Cuisine), good (Rating)]
+
+2. "What's a nearby restaurant that serves late-night pizza?"
+Named Entities: [nearby (Location), late-night dining (Amenity), pizza (Cuisine)]
+
+3. "Can you recommend a place for late-night dessert that's affordable?"
+Named Entities: [late-night dining (Amenity), dessert (Cuisine), affordable (Price)]

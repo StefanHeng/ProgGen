@@ -1,0 +1,149 @@
+1. Election results show Johnson in the lead.
+Named Entities: [Johnson (person)]
+
+2. Apple unveils new iPhone model.
+Named Entities: [Apple (organization)]
+
+3. Earthquake hits northern California.
+Named Entities: [California (location)]
+
+4. CEO of Google steps down.
+Named Entities: [Google (organization)]
+
+5. President Harris announces new economic policy.
+Named Entities: [Harris (person)]
+
+6. Wildfires continue to ravage Australia.
+Named Entities: [Australia (location)]
+
+7. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+8. Famous actress arrested for DUI.
+Named Entities: [actress (person)]
+
+9. Amazon plans to open new distribution center.
+Named Entities: [Amazon (organization)]
+
+10. Mayor of New York City proposes new tax law.
+Named Entities: [New York City (location)]
+
+11. Cyclone causes devastation in Bangladesh.
+Named Entities: [Bangladesh (location)]
+
+12. CEO of Tesla predicts strong quarter earnings.
+Named Entities: [Tesla (organization)]
+
+13. Famous singer announces world tour.
+Named Entities: [singer (person)]
+
+14. Flooding in Japan displaces thousands.
+Named Entities: [Japan (location)]
+
+15. Microsoft acquires new start-up company.
+Named Entities: [Microsoft (organization)]
+
+16. Federal Reserve raises interest rates.
+Named Entities: [Federal Reserve (organization)]
+
+17. A.de Silva not out 49
+Named Entities: [A.de Silva (person)]
+
+18. Arizona senator calls for immigration reform.
+Named Entities: [Arizona (location)]
+
+19. NBA player LeBron James signs new contract.
+Named Entities: [LeBron James (person)]
+
+20. New COVID-19 variant discovered in South Africa.
+Named Entities: [South Africa (location)]
+
+21. SpaceX CEO Elon Musk to resign.
+Named Entities: [SpaceX (organization), Elon Musk (person)]
+
+22. Prime Minister Trudeau promises infrastructure funding.
+Named Entities: [Trudeau (person)]
+
+23. Oil prices surge amid Middle East tensions.
+Named Entities: [Middle East (location)]
+
+24. Activist Greta Thunberg speaks at climate change summit.
+Named Entities: [Greta Thunberg (person)]
+
+25. Facebook faces backlash over privacy concerns.
+Named Entities: [Facebook (organization)]
+
+26. California governor signs new gun control bill.
+Named Entities: [California (location)]
+
+27. Boxer Muhammad Ali wins championship fight.
+Named Entities: [Muhammad Ali (person)]
+
+28. European Union imposes sanctions on Russia.
+Named Entities: [European Union (organization), Russia (location)]
+
+29. U.S. President Biden to visit Mexico next week.
+Named Entities: [Biden (person), Mexico (location)]
+
+30. CEO of Amazon Jeff Bezos steps down.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+31. Queens Park Rangers win championship title.
+Named Entities: [Queens Park Rangers (organization)]
+
+32. Yellowstone National Park experiences record number of visitors.
+Named Entities: [Yellowstone National Park (location)]
+
+33. Singer Taylor Swift to release new album.
+Named Entities: [Taylor Swift (person)]
+
+34. Starbucks launches new line of sustainable products.
+Named Entities: [Starbucks (organization)]
+
+35. Angela Merkel wins re-election as Chancellor of Germany.
+Named Entities: [Angela Merkel (person), Germany (location)]
+
+36. Wildfires in Oregon force evacuations.
+Named Entities: [Oregon (location)]
+
+37. CEO of Microsoft Satya Nadella to step down.
+Named Entities: [Microsoft (organization), Satya Nadella (person)]
+
+38. Tokyo Olympics to be held without spectators.
+Named Entities: [Tokyo (location)]
+
+39. Famous chef Gordon Ramsay opens new restaurant.
+Named Entities: [Gordon Ramsay (person)]
+
+40. Hurricane hits Florida coast.
+Named Entities: [Florida (location)]
+
+41. Google CEO Sundar Pichai announces new AI initiative.
+Named Entities: [Google (organization), Sundar Pichai (person)]
+
+42. New study shows link between climate change and extreme weather events.
+Named Entities: []
+
+43. Coinbase goes public on stock exchange.
+Named Entities: [Coinbase (organization)]
+
+44. Serena Williams wins Wimbledon title.
+Named Entities: [Serena Williams (person)]
+
+45. Notre Dame Cathedral undergoes reconstruction.
+Named Entities: [Notre Dame Cathedral (location)]
+
+46. SpaceX launches manned mission to International Space Station.
+Named Entities: [SpaceX (organization), International Space Station (location)]
+
+47. New York Yankees acquire top pitcher in trade.
+Named Entities: [New York Yankees (organization)]
+
+48. Facebook whistleblower exposes internal corruption.
+Named Entities: [Facebook (organization)]
+
+49. Hurricane causes widespread destruction in Caribbean islands.
+Named Entities: [Caribbean (location)]
+
+50. CEO of Twitter Jack Dorsey steps down.
+Named Entities: [Twitter (organization), Jack Dorsey (person)]

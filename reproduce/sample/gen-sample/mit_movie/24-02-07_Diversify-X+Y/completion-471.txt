@@ -1,0 +1,8 @@
+1. "What movie from 1964-1968 did Idris Elba star in?"
+Named Entities: [1964-1968 (Year), Idris Elba (Actor)]
+
+2. "Did the movie Avatar receive a 4-star rating from viewers?"
+Named Entities: [Avatar (Title), 4-star rating (Viewers' Rating)]
+
+3. "Who directed the film that featured Professor X in 1991?"
+Named Entities: [1991 (Year), Professor X (Character)]

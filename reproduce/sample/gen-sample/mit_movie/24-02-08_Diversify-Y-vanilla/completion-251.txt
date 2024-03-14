@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a suspenseful movie from 1970 that deals with facing inner demons, directed by Jane Campion?"
+Named Entities: [suspenseful (Genre), 1970 (Year), facing inner demons (Plot), Jane Campion (Director)]
+
+2. Query: "What is the viewers' rating for the film about facing inner demons that came out in 1990?"
+Named Entities: [facing inner demons (Plot), 1990 (Year), viewers' rating (Viewers' Rating)]
+
+3. Query: "Show me the trailer for the movie directed by Jane Campion that has a song by Nirvana."
+Named Entities: [Jane Campion (Director), Nirvana (Song), trailer (Trailer)]

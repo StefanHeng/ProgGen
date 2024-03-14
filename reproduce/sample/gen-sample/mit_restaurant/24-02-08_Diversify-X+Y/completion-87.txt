@@ -1,0 +1,8 @@
+1. "Which food trucks around here are known for their Mexican cuisine?"
+Named Entities: [food truck (Amenity), Mexican (Cuisine)]
+
+2. "What mid-range food truck serves vegetarian dishes?"
+Named Entities: [mid-range (Price), food truck (Amenity), vegetarian (Dish)]
+
+3. "Can you recommend a food truck with a high rating for late-night eats?"
+Named Entities: [food truck (Amenity), high rating (Rating), late-night (Hours)]

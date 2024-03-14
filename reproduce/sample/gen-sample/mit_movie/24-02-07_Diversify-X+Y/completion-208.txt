@@ -1,0 +1,8 @@
+1. Query: "Hey, what kind of movie is Dracula? Like, is it a horror or more of a supernatural thriller?"
+   Named Entities: [Dracula (Title), horror (Genre), supernatural thriller (Genre)]
+
+2. Query: "I heard The Big Lebowski is kinda underwhelming. Is it really a comedy or more of a parody?"
+   Named Entities: [The Big Lebowski (Title), underwhelming (Review), comedy (Genre), parody (Genre)]
+
+3. Query: "Is the new action movie any good? I mean, does it have that classic 80s action vibe or is it more of a modern, fast-paced thing?"
+   Named Entities: [action (Genre), classic 80s action vibe (Genre), modern, fast-paced (Genre)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a beautiful music score and emotional soundtrack?"
+Named Entities: [beautiful music (Song), emotional score (Review)]
+
+2. "Show me a movie directed by Spike Jonze with a great soundtrack from the year 1983."
+Named Entities: [Spike Jonze (Director), 1983 (Year), great soundtrack (Song)]
+
+3. "Do you know of any movies featuring Sulley with music by Alexander Payne?"
+Named Entities: [Sulley (Character), Alexander Payne (Composer)]

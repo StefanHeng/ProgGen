@@ -1,0 +1,8 @@
+1. Query: "Can you tell me who directed the movie Top Gun?"
+   Named Entities: [Top Gun (Title), directed (Director)]
+
+2. Query: "Show me a film starring Humphrey Bogart that is set in the 1940s"
+   Named Entities: [Humphrey Bogart (Actor), 1940s (Year)]
+
+3. Query: "What is the viewers' rating for the movie Shawshank Redemption?"
+   Named Entities: [Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]

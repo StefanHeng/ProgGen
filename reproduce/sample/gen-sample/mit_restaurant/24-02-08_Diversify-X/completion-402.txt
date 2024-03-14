@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a vegan menu in the downtown area"
+Named Entities: [fine dining (Amenity), vegan (Cuisine), downtown area (Location)]
+
+Query: "What are the operating hours of the French restaurant with a Michelin star rating"
+Named Entities: [French restaurant (Cuisine), operating hours (Hours), Michelin star rating (Rating)]
+
+Query: "Where can I find a high-end Italian restaurant that offers a tasting menu for a reasonable price"
+Named Entities: [high-end (Amenity), Italian (Cuisine), tasting menu (Dish), reasonable price (Price)]

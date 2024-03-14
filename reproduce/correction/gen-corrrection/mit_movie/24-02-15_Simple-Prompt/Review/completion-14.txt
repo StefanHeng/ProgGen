@@ -1,0 +1,8 @@
+1. Text Span: "top-rated"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "IMDB"
+   Label: (C). The correct entity type is Source.
+
+3. Text Span: "highest rated"
+   Label: (A). Correct Entity Annotation.

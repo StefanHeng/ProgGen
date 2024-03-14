@@ -1,0 +1,8 @@
+1. "Can you recommend a suspenseful movie like Parasite?"
+Named Entities: [suspenseful (Genre), Parasite (Title)]
+
+2. "I believe Exquisite is the best song in the movie I watched last night, can you identify the title?"
+Named Entities: [I Believe (Song), Exquisite (Song)]
+
+3. "Can you suggest a movie with an exquisite plot and captivating character development?"
+Named Entities: [exquisite (Plot), captivating (Character)]

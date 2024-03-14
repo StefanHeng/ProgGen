@@ -1,0 +1,8 @@
+1. "I'm in the mood for some French toast. Is there a restaurant nearby that serves it?"
+Named Entities: [French toast (Dish)]
+
+2. "Do you know of any restaurants with free Wi-Fi in the area?"
+Named Entities: [free Wi-Fi (Amenity)]
+
+3. "I don't feel like driving around for parking. Can you recommend a place with valet parking?"
+Named Entities: [valet parking (Amenity)]

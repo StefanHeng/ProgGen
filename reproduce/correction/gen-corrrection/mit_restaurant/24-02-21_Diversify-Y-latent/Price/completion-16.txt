@@ -1,0 +1,8 @@
+1. Text Span: "reasonable prices"
+Label: (B). The correct span boundary is "reasonable".
+
+2. Text Span: "affordable prices"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "economical dishes"
+Label: (C). Wrong Type. The correct entity type is Price.

@@ -1,0 +1,8 @@
+Query: "I'm thinking of going to see a popular movie tonight, any suggestions?"
+Named Entities: [popular movie (Viewers' Rating)]
+
+Query: "I heard there's a new film out that everyone's talking about, are there any showtimes available?"
+Named Entities: [new film (Title)]
+
+Query: "I'm trying to find a good movie to watch this weekend, any recommendations?"
+Named Entities: [good movie (Viewers' Rating)]

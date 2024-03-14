@@ -1,0 +1,8 @@
+1. "What fast food places nearby deliver?"
+Named Entities: [fast food (Cuisine), nearby (Location), deliver (Amenity)]
+
+2. "I'm craving some quick fast food for under 5 dollars, any suggestions?"
+Named Entities: [quick fast food (Cuisine), under 5 dollars (Price)]
+
+3. "Can you recommend a good spot for fast food open 24/7?"
+Named Entities: [fast food (Cuisine), open 24/7 (Hours)]

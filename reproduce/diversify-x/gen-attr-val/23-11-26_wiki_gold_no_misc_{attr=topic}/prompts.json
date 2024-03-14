@@ -1,0 +1,7 @@
+{
+    "prompts": [
+        "Suppose you are a Wikipedia editor. List 30 diverse categories for Wikipedia articles. Some examples are [culture, biography, history, technology, art, science].",
+        "Suppose you are a Wikipedia editor. List 30 diverse categories for Wikipedia articles. Some examples are [culture, art, biography, science, history, technology].",
+        "Suppose you are a Wikipedia editor. List 30 diverse categories for Wikipedia articles. Some examples are [art, history, science, culture, biography, technology]."
+    ]
+}

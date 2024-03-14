@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie set in a dystopian society directed by Wong Kar-wai?"
+   Named Entities: [dystopian society (Genre), Wong Kar-wai (Director)]
+
+2. Query: "Show me a trailer for the latest Wong Kar-wai film."
+   Named Entities: [Wong Kar-wai (Director)]
+
+3. Query: "What is the viewers' rating for the dystopian society movie 'In Time'?"
+   Named Entities: [In Time (Title), viewers' rating (Viewers' Rating)]

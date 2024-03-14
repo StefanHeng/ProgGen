@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a feel-good movie with a {{catchy soundtrack}}. Any suggestions?"
+Text Span: "catchy soundtrack"
+Label: (A). Named Entity of type Review
+
+2. Query: "Which movie from 2019 received the {{most nominations}}?"
+Text Span: "most nominations"
+Label: (A). Named Entity of type Review
+
+3. Query: "What are some {{highly-rated}} action movies from the 1990s?"
+Text Span: "highly-rated"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

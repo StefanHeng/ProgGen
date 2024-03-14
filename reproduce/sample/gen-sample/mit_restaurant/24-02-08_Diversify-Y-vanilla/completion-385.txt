@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with delicious arancini?"
+Named Entities: [delicious (Rating), arancini (Dish)]
+
+2. "I'm looking for a restaurant with a drive-thru. Any suggestions?"
+Named Entities: [drive-thru (Amenity)]
+
+3. "Which restaurant in this area serves Italian cuisine at a reasonable price?"
+Named Entities: [Italian (Cuisine), reasonable price (Price)]

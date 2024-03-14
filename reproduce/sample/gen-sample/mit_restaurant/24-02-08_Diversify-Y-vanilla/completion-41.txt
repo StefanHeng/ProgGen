@@ -1,0 +1,8 @@
+1. "I'm looking for premium dining options in the area that serve empanadas."
+Named Entities: [premium dining (Amenity), empanadas (Dish)]
+
+2. "What are the hours of operation for the restaurant specializing in empanadas?"
+Named Entities: [empanadas (Dish)]
+
+3. "Can you recommend a restaurant known for its premium dining experience?"
+Named Entities: [premium dining (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which movie directed by Danny Boyle was awarded for its outstanding performances?"
+   Named Entities: [Danny Boyle (Director), Awarded for its outstanding performances]
+
+2. Query: "Show me a promo for a disaster movie released between 1965-1970"
+   Named Entities: [Promo, Disaster movie, 1965-1970]
+
+3. Query: "What movie from the 1965-1970 period received the most awards and nominations?"
+   Named Entities: [1965-1970 (Year), Awards and nominations]

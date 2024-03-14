@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, where can I find a McDonald's nearby?"
+Named Entities: [fast food (Cuisine), McDonald's (Restaurant Name), nearby (Location)]
+
+Query: "What are the opening hours for Burger King?"
+Named Entities: [Burger King (Restaurant Name), opening hours (Hours)]
+
+Query: "I'm looking for a cheap place to grab some fast food, any recommendations?"
+Named Entities: [cheap (Price), fast food (Cuisine)]

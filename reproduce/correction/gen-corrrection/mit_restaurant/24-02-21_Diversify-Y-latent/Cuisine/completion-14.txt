@@ -1,0 +1,11 @@
+1. Query: "what time does the {{seafood}} restaurant close tonight"
+Text Span: "seafood"
+Label: (A). The span is a named entity of type cuisine
+
+2. Query: "What are the hours of operation for the nearest {{sushi}} place?"
+Text Span: "sushi"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "I'm looking for a {{vegan}}-friendly restaurant open on weekends."
+Text Span: "vegan"
+Label: (A). The span is a named entity of type cuisine

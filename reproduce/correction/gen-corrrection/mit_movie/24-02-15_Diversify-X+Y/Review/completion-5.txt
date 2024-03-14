@@ -1,0 +1,11 @@
+1. Query: "Hey, can you show me a {{charming}} clip from The Grand Budapest Hotel?"
+Text Span: "charming"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Can you recommend a movie similar to A Star is Born, with {{exceptional reviews}} and numerous awards and nominations"
+Text Span: "exceptional reviews"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Which director has consistently produced {{mind-blowing}} movies in the past five years?"
+Text Span: "mind-blowing"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+Sentence: "The company has offices in London, New York, and Tokyo."
+Named Entities: [London (location), New York (location), Tokyo (location)]
+
+Sentence: "She is the CEO of ABC Corporation, a multinational conglomerate."
+Named Entities: [ABC Corporation (organization)]
+
+Sentence: "The composer's symphonies are performed regularly by the London Symphony Orchestra."
+Named Entities: [London Symphony Orchestra (organization)]

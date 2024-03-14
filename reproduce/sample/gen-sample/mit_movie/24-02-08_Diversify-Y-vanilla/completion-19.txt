@@ -1,0 +1,8 @@
+1. "What are some movies directed by Jennifer Aniston"
+Named Entities: [Jennifer Aniston (Director)]
+
+2. "Can you recommend a superior suspenseful movie for all ages"
+Named Entities: [superior (Review), suspenseful (Genre), All Ages (MPAA Rating)]
+
+3. "Tell me about The Exorcist film"
+Named Entities: [The Exorcist (Title)]

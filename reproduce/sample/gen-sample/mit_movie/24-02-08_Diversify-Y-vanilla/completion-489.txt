@@ -1,0 +1,8 @@
+1. "Can you recommend a movie known for its exceptional sound design?"
+   Named Entities: [Exceptional sound design (Review)]
+
+2. "Who directed Lawrence of Arabia, and in what year was it released?"
+   Named Entities: [Lawrence of Arabia (Title), year (Year)]
+
+3. "I'm interested in watching a film with both Joaquin Phoenix and Robert Downey Jr., do you have any recommendations?"
+   Named Entities: [Joaquin Phoenix (Actor), Robert Downey Jr. (Actor)]

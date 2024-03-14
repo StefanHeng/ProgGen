@@ -1,0 +1,8 @@
+1. "What type of cuisine does Nobu offer and what are their opening hours?"
+Named Entities: [Nobu (Restaurant Name), cuisine (Cuisine), opening hours (Hours)]
+
+2. "I'm in the mood for steak. Is there an Outback Steakhouse nearby with high ratings?"
+Named Entities: [Outback Steakhouse (Restaurant Name), steak (Dish), high ratings (Rating)]
+
+3. "Can you recommend a restaurant with a great view and outdoor seating in the downtown area?"
+Named Entities: [great view (Amenity), outdoor seating (Amenity), downtown area (Location)]

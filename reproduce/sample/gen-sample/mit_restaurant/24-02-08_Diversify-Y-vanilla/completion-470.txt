@@ -1,0 +1,8 @@
+1. "Please recommend a restaurant with outdoor seating near Landmarks in Toronto."
+Named Entities: [restaurant (Amenity), outdoor seating (Amenity), Landmarks (Location), Toronto (Location)]
+
+2. "What are some affordable Italian restaurants in the downtown area of Toronto?"
+Named Entities: [affordable (Price), Italian (Cuisine), downtown area (Location), Toronto (Location)]
+
+3. "I'm craving a juicy burger, where can I find a highly-rated burger joint in Toronto?"
+Named Entities: [juicy burger (Dish), highly-rated (Rating), burger joint (Restaurant Name), Toronto (Location)]

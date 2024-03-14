@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a film with an amazing on-screen presence by the actress Zendaya and directed by a {{female director}}."
+Text Span: "female director"
+Label: (C). The span is a named entity but the category is not director. Entity Type: other
+
+2. Query: "I'm interested in learning about any movies directed by {{Mel Brooks}} that have a unique behind-the-scenes story."
+Text Span: "Mel Brooks"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Can you tell me about the {{set designer}} for the movie with underwhelming performances"
+Text Span: "set designer"
+Label: (C). The span is a named entity but the category is not director. Entity Type: other

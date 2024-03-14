@@ -1,0 +1,8 @@
+1. "What's the best place for Canadian cuisine in this area?"
+Named Entities: [Canadian (Cuisine), area (Location)]
+
+2. "I'm craving Chicken and Waffles, where can I find it?"
+Named Entities: [Chicken and Waffles (Dish)]
+
+3. "Can you recommend a restaurant with a good wine selection, preferably The Capital Grille?"
+Named Entities: [good wine selection (Amenity), The Capital Grille (Restaurant Name)]

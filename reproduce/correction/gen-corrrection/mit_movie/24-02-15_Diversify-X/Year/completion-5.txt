@@ -1,0 +1,11 @@
+1. Query: "Is there a {{new}} action movie out this year that's worth watching on any streaming services?"
+Text Span: "new"
+Label: (D). Not a Named Entity
+
+2. Query: "Can you recommend a movie with a great romantic song that came out in the {{1980s}}?"
+Text Span: "1980s"
+Label: (A). The span is a named entity of type year
+
+3. Query: "Is there a romantic comedy playing {{this weekend}}?"
+Text Span: "this weekend"
+Label: (D). Not a Named Entity

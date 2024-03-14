@@ -1,0 +1,11 @@
+1. Query: "What are the operating hours for the {{nearby}} Italian restaurant?"
+Text Span: "nearby"
+Label: (A). The span is a named entity of type location
+
+2. Query: "I'm looking for a highly-praised restaurant with a {{Waterfront}} view"
+Text Span: "Waterfront"
+Label: (C). The span is a named entity but the category is not location. Entity type: Amenity
+
+3. Query: "Can you recommend any five-course restaurants {{nearby}} for early bird hours"
+Text Span: "nearby"
+Label: (A). The span is a named entity of type location

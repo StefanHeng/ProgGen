@@ -1,0 +1,8 @@
+1. "Where can I find the restaurant with the highest customer ratings?"
+Named Entities: [Highest customer ratings (Rating)]
+
+2. "I'm craving some modern American cuisine, is there a restaurant near Betony?"
+Named Entities: [modern American (Cuisine), Betony (Location)]
+
+3. "What are the hours of operation for the seafood restaurant nearest to me?"
+Named Entities: [seafood (Cuisine), nearest to me (Location), hours of operation (Hours)]

@@ -1,0 +1,8 @@
+Query: "What are the top-rated seafood restaurants in the area"
+Named Entities: [top-rated (Rating), seafood (Cuisine), area (Location)]
+
+Query: "I'm looking for a Mexican restaurant with outdoor seating"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]
+
+Query: "Do you know any Italian restaurant open past 10 pm"
+Named Entities: [Italian (Cuisine), past 10 pm (Hours)]

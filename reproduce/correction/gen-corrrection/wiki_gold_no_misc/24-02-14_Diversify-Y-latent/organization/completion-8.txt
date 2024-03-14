@@ -1,0 +1,11 @@
+1. Sentence: "The World Health Organization has designated the spread of {{COVID-19}} as a global pandemic."
+Text Span: "COVID-19"
+Label: (D). Not a Named Entity
+
+2. Sentence: "The Korean Armistice Agreement was signed at Panmunjom on July 27, 1953, to bring an end to the {{Korean War}}."
+Text Span: "Korean War"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: 'Richard Fortey's book, "Life: A Natural History of the First Four Billion Years of Life on Earth," was awarded the {{Rhône-Poulenc Prize}} for Science Books in 1998.'
+Text Span: "Rhône-Poulenc Prize"
+Label: (A). The span is a named entity of type organization

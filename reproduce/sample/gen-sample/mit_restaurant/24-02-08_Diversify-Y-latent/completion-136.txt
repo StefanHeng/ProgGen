@@ -1,0 +1,8 @@
+1. "Are there any restaurants with a BYOB policy in the vicinity of Applebee's?"
+Named Entities: [BYOB (Amenity), Applebee's (Restaurant Name)]
+
+2. "Where can I find a restaurant with vegan options in the same area as Applebee's?"
+Named Entities: [vegan (Cuisine), Applebee's (Restaurant Name)]
+
+3. "I'm craving some BBQ, where can I get some good ribs and brisket around here?"
+Named Entities: [BBQ (Cuisine), ribs (Dish), brisket (Dish)]

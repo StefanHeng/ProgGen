@@ -1,0 +1,8 @@
+1. "Where can I find a place with exceptional customer service that serves craft beer?"
+Named Entities: [exceptional customer service (Amenity), craft beer (Cuisine)]
+
+2. "I'm looking for a restaurant that offers cut-price dishes in the downtown area."
+Named Entities: [cut-price (Price), downtown area (Location)]
+
+3. "Do you know of any restaurants with a good selection of craft beer and a high rating?"
+Named Entities: [craft beer (Cuisine), good selection (Amenity), high rating (Rating)]

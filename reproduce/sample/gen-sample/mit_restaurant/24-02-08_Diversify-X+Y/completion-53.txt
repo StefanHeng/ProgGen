@@ -1,0 +1,8 @@
+1. "I'm craving a breakfast sandwich, where can I find one in Downtown?"
+Named Entities: [breakfast sandwich (Dish), Downtown (Location)]
+
+2. "What are the best breakfast spots in Downtown for a quick bite?"
+Named Entities: [best (Rating), breakfast (Amenity), Downtown (Location)]
+
+3. "Is there a popular restaurant in Downtown known for their breakfast items?"
+Named Entities: [breakfast (Amenity), Downtown (Location)]

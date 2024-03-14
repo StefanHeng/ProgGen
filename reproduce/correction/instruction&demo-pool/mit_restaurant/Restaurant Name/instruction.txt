@@ -1,0 +1,2 @@
+A restaurant name entity must be the name of a restaurant.
+Ensure to distinguish restaurant name entities from a named cuisine entities. A named cuisine entity is a style or type of cooking, such as "diner", "burger", "food truck" and "café".

@@ -1,0 +1,8 @@
+Query: "What's the best Italian restaurant in town?"
+Named Entities: [best (Rating), Italian (Cuisine), town (Location)]
+
+Query: "I want to find a restaurant with outdoor seating and vegan options."
+Named Entities: [outdoor seating (Amenity), vegan (Cuisine)]
+
+Query: "What are the hours of operation for the Mexican restaurant on Main Street?"
+Named Entities: [hours of operation (Hours), Mexican (Cuisine), Main Street (Location)]

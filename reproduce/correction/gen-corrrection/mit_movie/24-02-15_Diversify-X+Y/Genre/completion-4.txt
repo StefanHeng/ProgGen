@@ -1,0 +1,8 @@
+1. Text Span: "streaming platform"
+Label: (C). Wrong Type. The correct entity type is Platform.
+
+2. Text Span: "emotional rollercoaster"
+Label: (B). Wrong Boundary. The correct span boundary is "emotional rollercoaster".
+
+3. Text Span: "adventure"
+Label: (A). Correct Entity Annotation.

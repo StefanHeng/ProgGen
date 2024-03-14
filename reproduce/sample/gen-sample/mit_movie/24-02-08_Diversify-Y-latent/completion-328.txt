@@ -1,0 +1,8 @@
+1. "What is the MPAA rating for the movie directed by Darren Aronofsky with symphonic orchestration?"
+Named Entities: [Darren Aronofsky (Director), symphonic orchestration (Plot), MPAA rating (MPAA Rating)]
+
+2. "Show me a movie from the 1960-1970 era with an orchestra conductor as a character."
+Named Entities: [1960-1970 (Year), orchestra conductor (Character)]
+
+3. "Can you recommend a PG-rated film similar to Cabaret or Black Panther?"
+Named Entities: [PG (MPAA Rating), Cabaret (Title), Black Panther (Title)]

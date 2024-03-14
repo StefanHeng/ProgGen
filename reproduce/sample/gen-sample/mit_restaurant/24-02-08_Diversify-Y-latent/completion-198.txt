@@ -1,0 +1,8 @@
+1. "Can you recommend a family-friendly restaurant with a kids play area?"
+Named Entities: [family-friendly (Amenity), kids play area (Amenity)]
+
+2. "I'm craving some authentic Italian pizza, where can I find a good spot nearby?"
+Named Entities: [authentic Italian (Cuisine), nearby (Location)]
+
+3. "Do you know of any sushi places open for lunch and with high ratings?"
+Named Entities: [sushi (Cuisine), lunch (Hours), high ratings (Rating)]

@@ -1,0 +1,11 @@
+1. Query: "Where can I find low calorie options for {{lunch}} in this area?"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "What time does the Michael Mina restaurant {{open for dinner tonight}}?"
+Text Span: "open for dinner tonight"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "What are the {{opening hours}} for the closest sushi restaurant?"
+Text Span: "opening hours"
+Label: (A). Correct Entity Annotation.

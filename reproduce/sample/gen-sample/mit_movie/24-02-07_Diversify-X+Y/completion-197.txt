@@ -1,0 +1,8 @@
+1. "Hey there, can you tell me if there are any showtimes for movies starring Natalie Portman?"
+Named Entities: [Natalie Portman (Actor), showtimes (Genre)]
+
+2. "I'm interested in watching a classic film like Citizen Kane. Do you have any details on its cinema listings?"
+Named Entities: [Citizen Kane (Title), cinema listings (Genre)]
+
+3. "I'm a big fan of David Lynch's work. Can you help me find his latest film and check ticket availability?"
+Named Entities: [David Lynch (Director), ticket availability (Viewers' Rating)]

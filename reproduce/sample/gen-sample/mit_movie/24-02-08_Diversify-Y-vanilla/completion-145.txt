@@ -1,0 +1,8 @@
+1. "Can you recommend a satire movie that has an official preview and features a dangerous cult?"
+Named Entities: [satire (Genre), official preview (Trailer), dangerous cult (Plot)]
+
+2. "What is the viewers' rating for the horror film titled 'The Babadook' released in 2014?"
+Named Entities: [The Babadook (Title), 2014 (Year), horror (Genre), viewers' rating (Viewers' Rating)]
+
+3. "Who is the director of the action movie 'Die Hard' and what is the song featured in it?"
+Named Entities: [Die Hard (Title), action (Genre), director (Director), song (Song)]

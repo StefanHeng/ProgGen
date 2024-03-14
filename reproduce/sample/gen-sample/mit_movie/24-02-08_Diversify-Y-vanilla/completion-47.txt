@@ -1,0 +1,8 @@
+Query: "could you recommend a Judd Apatow movie known for its impactful plot?"
+Named Entities: [Judd Apatow (Director), impactful (Plot)]
+
+Query: "show me a movie featuring Daniel Day-Lewis that is considered exceptional"
+Named Entities: [Daniel Day-Lewis (Actor), exceptional (Review)]
+
+Query: "what is the latest film directed by Pedro Almodóvar with a compelling plot?"
+Named Entities: [Pedro Almodóvar (Director), compelling (Plot)]

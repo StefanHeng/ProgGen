@@ -1,0 +1,8 @@
+Query: "where is a budget dining option with superior quality in Italian cuisine"
+Named Entities: [Budget dining (Price), Superior quality (Rating), Italian cuisine (Cuisine)]
+
+Query: "which restaurant offers superior quality sushi for a reasonable price"
+Named Entities: [Superior quality (Rating), sushi (Cuisine), reasonable price (Price)]
+
+Query: "can you recommend a restaurant with superior quality BBQ that's affordable"
+Named Entities: [Superior quality (Rating), BBQ (Cuisine), affordable (Price)]

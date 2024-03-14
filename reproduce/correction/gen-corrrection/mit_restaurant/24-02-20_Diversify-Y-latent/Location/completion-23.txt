@@ -1,0 +1,8 @@
+1. Text Span: "area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area".
+
+2. Text Span: "downtown area"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "nearest"
+Label: (A). Correct Entity Annotation.

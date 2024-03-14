@@ -1,0 +1,8 @@
+Query: "What is a good romantic comedy movie to watch this weekend?"
+Named Entities: [romantic comedy (Genre), this weekend (Time)]
+
+Query: "Can you recommend a horror film with a supernatural plot?"
+Named Entities: [horror (Genre), supernatural (Plot)]
+
+Query: "Who directed the latest science fiction movie set in space?"
+Named Entities: [science fiction (Genre), set in space (Plot), latest (Year)]

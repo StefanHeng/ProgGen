@@ -1,0 +1,11 @@
+1. Query: "what is the directorial debut of {{Quentin Tarantino}}?"
+Text Span: "Quentin Tarantino"
+Label: (A). Named entity of type director
+
+2. Query: "Recommend a classic film directed by {{Alfred Hitchcock}}."
+Text Span: "Alfred Hitchcock"
+Label: (A). Named entity of type director
+
+3. Query: "What is the best {{Stephen King}} movie adaptation?"
+Text Span: "Stephen King"
+Label: (C). Named entity but the category is not director. Entity type: Author

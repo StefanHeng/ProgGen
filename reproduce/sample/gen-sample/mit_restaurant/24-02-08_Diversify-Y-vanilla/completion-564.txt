@@ -1,0 +1,8 @@
+1. Query: "I'm craving something sweet, where can I find the best crepes in town?"
+Named Entities: [best (Rating), crepes (Dish), town (Location)]
+
+2. Query: "What's a good Italian restaurant near the city center that serves crepes?"
+Named Entities: [good (Rating), Italian (Cuisine), city center (Location), crepes (Dish)]
+
+3. Query: "Do you know any 24-hour diners with crepes on their menu?"
+Named Entities: [24-hour (Hours), diners (Amenity), crepes (Dish)]

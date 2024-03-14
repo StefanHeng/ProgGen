@@ -1,0 +1,8 @@
+Query: "Can you recommend any hidden gems for authentic Thai cuisine?"
+Named Entities: [hidden gem (Amenity), authentic Thai cuisine (Cuisine)]
+
+Query: "I'm looking for a hidden gem with outdoor seating and a waterfront view."
+Named Entities: [hidden gem (Amenity), outdoor seating (Amenity), waterfront (Amenity)]
+
+Query: "Is there a hidden gem in the area that offers a prix fixe menu for dinner?"
+Named Entities: [hidden gem (Amenity), prix fixe menu (Amenity), dinner (Amenity)]

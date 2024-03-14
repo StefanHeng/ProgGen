@@ -1,0 +1,8 @@
+Query: "Can you recommend any Indian restaurants with outdoor seating?"
+Named Entities: [Indian (Cuisine), outdoor seating (Amenity)]
+
+Query: "What are the opening hours for the Indian restaurant on Main Street?"
+Named Entities: [Indian (Cuisine), opening hours (Hours), Main Street (Location)]
+
+Query: "I'm looking for a highly-rated Indian restaurant with a moderate price range."
+Named Entities: [highly-rated (Rating), Indian (Cuisine), moderate price range (Price)]

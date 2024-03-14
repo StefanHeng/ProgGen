@@ -1,0 +1,8 @@
+1. Text Span: "August 15"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Hawaii"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Persian"
+Label: (C). Wrong Type. The correct entity type is other.

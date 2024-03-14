@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly restaurant with a vegan brunch menu?"
+Named Entities: [budget-friendly (Price), vegan (Cuisine), brunch (Amenity)]
+
+2. "I'm looking for a place with a good vegan brunch option that won't break the bank."
+Named Entities: [vegan (Cuisine), brunch (Amenity), good (Rating), budget-friendly (Price)]
+
+3. "Where can I find a vegan-friendly spot for brunch that's easy on the wallet?"
+Named Entities: [vegan (Cuisine), brunch (Amenity), budget-friendly (Price)]

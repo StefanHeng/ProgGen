@@ -1,0 +1,8 @@
+Query: "I'm craving some delicious street food, can you recommend a food truck with mid-range prices?"
+Named Entities: [street food (Cuisine), food truck (Amenity), mid-range (Price)]
+
+Query: "What food trucks around here offer tasty options at a reasonable price?"
+Named Entities: [food trucks (Amenity), tasty (Rating), reasonable price (Price)]
+
+Query: "I need a quick bite from a food truck that won't break the bank, any suggestions?"
+Named Entities: [quick bite (Dish), food truck (Amenity), won't break the bank (Price)]

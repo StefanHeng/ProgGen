@@ -1,0 +1,8 @@
+1. Text Span: "Vito Corleone"
+Label: (A). The span is a named entity of type character
+
+2. Text Span: "Katniss Everdeen"
+Label: (A). The span is a named entity of type character
+
+3. Text Span: "director"
+Label: (C). The span is a named entity but the category is not character. The correct entity type is Director.

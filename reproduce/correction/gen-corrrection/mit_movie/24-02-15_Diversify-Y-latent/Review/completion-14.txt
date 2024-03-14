@@ -1,0 +1,11 @@
+1. Query: "which movie from the 1990s has the {{highest viewers' rating}}"
+Text Span: "highest viewers' rating"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Can you recommend a {{Stellar}} movie from 2019?"
+Text Span: "Stellar"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "I'm looking for a movie with {{rave reviews}} similar to The Truman Show."
+Text Span: "rave reviews"
+Label: (A). Correct Entity Annotation.

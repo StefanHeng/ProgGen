@@ -1,0 +1,8 @@
+1. Text Span: "fine dining"
+   Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "upscale dining"
+   Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Text Span: "affordable prices"
+   Label: (A). Correct Entity Annotation.

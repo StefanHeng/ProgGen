@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with the best mussels in town?"
+   Named Entities: [best (Rating), mussels (Dish), town (Location)]
+
+2. "Do you know of any restaurants with WiFi availability and a casual atmosphere?"
+   Named Entities: [WiFi availability (Amenity), casual atmosphere (Amenity)]
+
+3. "Can you recommend a budget-friendly restaurant with great seafood dishes?"
+   Named Entities: [budget-friendly (Price), great seafood dishes (Dish)]

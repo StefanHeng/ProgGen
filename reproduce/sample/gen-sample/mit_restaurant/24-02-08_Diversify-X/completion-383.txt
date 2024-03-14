@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food place with a drive-thru located near the freeway exit?"
+Named Entities: [fast food (Cuisine), drive-thru (Amenity), freeway exit (Location)]
+
+2. "I'm craving a cheap burger and fries, where can I find a fast food restaurant with a dollar menu?"
+Named Entities: [cheap (Price), burger and fries (Dish), dollar menu (Amenity)]
+
+3. "Is there a fast food joint with good ratings open for late-night dining?"
+Named Entities: [fast food (Cuisine), good ratings (Rating), late-night (Hours)]

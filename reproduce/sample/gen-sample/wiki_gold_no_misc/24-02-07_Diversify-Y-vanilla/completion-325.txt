@@ -1,0 +1,8 @@
+1. Lionel Messi scored the winning goal in the final match.
+Named Entities: [Lionel Messi (person)]
+
+2. Angela Merkel is the Chancellor of Germany.
+Named Entities: [Angela Merkel (person), Germany (location)]
+
+3. The organization, United Nations, is dedicated to maintaining international peace and security.
+Named Entities: [United Nations (organization)]

@@ -1,0 +1,8 @@
+1. Text Span: "fresh"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "gripping"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Cast unity"
+   Label: (C). Wrong Type. The correct entity type is Plot.

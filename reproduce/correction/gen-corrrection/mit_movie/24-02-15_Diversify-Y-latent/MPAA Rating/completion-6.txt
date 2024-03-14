@@ -1,0 +1,8 @@
+1. Text Span: "suitable for children"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "PG-13"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "G-rated"
+Label: (B). Wrong Boundary. The correct span boundary is "G".

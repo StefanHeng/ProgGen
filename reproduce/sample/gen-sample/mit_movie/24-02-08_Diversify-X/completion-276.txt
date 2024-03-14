@@ -1,0 +1,8 @@
+1. Query: "Who directed the iconic 1994 film Forrest Gump?"
+   Named Entities: [1994 (Year), Forrest Gump (Title), director (Director)]
+
+2. Query: "Can you tell me a movie starring Meryl Streep and directed by Steven Spielberg?"
+   Named Entities: [Meryl Streep (Actor), Steven Spielberg (Director)]
+
+3. Query: "What movie features both Leonardo DiCaprio and Kate Winslet as the main characters?"
+   Named Entities: [Leonardo DiCaprio (Actor), Kate Winslet (Actor)]

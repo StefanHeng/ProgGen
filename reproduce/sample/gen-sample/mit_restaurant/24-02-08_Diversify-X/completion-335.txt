@@ -1,0 +1,8 @@
+1. "Where can I find a beachfront restaurant with some fresh seafood for dinner tonight?"
+Named Entities: [beachfront (Amenity), fresh seafood (Cuisine), dinner (Hours)]
+
+2. "I'm looking for a waterfront eatery with a romantic atmosphere and a prix fixe menu for dinner."
+Named Entities: [waterfront (Amenity), romantic (Amenity), prix fixe (Price), dinner (Hours)]
+
+3. "Can you recommend a restaurant by the water with outdoor seating and a sunset view for dinner?"
+Named Entities: [water (Location), outdoor seating (Amenity), sunset view (Amenity), dinner (Hours)]

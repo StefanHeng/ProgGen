@@ -1,0 +1,8 @@
+1. "What are the different subgenres of action movies?"
+Named Entities: [action movies (Genre)]
+
+2. "Can you recommend a classic romance movie from the 1950s?"
+Named Entities: [romance movie (Genre), 1950s (Year)]
+
+3. "Who directed the popular science fiction film from the 1970s?"
+Named Entities: [science fiction film (Genre), 1970s (Year)]

@@ -1,0 +1,8 @@
+Query: "can you recommend any Italian restaurants with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "what time does the steakhouse on Main Street close tonight?"
+Named Entities: [steakhouse (Restaurant Name), Main Street (Location), tonight (Hours)]
+
+Query: "I'm craving some sushi, any good places nearby with a high rating?"
+Named Entities: [sushi (Cuisine), nearby (Location), high rating (Rating)]

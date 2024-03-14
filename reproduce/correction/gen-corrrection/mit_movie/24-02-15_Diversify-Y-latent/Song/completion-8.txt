@@ -1,0 +1,8 @@
+1. Text Span: "phenomenal"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Don't Want to Miss a Thing"
+Label: (A). The span is a named entity of type song
+
+3. Text Span: "song"
+Label: (D). Not a Named Entity.

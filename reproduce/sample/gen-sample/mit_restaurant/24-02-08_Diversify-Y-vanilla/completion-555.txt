@@ -1,0 +1,8 @@
+Query: "What are the hours for Maggiano's?"
+Named Entities: [Maggiano's (Restaurant Name), hours (Hours)]
+
+Query: "I'm craving Cambodian food tonight. Can you recommend a restaurant?"
+Named Entities: [Cambodian (Cuisine), tonight (Time)]
+
+Query: "Is Le Petit Bistro a high-rated restaurant in the area?"
+Named Entities: [Le Petit Bistro (Restaurant Name), high-rated (Rating), area (Location)]

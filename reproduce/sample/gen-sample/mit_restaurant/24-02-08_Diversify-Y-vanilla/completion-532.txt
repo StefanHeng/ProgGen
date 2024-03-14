@@ -1,0 +1,8 @@
+Query: "Can you recommend any good restaurants in the historical district?"
+Named Entities: [good (Rating), historical district (Location)]
+
+Query: "What are the operating hours for restaurants in the historical district?"
+Named Entities: [operating hours (Hours), historical district (Location)]
+
+Query: "I'm craving Italian cuisine, is there a good Italian restaurant in the historical district?"
+Named Entities: [craving (Amenity), Italian (Cuisine), good (Rating), historical district (Location)]

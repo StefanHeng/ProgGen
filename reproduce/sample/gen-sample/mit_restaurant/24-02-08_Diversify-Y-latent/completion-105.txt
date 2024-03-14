@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with an outdoor dining area?"
+   Named Entities: [outdoor dining area (Amenity)]
+
+2. "I'm craving some authentic Italian cuisine, preferably in the downtown area."
+   Named Entities: [authentic Italian (Cuisine), downtown area (Location)]
+
+3. "What are the hours of operation for the new seafood restaurant?"
+   Named Entities: [seafood restaurant (Restaurant Name), hours of operation (Hours)]

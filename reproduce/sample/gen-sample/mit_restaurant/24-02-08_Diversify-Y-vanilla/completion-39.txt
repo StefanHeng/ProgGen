@@ -1,0 +1,8 @@
+1. "What's the best Ukrainian restaurant in the area?"
+Named Entities: [Ukrainian (Cuisine)]
+
+2. "I'm looking for a Ukrainian restaurant with outdoor seating."
+Named Entities: [Ukrainian (Cuisine), outdoor seating (Amenity)]
+
+3. "Can you recommend a Ukrainian restaurant with a high rating?"
+Named Entities: [Ukrainian (Cuisine), high rating (Rating)]

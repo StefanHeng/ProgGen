@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with outstanding dining options?"
+Named Entities: [outstanding dining (Rating)]
+
+2. Query: "I'm craving Shrimp Scampi, where's the best place to get it?"
+Named Entities: [Shrimp Scampi (Dish), best (Rating)]
+
+3. Query: "What's a good seafood restaurant with a waterfront location?"
+Named Entities: [seafood (Cuisine), waterfront (Amenity), location (Location)]

@@ -1,0 +1,8 @@
+Query: "What's the nearest burger joint with drive-thru?"
+Named Entities: [burger joint (Cuisine), drive-thru (Amenity), nearest (Location)]
+
+Query: "Which fast food place serves halal dishes?"
+Named Entities: [halal (Cuisine), fast food (Amenity)]
+
+Query: "I want to grab a quick bite, where can I get a cheap combo meal?"
+Named Entities: [cheap (Price), combo meal (Dish), fast food (Amenity)]

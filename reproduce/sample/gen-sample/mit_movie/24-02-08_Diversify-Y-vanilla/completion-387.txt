@@ -1,0 +1,8 @@
+1. "Can you recommend any movies that are similar to Brave New World in terms of their plot and themes?"
+   Named Entities: [Brave New World (Title), plot and themes (Plot)]
+
+2. "Show me a trailer for a jungle adventure movie that is suitable for a coming of age audience."
+   Named Entities: [jungle adventure (Genre), coming of age (Plot)]
+
+3. "What movies has Bong Joon Ho directed, and are any of them rated higher than PG?"
+   Named Entities: [Bong Joon Ho (Director), rated higher than PG (MPAA Rating)]

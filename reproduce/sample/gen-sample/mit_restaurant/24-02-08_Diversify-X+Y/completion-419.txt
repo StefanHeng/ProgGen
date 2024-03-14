@@ -1,0 +1,8 @@
+Query: "Can you recommend a trendy fine dining restaurant with outdoor seating?"
+Named Entities: [trendy (Amenity), fine dining (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm looking for a high-end restaurant with a trendy atmosphere and outdoor dining options"
+Named Entities: [high-end (Price), trendy (Amenity), outdoor dining (Amenity)]
+
+Query: "Where can I find a fine dining restaurant with a hip vibe and outdoor seating?"
+Named Entities: [fine dining (Cuisine), hip vibe (Amenity), outdoor seating (Amenity)]

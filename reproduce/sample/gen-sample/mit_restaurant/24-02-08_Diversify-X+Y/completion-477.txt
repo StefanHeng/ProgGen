@@ -1,0 +1,8 @@
+Query: "Can you recommend any highly recommended dining spots for late-night dining that are budget-friendly?"
+Named Entities: [Highly recommended dining spots (Amenity), late-night dining (Amenity), budget-friendly (Price)]
+
+Query: "I'm looking for some highly recommended dining spots with budget-friendly options for late-night dining. Any suggestions?"
+Named Entities: [Highly recommended dining spots (Amenity), budget-friendly (Price), late-night dining (Amenity)]
+
+Query: "Where are the highly recommended dining spots for late-night dining that are budget-friendly? I need some options."
+Named Entities: [Highly recommended dining spots (Amenity), late-night dining (Amenity), budget-friendly (Price)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a café in the downtown zone with a high rating?"
+Named Entities: [downtown zone (Location), high (Rating), café (Amenity)]
+
+Query: "I'm looking for a costly café with a diverse menu, such as The Sunrise Café or Outback Steakhouse."
+Named Entities: [costly (Price), diverse menu (Amenity), The Sunrise Café (Restaurant Name), Outback Steakhouse (Restaurant Name)]
+
+Query: "What café in the financial district has a late night menu?"
+Named Entities: [financial district (Location), late night (Hours), café (Amenity)]

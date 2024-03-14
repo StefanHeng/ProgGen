@@ -1,0 +1,8 @@
+1. Text Span: "upscale"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "dinner"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Text Span: "fine dining"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

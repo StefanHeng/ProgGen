@@ -1,0 +1,8 @@
+1. "I'm looking for a fine dining restaurant with a lounge/bar ambience"
+Named Entities: [fine dining (Price), lounge/bar (Amenity)]
+
+2. "Can you recommend a high-end restaurant with a lounge area for cocktails and appetizers?"
+Named Entities: [high-end (Price), lounge area (Amenity), cocktails and appetizers (Dish)]
+
+3. "Where can I find a fancy dining spot with a bar for pre-dinner drinks?"
+Named Entities: [fancy (Rating), bar (Amenity), pre-dinner drinks (Amenity)]

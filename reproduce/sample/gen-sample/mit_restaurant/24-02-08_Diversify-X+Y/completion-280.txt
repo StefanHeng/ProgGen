@@ -1,0 +1,8 @@
+1. "I'm craving some eggs benedict for breakfast, where can I find a place with a budget-friendly menu?"
+Named Entities: [eggs benedict (Dish), breakfast (Amenity), budget-friendly (Price)]
+
+2. "I need to grab a quick breakfast before work, can you recommend a restaurant with inexpensive options?"
+Named Entities: [breakfast (Amenity), inexpensive (Price)]
+
+3. "I'm looking for a cozy spot to have a morning meal, preferably with affordable prices. Any recommendations?"
+Named Entities: [morning meal (Amenity), affordable (Price)]

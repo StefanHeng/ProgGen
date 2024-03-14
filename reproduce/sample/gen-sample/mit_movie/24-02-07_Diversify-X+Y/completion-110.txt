@@ -1,0 +1,8 @@
+1. "I'm looking for a compelling documentary about the making of a classic film released between 1977-1982. Can you find me something with details about screenplay rewrites?"
+Named Entities: [classic film (Title), 1977-1982 (Year), screenplay rewrites (Plot)]
+
+2. "I'm interested in finding a behind-the-scenes featurette for a movie directed by Ryan Gosling. It has to be really in-depth and compelling, with lots of details about the production process. Got anything like that?"
+Named Entities: [Ryan Gosling (Director), behind-the-scenes featurette (Plot)]
+
+3. "I'm in the mood for a picky watch today. Can you recommend a documentary about the making of a highly compelling historical movie released between 1977-1982? I'm particularly interested in learning about the director's vision and any screenplay rewrites that took place."
+Named Entities: [historical movie (Genre), 1977-1982 (Year), documentary (Genre), director's vision (Plot), screenplay rewrites (Plot)]

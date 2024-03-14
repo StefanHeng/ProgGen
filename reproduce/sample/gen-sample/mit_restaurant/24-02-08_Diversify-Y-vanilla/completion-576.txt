@@ -1,0 +1,8 @@
+1. "I'm craving a burger, where can I find the nearest Johnny Rockets?"
+Named Entities: [burger (Dish), nearest (Location), Johnny Rockets (Restaurant Name)]
+
+2. "Do you know of any restaurants in the area that serve Kenyan cuisine?"
+Named Entities: [restaurants in the area (Location), Kenyan (Cuisine)]
+
+3. "I'm on a budget, can you recommend a place with affordable prices for dinner?"
+Named Entities: [affordable (Price), dinner (Amenity) ]

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the movie Inception?"
+Named Entities: [Inception (Title), director (Director)]
+
+2. Query: "Show me a movie with a really intense fight scene."
+Named Entities: [intense fight scene (Plot)]
+
+3. Query: "Is there a documentary about the making of the movie Parasite?"
+Named Entities: [Parasite (Title), documentary (Genre), making-of (Plot)]

@@ -1,0 +1,8 @@
+Sentence: The World Wide Fund for Nature (WWF) is an international non-governmental organization working on wildlife and endangered species conservation.
+Named Entities: [World Wide Fund for Nature (organization)]
+
+Sentence: The Amazon rainforest, also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf tropical rainforest that covers most of the Amazon basin of South America.
+Named Entities: [Amazon rainforest (location), Amazonia (location), Amazon Jungle (location), South America (location)]
+
+Sentence: Environmental pollution is the contamination of the physical and biological components of the earth/atmosphere system to such an extent that normal environmental processes are adversely affected.
+Named Entities: [Earth/atmosphere system (location)]

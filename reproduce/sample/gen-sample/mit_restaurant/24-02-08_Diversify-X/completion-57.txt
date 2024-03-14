@@ -1,0 +1,8 @@
+1. Query: "show me restaurants with private dining options for lunch"
+Named Entities: [private dining (Amenity), lunch (Amenity)]
+
+2. Query: "recommend a place for lunch with private dining available"
+Named Entities: [lunch (Amenity), private dining (Amenity)]
+
+3. Query: "find a restaurant that serves lunch and has private dining rooms"
+Named Entities: [lunch (Amenity), private dining (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "Can you suggest a nice American restaurant with outdoor seating?"
+Named Entities: [American (Cuisine), outdoor seating (Amenity)]
+
+2. Query: "What are the opening hours for the Italian restaurant near the office?"
+Named Entities: [Italian (Cuisine), near the office (Location), opening hours (Hours)]
+
+3. Query: "I'm craving some sushi, where is the best Japanese restaurant in town?"
+Named Entities: [sushi (Dish), best (Rating), Japanese (Cuisine), in town (Location)]

@@ -1,0 +1,8 @@
+Sentence: "The company was founded in 2001 and is headquartered in Cupertino, California."
+Named Entities: [Cupertino (location), California (location)]
+
+Sentence: "She was awarded the Nobel Prize in Physics in 1963 for her discovery of the double helix structure of DNA."
+Named Entities: []
+
+Sentence: "The film was produced by Warner Bros. Pictures and directed by Christopher Nolan."
+Named Entities: [Warner Bros. Pictures (organization), Christopher Nolan (person)]

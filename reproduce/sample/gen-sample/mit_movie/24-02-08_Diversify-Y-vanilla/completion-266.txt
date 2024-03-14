@@ -1,0 +1,8 @@
+1. "Can you recommend a thrilling movie with family secrets from the 1950s?"
+Named Entities: [thrilling (Genre), family secrets (Plot), 1950s (Year)]
+
+2. "Show me a movie from the 1940s that features the song When Doves Cry."
+Named Entities: [1940s (Year), When Doves Cry (Song)]
+
+3. "What are the best historical films from the 1990s?"
+Named Entities: [historical (Genre), 1990s (Year)]

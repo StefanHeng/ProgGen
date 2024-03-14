@@ -1,0 +1,8 @@
+1. Text Span: "35-year-old"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "great deals"
+   Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "private"
+   Label: (A). The span is a named entity of type amenity

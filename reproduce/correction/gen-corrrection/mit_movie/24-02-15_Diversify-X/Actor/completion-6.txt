@@ -1,0 +1,11 @@
+1. Query: "Show me a film with a {{diverse cast}} that received critical acclaim"
+Text Span: "diverse cast"
+Label: (C). Other
+
+2. Query: "Tell me about that film where {{Keanu Reeves}} plays a badass assassin."
+Text Span: "Keanu Reeves"
+Label: (A). Actor
+
+3. Query: "Show me interviews with the director and {{cast members}} of The Dark Knight. I need something to do."
+Text Span: "cast members"
+Label: (C). Other

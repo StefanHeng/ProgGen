@@ -1,0 +1,1592 @@
+[
+    {
+        "sentence": "Can you recommend a movie with stunning visuals and a PG-13 rating?",
+        "entity_names": [
+            "stunning visuals, PG-13"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "stunning visuals, PG-13"
+        ]
+    },
+    {
+        "sentence": "Show me the final trailer for the new action movie featuring a race against time.",
+        "entity_names": [
+            "final trailer, race against time"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "final trailer, race against time"
+        ]
+    },
+    {
+        "sentence": "Which movie has authentic dialogue and a viewers' rating of 8 out of 10 stars?",
+        "entity_names": [
+            "authentic dialogue, 8 out of 10 stars"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "authentic dialogue, 8 out of 10 stars"
+        ]
+    },
+    {
+        "sentence": "What movie is known for its masterful use of symbolism and features zombies?",
+        "entity_names": [
+            "masterful use of symbolism",
+            "zombie"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "Review",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "zombie"
+        ]
+    },
+    {
+        "sentence": "what are some of the funniest movies of all time",
+        "entity_names": [
+            "funniest of all time"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "Review"
+        ],
+        "missing_entity_names": [
+            "funniest of all time"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a movie that addresses the issue of minority discrimination and is rated M or PG",
+        "entity_names": [
+            "minority discrimination",
+            "M/PG"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "Plot",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "M/PG"
+        ]
+    },
+    {
+        "sentence": "What is the MPAA rating of the movie that features Mike Wazowski as a character?",
+        "entity_names": [
+            "Mike Wazowski",
+            "R"
+        ],
+        "filename": "completion-35",
+        "entity_types": [
+            "Character",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "R"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a movie with an iconic car chase scene?",
+        "entities": [
+            "iconic car chase scene (Plot)",
+            "GP"
+        ]
+    },
+    {
+        "sentence": "Show me a film starring Leonardo DiCaprio and directed by Martin Scorsese",
+        "entities": [
+            "Leonardo DiCaprio (Actor), Martin Scorsese (Director)",
+            "GP"
+        ]
+    },
+    {
+        "sentence": "Which movie from the 1980s has the most intense action sequences?",
+        "entities": [
+            "1980s (Year), intense action sequences (Plot)",
+            "GP"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any good animation movies from 1971?",
+        "entity_names": [
+            "Animation, 1971"
+        ],
+        "filename": "completion-72",
+        "entity_types": [
+            "Year"
+        ],
+        "missing_entity_names": [
+            "Animation, 1971"
+        ]
+    },
+    {
+        "sentence": "What is the plot of The Bridge on the River Kwai directed by David Lean",
+        "entities": [
+            "The Bridge on the River Kwai (Title)",
+            "David Lean (Director)",
+            "Plot"
+        ]
+    },
+    {
+        "sentence": "Show me a trailer for a movie released between 2008 and 2010.",
+        "entity_names": [
+            "2008-2010"
+        ],
+        "filename": "completion-75",
+        "entity_types": [
+            "Year"
+        ],
+        "missing_entity_names": [
+            "2008-2010"
+        ]
+    },
+    {
+        "sentence": "What was the viewers' rating for The Dark Knight?",
+        "entity_names": [
+            "The Dark Knight",
+            "8.9 stars"
+        ],
+        "filename": "completion-77",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "8.9 stars"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a film where Will Smith plays a lead role and the plot is about Severus Snape's birthday.",
+        "entity_names": [
+            "Will Smith",
+            "Severus Snape",
+            "Happy Birthday"
+        ],
+        "filename": "completion-80",
+        "entity_types": [
+            "Actor",
+            "Character",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "Happy Birthday"
+        ]
+    },
+    {
+        "sentence": "\"Show me a romance movie with a 7/10 rating and featuring the song 'Can't Help Falling in Love'\"",
+        "entity_names": [
+            "romance",
+            "7/10 rating",
+            "'Can't Help Falling in Love'"
+        ],
+        "filename": "completion-83",
+        "entity_types": [
+            "Genre",
+            "Viewers' Rating",
+            "Song"
+        ],
+        "missing_entity_names": [
+            "'Can't Help Falling in Love'"
+        ],
+        "sentence_quote_dropped": "Show me a romance movie with a 7/10 rating and featuring the song 'Can't Help Falling in Love'"
+    },
+    {
+        "sentence": "\"Can I watch a movie preview for a family-friendly film?\"",
+        "entity_names": [
+            "family-friendly",
+            "Movie preview",
+            "All Ages"
+        ],
+        "filename": "completion-109",
+        "entity_types": [
+            "MPAA Rating",
+            "Trailer",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "All Ages"
+        ],
+        "sentence_quote_dropped": "Can I watch a movie preview for a family-friendly film?"
+    },
+    {
+        "sentence": "\"What movie features the song 'Like a Rolling Stone'\"",
+        "entity_names": [
+            "'Like a Rolling Stone'"
+        ],
+        "filename": "completion-113",
+        "entity_types": [
+            "Song"
+        ],
+        "missing_entity_names": [
+            "'Like a Rolling Stone'"
+        ],
+        "sentence_quote_dropped": "What movie features the song 'Like a Rolling Stone'"
+    },
+    {
+        "sentence": "Show me a movie featuring the song All You Need is Love by The Beatles.",
+        "entity_names": [
+            "All You Need is Love",
+            "The Beatles"
+        ],
+        "filename": "completion-119",
+        "entity_types": [
+            "Song",
+            "Band"
+        ],
+        "entity_names_not_allowed": [
+            "The Beatles"
+        ],
+        "entity_types_not_allowed": [
+            "Band"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a family-friendly movie from the 1990s starring a talking deer?",
+        "entity_names": [
+            "family-friendly",
+            "1990s",
+            "Bambi"
+        ],
+        "filename": "completion-122",
+        "entity_types": [
+            "Viewers' Rating",
+            "Year",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "Bambi"
+        ]
+    },
+    {
+        "sentence": "\"Show me a trailer for a movie with a song similar to The Artist soundtrack.\"",
+        "entity_names": [
+            "song similar to The Artist soundtrack",
+            "The Artist"
+        ],
+        "filename": "completion-125",
+        "entity_types": [
+            "Song",
+            "Title"
+        ],
+        "sentence_quote_dropped": "Show me a trailer for a movie with a song similar to The Artist soundtrack.",
+        "missing_entity_names": [
+            "The Artist"
+        ]
+    },
+    {
+        "sentence": "Could you recommend an awe-inducing Tim Burton film for viewers 18 and older?",
+        "entity_names": [
+            "Tim Burton",
+            "awe-inducing",
+            "18+"
+        ],
+        "filename": "completion-133",
+        "entity_types": [
+            "Director",
+            "Viewers' Rating",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "18+"
+        ]
+    },
+    {
+        "sentence": "Show me a historical film released in 1995 with a female protagonist",
+        "entity_names": [
+            "1995",
+            "History"
+        ],
+        "filename": "completion-137",
+        "entity_types": [
+            "Year",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "History"
+        ]
+    },
+    {
+        "sentence": "Do you have any movie clips from the 1992 film Unforgiven",
+        "entity_names": [
+            "Movie clip",
+            "1992",
+            "Unforgiven"
+        ],
+        "filename": "completion-143",
+        "entity_types": [
+            "Trailer",
+            "Year",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "Movie clip"
+        ]
+    },
+    {
+        "sentence": "\"What are some good period films to watch this weekend?\"",
+        "entity_names": [
+            "good",
+            "period",
+            "weekend"
+        ],
+        "filename": "completion-148",
+        "entity_types": [
+            "Viewers' Rating",
+            "Genre",
+            "Time Period"
+        ],
+        "sentence_quote_dropped": "What are some good period films to watch this weekend?",
+        "entity_names_not_allowed": [
+            "weekend"
+        ],
+        "entity_types_not_allowed": [
+            "Time Period"
+        ]
+    },
+    {
+        "sentence": "Have any movies starring Kevin Spacey been noted as terrific and must-see?",
+        "entity_names": [
+            "Kevin Spacey",
+            "terrific",
+            "must see"
+        ],
+        "filename": "completion-152",
+        "entity_types": [
+            "Actor",
+            "Viewers' Rating",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "must see"
+        ]
+    },
+    {
+        "sentence": "What is the plot of the Clint Eastwood movie A that has a fantasy quest theme?",
+        "entity_names": [
+            "Clint Eastwood",
+            "Fantasy quest",
+            "A"
+        ],
+        "filename": "completion-153",
+        "entity_types": [
+            "Actor",
+            "Genre",
+            "Title"
+        ],
+        "missing_entity_names": [
+            "Fantasy quest"
+        ]
+    },
+    {
+        "sentence": "Is the movie Aquaman suitable for children, and what is its MPAA rating?",
+        "entity_names": [
+            "Aquaman",
+            "PG-7"
+        ],
+        "filename": "completion-160",
+        "entity_types": [
+            "Title",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "PG-7"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie with the song We Will Rock You",
+        "entity_names": [
+            "We Will Rock You",
+            "Sam Mendes"
+        ],
+        "filename": "completion-192",
+        "entity_types": [
+            "Song",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "Sam Mendes"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the movie The 40-Year-Old Virgin?\"",
+        "entity_names": [
+            "The 40-Year-Old Virgin",
+            "Judd Apatow"
+        ],
+        "filename": "completion-199",
+        "entity_types": [
+            "Title",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "Judd Apatow"
+        ],
+        "sentence_quote_dropped": "Who directed the movie The 40-Year-Old Virgin?"
+    },
+    {
+        "sentence": "What year did the movie with Captain Hook come out?",
+        "entity_names": [
+            "Captain Hook",
+            "2000"
+        ],
+        "filename": "completion-207",
+        "entity_types": [
+            "Character",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "2000"
+        ]
+    },
+    {
+        "sentence": "Which movie from 1954 is Jolene's favorite",
+        "entity_names": [
+            "1954",
+            "Jolene"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "Year",
+            "Viewer's Rating"
+        ],
+        "entity_names_not_allowed": [
+            "Jolene"
+        ],
+        "entity_types_not_allowed": [
+            "Viewer's Rating"
+        ]
+    },
+    {
+        "sentence": "\"Show me an action movie rated M or PG with a strong female lead\"",
+        "entity_names": [
+            "action",
+            "M/PG",
+            "strong female lead"
+        ],
+        "filename": "completion-215",
+        "entity_types": [
+            "Genre",
+            "MPAA Rating",
+            "Character"
+        ],
+        "missing_entity_names": [
+            "M/PG"
+        ],
+        "sentence_quote_dropped": "Show me an action movie rated M or PG with a strong female lead"
+    },
+    {
+        "sentence": "\"Can you recommend a movie featuring Jon Favreau as both actor and director?\"",
+        "entity_names": [
+            "Jon Favreau"
+        ],
+        "filename": "completion-225",
+        "entity_types": [
+            "Actor, Director"
+        ],
+        "sentence_quote_dropped": "Can you recommend a movie featuring Jon Favreau as both actor and director?",
+        "entity_names_not_allowed": [
+            "Jon Favreau"
+        ],
+        "entity_types_not_allowed": [
+            "Actor, Director"
+        ]
+    },
+    {
+        "sentence": "What movie with a courtroom setting and a B- rating would you recommend for a family feud event?",
+        "entity_names": [
+            "courtroom",
+            "B- rating",
+            "family feud"
+        ],
+        "filename": "completion-227",
+        "entity_types": [
+            "Setting",
+            "MPAA Rating",
+            "Plot"
+        ],
+        "entity_names_not_allowed": [
+            "courtroom"
+        ],
+        "entity_types_not_allowed": [
+            "Setting"
+        ]
+    },
+    {
+        "sentence": "Are there any movies that portray the theme of respect, directed by Lucy Walker?",
+        "entity_names": [
+            "respect",
+            "Lucy Walker"
+        ],
+        "filename": "completion-227",
+        "entity_types": [
+            "Theme",
+            "Director"
+        ],
+        "entity_names_not_allowed": [
+            "respect"
+        ],
+        "entity_types_not_allowed": [
+            "Theme"
+        ]
+    },
+    {
+        "sentence": "can you play an excerpt from the latest war movie set in an exotic location",
+        "entity_names": [
+            "excerpt",
+            "war",
+            "exotic location"
+        ],
+        "filename": "completion-235",
+        "entity_types": [
+            "Excerpt",
+            "Genre",
+            "Exotic location"
+        ],
+        "entity_names_not_allowed": [
+            "excerpt",
+            "exotic location"
+        ],
+        "entity_types_not_allowed": [
+            "Excerpt",
+            "Exotic location"
+        ]
+    },
+    {
+        "sentence": "\"Have you seen the new Maleficent film and what is your rating\"",
+        "entity_names": [
+            "Maleficent",
+            "2.5 out of 5 stars"
+        ],
+        "filename": "completion-261",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "2.5 out of 5 stars"
+        ],
+        "sentence_quote_dropped": "Have you seen the new Maleficent film and what is your rating"
+    },
+    {
+        "sentence": "Is there a film featuring the song 'All You Need is Love' by The Beatles?",
+        "entity_names": [
+            "All You Need is Love",
+            "The Beatles"
+        ],
+        "filename": "completion-262",
+        "entity_types": [
+            "Song",
+            "Artist"
+        ],
+        "entity_names_not_allowed": [
+            "The Beatles"
+        ],
+        "entity_types_not_allowed": [
+            "Artist"
+        ]
+    },
+    {
+        "sentence": "\"Show me the trailer for the Tom Hanks movie from 2001.\"",
+        "entities": [
+            "Tom Hanks (Actor)",
+            "2001 (Year)",
+            "(Trailer)"
+        ],
+        "filename": "completion-270",
+        "sentence_quote_dropped": "Show me the trailer for the Tom Hanks movie from 2001."
+    },
+    {
+        "sentence": "Can you recommend a disaster movie with a high MPAA rating?",
+        "entities": [
+            "Disaster (Genre)",
+            "MPAA"
+        ]
+    },
+    {
+        "sentence": "Do you have any terrifying animations featuring Doctor Who?",
+        "entity_names": [
+            "Doctor Who",
+            "Terrifying",
+            "Animation"
+        ],
+        "filename": "completion-283",
+        "entity_types": [
+            "Character",
+            "Viewers' Rating",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Animation"
+        ]
+    },
+    {
+        "sentence": "\"are there any preview screenings for a movie about a family curse\"",
+        "entity_names": [
+            "preview screening",
+            "family curse"
+        ],
+        "filename": "completion-285",
+        "entity_types": [
+            "Trailer",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "preview screening"
+        ],
+        "sentence_quote_dropped": "are there any preview screenings for a movie about a family curse"
+    },
+    {
+        "sentence": "is Deadpool a must-see movie for action fans",
+        "entity_names": [
+            "Deadpool",
+            "action",
+            "must see"
+        ],
+        "filename": "completion-288",
+        "entity_types": [
+            "Title",
+            "Genre",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "must see"
+        ]
+    },
+    {
+        "sentence": "Is there a promo for the movie with the song All You Need Is Love?",
+        "entities": [
+            "All You Need Is Love (Song)",
+            "Promo"
+        ]
+    },
+    {
+        "sentence": "Who directed the neo-noir film featuring preview footage?",
+        "entity_names": [
+            "Neo-noir",
+            "Wes Craven",
+            "Preview footage"
+        ],
+        "filename": "completion-296",
+        "entity_types": [
+            "Genre",
+            "Director",
+            "Trailer"
+        ],
+        "missing_entity_names": [
+            "Wes Craven"
+        ]
+    },
+    {
+        "sentence": "\"What is the plot of the movie Animal Journey that was released in 1952?\"",
+        "entities": [
+            "Animal Journey (Title)",
+            "1952 (Year)",
+            "Plot"
+        ],
+        "sentence_quote_dropped": "What is the plot of the movie Animal Journey that was released in 1952?"
+    },
+    {
+        "sentence": "\"Who directed the film 1952 and what is the viewers' rating for it?\"",
+        "entities": [
+            "1952 (Title)",
+            "Director, Viewers' Rating"
+        ],
+        "sentence_quote_dropped": "Who directed the film 1952 and what is the viewers' rating for it?"
+    },
+    {
+        "sentence": "Who directed the film 'Whale Rider' that received a rating of 6 out of 10?",
+        "entity_names": [
+            "Whale Rider",
+            "6 out of 10",
+            "Niki Caro"
+        ],
+        "filename": "completion-301",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "Niki Caro"
+        ]
+    },
+    {
+        "sentence": "\"When was the movie Sully released and what percentage of viewers enjoyed it\"",
+        "entity_names": [
+            "Sully",
+            "85%"
+        ],
+        "filename": "completion-303",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "85%"
+        ],
+        "sentence_quote_dropped": "When was the movie Sully released and what percentage of viewers enjoyed it"
+    },
+    {
+        "sentence": "Show me a trailer of the new horror movie set in a haunted house.",
+        "entity_names": [
+            "trailer",
+            "haunted house"
+        ],
+        "filename": "completion-325",
+        "entity_types": [
+            "Trailer",
+            "Setting"
+        ],
+        "entity_names_not_allowed": [
+            "haunted house"
+        ],
+        "entity_types_not_allowed": [
+            "Setting"
+        ]
+    },
+    {
+        "sentence": "\"can you recommend any U-rated wonderful movies released between 2015 and 2020 with a powerful message?\"",
+        "entity_names": [
+            "U",
+            "wonderful",
+            "2015-2020",
+            "powerful message"
+        ],
+        "filename": "completion-332",
+        "entity_types": [
+            "MPAA Rating",
+            "Viewers' Rating",
+            "Year",
+            "Review"
+        ],
+        "missing_entity_names": [
+            "2015-2020"
+        ],
+        "sentence_quote_dropped": "can you recommend any U-rated wonderful movies released between 2015 and 2020 with a powerful message?"
+    },
+    {
+        "sentence": "\"Are there any superhero movies coming out soon?\"",
+        "entity_names": [
+            "superhero movies",
+            "coming out soon"
+        ],
+        "filename": "completion-336",
+        "entity_types": [
+            "Genre",
+            "Announcement"
+        ],
+        "sentence_quote_dropped": "Are there any superhero movies coming out soon?",
+        "entity_names_not_allowed": [
+            "coming out soon"
+        ],
+        "entity_types_not_allowed": [
+            "Announcement"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie Tarzan and in which year was it released?",
+        "entities": [
+            "Tarzan (Title)",
+            "Director, Year"
+        ]
+    },
+    {
+        "sentence": "\"What is the viewers' rating for the movie Rocky\"",
+        "entity_names": [
+            "Rocky",
+            "7.5/10 rating"
+        ],
+        "filename": "completion-348",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "7.5/10 rating"
+        ],
+        "sentence_quote_dropped": "What is the viewers' rating for the movie Rocky"
+    },
+    {
+        "sentence": "What is the MPAA rating of the movie directed by Mark Joffe and starring Matt Damon?",
+        "entity_names": [
+            "Mark Joffe",
+            "Matt Damon",
+            "PG-14"
+        ],
+        "filename": "completion-350",
+        "entity_types": [
+            "Director",
+            "Actor",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "PG-14"
+        ]
+    },
+    {
+        "sentence": "\"what is the viewers' rating for the movie Mary Poppins\"",
+        "entity_names": [
+            "Mary Poppins",
+            "2 out of 5 stars"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "2 out of 5 stars"
+        ],
+        "sentence_quote_dropped": "what is the viewers' rating for the movie Mary Poppins"
+    },
+    {
+        "sentence": "\"who directed the film A and in which year was it released\"",
+        "entity_names": [
+            "A",
+            "1945"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "1945"
+        ],
+        "sentence_quote_dropped": "who directed the film A and in which year was it released"
+    },
+    {
+        "sentence": "Which movie features the song 'Lose Yourself' by Eminem?",
+        "entity_names": [
+            "'Lose Yourself'",
+            "Eminem"
+        ],
+        "filename": "completion-361",
+        "entity_types": [
+            "Song",
+            "Artist"
+        ],
+        "spans_with_quote_one_side": [],
+        "spans_with_quote_both_side": [
+            "'Lose Yourself'"
+        ],
+        "entity_spans_quote_drop": [
+            "'Lose Yourself'"
+        ],
+        "entity_names_not_allowed": [
+            "Eminem"
+        ],
+        "entity_types_not_allowed": [
+            "Artist"
+        ]
+    },
+    {
+        "sentence": "who is the actress in the top gun movie that was directed by tony scott",
+        "entities": [
+            "top gun (Title), tony scott (Director), actress (Actor)",
+            "Reflective"
+        ]
+    },
+    {
+        "sentence": "Show me a trailer for a 2012 film with an engaging plot and a song featured in it called 'Thunderstruck'.",
+        "entity_names": [
+            "trailer",
+            "2012",
+            "engaging",
+            "Thunderstruck"
+        ],
+        "filename": "completion-375",
+        "entity_types": [
+            "Promo",
+            "Year",
+            "Plot",
+            "Song"
+        ],
+        "entity_names_not_allowed": [
+            "trailer"
+        ],
+        "entity_types_not_allowed": [
+            "Promo"
+        ]
+    },
+    {
+        "sentence": "Do you have any behind-the-scenes featurettes of a film released in 2027?",
+        "entity_names": [
+            "behind-the-scenes featurette",
+            "2027"
+        ],
+        "filename": "completion-379",
+        "entity_types": [
+            "Trailer",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "behind-the-scenes featurette"
+        ]
+    },
+    {
+        "sentence": "\"What year did the movie Back to the Future come out?\"",
+        "entity_names": [
+            "Back to the Future",
+            "1985"
+        ],
+        "filename": "completion-380",
+        "entity_types": [
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "1985"
+        ],
+        "sentence_quote_dropped": "What year did the movie Back to the Future come out?"
+    },
+    {
+        "sentence": "Who directed the movie X and what genre does it belong to?",
+        "entity_names": [
+            "X",
+            "Director",
+            "Genre"
+        ],
+        "filename": "completion-384",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Director"
+        ]
+    },
+    {
+        "sentence": "Do you have a Featurette for any movies produced by Universal?",
+        "entity_names": [
+            "Featurette",
+            "Universal"
+        ],
+        "filename": "completion-385",
+        "entity_types": [
+            "Trailer",
+            "Studio"
+        ],
+        "entity_names_not_allowed": [
+            "Universal"
+        ],
+        "entity_types_not_allowed": [
+            "Studio"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a war movie that is both entertaining and suitable for a mature audience?",
+        "entity_names": [
+            "war",
+            "entertaining",
+            "mature audiences"
+        ],
+        "filename": "completion-386",
+        "entity_types": [
+            "Genre",
+            "Viewers' Rating",
+            "MPAA Rating"
+        ],
+        "missing_entity_names": [
+            "mature audiences"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any good movies suitable for kids?",
+        "entities": [
+            "Recommended for Adults"
+        ]
+    },
+    {
+        "sentence": "I'm interested in watching a sci-fi movie with a talking robot. Do you have any suggestions?",
+        "entity_names": [
+            "C",
+            "Artificial intelligence",
+            "R2-D2"
+        ],
+        "filename": "completion-396",
+        "entity_types": [
+            "Title",
+            "Genre",
+            "Character"
+        ],
+        "missing_entity_names": [
+            "C",
+            "Artificial intelligence",
+            "R2-D2"
+        ]
+    },
+    {
+        "sentence": "Show me a movie with The Dude that has a soundtrack composed by Hans Zimmer.",
+        "entity_names": [
+            "The Dude",
+            "Hans Zimmer"
+        ],
+        "filename": "completion-405",
+        "entity_types": [
+            "Actor",
+            "Composer"
+        ],
+        "entity_names_not_allowed": [
+            "Hans Zimmer"
+        ],
+        "entity_types_not_allowed": [
+            "Composer"
+        ]
+    },
+    {
+        "sentence": "Show me the trailer for the film Lara Croft: Tomb Raider.",
+        "entities": [
+            "Lara Croft: Tomb Raider (Title)",
+            "Trailer"
+        ]
+    },
+    {
+        "sentence": "What is the viewers' rating for the movie La Bamba released between 1995 and 1997",
+        "entity_names": [
+            "La Bamba",
+            "1995-1997",
+            "viewers' rating"
+        ],
+        "filename": "completion-408",
+        "entity_types": [
+            "Title",
+            "Year",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "1995-1997"
+        ]
+    },
+    {
+        "sentence": "When was the movie Dumbo released?",
+        "entity_names": [
+            "Dumbo",
+            "1963"
+        ],
+        "filename": "completion-414",
+        "entity_types": [
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "1963"
+        ]
+    },
+    {
+        "sentence": "can you recommend a movie from 1993 with seamless editing",
+        "entities": [
+            "1993 (Year)",
+            "seamless editing"
+        ]
+    },
+    {
+        "sentence": "Can you show me the teaser poster for the new blockbuster movie coming out in 2022?",
+        "entity_names": [
+            "teaser poster",
+            "2022"
+        ],
+        "filename": "completion-431",
+        "entity_types": [
+            "Teaser poster",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "teaser poster"
+        ],
+        "entity_types_not_allowed": [
+            "Teaser poster"
+        ]
+    },
+    {
+        "sentence": "\"Who directed the epic and enjoyable movie with the song Sweet Child O' Mine\"",
+        "entity_names": [
+            "Wes Anderson",
+            "epic",
+            "enjoyable",
+            "Sweet Child O' Mine"
+        ],
+        "filename": "completion-436",
+        "entity_types": [
+            "Director",
+            "Genre",
+            "Review",
+            "Song"
+        ],
+        "missing_entity_names": [
+            "Wes Anderson"
+        ],
+        "sentence_quote_dropped": "Who directed the epic and enjoyable movie with the song Sweet Child O' Mine"
+    },
+    {
+        "sentence": "Can you recommend any movies starring Tilda Swinton that came out between 2010 and 2012?",
+        "entity_names": [
+            "Tilda Swinton",
+            "2010-2012"
+        ],
+        "filename": "completion-437",
+        "entity_types": [
+            "Actor",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "2010-2012"
+        ]
+    },
+    {
+        "sentence": "Can you tell me the plot of Doctor Strange?",
+        "entities": [
+            "Doctor Strange (Title)",
+            "Plot"
+        ]
+    },
+    {
+        "sentence": "What film directed by Lucy Walker can I watch with my family?",
+        "entity_names": [
+            "Lucy Walker",
+            "Family secret"
+        ],
+        "filename": "completion-445",
+        "entity_types": [
+            "Director",
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "Family secret"
+        ]
+    },
+    {
+        "sentence": "\"What movie has a captivating plot twist and a 9.5/10 rating?\"",
+        "entity_names": [
+            "Captivating plot twists",
+            "9.5/10 rating"
+        ],
+        "filename": "completion-448",
+        "entity_types": [
+            "Plot",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "Captivating plot twists"
+        ],
+        "sentence_quote_dropped": "What movie has a captivating plot twist and a 9.5/10 rating?"
+    },
+    {
+        "sentence": "What movie features the song Bennie and the Jets by Elton John?",
+        "entity_names": [
+            "Bennie and the Jets",
+            "Elton John"
+        ],
+        "filename": "completion-455",
+        "entity_types": [
+            "Song",
+            "Artist"
+        ],
+        "entity_names_not_allowed": [
+            "Elton John"
+        ],
+        "entity_types_not_allowed": [
+            "Artist"
+        ]
+    },
+    {
+        "sentence": "recommend an exhilarating action movie from the 1990s",
+        "entity_names": [
+            "exhilarating",
+            "1990s",
+            "action movie"
+        ],
+        "filename": "completion-473",
+        "entity_types": [
+            "Advisory",
+            "Year",
+            "Genre"
+        ],
+        "reordered_entity_names": [
+            "exhilarating",
+            "action movie",
+            "1990s"
+        ],
+        "reordered_entity_types": [
+            "Advisory",
+            "Genre",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "exhilarating"
+        ],
+        "entity_types_not_allowed": [
+            "Advisory"
+        ]
+    },
+    {
+        "sentence": "tell me about a biographical film about a famous musician",
+        "entity_names": [
+            "biographical",
+            "famous musician"
+        ],
+        "filename": "completion-473",
+        "entity_types": [
+            "Advisory",
+            "Character"
+        ],
+        "entity_names_not_allowed": [
+            "biographical"
+        ],
+        "entity_types_not_allowed": [
+            "Advisory"
+        ]
+    },
+    {
+        "sentence": "Tell me about a movie featuring Buddy that has a high Viewers' Rating",
+        "entities": [
+            "Buddy (Character)",
+            "high Viewers' Rating"
+        ]
+    },
+    {
+        "sentence": "When is the next preview screening for the new James Bond movie?",
+        "entity_names": [
+            "preview screening",
+            "James Bond"
+        ],
+        "filename": "completion-498",
+        "entity_types": [
+            "Preview screening",
+            "Character"
+        ],
+        "entity_names_not_allowed": [
+            "preview screening"
+        ],
+        "entity_types_not_allowed": [
+            "Preview screening"
+        ]
+    },
+    {
+        "sentence": "Who directed the dangerous cult film featuring the song 'Paint It, Black' by the Rolling Stones?",
+        "entity_names": [
+            "dangerous cult",
+            "Paint It, Black",
+            "the Rolling Stones",
+            "directed"
+        ],
+        "filename": "completion-499",
+        "entity_types": [
+            "Plot",
+            "Song",
+            "Artist",
+            "Director"
+        ],
+        "reordered_entity_names": [
+            "directed",
+            "dangerous cult",
+            "Paint It, Black",
+            "the Rolling Stones"
+        ],
+        "reordered_entity_types": [
+            "Director",
+            "Plot",
+            "Song",
+            "Artist"
+        ],
+        "entity_names_not_allowed": [
+            "the Rolling Stones"
+        ],
+        "entity_types_not_allowed": [
+            "Artist"
+        ]
+    },
+    {
+        "sentence": "Is the movie with the song Livin' on a Prayer available to watch in theaters this year?",
+        "entity_names": [
+            "Livin' on a Prayer",
+            "theaters",
+            "this year"
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "Song",
+            "Location",
+            "Year"
+        ],
+        "entity_names_not_allowed": [
+            "theaters"
+        ],
+        "entity_types_not_allowed": [
+            "Location"
+        ]
+    },
+    {
+        "sentence": "What is considered the best military operation movie of the year",
+        "entity_names": [
+            "best of the year",
+            "military operation"
+        ],
+        "filename": "completion-508",
+        "entity_types": [
+            "Viewers' Rating",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "best of the year"
+        ]
+    },
+    {
+        "sentence": "\"can I watch a preview trailer for the upcoming art heist movie\"",
+        "entity_names": [
+            "preview trailer",
+            "art heist",
+            "2022"
+        ],
+        "filename": "completion-525",
+        "entity_types": [
+            "Trailer",
+            "Plot",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "2022"
+        ],
+        "sentence_quote_dropped": "can I watch a preview trailer for the upcoming art heist movie"
+    },
+    {
+        "sentence": "Can you play an independent film with the song 'Lose Yourself' by Eminem?",
+        "entity_names": [
+            "independent film",
+            "Lose Yourself",
+            "Eminem"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "Genre",
+            "Song",
+            "Artist"
+        ],
+        "entity_names_not_allowed": [
+            "Eminem"
+        ],
+        "entity_types_not_allowed": [
+            "Artist"
+        ]
+    },
+    {
+        "sentence": "What is the viewers' rating for Doctor Strange?",
+        "entity_names": [
+            "Doctor Strange",
+            "7 out of 10 stars"
+        ],
+        "filename": "completion-541",
+        "entity_types": [
+            "Title",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "7 out of 10 stars"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie Affecting and what is the genre of the film?",
+        "entities": [
+            "Affecting (Title)",
+            "Director, Genre"
+        ]
+    },
+    {
+        "sentence": "Who directed the movie about Edgar Wright and what year was it released?",
+        "entity_names": [
+            "Edgar Wright",
+            "X",
+            "year"
+        ],
+        "filename": "completion-542",
+        "entity_types": [
+            "Actor",
+            "Title",
+            "Year"
+        ],
+        "missing_entity_names": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "What do viewers think of the movie directed by Darren Aronofsky that came out in 2003?",
+        "entity_names": [
+            "Darren Aronofsky",
+            "2003",
+            "viewers' rating"
+        ],
+        "filename": "completion-545",
+        "entity_types": [
+            "Director",
+            "Year",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "viewers' rating"
+        ]
+    },
+    {
+        "sentence": "\"Which movie conveys a powerful message about social justice?\"",
+        "entities": [
+            "Powerful message"
+        ],
+        "sentence_quote_dropped": "Which movie conveys a powerful message about social justice?"
+    },
+    {
+        "sentence": "\"Is there a movie with a powerful message about environmental conservation?\"",
+        "entity_names": [
+            "Powerful message, environmental conservation"
+        ],
+        "filename": "completion-550",
+        "entity_types": [
+            "Plot"
+        ],
+        "missing_entity_names": [
+            "Powerful message, environmental conservation"
+        ],
+        "sentence_quote_dropped": "Is there a movie with a powerful message about environmental conservation?"
+    },
+    {
+        "sentence": "Can you recommend a tragic movie released in 2028 that has a behind-the-scenes featurette?",
+        "entity_names": [
+            "tragic",
+            "2028",
+            "behind-the-scenes featurette",
+            "movie"
+        ],
+        "filename": "completion-553",
+        "entity_types": [
+            "Genre",
+            "Year",
+            "Feature",
+            "Title"
+        ],
+        "reordered_entity_names": [
+            "tragic",
+            "movie",
+            "2028",
+            "behind-the-scenes featurette"
+        ],
+        "reordered_entity_types": [
+            "Genre",
+            "Title",
+            "Year",
+            "Feature"
+        ],
+        "entity_names_not_allowed": [
+            "behind-the-scenes featurette"
+        ],
+        "entity_types_not_allowed": [
+            "Feature"
+        ]
+    },
+    {
+        "sentence": "What movies were released between 1987 and 1990",
+        "entity_names": [
+            "1987-1990"
+        ],
+        "filename": "completion-569",
+        "entity_types": [
+            "Year"
+        ],
+        "missing_entity_names": [
+            "1987-1990"
+        ]
+    },
+    {
+        "sentence": "Can you play the trailer for the latest F. Gary Gray movie?",
+        "entity_names": [
+            "trailer",
+            "F. Gary Gary"
+        ],
+        "filename": "completion-574",
+        "entity_types": [
+            "Trailer",
+            "Director"
+        ],
+        "missing_entity_names": [
+            "F. Gary Gary"
+        ]
+    },
+    {
+        "sentence": "Do you have any information on the promotional events for the upcoming action movie?",
+        "entity_names": [
+            "promotional events",
+            "upcoming action movie"
+        ],
+        "filename": "completion-574",
+        "entity_types": [
+            "Promo",
+            "Genre"
+        ],
+        "entity_names_not_allowed": [
+            "promotional events"
+        ],
+        "entity_types_not_allowed": [
+            "Promo"
+        ]
+    },
+    {
+        "sentence": "what are some highly rated movies released between 2008 and 2010",
+        "entity_names": [
+            "2008-2010",
+            "highly rated"
+        ],
+        "filename": "completion-589",
+        "entity_types": [
+            "Year",
+            "Viewers' Rating"
+        ],
+        "missing_entity_names": [
+            "2008-2010"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a film directed by Danny Boyle that has a strong musical component?",
+        "entity_names": [
+            "Danny Boyle",
+            "Music"
+        ],
+        "filename": "completion-592",
+        "entity_types": [
+            "Director",
+            "Genre"
+        ],
+        "missing_entity_names": [
+            "Music"
+        ]
+    },
+    {
+        "sentence": "\"When did Flawless, directed by Joel Schumacher, come out and what is Kay Adams' view rating of the film?\"",
+        "entity_names": [
+            "Flawless",
+            "Joel Schumacher",
+            "Kay Adams"
+        ],
+        "filename": "completion-597",
+        "entity_types": [
+            "Title",
+            "Director",
+            "Viewer's Rating"
+        ],
+        "sentence_quote_dropped": "When did Flawless, directed by Joel Schumacher, come out and what is Kay Adams' view rating of the film?",
+        "entity_names_not_allowed": [
+            "Kay Adams"
+        ],
+        "entity_types_not_allowed": [
+            "Viewer's Rating"
+        ]
+    }
+]

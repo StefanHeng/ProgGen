@@ -1,0 +1,8 @@
+1. Query: "Can you give me a sneak peek at the trailer for the new Ryan Gosling movie coming out?"
+   Named Entities: [Ryan Gosling (Actor), trailer (Trailer)]
+
+2. Query: "I'm really in the mood for some intense action, can you show me a teaser for a James Mangold film?"
+   Named Entities: [intense action (Genre), James Mangold (Director), teaser (Trailer)]
+
+3. Query: "I'm feeling optimistic and curious about the latest M. Night Shyamalan movie, can you show me a clip?"
+   Named Entities: [optimistic (Viewers' Rating), M. Night Shyamalan (Director), clip (Trailer)]

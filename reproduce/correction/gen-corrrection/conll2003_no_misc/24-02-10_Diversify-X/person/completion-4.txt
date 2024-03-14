@@ -1,0 +1,8 @@
+1. Text Span: "Xi Jinping"
+Label: (A)
+
+2. Text Span: "woman"
+Label: (C). The correct entity type is person.
+
+3. Text Span: "John Smith"
+Label: (A)

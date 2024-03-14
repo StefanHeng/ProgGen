@@ -1,0 +1,8 @@
+Query: "can you recommend a fine dining restaurant with a romantic atmosphere"
+Named Entities: [fine dining (Amenity), romantic atmosphere (Amenity)]
+
+Query: "what are the top-rated upscale eateries in the area"
+Named Entities: [top-rated (Rating), upscale (Amenity)]
+
+Query: "where can I find a high-end steakhouse for a special occasion"
+Named Entities: [high-end (Price), steakhouse (Cuisine), special occasion (Amenity)]

@@ -1,0 +1,8 @@
+1. "I'm bored, can you tell me the plot of the movie Ghostbusters?"
+Named Entities: [Ghostbusters (Title), plot (Plot)]
+
+2. "I need something new to watch, how about a documentary with an exciting storyline?"
+Named Entities: [documentary (Genre), exciting (Viewers' Rating)]
+
+3. "I've heard about a movie involving Loki, can you give me a brief summary?"
+Named Entities: [Loki (Character), brief summary (Plot)]

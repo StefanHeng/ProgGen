@@ -1,0 +1,8 @@
+1. Query: "Can you give me a brief synopsis of the movie Casablanca?"
+Named Entities: [Casablanca (Title)]
+
+2. Query: "Who directed the movie Gone with the Wind and what's it about?"
+Named Entities: [Gone with the Wind (Title), directed (Director)]
+
+3. Query: "I'm interested in a movie from the 1950s with a romantic plot - do you have any suggestions?"
+Named Entities: [1950s (Year), romantic (Genre)]

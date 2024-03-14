@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the latest James Bond film?"
+Named Entities: [James Bond (Character), trailer (Trailer)]
+
+2. "What movie has the most intense trailer of all time?"
+Named Entities: [intense (Review), trailer (Trailer)]
+
+3. "Show me a teaser for the upcoming Marvel movie."
+Named Entities: [teaser (Trailer), Marvel (Genre)]

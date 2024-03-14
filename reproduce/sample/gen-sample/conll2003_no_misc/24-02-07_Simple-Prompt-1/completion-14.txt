@@ -1,0 +1,100 @@
+1. The United States announces new trade tariffs on Chinese goods.
+Named Entities: [United States (location), Chinese (organization)]
+2. Mary Smith appointed as new CEO of ABC Corporation.
+Named Entities: [Mary Smith (person), ABC Corporation (organization)]
+3. Firefighters battle massive wildfire in California.
+Named Entities: [California (location)]
+4. Researchers discover potential new treatment for Alzheimer's disease.
+Named Entities: []
+5. President Johnson delivers annual State of the Union address.
+Named Entities: [President Johnson (person)]
+6. European Union imposes sanctions on Russia.
+Named Entities: [European Union (organization), Russia (location)]
+7. NASA launches new Mars rover mission.
+Named Entities: [NASA (organization), Mars (location)]
+8. Prime Minister Lee visits South Korea to discuss trade agreements.
+Named Entities: [Prime Minister Lee (person), South Korea (location)]
+9. Apple Inc. unveils latest iPhone model.
+Named Entities: [Apple Inc. (organization)]
+10. Tennis star Serena Williams wins Wimbledon championship.
+Named Entities: [Serena Williams (person), Wimbledon (location)]
+11. A new study reveals the impact of climate change on polar bears in the Arctic.
+Named Entities: [Arctic (location)]
+12. OPEC members meet to discuss oil production quotas.
+Named Entities: [OPEC (organization)]
+13. Environmental activist Greta Thunberg speaks at United Nations climate summit.
+Named Entities: [Greta Thunberg (person), United Nations (organization)]
+14. Japan's economy enters recession due to pandemic-related lockdowns.
+Named Entities: [Japan (location)]
+15. SpaceX successfully launches satellite into orbit.
+Named Entities: [SpaceX (organization)]
+16. Local brewery wins top prize at international beer competition.
+Named Entities: []
+17. Famous actor Brad Pitt stars in new blockbuster film.
+Named Entities: [Brad Pitt (person)]
+18. The World Health Organization declares global pandemic.
+Named Entities: [World Health Organization (organization)]
+19. Nature conservation group protests logging in Amazon rainforest.
+Named Entities: [Amazon rainforest (location)]
+20. UK Parliament votes to approve new Brexit deal.
+Named Entities: [UK Parliament (organization), Brexit (organization)]
+21. New York City Mayor announces plan to improve public transportation.
+Named Entities: [New York City (location)]
+22. Microsoft acquires AI startup for $1 billion.
+Named Entities: [Microsoft (organization)]
+23. Egyptian archaeologists uncover ancient tomb in Luxor.
+Named Entities: [Egyptian (organization), Luxor (location)]
+24. Famous chef Gordon Ramsay opens new restaurant in London.
+Named Entities: [Gordon Ramsay (person), London (location)]
+25. WHO warns of potential vaccine shortages in developing countries.
+Named Entities: [WHO (organization)]
+26. Uber driver charged with assault in Los Angeles.
+Named Entities: [Uber (organization), Los Angeles (location)]
+27. Facebook faces antitrust investigation by US government.
+Named Entities: [Facebook (organization), US (location)]
+28. Activist Malala Yousafzai awarded Nobel Peace Prize.
+Named Entities: [Malala Yousafzai (person), Nobel Peace Prize (organization)]
+29. Severe weather warnings issued for Midwest region.
+Named Entities: [Midwest (location)]
+30. Harvard University announces new scholarship program for low-income students.
+Named Entities: [Harvard University (organization)]
+31. Fashion designer Stella McCartney launches sustainable clothing line.
+Named Entities: [Stella McCartney (person)]
+32. Oil spill contaminates coastal waters in Nigeria.
+Named Entities: [Nigeria (location)]
+33. Former president Barack Obama releases memoir.
+Named Entities: [Barack Obama (person)]
+34. Volunteers clean up litter on beach in Sydney.
+Named Entities: [Sydney (location)]
+35. Japanese automaker Toyota recalls millions of vehicles.
+Named Entities: [Japanese (organization), Toyota (organization)]
+36. UNICEF provides humanitarian aid to refugees in war-torn region.
+Named Entities: [UNICEF (organization)]
+37. Olympic champion Usain Bolt announces retirement from track and field.
+Named Entities: [Usain Bolt (person)]
+38. Earthquake rocks major city in Indonesia.
+Named Entities: [Indonesia (location)]
+39. Pfizer and Moderna report positive results from COVID-19 vaccine trials.
+Named Entities: [Pfizer (organization), Moderna (organization)]
+40. Climate activist groups organize protest outside government headquarters.
+Named Entities: []
+41. Renowned author J.K. Rowling publishes new book.
+Named Entities: [J.K. Rowling (person)]
+42. Italian government launches investigation into corruption allegations.
+Named Entities: [Italian (organization)]
+43. Google CEO testifies before Congress on antitrust issues.
+Named Entities: [Google (organization)]
+44. Thousands attend protest against police brutality in Chicago.
+Named Entities: [Chicago (location)]
+45. SpaceX founder Elon Musk announces plans for Mars colonization.
+Named Entities: [SpaceX (organization), Elon Musk (person), Mars (location)]
+46. World Bank approves funding for infrastructure project in Africa.
+Named Entities: [World Bank (organization), Africa (location)]
+47. Soccer star Lionel Messi signs record-breaking contract with Paris Saint-Germain.
+Named Entities: [Lionel Messi (person), Paris Saint-Germain (organization)]
+48. Philadelphia Eagles quarterback suffers season-ending injury.
+Named Entities: [Philadelphia Eagles (organization)]
+49. British Prime Minister Boris Johnson declares national emergency.
+Named Entities: [Boris Johnson (person)]
+50. Australian scientists make breakthrough in cancer research.
+Named Entities: [Australian (organization)]

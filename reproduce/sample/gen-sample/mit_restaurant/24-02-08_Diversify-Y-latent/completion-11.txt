@@ -1,0 +1,6 @@
+1. Query: "Where can I find a dog-friendly restaurant open on Monday for dinner"
+Named Entities: [dog-friendly (Amenity), Monday (Hours)]
+2. Query: "I'm craving some Italian cuisine, are there any places with a good rating nearby"
+Named Entities: [Italian (Cuisine), good rating (Rating)]
+3. Query: "Can you recommend a restaurant with outdoor seating and a moderate price range"
+Named Entities: [outdoor seating (Amenity), moderate price range (Price)]

@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the movie Rocky?"
+   Named Entities: [Rocky (Title)]
+
+2. Query: "Could you recommend a movie about the immigrant experience starring Emma Watson?"
+   Named Entities: [immigrant experience (Genre), Emma Watson (Actor)]
+
+3. Query: "Who directed the film Wonder Woman that features Chris Pratt?"
+   Named Entities: [Wonder Woman (Title), Chris Pratt (Actor)]

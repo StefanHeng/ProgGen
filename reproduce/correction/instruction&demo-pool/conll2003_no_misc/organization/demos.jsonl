@@ -1,0 +1,6 @@
+{"sentence": "Indian government bans TikTok and 58 other Chinese apps.", "entity_span": "TikTok", "label": "CORRECT"}
+{"sentence": "CEO of Tesla Elon Musk Denies Securities Fraud Allegations", "entity_span": "CEO", "label": "NA"}
+{"sentence": "Japanese automaker Toyota recalls millions of vehicles.", "entity_span": "Japanese", "label": "NA"}
+{"sentence": "Russian cosmonauts and Chinese astronauts conduct joint space mission.", "entity_span": "Russian", "label": "NA"}
+{"sentence": "Pfizer announces new vaccine efficacy data against COVID-19 variants.", "entity_span": "COVID-19", "label": "NA"}
+{"sentence": "Local non-profit organization provides free meals to homeless veterans.", "entity_span": "non-profit organization", "label": "NA"}

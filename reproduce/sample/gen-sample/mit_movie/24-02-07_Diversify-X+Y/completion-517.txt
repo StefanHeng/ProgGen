@@ -1,0 +1,8 @@
+1. Query: "Hey, could you show me a red band trailer for the latest Sam Raimi movie?"
+   Named Entities: [red band trailer (Trailer), Sam Raimi (Director)]
+
+2. Query: "I'm looking for a movie with the song Boogie Wonderland in its trailer, any suggestions?"
+   Named Entities: [Boogie Wonderland (Song)]
+
+3. Query: "Do you have the teaser for The Princess Bride? I heard it's a classic!"
+   Named Entities: [The Princess Bride (Title)]

@@ -1,0 +1,8 @@
+1. "What genre does the movie Whiplash fall under and is it considered a sci-fi thriller?"
+Named Entities: [Whiplash (Title), Sci-fi thriller (Genre)]
+
+2. "Can you recommend a movie starring Rachel McAdams that belongs to the romance genre?"
+Named Entities: [Rachel McAdams (Actor), romance (Genre)]
+
+3. "Show me a list of sci-fi thriller movies released in the past year"
+Named Entities: [sci-fi thriller (Genre), past year (Year)]

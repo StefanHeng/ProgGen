@@ -1,0 +1,8 @@
+1. Query: "What movie with a 3.5 star rating was directed by Christopher Nolan"
+   Named Entities: [3.5 star rating (Viewers' Rating), Christopher Nolan (Director)]
+
+2. Query: "Can you recommend a cult movie released between 1984 and 1989?"
+   Named Entities: [1984-1989 (Year), Cult (Genre)]
+
+3. Query: "Show me a movie featuring the character Two-Face from Batman"
+   Named Entities: [Two-Face (Character), Batman (Title)]

@@ -1,0 +1,8 @@
+1. Text Span: "Trojan War"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Atlantic"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Atlantic Ocean".
+
+3. Text Span: "African"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.

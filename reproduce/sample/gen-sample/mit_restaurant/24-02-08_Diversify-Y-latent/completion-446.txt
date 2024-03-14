@@ -1,0 +1,8 @@
+Query: "what are the opening hours for Chez Claude"
+Named Entities: [Chez Claude (Restaurant Name), opening hours (Hours)]
+
+Query: "suggest a restaurant with outdoor seating and a view"
+Named Entities: [outdoor seating (Amenity), view (Amenity)]
+
+Query: "where can I get the best sushi in town"
+Named Entities: [best (Rating), sushi (Cuisine), town (Location)]

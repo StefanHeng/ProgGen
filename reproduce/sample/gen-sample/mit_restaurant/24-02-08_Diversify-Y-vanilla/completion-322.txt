@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with brunch hours in the city."
+   Named Entities: [brunch hours (Amenity), city (Location)]
+
+2. "What's the closing hours for the Italian restaurant downtown?"
+   Named Entities: [closing hours (Hours), Italian restaurant (Cuisine), downtown (Location)]
+
+3. "Recommend a place with a diverse menu and reasonable prices for dinner."
+   Named Entities: [diverse menu (Amenity), reasonable prices (Price), dinner (Amenity)]

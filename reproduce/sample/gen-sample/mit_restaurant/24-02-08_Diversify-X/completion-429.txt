@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good seafood dinner menu"
+Named Entities: [good (Rating), seafood (Cuisine), dinner (Amenity)]
+
+2. "I'm looking for a place with outdoor seating for a dinner date"
+Named Entities: [outdoor seating (Amenity), dinner (Amenity)]
+
+3. "I want to try authentic Italian cuisine for dinner tonight"
+Named Entities: [authentic Italian (Cuisine), dinner (Amenity)]

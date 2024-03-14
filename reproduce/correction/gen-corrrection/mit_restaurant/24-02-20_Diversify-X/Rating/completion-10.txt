@@ -1,0 +1,11 @@
+1. Query: "What is the most {{luxurious}} food truck in the area?"
+Text Span: "luxurious"
+Label: (C). The span is a named entity but the category is not rating. The correct entity type is Quality.
+
+2. Query: "I'm craving some eggs benedict, is there a brunch spot nearby with a {{good rating}}?"
+Text Span: "good rating"
+Label: (A). The span is a named entity of type rating.
+
+3. Query: "what's the {{best}} café for brunch on the weekend"
+Text Span: "best"
+Label: (A). The span is a named entity of type rating.

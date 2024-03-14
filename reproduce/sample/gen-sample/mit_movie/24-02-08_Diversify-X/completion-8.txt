@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the Best Picture award at the Oscars in 2019? I'm curious to know."
+Named Entities: [Best Picture award (Awards), 2019 (Year)]
+
+2. "I'm in the mood for a critically acclaimed movie. Can you recommend a film that has won multiple awards, please?"
+Named Entities: [critically acclaimed (Review), multiple awards (Awards)]
+
+3. "I'm looking for a feel-good movie that has been nominated for a Golden Globe. Any suggestions?"
+Named Entities: [feel-good (Review), Golden Globe (Awards)]

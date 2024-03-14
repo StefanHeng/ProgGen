@@ -1,0 +1,11 @@
+1. Query: "Find me a restaurant in the downtown area that serves a delicious {{breakfast}} with WiFi availability"
+Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Query: "I'm craving some {{gluten-free}} ribs for lunch, can you recommend a restaurant with a mid-range price?"
+Text Span: "gluten-free"
+Label: (B). Wrong Boundary. The correct span boundary is "gluten-free ribs".
+
+3. Query: "Can you recommend a budget-friendly {{fast-food}} joint near my office?"
+Text Span: "fast-food"
+Label: (A). Correct Entity Annotation.

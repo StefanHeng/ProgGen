@@ -1,0 +1,8 @@
+1. Query: "What are the top-rated Italian restaurants in the vicinity?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), vicinity (Location)]
+
+2. Query: "Find me a restaurant with outdoor seating for brunch"
+Named Entities: [outdoor seating (Amenity), brunch (Amenity)]
+
+3. Query: "Can I make a reservation for two at the steakhouse for 7 p m?"
+Named Entities: [reservation (Amenity), two (Amenity), steakhouse (Restaurant Name), 7 p m (Hours)]

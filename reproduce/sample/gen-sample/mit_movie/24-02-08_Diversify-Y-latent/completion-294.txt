@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a romantic comedy from the 1990s starring Sandra Bullock?"
+Named Entities: [romantic comedy (Genre), 1990s (Year), Sandra Bullock (Actor)]
+
+2. Query: "What is the plot of the movie The Blind Side, in which Sandra Bullock stars?"
+Named Entities: [The Blind Side (Title), Sandra Bullock (Actor), Plot]
+
+3. Query: "Show me the trailer for the movie Miss Congeniality, featuring Sandra Bullock."
+Named Entities: [trailer (Trailer), Miss Congeniality (Title), Sandra Bullock (Actor)]

@@ -1,0 +1,8 @@
+1. "Can you just tell me the plot of the Shawshank Redemption already?"
+   Named Entities: [the Shawshank Redemption (Title), plot (Plot)]
+
+2. "I don't have time, just give me a quick summary of the movie Inception."
+   Named Entities: [Inception (Title), summary (Plot)]
+
+3. "I need to know what the movie Interstellar is about, can you give me a brief synopsis?"
+   Named Entities: [Interstellar (Title), synopsis (Plot)]

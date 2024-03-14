@@ -1,0 +1,8 @@
+Query: "Can you recommend any breakfast spots in the area that serve dairy-free frittatas?"
+Named Entities: [breakfast (Amenity), dairy-free (Amenity), frittatas (Dish)]
+
+Query: "I'm looking for a restaurant that offers dairy-free frittatas for breakfast. Any suggestions?"
+Named Entities: [dairy-free (Amenity), frittatas (Dish), breakfast (Amenity)]
+
+Query: "Where can I find a dairy-free frittata on the breakfast menu around here?"
+Named Entities: [dairy-free (Amenity), frittata (Dish), breakfast (Amenity)]

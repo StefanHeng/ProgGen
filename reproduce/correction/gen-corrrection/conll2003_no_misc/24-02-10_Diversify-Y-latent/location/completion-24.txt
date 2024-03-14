@@ -1,0 +1,8 @@
+1. Text Span: "Tokyo"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "Lunar Gateway"
+Label: (C). The span is a named entity but the category is not location. Entity type: organization
+
+3. Text Span: "New York City"
+Label: (A). The span is a named entity of type location

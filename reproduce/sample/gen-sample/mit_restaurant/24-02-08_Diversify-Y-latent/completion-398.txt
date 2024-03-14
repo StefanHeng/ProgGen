@@ -1,0 +1,8 @@
+Query: "Can you recommend a celebrated restaurant for dinner tonight?"
+Named Entities: [celebrated (Rating), dinner (Amenity)]
+
+Query: "Do you know of any Breakfast Clubhouse in the area that opens early?"
+Named Entities: [Breakfast Clubhouse (Cuisine), opens early (Hours)]
+
+Query: "I want to find an economical place to eat for lunch"
+Named Entities: [economical (Price), lunch (Amenity)]

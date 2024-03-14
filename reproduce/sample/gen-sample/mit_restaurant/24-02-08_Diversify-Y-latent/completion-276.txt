@@ -1,0 +1,8 @@
+1. "Can you recommend a good seafood restaurant near GPS coordinates?"
+Named Entities: [seafood (Cuisine), GPS coordinates (Location)]
+
+2. "I'm in the mood for Italian cuisine, can you suggest a place with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+3. "What are the hours of operation for Dine-0-Mite restaurant?"
+Named Entities: [Dine-0-Mite (Restaurant Name), hours of operation (Hours)]

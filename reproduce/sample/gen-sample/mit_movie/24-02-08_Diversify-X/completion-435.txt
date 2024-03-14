@@ -1,0 +1,8 @@
+1. "Can you tell me about a movie with a really catchy song?"
+Named Entities: [catchy song (Song)]
+
+2. "I'm looking for a film that has a memorable soundtrack."
+Named Entities: [memorable soundtrack (Song)]
+
+3. "Do you know of any movies with a great music score?"
+Named Entities: [great music score (Song)]

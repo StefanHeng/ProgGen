@@ -1,0 +1,8 @@
+Query: "what is the opening times of the nearest Italian restaurant"
+Named Entities: [opening times (Hours), nearest (Location), Italian (Cuisine)]
+
+Query: "I'm looking for a restaurant with outdoor seating and a good view"
+Named Entities: [outdoor seating (Amenity), good view (Amenity)]
+
+Query: "where can I find a sushi place with a high rating"
+Named Entities: [sushi (Cuisine), high rating (Rating)]

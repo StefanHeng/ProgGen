@@ -1,0 +1,8 @@
+1. Text Span: "good ratings"
+Label: (C). The span is a named entity but the category is not rating. The correct entity type is Amenity.
+
+2. Text Span: "nice"
+Label: (C). The span is a named entity but the category is not rating. The correct entity type is Amenity.
+
+3. Text Span: "good"
+Label: (A). The span is a named entity of type rating.

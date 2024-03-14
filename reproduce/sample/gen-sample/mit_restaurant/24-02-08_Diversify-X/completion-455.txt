@@ -1,0 +1,8 @@
+1. Query: "What restaurants serve breakfast before 9 a.m?"
+Named Entities: [breakfast (Amenity), before 9 a.m (Hours)]
+
+2. Query: "Find a diner with a breakfast menu nearby."
+Named Entities: [diner (Restaurant Name), breakfast (Amenity), nearby (Location)]
+
+3. Query: "I'm looking for a place to have sit-down breakfast."
+Named Entities: [sit-down (Amenity), breakfast (Amenity)]

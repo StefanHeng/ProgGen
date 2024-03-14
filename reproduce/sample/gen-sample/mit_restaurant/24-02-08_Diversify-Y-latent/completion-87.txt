@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a patio for outdoor dining on Wednesday evening"
+Named Entities: [patio (Amenity), outdoor dining (Amenity), Wednesday (Hours), evening (Hours)]
+
+2. "I'm looking for a family-friendly restaurant with a kids' menu for dinner on Wednesday"
+Named Entities: [family-friendly (Amenity), kids' menu (Amenity), Wednesday (Hours), dinner (Hours)]
+
+3. "Do you know of any places with vegan options that are open late on Wednesday night"
+Named Entities: [vegan options (Cuisine), open late (Hours), Wednesday (Hours), night (Hours)]

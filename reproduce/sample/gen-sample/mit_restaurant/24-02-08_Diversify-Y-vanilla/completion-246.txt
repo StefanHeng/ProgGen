@@ -1,0 +1,8 @@
+Query: "What [Up-and-coming] sushi restaurants are open now in the downtown area?"
+Named Entities: [sushi (Cuisine), open now (Hours), downtown area (Location)]
+
+Query: "Recommend a [Up-and-coming] restaurant with a diverse menu and outdoor seating"
+Named Entities: [diverse menu (Amenity), outdoor seating (Amenity), [Up-and-coming] (Rating)]
+
+Query: "I want to try some authentic Italian pasta for dinner, any suggestions for [Up-and-coming] places?"
+Named Entities: [authentic Italian pasta (Cuisine), dinner (Hours), [Up-and-coming] (Rating)]

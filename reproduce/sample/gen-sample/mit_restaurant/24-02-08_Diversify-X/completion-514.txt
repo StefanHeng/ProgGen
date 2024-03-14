@@ -1,0 +1,8 @@
+Query: "show me a nearby fast food joint with a dollar menu"
+Named Entities: [fast food (Cuisine), nearby (Location), dollar menu (Price)]
+
+Query: "what's the best place for quick and cheap burgers"
+Named Entities: [quick and cheap (Price), burgers (Dish)]
+
+Query: "can you recommend a budget-friendly spot for a quick bite"
+Named Entities: [budget-friendly (Price), quick bite (Amenity)]

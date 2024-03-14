@@ -1,0 +1,8 @@
+1. "Can you recommend a coming-of-age story released between 2001-2003?"
+Named Entities: [coming-of-age story (Genre), 2001-2003 (Year)]
+
+2. "I'm looking for a gripping biopic featuring Olivia Colman."
+Named Entities: [gripping (Plot), biopic (Genre), Olivia Colman (Actor)]
+
+3. "Show me the best picture trailer for a movie with a character like Atticus Finch that promotes environmental activism."
+Named Entities: [best picture trailer (Trailer), Atticus Finch (Character), environmental activism (Plot)]

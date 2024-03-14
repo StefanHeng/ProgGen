@@ -1,0 +1,8 @@
+1. "I'm looking for a highly-esteemed wine bar in the area"
+Named Entities: [Highly-esteemed (Rating), wine bar (Amenity)]
+
+2. "What are the hours of The Grapevine Wine Bar"
+Named Entities: [The Grapevine Wine Bar (Restaurant Name), hours (Hours)]
+
+3. "Where can I find a restaurant in the area that serves Mediterranean cuisine"
+Named Entities: [Mediterranean (Cuisine), restaurant (Amenity)]

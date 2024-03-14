@@ -1,0 +1,8 @@
+1. "Could you recommend a movie starring Ewan McGregor from 1994?"
+Named Entities: [Ewan McGregor (Actor), 1994 (Year)]
+
+2. "Show me a movie directed by Quentin Tarantino that starts with the letter S"
+Named Entities: [Quentin Tarantino (Director), S (Title)]
+
+3. "What genre of film is Moulin Rouge, which was released in 2001?"
+Named Entities: [Moulin Rouge (Title), 2001 (Year)]

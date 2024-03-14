@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with praised sushi"
+Named Entities: [sushi (Dish), praised (Rating)]
+
+Query: "I'm looking for a place with praised outdoor seating"
+Named Entities: [outdoor seating (Amenity), praised (Rating)]
+
+Query: "which restaurant serves praised Italian dishes"
+Named Entities: [Italian (Cuisine), praised (Rating)]

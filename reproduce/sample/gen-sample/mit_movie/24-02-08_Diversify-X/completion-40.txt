@@ -1,0 +1,8 @@
+1. Query: "Can you tell me what awards and nominations the Shawshank Redemption received?"
+Named Entities: [Shawshank Redemption (Title), awards and nominations (Review)]
+
+2. Query: "I'm looking for an action movie from the 2000s with a high viewers' rating. Any suggestions?"
+Named Entities: [2000s (Year), action (Genre), high viewers' rating (Viewers' Rating)]
+
+3. Query: "I'm curious to know if the director of The Dark Knight has won any prestigious awards."
+Named Entities: [The Dark Knight (Title), director of The Dark Knight (Director), prestigious awards (Review)]

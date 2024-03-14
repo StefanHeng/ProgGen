@@ -1,0 +1,8 @@
+Query: "What awards did the movie The Shape of Water win?"
+Named Entities: [The Shape of Water (Title)]
+
+Query: "Has the director of Parasite received any nominations for the film?"
+Named Entities: [Parasite (Title)]
+
+Query: "Which movie received the most nominations at the Oscars last year?"
+Named Entities: [Oscars (Awards), last year (Year)]

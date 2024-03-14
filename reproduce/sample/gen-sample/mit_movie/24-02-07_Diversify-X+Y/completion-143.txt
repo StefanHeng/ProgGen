@@ -1,0 +1,8 @@
+1. "I need to find movie showtimes for a popular choice starring Chris Hemsworth. I'm really anxious to see it."
+Named Entities: [Chris Hemsworth (Actor), Popular choice (Viewers' Rating)]
+
+2. "I'm desperate to see a happy movie with a suspenseful plot. Can you show me the theatrical trailer for The Lord of the Rings?"
+Named Entities: [happy (Viewers' Rating), suspenseful (Plot), The Lord of the Rings (Title), Theatrical trailer (Trailer)]
+
+3. "I heard there's a new movie out with Chris Hemsworth, and I really want to find out when it's playing. Can you help me?"
+Named Entities: [Chris Hemsworth (Actor)]

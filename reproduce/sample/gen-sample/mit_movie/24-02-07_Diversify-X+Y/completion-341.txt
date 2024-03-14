@@ -1,0 +1,8 @@
+1. Query: "Hey, can I catch the latest Spider-Man movie at the theater nearby?"
+   Named Entities: [Spider-Man (Title)]
+
+2. Query: "Is Denis Villeneuve's new movie playing anywhere around here?"
+   Named Entities: [Denis Villeneuve (Director)]
+
+3. Query: "Once showtimes for Steven Spielberg's adventure movie playing at the cinema?"
+   Named Entities: [Steven Spielberg (Director), Adventure (Genre)]

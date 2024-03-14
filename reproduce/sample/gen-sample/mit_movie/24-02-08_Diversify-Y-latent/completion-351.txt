@@ -1,0 +1,8 @@
+Query: "What is the genre of the film Raiders of the Lost Ark directed by Steven Spielberg"
+Named Entities: [Raiders of the Lost Ark (Title), Steven Spielberg (Director)]
+
+Query: "Can you recommend a political movie directed by Quentin Tarantino"
+Named Entities: [political (Genre), Quentin Tarantino (Director)]
+
+Query: "Is the song Old Time Rock and Roll featured in any popular movies"
+Named Entities: [Old Time Rock and Roll (Song)]

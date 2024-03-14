@@ -1,0 +1,8 @@
+Query: "I'm looking for a breakfast place with a happy hour option"
+Named Entities: [breakfast (Cuisine), happy hour (Amenity)]
+
+Query: "which restaurant around here serves breakfast and has a happy hour deal"
+Named Entities: [breakfast (Cuisine), happy hour (Amenity)]
+
+Query: "show me breakfast spots that also offer happy hour specials"
+Named Entities: [breakfast (Cuisine), happy hour (Amenity)]

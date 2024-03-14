@@ -1,0 +1,8 @@
+1. "I'm craving some tacos from a food truck, where's the best spot nearby?"
+Named Entities: [tacos (Dish), food truck (Amenity), nearby (Location)]
+
+2. "What food trucks around here serve vegetarian cuisine for lunch?"
+Named Entities: [vegetarian (Cuisine), food truck (Amenity), lunch (Hours)]
+
+3. "Is there a food truck with a high rating that offers a seafood platter for dinner?"
+Named Entities: [seafood platter (Dish), food truck (Amenity), high rating (Rating), dinner (Hours) ]

@@ -1,0 +1,8 @@
+1. "Can you recommend any movies similar to Annie Hall?"
+Named Entities: [Annie Hall (Title)]
+
+2. "Could you recommend an animated movie with the song 'Under the Sea'?"
+Named Entities: [Under the Sea (Song), Animation (Genre)]
+
+3. "Is the film 'Dreamgirls' suitable for children or is it rated MA15+?"
+Named Entities: [Dreamgirls (Title), MA15+ (MPAA Rating)]

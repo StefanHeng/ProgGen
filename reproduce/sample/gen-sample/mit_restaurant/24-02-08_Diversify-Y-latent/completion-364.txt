@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant near me that serves Margherita pizza"
+Named Entities: [Margherita pizza (Dish), near me (Location)]
+
+Query: "What are the operating hours for Italian restaurants that serve Margherita pizza"
+Named Entities: [operating hours (Hours), Italian (Cuisine), Margherita pizza (Dish)]
+
+Query: "I'm looking for a highly rated restaurant that offers Margherita pizza and outdoor seating"
+Named Entities: [highly rated (Rating), Margherita pizza (Dish), outdoor seating (Amenity)]

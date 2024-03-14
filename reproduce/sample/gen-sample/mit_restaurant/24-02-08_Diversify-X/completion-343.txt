@@ -1,0 +1,8 @@
+Query: "Do you know of any restaurants nearby that offer a delicious brunch menu"
+Named Entities: [delicious (Rating), brunch (Amenity), nearby (Location)]
+
+Query: "I'm looking for a place with affordable brunch options"
+Named Entities: [affordable (Price), brunch (Amenity)]
+
+Query: "Where can I find a restaurant that serves American-style brunch"
+Named Entities: [American-style (Cuisine), brunch (Amenity)]

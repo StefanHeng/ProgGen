@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a Gault & Millau rating for a special occasion?"
+   Named Entities: [Gault & Millau rating (Rating), special occasion (Amenity)]
+
+2. "I'm craving some exceptionally good seafood, where would you recommend I go?"
+   Named Entities: [exceptionally good (Rating), seafood (Cuisine)]
+
+3. "Do you know of any restaurants with outdoor seating and a prix fixe menu?"
+   Named Entities: [outdoor seating (Amenity), prix fixe menu (Price)]

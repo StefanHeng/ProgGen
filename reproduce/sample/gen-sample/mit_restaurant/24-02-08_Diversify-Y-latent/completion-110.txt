@@ -1,0 +1,8 @@
+1. "What are the best Italian restaurants in the [Superbly rated brasserie] area?"
+Named Entities: [Italian (Cuisine), [Superbly rated brasserie] (Location)]
+
+2. "Show me a list of Mexican restaurants with late night hours"
+Named Entities: [Mexican (Cuisine), late night hours (Hours)]
+
+3. "I want to find a sushi place with outdoor seating and a high overall rating"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), high overall rating (Rating)]

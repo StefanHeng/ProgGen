@@ -1,0 +1,8 @@
+Query: "Can you recommend a late-night dining place with Ethiopian cuisine next to the waterfront?"
+Named Entities: [late-night dining (Amenity), Ethiopian (Cuisine), next to the waterfront (Location)]
+
+Query: "I'm looking for a restaurant with waterfront views that serves Ethiopian food for late-night dining"
+Named Entities: [waterfront views (Amenity), Ethiopian (Cuisine), late-night dining (Amenity)]
+
+Query: "Where can I find a place with Ethiopian cuisine for late-night dining near the waterfront?"
+Named Entities: [Ethiopian (Cuisine), late-night dining (Amenity), near the waterfront (Location)]

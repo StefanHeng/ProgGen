@@ -1,0 +1,8 @@
+1. "Can you play a movie clip from Inception starring Marion Cotillard?"
+Named Entities: [Inception (Title), Marion Cotillard (Actor), Movie clip (Trailer)]
+
+2. "What movie directed by Christopher Nolan has the best viewers' rating?"
+Named Entities: [Christopher Nolan (Director), best viewers' rating (Review)]
+
+3. "I want to watch a comedy movie from the 1980s, can you recommend one?" 
+Named Entities: [comedy (Genre), 1980s (Year)]

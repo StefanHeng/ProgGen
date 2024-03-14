@@ -1,0 +1,8 @@
+1. "Are there any outstanding movie showtimes for Thor this weekend?"
+Named Entities: [Outstanding (Review), Thor (Title)]
+
+2. "I'm looking for worthwhile movies to watch this weekend, specifically a biographical film. Any suggestions?"
+Named Entities: [Worthwhile (Review), biographical (Genre)]
+
+3. "Do you have showtimes for The Sixth Sense? I've heard it's a must-see and I'm a young adult looking for something new to watch."
+Named Entities: [The Sixth Sense (Title), must-see (Viewers' Rating), young adult (User Demographic)]

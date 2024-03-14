@@ -1,0 +1,8 @@
+1. "Can you recommend any 1994 sci-fi movies that are worth watching?"
+   Named Entities: [1994 (Year), Sci-fi (Genre), worth watching (Viewers' Rating)]
+
+2. "Is Gone Girl considered a thriller or a psychological thriller movie?"
+   Named Entities: [Gone Girl (Title), thriller (Genre), psychological thriller (Subgenre)]
+
+3. "Who directed the movie with Count Dooku as a main character?"
+   Named Entities: [Count Dooku (Character), directed (Director)]

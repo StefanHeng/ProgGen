@@ -1,0 +1,8 @@
+1. Text Span: "love songs from the 80s"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "soundtrack"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "original song"
+Label: (C). Wrong Type. The correct entity type is other.

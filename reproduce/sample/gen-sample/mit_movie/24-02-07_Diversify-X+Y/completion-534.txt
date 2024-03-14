@@ -1,0 +1,8 @@
+1. Spoken Query: "Hey, can I watch Spy on any streaming platforms?"
+   Named Entities: [Spy (Title), streaming platforms (Entity), watch (Viewers' Rating)]
+
+2. Spoken Query: "Where can I find A Hard Day's Night to watch online?"
+   Named Entities: [A Hard Day's Night (Title), watch (Viewers' Rating), online (Entity)]
+
+3. Spoken Query: "Are there any solid spy movies from the 2010s to the 2020s available for streaming?"
+   Named Entities: [solid (Viewers' Rating), spy (Genre), 2010-2020s (Year), streaming (Entity)]

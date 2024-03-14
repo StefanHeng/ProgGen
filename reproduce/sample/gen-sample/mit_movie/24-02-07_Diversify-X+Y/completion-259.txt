@@ -1,0 +1,8 @@
+1. "Yo, can you tell me about any movies with some awesome on-set drama? I wanna know how they made it happen, you know?"
+Named Entities: [on-set drama (Plot)]
+
+2. "Hey, what's the deal with that new flick with Hugh Jackman? Is it rated MA15+? I'm super curious to check it out!"
+Named Entities: [Hugh Jackman (Actor), MA15+ (MPAA Rating)]
+
+3. "I need to find a fascinating fantasy movie to watch. Got any recommendations for something mind-blowing?"
+Named Entities: [fascinating (Review), fantasy (Genre)]

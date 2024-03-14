@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with delicious ribs and a rustic, charming atmosphere for dinner?"
+Named Entities: [Ribs (Dish), rustic and charming (Amenity), dinner (Hours)]
+
+2. "I'm looking for a cozy, rustic place with exorbitant prices for dinner. Any suggestions?"
+Named Entities: [rustic (Amenity), exorbitant (Price), dinner (Hours)]
+
+3. "Where can I find a restaurant with a charming ambiance and tasty ribs for dinner tonight?"
+Named Entities: [charming ambiance (Amenity), tasty ribs (Dish), dinner (Hours)]

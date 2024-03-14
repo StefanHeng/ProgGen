@@ -1,0 +1,8 @@
+1. Query: "Could you show me the trailer for the new movie about an alien invasion?"
+Named Entities: [new movie (Title), alien invasion (Plot), Trailer (Trailer)]
+
+2. Query: "What is the best movie with Captain Kirk as a character?"
+Named Entities: [best movie (Review), Captain Kirk (Character)]
+
+3. Query: "Are there any action movies about an alien invasion from the year 2010?" 
+Named Entities: [action (Genre), alien invasion (Plot), 2010 (Year)]

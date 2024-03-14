@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie Bradley Cooper starred in?"
+Named Entities: [Bradley Cooper (Actor)]
+
+Query: "Can you tell me the plot of the movie Quest for Redemption?"
+Named Entities: [Quest for redemption (Title)]
+
+Query: "When was the movie Dumbo released?"
+Named Entities: [Dumbo (Title), 1963 (Year)]

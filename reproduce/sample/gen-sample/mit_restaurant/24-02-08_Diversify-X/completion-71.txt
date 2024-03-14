@@ -1,0 +1,8 @@
+Query: "Can you suggest a late-night dining option with vegetarian dishes?"
+Named Entities: [late-night dining (Amenity), vegetarian (Cuisine)]
+
+Query: "I'm looking for a place with a 24-hour kitchen for late-night dining."
+Named Entities: [24-hour (Hours), late-night dining (Amenity)]
+
+Query: "Where can I find a budget-friendly spot for late-night dining with a good cocktail selection?"
+Named Entities: [budget-friendly (Price), late-night dining (Amenity), cocktail (Dish)]

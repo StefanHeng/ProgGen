@@ -1,0 +1,8 @@
+Query: "What are the hours of Grade-A Buffet?"
+Named Entities: [Grade-A Buffet (Restaurant Name), hours (Hours)]
+
+Query: "I'm craving Chinese food, can you recommend a restaurant with good ratings in this area?"
+Named Entities: [Chinese food (Cuisine), good ratings (Rating), this area (Location)]
+
+Query: "Is there a restaurant nearby with a diverse menu offering various amenities like outdoor seating and live music?"
+Named Entities: [diverse menu (Amenity), outdoor seating (Amenity), live music (Amenity), nearby (Location)]

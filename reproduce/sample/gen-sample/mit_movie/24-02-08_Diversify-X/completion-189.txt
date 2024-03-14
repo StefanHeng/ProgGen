@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with an iconic soundtrack featuring the song 'Eye of the Tiger'?"
+   Named Entities: ['Eye of the Tiger' (Song)]
+
+2. Query: "What movie from the 80s has a memorable soundtrack with the song 'Take My Breath Away'?"
+   Named Entities: ['Take My Breath Away' (Song), 80s (Year)]
+
+3. Query: "I'm in the mood for a movie with a captivating soundtrack like 'I Will Always Love You.' Any suggestions?"
+   Named Entities: ['I Will Always Love You' (Song)]

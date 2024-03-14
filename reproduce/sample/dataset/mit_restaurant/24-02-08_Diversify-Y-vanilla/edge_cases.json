@@ -1,0 +1,881 @@
+[
+    {
+        "sentence": "Can you suggest a restaurant with a good gluten-free menu and lakeside dining?",
+        "entity_names": [
+            "Gluten-free options",
+            "Lakeside"
+        ],
+        "filename": "completion-13",
+        "entity_types": [
+            "Amenity",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Gluten-free options"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for some Caribbean food, can you recommend any restaurants with a great atmosphere and live music?",
+        "entity_names": [
+            "Caribbean",
+            "great atmosphere",
+            "live music",
+            "Bahama Breeze"
+        ],
+        "filename": "completion-28",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "Bahama Breeze"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a reasonably priced seafood restaurant with outdoor seating.",
+        "entity_names": [
+            "reasonably priced",
+            "seafood",
+            "outdoor seating",
+            "Bahama Breeze"
+        ],
+        "filename": "completion-28",
+        "entity_types": [
+            "Price",
+            "Cuisine",
+            "Amenity",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "Bahama Breeze"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with a high Infatuation score and a strategic position?",
+        "entity_names": [
+            "high",
+            "strategic position"
+        ],
+        "filename": "completion-63",
+        "entity_types": [
+            "Rating - Infatuation score",
+            "Amenity"
+        ],
+        "entity_names_not_allowed": [
+            "high"
+        ],
+        "entity_types_not_allowed": [
+            "Rating - Infatuation score"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for some sushi, where can I find a good sushi place?",
+        "entity_names": [
+            "sushi",
+            "good"
+        ],
+        "filename": "completion-97",
+        "entity_types": [
+            "Cuisine",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "What coastal restaurants serve authentic Bahamian cuisine for dinner?",
+        "entity_names": [
+            "coastal",
+            "Bahama Breeze",
+            "authentic Bahamian cuisine",
+            "dinner"
+        ],
+        "filename": "completion-102",
+        "entity_types": [
+            "Location",
+            "Restaurant Name",
+            "Cuisine",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Bahama Breeze"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a restaurant with electric vehicle charging and a good selection of Italian dishes.",
+        "entity_names": [
+            "Electric vehicle charging",
+            "Italian",
+            "Ristorante Roma"
+        ],
+        "filename": "completion-104",
+        "entity_types": [
+            "Amenity",
+            "Cuisine",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "Ristorante Roma"
+        ]
+    },
+    {
+        "sentence": "I need a family-friendly restaurant with a kids' menu and a play area by 7 pm.",
+        "entities": [
+            "family-friendly (Amenity)",
+            "kids' menu (Amenity)",
+            "play area (Amenity)",
+            "by 7 pm (Hours)",
+            "[Closing time"
+        ]
+    },
+    {
+        "sentence": "What are some points of interest for Italian cuisine open late tonight?",
+        "entities": [
+            "Italian cuisine (Cuisine)",
+            "open late tonight (Hours)",
+            "[Points of interest"
+        ]
+    },
+    {
+        "sentence": "I'm craving sushi, where is the best sushi place around here?",
+        "entity_names": [
+            "sushi",
+            "best"
+        ],
+        "filename": "completion-126",
+        "entity_types": [
+            "Cuisine",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "best"
+        ]
+    },
+    {
+        "sentence": "What are the hours for Italian restaurants in Houston?",
+        "entities": [
+            "Italian (Cuisine)",
+            "Houston (Location)",
+            "Hours"
+        ]
+    },
+    {
+        "sentence": "What are the hours for Last Call?",
+        "entities": [
+            "Last Call (Restaurant Name)",
+            "hours"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for some Gjusta, where is the nearest location?",
+        "entities": [
+            "Gjusta (Restaurant Name)",
+            "nearest location"
+        ]
+    },
+    {
+        "sentence": "Directions to the nearest Italian restaurant that serves gluten-free pasta",
+        "entities": [
+            "nearest (Location)",
+            "Italian (Cuisine)",
+            "gluten-free pasta (Dish)",
+            "[Directions"
+        ]
+    },
+    {
+        "sentence": "Do you know of any banquet halls in the area that offer a diverse menu",
+        "entity_names": [
+            "banquet hall",
+            "diverse",
+            "area"
+        ],
+        "filename": "completion-179",
+        "entity_types": [
+            "Amenity",
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "banquet hall"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a vegetarian restaurant with a good rating for dinner hours.",
+        "entities": [
+            "vegetarian (Cuisine)",
+            "good (Rating)",
+            "[Dinner hours"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a Mexican restaurant with outdoor seating and a children's menu for dinner hours?",
+        "entities": [
+            "Mexican (Cuisine)",
+            "outdoor seating (Amenity)",
+            "children's menu (Amenity)",
+            "[Dinner hours"
+        ]
+    },
+    {
+        "sentence": "What's the nearest Italian restaurant with a 4-star rating and a price range of $20-30 per person for dinner hours?",
+        "entities": [
+            "Italian (Cuisine)",
+            "4-star (Rating)",
+            "$20-30 per person (Price)",
+            "[Dinner hours"
+        ]
+    },
+    {
+        "sentence": "Where can I find the best Margherita Pizza in town?",
+        "entity_names": [
+            "Best in town",
+            "Margherita Pizza"
+        ],
+        "filename": "completion-199",
+        "entity_types": [
+            "Rating",
+            "Dish"
+        ],
+        "missing_entity_names": [
+            "Best in town"
+        ]
+    },
+    {
+        "sentence": "What are the opening times for Red Lobster in this area?",
+        "entity_names": [
+            "Red Lobster",
+            "opening time"
+        ],
+        "filename": "completion-206",
+        "entity_types": [
+            "Restaurant Name",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "opening time"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place with outdoor seating and a good selection from Eater's The National 38",
+        "entities": [
+            "outdoor seating (Amenity)",
+            "Eater's The National 38 selection"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a seafood restaurant around Fisherman's Wharf that is not expensive?",
+        "entity_names": [
+            "Fisherman's Wharf Seafood",
+            "not expensive"
+        ],
+        "filename": "completion-226",
+        "entity_types": [
+            "Restaurant Name",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "Fisherman's Wharf Seafood"
+        ]
+    },
+    {
+        "sentence": "I'm craving some sushi, can you recommend a good sushi place nearby?",
+        "entity_names": [
+            "sushi",
+            "good",
+            "nearby"
+        ],
+        "filename": "completion-243",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "I'm craving a Jersey Mike's Subs sandwich, can you find a location near the 90210 zip code",
+        "entity_names": [
+            "Jersey Mike's Subs",
+            "90210"
+        ],
+        "filename": "completion-262",
+        "entity_types": [
+            "Restaurant Name",
+            "Location, Zip code"
+        ],
+        "entity_names_not_allowed": [
+            "90210"
+        ],
+        "entity_types_not_allowed": [
+            "Location, Zip code"
+        ]
+    },
+    {
+        "sentence": "What restaurants around here offer a price range of 20-30 dollars per person?",
+        "entity_names": [
+            "20-30 dollars per person"
+        ],
+        "filename": "completion-270",
+        "entity_types": [
+            "Price range"
+        ],
+        "entity_names_not_allowed": [
+            "20-30 dollars per person"
+        ],
+        "entity_types_not_allowed": [
+            "Price range"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for Italian food, where can I dine for less than $20 per person?",
+        "entities": [
+            "Italian (Cuisine)",
+            "less than $20 per person (Price)",
+            "[Dine for less"
+        ]
+    },
+    {
+        "sentence": "Can you recommend any hidden gems for authentic Thai cuisine?",
+        "entity_names": [
+            "hidden gem",
+            "authentic Thai cuisine"
+        ],
+        "filename": "completion-317",
+        "entity_types": [
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "hidden gem"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with New Zealand cuisine and accepts reservations?",
+        "entity_names": [
+            "New Zealand",
+            "Reservations accepted"
+        ],
+        "filename": "completion-318",
+        "entity_types": [
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Reservations accepted"
+        ]
+    },
+    {
+        "sentence": "I'm craving Chinese food delivery tonight, what are some options?",
+        "entity_names": [
+            "Chinese food",
+            "Food delivery"
+        ],
+        "filename": "completion-327",
+        "entity_types": [
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Chinese food"
+        ]
+    },
+    {
+        "sentence": "I am craving sushi, is there a good sushi restaurant nearby?",
+        "entity_names": [
+            "sushi",
+            "nearby",
+            "good"
+        ],
+        "filename": "completion-328",
+        "entity_types": [
+            "Cuisine",
+            "Location",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "I'm craving sushi, where can I find a good sushi restaurant with outdoor seating?",
+        "entity_names": [
+            "sushi",
+            "good",
+            "outdoor seating"
+        ],
+        "filename": "completion-330",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "What are the hours for Papa John's pizza?",
+        "entities": [
+            "Papa John's pizza (Restaurant Name)",
+            "Hours"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a reservation app for favorably-reviewed Italian restaurants near On the Border?",
+        "entity_names": [
+            "Reservation app, Favorably-reviewed",
+            "Italian",
+            "On the Border"
+        ],
+        "filename": "completion-360",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "Reservation app, Favorably-reviewed"
+        ]
+    },
+    {
+        "sentence": "I'm craving sushi, can you recommend any good sushi places in Portland?",
+        "entity_names": [
+            "sushi",
+            "good",
+            "Portland"
+        ],
+        "filename": "completion-365",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "What are the hours for The Portland Steakhouse?",
+        "entity_names": [
+            "The Portland Steakhouse",
+            "hours",
+            "Portland"
+        ],
+        "filename": "completion-365",
+        "entity_types": [
+            "Restaurant Name",
+            "Hours",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "Portland"
+        ]
+    },
+    {
+        "sentence": "What are some AAA Diamond Rated restaurants in the area?",
+        "entity_names": [
+            "AAA Diamond Rating",
+            "area"
+        ],
+        "filename": "completion-376",
+        "entity_types": [
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "AAA Diamond Rating"
+        ]
+    },
+    {
+        "sentence": "What are the hours for the nearest Chinese restaurant?",
+        "entities": [
+            "nearest (Location)",
+            "Chinese (Cuisine)",
+            "Hours"
+        ]
+    },
+    {
+        "sentence": "I'm craving some tandoori chicken. Where can I find the best tandoori chicken in town?",
+        "entity_names": [
+            "tandoori chicken",
+            "best"
+        ],
+        "filename": "completion-391",
+        "entity_types": [
+            "Dish",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "best"
+        ]
+    },
+    {
+        "sentence": "What Japanese restaurants have a 5-star rating?",
+        "entity_names": [
+            "Japanese",
+            "Japanese restaurants",
+            "5-star"
+        ],
+        "filename": "completion-404",
+        "entity_types": [
+            "Cuisine",
+            "Amenity",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "Japanese"
+        ]
+    },
+    {
+        "sentence": "I'm craving sushi, where can I find a good sushi place with a high rating and affordable prices?",
+        "entity_names": [
+            "sushi",
+            "good",
+            "affordable prices"
+        ],
+        "filename": "completion-405",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Price"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "I'm craving some late-night snacking. Where can I find a Japanese restaurant open late?",
+        "entity_names": [
+            "Japanese",
+            "Late-night snacking hours"
+        ],
+        "filename": "completion-406",
+        "entity_types": [
+            "Cuisine",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Late-night snacking hours"
+        ]
+    },
+    {
+        "sentence": "Can you provide me directions to Seasons 52?",
+        "entity_names": [
+            "Directions, Seasons 52"
+        ],
+        "filename": "completion-420",
+        "entity_types": [
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "Directions, Seasons 52"
+        ]
+    },
+    {
+        "sentence": "I'm in the mood for sushi, where can I find a good sushi restaurant with outdoor seating?",
+        "entity_names": [
+            "sushi",
+            "good",
+            "outdoor seating"
+        ],
+        "filename": "completion-430",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "Do you know of any Italian restaurants that offer a prix fixe menu for dinner?",
+        "entities": [
+            "Italian (Cuisine), prix fixe menu (Price) , dinner (Hours)",
+            "Last serving"
+        ]
+    },
+    {
+        "sentence": "What are the hours for The Greek Island Taverna?",
+        "entities": [
+            "The Greek Island Taverna (Restaurant Name)",
+            "Hours"
+        ]
+    },
+    {
+        "sentence": "Where can I find some Scottish cuisine for dinner tonight?",
+        "entity_names": [
+            "Scottish",
+            "dinner hours"
+        ],
+        "filename": "completion-479",
+        "entity_types": [
+            "Cuisine",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "dinner hours"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a Thai restaurant with vegan options in the county?",
+        "entities": [
+            "Thai (Cuisine)",
+            "vegan (Dish)",
+            "County"
+        ]
+    },
+    {
+        "sentence": "What time does the Mexican restaurant on Main Road close tonight?",
+        "entities": [
+            "Mexican (Cuisine)",
+            "Main Road (Location)",
+            "Hours"
+        ]
+    },
+    {
+        "sentence": "What time does Eddie V's Prime Seafood close out tonight?",
+        "entity_names": [
+            "Eddie V's Prime Seafood",
+            "Closeout time"
+        ],
+        "filename": "completion-496",
+        "entity_types": [
+            "Restaurant Name",
+            "Hours"
+        ],
+        "missing_entity_names": [
+            "Closeout time"
+        ]
+    },
+    {
+        "sentence": "Can you suggest a must-try Italian restaurant in the downtown area?",
+        "entities": [
+            "Italian (Cuisine)",
+            "downtown area (Location)",
+            "[Must-try"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with a wide tea selection and serving times before 5 p m",
+        "entities": [
+            "wide tea selection (Amenity)",
+            "before 5 p m (Hours)",
+            "[Tea serving times]"
+        ]
+    },
+    {
+        "sentence": "Can you make a reservation at Thai Orchid for 7 pm tonight?",
+        "entity_names": [
+            "Thai Orchid",
+            "7 pm tonight",
+            "Reservations"
+        ],
+        "filename": "completion-511",
+        "entity_types": [
+            "Restaurant Name",
+            "Hours",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Reservations"
+        ]
+    },
+    {
+        "sentence": "Can you recommend a restaurant with good burrito options and accepts reservations?",
+        "entity_names": [
+            "good",
+            "burrito",
+            "Reservations accepted"
+        ],
+        "filename": "completion-514",
+        "entity_types": [
+            "Rating",
+            "Dish",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Reservations accepted"
+        ]
+    },
+    {
+        "sentence": "What's the best Italian restaurant in town?",
+        "entity_names": [
+            "Best in town",
+            "Italian"
+        ],
+        "filename": "completion-517",
+        "entity_types": [
+            "Amenity",
+            "Cuisine"
+        ],
+        "missing_entity_names": [
+            "Best in town"
+        ]
+    },
+    {
+        "sentence": "I'm craving some sushi, where can I find the highest-rated sushi restaurant in town?",
+        "entity_names": [
+            "highest-rated",
+            "sushi",
+            "Best in town"
+        ],
+        "filename": "completion-517",
+        "entity_types": [
+            "Rating",
+            "Cuisine",
+            "Amenity"
+        ],
+        "missing_entity_names": [
+            "Best in town"
+        ]
+    },
+    {
+        "sentence": "I want a sweet treat. Can you find me the nearest ice cream parlor?",
+        "entity_names": [
+            "nearest",
+            "The Igloo Ice Cream Parlor"
+        ],
+        "filename": "completion-534",
+        "entity_types": [
+            "Location",
+            "Restaurant Name"
+        ],
+        "missing_entity_names": [
+            "The Igloo Ice Cream Parlor"
+        ]
+    },
+    {
+        "sentence": "What restaurants offer catering for a party of 20 people?",
+        "entities": [
+            "catering (Amenity)",
+            "party of 20 people"
+        ]
+    },
+    {
+        "sentence": "I need to pick up an order of sushi in 30 minutes, where can I go?",
+        "entity_names": [
+            "Pickup time, sushi"
+        ],
+        "filename": "completion-542",
+        "entity_types": [
+            "Dish"
+        ],
+        "missing_entity_names": [
+            "Pickup time, sushi"
+        ]
+    },
+    {
+        "sentence": "Find me a restaurant with outdoor seating and a good wine selection",
+        "entities": [
+            "outdoor seating (Amenity)",
+            "good (Rating)",
+            "wine selection"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a Paraguayan restaurant in the 10011 zip code",
+        "entity_names": [
+            "Paraguayan",
+            "10011"
+        ],
+        "filename": "completion-554",
+        "entity_types": [
+            "Cuisine",
+            "Zip code"
+        ],
+        "entity_names_not_allowed": [
+            "10011"
+        ],
+        "entity_types_not_allowed": [
+            "Zip code"
+        ]
+    },
+    {
+        "sentence": "I'm craving Cambodian food tonight. Can you recommend a restaurant?",
+        "entity_names": [
+            "Cambodian",
+            "tonight"
+        ],
+        "filename": "completion-555",
+        "entity_types": [
+            "Cuisine",
+            "Time"
+        ],
+        "entity_names_not_allowed": [
+            "tonight"
+        ],
+        "entity_types_not_allowed": [
+            "Time"
+        ]
+    },
+    {
+        "sentence": "Where can I get a reservation for a fancy seafood restaurant?",
+        "entities": [
+            "reservation (Amenity), fancy (Rating), seafood (Cuisine)",
+            "Pricy"
+        ]
+    },
+    {
+        "sentence": "What are the hours for the nearest Italian restaurant in Los Angeles?",
+        "entities": [
+            "Los Angeles (Location)",
+            "Italian (Cuisine)",
+            "Hours"
+        ]
+    },
+    {
+        "sentence": "I'm craving sushi, can you recommend a good sushi restaurant in Denver?",
+        "entity_names": [
+            "sushi",
+            "good",
+            "Denver"
+        ],
+        "filename": "completion-579",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Location"
+        ],
+        "missing_entity_names": [
+            "good"
+        ]
+    },
+    {
+        "sentence": "What are some options for late-night dining with high Yelp reviews?",
+        "entity_names": [
+            "Late-night dining",
+            "Yelp review"
+        ],
+        "filename": "completion-591",
+        "entity_types": [
+            "Amenity",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "Yelp review"
+        ]
+    },
+    {
+        "sentence": "I'm looking for a place to eat that offers vegetarian options and has a 4-star rating on Yelp",
+        "entity_names": [
+            "vegetarian",
+            "4-star rating",
+            "Yelp review"
+        ],
+        "filename": "completion-591",
+        "entity_types": [
+            "Cuisine",
+            "Rating",
+            "Rating"
+        ],
+        "missing_entity_names": [
+            "Yelp review"
+        ]
+    }
+]

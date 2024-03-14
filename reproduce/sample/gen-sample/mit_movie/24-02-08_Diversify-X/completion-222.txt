@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a horror movie with an atmospheric setting and a gripping plot?"
+Named Entities: [horror (Genre), atmospheric setting (Plot)]
+
+2. Query: "Show me a romantic comedy with a heartwarming storyline and great chemistry between the lead actors"
+Named Entities: [romantic comedy (Genre), heartwarming storyline (Plot)]
+
+3. Query: "What is the most iconic science fiction film with a dystopian future setting?"
+Named Entities: [science fiction (Genre), dystopian future setting (Plot)]

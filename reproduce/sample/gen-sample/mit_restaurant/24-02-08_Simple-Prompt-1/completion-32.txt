@@ -1,0 +1,91 @@
+
+
+1. What are the operating hours for Sushi House?
+Named Entities: [Sushi House (Restaurant Name), operating hours (Hours)]
+
+2. Can you recommend any Italian restaurants with outdoor seating?
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+3. Where can I get the best burgers in town?
+Named Entities: [burgers (Dish), best (Rating), town (Location)]
+
+4. I'm craving some sushi, can you suggest a nearby place?
+Named Entities: [sushi (Cuisine), nearby (Location)]
+
+5. Do you know of any vegan-friendly restaurants in the area?
+Named Entities: [vegan-friendly (Amenity), area (Location)]
+
+6. What's a good place for brunch in the city center?
+Named Entities: [brunch (Amenity), city center (Location)]
+
+7. I need a restaurant with a kids' menu, any suggestions?
+Named Entities: [kids' menu (Amenity)]
+
+8. Where can I find a cheap eatery for a quick lunch?
+Named Entities: [cheap (Price), quick lunch (Amenity)]
+
+9. What's the best place for seafood in this neighborhood?
+Named Entities: [best (Rating), seafood (Cuisine), neighborhood (Location)]
+
+10. I'm looking for a Japanese restaurant open after 10 pm.
+Named Entities: [Japanese (Cuisine), open after 10 pm (Hours)]
+
+11. Any good places for a romantic dinner around here?
+Named Entities: [romantic (Amenity), dinner (Amenity)]
+
+12. Can you make a reservation at La Belle Restaurant?
+Named Entities: [La Belle Restaurant (Restaurant Name)]
+
+13. I'm in the mood for some Chinese takeout, where should I go?
+Named Entities: [Chinese (Cuisine), takeout (Amenity)]
+
+14. What's the price range at The Steakhouse?
+Named Entities: [The Steakhouse (Restaurant Name), price range (Price)]
+
+15. Is there a place with a rooftop bar in the vicinity?
+Named Entities: [rooftop bar (Amenity), vicinity (Location)]
+
+16. Which restaurants in the area have a high rating?
+Named Entities: [high rating (Rating), area (Location)]
+
+17. Do you know of any 24-hour diners in this city?
+Named Entities: [24-hour (Hours), diners (Amenity), city (Location)]
+
+18. Find me a restaurant with a private dining room.
+Named Entities: [private dining room (Amenity)]
+
+19. I want to try some authentic Mexican cuisine tonight.
+Named Entities: [authentic (Rating), Mexican (Cuisine), tonight (Hours)]
+
+20. Where can I get a good cup of coffee in this part of town?
+Named Entities: [good (Rating), coffee (Dish), part of town (Location)]
+
+21. Can you recommend a place for a business lunch?
+Named Entities: [business lunch (Amenity)]
+
+22. Is there a BBQ joint nearby with a family-friendly atmosphere?
+Named Entities: [BBQ (Cuisine), family-friendly (Amenity), nearby (Location)]
+
+23. What's the Wi-Fi situation like at The Cafe?
+Named Entities: [Wi-Fi (Amenity), The Cafe (Restaurant Name)]
+
+24. Any Indian restaurants that deliver to this address?
+Named Entities: [Indian (Cuisine), deliver (Amenity), this address (Location)]
+
+25. I'm looking for a restaurant with a good view, any ideas?
+Named Entities: [good view (Amenity)]
+
+26. What's the price range for a meal at The Bistro?
+Named Entities: [price range (Price), The Bistro (Restaurant Name)]
+
+27. Can you make a reservation at the French bistro on 5th Avenue?
+Named Entities: [French (Cuisine), bistro (Amenity), 5th Avenue (Location)]
+
+28. Where can I find a late-night spot for desserts?
+Named Entities: [late-night (Hours), desserts (Dish)]
+
+29. I want to try a new Thai restaurant with outdoor seating.
+Named Entities: [new (Rating), Thai (Cuisine), outdoor seating (Amenity)]
+
+30. What's the best place for a Sunday brunch in this city?
+Named Entities: [best (Rating), Sunday brunch (Amenity), city (Location)]

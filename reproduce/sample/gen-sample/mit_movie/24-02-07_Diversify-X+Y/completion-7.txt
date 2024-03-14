@@ -1,0 +1,8 @@
+1. Query: "What did the viewers think of the latest movie with Jennifer Aniston?"
+   Named Entities: [Jennifer Aniston (Actor)]
+
+2. Query: "Can you tell me the plot of Greta Gerwig's most recent film?"
+   Named Entities: [Greta Gerwig (Director)]
+
+3. Query: "Is Black Widow worth watching? I heard it has an impressive rating."
+   Named Entities: [Black Widow (Title), impressive rating (Viewers' Rating)]

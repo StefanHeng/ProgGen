@@ -1,0 +1,8 @@
+Query: "Which restaurants serve late-night dining in the area"
+Named Entities: [late-night dining (Amenity), area (Location)]
+
+Query: "I'm craving some Mexican food after midnight, where can I find it?"
+Named Entities: [Mexican (Cuisine), after midnight (Hours)]
+
+Query: "Can you recommend a restaurant with a high rating that serves late-night eats"
+Named Entities: [high rating (Rating), late-night eats (Amenity)]

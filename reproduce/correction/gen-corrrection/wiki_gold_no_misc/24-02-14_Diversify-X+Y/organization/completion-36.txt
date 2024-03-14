@@ -1,0 +1,8 @@
+1. Text Span: "Parliament of the United Kingdom"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Orangutan Foundation International"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Valkyries"
+Label: (C). Wrong Type. The correct entity type is other.

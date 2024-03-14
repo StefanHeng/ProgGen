@@ -1,0 +1,8 @@
+Query: "What is the rating of Black Angus Steakhouse"
+Named Entities: [Black Angus Steakhouse (Restaurant Name)]
+
+Query: "Can I find Black Angus Steakhouse near me"
+Named Entities: [Black Angus Steakhouse (Restaurant Name), near me (Location)]
+
+Query: "I'm in the mood for a nice steak, can you recommend a dish at Black Angus Steakhouse"
+Named Entities: [steak (Dish), Black Angus Steakhouse (Restaurant Name)]

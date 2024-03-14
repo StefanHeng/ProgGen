@@ -1,0 +1,8 @@
+1. "What spy movies came out in 2006?
+   Named Entities: [spy (Genre), 2006 (Year)]
+
+2. "Show me a documentary with an extended trailer"
+   Named Entities: [documentary (Genre), extended trailer (Trailer)]
+
+3. "What is the year of release for the movie Hairspray?"
+   Named Entities: [Hairspray (Title)]

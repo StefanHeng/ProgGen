@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie starring Heath Ledger that is suitable for children?"
+Named Entities: [Heath Ledger (Actor), Children (Viewers' Rating)]
+
+2. Query: "Show me a movie featuring a character similar to Holly Golightly."
+Named Entities: [Holly Golightly (Character)]
+
+3. Query: "Can you suggest a movie from the 1960s with a romantic plot and a memorable song?"
+Named Entities: [1960s (Year), romantic (Genre), memorable song (Song)]

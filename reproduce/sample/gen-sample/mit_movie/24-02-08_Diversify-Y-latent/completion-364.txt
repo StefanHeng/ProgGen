@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a political corruption film with a 6/10 rating?"
+Named Entities: [Political corruption (Plot), 6/10 rating (Viewers' Rating)]
+
+2. Query: "What is the genre of the movie Good Will Hunting directed by James Wan?"
+Named Entities: [Good Will Hunting (Title), James Wan (Director)]
+
+3. Query: "Show me trailers of movies related to political corruption."
+Named Entities: [political corruption (Plot), trailers (Trailer)]

@@ -1,0 +1,8 @@
+1. "What is the highest rated movie from 1996 that falls under the fantasy genre?"
+   Named Entities: [1996 (Year), highest rated (Viewers' Rating), fantasy (Genre)]
+
+2. "Can you play the announcement trailer for the upcoming movie Beauty and the Beast?"
+   Named Entities: [announcement trailer (Trailer), Beauty and the Beast (Title)]
+
+3. "Is Marty McFly a character in any movies scheduled for release in 2022?"
+   Named Entities: [Marty McFly (Character), 2022 (Year)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a good Italian restaurant with outdoor seating for lunch tomorrow?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), tomorrow (Hours)]
+
+2. "What are some affordable Mexican restaurants near downtown for a quick lunch break?"
+Named Entities: [affordable (Price), Mexican (Cuisine), downtown (Location), quick (Amenity), lunch (Hours)]
+
+3. "I'm craving a spicy curry dish for lunch, any recommendations for Indian restaurants nearby?"
+Named Entities: [spicy (Amenity), curry (Dish), Indian (Cuisine), nearby (Location), lunch (Hours)]

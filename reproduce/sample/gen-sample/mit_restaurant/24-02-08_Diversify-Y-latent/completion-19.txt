@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating area and a good wine selection?"
+Named Entities: [outdoor seating area (Amenity), good wine selection]
+
+2. "I'm looking for a restaurant with a romantic ambiance and a seafood menu. Any suggestions?"
+Named Entities: [romantic ambiance (Amenity), seafood (Cuisine)]
+
+3. "What are the top-rated Italian restaurants with outdoor seating area in the downtown area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), outdoor seating area (Amenity), downtown area (Location)]

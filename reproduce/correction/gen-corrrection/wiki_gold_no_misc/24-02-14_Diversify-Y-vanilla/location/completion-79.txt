@@ -1,0 +1,11 @@
+1. Sentence: "The International Monetary Fund was established at the United Nations Monetary and Financial Conference in {{Bretton Woods}}, New Hampshire, in July 1944."
+Text Span: "Bretton Woods"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Lilongwe}} is the capital city of Malawi, located in the central region of the country."
+Text Span: "Lilongwe"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The {{Globe Theatre}}, where many of William Shakespeare's plays were first performed, was located in London."
+Text Span: "Globe Theatre"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.

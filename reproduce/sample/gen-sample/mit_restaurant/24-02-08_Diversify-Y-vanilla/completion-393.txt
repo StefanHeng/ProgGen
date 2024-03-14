@@ -1,0 +1,8 @@
+1. "What are the operating hours for The Jazz Kitchen?"
+   Named Entities: [The Jazz Kitchen (Restaurant Name), operating hours (Hours)]
+
+2. "I'm looking for a place with a nice ambiance and good wine selection."
+   Named Entities: [nice ambiance (Amenity), good wine selection (Amenity)]
+
+3. "Can you recommend a restaurant nearby that serves authentic Italian cuisine?"
+   Named Entities: [authentic Italian cuisine (Cuisine), nearby (Location)]

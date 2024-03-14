@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with dairy-free options?"
+Named Entities: [fine dining (Amenity), dairy-free (Amenity)]
+
+Query: "I'm looking for a high-end restaurant with dairy-free dishes. Any suggestions?"
+Named Entities: [high-end (Price), dairy-free (Amenity)]
+
+Query: "Where can I find a gourmet restaurant with dairy-free menu items?"
+Named Entities: [gourmet (Amenity), dairy-free (Amenity)]

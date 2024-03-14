@@ -1,0 +1,8 @@
+1. "Can you recommend a [Southern] restaurant with outdoor seating and good ratings?"
+Named Entities: [Southern (Cuisine), outdoor seating (Amenity), good ratings (Rating)]
+
+2. "I'm craving some [Southern] comfort food, where can I find a place with affordable prices?"
+Named Entities: [Southern (Cuisine), affordable prices (Price)]
+
+3. "What are the opening hours for [Southern] restaurants in the downtown area?"
+Named Entities: [Southern (Cuisine), downtown area (Location), opening hours (Hours)]

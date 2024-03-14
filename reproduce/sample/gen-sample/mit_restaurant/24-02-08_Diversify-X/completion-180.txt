@@ -1,0 +1,8 @@
+1. Query: "find a buffet restaurant with low-carb options"
+Named Entities: [buffet (Amenity), low-carb (Dietary restriction)]
+
+2. Query: "show me the nearest place with a buffet that offers low-carb dishes"
+Named Entities: [nearest (Location), buffet (Amenity), low-carb (Dietary restriction)]
+
+3. Query: "recommend a buffet spot where I can stick to a low-carb diet"
+Named Entities: [buffet (Amenity), low-carb (Dietary restriction)]

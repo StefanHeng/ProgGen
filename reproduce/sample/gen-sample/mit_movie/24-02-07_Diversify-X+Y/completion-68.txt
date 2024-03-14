@@ -1,0 +1,8 @@
+Query: "I'm looking for a movie from the 2010s with some catchy jazzy tunes"
+Named Entities: [2010s (Year), jazzy tunes (Song)]
+
+Query: "show me a film that features the song 'City of Stars' from La La Land"
+Named Entities: ['City of Stars' (Song), La La Land (Title)]
+
+Query: "can you recommend a movie from the 1790s with a captivating soundtrack"
+Named Entities: [1790s (Year), captivating soundtrack (Song)]

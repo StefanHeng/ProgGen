@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good selection of quiche?"
+Named Entities: [good (Rating), quiche (Dish)]
+
+Query: "I'm hungry, where can I find a place with quiche and outdoor seating?"
+Named Entities: [quiche (Dish), outdoor seating (Amenity)]
+
+Query: "What's a restaurant nearby that serves quiche and is open late?"
+Named Entities: [quiche (Dish), open late (Hours)]

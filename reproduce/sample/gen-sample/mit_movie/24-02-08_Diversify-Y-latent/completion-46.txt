@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with Rosamund Pike that has an 80% approval rating?"
+Named Entities: [Rosamund Pike (Actor), 80% approval rating (Viewers' Rating)]
+
+2. "Show me a movie featuring Lupita Nyong'o that was released in the 2010s"
+Named Entities: [Lupita Nyong'o (Actor), 2010s (Year)]
+
+3. "What is the genre of the film directed by NR and released in 2020?"
+Named Entities: [NR (Director), 2020 (Year)]

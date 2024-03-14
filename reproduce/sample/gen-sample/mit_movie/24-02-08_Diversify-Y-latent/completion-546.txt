@@ -1,0 +1,8 @@
+1. "What is the plot of Lars von Trier's latest movie?"
+   Named Entities: [Lars von Trier (Director)]
+
+2. "Can you recommend a movie with a beautiful orchestral arrangement?"
+   Named Entities: [Orchestral arrangement (Song)]
+
+3. "Are there any movies rated GP from the 1970s that are worth watching?"
+   Named Entities: [GP (MPAA Rating), 1970s (Year), worth watching (Viewers' Rating)]

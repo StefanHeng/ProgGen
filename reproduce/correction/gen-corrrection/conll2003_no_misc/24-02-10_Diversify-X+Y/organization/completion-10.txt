@@ -1,0 +1,11 @@
+1. Sentence: "JAXA's {{Hayabusa2}} spacecraft returns to Earth with samples from asteroid Ryugu."
+Text Span: "Hayabusa2"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "New study shows {{McDonald's}} is the most popular fast food chain in the U.S."
+Text Span: "McDonald's"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{Real Madrid}} clinches victory in the final minutes of the match."
+Text Span: "Real Madrid"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,11 @@
+1. Sentence: "The discovery of Leonardo da Vinci's long-lost painting, {{Salvator Mundi}}, sparked a global sensation in the art world, fetching a record-breaking price at auction."
+Text Span: "Salvator Mundi"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{IBM Corporation}} to open new research center in Taipei, Taiwan, focusing on artificial intelligence and advanced cybersecurity."
+Text Span: "IBM Corporation"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Meet the astronaut who will be conducting groundbreaking research for {{IBM}} on The International Space Station."
+Text Span: "IBM"
+Label: (A). The span is a named entity of type organization

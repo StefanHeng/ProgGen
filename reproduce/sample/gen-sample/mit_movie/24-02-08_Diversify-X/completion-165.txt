@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any action movies with a strong female lead from the 2000s?"
+Named Entities: [action (Genre), strong female lead (Character), 2000s (Year)]
+
+2. Query: "What's a good coming-of-age film that deals with LGBTQ+ themes?"
+Named Entities: [coming-of-age (Genre), LGBTQ+ (Genre)]
+
+3. Query: "I'm looking for a romantic comedy with a diverse cast, preferably released in the last five years."
+Named Entities: [romantic comedy (Genre), diverse cast (Character), last five years (Year)]

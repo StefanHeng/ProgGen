@@ -1,0 +1,44 @@
+1. "What is the title of the movie directed by Steven Spielberg and rated R"
+Named Entities: [Steven Spielberg (Director), R (MPAA Rating)]
+
+2. "I want to watch a romantic movie from the 1990s"
+Named Entities: [romantic (Genre), 1990s (Year)]
+
+3. "Who are the actors in the movie Pulp Fiction"
+Named Entities: [Pulp Fiction (Title), actors (Actor)]
+
+4. "Can you tell me the plot of the film The Matrix"
+Named Entities: [The Matrix (Title), plot (Plot)]
+
+5. "Is there a trailer for the latest James Bond movie"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+6. "What is the viewers' rating for The Shawshank Redemption"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+7. "I'm looking for a horror movie directed by Wes Craven"
+Named Entities: [horror (Genre), Wes Craven (Director)]
+
+8. "Is there a song that represents the movie Titanic"
+Named Entities: [Titanic (Title), song (Song)]
+
+9. "Can you recommend a family-friendly film from the 1980s"
+Named Entities: [family-friendly (Genre), 1980s (Year)]
+
+10. "Tell me about the movie Inception"
+Named Entities: [Inception (Title)]
+
+11. "What is the MPAA rating for Schindler's List"
+Named Entities: [Schindler's List (Title), MPAA rating (MPAA Rating)]
+
+12. "I heard that the actress Sandra Bullock is in a popular romantic comedy, what's the title?"
+Named Entities: [Sandra Bullock (Actor), romantic comedy (Genre), popular (Viewers' Rating)]
+
+13. "I want to watch a crime film with Al Pacino"
+Named Entities: [crime (Genre), Al Pacino (Actor)]
+
+14. "Can you recommend a fantasy movie from the 2000s"
+Named Entities: [fantasy (Genre), 2000s (Year)]
+
+15. "Who is the main character in the Star Wars series"
+Named Entities: [main character (Character), Star Wars (Title)]

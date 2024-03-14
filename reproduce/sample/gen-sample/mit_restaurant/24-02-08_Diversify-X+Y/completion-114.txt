@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with private dining options?"
+Named Entities: [fine dining (Amenity), private dining (Amenity)]
+
+Query: "I'm looking for a place for a special occasion dinner, maybe with private dining?"
+Named Entities: [special occasion (Amenity), private dining (Amenity)]
+
+Query: "I need a reservation for a fine dining experience with private dining available, perhaps at Le Pigeon."
+Named Entities: [fine dining (Amenity), private dining (Amenity), Le Pigeon (Restaurant Name)]

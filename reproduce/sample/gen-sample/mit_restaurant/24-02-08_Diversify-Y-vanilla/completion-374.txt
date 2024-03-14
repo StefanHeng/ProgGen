@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good Italian restaurant in the [Over west] area?"
+   Named Entities: [Italian (Cuisine), [Over west] (Location)]
+
+2. Query: "What's the price range for sushi at the restaurant [Sakura]?"
+   Named Entities: [sushi (Dish), [Sakura] (Restaurant Name)]
+
+3. Query: "Do you know any Thai restaurants with outdoor seating?"
+   Named Entities: [Thai (Cuisine), outdoor seating (Amenity)]

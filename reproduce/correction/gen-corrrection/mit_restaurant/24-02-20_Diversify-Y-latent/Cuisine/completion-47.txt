@@ -1,0 +1,8 @@
+1. Text Span: "vegan-friendly"
+Label: (C). The correct entity type is Amenity.
+
+2. Text Span: "Italian"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "vegan"
+Label: (A). Correct Entity Annotation.

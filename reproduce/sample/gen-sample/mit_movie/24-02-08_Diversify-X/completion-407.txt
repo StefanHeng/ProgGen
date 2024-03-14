@@ -1,0 +1,8 @@
+1. Query: "I'm bored, can you tell me which movie won the most Oscars?"
+Named Entities: [most Oscars (Awards)]
+
+2. Query: "I need something to watch, what movie received the most nominations at the Golden Globes?"
+Named Entities: [received the most nominations (Awards), Golden Globes (Awards)]
+
+3. Query: "I'm looking for a highly acclaimed film, can you recommend a movie that won Best Picture at the Academy Awards?"
+Named Entities: [highly acclaimed (Viewers' Rating), Best Picture (Awards), Academy Awards (Awards)]

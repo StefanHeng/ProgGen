@@ -1,0 +1,8 @@
+Query: "can you recommend any top-rated action movies from 1956-1957"
+Named Entities: [1956-1957 (Year), action (Genre), top-rated (Viewers' Rating)]
+
+Query: "show me the trailer for The Terminator"
+Named Entities: [The Terminator (Title), trailer (Trailer)]
+
+Query: "what is the plot of the movie The Terminator"
+Named Entities: [The Terminator (Title), plot (Plot)]

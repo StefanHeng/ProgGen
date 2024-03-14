@@ -1,0 +1,8 @@
+Query: "Where can I find the Mediterranean Mezze Truck?"
+Named Entities: [Mediterranean Mezze Truck (Restaurant Name)]
+
+Query: "What are the hours of the Mediterranean Mezze Truck?"
+Named Entities: [Mediterranean Mezze Truck (Restaurant Name), hours (Hours)]
+
+Query: "Can I get a recommendation for a dish at the Mediterranean Mezze Truck?"
+Named Entities: [Mediterranean Mezze Truck (Restaurant Name), dish (Dish)]

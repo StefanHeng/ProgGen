@@ -1,0 +1,8 @@
+Query: "Can you recommend a Spanish restaurant with upscale and elegant ambience for dinner tonight?"
+Named Entities: [Spanish (Cuisine), dinner (Meal Category)]
+
+Query: "I'm looking for a restaurant with upscale ambience and dinner hours serving Spanish cuisine."
+Named Entities: [upscale and elegant ambience (Amenity), Spanish (Cuisine), dinner hours (Hours)]
+
+Query: "Where can I find an upscale restaurant with dinner hours that serves Spanish cuisine?"
+Named Entities: [upscale (Amenity), dinner hours (Hours), Spanish (Cuisine)]

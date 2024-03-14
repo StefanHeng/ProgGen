@@ -1,0 +1,8 @@
+1. "Can you recommend any movies released between 1995-1997 with a viewers' rating of 4 out of 5 stars?"
+Named Entities: [1995-1997 (Year), 4 out of 5 stars (Viewers' Rating)]
+
+2. "I'm in the mood for a musical comedy, can you suggest any such movies?"
+Named Entities: [musical comedy (Genre)]
+
+3. "Could you recommend an awe-inspiring gangster film directed by Orson Welles?"
+Named Entities: [awe-inspiring (Review), gangster (Genre), Orson Welles (Director)]

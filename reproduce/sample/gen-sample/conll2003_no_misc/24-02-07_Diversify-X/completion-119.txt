@@ -1,0 +1,8 @@
+1. "Senator Smith proposes new tax reform bill."
+Named Entities: [Senator Smith (person)]
+
+2. "The White House announces a new trade agreement with Mexico."
+Named Entities: [White House (organization), Mexico (location)]
+
+3. "Prime Minister Johnson delivers a speech on national security."
+Named Entities: [Prime Minister Johnson (person)]

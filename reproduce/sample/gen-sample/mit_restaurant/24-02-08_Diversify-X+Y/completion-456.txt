@@ -1,0 +1,8 @@
+1. "Can you recommend any BBQ places near here with outdoor seating?"
+Named Entities: [BBQ (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm looking for an Italian restaurant with a cozy atmosphere and good coffee. Any suggestions?"
+Named Entities: [Italian (Cuisine), cozy atmosphere (Amenity)]
+
+3. "Do you know of any amazing café with a pet-friendly patio in the downtown area?"
+Named Entities: [Amazing café (Restaurant Name), pet-friendly patio (Amenity), downtown area (Location)]

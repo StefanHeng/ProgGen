@@ -1,0 +1,8 @@
+1. "Can you recommend a Tanzanian restaurant with outdoor seating and a high rating?"
+Named Entities: [Tanzanian (Cuisine), outdoor seating (Amenity), high rating (Rating)]
+
+2. "I'm craving Tanzanian food, can you suggest a place with live music and a diverse menu?"
+Named Entities: [Tanzanian (Cuisine), live music (Amenity), diverse menu (Amenity)]
+
+3. "I need to find a Tanzanian restaurant with delivery service and affordable prices."
+Named Entities: [Tanzanian (Cuisine), delivery service (Amenity), affordable prices (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a good biography movie from the 1950s that is considered a must see?"
+   Named Entities: [biography (Genre), 1950s (Year), must see (Viewers' Rating)]
+
+2. "Show me a vampire movie with a plot that is not uninspired"
+   Named Entities: [vampire (Genre), uninspired (Review)]
+
+3. "Is there a just okay movie directed by Tim Burton that I can watch a trailer for?"
+   Named Entities: [just okay (Viewers' Rating), Tim Burton (Director), trailer (Trailer)]

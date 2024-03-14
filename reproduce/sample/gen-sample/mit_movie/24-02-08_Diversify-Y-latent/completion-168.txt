@@ -1,0 +1,8 @@
+1. Query: "Can I watch a preview of the new Jurassic Park movie?"
+   Named Entities: [preview (Trailer), Jurassic Park (Title)]
+
+2. Query: "I'm looking for an engaging PG-13 movie, similar to The Lion King."
+   Named Entities: [engaging (Viewers' Rating), PG-13 (MPAA Rating), The Lion King (Title)]
+
+3. Query: "Where can I find an action sequences analysis of Spider-Man, which is rated PG?"
+   Named Entities: [action sequences analysis (Review), Spider-Man (Title), PG (MPAA Rating)]

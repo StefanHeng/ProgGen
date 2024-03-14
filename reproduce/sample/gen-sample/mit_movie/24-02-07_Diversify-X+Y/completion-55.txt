@@ -1,0 +1,8 @@
+1. "Who directed the making-of documentary for Star Wars and what year did it come out?"
+Named Entities: [Star Wars (Title), making-of documentary (Plot), George Lucas (Director)]
+
+2. "I'm looking for a film that features the song Can't Stop the Feeling. Can you find one for me?"
+Named Entities: [Can't Stop the Feeling (Song)]
+
+3. "What is the MPAA rating for the behind-the-scenes movie about the making of Titanic?"
+Named Entities: [behind-the-scenes movie (Plot), Titanic (Title), MPAA rating (MPAA Rating)]

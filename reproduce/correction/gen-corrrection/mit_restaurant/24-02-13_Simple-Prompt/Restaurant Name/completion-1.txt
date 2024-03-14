@@ -1,0 +1,11 @@
+1. Query: "What's the average cost of a meal at the {{steakhouse}} downtown?"
+Text Span: "steakhouse"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "I'm in the mood for some pho, where's the closest Vietnamese {{restaurant}}?"
+Text Span: "Vietnamese restaurant"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Query: "I'd like to reserve a table at {{Olive Garden}} for tonight"
+Text Span: "Olive Garden"
+Label: (A). Correct Entity Annotation.

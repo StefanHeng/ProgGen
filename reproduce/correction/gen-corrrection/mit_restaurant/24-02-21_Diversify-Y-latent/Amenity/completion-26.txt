@@ -1,0 +1,8 @@
+1. Text Span: "kids menu"
+   Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "restaurant"
+   Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "restaurant with outdoor seating and a view of the ocean."
+
+3. Text Span: "Bargain"
+   Label: (C). The span is a named entity but the category is not amenity. The correct entity type is Price.

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie that features a truly special performance by Queen?"
+Named Entities: [truly special (Viewers' Rating), Queen (Actor), Great performance (Review)]
+
+2. "What is the best movie that came out in the year 1997?"
+Named Entities: [1997 (Year)]
+
+3. "Show me a movie trailer for the latest James Bond film."
+Named Entities: [latest (Year), James Bond (Character)]

@@ -1,0 +1,8 @@
+Query: "Where can I find a place for breakfast specials with delicious scones?"
+Named Entities: [breakfast specials (Amenity), scones (Dish)]
+
+Query: "I'm looking for a restaurant with breakfast discounts and a variety of quiche options"
+Named Entities: [breakfast discounts (Amenity), quiche (Dish)]
+
+Query: "Can you recommend a place with great deals for breakfast and excellent scones?"
+Named Entities: [great deals (Amenity), breakfast (Cuisine), scones (Dish)]

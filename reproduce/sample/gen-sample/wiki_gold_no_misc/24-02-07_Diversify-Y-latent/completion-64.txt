@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The World Health Organization is a specialized agency of the United Nations responsible for international public health."
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+Sentence: "She won the Nobel Peace Prize in 2014 for her struggle against the suppression of children and young people and for the right of all children to education."
+Named Entities: [Nobel Peace Prize (organization)]

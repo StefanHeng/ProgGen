@@ -1,0 +1,8 @@
+1. Query: "Are there any movies with rave reviews featuring Jason Momoa"
+   Named Entities: [rave reviews (Review), Jason Momoa (Actor)]
+
+2. Query: "Show me an action movie rated M or PG with a strong female lead"
+   Named Entities: [action (Genre), M/PG (MPAA Rating), strong female lead (Character)]
+
+3. Query: "What is the most recent film directed by Christopher Nolan"
+   Named Entities: [Christopher Nolan (Director)]

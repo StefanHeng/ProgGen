@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Lebanese cuisine, where is the best place to go?"
+Named Entities: [Lebanese (Cuisine)]
+
+Query: "show me the highest rated Lebanese restaurants in the area"
+Named Entities: [Lebanese (Cuisine), highest rated (Rating), area (Location)]
+
+Query: "what are the operating hours for Lebanese Grill?"
+Named Entities: [Lebanese Grill (Restaurant Name), operating hours (Hours)]

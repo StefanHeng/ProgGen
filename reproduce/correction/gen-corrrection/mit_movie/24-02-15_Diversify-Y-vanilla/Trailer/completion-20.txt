@@ -1,0 +1,11 @@
+1. Query: "Do you have an {{Extended preview}} of the film where Martin Riggs is a character?"
+Text Span: "Extended preview"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: Preview
+
+2. Query: "show me a {{trailer}} for a classic film directed by alfred hitchcock Music "
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you give me a {{Glimpse}} of the evocative movie All You Need Is Love?"
+Text Span: "Glimpse"
+Label: (D). The span is not a named entity.

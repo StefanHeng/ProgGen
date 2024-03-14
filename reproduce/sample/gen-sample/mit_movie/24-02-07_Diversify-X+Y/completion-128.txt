@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about any enthralling movies that have an R rating?"
+   Named Entities: [enthralling (Review), R (MPAA Rating)]
+
+2. Query: "I'm looking for information about the movie The Greatest Showman and the song Can't Stop the Feeling."
+   Named Entities: [The Greatest Showman (Title), Can't Stop the Feeling (Song)]
+
+3. Query: "Who directed the movie Superman and is Peeta Mellark in it?"
+   Named Entities: [Superman (Title), Kenneth Branagh (Director), Peeta Mellark (Character)]

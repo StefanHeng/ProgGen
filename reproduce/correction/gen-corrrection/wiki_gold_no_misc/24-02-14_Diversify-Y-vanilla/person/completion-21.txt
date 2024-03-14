@@ -1,0 +1,11 @@
+1. Sentence: "The Eiffel Tower was designed by Gustave {{Eiffel}} and his company's structural engineer, Maurice Koechlin."
+Text Span: "Eiffel"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "{{Marilyn Monroe}} was an American actress, model, and singer, who became a major sex symbol, starring in a number of commercially successful films during the 1950s and early 1960s."
+Text Span: "Marilyn Monroe"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "SpaceX, founded by {{Elon Musk}}, has become a major player in the aerospace industry."
+Text Span: "Elon Musk"
+Label: (A). The span is a named entity of type person

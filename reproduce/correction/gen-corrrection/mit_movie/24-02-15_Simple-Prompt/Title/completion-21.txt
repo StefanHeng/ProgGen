@@ -1,0 +1,11 @@
+1. Query: "What is the song that plays during the credits of {{Guardians of the Galaxy}}?"
+Text Span: "Guardians of the Galaxy"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: "what is the year of release for {{the sound of music}}"
+Text Span: "the sound of music"
+Label: (B). The span contains a named title entity but the span boundary is not precise. Correct span: "The Sound of Music"
+
+3. Query: "Can you tell me the director of the movie {{Inception}}?"
+Text Span: "Inception"
+Label: (A). The span is a named entity of type movie title

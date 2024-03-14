@@ -1,0 +1,8 @@
+1. "Can you recommend a screwball comedy directed by Martin Scorsese?" 
+   Named Entities: [screwball (Genre), Martin Scorsese (Director)]
+
+2. "What is the viewers' rating for the Steve McQueen movie 'Bullitt'?" 
+   Named Entities: [Steve McQueen (Actor), Bullitt (Title)]
+
+3. "Show me a trailer for the latest film featuring the song 'A Whole New World'" 
+   Named Entities: [A Whole New World (Song)]

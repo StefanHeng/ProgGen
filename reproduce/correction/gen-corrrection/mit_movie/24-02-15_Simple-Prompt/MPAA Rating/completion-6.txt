@@ -1,0 +1,11 @@
+1. Query: "is the movie the martian {{appropriate for kids}}"
+Text Span: "appropriate for kids"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Which {{MPAA rating}} is suitable for children"
+Text Span: "MPAA rating"
+Label: (D). Not a Named Entity
+
+3. Query: "please recommend a {{family-friendly}} fantasy film"
+Text Span: "family-friendly"
+Label: (C). Wrong Type. The correct entity type is Genre.

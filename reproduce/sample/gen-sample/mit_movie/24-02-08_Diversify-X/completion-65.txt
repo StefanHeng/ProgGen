@@ -1,0 +1,8 @@
+Query: "Can you recommend a heartwarming romance movie from the 90s with a strong female lead"
+Named Entities: [romance (Genre), 90s (Year), strong female lead (Character)]
+
+Query: "I'm looking for a feel-good drama film from the 80s that showcases family values"
+Named Entities: [feel-good (Viewers' Rating), drama (Genre), 80s (Year), family values (Plot)]
+
+Query: "What comedy movie directed by Nancy Meyers would you suggest for a girls' night out"
+Named Entities: [comedy (Genre), Nancy Meyers (Director), girls' night out (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a vegan menu and at least 4.5 stars?"
+Named Entities: [vegan (Cuisine), at least 4.5 stars (Rating)]
+
+2. "I'm craving sushi, do you know of any Japanese restaurants open after 10 p m?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), after 10 p m (Hours)]
+
+3. "I need to find a budget-friendly place for dinner, preferably under $15 per person."
+Named Entities: [budget-friendly (Price), under $15 per person (Price)]

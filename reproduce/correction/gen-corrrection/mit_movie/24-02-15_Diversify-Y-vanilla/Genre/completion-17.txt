@@ -1,0 +1,8 @@
+1. Text Span: "superhero"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "cult"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "zombie apocalypse"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "zombie apocalypse"

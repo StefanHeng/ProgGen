@@ -1,0 +1,8 @@
+1. Text Span: "When Harry Met Sally"
+Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "best film"
+Label: (C). The span is a named entity but the category is not movie title. The correct entity type is Other.
+
+3. Text Span: "The Silence of the Lambs"
+Label: (A). The span is a named entity of type movie title

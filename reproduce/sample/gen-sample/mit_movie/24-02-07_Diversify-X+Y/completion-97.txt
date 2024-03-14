@@ -1,0 +1,10 @@
+Here are three synthetic spoken queries related to movies:
+
+1. "Can you recommend any heart-wrenching animated movies from the past featuring forbidden love?"
+Named Entities: [heart-wrenching (Viewers' Rating), animated (Genre), forbidden love (Plot)]
+
+2. "I'm feeling nostalgic for a thought-provoking movie with Chris Pine. Any recommendations?"
+Named Entities: [Chris Pine (Actor), thought-provoking (Plot)]
+
+3. "Are there any unrated movies that fall into the subgenre of historical drama?"
+Named Entities: [unrated (MPAA Rating), historical drama (Genre)]

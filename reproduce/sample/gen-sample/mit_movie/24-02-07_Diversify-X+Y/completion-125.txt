@@ -1,0 +1,8 @@
+1. "Can you provide a plot summary for the movie featuring the song Unchained Melody?"
+Named Entities: [Unchained Melody (Song)]
+
+2. "Do you have any clips or a sizzle reel for a movie with Leonardo DiCaprio in a complex narrative?"
+Named Entities: [Leonardo DiCaprio (Actor), complex narrative (Plot), Clip (Trailer), Sizzle reel (Trailer)]
+
+3. "I'm interested in finding the plot synopsis for a Judd Apatow movie that includes the song You Can't Hurry Love."
+Named Entities: [Judd Apatow (Director), You Can't Hurry Love (Song), plot synopsis (Plot)]

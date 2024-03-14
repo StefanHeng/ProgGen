@@ -1,0 +1,8 @@
+Query: "where is the nearest food truck that serves tacos"
+Named Entities: [nearest (Location), food truck (Amenity), tacos (Dish)]
+
+Query: "what food trucks in the area are known for their barbecue"
+Named Entities: [area (Location), food trucks (Amenity), barbecue (Cuisine)]
+
+Query: "what time do the food trucks start serving breakfast"
+Named Entities: [start serving breakfast (Hours)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any Brazilian restaurants with late opening hours?"
+Named Entities: [Brazilian (Cuisine), late opening hours (Hours)]
+
+2. "I'm looking for a pricy dining experience, do you have any suggestions?"
+Named Entities: [pricy (Price)]
+
+3. "Find me a restaurant with flexible opening hours, preferably serving Brazilian cuisine."
+Named Entities: [flexible opening hours (Hours), Brazilian (Cuisine)]

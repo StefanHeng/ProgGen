@@ -1,0 +1,8 @@
+1. "Could you recommend a movie from the mobster underworld genre?"
+Named Entities: [mobster underworld (Genre)]
+
+2. "What's the viewers' rating for the movie Black Widow?"
+Named Entities: [Black Widow (Title)]
+
+3. "Is there a superb superhero movie that came out in 2010?"
+Named Entities: [superb (Viewers' Rating), superhero (Genre), 2010 (Year)]

@@ -1,0 +1,8 @@
+1. Text Span: "cozy spot"
+   Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "craft beer selection"
+   Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "dinner"
+   Label: (C). Wrong Type. The correct entity type is Hours.

@@ -1,0 +1,8 @@
+1. Query: "where can I find a delicious blueberry muffin for breakfast"
+   Named Entities: [delicious (Rating), blueberry muffin (Dish), breakfast (Amenity)]
+
+2. Query: "recommend a place with awesome breakfast options"
+   Named Entities: [awesome (Rating), breakfast (Amenity)]
+
+3. Query: "which restaurant serves the best egg muffin for breakfast"
+   Named Entities: [best (Rating), egg muffin (Dish), breakfast (Amenity)]

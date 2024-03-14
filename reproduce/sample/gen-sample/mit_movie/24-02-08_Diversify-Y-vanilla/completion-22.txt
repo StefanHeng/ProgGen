@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a fantasy movie similar to Beauty and the Beast?"
+Named Entities: [fantasy (Genre), Beauty and the Beast (Title)]
+
+2. Query: "Show me an adventure comedy with a high viewers' rating"
+Named Entities: [adventure comedy (Genre), high viewers' rating (Viewers' Rating)]
+
+3. Query: "What drama film did Emma Watson star in last year?"
+Named Entities: [drama (Genre), Emma Watson (Actor), last year (Year)]

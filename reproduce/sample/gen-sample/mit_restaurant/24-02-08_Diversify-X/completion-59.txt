@@ -1,0 +1,8 @@
+1. "Can you recommend any food trucks with a diverse menu in the downtown area?"
+Named Entities: [food trucks (Amenity), diverse menu (Amenity), downtown area (Location)]
+
+2. "What's a highly-rated food truck that serves vegetarian dishes near the park?"
+Named Entities: [highly-rated (Rating), food truck (Amenity), vegetarian dishes (Cuisine), near the park (Location)]
+
+3. "Where can I find a food truck with a budget-friendly menu open late at night?"
+Named Entities: [food truck (Amenity), budget-friendly (Price), open late at night (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "What kind of movie is To All the Boys I've Loved Before?"
+Named Entities: [To All the Boys I've Loved Before (Title)]
+
+2. Query: "Can you recommend a romantic comedy for me to watch with my friends?"
+Named Entities: [romantic comedy (Genre)]
+
+3. Query: "I heard about a movie called Crazy Rich Asians, what's it about?"
+Named Entities: [Crazy Rich Asians (Title)]

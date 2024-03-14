@@ -1,0 +1,32 @@
+// demos=[
+//     dict(sentence='The Prime Minister of Japan meets with world leaders to discuss economic cooperation.', entity_span='Japan', label=CORRECT),
+//     dict(sentence='Australian wildfires destroy acres of land.', entity_span='Australian', label=NA),
+//     dict(sentence='German Chancellor Angela Merkel meets with French President Macron.', entity_span='French', label=NA),
+// ]
+{"sentence": "The Prime Minister of Japan meets with world leaders to discuss economic cooperation.", "entity_span": "Japan", "label": "CORRECT"}
+{"sentence": "Australian wildfires destroy acres of land.", "entity_span": "Australian", "label": "NA"}
+{"sentence": "German Chancellor Angela Merkel meets with French President Macron.", "entity_span": "French", "label": "NA"}
+// dict(sentence='The Prime Minister of Japan meets with world leaders to discuss economic cooperation.', entity_span='Japan', label=CORRECT),
+// dict(sentence='Local high school marching band to perform at prestigious music festival.', entity_span='high school', label=NA),
+// dict(sentence='New restaurant to open in downtown area, bringing jobs and economic growth.', entity_span='downtown area', label=NA),
+// dict(sentence="Research reveals alarming levels of plastic pollution in the world's oceans, threatening marine life and ecosystems.", entity_span="world's oceans", label=NA)
+{"sentence": "The Prime Minister of Japan meets with world leaders to discuss economic cooperation.", "entity_span": "Japan", "label": "CORRECT"}
+{"sentence": "Local high school marching band to perform at prestigious music festival.", "entity_span": "high school", "label": "NA"}
+{"sentence": "New restaurant to open in downtown area, bringing jobs and economic growth.", "entity_span": "downtown area", "label": "NA"}
+{"sentence": "Research reveals alarming levels of plastic pollution in the world's oceans, threatening marine life and ecosystems.", "entity_span": "world's oceans", "label": "NA"}
+// dict(sentence='European Union imposes sanctions on Belarusian officials, prompting strong response from Sergey Lavrov.', entity_span='Belarusian', label=NA),
+// dict(sentence='The European Union imposes sanctions on Russian officials over human rights abuses.', entity_span='Russian', label=NA),
+// dict(sentence='Sydney native wins gold medal in swimming competition.', entity_span='Sydney', label=CORRECT),
+// dict(sentence="London Mayor Sadiq Khan responds to criticism over public transport funding.", entity_span="London", label=CORRECT)
+{"sentence": "European Union imposes sanctions on Belarusian officials, prompting strong response from Sergey Lavrov.", "entity_span": "Belarusian", "label": "NA"}
+{"sentence": "The European Union imposes sanctions on Russian officials over human rights abuses.", "entity_span": "Russian", "label": "NA"}
+{"sentence": "Sydney native wins gold medal in swimming competition.", "entity_span": "Sydney", "label": "CORRECT"}
+{"sentence": "London Mayor Sadiq Khan responds to criticism over public transport funding.", "entity_span": "London", "label": "CORRECT"}
+// dict(sentence='Celebrities flock to Paris Fashion Week for the latest trends.', entity_span='Paris Fashion Week', label=WRONG_SPAN, correct_span='Paris'),
+// dict(sentence='The mayor of Manchester delivers a speech at the town hall.', entity_span='Manchester', label=CORRECT),
+{"sentence": "Celebrities flock to Paris Fashion Week for the latest trends.", "entity_span": "Paris Fashion Week", "label": "WRONG_SPAN", "correct_span": "Paris"}
+{"sentence": "The mayor of Manchester delivers a speech at the town hall.", "entity_span": "Manchester", "label": "CORRECT"}
+// dict(sentence='Celebrities flock to Paris Fashion Week for the latest trends.', entity_span='Paris Fashion Week', label=WRONG_SPAN, correct_span='Paris'),
+// dict(sentence='The mayor of Manchester delivers a speech at the town hall.', entity_span='Manchester', label=CORRECT),
+{"sentence": "Celebrities flock to Paris Fashion Week for the latest trends.", "entity_span": "Paris Fashion Week", "label": "WRONG_SPAN", "correct_span": "Paris"}
+{"sentence": "The mayor of Manchester delivers a speech at the town hall.", "entity_span": "Manchester", "label": "CORRECT"}

@@ -1,0 +1,8 @@
+1. "Can you recommend the nearest Italian restaurant with outdoor seating?"
+Named Entities: [nearest (Location), Italian (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm craving some pizza, can you find a place that's open past 10 p m?"
+Named Entities: [pizza (Dish), past 10 p m (Hours)]
+
+3. "Could you suggest a high-rated restaurant in the area that serves seafood?"
+Named Entities: [high-rated (Rating), seafood (Cuisine)]

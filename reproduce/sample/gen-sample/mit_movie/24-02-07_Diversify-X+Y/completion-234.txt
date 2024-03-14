@@ -1,0 +1,8 @@
+1. "What is the genre of the movie that features a martial arts tournament?"
+Named Entities: [martial arts tournament (Plot)]
+
+2. "Can you recommend a subgenre of comedy similar to The Hangover?"
+Named Entities: [The Hangover (Title)]
+
+3. "I'm looking for a film directed by Roman Polanski and starring Scarlett Johansson, what genre does it belong to?"
+Named Entities: [Roman Polanski (Director), Scarlett Johansson (Actor)]

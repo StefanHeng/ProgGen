@@ -1,0 +1,8 @@
+Query: "I'm craving some eggs benedict, where can I get a good brunch around here"
+Named Entities: [eggs benedict (Dish), brunch (Amenity), around here (Location)]
+
+Query: "What are the top-rated brunch spots in the downtown area"
+Named Entities: [top-rated (Rating), brunch (Amenity), downtown area (Location)]
+
+Query: "Do you know any French restaurants that serve brunch before 11am"
+Named Entities: [French (Cuisine), brunch (Amenity), before 11am (Hours)]

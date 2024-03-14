@@ -1,0 +1,8 @@
+Query: "Can you recommend a Moroccan buffet restaurant with a high rating?"
+Named Entities: [Moroccan (Cuisine), buffet (Amenity), high rating (Rating)]
+
+Query: "What are the opening hours of the Moroccan buffet restaurant near me?"
+Named Entities: [Moroccan (Cuisine), buffet (Amenity), opening hours (Hours), near me (Location)]
+
+Query: "I'm looking for a budget-friendly Moroccan buffet place, do you have any suggestions?"
+Named Entities: [budget-friendly (Price), Moroccan (Cuisine), buffet (Amenity)]

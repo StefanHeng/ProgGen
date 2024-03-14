@@ -1,0 +1,8 @@
+1. "What are some upcoming releases that feature Jason Statham?"
+Named Entities: [Jason Statham (Actor), Upcoming releases (Genre)]
+
+2. "Can you recommend a movie about ocean exploration from the 2000s?"
+Named Entities: [ocean exploration (Genre), 2000s (Year)]
+
+3. "Who directed the film Tarzan?" 
+Named Entities: [Tarzan (Title)]

@@ -1,0 +1,8 @@
+1. Text Span: "luxurious"
+Label: (C). The span is a named entity but the category is not rating. Category: Amenity
+
+2. Text Span: "top-notch"
+Label: (A). The span is a named entity of type rating
+
+3. Text Span: "best"
+Label: (A). The span is a named entity of type rating

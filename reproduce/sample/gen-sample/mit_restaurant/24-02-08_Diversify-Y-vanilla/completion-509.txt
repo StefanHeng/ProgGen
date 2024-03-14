@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a wide tea selection and serving times before 5 p m"
+Named Entities: [wide tea selection (Amenity), before 5 p m (Hours), [Tea serving times]]
+
+2. "I'm craving some authentic Italian cuisine, do you know any place with pasta dishes and a cozy ambiance"
+Named Entities: [authentic Italian (Cuisine), pasta dishes (Dish)]
+
+3. "I'm looking for a budget-friendly restaurant with outdoor seating and open past 10 p m"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity), open past 10 p m (Hours)]

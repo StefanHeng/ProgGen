@@ -1,0 +1,8 @@
+Query: "what are the operating hours for pizza hut"
+Named Entities: [pizza hut (Restaurant Name), operating hours (Hours)]
+
+Query: "recommend me a restaurant with outdoor seating"
+Named Entities: [outdoor seating (Amenity)]
+
+Query: "I am craving sushi, where is the nearest sushi bar"
+Named Entities: [sushi (Cuisine), nearest (Location), sushi bar (Restaurant Name)]

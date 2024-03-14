@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly breakfast spot near Parkside Diner?"
+Named Entities: [budget-friendly (Price), breakfast (Meal category), Parkside Diner (Restaurant Name)]
+
+2. "Where can I grab a quick breakfast on a college campus with early hours?"
+Named Entities: [quick (Amenity), breakfast (Meal category), college campus (Location), early hours (Hours)]
+
+3. "I'm looking for a brunch & munch place that won't break the bank. Any suggestions?"
+Named Entities: [brunch & munch (Amenity), budget-friendly (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck specializing in tacos near the waterfront park?"
+Named Entities: [tacos (Dish), waterfront park (Location), food truck (Restaurant Type)]
+
+2. "What food trucks in the downtown area offer vegetarian options?"
+Named Entities: [vegetarian (Cuisine), downtown area (Location), food truck (Restaurant Type)]
+
+3. "Do you know of any food trucks with a high customer rating that are open late tonight?"
+Named Entities: [high customer rating (Rating), open late tonight (Hours), food truck (Restaurant Type)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a trendy café with outdoor seating in the downtown area?"
+Named Entities: [trendy (Amenity), outdoor seating (Amenity), downtown area (Location)]
+
+2. "I'm looking for a hip café serving brunch in the artsy district, what do you suggest?"
+Named Entities: [hip (Amenity), brunch (Cuisine), artsy district (Location)]
+
+3. "Where can I find a stylish café with vegan options and free WiFi in the city center?"
+Named Entities: [stylish (Amenity), vegan (Cuisine), free WiFi (Amenity), city center (Location)]

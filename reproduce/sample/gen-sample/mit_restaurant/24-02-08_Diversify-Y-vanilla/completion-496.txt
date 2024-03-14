@@ -1,0 +1,8 @@
+1. "What time does Eddie V's Prime Seafood close out tonight?"
+   Named Entities: [Eddie V's Prime Seafood (Restaurant Name), Closeout time (Hours)]
+
+2. "Are there any restaurants nearby with a happy hour menu?"
+   Named Entities: [happy hour (Amenity)]
+
+3. "Do you know a place where I can get a late-night snack?"
+   Named Entities: [late-night (Hours)]

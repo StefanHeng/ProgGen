@@ -1,0 +1,8 @@
+1. Text Span: "The Babadook"
+Label: (A). The span is a named entity of type title
+
+2. Text Span: "newest movie"
+Label: (C). The span is a named entity but the category is not title. Entity Type: other
+
+3. Text Span: "Children of Men"
+Label: (A). The span is a named entity of type title

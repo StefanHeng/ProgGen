@@ -1,0 +1,8 @@
+1. Text Span: "awards or nominations"
+Label: (D). Not a Named Entity
+
+2. Text Span: "outstanding reviews"
+Label: (A). Named Entity of type Review
+
+3. Text Span: "gripping"
+Label: (A). Named Entity of type Review

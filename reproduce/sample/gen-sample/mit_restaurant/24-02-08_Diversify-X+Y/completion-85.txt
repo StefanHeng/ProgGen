@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with outdoor seating in the vicinity of Atomix"
+Named Entities: [fine dining (Amenity), outdoor seating (Amenity), Atomix (Restaurant Name)]
+
+Query: "I'm looking for a fancy outdoor dining experience near Atomix. What are the options?"
+Named Entities: [fancy (Ambiance), outdoor dining (Amenity), Atomix (Restaurant Name)]
+
+Query: "Are there any high-end restaurants with patio dining close to Atomix?"
+Named Entities: [high-end (Price), patio dining (Amenity), Atomix (Restaurant Name)]

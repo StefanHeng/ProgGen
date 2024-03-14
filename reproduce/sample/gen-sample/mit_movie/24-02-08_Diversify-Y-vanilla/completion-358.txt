@@ -1,0 +1,8 @@
+1. "Could you show me the movie trailer for the latest film directed by J.J. Abrams with compelling performances?"
+   Named Entities: [J.J. Abrams (Director), Movie trailer (Trailer), Compelling performances (Review)]
+
+2. "What cult movie starring Tilda Swinton has a 9 out of 10 viewers' rating?"
+   Named Entities: [Tilda Swinton (Actor), Cult (Genre), 9 out of 10 (Viewers' Rating)]
+
+3. "When did Ang Lee direct the movie that is considered a masterpiece in the drama genre?"
+   Named Entities: [Ang Lee (Director), masterpiece (Review), drama (Genre)]

@@ -1,0 +1,59 @@
+1. "Apple announces launch of new iPhone."
+Named Entities: [Apple (organization)]
+
+2. "President Biden signs executive order on climate change."
+Named Entities: [President Biden (person)]
+
+3. "Earthquake hits Los Angeles, causing minor damages."
+Named Entities: [Los Angeles (location)]
+
+4. "Facebook to acquire virtual reality company for $2 billion."
+Named Entities: [Facebook (organization)]
+
+5. "Elon Musk's SpaceX to send astronauts to Mars by 2024."
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+6. "Tropical storm warning in effect for Florida coast."
+Named Entities: [Florida (location)]
+
+7. "Amazon faces antitrust investigation in Europe."
+Named Entities: [Amazon (organization), Europe (location)]
+
+8. "New York City to implement vaccine mandate for indoor activities."
+Named Entities: [New York City (location)]
+
+9. "CEO of Microsoft steps down amid controversy."
+Named Entities: [Microsoft (organization)]
+
+10. "Wildfire destroys homes in California."
+Named Entities: [California (location)]
+
+11. "Marie Curie's Nobel Prize medal sells for record-breaking price."
+Named Entities: [Marie Curie (person)]
+
+12. "Tokyo Olympics committee announces new COVID-19 protocols."
+Named Entities: [Tokyo (location)]
+
+13. "United Nations to hold emergency meeting on humanitarian crisis in Yemen."
+Named Entities: [United Nations (organization), Yemen (location)]
+
+14. "Johnson & Johnson faces lawsuit over opioid crisis."
+Named Entities: [Johnson & Johnson (organization)]
+
+15. "London Stock Exchange experiences record high trading volume."
+Named Entities: [London Stock Exchange (organization), London (location)]
+
+16. "Hollywood actress Jennifer Lawrence to star in new film."
+Named Entities: [Jennifer Lawrence (person), Hollywood (location)]
+
+17. "European Union introduces new regulations for plastic waste."
+Named Entities: [European Union (organization)]
+
+18. "Hurricane warning issued for Gulf Coast states."
+Named Entities: [Gulf Coast (location)]
+
+19. "Nobel Peace Prize awarded to climate activist Greta Thunberg."
+Named Entities: [Nobel Peace Prize (organization), Greta Thunberg (person)]
+
+20. "SpaceX rocket launch successful, delivers supplies to International Space Station."
+Named Entities: [SpaceX (organization), International Space Station (location)]

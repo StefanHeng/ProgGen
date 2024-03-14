@@ -1,0 +1,8 @@
+1. "I'm looking for a cozy restaurant with a charming atmosphere that serves a hearty breakfast"
+Named Entities: [cozy (Amenity), charming (Amenity), breakfast (Meal)]
+
+2. "Where can I find a quaint diner with a rustic feel that opens early for breakfast"
+Named Entities: [quaint (Amenity), rustic (Amenity), early (Hours), breakfast (Meal)]
+
+3. "Recommend me a local spot with a homey vibe and a satisfying morning menu"
+Named Entities: [local (Location), homey (Amenity), satisfying (Rating), morning (Hours), menu (Amenity)]

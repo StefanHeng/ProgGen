@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with the song Livin' on a Prayer in it?"
+   Named Entities: [Livin' on a Prayer (Song)]
+
+2. "Is Laura Dern starring in any courtroom drama films?"
+   Named Entities: [Laura Dern (Actor), courtroom drama (Genre)]
+
+3. "How many disaster movies were released in X year?"
+   Named Entities: [X (Year), disaster (Genre)]

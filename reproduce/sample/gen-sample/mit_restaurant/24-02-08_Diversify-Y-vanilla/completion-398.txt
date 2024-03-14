@@ -1,0 +1,8 @@
+1. "What's the best place to go for Eggplant parmesan?"
+   Named Entities: [Eggplant parmesan (Dish)]
+
+2. "I'm looking to have dinner at Twin Peaks Restaurant, where is the nearest location?"
+   Named Entities: [Twin Peaks Restaurant (Restaurant Name), nearest location (Location)]
+
+3. "Can you recommend a restaurant with a diverse menu and reasonable prices?"
+   Named Entities: [diverse menu (Amenity), reasonable prices (Price)]

@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where can I grab a burger and fries with a milkshake nearby?"
+Named Entities: [burger and fries (Dish), milkshake (Dish)]
+
+2. "I need a quick bite to eat during my lunch break, is there a fast food spot with outdoor seating around here?"
+Named Entities: [fast food (Cuisine), outdoor seating (Amenity)]
+
+3. "I'm on a tight budget, can you recommend a fast food joint with affordable options for a 35-year-old guy like me?"
+Named Entities: [affordable (Price), 35-year-old (Amenity)]

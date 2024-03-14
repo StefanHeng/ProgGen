@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant that serves a great breakfast for private dining"
+Named Entities: [great (Rating), breakfast (Cuisine), private dining (Amenity)]
+
+Query: "where can I have a private breakfast meeting"
+Named Entities: [private (Amenity), breakfast (Cuisine), meeting (Amenity)]
+
+Query: "find me a place with a fantastic breakfast value and private dining"
+Named Entities: [fantastic (Rating), breakfast (Cuisine), private dining (Amenity), breakfast value (Amenity)]

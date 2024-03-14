@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Titanic and what is the viewers' rating for it?"
+Named Entities: [Titanic (Title), viewers' rating (Viewers' Rating), directed (Director)]
+
+2. Query: "Can you recommend me a movie with Meryl Streep as the lead actor?"
+Named Entities: [Meryl Streep (Actor), lead actor (Character)]
+
+3. Query: "What is the plot of the film Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), plot (Plot), Christopher Nolan (Director)]

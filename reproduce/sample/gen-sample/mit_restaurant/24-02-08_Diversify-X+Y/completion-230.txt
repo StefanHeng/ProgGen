@@ -1,0 +1,8 @@
+Query: "can you recommend a mid-range buffet restaurant with budget-friendly prices and parking options?"
+Named Entities: [mid-range (Price), buffet (Amenity), budget-friendly (Price), parking options (Amenity)]
+
+Query: "what are the opening hours of a buffet restaurant with budget-friendly prices and parking options?"
+Named Entities: [opening hours (Hours), buffet (Amenity), budget-friendly (Price), parking options (Amenity)]
+
+Query: "i'm looking for a buffet restaurant with budget-friendly prices and accessible parking, can you help me find one?"
+Named Entities: [buffet (Amenity), budget-friendly (Price), parking (Amenity)]

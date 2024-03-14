@@ -1,0 +1,8 @@
+Sentence: "Miami is a major center, located on the Atlantic coast of South Florida."
+Named Entities: [Miami (location)]
+
+Sentence: "The University of Miami School of Law offers J.D., LL.M., and J.S.D. degrees in law."
+Named Entities: [University of Miami School of Law (organization)]
+
+Sentence: "The restaurant is famous for its Cuban-style espresso, as well as for its sandwiches, including the Cuban and medianoche."
+Named Entities: [Cuban (location), medianoche (organization)]

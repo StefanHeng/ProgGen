@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with Italian cuisine like Osteria Francescana?"
+Named Entities: [Italian (Cuisine), Osteria Francescana (Restaurant Name)]
+
+2. "What restaurants near me serve lunch hours past 2 pm?"
+Named Entities: [lunch hours (Hours)]
+
+3. "I want to find a place with a high rating for dinner, any suggestions?"
+Named Entities: [high (Rating), dinner (Amenity)]

@@ -1,0 +1,8 @@
+Query: "What is the highest rated movie of all time that is suitable for kids under 7?"
+Named Entities: [highest rated (Viewers' Rating), kids under 7 (MPAA Rating)]
+
+Query: "Can you recommend a hilarious comedy film from the 2010s?"
+Named Entities: [hilarious (Review), 2010s (Year), comedy (Genre)]
+
+Query: "I'm looking for a transcendent sci-fi movie with mind-blowing special effects"
+Named Entities: [transcendent (Review), sci-fi (Genre), mind-blowing (Plot)]

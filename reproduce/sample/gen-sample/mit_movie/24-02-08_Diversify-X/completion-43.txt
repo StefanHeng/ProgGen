@@ -1,0 +1,8 @@
+Query: "Could you show me the trailer for the latest James Bond film?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+Query: "I'm in the mood for something exciting! Can you recommend a movie with an action-packed teaser?"
+Named Entities: [exciting (Viewers' Rating), action-packed (Genre), teaser (Trailer)]
+
+Query: "I'm feeling really curious about the new animated film. Can you play a teaser for it?"
+Named Entities: [curious (Viewers' Rating), animated (Genre), teaser (Trailer)]

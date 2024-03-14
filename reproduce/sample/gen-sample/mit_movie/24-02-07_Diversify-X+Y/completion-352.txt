@@ -1,0 +1,8 @@
+1. Spoken Query: "Can I find any terrific revenge movies on any streaming platforms?"
+   Named Entities: [terrific (Viewers' Rating), revenge (Plot), streaming platforms (Entity Type)]
+
+2. Spoken Query: "I'm looking for a film montage, any recommendations on streaming platforms?"
+   Named Entities: [film montage (Plot), streaming platforms (Entity Type)]
+
+3. Spoken Query: "Are there any unrated movies available to stream?"
+   Named Entities: [unrated (MPAA Rating), streaming (Entity Type)]

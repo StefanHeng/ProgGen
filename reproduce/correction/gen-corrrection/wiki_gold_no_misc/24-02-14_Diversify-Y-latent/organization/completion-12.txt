@@ -1,0 +1,8 @@
+1. Text Span: "Versace"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Greek"
+Label: (C). Wrong Type. The correct entity type is location
+
+3. Text Span: "YouTubers"
+Label: (C). The span is a named entity but the category is not organization

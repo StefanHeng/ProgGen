@@ -1,0 +1,8 @@
+Query: "what are some Italian restaurants with outdoor seating"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "show me Thai restaurants that are open late"
+Named Entities: [Thai (Cuisine), open late (Hours)]
+
+Query: "I want to find a sushi place with high ratings and affordable prices"
+Named Entities: [sushi (Cuisine), high ratings (Rating), affordable prices (Price)]

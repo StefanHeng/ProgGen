@@ -1,0 +1,149 @@
+1. What is the highest grossing film directed by Christopher Nolan
+   Named Entities: [Christopher Nolan (Director), highest grossing (Viewers' Rating)]
+
+2. Who are the main characters in the movie Avatar
+   Named Entities: [Avatar (Title), main characters (Character)]
+
+3. Can you play the trailer for the movie Interstellar
+   Named Entities: [Interstellar (Title), trailer (Trailer)]
+
+4. Which movie did Quentin Tarantino direct in 1994
+   Named Entities: [Quentin Tarantino (Director), 1994 (Year)]
+
+5. What is the MPAA rating for The Dark Knight
+   Named Entities: [The Dark Knight (Title), MPAA rating (MPAA Rating)]
+
+6. I want to watch a romance movie from the 80s, any suggestions?
+   Named Entities: [romance (Genre), 80s (Year)]
+
+7. Can I see a list of comedy movies starring Jim Carrey
+   Named Entities: [comedy (Genre), Jim Carrey (Actor)]
+
+8. Please find me a review for the movie Inception
+   Named Entities: [Inception (Title), review (Review)]
+
+9. Show me the plot summary for The Shawshank Redemption
+   Named Entities: [The Shawshank Redemption (Title), plot summary (Plot)]
+
+10. Is The Matrix a science fiction movie
+   Named Entities: [The Matrix (Title), science fiction (Genre)]
+
+11. What is the name of the film that won Best Picture in 2019
+   Named Entities: [Best Picture (Viewers' Rating), 2019 (Year)]
+
+12. Who is the male lead in the movie Titanic
+   Named Entities: [Titanic (Title), male lead (Actor)]
+
+13. What is the title of the movie with the famous line "Here's looking at you, kid"
+   Named Entities: ["Here's looking at you, kid" (Character)]
+
+14. I'm in the mood for a classic film noir, any recommendations?
+   Named Entities: [classic film noir (Genre)]
+
+15. Can you recommend a good action movie from the 90s
+   Named Entities: [action (Genre), 90s (Year)]
+
+16. Which movie did Steven Spielberg direct that features dinosaurs
+   Named Entities: [Steven Spielberg (Director), dinosaurs (Character)]
+
+17. Play me a song from the soundtrack of Guardians of the Galaxy
+   Named Entities: [Guardians of the Galaxy (Title), soundtrack (Song)]
+
+18. What is the name of the character played by Heath Ledger in The Dark Knight
+   Named Entities: [Heath Ledger (Actor), The Dark Knight (Title), character (Character)]
+
+19. Can you tell me the viewers' rating for The Godfather
+   Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+20. How many movies were directed by Alfred Hitchcock in the 1950s
+   Named Entities: [Alfred Hitchcock (Director), 1950s (Year)]
+
+21. Show me a list of fantasy movies with a rating of at least 4 stars
+   Named Entities: [fantasy (Genre), 4 stars (Viewers' Rating)]
+
+22. Who is the director of the film The Shawshank Redemption
+   Named Entities: [The Shawshank Redemption (Title), director (Director)]
+
+23. Can you recommend a family-friendly film with a storyline about friendship
+   Named Entities: [family-friendly (Viewers' Rating), friendship (Plot)]
+
+24. What is your favorite movie with Tom Hanks as the lead actor
+   Named Entities: [Tom Hanks (Actor), lead actor (Character)]
+
+25. Show me a trailer for the latest Marvel movie
+   Named Entities: [Marvel (Title), latest (Year), trailer (Trailer)]
+
+26. What's the title of the movie that won the Academy Award for Best Animated Feature in 2020
+   Named Entities: [Academy Award for Best Animated Feature (Viewers' Rating), 2020 (Year)]
+
+27. Can I see a list of movies directed by Martin Scorsese
+   Named Entities: [Martin Scorsese (Director)]
+
+28. I want to watch a film with a strong female protagonist, any suggestions?
+   Named Entities: [strong female protagonist (Character)]
+
+29. Please show me a list of feel-good movies from the 2000s
+   Named Entities: [feel-good (Viewers' Rating), 2000s (Year)]
+
+30. What is the genre of the movie The Silence of the Lambs
+   Named Entities: [The Silence of the Lambs (Title), genre (Genre)]
+
+31. Can you tell me the year in which the movie Pulp Fiction was released
+   Named Entities: [Pulp Fiction (Title), released (Year)]
+
+32. I want to watch a thrilling film, preferably with Leonardo DiCaprio in it
+   Named Entities: [thrilling (Viewers' Rating), Leonardo DiCaprio (Actor)]
+
+33. Who wrote the screenplay for the movie Jurassic Park
+   Named Entities: [screenplay (Plot), Jurassic Park (Title)]
+
+34. Can you recommend a musical movie with a rating of at least 4 stars
+   Named Entities: [musical (Genre), 4 stars (Viewers' Rating)]
+
+35. When was the movie E.T. the Extra-Terrestrial released
+   Named Entities: [E.T. the Extra-Terrestrial (Title), released (Year)]
+
+36. I want to watch a comedy directed by Wes Anderson
+   Named Entities: [comedy (Genre), Wes Anderson (Director)]
+
+37. What is the MPAA rating for the movie Jaws
+   Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+
+38. Please find me a review for the film The Green Mile
+   Named Entities: [The Green Mile (Title), review (Review)]
+
+39. Can you play the song "Eye of the Tiger" from the movie Rocky
+   Named Entities: ["Eye of the Tiger" (Song), Rocky (Title)]
+
+40. What is the title of the movie that won Best Picture in 2021
+   Named Entities: [Best Picture (Viewers' Rating), 2021 (Year)]
+
+41. Who are the main leads in the romantic comedy Pretty Woman
+   Named Entities: [romantic comedy (Genre), Pretty Woman (Title), main leads (Character)]
+
+42. Can you recommend a horror movie from the 70s with a high rating
+   Named Entities: [horror (Genre), 70s (Year), high rating (Viewers' Rating)]
+
+43. Which movie did David Fincher direct that is based on a novel by Chuck Palahniuk
+   Named Entities: [David Fincher (Director), Chuck Palahniuk (Director)]
+
+44. Show me a trailer for the latest James Bond film
+   Named Entities: [James Bond (Title), latest (Year), trailer (Trailer)]
+
+45. What is the name of the character played by Johnny Depp in the Pirates of the Caribbean series
+   Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Title), character (Character)]
+
+46. Can you tell me the viewers' rating for the film The Shawshank Redemption
+   Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+47. How many movies were directed by Alfred Hitchcock in the 1960s
+   Named Entities: [Alfred Hitchcock (Director), 1960s (Year)]
+
+48. What is the genre of the movie The Usual Suspects
+   Named Entities: [The Usual Suspects (Title), genre (Genre)]
+
+49. Can you recommend a drama film with a powerful performance by Meryl Streep
+   Named Entities: [drama (Genre), powerful performance (Viewers' Rating), Meryl Streep (Actor)]
+
+50. Please show me a list of action movies from the 1990s
+   Named Entities: [action (Genre), 1990s (Year)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a drive-thru restaurant in the city center that serves lunch on weekends"
+Named Entities: [drive-thru (Amenity), city center (Location), lunch (Cuisine), weekends (Hours)]
+
+Query: "Which restaurants in the city center have drive-thru and are open for lunch on weekends?"
+Named Entities: [city center (Location), drive-thru (Amenity), lunch (Cuisine), weekends (Hours)]
+
+Query: "Can you recommend a restaurant with a drive-thru that operates during lunch hours in the city center?"
+Named Entities: [drive-thru (Amenity), lunch (Cuisine), city center (Location), Time of operations (Hours)]

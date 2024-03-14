@@ -1,0 +1,8 @@
+1. Text Span: "mid-range priced"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "won't break the bank"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "lunch"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

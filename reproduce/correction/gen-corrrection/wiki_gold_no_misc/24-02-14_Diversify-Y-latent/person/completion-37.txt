@@ -1,0 +1,11 @@
+1. Sentence: "{{Tina Brown}} served as the editor-in-chief of Vanity Fair and The New Yorker magazines."
+Text Span: "Tina Brown"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "The company was founded in 2000 by {{Jeff Bezos}} with the goal of reducing the cost of space travel and enabling the colonization of space."
+Text Span: "Jeff Bezos"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "As of 2021, the CEO of Boeing Space and Launch is {{Jim Chilton}} and the division is headquartered in Arlington, Virginia."
+Text Span: "Jim Chilton"
+Label: (A). The span is a named entity of type person

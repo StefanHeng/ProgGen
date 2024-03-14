@@ -1,0 +1,8 @@
+Query: "What is the overall rating for the movie To All the Boys I've Loved Before"
+Named Entities: [To All the Boys I've Loved Before (Title)]
+
+Query: "Can you recommend a coming-of-age movie with a strong female lead"
+Named Entities: [coming-of-age (Genre), strong female lead (Character)]
+
+Query: "Who directed the romantic comedy film with a high viewers' rating that came out last year"
+Named Entities: [romantic comedy (Genre), last year (Year), high viewers' rating (Viewers' Rating)]

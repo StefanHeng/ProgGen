@@ -1,0 +1,6 @@
+// Any temporal reference to a specific time of day or day of the week is a named Hours entity. Days of the week such as "Friday" and "Wednesday" are named Hours entities. Meal times such as "breakfast", "brunch", "lunch" and "dinner" are also named Hours entities.
+
+Any temporal reference to a specific time of day or day of the week is a named Hours entity. For example, "10PM", "Friday" and "late-night" are all named Hours entities.
+Days of the week such as "Friday" and "Wednesday" are named Hours entities. Meal times such as "breakfast", "brunch", "lunch" and "dinner" are also named Hours entities.
+A named Hours entity must not contain irrelevant terms such as "diner" or "reservation".
+Generic hours descriptors such as "hours-of-operation", "hours", "opening hours" and "operating hours" are not named entities.

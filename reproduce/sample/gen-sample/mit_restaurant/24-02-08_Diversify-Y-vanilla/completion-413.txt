@@ -1,0 +1,8 @@
+1. "I'm craving a sandwich, do you know any Subway locations nearby?"
+Named Entities: [Subway (Restaurant Name)]
+
+2. "I'm in the mood for some Asian cuisine, can you recommend a good place for noodles?"
+Named Entities: [Asian (Cuisine), noodles (Dish)]
+
+3. "I need to find a low-priced restaurant with a high rating, any suggestions?"
+Named Entities: [low-priced (Price), high rating (Rating)]

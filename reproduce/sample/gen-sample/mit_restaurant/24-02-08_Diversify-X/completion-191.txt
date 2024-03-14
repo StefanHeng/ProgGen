@@ -1,0 +1,8 @@
+1. "Can you recommend any upscale Italian restaurants for dinner with an urban/chic ambience?"
+Named Entities: [upscale (Price), Italian (Cuisine), dinner (Amenity), urban/chic (Amenity)]
+
+2. "What are some trendy sushi places with a hip atmosphere that are open until 10 pm?"
+Named Entities: [trendy (Rating), sushi (Cuisine), open until 10 pm (Hours), hip (Amenity)]
+
+3. "I'm looking for a modern fusion restaurant for dinner that offers a cool ambiance and is located downtown."
+Named Entities: [modern fusion (Cuisine), dinner (Amenity), cool (Amenity), downtown (Location)]

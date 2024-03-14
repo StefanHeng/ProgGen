@@ -1,0 +1,8 @@
+1. "London prepares for annual New Year's Eve fireworks display."
+Named Entities: [London (location)]
+
+2. "British Prime Minister announces new economic stimulus package."
+Named Entities: [British Prime Minister (person)]
+
+3. "Local organization holds charity fundraiser for homeless in [London]."
+Named Entities: [London (location), organization]

@@ -1,0 +1,8 @@
+1. "Can you recommend the best wheelchair accessible Italian restaurant in the area?"
+Named Entities: [Best (Rating), wheelchair accessible (Amenity), Italian (Cuisine)]
+
+2. "I'm looking for a 24-hour diner with a diverse menu, any suggestions?"
+Named Entities: [24-hour (Hours), diverse (Amenity)]
+
+3. "Where can I find a budget-friendly seafood place with outdoor seating?"
+Named Entities: [budget-friendly (Price), seafood (Cuisine), outdoor seating (Amenity)]

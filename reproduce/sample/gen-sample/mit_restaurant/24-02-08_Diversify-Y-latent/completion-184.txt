@@ -1,0 +1,8 @@
+1. "What are the restaurant hours for Pizza Hut?"
+Named Entities: [Pizza Hut (Restaurant Name), restaurant hours (Hours)]
+
+2. "I'm looking for a Mexican restaurant with outdoor seating"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]
+
+3. "Suggest a restaurant with a high rating and a location near the beach"
+Named Entities: [high rating (Rating), near the beach (Location)]

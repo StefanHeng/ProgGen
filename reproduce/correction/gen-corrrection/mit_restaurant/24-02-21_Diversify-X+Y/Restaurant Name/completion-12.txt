@@ -1,0 +1,11 @@
+1. Query: "What restaurants serve breakfast hours and are located near {{In-N-Out Burger}}?"
+Text Span: "In-N-Out Burger"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "I'm craving vegan food, can you recommend a {{night owl diner}} that offers takeout"
+Text Span: "night owl diner"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "Where can I find a {{food truck}} with outdoor seating and chef's specials?"
+Text Span: "food truck"
+Label: (C). The span is a named entity but the category is not restaurant name. The correct entity type is Cuisine.

@@ -1,0 +1,8 @@
+1. "Can you recommend a scenic restaurant with Argentine cuisine?"
+Named Entities: [Scenic (Amenity), Argentine (Cuisine)]
+
+2. "I'm looking for a restaurant with a good view and outdoor seating."
+Named Entities: [good (Rating), outdoor seating (Amenity)]
+
+3. "Where can I find a place with affordable Argentine dishes?"
+Named Entities: [affordable (Price), Argentine (Cuisine)]

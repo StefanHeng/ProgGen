@@ -1,0 +1,8 @@
+Sentence: The University of California is a public research university system in the U.S. state of California.
+Named Entities: [University of California (organization), U.S. (location), California (location)]
+
+Sentence: She traveled to Paris, where she visited the Louvre Museum.
+Named Entities: [Paris (location), Louvre Museum (organization)]
+
+Sentence: The company was founded by entrepreneur Elon Musk in 2002.
+Named Entities: [Elon Musk (person)]

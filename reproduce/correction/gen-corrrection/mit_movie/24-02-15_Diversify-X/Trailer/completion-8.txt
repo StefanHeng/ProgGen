@@ -1,0 +1,11 @@
+1. Query: "Which director is known for creating amazing movie {{teasers}}?"
+Text Span: "teasers"
+Label: (D). The span is not a named entity
+
+2. Query: "Can you show me the {{trailer}} for the latest Marvel movie?"
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "Show me the {{trailer}} for the latest Quentin Tarantino movie."
+Text Span: "trailer"
+Label: (A). The span is a named entity of type trailer

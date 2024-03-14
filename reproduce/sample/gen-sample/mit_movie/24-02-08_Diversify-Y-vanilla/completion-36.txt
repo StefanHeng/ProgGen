@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a comedy film directed by Stanley Donen?"
+   Named Entities: [Stanley Donen (Director), comedy (Genre)]
+
+2. Query: "What is the viewers' rating for the movie Singin' in the Rain directed by Stanley Donen?"
+   Named Entities: [Singin' in the Rain (Title), Stanley Donen (Director)]
+
+3. Query: "Who are the main actors in the film Charade, directed by Stanley Donen?"
+   Named Entities: [Charade (Title), Stanley Donen (Director), main actors (Actor)]

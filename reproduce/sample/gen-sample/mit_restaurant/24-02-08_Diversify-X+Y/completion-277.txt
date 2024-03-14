@@ -1,0 +1,10 @@
+
+
+1. Query: "I'm craving some brunch, where can I find a good place for eggs benedict?"
+Named Entities: [Brunch (Amenity), eggs benedict (Dish)]
+
+2. Query: "What's the best brunch spot in town for avocado toast and mimosas?"
+Named Entities: [Brunch (Amenity), avocado toast (Dish), mimosas (Dish)]
+
+3. Query: "I need a reservation for a fancy brunch with bottomless coffee and pastries"
+Named Entities: [Brunch (Amenity), fancy (Rating), bottomless coffee (Amenity), pastries (Dish)]

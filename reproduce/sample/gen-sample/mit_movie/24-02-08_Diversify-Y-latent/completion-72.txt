@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a period film starring John Cassavetes?"
+Named Entities: [period (Genre), John Cassavetes (Actor)]
+
+2. Query: "What year did Christian Bale star in the movie directed by Jafar?"
+Named Entities: [Christian Bale (Actor), Jafar (Director)]
+
+3. Query: "Show me a trailer for a movie with Christian Bale and period setting."
+Named Entities: [Christian Bale (Actor), period (Genre)]

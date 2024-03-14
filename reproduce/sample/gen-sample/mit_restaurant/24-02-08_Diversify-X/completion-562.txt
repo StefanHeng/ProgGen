@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant nearby with a good selection of vegetarian dishes for lunch takeout?"
+Named Entities: [vegetarian (Cuisine), lunch (Hours), takeout (Amenity)]
+
+2. "I'm craving some sushi for lunch, do you know a place with a high rating and affordable prices?"
+Named Entities: [sushi (Cuisine), lunch (Hours), high rating (Rating), affordable prices (Price)]
+
+3. "Where can I grab some quick and healthy lunch options around here?"
+Named Entities: [quick (Amenity), healthy (Amenity), lunch (Hours)]

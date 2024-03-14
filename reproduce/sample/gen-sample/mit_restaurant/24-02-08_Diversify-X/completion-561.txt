@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant that serves pescatarian breakfast options"
+Named Entities: [pescatarian (Amenity), breakfast (Meal Category)]
+
+2. "Can you recommend a place with a seafood breakfast menu for early risers?"
+Named Entities: [seafood (Cuisine), breakfast (Meal Category), early risers (Hours)]
+
+3. "I need a breakfast spot with a fish dish that opens before 8 am"
+Named Entities: [breakfast (Meal Category), fish dish (Dish), before 8 am (Hours)]

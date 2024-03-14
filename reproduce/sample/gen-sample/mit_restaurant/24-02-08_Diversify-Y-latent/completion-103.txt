@@ -1,0 +1,8 @@
+1. "Where can I find a good place for brunch that serves hash browns in midtown?"
+Named Entities: [good (Rating), brunch (Amenity), hash browns (Dish), midtown (Location)]
+
+2. "I'm looking for some expensive brunch restaurants in the area, any recommendations?"
+Named Entities: [expensive (Price), brunch (Amenity), restaurants (Amenity), the area (Location)]
+
+3. "Can you suggest a restaurant with a diverse cuisine options that is open late?"
+Named Entities: [diverse (Cuisine), open late (Hours)]

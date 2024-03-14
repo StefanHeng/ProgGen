@@ -1,0 +1,8 @@
+Query: "What are some quick service restaurants in the central area?"
+Named Entities: [Quick Service Restaurants (Amenity), Central (Location)]
+
+Query: "I'm craving some spicy Indian food, where is the nearest Indian restaurant?"
+Named Entities: [spicy (Cuisine), Indian (Cuisine), nearest (Location), Indian restaurant (Restaurant Name)]
+
+Query: "Can you recommend a place with a high rating that serves sushi?"
+Named Entities: [high rating (Rating), sushi (Cuisine)]

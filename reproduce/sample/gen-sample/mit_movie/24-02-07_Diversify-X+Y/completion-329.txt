@@ -1,0 +1,8 @@
+1. "Can you tell me about the director and plot of the movie decent, which stars Sean Penn?"
+Named Entities: [decent (Title), Sean Penn (Actor)]
+
+2. "I'm curious about any behind-the-scenes trivia for a movie featuring Sean Penn, can you help?"
+Named Entities: [Sean Penn (Actor)]
+
+3. "Do you have any information on the making-of details for a decent film directed by Sean Penn?"
+Named Entities: [decent (Title), Sean Penn (Director)]

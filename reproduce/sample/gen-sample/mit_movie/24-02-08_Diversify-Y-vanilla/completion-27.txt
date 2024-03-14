@@ -1,0 +1,8 @@
+1. "Can you recommend a terrific romantic comedy mishaps movie?"
+Named Entities: [terrific (Viewers' Rating), romantic comedy mishaps (Genre)]
+
+2. "I'm looking for the theatrical trailer of a Tony Stark movie"
+Named Entities: [theatrical trailer (Trailer), Tony Stark (Character)]
+
+3. "Is there a movie with an alien character that came out in the 2000s?"
+Named Entities: [alien (Character), 2000s (Year)]

@@ -1,0 +1,149 @@
+1. What is the viewers' rating for the movie Inception
+   Named Entities: [Inception (Title)]
+
+2. Who directed The Dark Knight Rises
+   Named Entities: [The Dark Knight Rises (Title)]
+
+3. Show me a movie from the 1990s
+   Named Entities: [1990s (Year)]
+
+4. Can you recommend a good horror movie
+   Named Entities: [horror (Genre)]
+
+5. What movie features Leonardo DiCaprio
+   Named Entities: [Leonardo DiCaprio (Actor)]
+
+6. What is the plot of the movie The Shawshank Redemption
+   Named Entities: [The Shawshank Redemption (Title)]
+
+7. Can you find a trailer for the movie Avatar
+   Named Entities: [Avatar (Title), trailer (Trailer)]
+
+8. What is the MPAA rating for The Matrix
+   Named Entities: [The Matrix (Title), MPAA rating (MPAA Rating)]
+
+9. Recommend a movie with a strong female lead
+   Named Entities: [strong female lead (Character)]
+
+10. Who is the director of the film Titanic
+    Named Entities: [Titanic (Title)]
+
+11. What is the song featured in the movie A Star is Born
+    Named Entities: [A Star is Born (Title), song (Song)]
+
+12. I want to watch a comedy from the 2000s
+    Named Entities: [comedy (Genre), 2000s (Year)]
+
+13. What is the viewers' rating for The Godfather
+    Named Entities: [The Godfather (Title)]
+
+14. Can I get a review for the movie The Silence of the Lambs
+    Named Entities: [The Silence of the Lambs (Title), review (Review)]
+
+15. Are there any movies directed by Christopher Nolan
+    Named Entities: [Christopher Nolan (Director)]
+
+16. What movie is known for its incredible visual effects
+    Named Entities: [incredible visual effects (Review)]
+
+17. Show me a movie featuring Brad Pitt
+    Named Entities: [Brad Pitt (Actor)]
+
+18. Can you provide information about the film Fight Club
+    Named Entities: [Fight Club (Title)]
+
+19. What is the plot of the movie Gone with the Wind
+    Named Entities: [Gone with the Wind (Title)]
+
+20. What is the MPAA rating for the movie The Lion King
+    Named Entities: [The Lion King (Title), MPAA rating (MPAA Rating)]
+
+21. Recommend a movie with a strong female lead
+    Named Entities: [strong female lead (Character)]
+
+22. Who is the director of the film The Departed
+    Named Entities: [The Departed (Title)]
+
+23. What is the song featured in the movie Top Gun
+    Named Entities: [Top Gun (Title), song (Song)]
+
+24. I want to watch a comedy from the 1990s
+    Named Entities: [comedy (Genre), 1990s (Year)]
+
+25. What is the viewers' rating for The Shawshank Redemption
+    Named Entities: [The Shawshank Redemption (Title)]
+
+26. Can I get a review for the movie The Godfather
+    Named Entities: [The Godfather (Title), review (Review)]
+
+27. Are there any movies directed by Quentin Tarantino
+    Named Entities: [Quentin Tarantino (Director)]
+
+28. What movie is known for its incredible plot twist
+    Named Entities: [incredible plot twist (Review)]
+
+29. Show me a movie featuring Meryl Streep
+    Named Entities: [Meryl Streep (Actor)]
+
+30. Can you provide information about the film The Matrix
+    Named Entities: [The Matrix (Title)]
+
+31. What is the plot of the movie The Wizard of Oz
+    Named Entities: [The Wizard of Oz (Title)]
+
+32. What is the MPAA rating for the movie Jaws
+    Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+
+33. Recommend a movie with a strong male lead
+    Named Entities: [strong male lead (Character)]
+
+34. Who is the director of the film Pulp Fiction
+    Named Entities: [Pulp Fiction (Title)]
+
+35. What is the song featured in the movie Dirty Dancing
+    Named Entities: [Dirty Dancing (Title), song (Song)]
+
+36. I want to watch a drama from the 2010s
+    Named Entities: [drama (Genre), 2010s (Year)]
+
+37. What is the viewers' rating for The Dark Knight
+    Named Entities: [The Dark Knight (Title)]
+
+38. Can I get a review for the movie The Shining
+    Named Entities: [The Shining (Title), review (Review)]
+
+39. Are there any movies directed by Steven Spielberg
+    Named Entities: [Steven Spielberg (Director)]
+
+40. What movie is known for its incredible cinematography
+    Named Entities: [incredible cinematography (Review)]
+
+41. Show me a movie featuring Tom Hanks
+    Named Entities: [Tom Hanks (Actor)]
+
+42. Can you provide information about the film The Godfather
+    Named Entities: [The Godfather (Title)]
+
+43. What is the plot of the movie Casablanca
+    Named Entities: [Casablanca (Title)]
+
+44. What is the MPAA rating for the movie The Exorcist
+    Named Entities: [The Exorcist (Title), MPAA rating (MPAA Rating)]
+
+45. Recommend a movie with a strong female lead
+    Named Entities: [strong female lead (Character)]
+
+46. Who is the director of the film Schindler's List
+    Named Entities: [Schindler's List (Title)]
+
+47. What is the song featured in the movie The Sound of Music
+    Named Entities: [The Sound of Music (Title), song (Song)]
+
+48. I want to watch a comedy from the 1980s
+    Named Entities: [comedy (Genre), 1980s (Year)]
+
+49. What is the viewers' rating for The Avengers
+    Named Entities: [The Avengers (Title)]
+
+50. Can I get a review for the movie Psycho
+    Named Entities: [Psycho (Title), review (Review)]

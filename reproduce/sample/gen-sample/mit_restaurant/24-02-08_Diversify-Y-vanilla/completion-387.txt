@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a 4-star rating near the beach?"
+Named Entities: [4-star (Rating), beach (Location)]
+
+2. "I'm craving some authentic Chinese cuisine, preferably under $15 per person."
+Named Entities: [authentic Chinese (Cuisine), under $15 per person (Price)]
+
+3. "Find us a place with outdoor seating and a view of the city for The 50 Best Discovery rating."
+Named Entities: [outdoor seating (Amenity), city (Location), The 50 Best Discovery rating (Rating)]

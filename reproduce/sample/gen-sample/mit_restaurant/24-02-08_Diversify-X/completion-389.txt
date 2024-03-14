@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant that serves a good low-carb breakfast"
+Named Entities: [low-carb (Dietary Restriction), breakfast (Meal Category)]
+
+Query: "find me a nearby place with a healthy breakfast menu"
+Named Entities: [nearby (Location), healthy (Amenity), breakfast (Meal Category)]
+
+Query: "I need to grab a quick bite for breakfast, any suggestions?"
+Named Entities: [quick (Amenity), breakfast (Meal Category)]

@@ -1,0 +1,8 @@
+Query: "recommend a good Korean restaurant with a 5-star rating"
+Named Entities: [Korean (Cuisine), 5-star (Rating)]
+
+Query: "what time does the Korean BBQ place open tomorrow"
+Named Entities: [Korean BBQ (Cuisine), tomorrow (Hours)]
+
+Query: "show me a nearby restaurant serving Korean dishes within 20 dollars"
+Named Entities: [Korean (Cuisine), nearby (Location), within 20 dollars (Price)]

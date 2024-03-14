@@ -1,0 +1,8 @@
+1. "Can you tell me the genre and subgenre classification of the movie 'Not Rated'?"
+   Named Entities: ['Not Rated' (Title), genre and subgenre (Genre)]
+
+2. "What type of movie is 'Classic Adventure' and when was it released?"
+   Named Entities: ['Classic Adventure' (Title), released (Year)]
+
+3. "Could you show me some movies with an innovative and innovative subgenre type, like the one with the character Scar from 1987?"
+   Named Entities: [innovative (Genre), innovative subgenre type (Genre), Scar (Character), 1987 (Year)]

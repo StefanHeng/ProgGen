@@ -1,0 +1,8 @@
+1. "Where can I find a [IHOP] in this area?"
+Named Entities: [IHOP (Restaurant Name)]
+
+2. "I'm craving some good [pancakes], where can I get some?"
+Named Entities: [pancakes (Dish)]
+
+3. "Which restaurants have a [brunch] on the menu?"
+Named Entities: [brunch (Amenity)]

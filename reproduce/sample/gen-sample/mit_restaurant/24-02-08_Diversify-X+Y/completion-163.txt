@@ -1,0 +1,8 @@
+1. "Can you recommend a cozy restaurant with a brunch menu"
+Named Entities: [cozy (Amenity), brunch (Meal Category)]
+
+2. "I'm looking for a charming place to have brunch around here"
+Named Entities: [charming (Amenity), brunch (Meal Category)]
+
+3. "Where can I find a rustic restaurant that serves brunch"
+Named Entities: [rustic (Amenity), brunch (Meal Category)]

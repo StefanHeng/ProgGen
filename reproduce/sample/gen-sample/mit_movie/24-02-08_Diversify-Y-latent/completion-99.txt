@@ -1,0 +1,8 @@
+1. "Can you recommend a mind-blowing science fiction movie with Denzel Washington in it?"
+Named Entities: [mind-blowing (Review), science fiction (Genre), Denzel Washington (Actor)]
+
+2. "Show me the theatrical trailer for the movie Jasmine."
+Named Entities: [theatrical trailer (Trailer), Jasmine (Title)]
+
+3. "What year did the movie Jasmine come out and who is the director?"
+Named Entities: [Jasmine (Title), year (Year), director (Director)]

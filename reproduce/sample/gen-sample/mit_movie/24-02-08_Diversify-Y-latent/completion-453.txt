@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a terrible rating?"
+Named Entities: [terrible (Review)]
+
+2. "What type of movie genre is Raiders of the Lost Ark?"
+Named Entities: [Raiders of the Lost Ark (Title)]
+
+3. "Show me a trailer for a movie featuring Hermione Granger"
+Named Entities: [Hermione Granger (Character), trailer (Trailer)]

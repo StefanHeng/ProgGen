@@ -1,0 +1,143 @@
+Sentence: The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+Sentence: She won an Academy Award for Best Supporting Actress for her performance in the film Ghost.
+Named Entities: [Academy Award (organization)]
+
+Sentence: The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+
+Sentence: The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), 1960 (location)]
+
+Sentence: He founded SpaceX in 2002, Tesla, Inc. in 2003, and The Boring Company in 2016.
+Named Entities: [SpaceX (organization), Tesla (organization), The Boring Company (organization)]
+
+Sentence: The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Yamuna river (location), Agra (location), India (location)]
+
+Sentence: He is a professor of computer science at Stanford University, where he leads the Stanford Vision Lab.
+Named Entities: [Stanford University (organization), Stanford Vision Lab (organization)]
+
+Sentence: The Metropolitan Museum of Art is the largest art museum in the United States, with a collection that includes more than two million works.
+Named Entities: [Metropolitan Museum of Art (organization), United States (location)]
+
+Sentence: She became the first woman to fly solo across the Atlantic Ocean in 1932.
+Named Entities: [Atlantic Ocean (location), 1932 (location)]
+
+Sentence: He co-founded Microsoft with Bill Gates in 1975.
+Named Entities: [Microsoft (organization), Bill Gates (person)]
+
+Sentence: The Louvre Museum is located on the Right Bank of the Seine in Paris.
+Named Entities: [Louvre Museum (organization), Right Bank (location), Seine (location), Paris (location)]
+
+Sentence: She served as the Prime Minister of the United Kingdom from 1979 to 1990.
+Named Entities: [United Kingdom (location), 1979 (location), 1990 (location)]
+
+Sentence: The ancient city of Rome was the center of the Roman Empire.
+Named Entities: [Rome (location), Roman Empire (organization)]
+
+Sentence: He is the founder of the Virgin Group, which includes more than 400 companies.
+Named Entities: [Virgin Group (organization)]
+
+Sentence: The Yellowstone National Park is located primarily in the U.S. state of Wyoming, although it also extends into Montana and Idaho.
+Named Entities: [Yellowstone National Park (location), Wyoming (location), Montana (location), Idaho (location)]
+
+Sentence: She won the Nobel Peace Prize in 2014 for her struggle for the rights of women and children.
+Named Entities: [Nobel Peace Prize (organization), 2014 (location)]
+
+Sentence: The Space Needle is an observation tower in Seattle, Washington.
+Named Entities: [Space Needle (location), Seattle (location), Washington (location)]
+
+Sentence: He is the founder and CEO of Amazon.com, the largest internet retailer in the world.
+Named Entities: [Amazon.com (organization)]
+
+Sentence: The Burj Khalifa is the tallest structure and building in the world, located in Dubai, United Arab Emirates.
+Named Entities: [Burj Khalifa (location), Dubai (location), United Arab Emirates (location)]
+
+Sentence: The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+Sentence: She won the Pulitzer Prize for Fiction for her novel To Kill a Mockingbird.
+Named Entities: [Pulitzer Prize (organization)]
+
+Sentence: The University of Oxford is the oldest university in the English-speaking world.
+Named Entities: [University of Oxford (organization), English-speaking (location)]
+
+Sentence: He was the 16th President of the United States, serving from 1861 to 1865.
+Named Entities: [16th President (person), United States (location), 1861 (location), 1865 (location)]
+
+Sentence: The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+Named Entities: [Sydney Opera House (location), Sydney Harbour (location), Sydney (location), New South Wales (location), Australia (location)]
+
+Sentence: He co-founded Apple Inc. with Steve Wozniak in 1976.
+Named Entities: [Apple Inc. (organization), Steve Wozniak (person), 1976 (location)]
+
+Sentence: The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona.
+Named Entities: [Grand Canyon (location), Colorado River (location), Arizona (location)]
+
+Sentence: The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City.
+Named Entities: [Brooklyn Bridge (location), New York City (location)]
+
+Sentence: She is the first woman to receive the Fields Medal in mathematics.
+Named Entities: [Fields Medal (organization), mathematics (location)]
+
+Sentence: The Amazon Rainforest is a moist broadleaf forest that covers most of the Amazon Basin of South America.
+Named Entities: [Amazon Rainforest (location), Amazon Basin (location), South America (location)]
+
+Sentence: He won the Academy Award for Best Actor for his performance in the film The King's Speech.
+Named Entities: [Academy Award (organization), The King's Speech (organization)]
+
+Sentence: The Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge above the Urubamba Valley.
+Named Entities: [Machu Picchu (location), Inca (organization), Eastern Cordillera (location), Peru (location), Urubamba Valley (location)]
+
+Sentence: She was elected the first female President of Ireland in 1990.
+Named Entities: [President of Ireland (person), 1990 (location)]
+
+Sentence: The Colosseum is the largest amphitheatre ever built, located just east of the Roman Forum in Rome.
+Named Entities: [Colosseum (location), Roman Forum (location), Rome (location)]
+
+Sentence: She is the founder of the Bill & Melinda Gates Foundation, and has donated billions of dollars to charitable causes.
+Named Entities: [Bill & Melinda Gates Foundation (organization)]
+
+Sentence: The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens.
+Named Entities: [Acropolis of Athens (location), Athens (location)]
+
+Sentence: He won the Nobel Prize in Physics for his discovery of the photoelectric effect.
+Named Entities: [Nobel Prize (organization), Physics (location)]
+
+Sentence: The Vatican City is an independent city-state enclaved within Rome, Italy.
+Named Entities: [Vatican City (location), Rome (location), Italy (location)]
+
+Sentence: She is the CEO of YouTube, a subsidiary of Google.
+Named Entities: [YouTube (organization), Google (organization)]
+
+Sentence: The Hollywood Walk of Fame comprises more than 2,690 five-pointed terrazzo and brass stars embedded in the sidewalks along 15 blocks of Hollywood Boulevard and three blocks of Vine Street in Hollywood, California.
+Named Entities: [Hollywood Walk of Fame (location), Hollywood Boulevard (location), Vine Street (location), Hollywood (location), California (location)]
+
+Sentence: He scored his first international goal against Argentina in 2006.
+Named Entities: [Argentina (location), 2006 (location)]
+
+Sentence: The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+
+Sentence: He was the leader of the civil rights movement, known for his advocacy of nonviolent protests.
+Named Entities: [civil rights movement (organization)]
+
+Sentence: The British Museum is dedicated to human history, art, and culture, and is located in the Bloomsbury area of London, United Kingdom.
+Named Entities: [British Museum (organization), Bloomsbury (location), London (location), United Kingdom (location)]
+
+Sentence: She became the first female Prime Minister of India in 1966.
+Named Entities: [Prime Minister of India (person), 1966 (location)]
+
+Sentence: The Empire State Building is a 102-story skyscraper located in Midtown Manhattan, New York City.
+Named Entities: [Empire State Building (location), Midtown Manhattan (location), New York City (location)]
+
+Sentence: He won an Olympic gold medal in the 100m sprint in 2008.
+Named Entities: [Olympic (organization), 100m (location), 2008 (location)]
+
+Sentence: The Kennedy Space Center is the United States launch site that has been the base for every human space flight since 1968.
+Named Entities: [Kennedy Space Center (location), United States (location), 1968 (location)]

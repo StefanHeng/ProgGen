@@ -1,0 +1,8 @@
+Query: "Hey, can I see a sneak peek of the new James Bond movie?"
+Named Entities: [sneak peek (Trailer), James Bond (Character)]
+
+Query: "What's the deal with that new horror movie? Is it really as scary as they say?"
+Named Entities: [new horror movie (Genre)]
+
+Query: "Do you have any trailers for those blockbuster action movies coming out next year?"
+Named Entities: [trailers (Trailer), action movies (Genre), next year (Year)]

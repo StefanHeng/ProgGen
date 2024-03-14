@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Cajun-Creole cuisine, is there a restaurant nearby that serves it?"
+   Named Entities: [Cajun-Creole (Cuisine)]
+
+2. "I'm looking for a lounge with a great happy hour special, can you recommend one in the area?"
+   Named Entities: [lounge (Amenity), happy hour (Amenity)]
+
+3. "What are the operating hours for the restaurant called Bayou Bistro?"
+   Named Entities: [Bayou Bistro (Restaurant Name), operating hours (Hours)]

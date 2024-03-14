@@ -1,0 +1,8 @@
+1. "I'm looking for a fancy restaurant with a breakfast menu"
+Named Entities: [fancy (Rating), breakfast (Amenity), 
+
+2. "Which expensive restaurant in the area serves breakfast meals?"
+Named Entities: [expensive (Price), breakfast (Amenity), 
+
+3. "Can you recommend a high-end restaurant with a breakfast menu?"
+Named Entities: [high-end (Price), breakfast (Amenity), 

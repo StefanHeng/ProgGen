@@ -1,0 +1,8 @@
+Query: "show me a movie from the 1940s with the song 'Somewhere Over the Rainbow'"
+Named Entities: [1940s (Year), Somewhere Over the Rainbow (Song)]
+
+Query: "what movie from 1967-1969 is directed by Robert Anderson"
+Named Entities: [1967-1969 (Year), Robert Anderson (Director)]
+
+Query: "is Patton a war film"
+Named Entities: [Patton (Title), war (Genre)]

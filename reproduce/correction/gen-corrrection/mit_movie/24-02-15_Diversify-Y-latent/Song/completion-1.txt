@@ -1,0 +1,8 @@
+1. Text Span: "song similar to Kiss from a Rose"
+Label: (B). The correct span boundary is "Kiss from a Rose"
+
+2. Text Span: "I'm Gonna Be (500 Miles)"
+Label: (A). The span is a named entity of type song
+
+3. Text Span: "Exquisite"
+Label: (C). The span is a named entity but the category is not song. The correct entity type is Title.

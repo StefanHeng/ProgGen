@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast spot with vegetarian options nearby?"
+Named Entities: [breakfast (Amenity), vegetarian (Cuisine), nearby (Location)]
+
+2. "I'm looking for a place where I can have pancakes and coffee for breakfast before school."
+Named Entities: [pancakes (Dish), coffee (Dish), before school (Hours)]
+
+3. "Do you know of any breakfast places with student discounts that are open by 7:30 am?"
+Named Entities: [breakfast (Amenity), student discounts (Price), by 7:30 am (Hours)]

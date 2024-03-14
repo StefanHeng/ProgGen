@@ -1,0 +1,8 @@
+1. Text Span: "classic suspense movie"
+Label: (B). Wrong Boundary. The correct span boundary is "classic suspense".
+
+2. Text Span: "fantasy"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "behind-the-scenes documentary"
+Label: (A). Correct Entity Annotation.

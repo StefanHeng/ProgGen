@@ -1,0 +1,8 @@
+Query: "can I watch the movie Inception on Netflix?"
+Named Entities: [Inception (Title), Netflix (Streaming platform)]
+
+Query: "is there a trailer available for the new Mission: Impossible movie on Amazon Prime Video?"
+Named Entities: [Mission: Impossible (Title), trailer (Trailer), Amazon Prime Video (Streaming platform)]
+
+Query: "what are the top-rated horror movies on Hulu?"
+Named Entities: [horror (Genre), Hulu (Streaming platform)]

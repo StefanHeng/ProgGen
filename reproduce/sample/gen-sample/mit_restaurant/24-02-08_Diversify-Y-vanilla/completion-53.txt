@@ -1,0 +1,8 @@
+Query: "do you know any restaurants that offer gift cards"
+Named Entities: [Gift cards (Amenity)]
+
+Query: "I'm craving some bangers and mash, where can I find a restaurant that serves it"
+Named Entities: [bangers and mash (Dish), serves (Amenity)]
+
+Query: "can you recommend a restaurant with a diverse cuisine selection and outdoor seating"
+Named Entities: [diverse cuisine (Cuisine), outdoor seating (Amenity)]

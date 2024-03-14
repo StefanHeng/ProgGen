@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with A- list actors and a high Viewers' Rating?"
+Named Entities: [A- list (Viewers' Rating), actors (Actor)]
+
+2. "Show me a Colin Firth film from the 2010s with a great soundtrack"
+Named Entities: [Colin Firth (Actor), 2010s (Year), soundtrack (Song)]
+
+3. "What genre is the movie Natalie Dormer starred in that features the song Johnny B. Goode?"
+Named Entities: [Natalie Dormer (Actor), Johnny B. Goode (Song)]

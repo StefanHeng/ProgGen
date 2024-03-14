@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the making-of the movie Interstellar?"
+Named Entities: [Interstellar (Title)]
+
+2. Query: "Who directed the behind-the-scenes documentary for the movie Jurassic Park?"
+Named Entities: [Jurassic Park (Title)]
+
+3. Query: "Show me some exclusive interviews with the cast of the movie Titanic."
+Named Entities: [Titanic (Title), cast (Character)]

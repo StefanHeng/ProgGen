@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck in the downtown area with a high rating?"
+Named Entities: [food truck (Amenity), downtown area (Location), high rating (Rating)]
+
+2. "I'm looking for a food truck that serves tacos and burritos for a reasonable price. Do you have any suggestions?"
+Named Entities: [food truck (Amenity), tacos and burritos (Cuisine), reasonable price (Price)]
+
+3. "What food trucks are open for lunch in the park today?"
+Named Entities: [food truck (Amenity), lunch (Hours), park (Location)]

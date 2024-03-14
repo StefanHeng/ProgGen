@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly-applauded Italian restaurant in the downtown area"
+Named Entities: [Italian (Cuisine), downtown area (Location), Highly-applauded (Rating)]
+
+Query: "Where can I find a highly-applauded sushi place that is open past 10 PM"
+Named Entities: [sushi (Cuisine), open past 10 PM (Hours), Highly-applauded (Rating)]
+
+Query: "I'm looking for a highly-applauded vegetarian restaurant with outdoor seating"
+Named Entities: [vegetarian (Cuisine), outdoor seating (Amenity), Highly-applauded (Rating)]

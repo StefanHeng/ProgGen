@@ -1,0 +1,8 @@
+Query: "what highly anticipated movie is coming out this year"
+Named Entities: [highly anticipated (Review), this year (Year)]
+
+Query: "where can I watch The Silence of the Lambs"
+Named Entities: [The Silence of the Lambs (Title)]
+
+Query: "can you recommend a sci-fi movie similar to Aliens"
+Named Entities: [sci-fi (Genre), Aliens (Title)]

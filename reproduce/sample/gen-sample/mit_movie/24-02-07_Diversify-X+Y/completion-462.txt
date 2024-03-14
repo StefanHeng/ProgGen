@@ -1,0 +1,8 @@
+Query: "can you tell me about the special effects and production design in the movie A Star is Born directed by Bradley Cooper"
+Named Entities: [A Star is Born (Title), Bradley Cooper (Director), Special effects (Plot), Production design (Plot)]
+
+Query: "I'm curious about the making-of details of the movie Ben-Hur. What can you tell me about it"
+Named Entities: [Ben-Hur (Title)]
+
+Query: "show me behind-the-scenes footage of the film directed by John Woo and starring Rachel McAdams"
+Named Entities: [John Woo (Director), Rachel McAdams (Actor)]

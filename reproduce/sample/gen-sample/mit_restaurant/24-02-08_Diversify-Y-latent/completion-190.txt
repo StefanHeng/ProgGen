@@ -1,0 +1,8 @@
+Query: "Where can I find a good quality café that serves croissants?"
+Named Entities: [good (Rating), quality café (Restaurant Name), croissants (Dish)]
+
+Query: "What are the opening hours for the nearest French restaurant?"
+Named Entities: [opening hours (Hours), nearest (Location), French (Cuisine)]
+
+Query: "I'm looking for a cozy place with affordable prices for dinner tonight"
+Named Entities: [cozy (Amenity), affordable prices (Price), dinner tonight (Hours)]

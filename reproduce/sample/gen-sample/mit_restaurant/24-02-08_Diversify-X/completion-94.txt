@@ -1,0 +1,8 @@
+Query: "Where can I find a rustic and charming food truck that serves authentic tacos"
+Named Entities: [food truck (Amenity), rustic and charming (Amenity), authentic tacos (Dish)]
+
+Query: "What food truck in this area offers a great outdoor dining experience"
+Named Entities: [food truck (Amenity), great outdoor dining (Amenity)]
+
+Query: "I'm craving some BBQ from a food truck, where can I find one nearby"
+Named Entities: [food truck (Amenity), BBQ (Cuisine), nearby (Location)]

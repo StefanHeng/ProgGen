@@ -1,0 +1,8 @@
+1. "Can you recommend a breakfast spot with a good rating?"
+Named Entities: [breakfast (Cuisine), good (Rating)]
+
+2. "I'm looking for a budget-friendly place for breakfast that opens before 8 am"
+Named Entities: [budget-friendly (Price), breakfast (Cuisine), before 8 am (Hours)]
+
+3. "Where can I find a restaurant that serves affordable breakfast dishes?"
+Named Entities: [affordable (Price), breakfast (Cuisine)]

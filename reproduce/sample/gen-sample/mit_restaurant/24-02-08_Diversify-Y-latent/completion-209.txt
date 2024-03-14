@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a delicious frittata, can you suggest a spot with a good brunch menu?"
+Named Entities: [delicious (Rating), frittata (Dish), brunch menu (Amenity)]
+
+Query: "What's the best Italian restaurant in the area with outdoor seating?"
+Named Entities: [best (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "Is there a place nearby where I can grab a quick bite for less than $15?"
+Named Entities: [less than $15 (Price)]

@@ -1,0 +1,8 @@
+1. "Are there any classic movies from the 1950s available on Netflix?"
+Named Entities: [classic movies (Genre), 1950s (Year), Netflix (Streaming platform)]
+
+2. "Can I find any western films on Amazon Prime?"
+Named Entities: [western films (Genre), Amazon Prime (Streaming platform)]
+
+3. "Is there a way to watch musicals from the 1960s on Hulu?"
+Named Entities: [musicals (Genre), 1960s (Year), Hulu (Streaming platform)]

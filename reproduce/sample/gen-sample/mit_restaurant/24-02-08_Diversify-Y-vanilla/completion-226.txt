@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood restaurant around Fisherman's Wharf that is not expensive?"
+Named Entities: [Fisherman's Wharf Seafood (Restaurant Name), not expensive (Price)]
+
+2. "I'm looking for a restaurant in Providence with a good selection of vegetarian dishes"
+Named Entities: [Providence (Location), vegetarian (Cuisine)]
+
+3. "What are the operating hours for the Italian restaurant near the convention center?"
+Named Entities: [Italian (Cuisine), the convention center (Location), operating hours (Hours)]

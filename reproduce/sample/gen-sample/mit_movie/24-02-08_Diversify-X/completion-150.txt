@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the movie 'The Dark Knight' and any behind-the-scenes stories?"
+Named Entities: ['The Dark Knight' (Title), director (Director), behind-the-scenes stories (Plot)]
+
+2. Query: "I'm interested in knowing the song used in the movie 'Grease' during the behind-the-scenes footage. Can you show me a clip?"
+Named Entities: ['Grease' (Title), behind-the-scenes footage (Plot), song (Song), clip (Trailer)]
+
+3. Query: "What behind-the-scenes information can you provide about the making of the movie 'Jurassic Park' directed by Steven Spielberg?"
+Named Entities: ['Jurassic Park' (Title), Steven Spielberg (Director), making of (Plot)]

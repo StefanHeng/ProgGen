@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of the latest Spider-Man movie?"
+   Named Entities: [Spider-Man (Title)]
+
+2. Query: "What's the story of the sci-fi movie released in 2020 called Tenet?"
+   Named Entities: [Tenet (Title), 2020 (Year), sci-fi (Genre)]
+
+3. Query: "I want to know the plot of the action film directed by Christopher Nolan and rated PG-13"
+   Named Entities: [Christopher Nolan (Director), PG-13 (MPAA Rating)]

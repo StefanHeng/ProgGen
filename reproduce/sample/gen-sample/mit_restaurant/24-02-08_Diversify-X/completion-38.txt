@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with outdoor seating and a good lunch menu"
+Named Entities: [outdoor seating (Amenity), good (Rating), lunch (Amenity)]
+
+Query: "Can you recommend a nearby place with vegetarian options for lunch"
+Named Entities: [nearby (Location), vegetarian (Cuisine), lunch (Amenity)]
+
+Query: "What's a good restaurant for a quick, affordable lunch"
+Named Entities: [quick (Amenity), affordable (Price), lunch (Amenity)]

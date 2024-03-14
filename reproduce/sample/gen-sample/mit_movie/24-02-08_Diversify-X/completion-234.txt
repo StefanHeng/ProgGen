@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a memorable soundtrack?"
+Named Entities: [memorable soundtrack (Song)]
+
+2. Query: "What's a movie with a great score from the 80s?"
+Named Entities: [great score (Song), 80s (Year)]
+
+3. Query: "Show me a film with an iconic theme song."
+Named Entities: [iconic theme song (Song)]

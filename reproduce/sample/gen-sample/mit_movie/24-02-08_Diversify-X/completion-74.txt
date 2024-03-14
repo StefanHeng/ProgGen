@@ -1,0 +1,8 @@
+1. Query: "Who directed the fantasy film with the best visual effects of all time?"
+Named Entities: [fantasy (Genre), visual effects (Viewers' Rating)]
+
+2. Query: "Can you recommend a movie directed by Martin Scorsese that features Leonardo DiCaprio?"
+Named Entities: [Martin Scorsese (Director), Leonardo DiCaprio (Actor)]
+
+3. Query: "What is the highest-rated comedy film that stars Jim Carrey?"
+Named Entities: [highest-rated (Viewers' Rating), comedy (Genre), Jim Carrey (Actor)]

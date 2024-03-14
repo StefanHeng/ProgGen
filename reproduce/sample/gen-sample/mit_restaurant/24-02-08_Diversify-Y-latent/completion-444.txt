@@ -1,0 +1,8 @@
+1. "Can you recommend a cost-effective sushi restaurant in the downtown area?"
+Named Entities: [cost-effective (Price), sushi (Cuisine), downtown area (Location)]
+
+2. "What is the top-rated restaurant that serves Italian dishes near the theater district?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), theater district (Location)]
+
+3. "I'm looking for a budget-friendly café that is open late tonight."
+Named Entities: [budget-friendly (Price), café (Amenity), open late tonight (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot for the movie Black Panther directed by Ryan Coogler?"
+   Named Entities: [Black Panther (Title), Ryan Coogler (Director)]
+
+2. Query: "What songs are featured in the film A Star is Born?"
+   Named Entities: [A Star is Born (Title), songs (Song)]
+
+3. Query: "I'm looking for a new animated film to watch, can you give me the plot of the movie Luca?"
+   Named Entities: [Luca (Title), animated (Genre)]

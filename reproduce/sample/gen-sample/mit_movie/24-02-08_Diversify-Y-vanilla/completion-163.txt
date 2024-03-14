@@ -1,0 +1,8 @@
+1. "Can you recommend a good movie that addresses social issues?"
+Named Entities: [Social issues (Genre)]
+
+2. "I heard The Shape of Water is unbelievable. Can you tell me more about it?"
+Named Entities: [The Shape of Water (Title), unbelievable (Review)]
+
+3. "Is Ron Weasley in any romance films?"
+Named Entities: [Ron Weasley (Character), romance (Genre)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a café with a good breakfast menu"
+Named Entities: [café (Restaurant Name, Cuisine), breakfast (Dish), good (Rating)]
+
+Query: "what are the operating hours for a café with outdoor seating"
+Named Entities: [café (Restaurant Name), outdoor seating (Amenity), operating hours (Hours)]
+
+Query: "show me a café with reasonable prices for a quick lunch"
+Named Entities: [café (Restaurant Name), reasonable prices (Price), quick lunch (Amenity)]

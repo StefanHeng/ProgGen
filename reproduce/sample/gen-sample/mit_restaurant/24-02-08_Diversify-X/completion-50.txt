@@ -1,0 +1,8 @@
+Query: "I'm craving some pizza, where is the nearest fast food pizza place"
+Named Entities: [pizza (Cuisine), nearest (Location), fast food (Amenity)]
+
+Query: "what's the best fast food burger joint in town?"
+Named Entities: [best (Rating), fast food (Amenity), burger (Cuisine), town (Location)]
+
+Query: "what time does the closest fast food Chinese restaurant close?"
+Named Entities: [closest (Location), fast food (Amenity), Chinese (Cuisine), close (Hours)]

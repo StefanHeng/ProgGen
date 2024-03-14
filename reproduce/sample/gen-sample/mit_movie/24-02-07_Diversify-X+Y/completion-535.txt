@@ -1,0 +1,8 @@
+1. "What is the subgenre of crime movie that [The Departed] belongs to?"
+   Named Entities: [The Departed (Title), crime (Genre)]
+
+2. "Can you recommend a movie similar to [The Departed] in terms of its genre?"
+   Named Entities: [The Departed (Title), genre (Genre)]
+
+3. "What is the main genre of [The Departed] and who directed it?"
+   Named Entities: [The Departed (Title), main genre (Genre), directed (Director)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a café with chef's specials in the area?"
+Named Entities: [café (Amenity), chef's specials (Dish), area (Location)]
+
+2. "I'm looking for a café that serves breakfast with a budget-friendly price range."
+Named Entities: [café (Amenity), breakfast (Cuisine), budget-friendly (Price)]
+
+3. "What's the highest rated café with chef's specials nearby?"
+Named Entities: [highest rated (Rating), café (Amenity), chef's specials (Dish), nearby (Location)]

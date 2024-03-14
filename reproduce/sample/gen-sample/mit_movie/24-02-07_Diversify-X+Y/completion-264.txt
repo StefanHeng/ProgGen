@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie The Big Lebowski?"
+Named Entities: [The Big Lebowski (Title), viewers' rating (Viewers' Rating)]
+
+2. "Can you recommend a critically acclaimed movie featuring Jessica Chastain?"
+Named Entities: [critically acclaimed (Review), Jessica Chastain (Actor)]
+
+3. "Is the movie rated R that features the song I Say a Little Prayer suitable for me to watch?"
+Named Entities: [rated R (MPAA Rating), I Say a Little Prayer (Song)]

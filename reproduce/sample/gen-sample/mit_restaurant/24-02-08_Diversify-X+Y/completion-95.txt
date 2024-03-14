@@ -1,0 +1,8 @@
+1. "Where can I find a good spot for brunch on Sunday morning?"
+Named Entities: [good (Rating), brunch (Amenity), Sunday (Hours), morning (Hours)]
+
+2. "What restaurants serve delicious brunch dishes on Sunday afternoon?"
+Named Entities: [delicious (Rating), brunch (Amenity), Sunday (Hours), afternoon (Hours)]
+
+3. "I'm looking for a place with great brunch options for Sunday brunch. Any recommendations?"
+Named Entities: [great (Rating), brunch (Amenity), Sunday (Hours), brunch (Amenity)]

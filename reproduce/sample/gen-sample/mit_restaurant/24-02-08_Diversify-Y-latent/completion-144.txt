@@ -1,0 +1,8 @@
+Query: "Can you recommend any highly acclaimed lunch places nearby?"
+Named Entities: [Highly acclaimed (Rating), lunch places (Amenity), nearby (Location)]
+
+Query: "What is the price range for Italian restaurants in the area?"
+Named Entities: [Italian (Cuisine), restaurants (Amenity), price range (Price), area (Location)]
+
+Query: "Which restaurant serves the best seafood dishes in this city?"
+Named Entities: [seafood dishes (Dish), best (Rating), city (Location)]

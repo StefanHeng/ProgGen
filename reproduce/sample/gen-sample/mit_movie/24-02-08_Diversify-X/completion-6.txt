@@ -1,0 +1,8 @@
+Query: "Can you provide me with the director of the documentary on the making of The Dark Knight?"
+Named Entities: [documentary on the making of The Dark Knight (Title), director (Director)]
+
+Query: "I'm interested in a film about the history of visual effects in cinema, what options do you have?"
+Named Entities: [history of visual effects in cinema (Plot), film (Genre)]
+
+Query: "Show me a movie featuring a detailed behind-the-scenes look at the special effects in the Lord of the Rings trilogy."
+Named Entities: [behind-the-scenes look (Plot), special effects (Genre), Lord of the Rings trilogy (Title)]

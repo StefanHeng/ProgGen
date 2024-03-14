@@ -1,0 +1,8 @@
+Query: "Can you tell me the director of the movie Amélie and a brief summary of the plot"
+Named Entities: [Amélie (Title), director (Director), brief summary (Plot)]
+
+Query: "I want to see a trailer for The Wolf of Wall Street, rated R"
+Named Entities: [The Wolf of Wall Street (Title), trailer (Trailer), rated R (MPAA Rating)]
+
+Query: "Are there any historical films featuring a strong female lead like Single Ladies"
+Named Entities: [historical (Genre), strong female lead (Character), Single Ladies (Title)]

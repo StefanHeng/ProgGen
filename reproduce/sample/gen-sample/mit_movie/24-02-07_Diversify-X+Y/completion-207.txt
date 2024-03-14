@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me some fun facts about the making of the film The Grand Budapest Hotel?"
+   Named Entities: [The Grand Budapest Hotel (Title)]
+
+2. Spoken Query: "What are some interesting details about the Prohibition era included in the movie The Time of My Life?"
+   Named Entities: [Prohibition era (Plot), The Time of My Life (Title)]
+
+3. Spoken Query: "Show me a PG-rated movie from the years 1968-1973 that features the character Severus Snape."
+   Named Entities: [PG (MPAA Rating), 1968-1973 (Year), Severus Snape (Character)]

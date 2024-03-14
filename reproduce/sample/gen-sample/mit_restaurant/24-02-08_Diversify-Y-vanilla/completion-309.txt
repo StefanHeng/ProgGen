@@ -1,0 +1,8 @@
+1. "I'm craving some Crispy shrimp, where's the nearest seafood restaurant?"
+Named Entities: [Crispy shrimp (Dish), nearest (Location), seafood (Cuisine)]
+
+2. "Do you know if Nobu has any vegan options on their menu?"
+Named Entities: [Nobu (Restaurant Name), vegan (Cuisine), menu (Amenity)]
+
+3. "I need to find a place with a high rating for dinner tonight, any suggestions?"
+Named Entities: [high (Rating), dinner (Amenity), tonight (Hours)]

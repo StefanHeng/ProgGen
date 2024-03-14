@@ -1,0 +1,8 @@
+1. Text Span: "Pride and Prejudice"
+Label: (A). The span is a named entity of type title
+
+2. Text Span: "new indiana jones movie"
+Label: (B). The correct span boundary is "indiana jones"
+
+3. Text Span: "Avengers"
+Label: (A). The span is a named entity of type title

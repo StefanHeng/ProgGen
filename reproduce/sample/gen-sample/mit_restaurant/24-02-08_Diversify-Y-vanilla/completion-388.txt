@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with brunch specials for this weekend?"
+Named Entities: [brunch specials (Amenity), this weekend (Hours)]
+
+Query: "I'm looking for a reasonably priced Italian restaurant with outdoor seating"
+Named Entities: [reasonably priced (Price), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "Is there a highly-rated steakhouse with private dining rooms available tonight?"
+Named Entities: [highly-rated (Rating), steakhouse (Cuisine), private dining rooms (Amenity), tonight (Hours)]

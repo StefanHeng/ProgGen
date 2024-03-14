@@ -1,0 +1,8 @@
+1. "I'm craving sushi, are there any good Japanese restaurants nearby?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), nearby (Location)]
+
+2. "Do you know any upscale restaurants with a prix fixe menu in the area?"
+Named Entities: [upscale (Price), prix fixe (Amenity), area (Location)]
+
+3. "What's the highest rated Indian restaurant in town?"
+Named Entities: [highest rated (Rating), Indian (Cuisine), town (Location)]

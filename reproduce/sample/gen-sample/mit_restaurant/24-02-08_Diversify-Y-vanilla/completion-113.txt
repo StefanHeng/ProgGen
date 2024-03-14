@@ -1,0 +1,8 @@
+Query: "Where can I find a restaurant near the park with outdoor seating?"
+Named Entities: [restaurant (Amenity), near the park (Location), outdoor seating (Amenity)]
+
+Query: "Do you know of any sushi places with high ratings in this area?"
+Named Entities: [sushi (Cuisine), high ratings (Rating), in this area (Location)]
+
+Query: "What are some points of interest for Italian cuisine open late tonight?"
+Named Entities: [Italian cuisine (Cuisine), open late tonight (Hours), [Points of interest]

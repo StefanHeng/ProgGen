@@ -1,0 +1,8 @@
+Query: "recommend a dinner spot with vegetarian options"
+Named Entities: [dinner (Amenity), vegetarian (Cuisine)]
+
+Query: "show me a nearby restaurant with outdoor seating for dinner"
+Named Entities: [nearby (Location), dinner (Amenity)]
+
+Query: "suggest a place for dinner that serves seafood within a reasonable price range"
+Named Entities: [dinner (Amenity), seafood (Cuisine), reasonable price range (Price)]

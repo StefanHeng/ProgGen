@@ -1,0 +1,8 @@
+1. Text Span: "NASA"
+Label: (A)
+
+2. Text Span: "Marvel Studios"
+Label: (A)
+
+3. Text Span: "nonprofit organization"
+Label: (B). The correct span boundary is "nonprofit organization"

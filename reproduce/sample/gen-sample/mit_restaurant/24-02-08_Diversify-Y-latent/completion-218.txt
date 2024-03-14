@@ -1,0 +1,8 @@
+1. "I'm craving a burger, where is the nearest Five Guys?"
+   Named Entities: [burger (Dish), nearest (Location), Five Guys (Restaurant Name)]
+
+2. "What's the rating for McDonald's in this area?"
+   Named Entities: [rating (Rating), McDonald's (Restaurant Name), area (Location)]
+
+3. "Do you know of any restaurants with vegan options and outdoor seating?"
+   Named Entities: [vegan options (Cuisine), outdoor seating (Amenity)]

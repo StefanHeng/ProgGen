@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director and some interesting behind-the-scenes facts of the movie The Notebook?"
+Named Entities: [The Notebook (Title), director (Director)]
+
+2. Query: "I'm looking for a movie with a captivating plot and the song 'My Heart Will Go On'. Can you suggest one?"
+Named Entities: [my heart will go on (Song)]
+
+3. Query: "I'm interested in a film from the 1980s with a strong female lead. Can you recommend one with some details about the making-of?"
+Named Entities: [1980s (Year), strong female lead (Character)]

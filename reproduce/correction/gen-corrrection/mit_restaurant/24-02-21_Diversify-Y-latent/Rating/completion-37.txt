@@ -1,0 +1,8 @@
+1. Text Span: "Five-star"
+Label: (A). The span is a named entity of type rating
+
+2. Text Span: "at least 4 stars"
+Label: (B). Wrong Boundary. The correct span boundary is "at least 4 stars rating"
+
+3. Text Span: "good rating"
+Label: (A). The span is a named entity of type rating

@@ -1,0 +1,8 @@
+1. Text Span: "Marriott Hotel"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "environmental organization"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "The Two Towers"
+Label: (C). Wrong Type. The correct entity type is other.

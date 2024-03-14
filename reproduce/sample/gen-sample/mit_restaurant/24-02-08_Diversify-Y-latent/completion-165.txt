@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some sushi, where can I find the highest-rated sushi restaurant in the area?"
+Named Entities: [sushi (Cuisine), Highest-rated (Rating), area (Location)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a good wine selection?"
+Named Entities: [outdoor seating (Amenity), good wine selection (Amenity)]
+
+Query: "I need a reservation for a family dinner at an Italian restaurant with a kids menu"
+Named Entities: [family dinner (Amenity), Italian (Cuisine), kids menu (Amenity)]

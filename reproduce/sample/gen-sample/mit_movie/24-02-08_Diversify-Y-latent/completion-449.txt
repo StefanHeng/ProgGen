@@ -1,0 +1,8 @@
+1. "Can you play the trailer for 'Diamond heist'?"
+Named Entities: ['Diamond heist' (Title), trailer (Trailer)]
+
+2. "I'm looking for a movie with the song 'Old Town Road'."
+Named Entities: ['Old Town Road' (Song)]
+
+3. "What film directed by Ryan Coogler delivers a powerful message?"
+Named Entities: [Ryan Coogler (Director), powerful message (Review)]

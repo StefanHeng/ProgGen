@@ -1,0 +1,11 @@
+1. Query: "What psychological thriller films has {{Baz Luhrmann}} directed?"
+Text Span: "Baz Luhrmann"
+Label: (A). The span is a named entity of type director
+
+2. Query: "Who {{directed}} the latest James Bond film that came out in 2019?"
+Text Span: "directed"
+Label: (D). The span is not a named entity
+
+3. Query: "Can you provide me with the plot of the movie Once Upon a Time in Hollywood directed by {{Quentin Tarantino}}?"
+Text Span: "Quentin Tarantino"
+Label: (A). The span is a named entity of type director

@@ -1,0 +1,8 @@
+1. Query: "Can I watch any R-rated historical movies on a streaming platform?"
+Named Entities: [R (MPAA Rating), Historical (Genre), Streaming platform (Availability)]
+
+2. Query: "Could you showcase the trailer of a terrific true crime movie with an amazing 95% audience score that came out in 1972?"
+Named Entities: [Trailer showcase (Trailer), Terrific (Viewers' Rating), True Crime (Genre), Amazing (Review), 95% audience score (Viewers' Rating), 1972 (Year)]
+
+3. Query: "What R-rated movies from 1972 are available on streaming platforms?"
+Named Entities: [R (MPAA Rating), 1972 (Year), Streaming platform (Availability)]

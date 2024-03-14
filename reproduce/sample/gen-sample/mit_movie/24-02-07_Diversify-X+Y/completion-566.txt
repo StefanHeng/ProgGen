@@ -1,0 +1,8 @@
+1. Spoken query: "What movie soundtrack did Justin Timberlake work on as a music producer?"
+   Named Entities: [Justin Timberlake (Music producer)]
+
+2. Spoken query: "Can you provide me with information about the album release party for a movie soundtrack that Agent Smith was involved in?"
+   Named Entities: [Agent Smith (Character), album release party (Event)]
+
+3. Spoken query: "Show me a list of movies that have a soundtrack produced by Justin Timberlake."
+   Named Entities: [Justin Timberlake (Music producer)]

@@ -1,0 +1,8 @@
+Query: "Are there any action movies playing in theaters tonight?"
+Named Entities: [action movies (Genre), theaters (Location), tonight (Time)]
+
+Query: "Can you recommend a popular comedy from the 90s currently showing in my area?"
+Named Entities: [comedy (Genre), 90s (Year), area (Location)]
+
+Query: "Is there a theater nearby playing a recent thriller film that has received positive reviews?"
+Named Entities: [thriller (Genre), recent (Year), positive reviews (Review), nearby (Location)]

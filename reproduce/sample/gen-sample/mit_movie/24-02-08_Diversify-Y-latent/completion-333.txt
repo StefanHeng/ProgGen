@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie similar to Eurovision Song Contest"
+Named Entities: [Eurovision Song Contest (Title)]
+
+Query: "What is the viewers' rating for the movie Moonlight"
+Named Entities: [Moonlight (Title), viewers' rating (Viewers' Rating)]
+
+Query: "Who directed the movie M"
+Named Entities: [M (Title)]

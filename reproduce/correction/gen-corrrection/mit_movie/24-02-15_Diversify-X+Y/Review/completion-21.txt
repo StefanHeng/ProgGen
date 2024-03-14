@@ -1,0 +1,8 @@
+1. Text Span: "highly-rated movies"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "smooth"
+Label: (D). Not a Named Entity
+
+3. Text Span: "awards or nominations"
+Label: (D). Not a Named Entity

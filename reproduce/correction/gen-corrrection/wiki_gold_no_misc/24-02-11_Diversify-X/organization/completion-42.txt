@@ -1,0 +1,8 @@
+1. Text Span: "French Gothic architecture"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "NASA"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Academy Awards"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+1. Query: "What movie features the song 'Let It Go' by Elsa?"
+   Named Entities: ['Let It Go' (Song), Elsa (Character)]
+
+2. Query: "Can I get exclusive access to the trailer of the latest Eye-opening documentary?"
+   Named Entities: [exclusive access (Viewers' Rating), Eye-opening (Genre), documentary (Plot)]
+
+3. Query: "I'm looking for a movie with dialogue writing that has received great reviews, perhaps something directed by The Dude."
+   Named Entities: [Dialogue writing review (Review), The Dude (Director)]

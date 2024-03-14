@@ -1,0 +1,8 @@
+1. Text Span: "Alfred Hitchcock"
+Label: (A). The span is a named entity of type actor
+
+2. Text Span: "Johnny Depp"
+Label: (A). The span is a named entity of type actor
+
+3. Text Span: "Pharrell Williams"
+Label: (C). The span is a named entity but the category is not actor (Musician)

@@ -1,0 +1,8 @@
+1. "Can you tell me the storyline of the latest Marvel movie?"
+   Named Entities: [latest (Year), Marvel movie (Title), storyline (Plot)]
+
+2. "Who directed the highest-rated action movie of the year?"
+   Named Entities: [highest-rated (Viewers' Rating), action (Genre), Director]
+
+3. "Do you have any recommendations for a family-friendly film with a heartwarming plot?"
+   Named Entities: [family-friendly (MPAA Rating), heartwarming (Plot)]

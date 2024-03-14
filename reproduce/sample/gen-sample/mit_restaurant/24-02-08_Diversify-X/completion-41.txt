@@ -1,0 +1,8 @@
+Query: "find me a café with outdoor seating and good coffee"
+Named Entities: [café (Restaurant Name), outdoor seating (Amenity), good (Rating), coffee (Dish)]
+
+Query: "where is the nearest café with vegan options"
+Named Entities: [nearest (Location), café (Restaurant Name), vegan (Cuisine)]
+
+Query: "recommend a cozy café with WiFi and pastries near the city center"
+Named Entities: [cozy (Amenity), café (Restaurant Name), WiFi (Amenity), pastries (Dish), city center (Location)]

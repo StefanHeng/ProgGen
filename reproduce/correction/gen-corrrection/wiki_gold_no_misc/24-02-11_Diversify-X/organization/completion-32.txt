@@ -1,0 +1,8 @@
+1. Text Span: "Literature"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "UNESCO"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "North Germanic peoples"
+Label: (C). Wrong Type. The correct entity type is other.

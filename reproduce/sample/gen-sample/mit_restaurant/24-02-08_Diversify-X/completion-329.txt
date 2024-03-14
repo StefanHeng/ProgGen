@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a great outdoor seating area for lunch?"
+Named Entities: [great (Rating), outdoor seating area (Amenity), lunch (Meal Category)]
+
+2. "I'm craving Italian food for lunch, where can I find a good pasta dish?"
+Named Entities: [Italian (Cuisine), pasta dish (Dish), lunch (Meal Category)]
+
+3. "I need to find a budget-friendly restaurant with a good lunch menu, any suggestions?"
+Named Entities: [budget-friendly (Price), good (Rating), lunch (Meal Category)]

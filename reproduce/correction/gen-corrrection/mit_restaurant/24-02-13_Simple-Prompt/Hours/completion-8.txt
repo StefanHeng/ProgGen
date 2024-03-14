@@ -1,0 +1,8 @@
+1. Text Span: "lunch break"
+Label: (C). The span is not a named entity. Entity type: other
+
+2. Text Span: "evening"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "24-hour"
+Label: (A). Correct Entity Annotation.

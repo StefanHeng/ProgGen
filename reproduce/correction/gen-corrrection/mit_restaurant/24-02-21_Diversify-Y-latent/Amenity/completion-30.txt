@@ -1,0 +1,8 @@
+1. Text Span: "Dessert table"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "outdoor seating"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "quick"
+Label: (C). The span is a named entity but the category is not amenity. The correct entity type is Hours.

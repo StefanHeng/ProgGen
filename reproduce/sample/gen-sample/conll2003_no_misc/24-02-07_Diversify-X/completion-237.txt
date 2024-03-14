@@ -1,0 +1,8 @@
+Sentence: "Professor Smith believes that the new education reform will have a positive impact on student learning."
+Named Entities: [Professor Smith (person)]
+
+Sentence: "The school board announced a partnership with a local non-profit organization to improve access to educational resources for underprivileged students."
+Named Entities: [school board (organization), non-profit organization (organization)]
+
+Sentence: "Parents express concerns about the lack of funding for arts education in public schools."
+Named Entities: [Parents (person)]

@@ -1,0 +1,8 @@
+1. "Find me a restaurant with top rated burgers in the downtown area"
+   Named Entities: [Top rated burgers (Dish), downtown area (Location)]
+
+2. "I'm in the mood for Italian cuisine, can you recommend a highly rated restaurant nearby?"
+   Named Entities: [Italian cuisine (Cuisine), highly rated (Rating), nearby (Location)]
+
+3. "What's a good sushi place that's open past 10 pm?"
+   Named Entities: [sushi (Cuisine), open past 10 pm (Hours)]

@@ -1,0 +1,8 @@
+Sentence: "Climate activist Greta Thunberg delivers powerful speech at United Nations."
+Named Entities: [Greta Thunberg (person), United Nations (organization)]
+
+Sentence: "Amazon rainforest reaches record levels of deforestation in 2020."
+Named Entities: [Amazon rainforest (location)]
+
+Sentence: "Renewable energy company SolarTech announces plans for new wind farm in California."
+Named Entities: [SolarTech (organization), California (location)]

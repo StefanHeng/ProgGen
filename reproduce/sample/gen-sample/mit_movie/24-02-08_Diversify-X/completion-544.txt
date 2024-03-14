@@ -1,0 +1,8 @@
+Query: "Is the movie Inception available for streaming?"
+Named Entities: [Inception (Title), streaming platform (Entity Type)]
+
+Query: "Can I watch a Steven Spielberg directed movie on any streaming platform?"
+Named Entities: [Steven Spielberg (Director), streaming platform (Entity Type)]
+
+Query: "Is there a popular action movie from the 1990s that I can find on a streaming platform?"
+Named Entities: [1990s (Year), action (Genre), streaming platform (Entity Type)]

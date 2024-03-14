@@ -1,0 +1,8 @@
+Query: "Hey, I heard there's a new documentary about the making of The Godfather, can you tell me more about it?"
+Named Entities: [documentary (Genre), The Godfather (Title), making-of (Plot)]
+
+Query: "I can't wait to learn more about the director's cut of Blade Runner, when will it be released?"
+Named Entities: [director's cut (Plot), Blade Runner (Title), released (Year)]
+
+Query: "I'm really eager to watch a film that dives into the special effects of Jurassic Park, do you have any recommendations?"
+Named Entities: [special effects (Plot), Jurassic Park (Title)]

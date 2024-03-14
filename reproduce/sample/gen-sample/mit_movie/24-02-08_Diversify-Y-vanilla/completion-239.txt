@@ -1,0 +1,8 @@
+1. Query: "What provocative heist movie was Emma Watson in in 2016?"
+Named Entities: [provocative (Genre), Emma Watson (Actor), 2016 (Year), heist (Plot)]
+
+2. Query: "In the movie Moonlight, who played the role of the main character in 2016?"
+Named Entities: [Moonlight (Title), 2016 (Year), main character (Character)]
+
+3. Query: "Show me a 1979 crime movie starring Mahershala Ali"
+Named Entities: [1979 (Year), crime (Genre), Mahershala Ali (Actor)]

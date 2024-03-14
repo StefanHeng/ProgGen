@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the making of the movie Inception?"
+Named Entities: [Inception (Title)]
+
+2. Query: "Who directed the western movie Tombstone?"
+Named Entities: [Tombstone (Title)]
+
+3. Query: "I want to see some behind-the-scenes footage of the 1980s movie Top Gun"
+Named Entities: [Top Gun (Title), 1980s (Year)]

@@ -1,0 +1,8 @@
+1. Text Span: "Cannes Film Festival"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Pythagorean"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "hydro power"
+Label: (C). Wrong Type. The correct entity type is other.

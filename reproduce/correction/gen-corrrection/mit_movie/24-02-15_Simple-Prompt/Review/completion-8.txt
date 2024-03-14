@@ -1,0 +1,8 @@
+1. Text Span: "highest rated"
+Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "highest rated movie".
+
+2. Text Span: "Roger Ebert"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Critic.
+
+3. Text Span: "feel-good"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Genre.

@@ -1,0 +1,8 @@
+Query: "I'm craving sushi, is there a restaurant with early hours nearby?"
+Named Entities: [sushi (Cuisine), nearby (Location), Early hours (Hours)]
+
+Query: "What's the best place for Italian cuisine with a 5-star rating?"
+Named Entities: [Italian (Cuisine), best (Rating)]
+
+Query: "I need a quiet place for brunch within a reasonable price range"
+Named Entities: [brunch (Amenity), reasonable price range (Price)]

@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the 1978 Superman movie?"
+   Named Entities: [1978 (Year), Superman (Title)]
+
+2. Query: "Can I watch a TV-PG historical film trailer?"
+   Named Entities: [TV-PG (MPAA Rating), historical (Genre), Film trailer (Trailer)]
+
+3. Query: "Who directed the highest-rated action movie of the 2000s?" 
+   Named Entities: [highest-rated (Viewers' Rating), action (Genre), 2000s (Year)]

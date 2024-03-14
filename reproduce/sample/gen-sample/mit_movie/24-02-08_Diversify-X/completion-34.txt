@@ -1,0 +1,8 @@
+1. Query: "Can I watch the new Disney princess movie on Netflix?"
+   Named Entities: [new Disney princess movie (Title), Netflix (Streaming platform)]
+
+2. Query: "Is there a romantic comedy from the 2000s available on Hulu?"
+   Named Entities: [romantic comedy (Genre), 2000s (Year), Hulu (Streaming platform)]
+
+3. Query: "Do you have any recommendations for family-friendly animated films on Amazon Prime?"
+   Named Entities: [family-friendly (Viewers' Rating), animated films (Genre), Amazon Prime (Streaming platform)]

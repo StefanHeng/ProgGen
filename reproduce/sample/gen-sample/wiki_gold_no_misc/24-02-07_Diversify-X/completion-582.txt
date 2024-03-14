@@ -1,0 +1,8 @@
+Sentence: "Religion has played a significant role in shaping cultures, traditions, and societies around the world."
+Named Entities: []
+
+Sentence: "The Vatican City is the spiritual and governing center of the Roman Catholic Church."
+Named Entities: [Vatican City (location), Roman Catholic Church (organization)]
+
+Sentence: "The Dalai Lama is a spiritual leader of Tibetan Buddhism, advocating for compassion, non-violence, and religious harmony."
+Named Entities: [Dalai Lama (person), Tibetan Buddhism (organization)]

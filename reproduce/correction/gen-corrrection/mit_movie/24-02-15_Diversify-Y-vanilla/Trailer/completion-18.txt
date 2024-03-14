@@ -1,0 +1,8 @@
+1. Text Span: "official preview"
+Label: (B). The correct span boundary is "preview".
+
+2. Text Span: "Film preview"
+Label: (B). The correct span boundary is "preview".
+
+3. Text Span: "Announcement trailer"
+Label: (A). Correct Entity Annotation.

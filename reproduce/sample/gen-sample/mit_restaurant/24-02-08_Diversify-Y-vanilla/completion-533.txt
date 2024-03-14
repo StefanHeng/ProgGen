@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with superior ratings that serves German cuisine?"
+Named Entities: [Superior ratings (Rating), German (Cuisine)]
+
+2. "Where can I find a place with happy hour specials and a cozy atmosphere?"
+Named Entities: [happy hour (Amenity)]
+
+3. "I'm in the mood for some authentic Korean BBQ. Any suggestions for a restaurant nearby?"
+Named Entities: [Korean BBQ (Cuisine), nearby (Location)]

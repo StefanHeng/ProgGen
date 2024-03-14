@@ -1,0 +1,8 @@
+Query: "What genre does the Wong Kar-wai film fall under"
+Named Entities: [Wong Kar-wai (Director)]
+
+Query: "Is The Sound of Music considered a musical or a drama film"
+Named Entities: [The Sound of Music (Title)]
+
+Query: "Is Obi-Wan Kenobi a character in the action subgenre film"
+Named Entities: [Obi-Wan Kenobi (Character), action (Genre)]

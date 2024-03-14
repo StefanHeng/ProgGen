@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where can I find a vegetarian-friendly restaurant nearby?"
+Named Entities: [vegetarian-friendly (Amenity), fast food (Cuisine), nearby (Location)]
+
+2. "What are the hours of operation for the closest vegetarian-friendly fast food restaurant?"
+Named Entities: [vegetarian-friendly (Amenity), fast food (Cuisine), hours of operation (Hours), closest (Location)]
+
+3. "Can you recommend a budget-friendly fast food place with a good vegetarian menu?"
+Named Entities: [budget-friendly (Price), fast food (Cuisine), vegetarian (Dish)]

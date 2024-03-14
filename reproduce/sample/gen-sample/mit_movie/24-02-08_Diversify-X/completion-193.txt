@@ -1,0 +1,8 @@
+Query: "Can you show me the trailer for a heartwarming movie to lift my spirits?"
+Named Entities: [trailer (Trailer), heartwarming (Genre)]
+
+Query: "I'm feeling down, can you recommend a movie with a touching plot that will cheer me up?"
+Named Entities: [touching plot (Plot)]
+
+Query: "What film has a beautiful and emotional song in it?"
+Named Entities: [beautiful and emotional song (Song)]

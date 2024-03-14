@@ -1,0 +1,11 @@
+1. Sentence: '{{Antoni van Leeuwenhoek}} was a Dutch tradesman and scientist who is commonly known as "the Father of Microbiology".'
+Text Span: "Antoni van Leeuwenhoek"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "In 2008, {{Beyoncé}} founded the fashion line House of Deréon, alongside her mother, Tina Knowles."
+Text Span: "Beyoncé"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Max Gluckman}} was a prominent social anthropologist known for his work on the Zulu and other peoples of southern Africa."
+Text Span: "Max Gluckman"
+Label: (A). The span is a named entity of type person

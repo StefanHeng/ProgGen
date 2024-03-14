@@ -1,0 +1,149 @@
+1. The Eiffel Tower is located in Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+2. She works for the United Nations as a human rights advocate.
+Named Entities: [United Nations (organization)]
+
+3. The Great Wall of China is over 13,000 miles long.
+Named Entities: [Great Wall of China (location), China (location)]
+
+4. Albert Einstein's theory of relativity revolutionized physics.
+Named Entities: [Albert Einstein (person)]
+
+5. Harvard University is one of the top educational institutions in the world.
+Named Entities: [Harvard University (organization)]
+
+6. Mount Everest is the highest mountain in the world.
+Named Entities: [Mount Everest (location)]
+
+7. Marie Curie was the first woman to win a Nobel Prize.
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+
+8. The United Nations Children's Fund provides humanitarian aid to children in need.
+Named Entities: [United Nations Children's Fund (organization)]
+
+9. The Statue of Liberty was a gift from France to the United States.
+Named Entities: [Statue of Liberty (location), France (location), United States (location)]
+
+10. Google's headquarters is located in Mountain View, California.
+Named Entities: [Google (organization), Mountain View (location), California (location)]
+
+11. J.K. Rowling is the author of the Harry Potter series.
+Named Entities: [J.K. Rowling (person), Harry Potter (organization)]
+
+12. The Amazon River is the second longest river in the world after the Nile.
+Named Entities: [Amazon River (location), Nile (location)]
+
+13. The Red Cross provides disaster relief around the world.
+Named Entities: [Red Cross (organization)]
+
+14. The Colosseum in Rome is an ancient amphitheater.
+Named Entities: [Colosseum (location), Rome (location)]
+
+15. Nikola Tesla was a Serbian-American inventor and engineer.
+Named Entities: [Nikola Tesla (person), Serbian (location), American (location)]
+
+16. Microsoft was founded by Bill Gates and Paul Allen.
+Named Entities: [Microsoft (organization), Bill Gates (person), Paul Allen (person)]
+
+17. The Taj Mahal is a white marble mausoleum in Agra, India.
+Named Entities: [Taj Mahal (location), Agra (location), India (location)]
+
+18. Michelle Obama is a lawyer, author, and former First Lady of the United States.
+Named Entities: [Michelle Obama (person), United States (location)]
+
+19. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+20. The Great Barrier Reef is the world's largest coral reef system.
+Named Entities: [Great Barrier Reef (location)]
+
+21. Leonardo da Vinci was an Italian polymath of the High Renaissance.
+Named Entities: [Leonardo da Vinci (person), Italian (location), High Renaissance (organization)]
+
+22. The Louvre Museum in Paris is the world's largest art museum and a historic monument.
+Named Entities: [Louvre Museum (location), Paris (location)]
+
+23. The African Union is a continental union consisting of 55 member states located on the continent of Africa.
+Named Entities: [African Union (organization), Africa (location)]
+
+24. The Sydney Opera House is a multi-venue performing arts center in Sydney, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location)]
+
+25. Florence Nightingale was an English social reformer and the founder of modern nursing.
+Named Entities: [Florence Nightingale (person), English (location)]
+
+26. The World Wildlife Fund is an international non-governmental organization founded in 1961.
+Named Entities: [World Wildlife Fund (organization)]
+
+27. The Kremlin is a fortified complex in Moscow, Russia.
+Named Entities: [Kremlin (location), Moscow (location), Russia (location)]
+
+28. Sir Isaac Newton was an English mathematician, physicist, and astronomer.
+Named Entities: [Isaac Newton (person), English (location)]
+
+29. The Versailles Palace is located in Versailles, France and served as the primary royal residence of France from 1682 until the start of the French Revolution in 1789.
+Named Entities: [Versailles Palace (location), Versailles (location), France (location), French Revolution (organization)]
+
+30. Amnesty International is a non-governmental organization focused on human rights.
+Named Entities: [Amnesty International (organization)]
+
+31. The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.
+Named Entities: [Panama Canal (location), Atlantic Ocean (location), Pacific Ocean (location)]
+
+32. Mahatma Gandhi was the leader of the Indian independence movement against British rule.
+Named Entities: [Mahatma Gandhi (person), Indian (location), British (organization)]
+
+33. The Vatican City is an independent city-state enclave within Rome, Italy, and it is the headquarters of the Roman Catholic Church.
+Named Entities: [Vatican City (location), Rome (location), Italy (location), Roman Catholic Church (organization)]
+
+34. The International Space Station is a space station, or a habitable artificial satellite, in low Earth orbit.
+Named Entities: [International Space Station (location), Earth (location)]
+
+35. Leonardo DiCaprio is an American actor and film producer.
+Named Entities: [Leonardo DiCaprio (person), American (location)]
+
+36. The Metropolitan Museum of Art is located in New York City and is the largest art museum in the United States.
+Named Entities: [Metropolitan Museum of Art (location), New York City (location), United States (location)]
+
+37. Susan B. Anthony was an American social reformer and women's rights activist who played a key role in the women's suffrage movement.
+Named Entities: [Susan B. Anthony (person), American (location)]
+
+38. The Sydney Harbour Bridge is an iconic steel through arch bridge across Sydney Harbour.
+Named Entities: [Sydney Harbour Bridge (location), Sydney Harbour (location)]
+
+39. Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing the first practical telephone.
+Named Entities: [Alexander Graham Bell (person), Scottish (location)]
+
+40. The Giza Pyramid Complex is located in Egypt.
+Named Entities: [Giza Pyramid Complex (location), Egypt (location)]
+
+41. The Bill & Melinda Gates Foundation is the largest private foundation in the world, founded by Bill and Melinda Gates.
+Named Entities: [Bill & Melinda Gates Foundation (organization), Bill Gates (person), Melinda Gates (person)]
+
+42. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance.
+Named Entities: [Acropolis of Athens (location), Athens (location)]
+
+43. Mother Teresa was an Albanian-Indian Roman Catholic nun and missionary.
+Named Entities: [Mother Teresa (person), Albanian (location), Indian (location), Roman Catholic (organization)]
+
+44. The NASA Space Shuttle program was the fourth human spaceflight program carried out by the National Aeronautics and Space Administration.
+Named Entities: [NASA Space Shuttle program (organization), National Aeronautics and Space Administration (organization)]
+
+45. Beethoven's Symphony No. 9 is one of the most famous symphonies in the classical repertoire.
+Named Entities: [Beethoven (person)]
+
+46. The Berlin Wall separated East and West Berlin from 1961 to 1989.
+Named Entities: [Berlin Wall (location), East Berlin (location), West Berlin (location)]
+
+47. Charles Darwin was an English naturalist, geologist, and biologist.
+Named Entities: [Charles Darwin (person), English (location)]
+
+48. The Arecibo Observatory was a large radio telescope in Puerto Rico, United States.
+Named Entities: [Arecibo Observatory (location), Puerto Rico (location), United States (location)]
+
+49. Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the Civil Rights Movement.
+Named Entities: [Martin Luther King Jr. (person), American (location), Civil Rights Movement (organization)]
+
+50. The International Monetary Fund is an international financial institution headquartered in Washington, D.C., consisting of 190 countries working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world.
+Named Entities: [International Monetary Fund (organization), Washington, D.C. (location)]

@@ -1,0 +1,17 @@
+Query: "what is the plot of Battle for justice"
+Named Entities: [Battle for justice (Title)]
+
+Query: "is Frozen a musical film"
+Named Entities: [Frozen (Title), musical (Genre)]
+
+Query: "who directed the movie E"
+Named Entities: [E (Title)]
+
+Query: "can you recommend a movie with cinematic music from the 1820s"
+Named Entities: [cinematic music (Song), 1820s (Year)]
+
+Query: "what genre is the film directed by Greta Gerwig"
+Named Entities: [Greta Gerwig (Director)]
+
+Query: "is the movie Footloose suitable for kids"
+Named Entities: [Footloose (Title), kids (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Show me a gorgeous biopic starring Tom Cruise"
+Named Entities: [gorgeous (Review), biopic (Genre), Tom Cruise (Actor)]
+
+2. "What documentary film is rated NR"
+Named Entities: [documentary (Genre), NR (MPAA Rating)]
+
+3. "Is Mulan a musical movie?"
+Named Entities: [Mulan (Title), musical (Genre)]

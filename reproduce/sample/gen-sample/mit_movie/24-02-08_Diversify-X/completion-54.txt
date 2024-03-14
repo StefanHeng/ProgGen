@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for the new James Bond movie?"
+Named Entities: [James Bond (Character), trailer (Trailer)]
+
+2. Query: "I'm looking for a movie teaser with an epic battle scene. Can you recommend one?"
+Named Entities: [epic battle scene (Plot), teaser (Trailer)]
+
+3. Query: "Could you play a sneak peek of the upcoming Marvel movie?"
+Named Entities: [Marvel (Genre), sneak peek (Trailer)]

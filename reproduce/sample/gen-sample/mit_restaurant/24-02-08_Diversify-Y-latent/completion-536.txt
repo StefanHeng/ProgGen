@@ -1,0 +1,8 @@
+Query: "Can you recommend any good seafood restaurants around [Bonefish Grill]?"
+Named Entities: [good (Rating), seafood (Cuisine), Bonefish Grill (Restaurant Name)]
+
+Query: "What are the operating hours for [Bonefish Grill] on weekends?"
+Named Entities: [operating hours (Hours), weekends (Hours), Bonefish Grill (Restaurant Name)]
+
+Query: "I'm looking for a place with a romantic atmosphere near [Bonefish Grill]"
+Named Entities: [romantic atmosphere (Amenity), Bonefish Grill (Restaurant Name)]

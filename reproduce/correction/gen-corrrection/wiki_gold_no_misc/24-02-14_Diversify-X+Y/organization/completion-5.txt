@@ -1,0 +1,11 @@
+1. Sentence: "The London {{Underground}} is the oldest underground railway network in the world."
+Text Span: "Underground"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "Yuri Gagarin became the first human to journey into outer space when his {{Vostok spacecraft}} completed an orbit of the Earth on April 12, 1961, under the authority of the Russian Federal Space Agency."
+Text Span: "Vostok spacecraft"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "{{The Norns}} are female beings who rule the destiny of gods and men in Norse mythology."
+Text Span: "The Norns"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+1. "Can you recommend a film that features the song 'A Whole New World'?"
+   Named Entities: ['A Whole New World' (Song)]
+
+2. "What movie did Ursula star in?"
+   Named Entities: [Ursula (Character)]
+
+3. "I'm looking for a silent, spectacular movie to watch. Any recommendations?"
+   Named Entities: [silent (Genre), spectacular (Viewers' Rating)]

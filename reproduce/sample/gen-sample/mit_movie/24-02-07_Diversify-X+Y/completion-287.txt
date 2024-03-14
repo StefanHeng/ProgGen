@@ -1,0 +1,8 @@
+Query: "Can you tell me the plot of a movie with a mysterious and unique character like Mystique?"
+Named Entities: [Mystique (Character)]
+
+Query: "Do you have any gripping storyline movies directed by Doug Liman?"
+Named Entities: [Doug Liman (Director), gripping storyline (Plot)]
+
+Query: "I'm looking for a movie with a plot that will make me laugh, maybe something by Mel Brooks."
+Named Entities: [Mel Brooks (Director), plot that will make me laugh (Plot)]

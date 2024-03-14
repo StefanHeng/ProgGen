@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good brunch options in the downtown area"
+Named Entities: [good (Rating), brunch (Amenity), downtown area (Location)]
+
+2. "What are some popular brunch spots with outdoor seating and a reasonable price range"
+Named Entities: [popular (Rating), brunch (Amenity), outdoor seating (Amenity), reasonable price range (Price)]
+
+3. "I'm looking for a cozy restaurant with a nice atmosphere for Sunday brunch"
+Named Entities: [cozy (Amenity), nice atmosphere (Amenity), Sunday brunch (Amenity)]

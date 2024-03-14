@@ -1,0 +1,8 @@
+1. Text Span: "Jakarta Stock Exchange"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Walt Disney Company"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Nature"
+Label: (C). Wrong Type. The correct entity type is other.

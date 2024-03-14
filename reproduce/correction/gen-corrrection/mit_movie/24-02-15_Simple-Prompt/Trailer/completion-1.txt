@@ -1,0 +1,11 @@
+1. Query: "find me the {{trailer}} for the film the matrix"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Show me the {{Trailer}} for the latest Marvel movie."
+Text Span: "Trailer"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Show me a {{trailer}} for the latest Mission Impossible movie."
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

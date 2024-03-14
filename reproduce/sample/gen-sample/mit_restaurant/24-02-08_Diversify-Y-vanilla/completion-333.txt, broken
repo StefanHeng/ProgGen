@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any restaurants with outdoor seating and a great view of the ocean near [Gjusta]?"
+Named Entities: [outdoor seating (Amenity), great view of the ocean (Amenity), [Gjusta] (Restaurant Name)]
+
+2. Query: "I'm looking for a budget-friendly restaurant with vegetarian options, preferably within walking distance from [Gjusta]."
+Named Entities: [budget-friendly (Price), vegetarian options (Cuisine), walking distance (Location), [Gjusta] (Restaurant Name)]
+
+3. Query: "What are the top-rated seafood restaurants in the vicinity of [Gjusta]? I want to have a special dinner tonight."
+Named Entities: [top-rated (Rating), seafood (Cuisine), vicinity of [Gjusta] (Location), special dinner (Amenity), [Gjusta] (Restaurant Name)]

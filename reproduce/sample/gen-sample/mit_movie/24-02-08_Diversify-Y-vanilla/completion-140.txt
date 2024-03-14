@@ -1,0 +1,8 @@
+1. "I want to watch a movie directed by Roman Polanski that is rated R."
+Named Entities: [Roman Polanski (Director), R (MPAA Rating)]
+
+2. "Can you recommend a hilarious movie featuring Tony Stark?"
+Named Entities: [hilarious (Viewers' Rating), Tony Stark (Character)]
+
+3. "Show me the trailer for Apocalypse, the movie with the song from Dirty Dancing."
+Named Entities: [Apocalypse (Title), trailer (Trailer), Dirty Dancing (Song)]

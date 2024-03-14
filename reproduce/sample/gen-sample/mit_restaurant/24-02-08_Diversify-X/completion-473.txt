@@ -1,0 +1,8 @@
+Query: "can you recommend a brunch spot with outdoor seating"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity)] 
+
+Query: "what's the highest rated restaurant for brunch in the downtown area"
+Named Entities: [highest rated (Rating), brunch (Amenity), downtown area (Location)]
+
+Query: "show me a brunch place that serves bottomless mimosas"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]

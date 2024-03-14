@@ -1,0 +1,8 @@
+1. Query: "Can you show me a trailer for a movie about an undercover operation in the year 2002?"
+Named Entities: [undercover operation (Plot), 2002 (Year), trailer (Trailer)]
+
+2. Query: "I'm looking for a movie with a road trip plot that came out in 1978."
+Named Entities: [road trip (Plot), 1978 (Year)]
+
+3. Query: "Do you have any unrated movie teasers from the past?"
+Named Entities: [unrated (MPAA Rating), teasers (Trailer)]

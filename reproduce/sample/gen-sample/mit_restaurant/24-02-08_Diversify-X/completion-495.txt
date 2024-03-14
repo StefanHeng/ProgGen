@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-end French restaurant with a Michelin star?"
+Named Entities: [high-end (Price), French (Cuisine), Michelin star (Rating)]
+
+Query: "I'm looking for a fancy Italian restaurant with a private dining room for 8 people."
+Named Entities: [fancy (Rating), Italian (Cuisine), private dining room (Amenity)]
+
+Query: "Where can I find an upscale steakhouse with a cocktail bar open past midnight?"
+Named Entities: [upscale (Price), steakhouse (Cuisine), cocktail bar (Amenity), past midnight (Hours)]

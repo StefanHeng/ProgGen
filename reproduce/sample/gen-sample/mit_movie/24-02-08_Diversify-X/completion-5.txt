@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the movie that won the most Oscars in the 1990s?"
+Named Entities: [1990s (Year), won the most Oscars (Awards and nominations received)]
+
+2. Query: "I remember a classic movie with Humphrey Bogart that received a lot of awards. Can you remind me which one it was?"
+Named Entities: [Humphrey Bogart (Actor), classic (Genre), received a lot of awards (Awards and nominations received)]
+
+3. Query: "I'm feeling nostalgic for an iconic film from the 80s that was nominated for multiple Golden Globes. Can you help me remember the title?"
+Named Entities: [80s (Year), iconic (Viewers' Rating), nominated for multiple Golden Globes (Awards and nominations received)]

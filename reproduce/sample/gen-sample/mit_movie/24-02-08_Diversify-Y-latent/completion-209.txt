@@ -1,0 +1,8 @@
+1. Query: "show me the trailer for a movie featuring Marty McFly"
+Named Entities: [Marty McFly (Character), trailer (Trailer)]
+
+2. Query: "what is the viewers' rating for Black Swan"
+Named Entities: [Black Swan (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "who directed the movie starring Natalie Portman and Mila Kunis"
+Named Entities: [Natalie Portman (Actor), Mila Kunis (Actor), directed (Director)]

@@ -1,0 +1,8 @@
+1. Text Span: "making-of featurette"
+Label: (C). Wrong Type. The correct entity type is Trailer.
+
+2. Text Span: "documentary"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "empowering"
+Label: (B). Wrong Boundary. The correct span boundary is "empowering biographical movie".

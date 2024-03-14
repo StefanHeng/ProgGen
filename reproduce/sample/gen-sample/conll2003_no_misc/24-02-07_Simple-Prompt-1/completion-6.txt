@@ -1,0 +1,149 @@
+1. New York City Mayor announces new policy on recycling.
+Named Entities: [New York City (location), Mayor (person)]
+
+2. Apple Inc. unveils the new iPhone 13.
+Named Entities: [Apple Inc. (organization)]
+
+3. Global warming Summit to be held in Paris.
+Named Entities: [Paris (location)]
+
+4. President Biden to meet with G7 leaders next week.
+Named Entities: [President Biden (person), G7 (organization)]
+
+5. Massive wildfire destroys homes in California.
+Named Entities: [California (location)]
+
+6. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+7. World Health Organization issues new guidelines for COVID-19 vaccinations.
+Named Entities: [World Health Organization (organization)]
+
+8. Famous actor arrested for DUI.
+Named Entities: [actor (person)]
+
+9. Paris Fashion Week announces new designers.
+Named Entities: [Paris (location)]
+
+10. United Nations releases report on global hunger crisis.
+Named Entities: [United Nations (organization)]
+
+11. Celebrity couple files for divorce.
+Named Entities: [celebrity (person)]
+
+12. Google to expand its headquarters in Silicon Valley.
+Named Entities: [Google (organization), Silicon Valley (location)]
+
+13. Hurricane hits Florida coast.
+Named Entities: [Florida (location)]
+
+14. Prince Harry and Meghan Markle welcome their second child.
+Named Entities: [Prince Harry (person), Meghan Markle (person)]
+
+15. New study shows the benefits of meditation for mental health.
+Named Entities: []
+
+16. Sydney Opera House to host international music festival.
+Named Entities: [Sydney Opera House (location)]
+
+17. Amazon CEO Jeff Bezos steps down from his position.
+Named Entities: [Amazon (organization), Jeff Bezos (person)]
+
+18. Delta variant of COVID-19 spreads rapidly in Texas.
+Named Entities: [Delta (organization), Texas (location)]
+
+19. Famous chef opens new restaurant in London.
+Named Entities: [London (location)]
+
+20. Pfizer and BioNTech develop new vaccine for coronavirus.
+Named Entities: [Pfizer (organization), BioNTech (organization)]
+
+21. Ohio State University to require COVID-19 vaccinations for all students.
+Named Entities: [Ohio State University (organization)]
+
+22. Tokyo Olympics announce new safety protocols for athletes.
+Named Entities: [Tokyo (location), Olympics (organization)]
+
+23. Soccer star Cristiano Ronaldo signs new contract with Manchester United.
+Named Entities: [Cristiano Ronaldo (person), Manchester United (organization)]
+
+24. Wild bison herd sighted in Yellowstone National Park.
+Named Entities: [Yellowstone National Park (location)]
+
+25. Bill Gates donates $1 million to charity.
+Named Entities: [Bill Gates (person)]
+
+26. New York Stock Exchange experiences record-breaking gains.
+Named Entities: [New York Stock Exchange (organization)]
+
+27. Paris Hilton launches new fashion line.
+Named Entities: [Paris Hilton (person)]
+
+28. United States imposes new sanctions on Russia.
+Named Entities: [United States (location), Russia (location)]
+
+29. Pop singer Taylor Swift releases new album.
+Named Entities: [Taylor Swift (person)]
+
+30. Microsoft to acquire gaming company Bethesda.
+Named Entities: [Microsoft (organization), Bethesda (organization)]
+
+31. Record-breaking heatwave hits Western Europe.
+Named Entities: [Western Europe (location)]
+
+32. Former President Obama to write a memoir.
+Named Entities: [President Obama (person)]
+
+33. London Marathon raises millions for charity.
+Named Entities: [London (location)]
+
+34. In-N-Out Burger opens new location in Arizona.
+Named Entities: [In-N-Out Burger (organization), Arizona (location)]
+
+35. High-speed rail project approved for construction in California.
+Named Entities: [California (location)]
+
+36. Fashion designer Karl Lagerfeld passes away at 85.
+Named Entities: [Karl Lagerfeld (person)]
+
+37. American actress Angelina Jolie visits Syrian refugee camp.
+Named Entities: [Angelina Jolie (person), Syrian (location)]
+
+38. SpaceX founder Elon Musk plans trip to space.
+Named Entities: [SpaceX (organization), Elon Musk (person)]
+
+39. Apple Store robbed in downtown Chicago.
+Named Entities: [Apple Store (organization), Chicago (location)]
+
+40. World Bank warns of economic downturn in developing countries.
+Named Entities: [World Bank (organization)]
+
+41. New York Yankees defeat Boston Red Sox in extra innings.
+Named Entities: [New York Yankees (organization), Boston Red Sox (organization)]
+
+42. South Africa imposes strict lockdown measures to curb COVID-19 spread.
+Named Entities: [South Africa (location)]
+
+43. British Prime Minister Boris Johnson announces new infrastructure plan.
+Named Entities: [British (location), Boris Johnson (person)]
+
+44. Australian airline Qantas to resume international flights.
+Named Entities: [Australian (location), Qantas (organization)]
+
+45. Technology giant IBM announces new sustainability initiative.
+Named Entities: [IBM (organization)]
+
+46. Instagram influencer faces backlash over controversial post.
+Named Entities: [Instagram (organization)]
+
+47. United Nations appoints new envoy for climate change.
+Named Entities: [United Nations (organization)]
+
+48. New study shows the benefits of exercise for heart health.
+Named Entities: []
+
+49. Microsoft CEO Satya Nadella speaks at technology conference.
+Named Entities: [Microsoft (organization), Satya Nadella (person)]
+
+50. Los Angeles Lakers star LeBron James sidelined with ankle injury.
+Named Entities: [Los Angeles Lakers (organization), LeBron James (person)]

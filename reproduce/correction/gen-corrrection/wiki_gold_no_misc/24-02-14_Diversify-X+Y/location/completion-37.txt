@@ -1,0 +1,11 @@
+1. Sentence: "{{Cognac, France}} is renowned for its production of high-quality brandy, traditionally referred to as Cognac."
+Text Span: "Cognac, France"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Jacques-Yves Cousteau, a {{French}} oceanographer, co-developed the Aqua-Lung, a prototype of the modern SCUBA diving equipment, and conducted extensive research on the undersea world."
+Text Span: "French"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "The United States Military Academy, also known as West Point, is a four-year federal service academy in {{West Point}}, New York."
+Text Span: "West Point"
+Label: (A). The span is a named entity of type location

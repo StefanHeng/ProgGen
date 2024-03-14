@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in the area"
+Named Entities: [top-rated (Rating), Italian (Cuisine), area (Location)]
+
+Query: "I'm in the mood for sushi, where is the nearest sushi bar"
+Named Entities: [sushi (Cuisine), nearest (Location), sushi bar (Amenity)]
+
+Query: "Do you know any restaurants that serve brunch on weekends"
+Named Entities: [brunch (Amenity), weekends (Hours)]

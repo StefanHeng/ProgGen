@@ -1,0 +1,8 @@
+Query: "Can you recommend any Elegant Eateries with a Michelin star in the city?"
+Named Entities: [Elegant Eateries (Amenity), Michelin star (Rating), city (Location)]
+
+Query: "I'm craving some Italian cuisine, is there a good spot around here for pasta?"
+Named Entities: [Italian (Cuisine), pasta (Dish), around here (Location)]
+
+Query: "What are the operating hours for Elegant Eateries in the downtown area?"
+Named Entities: [Elegant Eateries (Amenity), operating hours (Hours), downtown area (Location)]

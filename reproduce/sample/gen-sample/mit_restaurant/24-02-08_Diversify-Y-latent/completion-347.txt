@@ -1,0 +1,8 @@
+Query: "What are the opening hours for Mandarin Buffet?"
+Named Entities: [Mandarin Buffet (Restaurant Name), opening hours (Hours)]
+
+Query: "Show me restaurants with a high rating nearby Mandarin Buffet"
+Named Entities: [high rating (Rating), Mandarin Buffet (Restaurant Name)]
+
+Query: "I'm in the mood for some Chinese cuisine, are there any options around Mandarin Buffet?"
+Named Entities: [Chinese cuisine (Cuisine), Mandarin Buffet (Restaurant Name)]

@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "dataset_name": "wiki-gold-no-misc",
+        "source_dataset_dir_name": "24-02-14_NER-Dataset_{fmt=n-p2,#l=3,de=s}_add-super-idx",
+        "diversity_variant": "Diverse-Y-seeded"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Only first names, last names, and full names are considered named person entities. Names of fictional figures in film, literature, art and mythology such as \"Harry Potter\", \"Mona Lisa\" and \"Odin\" are not relevant named entities. (Governmental, political or executive) titles such as \"President of the United States\" and \"CEO\" are also not named entities. General reference to a person or persons such as \"lead singer\" are not named entities. A named person entity should not have any starting titles such as \"Dr.\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.",
+                    "entity_span": "Harper Lee",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.",
+                    "entity_span": "Dr. James E. Webb",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "James E. Webb",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by Leonardo da Vinci.",
+                    "entity_span": "Mona Lisa",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "She is a well-known environmental activist and has spoken at numerous international conferences on climate change.",
+                    "entity_span": "environmental activist",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "She is the CEO of Apple Inc., a multinational technology company based in Cupertino, California.",
+                    "entity_span": "CEO",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Demonyms such as \"French\", \"American\", \"African\", \"Chinese\", \"Indian\", \"South Korean\" and \"Australian\" are not relevant named entities. Works of art such as \"Mona Lisa\" are also not relevant named entities. Viruses such as \"COVID-19\" are not named location entities. Hurricanes and other natural disasters are also not named location entities. General references to a location such as \"city\" and \"business park\" is not a named entity.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "The Mississippi River runs through several states in the United States, including Minnesota, Wisconsin, and Louisiana.",
+                    "entity_span": "United States",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Dr. Jonas Salk, an American virologist, developed the first successful polio vaccine in 1955.",
+                    "entity_span": "American",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Demonyms such as \"American\", \"French\", \"European\" and \"Indian\" are not relevant named entities. Prestigious Awards such as \"Oscar\", \"Academy Award\" and \"Nobel Prize\" are also not relevant named entities. Historical periods such as \"Enlightenment\" and \"Italian Renaissance\" are not relevant named entities. Literary works and works of art such as \"The Age of Innocence\" and \"Mona Lisa\" are also not relevant named entities. Products such as \"Tesla Model S\" are not relevant named entities. General references to an organization or organizations such as \"university\" and \"non-profit organization\" are not named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "The World Health Organization is a specialized agency of the United Nations responsible for international public health.",
+                    "entity_span": "United Nations",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "She won the Nobel Prize in Literature in 2013 for her novels and short stories.",
+                    "entity_span": "Nobel Prize in Literature",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "Aretha Franklin, also known as the \"Queen of Soul\", was an American singer, songwriter, and pianist.",
+                    "entity_span": "American",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "The company partnered with a local non-profit organization to organize a charity event in Tokyo, Japan.",
+                    "entity_span": "non-profit organization",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

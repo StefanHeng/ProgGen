@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with gourmet fare and outdoor seating"
+Named Entities: [gourmet fare (Cuisine), outdoor seating (Amenity)]
+
+Query: "Which restaurant offers a tasting menu near the waterfront?"
+Named Entities: [tasting menu (Amenity), waterfront (Location)]
+
+Query: "I need a reservation for 3 at a top-rated Italian restaurant by 7 p m"
+Named Entities: [reservation for 3 (Amenity), top-rated (Rating), Italian (Cuisine), by 7 p m (Hours)]

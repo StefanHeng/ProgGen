@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some street food, where can I find a food truck with outdoor seating?"
+Named Entities: [food truck (Cuisine), outdoor seating (Amenity)]
+
+Query: "I want to grab a quick bite from a food truck with outdoor dining, do you know any nearby?"
+Named Entities: [food truck (Cuisine), outdoor dining (Amenity)]
+
+Query: "I need a recommendation for a food truck that serves outdoor seating, any suggestions?"
+Named Entities: [food truck (Cuisine), outdoor seating (Amenity)]

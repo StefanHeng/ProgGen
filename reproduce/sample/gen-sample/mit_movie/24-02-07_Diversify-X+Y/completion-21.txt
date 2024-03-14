@@ -1,0 +1,8 @@
+1. Spoken Query: "Hey, can you give me a brief summary of the plot for the movie I Wanna Dance with Somebody?"
+   Named Entities: [I Wanna Dance with Somebody (Title)]
+
+2. Spoken Query: "Could you tell me about any electrifying psychological thrillers from 2017 that involve an undercover operation?"
+   Named Entities: [2017 (Year), undercover operation (Plot), electrifying (Viewers' Rating), psychological thriller (Genre)]
+
+3. Spoken Query: "I'm curious about the movie with the plot focused on an undercover operation that was released in 2017. Can you provide a quick synopsis?"
+   Named Entities: [2017 (Year), undercover operation (Plot)]

@@ -1,0 +1,8 @@
+1. "I'm looking for an expensive restaurant with a buffet option for dinner"
+Named Entities: [expensive (Price), buffet (Amenity), dinner (Hours)]
+
+2. "Can you recommend a place with an expensive buffet for lunch today?"
+Named Entities: [expensive (Price), buffet (Amenity), lunch (Hours), today (Hours)]
+
+3. "What are the top-rated restaurants in the area that offer an expensive buffet for brunch?"
+Named Entities: [top-rated (Rating), expensive (Price), buffet (Amenity), brunch (Hours), area (Location)]

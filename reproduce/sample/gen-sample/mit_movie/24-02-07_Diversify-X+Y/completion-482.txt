@@ -1,0 +1,8 @@
+1. "Hey, can you give me a review of the new James Wan movie?"
+Named Entities: [review (Review), James Wan (Director)]
+
+2. "Show me a glimpse of the Rocky Balboa film, please."
+Named Entities: [glimpse (Trailer), Rocky Balboa (Title)]
+
+3. "How many movies got a five out of five rating last year?"
+Named Entities: [five out of five (Viewers' Rating), last year (Year)]

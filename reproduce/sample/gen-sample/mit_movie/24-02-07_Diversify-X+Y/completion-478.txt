@@ -1,0 +1,8 @@
+1. "Who directed the movie The Princess Bride and what was the year of its release?"
+Named Entities: [The Princess Bride (Title), director (Director), 1985 (Year)]
+
+2. "What is the viewers' rating for the film The Princess Bride?"
+Named Entities: [The Princess Bride (Title), viewers' rating (Viewers' Rating)]
+
+3. "Can you tell me the main actor in the groundbreaking movie R?"
+Named Entities: [R (Title), groundbreaking (Review), main actor (Actor)]

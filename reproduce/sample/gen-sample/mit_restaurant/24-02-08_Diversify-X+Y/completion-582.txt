@@ -1,0 +1,8 @@
+Query: "Can you recommend any popular late-night eateries?"
+Named Entities: [Popular late-night eateries (Amenity)]
+
+Query: "I'm looking for a late-night dining option, preferably something expensive."
+Named Entities: [late-night dining (Amenity), expensive (Price)]
+
+Query: "Where can I find Texas Roadhouse, a popular late-night dining spot?"
+Named Entities: [Texas Roadhouse (Restaurant Name), popular late-night dining (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with Saoirse Ronan in it that has exceptional production design?"
+Named Entities: [Saoirse Ronan (Actor), production design (Plot)]
+
+Query: "Do you have a making-of documentary for a film with a great set?"
+Named Entities: [making-of (Plot), set (Plot)]
+
+Query: "Can you show me a movie with a viewers' rating of 3 out of 5?"
+Named Entities: [3 out of 5 (Viewers' Rating)]

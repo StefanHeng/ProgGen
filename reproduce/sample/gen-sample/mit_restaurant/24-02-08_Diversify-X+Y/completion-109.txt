@@ -1,0 +1,8 @@
+Query: "can you recommend a breakfast spot with a great view of the city"
+Named Entities: [breakfast (Cuisine), great view of the city (Amenity)]
+
+Query: "what are some good places for a hearty breakfast within walking distance"
+Named Entities: [hearty breakfast (Cuisine), walking distance (Location)]
+
+Query: "which restaurant has the highest rating for their breakfast menu"
+Named Entities: [highest rating (Rating), breakfast menu (Cuisine) ]

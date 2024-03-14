@@ -1,0 +1,8 @@
+Query: "What are some coming attractions for the new Art heist movies?"
+Named Entities: [Art heist (Genre), Coming attractions (Trailer)]
+
+Query: "Can you recommend an uplifting movie directed by Francis Ford Coppola?"
+Named Entities: [uplifting (Genre), Francis Ford Coppola (Director)]
+
+Query: "Is there a Spell-binding movie suitable for all ages featuring a character like Mystique?"
+Named Entities: [Spell-binding (Plot), All Ages (MPAA Rating), Mystique (Character)]

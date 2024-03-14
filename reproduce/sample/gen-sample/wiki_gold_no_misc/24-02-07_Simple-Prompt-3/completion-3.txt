@@ -1,0 +1,59 @@
+1. The National Basketball Association (NBA) is a professional basketball league in North America.
+Named Entities: [National Basketball Association (organization), North America (location)]
+
+2. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+3. Elon Musk is the CEO of SpaceX, a private aerospace manufacturer and space transportation company.
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+4. The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+
+5. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), 1960 (location)]
+
+6. Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity.
+Named Entities: [Marie Curie (person)]
+
+7. The United Nations is an intergovernmental organization tasked with promoting international cooperation and maintaining peace and security.
+Named Entities: [United Nations (organization)]
+
+8. Mount Everest is the Earth's highest mountain, located in the Mahalangur Himal sub-range of the Himalayas.
+Named Entities: [Mount Everest (location), Mahalangur Himal (location), Himalayas (location)]
+
+9. Cristiano Ronaldo is a Portuguese professional footballer who plays as a forward for Juventus and the Portugal national team.
+Named Entities: [Cristiano Ronaldo (person), Juventus (organization), Portugal (location)]
+
+10. Harvard University is a private Ivy League research university in Cambridge, Massachusetts.
+Named Entities: [Harvard University (organization), Ivy League (organization), Cambridge (location), Massachusetts (location)]
+
+11. The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci.
+Named Entities: [Mona Lisa (location), Leonardo da Vinci (person), Italian Renaissance (organization)]
+
+12. The International Space Station (ISS) is a modular space station in low Earth orbit.
+Named Entities: [International Space Station (organization), ISS (organization), Earth (location)]
+
+13. Barack Obama served as the 44th President of the United States from 2009 to 2017.
+Named Entities: [Barack Obama (person), President of the United States (organization)]
+
+14. The Amazon Rainforest, also known as the Amazon Jungle, is a moist broadleaf tropical rainforest in the Amazon biome.
+Named Entities: [Amazon Rainforest (location), Amazon Jungle (location), Amazon biome (location)]
+
+15. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person), Germany (location)]
+
+16. Disney is an American diversified multinational mass media and entertainment conglomerate.
+Named Entities: [Disney (organization), American (location)]
+
+17. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+
+18. Leonardo DiCaprio is an American actor, film producer, and environmentalist.
+Named Entities: [Leonardo DiCaprio (person), American (location)]
+
+19. The Louvre, or the Louvre Museum, is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre (organization), Louvre Museum (organization), Paris (location), France (location)]
+
+20. Tiger Woods is an American professional golfer.
+Named Entities: [Tiger Woods (person), American (location)]

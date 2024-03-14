@@ -1,0 +1,8 @@
+Query: "where can I find romantic food truck with Creole Cajun Cuisine on Wheels"
+Named Entities: [romantic (Amenity), Creole Cajun Cuisine on Wheels (Cuisine)]
+
+Query: "I'm craving tacos from a food truck, where's the nearest romantic option"
+Named Entities: [tacos (Dish), food truck (Amenity), romantic (Amenity)]
+
+Query: "I want to try some Creole Cajun Cuisine on Wheels from a romantic food truck"
+Named Entities: [Creole Cajun Cuisine on Wheels (Cuisine), romantic (Amenity), food truck (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Could you show me a one-minute trailer of the new Ridley Scott movie?"
+Named Entities: [one-minute trailer (Trailer), Ridley Scott (Director)]
+
+Query: "Is Ryan Gosling starring in the film trailer for Grease?"
+Named Entities: [Ryan Gosling (Actor), Grease (Title), film trailer (Trailer)]
+
+Query: "What is the genre of the movie directed by Ridley Scott?"
+Named Entities: [Ridley Scott (Director)]

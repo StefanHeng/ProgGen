@@ -1,0 +1,8 @@
+Query: "Can you recommend a top-rated Italian restaurant in the downtown area?"
+Named Entities: [Top-rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+Query: "I'm looking for the best seafood place with outdoor seating and a view of the water."
+Named Entities: [best (Rating), seafood (Cuisine), outdoor seating (Amenity), view of the water (Amenity)]
+
+Query: "Where can I find a budget-friendly burger joint open past midnight?"
+Named Entities: [budget-friendly (Price), burger joint (Restaurant Name), past midnight (Hours)]

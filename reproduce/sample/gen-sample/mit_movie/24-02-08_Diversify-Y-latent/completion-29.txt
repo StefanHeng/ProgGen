@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with approved musically enhanced scenes?"
+   Named Entities: [musically enhanced scenes (Plot), Approved (MPAA Rating)]
+
+2. Query: "Could you show me a Western movie with standout soundtrack highlights?"
+   Named Entities: [Western (Genre), standout soundtrack highlights (Song)]
+
+3. Query: "Which movie in 1999 received the highest viewers' rating?"
+   Named Entities: [1999 (Year), highest viewers' rating (Viewers' Rating)]

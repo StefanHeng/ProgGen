@@ -1,0 +1,8 @@
+1. Query: "What movie features the song Material Girl?"
+Named Entities: [Material Girl (Song)]
+
+2. Query: "Can you recommend a chilling movie from 1976?"
+Named Entities: [chilling (Genre), 1976 (Year)]
+
+3. Query: "Who directed the film starring Anne Hathaway in 1985?"
+Named Entities: [Anne Hathaway (Actor), 1985 (Year)]

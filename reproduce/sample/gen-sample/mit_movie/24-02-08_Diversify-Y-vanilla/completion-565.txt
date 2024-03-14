@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies directed by John Singleton?"
+Named Entities: [John Singleton (Director)]
+
+2. Query: "What is the viewers' rating for the movie directed by John Singleton, Boyz n the Hood?"
+Named Entities: [John Singleton (Director), Boyz n the Hood (Title)]
+
+3. Query: "Show me the trailer for the movie directed by John Singleton, Higher Learning."
+Named Entities: [John Singleton (Director), Higher Learning (Title), trailer (Trailer)]

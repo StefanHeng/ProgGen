@@ -1,0 +1,8 @@
+1. "Can you tell me if the movie The Hunger won any awards or received nominations?"
+Named Entities: [The Hunger (Title), Awards, nominations]
+
+2. "I'm looking for a supernatural film from the mid-1980s that is unrated. Do you have any suggestions?"
+Named Entities: [supernatural (Genre), mid-1980s (Year), unrated (MPAA Rating)]
+
+3. "I'd like to know if the movie Cross Creek, released between 1983 and 1986, received any awards or nominations."
+Named Entities: [Cross Creek (Title), 1983-1986 (Year), Awards, nominations]

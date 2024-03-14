@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie directed by Jon Favreau that is not rated?"
+Named Entities: [Jon Favreau (Director), not rated (MPAA Rating)]
+
+Query: "Show me a trailer for a movie by George Lucas that features lightsabers."
+Named Entities: [George Lucas (Director), lightsabers (Plot)]
+
+Query: "What year did George Lucas release a movie with the title 'American Graffiti'?"
+Named Entities: [George Lucas (Director), American Graffiti (Title)]

@@ -1,0 +1,11 @@
+1. Query: "Do you know of any {{moderate}}-priced café around Perimeter area?"
+Text Span: "moderate"
+Label: (C). The span is not a named entity. The correct entity type is Amenity.
+
+2. Query: "I need to find a restaurant that serves buffet and is affordable, preferably around {{$35}}, what are the operation hours?"
+Text Span: "$35"
+Label: (A). The span is a named entity of type price.
+
+3. Query: "Find a {{high-end}} buffet restaurant in the Kings Buffet region"
+Text Span: "high-end"
+Label: (A). The span is a named entity of type price.

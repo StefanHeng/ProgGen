@@ -1,0 +1,149 @@
+1. "what is the title of the movie in which leonardo dicaprio played a role"
+Named Entities: [leonardo dicaprio (Actor)]
+
+2. "who directed the film the shawshank redemption"
+Named Entities: [the shawshank redemption (Title)]
+
+3. "what songs are featured in the movie a star is born"
+Named Entities: [a star is born (Title)]
+
+4. "what is the plot of the movie inception"
+Named Entities: [inception (Title)]
+
+5. "can you recommend a good thriller movie released in the 90s"
+Named Entities: [thriller (Genre), 90s (Year)]
+
+6. "what is the viewers' rating for the movie the godfather"
+Named Entities: [the godfather (Title)]
+
+7. "who is the director of the movie pulp fiction"
+Named Entities: [pulp fiction (Title)]
+
+8. "find me the trailer for the film the matrix"
+Named Entities: [the matrix (Title), trailer (Trailer)]
+
+9. "is there a biopic about steve jobs that is worth watching"
+Named Entities: [steve jobs (Character), biopic (Genre), worth watching (Review)]
+
+10. "what is the mpaa rating for the movie the dark knight"
+Named Entities: [the dark knight (Title)]
+
+11. "what is your favorite movie featuring meryl streep"
+Named Entities: [meryl streep (Actor)]
+
+12. "show me a list of romantic comedies released in the past year"
+Named Entities: [romantic comedies (Genre)]
+
+13. "can you provide a summary of the plot for the film the great gatsby"
+Named Entities: [the great gatsby (Title), summary (Plot)]
+
+14. "what movies has alfred hitchcock directed"
+Named Entities: [alfred hitchcock (Director)]
+
+15. "is there a review for the movie the silence of the lambs"
+Named Entities: [the silence of the lambs (Title), review (Review)]
+
+16. "what is the name of the actor who starred in the movie forrest gump"
+Named Entities: [forrest gump (Title)]
+
+17. "show me a list of action movies from the 80s"
+Named Entities: [action (Genre), 80s (Year)]
+
+18. "what is your opinion on the film the shawshank redemption"
+Named Entities: [the shawshank redemption (Title)]
+
+19. "who played the lead role in the movie rocky"
+Named Entities: [rocky (Title)]
+
+20. "what is the year of release for the sound of music"
+Named Entities: [the sound of music (Title)]
+
+21. "can you tell me the top rated horror movies of all time"
+Named Entities: [horror (Genre), top rated (Viewers' Rating)]
+
+22. "find me the song from the movie the lion king"
+Named Entities: [the lion king (Title), song (Song)]
+
+23. "what is the mpaa rating for the film the shining"
+Named Entities: [the shining (Title)]
+
+24. "which movie is known for its iconic car chase scene"
+Named Entities: [iconic car chase (Plot)]
+
+25. "has a biographical film been made about nelson mandela"
+Named Entities: [nelson mandela (Character), biographical (Genre)]
+
+26. "what are the best musicals that have been released recently"
+Named Entities: [musicals (Genre), recently (Year)]
+
+27. "show me a clip of the film the wizard of oz"
+Named Entities: [the wizard of oz (Title), clip (Trailer)]
+
+28. "is there an actor who has appeared in multiple steven spielberg films"
+Named Entities: [steven spielberg (Director), actor (Actor)]
+
+29. "recommend me a comedy movie with a high viewers' rating"
+Named Entities: [comedy (Genre), high viewers' rating (Viewers' Rating)]
+
+30. "is there a review for the film the lord of the rings"
+Named Entities: [the lord of the rings (Title), review (Review)]
+
+31. "what genre does the movie the matrix belong to"
+Named Entities: [the matrix (Title)]
+
+32. "who are the main characters in the movie finding nemo"
+Named Entities: [finding nemo (Title), main characters (Character)]
+
+33. "what was the first film directed by christopher nolan"
+Named Entities: [christopher nolan (Director)]
+
+34. "what movies have been adapted from stephen king novels"
+Named Entities: [stephen king (Director), novels (Plot)]
+
+35. "show me the trailers for the harry potter films"
+Named Entities: [harry potter (Title), trailers (Trailer)]
+
+36. "what is the song featured in the movie titanic"
+Named Entities: [titanic (Title), song (Song)]
+
+37. "what is the mpaa rating for the film the departed"
+Named Entities: [the departed (Title)]
+
+38. "which actor appeared in the most movies in the 2000s"
+Named Entities: [2000s (Year), actor (Actor)]
+
+39. "who directed the movie the fifth element"
+Named Entities: [the fifth element (Title)]
+
+40. "what is the viewers' rating for the movie the lion king"
+Named Entities: [the lion king (Title)]
+
+41. "what is the plot of the movie the truman show"
+Named Entities: [the truman show (Title), plot (Plot)]
+
+42. "please recommend a family-friendly fantasy film"
+Named Entities: [family-friendly (MPAA Rating), fantasy (Genre)]
+
+43. "what are the best-reviewed sci-fi films of the past decade"
+Named Entities: [sci-fi (Genre), best-reviewed (Review), past decade (Year)]
+
+44. "show me a list of romance movies that came out in the 60s"
+Named Entities: [romance (Genre), 60s (Year)]
+
+45. "who are the main characters in the wizard of oz"
+Named Entities: [wizard of oz (Title), main characters (Character)]
+
+46. "what is the director's cut of blade runner"
+Named Entities: [blade runner (Title), director's cut (Director)]
+
+47. "is there a review for the film casablanca"
+Named Entities: [casablanca (Title), review (Review)]
+
+48. "what is the mpaa rating for the movie gone with the wind"
+Named Entities: [gone with the wind (Title)]
+
+49. "which actor played the lead role in the movie jaws"
+Named Entities: [jaws (Title), lead role (Actor)]
+
+50. "what is the year of release for the film citizen kane"
+Named Entities: [citizen kane (Title)]

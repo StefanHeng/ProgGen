@@ -1,0 +1,10 @@
+Examples:
+
+1. "W. E. B. Du Bois, a prominent sociologist, co-founded the National Association for the Advancement of Colored People and was a leading figure in the study of race and class in America."
+Named Entities: [W. E. B. Du Bois (person), National Association for the Advancement of Colored People (organization), America (location)]
+
+2. "Jane Addams, known for her pioneering work in social work and activism, established Hull House in Chicago, a settlement house that provided social and educational services to immigrant communities."
+Named Entities: [Jane Addams (person), Hull House (organization), Chicago (location)]
+
+3. "The Rust Belt, a region in the Midwestern and Northeastern United States, experienced a decline in manufacturing jobs and economic hardship, leading to social and demographic changes in the affected communities."
+Named Entities: [The Rust Belt (location), United States (location), Midwestern (location), Northeastern (location)]

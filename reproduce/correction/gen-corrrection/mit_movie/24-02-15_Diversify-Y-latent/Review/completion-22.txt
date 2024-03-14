@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie directed by Sofia Coppola that was a {{Pleasant surprise}}?"
+Text Span: "Pleasant surprise"
+Label: (A). The span is a named entity of type review
+
+2. Query: "Can you recommend a movie with {{brilliant acting}} from 1975?"
+Text Span: "brilliant acting"
+Label: (A). The span is a named entity of type review
+
+3. Query: "can you recommend any {{Groundbreaking}} movies directed by Akira Kurosawa"
+Text Span: "Groundbreaking"
+Label: (A). The span is a named entity of type review

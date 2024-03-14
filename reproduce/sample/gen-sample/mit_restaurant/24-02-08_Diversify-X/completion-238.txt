@@ -1,0 +1,8 @@
+1. "What restaurants in the area offer buffet meals with special discounts?"
+Named Entities: [buffet (Amenity), special discounts (Amenity)]
+
+2. "I'm looking for a buffet restaurant with deals and promotions, can you suggest any?"
+Named Entities: [buffet (Amenity), deals and promotions (Amenity)]
+
+3. "Where can I find a buffet place with great discounts and offers?"
+Named Entities: [buffet (Amenity), great discounts (Amenity)]

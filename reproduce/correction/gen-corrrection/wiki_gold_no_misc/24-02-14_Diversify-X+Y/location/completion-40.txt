@@ -1,0 +1,8 @@
+1. Text Span: "African elephant"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Earth"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "The Great Barrier Reef"
+Label: (A). The span is a named entity of type location

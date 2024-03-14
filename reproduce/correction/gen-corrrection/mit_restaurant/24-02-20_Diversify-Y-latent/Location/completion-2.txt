@@ -1,0 +1,11 @@
+1. Query: "What are the Google reviews for the Italian restaurant on {{Main Street}}?"
+Text Span: "Main Street"
+Label: (A). The span is a named entity of type location
+
+2. Query: "Where is The Greek Island Taverna {{located}}?"
+Text Span: "located"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is Amenity.
+
+3. Query: "What's a good spot for brunch in {{San Francisco}} with vegetarian options and reasonable prices?"
+Text Span: "San Francisco"
+Label: (A). The span is a named entity of type location

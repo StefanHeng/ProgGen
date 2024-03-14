@@ -1,0 +1,8 @@
+Query: "I'm looking for a waterfront restaurant with good deals for lunch."
+Named Entities: [waterfront (Amenity), good deals (Price)]
+
+Query: "Do you know of any Korean restaurants with waterfront views that offer lunch specials?"
+Named Entities: [Korean (Cuisine), waterfront views (Amenity), lunch specials (Price)]
+
+Query: "I need a lunch spot with a waterfront view and Korean cuisine, can you help me find one?"
+Named Entities: [lunch spot (Amenity), waterfront view (Amenity), Korean cuisine (Cuisine)]

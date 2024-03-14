@@ -1,0 +1,8 @@
+1. "Has The Departed movie won any awards for Best Director or Best Picture?"
+Named Entities: [The Departed (Title), Best Director (Award), Best Picture (Award)]
+
+2. "I want to know which movie featuring betrayal received the most nominations in 2020."
+Named Entities: [betrayal (Plot), 2020 (Year)]
+
+3. "Can you tell me if Inception received any nominations for its musical score?"
+Named Entities: [Inception (Title), musical score (Song)]

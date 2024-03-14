@@ -1,0 +1,8 @@
+1. "Where can I find a trendy fast food spot with a great ambiance?"
+Named Entities: [trendy (Amenity), fast food (Cuisine)]
+
+2. "Which hip eatery offers quick and affordable fast food options?"
+Named Entities: [hip (Amenity), fast food (Cuisine), affordable (Price)]
+
+3. "What are the top-rated fast food joints with a cool vibe?"
+Named Entities: [top-rated (Rating), fast food (Cuisine), cool vibe (Amenity)]

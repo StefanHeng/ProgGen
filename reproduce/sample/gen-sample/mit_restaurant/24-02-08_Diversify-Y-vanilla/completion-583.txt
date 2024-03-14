@@ -1,0 +1,8 @@
+Query: "recommend a restaurant with a Forbes Travel Guide rating"
+Named Entities: [Forbes Travel Guide (Amenity), rating (Rating)]
+
+Query: "show me the hours for the nearest Italian restaurant"
+Named Entities: [hours (Hours), nearest (Location), Italian (Cuisine), restaurant (Amenity)]
+
+Query: "I want to try a new seafood dish, any suggestions?"
+Named Entities: [seafood (Cuisine), dish (Dish)]

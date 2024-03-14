@@ -1,0 +1,8 @@
+Query: "can you recommend any Nearby Italian restaurants with a patio?"
+Named Entities: [Nearby (Amenity), Italian (Cuisine), patio (Amenity)]
+
+Query: "what are the hours for the Nearby sushi place?"
+Named Entities: [Nearby (Location), sushi (Cuisine), hours (Hours)]
+
+Query: "I'm craving tacos, where can I find a Nearby Mexican restaurant with high ratings?"
+Named Entities: [Nearby (Location), tacos (Dish), Mexican (Cuisine), high ratings (Rating)]

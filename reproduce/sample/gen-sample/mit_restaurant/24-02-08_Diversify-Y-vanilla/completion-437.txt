@@ -1,0 +1,8 @@
+Query: "Where can I find a Cafe Mocha nearby?"
+Named Entities: [Cafe Mocha (Dish), nearby (Location)]
+
+Query: "What are the business hours for Flemings Prime Steakhouse?"
+Named Entities: [Flemings Prime Steakhouse (Restaurant Name), business hours (Hours)]
+
+Query: "Do you know if Bonanza Steakhouse serves breakfast?"
+Named Entities: [Bonanza Steakhouse (Restaurant Name), breakfast (Dish)]

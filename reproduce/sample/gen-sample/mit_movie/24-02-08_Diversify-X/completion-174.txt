@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the most awards in the 1990s?"
+Named Entities: [1990s (Year), most awards (Review)]
+
+2. "I'm looking for a critically acclaimed film with the highest number of nominations for Best Picture."
+Named Entities: [critically acclaimed (Review), highest number of nominations for Best Picture (Review)]
+
+3. "Which director has the most number of Oscar-winning movies?"
+Named Entities: [most number of Oscar-winning movies (Review), Director]

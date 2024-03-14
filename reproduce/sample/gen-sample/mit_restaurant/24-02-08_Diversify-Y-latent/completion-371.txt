@@ -1,0 +1,8 @@
+1. "I'm in the mood for some American food, can you recommend a restaurant?"
+Named Entities: [American (Cuisine)]
+
+2. "What are the hours of operation for Papa John's?"
+Named Entities: [Papa John's (Restaurant Name), hours of operation (Hours)]
+
+3. "I'm looking for a moderately priced restaurant with a good rating, any recommendations?"
+Named Entities: [moderately priced (Price), good rating (Rating)]

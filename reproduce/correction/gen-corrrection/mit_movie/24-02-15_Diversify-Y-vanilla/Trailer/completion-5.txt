@@ -1,0 +1,8 @@
+1. Text Span: "Official trailer"
+Label: (B). The correct span boundary is "trailer"
+
+2. Text Span: "First look"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: Trailer
+
+3. Text Span: "movie trailer"
+Label: (B). The correct span boundary is "trailer"

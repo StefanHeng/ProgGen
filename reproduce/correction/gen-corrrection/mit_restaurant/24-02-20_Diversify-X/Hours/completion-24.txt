@@ -1,0 +1,8 @@
+1. Text Span: "breakfast"
+   Label: (A). The span is a named entity of type hours
+
+2. Text Span: "hours of operation"
+   Label: (D). The span is not a named entity
+
+3. Text Span: "dinner"
+   Label: (A). The span is a named entity of type hours

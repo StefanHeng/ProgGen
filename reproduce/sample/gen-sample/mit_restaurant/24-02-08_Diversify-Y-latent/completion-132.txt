@@ -1,0 +1,8 @@
+1. Query: "find me an Affordable Italian restaurant with high ratings"
+Named Entities: [Affordable (Price), Italian (Cuisine), high ratings (Rating)]
+
+2. Query: "where can I get a quick lunch for under $10"
+Named Entities: [quick lunch (Amenity), under $10 (Price)]
+
+3. Query: "show me the closest place with outdoor seating and a good wine selection"
+Named Entities: [closest (Location), outdoor seating (Amenity), good wine selection (Amenity)]

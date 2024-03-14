@@ -1,0 +1,8 @@
+1. "Can you recommend a good Italian restaurant for lunch around here?"
+Named Entities: [Italian (Cuisine), lunch (Amenity), around here (Location)]
+
+2. "What are the hours of operation for the nearest sushi place for lunch?"
+Named Entities: [hours of operation (Hours), nearest (Location), sushi (Cuisine), lunch (Amenity)]
+
+3. "I'm looking for a cheap but authentic Mexican restaurant for lunch, any suggestions?"
+Named Entities: [cheap (Price), authentic (Rating), Mexican (Cuisine), lunch (Amenity) ]

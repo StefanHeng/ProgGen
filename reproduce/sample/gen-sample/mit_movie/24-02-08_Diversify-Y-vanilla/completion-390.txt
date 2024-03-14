@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie about a Mafia hitman that was released in the 1960s and has a PG-14 rating?"
+Named Entities: [Mafia hitman (Character), 1960s (Year), PG-14 (MPAA Rating)]
+
+2. Query: "I'm looking for a movie with a Trailer excerpt featuring organized crime."
+Named Entities: [Trailer excerpt (Trailer), organized crime (Plot)]
+
+3. Query: "What film portrays a Wannabe gangster and has a song associated with it?"
+Named Entities: [Wannabe (Character), song (Song)]

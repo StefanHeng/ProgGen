@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants with a private dining room for a special event?"
+Named Entities: [private dining room (Amenity), special event (Amenity)]
+
+2. "I'm craving some delicious bruschetta, where can I find the best in town?"
+Named Entities: [delicious (Rating), bruschetta (Dish), best in town (Rating)]
+
+3. "Is there a place nearby with affordable Italian cuisine?"
+Named Entities: [affordable (Price), Italian (Cuisine), nearby (Location)]

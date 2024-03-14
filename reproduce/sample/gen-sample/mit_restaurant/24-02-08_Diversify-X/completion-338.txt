@@ -1,0 +1,8 @@
+Query: "I'm looking for a breakfast spot with good reviews nearby"
+Named Entities: [breakfast (Cuisine), nearby (Location), good reviews (Rating)]
+
+Query: "what are some breakfast places with outdoor seating?"
+Named Entities: [breakfast (Cuisine), outdoor seating (Amenity)]
+
+Query: "show me a breakfast restaurant with a 24-hour menu"
+Named Entities: [breakfast (Cuisine), 24-hour (Hours)]

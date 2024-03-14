@@ -1,0 +1,8 @@
+1. "Can you provide me with the viewers' rating for the film Fargo?"
+   Named Entities: [Fargo (Title), viewers' rating (Review)]
+
+2. "What year was the movie Inception released, and who directed it?"
+   Named Entities: [Inception (Title), released (Year), directed (Director)]
+
+3. "I'm interested in seeing a gripping thriller. Could you recommend a movie directed by Alfred Hitchcock?"
+   Named Entities: [gripping (Genre), thriller (Genre), Alfred Hitchcock (Director)]

@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a casual late-night dining spot with a good selection of comfort food"
+   Named Entities: [casual (Amenity), late-night dining (Hours), comfort food (Cuisine)]
+
+2. Query: "Where can I find a relaxed eatery open past midnight serving American cuisine"
+   Named Entities: [relaxed (Amenity), past midnight (Hours), American cuisine (Cuisine)]
+
+3. Query: "What's a laid-back place where I can grab a bite after hours without breaking the bank"
+   Named Entities: [laid-back (Amenity), after hours (Hours), without breaking the bank (Price)

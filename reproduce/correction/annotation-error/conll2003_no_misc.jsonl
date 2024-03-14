@@ -1,0 +1,13 @@
+{"sentence": "Renowned economist Dr. John Smith predicts a downturn in the stock market.", "span": "Dr. John Smith", "entity_type": "person"}
+{"sentence": "Local woman raises funds for homeless shelter by knitting blankets.", "span": "woman", "entity_type": "person"}
+{"sentence": "CEO of General Motors predicts electric vehicles will account for 40% of company's sales by 2025.", "span": "CEO of General Motors", "entity_type": "person"}
+{"sentence": "Japanese prime minister announces economic reforms to boost the country's GDP.", "span": "Japanese", "entity_type": "location"}
+{"sentence": "Hurricane Katrina devastates New Orleans, Louisiana.", "span": "Hurricane Katrina", "entity_type": "location"}
+{"sentence": "Celebrities flock to Paris Fashion Week for the latest trends.", "span": "Paris Fashion Week", "entity_type": "location"}
+{"sentence": "New study shows increase in pollution levels in major cities.", "span": "major cities", "entity_type": "location"}
+{"sentence": "New mural depicting local history to be commissioned in downtown arts district.", "span": "downtown arts district", "entity_type": "location"}
+{"sentence": "Chinese President Xi Jinping meets with Indian Prime Minister Narendra Modi to discuss trade relations.", "span": "Chinese", "entity_type": "organization"}
+{"sentence": "WHO issues new guidelines for COVID-19 prevention.", "span": "COVID-19", "entity_type": "organization"}
+{"sentence": "Apple announces new iPhone release date.", "span": "iPhone", "entity_type": "organization"}
+{"sentence": "New startup company in Edinburgh secures funding for expansion.", "span": "company", "entity_type": "organization"}
+{"sentence": "Women starts non-profit organization to provide free meals for the homeless in downtown Los Angeles.", "span": "non-profit organization", "entity_type": "organization"}

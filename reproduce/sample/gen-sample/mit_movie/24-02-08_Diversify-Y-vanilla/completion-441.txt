@@ -1,0 +1,8 @@
+1. "Could you recommend a movie that has a predictable plot and is considered a must see?"
+   Named Entities: [predictable (Plot), must see (Viewers' Rating)]
+
+2. "What historical film did an indie director, like Tarantino, direct?"
+   Named Entities: [indie (Genre), Tarantino (Director)]
+
+3. "Show me a satire movie with the song 'My Way'"
+   Named Entities: [satire (Genre), My Way (Song)]

@@ -1,0 +1,8 @@
+1. Text Span: "Coventry City Council"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "WHO"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "orphanage"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other

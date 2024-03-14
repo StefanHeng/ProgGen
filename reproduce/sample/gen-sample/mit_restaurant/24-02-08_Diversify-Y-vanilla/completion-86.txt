@@ -1,0 +1,8 @@
+1. "What are the top-rated Italian restaurants nearby?"
+   Named Entities: [top-rated (Rating), Italian (Cuisine), nearby (Location)]
+
+2. "Show me all the sushi places that are open past 10 pm."
+   Named Entities: [sushi (Cuisine), past 10 pm (Hours)]
+
+3. "I'm looking for a restaurant with outdoor seating and live music."
+   Named Entities: [outdoor seating (Amenity), live music (Amenity)]

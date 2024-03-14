@@ -1,0 +1,11 @@
+1. Sentence: "Amazon announces plans to open new headquarters in {{Arlington, Virginia}}, near Washington, D.C."
+Text Span: "Arlington, Virginia"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Seoul}}, South Korea, reports record high temperatures for the summer."
+Text Span: "Seoul"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Elton John to perform at the Staples Center in {{Los Angeles}} next week."
+Text Span: "Los Angeles"
+Label: (A). The span is a named entity of type location

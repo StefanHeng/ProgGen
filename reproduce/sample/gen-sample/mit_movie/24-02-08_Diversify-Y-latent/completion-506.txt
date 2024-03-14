@@ -1,0 +1,8 @@
+1. "What is the plot of the drama movie directed by John Krasinski?" 
+Named Entities: [John Krasinski (Director), Drama (Genre), plot (Plot)]
+
+2. "Can I have a first look at the trailer for the movie A that came out in 1980?"
+Named Entities: [First look (Trailer), A (Title), 1980 (Year)]
+
+3. "Is there a review of the drama movie from 1980 with John Krasinski as the director?"
+Named Entities: [John Krasinski (Director), Drama (Genre), 1980 (Year), Review (Review)]

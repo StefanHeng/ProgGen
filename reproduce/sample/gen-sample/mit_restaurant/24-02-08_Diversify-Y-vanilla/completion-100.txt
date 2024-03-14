@@ -1,0 +1,8 @@
+Query: "What restaurants offer last orders after 10pm"
+Named Entities: [Last orders (Hours)]
+
+Query: "I want to have dinner at a beachfront restaurant in the area"
+Named Entities: [dinner (Amenity), beachfront (Location)]
+
+Query: "Can you recommend a family-friendly restaurant with valet parking"
+Named Entities: [family-friendly (Amenity), valet parking (Amenity)]

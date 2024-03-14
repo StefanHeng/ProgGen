@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a lounge or bar ambience for a special occasion?"
+Named Entities: [fine dining (Amenity), lounge or bar (Amenity)]
+
+2. "I'm looking for a chic place to have a fine dining experience with a cocktail bar. Do you have any suggestions?"
+Named Entities: [chic (Ambience), cocktail bar (Amenity)]
+
+3. "I'm interested in trying out a high-end restaurant with a stylish bar area. What options do you have in mind?"
+Named Entities: [high-end (Price), stylish bar (Amenity)]

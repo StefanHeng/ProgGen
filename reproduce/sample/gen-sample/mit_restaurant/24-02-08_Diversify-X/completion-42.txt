@@ -1,0 +1,8 @@
+1. "Can you recommend a trendy spot for lunch with vegetarian options?"
+   Named Entities: [trendy (Amenity), lunch (Amenity), vegetarian options (Cuisine)]
+
+2. "I'm looking for a hip place near campus for lunch with outdoor seating"
+   Named Entities: [hip (Amenity), lunch (Amenity), near campus (Location), outdoor seating (Amenity)]
+
+3. "Where can I find a cool cafe for lunch that's budget-friendly?"
+   Named Entities: [cool (Amenity), cafe (Amenity), lunch (Amenity), budget-friendly (Price)]

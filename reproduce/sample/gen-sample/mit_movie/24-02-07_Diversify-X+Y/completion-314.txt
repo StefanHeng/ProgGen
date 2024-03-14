@@ -1,0 +1,8 @@
+1. Query: "Hey, I heard there's an excellent movie with Rey in it. Can you tell me the viewers' rating for it?"
+Named Entities: [Rey (Character), excellent (Review), viewers' rating (Viewers' Rating)]
+
+2. Query: "I'm so pumped to watch a new movie! Can you recommend a film with an excellent plot and good director?"
+Named Entities: [excellent (Review), plot (Plot), director (Director)]
+
+3. Query: "I'm dying to know the year of the most excellent and top-rated movie of all time! Can you help me out?"
+Named Entities: [excellent (Review), top-rated (Viewers' Rating), year (Year)]

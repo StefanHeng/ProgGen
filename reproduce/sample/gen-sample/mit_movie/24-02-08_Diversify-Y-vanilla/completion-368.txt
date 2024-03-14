@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with compelling performances and a TV-14 rating?"
+   Named Entities: [Compelling performances (Review), TV-14 (MPAA Rating)]
+
+2. "I'm looking for a movie with electrifying action sequences, recommended for adults."
+   Named Entities: [Electrifying (Review), Recommended for Adults (Viewers' Rating)]
+
+3. "Tell me about a film released in 1999 with a title that has a historical setting."
+   Named Entities: [1999 (Year), historical (Genre)]

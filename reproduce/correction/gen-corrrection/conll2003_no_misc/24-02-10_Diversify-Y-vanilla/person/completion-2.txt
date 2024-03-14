@@ -1,0 +1,11 @@
+1. Sentence: "The controversial policies of President {{Jair Bolsonaro}} face backlash from environmental organizations."
+Text Span: "Jair Bolsonaro"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "Dr. {{Amanda Smith}} appointed as new head of medical research at the University of California."
+Text Span: "Amanda Smith"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Mike Pence}} tests negative for COVID-19 after potential exposure."
+Text Span: "Mike Pence"
+Label: (A). The span is a named entity of type person

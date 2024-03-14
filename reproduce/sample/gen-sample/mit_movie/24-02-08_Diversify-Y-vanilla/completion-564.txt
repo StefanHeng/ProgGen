@@ -1,0 +1,8 @@
+1. "What is the TV-Y rating for the movie Black Dog?"
+Named Entities: [TV-Y (MPAA Rating), Black Dog (Title)]
+
+2. "Who directed the film with the song When Doves Cry?"
+Named Entities: [When Doves Cry (Song)]
+
+3. "Can you recommend a must-see movie from the 1980s with a high viewers' rating?"
+Named Entities: [1980s (Year), must-see (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Hey, who directed that heist movie from the 1970s with Drake in it?"
+   Named Entities: [heist (Genre), 1970s (Year), Drake (Actor), directed (Director)]
+
+2. "Do you know which movies Jane Campion directed that has a heist in it?"
+   Named Entities: [heist (Plot), Jane Campion (Director)]
+
+3. "I heard there's a new movie with Drake in it, can you tell me who the director is?"
+   Named Entities: [Drake (Actor), director (Director)]

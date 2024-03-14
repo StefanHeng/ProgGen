@@ -1,0 +1,17 @@
+Query: "What are some good TV-Y7 movies that came out in the last decade"
+Named Entities: [TV-Y7 (MPAA Rating), last decade (Year)]
+
+Query: "Can you recommend a movie about revenge killing"
+Named Entities: [revenge killing (Plot)]
+
+Query: "Is Princess Jasmine in any recent live-action films"
+Named Entities: [Princess Jasmine (Character), recent (Year)]
+
+Query: "I want to watch a movie with Black Widow as the main character"
+Named Entities: [Black Widow (Character)]
+
+Query: "Show me a detective investigation thriller from the 2000s"
+Named Entities: [detective investigation (Plot), thriller (Genre), 2000s (Year)]
+
+Query: "Which movie features the song Like a Rolling Stone in its soundtrack"
+Named Entities: [Like a Rolling Stone (Song)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a horror movie similar to Dracula from the 1930s?"
+   Named Entities: [Dracula (Title), horror (Genre), 1930s (Year)]
+   
+2. "I want to see a promotional clip for the movie Jolene. Can you help with that?"
+   Named Entities: [promotional clip (Trailer), Jolene (Title)]
+   
+3. "What genre is the movie American Sniper?" 
+   Named Entities: [American Sniper (Title)]

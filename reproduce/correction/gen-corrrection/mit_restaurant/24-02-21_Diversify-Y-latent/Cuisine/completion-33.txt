@@ -1,0 +1,8 @@
+1. Text Span: "burger joint"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "Toby's Estate Coffee"
+Label: (C). The span is not a named entity. The correct entity type is Restaurant Name.
+
+3. Text Span: "diverse cuisine selection"
+Label: (C). The span is not a named entity. The correct entity type is Amenity.

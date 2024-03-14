@@ -1,0 +1,149 @@
+1. Apple unveils new iPhone model.
+Named Entities: [Apple (organization)]
+
+2. President Biden delivers State of the Union address.
+Named Entities: [President Biden (person)]
+
+3. Powerful earthquake hits Japan.
+Named Entities: [Japan (location)]
+
+4. Amazon workers protest for higher wages.
+Named Entities: [Amazon (organization)]
+
+5. CEO of Microsoft steps down.
+Named Entities: [Microsoft (organization)]
+
+6. Wildfires continue to ravage California.
+Named Entities: [California (location)]
+
+7. NASA announces new space mission.
+Named Entities: [NASA (organization)]
+
+8. New study shows link between obesity and heart disease.
+Named Entities: []
+
+9. European Union imposes sanctions on Russia.
+Named Entities: [European Union (organization), Russia (location)]
+
+10. Famous actor opens restaurant in New York City.
+Named Entities: [New York City (location)]
+
+11. United Nations report highlights climate change impact.
+Named Entities: [United Nations (organization)]
+
+12. Bill Gates donates millions to charity.
+Named Entities: [Bill Gates (person)]
+
+13. Pandemic causes economic downturn in Italy.
+Named Entities: [Italy (location)]
+
+14. Facebook data breach affects millions of users.
+Named Entities: [Facebook (organization)]
+
+15. Olympic Games to be held in Paris.
+Named Entities: [Paris (location)]
+
+16. CEO of Tesla under investigation for fraud.
+Named Entities: [Tesla (organization)]
+
+17. Protests in Hong Kong demand democratic reforms.
+Named Entities: [Hong Kong (location)]
+
+18. Federal Reserve raises interest rates.
+Named Entities: [Federal Reserve (organization)]
+
+19. Famous singer cancels world tour.
+Named Entities: []
+
+20. Wildfires in Australia destroy homes.
+Named Entities: [Australia (location)]
+
+21. CEO of Walmart steps down.
+Named Entities: [Walmart (organization)]
+
+22. New study shows benefits of exercise.
+Named Entities: []
+
+23. United Nations peacekeepers sent to conflict zone.
+Named Entities: [United Nations (organization)]
+
+24. Oil spill devastates marine life in the Gulf of Mexico.
+Named Entities: [Gulf of Mexico (location)]
+
+25. Google faces antitrust lawsuit.
+Named Entities: [Google (organization)]
+
+26. South Korea announces new trade deal with Japan.
+Named Entities: [South Korea (location), Japan (location)]
+
+27. Famous author releases new book.
+Named Entities: []
+
+28. United Nations humanitarian aid reaches war-torn region.
+Named Entities: [United Nations (organization)]
+
+29. German Chancellor addresses immigration crisis.
+Named Entities: [German Chancellor (person)]
+
+30. Protesters clash with police in London.
+Named Entities: [London (location)]
+
+31. Reuters wins Pulitzer Prize for investigative journalism.
+Named Entities: [Reuters (organization)]
+
+32. New study shows potential link between cell phone use and cancer.
+Named Entities: []
+
+33. European Union leaders meet to discuss economic recovery.
+Named Entities: [European Union (organization)]
+
+34. CEO of Amazon under scrutiny for labor practices.
+Named Entities: [Amazon (organization)]
+
+35. Heavy rainfall causes flooding in India.
+Named Entities: [India (location)]
+
+36. Apple CEO announces new product lineup.
+Named Entities: [Apple (organization)]
+
+37. New study shows impact of air pollution on respiratory health.
+Named Entities: []
+
+38. President Macron signs new environmental legislation.
+Named Entities: [President Macron (person)]
+
+39. Violence erupts in the Middle East.
+Named Entities: [Middle East (location)]
+
+40. Walmart employees demand better working conditions.
+Named Entities: [Walmart (organization)]
+
+41. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+42. Study finds potential breakthrough in cancer research.
+Named Entities: []
+
+43. UNICEF reports alarming rise in child poverty.
+Named Entities: [UNICEF (organization)]
+
+44. CEO of Twitter resigns amid controversy.
+Named Entities: [Twitter (organization)]
+
+45. New study shows correlation between social media use and mental health issues.
+Named Entities: []
+
+46. European Union approves new trade agreement with Canada.
+Named Entities: [European Union (organization), Canada (location)]
+
+47. Famous athlete announces retirement.
+Named Entities: []
+
+48. High-speed train derails in Germany.
+Named Entities: [Germany (location)]
+
+49. CEO of Google testifies before Congress.
+Named Entities: [Google (organization)]
+
+50. New study shows positive effects of meditation on stress levels.
+Named Entities: []

@@ -1,0 +1,8 @@
+1. Query: "What fast food restaurants offer dairy-free options?"
+Named Entities: [fast food (Cuisine), dairy-free (Amenity)]
+
+2. Query: "I want to find a dairy-free fast food place nearby with a high rating"
+Named Entities: [dairy-free (Amenity), fast food (Cuisine), nearby (Location), high rating (Rating)]
+
+3. Query: "Can you recommend a dairy-free fast food restaurant with affordable prices?"
+Named Entities: [dairy-free (Amenity), fast food (Cuisine), affordable prices (Price)]

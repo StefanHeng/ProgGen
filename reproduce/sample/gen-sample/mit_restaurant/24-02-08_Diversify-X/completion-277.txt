@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants that offer buffet meals and delivery service?"
+Named Entities: [buffet (Amenity), delivery (Amenity)]
+
+2. "I'm looking for a restaurant that serves buffet-style meals and delivers, do you have any suggestions?"
+Named Entities: [buffet-style (Amenity), delivers (Amenity)]
+
+3. "Where can I find a place that offers buffet options and delivers food to my location?"
+Named Entities: [buffet options (Amenity), delivers (Amenity)]

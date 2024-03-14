@@ -1,0 +1,8 @@
+1. "I heard Park Chan-wook directed a new film, who are the actors in it?"
+Named Entities: [Park Chan-wook (Director), actors (Cast)]
+
+2. "I'm looking for a movie with a stellar ensemble cast, any suggestions?"
+Named Entities: [stellar ensemble cast (Cast)]
+
+3. "I remember Morgan Freeman in a movie with a great plot, do you know which one I'm talking about?"
+Named Entities: [Morgan Freeman (Actor), great plot (Plot)]

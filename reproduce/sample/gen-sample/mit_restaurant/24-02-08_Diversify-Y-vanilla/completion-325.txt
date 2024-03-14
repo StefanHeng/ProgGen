@@ -1,0 +1,8 @@
+1. "What restaurants near me have the best happy hour deals?"
+   Named Entities: [best (Rating), happy hour (Amenity), near me (Location)]
+
+2. "I'm craving a delicious falafel wrap, where can I find the best one in town?"
+   Named Entities: [delicious (Rating), falafel wrap (Dish), best (Rating), in town (Location)]
+
+3. "Which restaurant serves affordable meals during happy hour?"
+   Named Entities: [affordable (Price), meals (Dish), happy hour (Amenity)]

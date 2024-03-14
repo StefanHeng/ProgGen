@@ -1,0 +1,11 @@
+1. Query: "can I see the {{trailer}} for the latest Marvel movie"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "I am interested in watching a movie directed by Steven Spielberg. Can you recommend a film with a {{captivating trailer}}?"
+Text Span: "captivating trailer"
+Label: (B). The span contains a named trailer entity but the span boundary is not precise. The correct span boundary is "trailer".
+
+3. Query: "Can you play the {{trailer}} for the new animated movie featuring talking animals?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

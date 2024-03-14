@@ -1,0 +1,8 @@
+Query: "I'm looking for a cozy café with vegetarian options and good ambiance"
+Named Entities: [cozy (Amenity), vegetarian options (Cuisine), good ambiance (Amenity)]
+
+Query: "Can you recommend a café with outdoor seating and live music?"
+Named Entities: [outdoor seating (Amenity), live music (Amenity)]
+
+Query: "I need to book a table at a café with a kids' menu and high chairs"
+Named Entities: [kids' menu (Amenity), high chairs (Amenity)]

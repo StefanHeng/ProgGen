@@ -1,0 +1,8 @@
+1. "What restaurants near me offer brunch with outdoor seating?"
+   Named Entities: [brunch (Amenity), outdoor seating (Amenity)]
+
+2. "I'm looking for a restaurant that serves brunch with bottomless mimosas."
+   Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+3. "Can you recommend a dine-in restaurant with a diverse brunch menu?"
+   Named Entities: [dine-in (Amenity), diverse (Rating), brunch (Amenity)]

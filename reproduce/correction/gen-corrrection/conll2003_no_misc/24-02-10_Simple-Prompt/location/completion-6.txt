@@ -1,0 +1,11 @@
+1. Sentence: "Famous chef opens new restaurant in {{London}}."
+Text Span: "London"
+Label: (A)
+
+2. Sentence: "{{British}} singer Adele released a new album."
+Text Span: "British"
+Label: (C) - entity type: location
+
+3. Sentence: "Wildfires continue to ravage {{Northern California}}."
+Text Span: "Northern California"
+Label: (A)

@@ -1,0 +1,8 @@
+Query: "What restaurants have an open kitchen concept?"
+Named Entities: [open kitchen (Amenity)]
+
+Query: "Do you know any places that offer lunch specials?"
+Named Entities: [lunch specials (Amenity)]
+
+Query: "I'm craving Turkish cuisine, can you recommend a restaurant?"
+Named Entities: [Turkish (Cuisine)]

@@ -1,0 +1,8 @@
+1. "I'm in the mood for an action movie with a strong female lead. Can you recommend a recent film with that kind of plot?"
+Named Entities: [action (Genre), strong female lead (Character)]
+
+2. "I'm in the mood for a classic romantic comedy. Can you suggest a movie that will make me laugh and feel good?"
+Named Entities: [romantic comedy (Genre)]
+
+3. "I'm looking for a thought-provoking science fiction movie with a unique storyline. Do you have any recommendations?"
+Named Entities: [science fiction (Genre), thought-provoking (Viewers' Rating)]

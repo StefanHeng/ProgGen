@@ -1,0 +1,11 @@
+1. Query: "What food trucks with a {{romantic}} ambience are open late tonight?"
+Text Span: "romantic"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "show me a restaurant with outdoor seating and a {{view of the ocean}}"
+Text Span: "view of the ocean"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "can you recommend a {{buffet}} place with affordable prices"
+Text Span: "buffet"
+Label: (A). The span is a named entity of type amenity

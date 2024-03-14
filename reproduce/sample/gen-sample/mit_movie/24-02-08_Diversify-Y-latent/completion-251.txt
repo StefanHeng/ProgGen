@@ -1,0 +1,8 @@
+1. "Is there a movie with time travel in it that was released in 1967?"
+Named Entities: [Time Travel (Plot), 1967 (Year)]
+
+2. "Show me the trailer for the new Harry Potter film with Dumbledore in it."
+Named Entities: [trailer (Trailer), Harry Potter (Title), Dumbledore (Character)]
+
+3. "What genre of movies does Michael Bay typically direct, and is there a specific film with a high viewers' rating?"
+Named Entities: [Michael Bay (Director), viewers' rating (Viewers' Rating)]

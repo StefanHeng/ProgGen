@@ -1,0 +1,8 @@
+1. Text Span: "affordable"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "fancy"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Text Span: "budget-friendly"
+Label: (A). Correct Entity Annotation.

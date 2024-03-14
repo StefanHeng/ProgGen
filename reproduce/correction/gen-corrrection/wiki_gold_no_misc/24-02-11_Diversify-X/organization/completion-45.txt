@@ -1,0 +1,8 @@
+1. Text Span: "Fibonacci sequence"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "The Beatles"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "International Air Transport Association"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+Query: "Can you show me a preview of the latest action movie?"
+Named Entities: [latest action movie (Genre), preview (Trailer)]
+
+Query: "Is there a movie with an iconic song that I can watch a teaser for?"
+Named Entities: [iconic song (Song), teaser (Trailer)]
+
+Query: "Which director has released a new film with a thrilling plot that I can get a sneak peek of?"
+Named Entities: [new film (Year), thrilling plot (Plot), sneak peek (Trailer), director (Director)]

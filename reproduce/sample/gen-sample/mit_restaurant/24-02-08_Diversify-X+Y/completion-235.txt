@@ -1,0 +1,8 @@
+1. "I'm craving a buffet, can you recommend a place in town with Brazilian cuisine?"
+Named Entities: [buffet (Amenity), in town (Location), Brazilian (Cuisine)]
+
+2. "What are the top-rated buffets in town that offer Brazilian dishes like feijoada and pão de queijo?"
+Named Entities: [top-rated (Rating), buffets (Amenity), in town (Location), Brazilian (Cuisine), feijoada (Dish), pão de queijo (Dish)]
+
+3. "I'm looking for a buffet restaurant like Alinea that serves Brazilian churrasco and caipirinha cocktails."
+Named Entities: [buffet (Amenity), Alinea (Restaurant Name), Brazilian (Cuisine), churrasco (Dish), caipirinha (Dish)]

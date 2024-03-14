@@ -1,0 +1,8 @@
+1. "Can you recommend a good movie involving mistaken identity?"
+   Named Entities: [mistaken identity (Plot)]
+
+2. "What is the genre of the movie Seven Samurai directed by Akira Kurosawa?"
+   Named Entities: [Seven Samurai (Title), Akira Kurosawa (Director)]
+
+3. "Show me a preview of the film with the character Jafar in it"
+   Named Entities: [Jafar (Character), Preview (Trailer)]

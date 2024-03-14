@@ -1,0 +1,8 @@
+1. Text Span: "South Korean"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.
+
+2. Text Span: "Stanford"
+Label: (A). The span is a named entity of type location.
+
+3. Text Span: "The Sydney Harbour Bridge"
+Label: (A). The span is a named entity of type location.

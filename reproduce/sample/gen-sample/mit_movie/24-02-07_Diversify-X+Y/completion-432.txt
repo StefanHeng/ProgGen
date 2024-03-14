@@ -1,0 +1,8 @@
+1. "Are there any showtimes for the movie Raiders of the Lost Ark?"
+Named Entities: [Raiders of the Lost Ark (Title)]
+
+2. "Can I watch the extended preview of the NC-17 rated film?"
+Named Entities: [Extended preview (Trailer), NC-17 (MPAA Rating)]
+
+3. "Do you have tickets available for the PG-rated movie with the recently released trailer?"
+Named Entities: [PG (MPAA Rating), recently released (Trailer)]

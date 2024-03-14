@@ -1,0 +1,11 @@
+1. Query: "what song is played during the {{ending credits}} of grease"
+Text Span: "ending credits"
+Label: (C). Other
+
+2. Query: "I want to watch a movie with a {{great soundtrack}}, can you recommend one"
+Text Span: "great soundtrack"
+Label: (C). Other
+
+3. Query: "What movie features the song {{My Heart Will Go On}}?"
+Text Span: "My Heart Will Go On"
+Label: (A). Song

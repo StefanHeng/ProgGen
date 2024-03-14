@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants serving paleo-friendly brunch dishes?"
+Named Entities: [paleo (Cuisine), brunch (Amenity)]
+
+2. "I'm looking for a brunch spot with paleo options, preferably in the downtown area."
+Named Entities: [paleo (Cuisine), brunch (Amenity), downtown area (Location)]
+
+3. "Can you recommend a restaurant with a paleo-friendly brunch menu and outdoor seating?"
+Named Entities: [paleo (Cuisine), brunch (Amenity), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "Johnson"
+Label: (A)
+
+2. Text Span: "Prime Minister Justin Trudeau"
+Label: (B). The correct span boundary is "Justin Trudeau".
+
+3. Text Span: "Jair Bolsonaro"
+Label: (A)

@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie directed by Michael Bay that features Dwayne Johnson and has a revenge plot?"
+Named Entities: [Michael Bay (Director), Dwayne Johnson (Actor), revenge plot (Plot)]
+
+Query: "What is the viewers' rating for the movie with Chewbacca in it?"
+Named Entities: [Chewbacca (Character), viewers' rating (Viewers' Rating)]
+
+Query: "Show me a Ridley Scott film from the 1990s with an intense action genre."
+Named Entities: [Ridley Scott (Director), 1990s (Year), intense action (Genre)]

@@ -1,0 +1,8 @@
+1. Text Span: "Can't Stop the Feeling"
+Label: (A). The span is a named entity of type song
+
+2. Text Span: "standout soundtrack highlights"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "song by Adele"
+Label: (C). The span is a named entity but the category is not song. The correct entity type is Artist.

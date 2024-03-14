@@ -1,0 +1,8 @@
+Query: "can you show me exclusive footage of the terrifying movie directed by David Lynch in 1977"
+Named Entities: [Exclusive footage (Trailer), terrifying (Genre), David Lynch (Director), 1977 (Year)]
+
+Query: "is Morpheus in any must-see historical films"
+Named Entities: [Morpheus (Character), historical (Genre), must see (Viewers' Rating)]
+
+Query: "what movie genre is The Matrix, directed by the Wachowskis"
+Named Entities: [The Matrix (Title), Wachowskis (Director)]

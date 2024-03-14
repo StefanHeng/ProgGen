@@ -1,0 +1,8 @@
+1. Text Span: "Korean BBQ restaurants"
+Label: (B). Wrong Boundary. The correct span boundary is "Korean BBQ".
+
+2. Text Span: "pizza place"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "burger"
+Label: (A). Correct Entity Annotation.

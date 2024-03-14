@@ -1,0 +1,8 @@
+Query: "Can you provide the showtimes for the new James Bond film and let me know if tickets are available?"
+Named Entities: [James Bond (Title)]
+
+Query: "I'm interested in seeing a movie from the thriller genre this weekend. Can you tell me the showtimes for any recent releases?"
+Named Entities: [thriller (Genre), weekend (Year)]
+
+Query: "I need to book tickets for a movie directed by Christopher Nolan. What are my options?"
+Named Entities: [Christopher Nolan (Director)]

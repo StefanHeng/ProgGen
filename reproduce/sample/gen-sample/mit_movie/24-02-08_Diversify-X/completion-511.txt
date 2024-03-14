@@ -1,0 +1,8 @@
+1. Query: "What is the main genre of the movie The Godfather and who directed it?"
+Named Entities: [The Godfather (Title), main genre (Genre), directed (Director)]
+
+2. Query: "Can you recommend a good action movie from the 80s with a strong female lead?"
+Named Entities: [action movie (Genre), 80s (Year), strong female lead (Character)]
+
+3. Query: "I'm looking for a thriller movie directed by Alfred Hitchcock, can you suggest one?"
+Named Entities: [thriller movie (Genre), Alfred Hitchcock (Director)]

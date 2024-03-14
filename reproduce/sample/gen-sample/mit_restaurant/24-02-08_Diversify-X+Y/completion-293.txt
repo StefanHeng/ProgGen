@@ -1,0 +1,8 @@
+Query: "Where in Austin can I find a Japanese restaurant with outdoor seating for brunch?"
+Named Entities: [Austin (Location), Japanese (Cuisine), brunch (Amenity), outdoor seating (Amenity)]
+
+Query: "I want to order brunch for delivery from a restaurant that offers all-day breakfast and outdoor seating."
+Named Entities: [delivery (Amenity), all-day breakfast (Amenity), outdoor seating (Amenity), brunch (Amenity)]
+
+Query: "What's the cost for brunch at The Breakfast Nook in Austin with outdoor seating and delivery?"
+Named Entities: [The Breakfast Nook (Restaurant Name), Austin (Location), brunch (Amenity), outdoor seating (Amenity), delivery (Amenity), Cost (Price)]

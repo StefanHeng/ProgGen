@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you show me the trailer for the classic movie 'The Lion King'?"
+   Named Entities: ['The Lion King' (Title), trailer (Trailer), classic (Viewers' Rating)]
+
+2. Spoken Query: "I remember a movie with a catchy song, can you show me a teaser for the film with the song 'My Heart Will Go On'?"
+   Named Entities: [teaser (Trailer), 'My Heart Will Go On' (Song)]
+
+3. Spoken Query: "I'm feeling nostalgic for an old western movie, can you show me a preview for the film 'The Good, the Bad and the Ugly'?"
+   Named Entities: [old (Viewers' Rating), western (Genre), 'The Good, the Bad and the Ugly' (Title), preview (Trailer)]

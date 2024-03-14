@@ -1,0 +1,8 @@
+1. Query: "can you recommend an epic movie with a high viewers' rating from 2010"
+   Named Entities: [epic (Genre), 2010 (Year), high viewers' rating (Viewers' Rating)]
+
+2. Query: "who directed the epic film Gladiator"
+   Named Entities: [Gladiator (Title), directed (Director), epic (Genre)]
+
+3. Query: "what is the plot of the epic movie Lawrence of Arabia"
+   Named Entities: [Lawrence of Arabia (Title), epic (Genre), plot (Plot)]

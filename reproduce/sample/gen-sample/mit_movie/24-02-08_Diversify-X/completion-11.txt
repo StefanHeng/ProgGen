@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the recent coming-of-age romantic comedy film?"
+Named Entities: [coming-of-age (Genre), romantic comedy (Genre)]
+
+2. Query: "Are there any action movies with a female lead that came out last year?"
+Named Entities: [action (Genre), female lead (Character), last year (Year)]
+
+3. Query: "I'm interested in learning more about the special effects in the new science fiction movie, can you share some details?"
+Named Entities: [special effects (Plot), science fiction (Genre)]

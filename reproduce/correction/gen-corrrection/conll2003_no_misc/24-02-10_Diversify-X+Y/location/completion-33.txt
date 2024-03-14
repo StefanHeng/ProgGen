@@ -1,0 +1,11 @@
+1. Sentence: "New study shows alarming decline in biodiversity in the {{Amazon}} rainforest."
+Text Span: "Amazon"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Paris}} Opera House under scrutiny for lack of diversity in casting choices."
+Text Span: "Paris"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Authorities in {{Hong Kong}} crackdown on illegal gambling operations."
+Text Span: "Hong Kong"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+Query: "Can you recommend a moderate priced Italian restaurant nearby?"
+Named Entities: [moderate priced (Price), Italian (Cuisine), nearby (Location)]
+
+Query: "I'm craving some sushi, is there a sushi place with good ratings?"
+Named Entities: [sushi (Cuisine), good ratings (Rating)]
+
+Query: "Find me a restaurant with outdoor seating and a nice view"
+Named Entities: [outdoor seating (Amenity), nice view (Amenity)]

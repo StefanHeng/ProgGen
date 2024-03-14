@@ -1,0 +1,11 @@
+1. Query: "What's the deal with that movie where the {{dude from Avengers}} plays a spy or something?"
+Text Span: "dude from Avengers"
+Label: (C). The span is a named entity but the category is not actor (Actor's name is not specified).
+
+2. Query: "Hey, what's the deal with that movie that has that {{girl}} from the horror flick last year, you know what I'm talking about?"
+Text Span: "girl"
+Label: (C). The span is a named entity but the category is not actor (Actor's name is not specified).
+
+3. Query: "Is there any Netflix original movie with {{Tom Hardy}} in it?"
+Text Span: "Tom Hardy"
+Label: (A). The span is a named entity of type actor.

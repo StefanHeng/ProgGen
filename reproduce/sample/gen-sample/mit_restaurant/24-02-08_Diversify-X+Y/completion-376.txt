@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a buffet. Can you recommend a place that has a dessert bar?"
+Named Entities: [buffet (Amenity), dessert bar (Amenity)]
+
+Query: "I want to try a restaurant that offers chef's specials. Any suggestions?"
+Named Entities: [chef's specials (Amenity)]
+
+Query: "I heard about The Spotted Pig. Do they have a buffet with chef's specials?"
+Named Entities: [The Spotted Pig (Restaurant Name), buffet (Amenity), chef's specials (Amenity)]

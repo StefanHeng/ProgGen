@@ -1,0 +1,8 @@
+1. Text Span: "The Godfather"
+Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "forrest gump"
+Label: (B). The span contains a named title entity but the span boundary is not precise. The correct span boundary is "Forrest Gump".
+
+3. Text Span: "the notebook"
+Label: (A). The span is a named entity of type movie title

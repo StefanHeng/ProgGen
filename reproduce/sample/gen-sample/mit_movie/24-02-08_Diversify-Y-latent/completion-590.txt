@@ -1,0 +1,8 @@
+1. Query: "what are the viewers' ratings for A Star is Born from the 1950s"
+Named Entities: [A Star is Born (Title), 1950s (Year), viewers' ratings (Viewers' Rating)]
+
+2. Query: "who directed the movie with impressive visual effects"
+Named Entities: [impressive visual effects (Visual effects), directed (Director)]
+
+3. Query: "can I get an inside look at the newest Luke Skywalker film"
+Named Entities: [inside look (inside look), Luke Skywalker (Character), newest (Year)]

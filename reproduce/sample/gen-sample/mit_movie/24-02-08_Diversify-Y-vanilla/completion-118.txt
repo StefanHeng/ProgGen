@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the movie featuring the song 'a whole new world'?"
+Named Entities: [a whole new world (Song), viewers' rating (Viewers' Rating)]
+
+2. Query: "Could you recommend a movie with Harrison Ford in it and a 9/10 rating?" 
+Named Entities: [Harrison Ford (Actor), 9/10 rating (Viewers' Rating)]
+
+3. Query: "Did Jodie Foster star in any movie with a secret mission plot?"
+Named Entities: [Jodie Foster (Actor), secret mission (Plot)]

@@ -1,0 +1,8 @@
+1. "I'm craving some Indian food, where can I find a highly rated restaurant in this area?"
+Named Entities: [Indian (Cuisine), highly rated (Rating), area (Location)]
+
+2. "Do you know of any Spanish restaurants with a prix fixe menu for dinner?"
+Named Entities: [Spanish (Cuisine), prix fixe menu (Amenity), dinner (Amenity)]
+
+3. "I want to try a new cuisine, can you recommend a restaurant with a diverse menu and outdoor seating?"
+Named Entities: [diverse menu (Amenity), outdoor seating (Amenity)]

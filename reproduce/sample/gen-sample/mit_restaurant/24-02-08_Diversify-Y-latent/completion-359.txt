@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a gluten-free menu and outdoor seating near [P.F. Chang's]?"
+Named Entities: [gluten-free (Cuisine), outdoor seating (Amenity), [P.F. Chang's] (Restaurant Name)]
+
+2. "What are the top-rated seafood restaurants in the area that are open after 9 pm?"
+Named Entities: [top-rated (Rating), seafood (Cuisine), after 9 pm (Hours)]
+
+3. "I'm in the mood for some authentic Italian pasta, where can I find a place with a cozy atmosphere and a moderate price range?"
+Named Entities: [Italian (Cuisine), pasta (Dish), cozy atmosphere (Amenity), moderate price range (Price)]

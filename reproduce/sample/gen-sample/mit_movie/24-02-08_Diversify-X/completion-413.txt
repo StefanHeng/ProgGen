@@ -1,0 +1,8 @@
+Query: "I need to see a preview of the new Spider-Man movie right now"
+Named Entities: [preview (Trailer), Spider-Man (Title)]
+
+Query: "show me a teaser for the upcoming James Bond film immediately"
+Named Entities: [teaser (Trailer), James Bond (Character)]
+
+Query: "I don't have time to waste, I want to watch a sneak peek of the new Jurassic Park movie"
+Named Entities: [sneak peek (Trailer), Jurassic Park (Title)]

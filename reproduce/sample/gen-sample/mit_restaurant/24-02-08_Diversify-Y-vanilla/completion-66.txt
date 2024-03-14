@@ -1,0 +1,8 @@
+1. "Which restaurant in the area serves authentic Italian cuisine?"
+Named Entities: [authentic Italian cuisine (Cuisine)]
+
+2. "I want to go to a restaurant with outdoor seating and a waterfront view. Do you know of any?"
+Named Entities: [outdoor seating (Amenity), waterfront view (Amenity)]
+
+3. "I'm looking for a restaurant with a five-star rating and a prix fixe menu for dinner."
+Named Entities: [five-star (Rating), prix fixe menu (Amenity), dinner (Amenity)]

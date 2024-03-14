@@ -1,0 +1,8 @@
+Query: "What are the closing hours for Block restaurant?"
+Named Entities: [Block (Restaurant Name), Closing hours (Hours)]
+
+Query: "Can you recommend any critically acclaimed late-night dining spots nearby?"
+Named Entities: [critically acclaimed late-night dining (Amenity), nearby (Location)]
+
+Query: "I'm craving some Mexican cuisine, where can I find a place with affordable prices?"
+Named Entities: [Mexican (Cuisine), affordable prices (Price)]

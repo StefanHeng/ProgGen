@@ -1,0 +1,11 @@
+1. Query: "Where can I find upscale late-night dining with a {{diverse}} menu?"
+Text Span: "diverse"
+Label: (D). The span is not a named entity
+
+2. Query: "What cafés in this area have a {{good selection of dishes}} for lunch and are known for their cozy atmosphere"
+Text Span: "good selection of dishes"
+Label: (C). The span is a named entity but the category is not cuisine. The correct entity type is Dish.
+
+3. Query: "Can you recommend a {{café}} with a great outdoor seating area?"
+Text Span: "café"
+Label: (A). The span is a named entity of type cuisine

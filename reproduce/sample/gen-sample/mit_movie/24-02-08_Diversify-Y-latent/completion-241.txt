@@ -1,0 +1,8 @@
+1. "Can you recommend a movie similar to The Lion King with a high viewers' rating?"
+Named Entities: [The Lion King (Title), similar (Genre), high viewers' rating (Viewers' Rating)]
+
+2. "Is there a silent film from the 1920s with a memorable plot?"
+Named Entities: [silent film (Genre), 1920s (Year), memorable plot (Plot)]
+
+3. "Show me a movie starring Salma Hayek that is not rated yet."
+Named Entities: [Salma Hayek (Actor), not rated (MPAA Rating)]

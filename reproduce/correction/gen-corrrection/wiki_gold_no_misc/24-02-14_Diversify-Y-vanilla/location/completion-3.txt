@@ -1,0 +1,11 @@
+1. Sentence: "The company is headquartered in {{Kingston}}, Ontario, Canada."
+Text Span: "Kingston"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The construction of {{Osaka}} Castle started in 1583 on the site of the former Ishiyama Hongan-ji temple, which was destroyed in 1580."
+Text Span: "Osaka"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Dallas is a city in the U.S. state of Texas and the largest city and seat of Dallas County, with portions extending into {{Collin}}, Denton, Kaufman and Rockwall counties."
+Text Span: "Collin"
+Label: (A). The span is a named entity of type location

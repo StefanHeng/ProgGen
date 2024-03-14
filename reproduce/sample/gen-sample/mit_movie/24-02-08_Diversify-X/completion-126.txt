@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Shawshank Redemption?"
+   Named Entities: [Shawshank Redemption (Title)]
+   
+2. Query: "What are the top-rated movies by Steven Spielberg?"
+   Named Entities: [Steven Spielberg (Director)]
+   
+3. Query: "Can you recommend a classic film featuring Audrey Hepburn?"
+   Named Entities: [Audrey Hepburn (Actor), classic (Viewers' Rating)]

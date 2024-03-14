@@ -1,0 +1,8 @@
+1. "Is there a promo for the movie with the song All You Need Is Love?"
+Named Entities: [All You Need Is Love (Song), Promo]
+
+2. "I'm looking for a G-rated movie about corporate corruption."
+Named Entities: [G (MPAA Rating), Corporate corruption (Plot)]
+
+3. "What movie from the 90s has the most memorable car chase scene?"
+Named Entities: [90s (Year), car chase scene (Plot)]

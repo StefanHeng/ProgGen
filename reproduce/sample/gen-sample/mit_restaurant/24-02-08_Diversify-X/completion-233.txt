@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a formal restaurant with a breakfast menu for a 25-year-old female nurse."
+Named Entities: [formal (Amenity), breakfast (Cuisine), 25-year-old (Price), female (Price), nurse (Price)]
+
+2. Query: "Can you recommend a place with a formal setting that serves breakfast and is suitable for a 25-year-old female nurse?"
+Named Entities: [formal (Amenity), breakfast (Cuisine), 25-year-old (Price), female (Price), nurse (Price)]
+
+3. Query: "Where can I find a formal restaurant that offers breakfast for a 25-year-old female nurse?"
+Named Entities: [formal (Amenity), breakfast (Cuisine), 25-year-old (Price), female (Price), nurse (Price)]

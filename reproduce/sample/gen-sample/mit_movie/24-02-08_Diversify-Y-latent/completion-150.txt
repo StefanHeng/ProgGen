@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good crime drama film?"
+Named Entities: [crime drama (Genre)]
+
+2. Query: "I want to watch a teaser for the new film E, can you show me one?"
+Named Entities: [teaser (Trailer), E (Title)]
+
+3. Query: "What year was The Hurt Locker released and is it considered a masterful film?"
+Named Entities: [The Hurt Locker (Title), masterful (Review)]

@@ -1,0 +1,8 @@
+1. Text Span: "UNESCO World Heritage Site"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Military Service"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+3. Text Span: "Supreme Court"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+1. "Hey, can I watch The Matrix on any streaming platforms?"
+Named Entities: [The Matrix (Title), streaming platforms (Genre)]
+
+2. "Is there a new action movie out this year that's worth watching on any streaming services?"
+Named Entities: [new (Year), action movie (Genre), worth watching (Viewers' Rating), streaming services (Genre)]
+
+3. "Hey, what are some comedy movies from the 90s that I can stream right now?"
+Named Entities: [comedy movies (Genre), 90s (Year), stream right now (Viewers' Rating)]

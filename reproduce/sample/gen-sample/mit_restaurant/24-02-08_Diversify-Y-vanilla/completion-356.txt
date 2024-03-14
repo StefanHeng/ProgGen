@@ -1,0 +1,8 @@
+1. Query: "What restaurants nearby offer an early bird special hours dinner menu?"
+Named Entities: [nearby (Location), early bird special hours (Amenity), dinner menu (Amenity)]
+
+2. Query: "I'm craving sushi, where can I find a good all-you-can-eat sushi place?"
+Named Entities: [sushi (Cuisine), all-you-can-eat (Amenity)]
+
+3. Query: "I want to take my date somewhere nice, with a romantic atmosphere and outdoor seating, where should I go?"
+Named Entities: [romantic atmosphere (Amenity), outdoor seating (Amenity)]

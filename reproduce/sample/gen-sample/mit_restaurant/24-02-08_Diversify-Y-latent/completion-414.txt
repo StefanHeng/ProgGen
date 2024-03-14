@@ -1,0 +1,8 @@
+1. Query: "Do you know an American restaurant in town?"
+Named Entities: [American (Cuisine), Town (Location)]
+
+2. Query: "Is there any Italian cuisine available in the afternoon?"
+Named Entities: [Italian (Cuisine), Afternoon (Hours)]
+
+3. Query: "Can you recommend a restaurant with a good rating and affordable prices?"
+Named Entities: [good (Rating), affordable prices (Price)]

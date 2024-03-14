@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant specializing in French cuisine with a price range of over $100 per person?"
+Named Entities: [fine dining (Amenity), French cuisine (Cuisine), over $100 per person (Price)]
+
+2. "I'm looking for a high-rated, upscale restaurant serving authentic Italian dishes open past 10 pm."
+Named Entities: [high-rated (Rating), upscale (Amenity), Italian dishes (Cuisine), past 10 pm (Hours)]
+
+3. "I need a reservation at a top-rated, upscale steakhouse located in the downtown area."
+Named Entities: [top-rated (Rating), upscale (Amenity), steakhouse (Cuisine), downtown area (Location)]

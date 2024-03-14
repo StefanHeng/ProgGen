@@ -1,0 +1,8 @@
+1. "I'm craving Brazilian cuisine, but I'm on a budget. Can you recommend any low-cost diners?"
+Named Entities: [Brazilian (Cuisine), Low-cost Diners (Amenity)]
+
+2. "Where can I find a delicious paella dish in the area?"
+Named Entities: [paella (Dish), area (Location)]
+
+3. "I need a restaurant with a good rating that serves Brazilian food and is open late."
+Named Entities: [good (Rating), Brazilian (Cuisine), open late (Hours)]

@@ -1,0 +1,8 @@
+1. Spoken Query: "Has the movie Philadelphia received any awards or nominations?"
+Named Entities: [Philadelphia (Title), Awards and nominations received (Genre)]
+
+2. Spoken Query: "Are there any movies about corporate corruption that have won Golden Globes?"
+Named Entities: [corporate corruption (Plot), Golden Globes (Awards and nominations received)]
+
+3. Spoken Query: "Which movie with a 4-star rating has received the most nominations?"
+Named Entities: [4-star rating (Viewers' Rating), nominations (Plot)]

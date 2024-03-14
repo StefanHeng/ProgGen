@@ -1,0 +1,8 @@
+1. Query: "Are there any comedy movies from the 1990s available on Netflix?"
+   Named Entities: [comedy (Genre), 1990s (Year), Netflix (Streaming platform)]
+
+2. Query: "Could you recommend a movie with a strong female lead that's on Hulu?"
+   Named Entities: [strong female lead (Character), Hulu (Streaming platform)]
+
+3. Query: "Is there a romantic drama film on Amazon Prime Video directed by Ang Lee?"
+   Named Entities: [romantic drama (Genre), Ang Lee (Director), Amazon Prime Video (Streaming platform)]

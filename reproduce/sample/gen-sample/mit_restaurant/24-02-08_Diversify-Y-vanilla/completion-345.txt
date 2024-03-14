@@ -1,0 +1,8 @@
+1. "Where can I find a nice Italian restaurant with a set menu for dinner tonight?"
+   Named Entities: [nice (Rating), Italian (Cuisine), set menu (Amenity), dinner tonight (Hours)]
+
+2. "I want to try some authentic sushi within walking distance from here, any suggestions?"
+   Named Entities: [authentic (Rating), sushi (Cuisine), walking distance from here (Location)]
+
+3. "Do you know of any budget-friendly Indian restaurants open late for dinner?"
+   Named Entities: [budget-friendly (Price), Indian (Cuisine), open late (Hours), dinner (Amenity)]

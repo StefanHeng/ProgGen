@@ -1,0 +1,8 @@
+1. "Can you recommend a highly rated gourmet restaurant with a waterfront ambience for dinner on Thursday?"
+Named Entities: [Highly rated gourmet restaurant (Rating, Amenity), Thursday (Hours), Dinner (Amenity)]
+
+2. "I'm looking for a waterfront restaurant with dinner hours that has a gourmet menu and high ratings. Do you have any recommendations?"
+Named Entities: [waterfront (Location), dinner hours (Hours), gourmet (Cuisine), high ratings (Rating)]
+
+3. "Where can I find a waterfront restaurant with dinner hours that is known for its gourmet cuisine and high ratings on Thursday?"
+Named Entities: [waterfront (Location), dinner hours (Hours), gourmet cuisine (Cuisine), high ratings (Rating), Thursday (Hours)]

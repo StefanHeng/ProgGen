@@ -1,0 +1,8 @@
+Query: "I need to know which movie directed by Brian De Palma in 1976 has the song 'You've Got a Friend In Me'"
+Named Entities: [Brian De Palma (Director), 1976 (Year), 'You've Got a Friend In Me' (Song)]
+
+Query: "I don't have all day. Show me a movie with the soundtrack 'Stay' and directed by Tony Scott"
+Named Entities: ['Stay' (Song), Tony Scott (Director)]
+
+Query: "I'm in a hurry. Tell me a movie from the 70s with a great soundtrack by Brian De Palma"
+Named Entities: [70s (Year), Brian De Palma (Director)]

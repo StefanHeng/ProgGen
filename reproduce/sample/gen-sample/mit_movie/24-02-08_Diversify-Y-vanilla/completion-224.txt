@@ -1,0 +1,8 @@
+1. "Could you recommend a movie with a captivating alien invasion plot?"
+Named Entities: [alien invasion (Plot)]
+
+2. "I'm looking for a film starring Princess Diana and featuring a song by Billie Holiday."
+Named Entities: [Princess Diana (Character), Billie Holiday (Song)]
+
+3. "What is considered the masterpiece movie directed by Michael Fassbender?"
+Named Entities: [masterpiece (Review), Michael Fassbender (Director)]

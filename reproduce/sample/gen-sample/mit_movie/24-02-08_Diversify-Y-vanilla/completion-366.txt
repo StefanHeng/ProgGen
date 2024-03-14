@@ -1,0 +1,8 @@
+1. "Can you tell me if Darth Vader appears in any drama films?"
+Named Entities: [Darth Vader (Character), drama (Genre)]
+
+2. "I'm looking for a movie from the 1980s with a powerful soundtrack, can you help me find one?"
+Named Entities: [1980s (Year), powerful soundtrack (Song)]
+
+3. "Could you recommend a movie with a high viewers' rating that features a strong female lead?" 
+Named Entities: [high viewers' rating (Viewers' Rating), strong female lead (Character)]

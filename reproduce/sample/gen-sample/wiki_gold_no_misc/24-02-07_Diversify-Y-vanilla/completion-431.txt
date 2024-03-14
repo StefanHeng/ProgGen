@@ -1,0 +1,8 @@
+1. New York City Ballet is one of the foremost dance companies in the world.
+Named Entities: [New York City Ballet (organization)]
+
+2. The famous scientist, Albert Einstein, developed the theory of relativity.
+Named Entities: [Albert Einstein (person)]
+
+3. The concert will take place at Carnegie Hall in Manhattan next month.
+Named Entities: [Carnegie Hall (location), Manhattan (location)]

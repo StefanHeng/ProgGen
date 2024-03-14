@@ -1,0 +1,10 @@
+Query: "show me the best Italian restaurants nearby"
+Named Entities: [best (Rating), Italian (Cuisine), nearby (Location)]
+
+
+Query: "what time does the steakhouse close on Fridays"
+Named Entities: [steakhouse (Restaurant Name), close on Fridays (Hours)]
+
+
+Query: "recommend a fancy French restaurant with outdoor seating"
+Named Entities: [fancy (Rating), French (Cuisine), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Show me a movie with a promotional clip featuring Michael B. Jordan"
+Named Entities: [promotional clip (Trailer), Michael B. Jordan (Actor)]
+
+Query: "What's the year of release for the film Smooth Operator?"
+Named Entities: [Smooth Operator (Title)]
+
+Query: "Could you recommend a movie from 1959 with a trailer excerpt?"
+Named Entities: [1959 (Year), trailer excerpt (Trailer)]

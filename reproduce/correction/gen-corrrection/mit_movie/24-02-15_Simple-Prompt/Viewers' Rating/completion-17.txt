@@ -1,0 +1,8 @@
+1. Text Span: "must-see"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "viewers' rating"
+Label: (D). The span is not a named entity
+
+3. Text Span: "best"
+Label: (A). The span is a named entity of type viewers' rating

@@ -1,0 +1,8 @@
+Query: "can you show me the teaser trailer for the movie with heartfelt performances"
+Named Entities: [teaser trailer (Trailer), heartfelt performances (Review)]
+
+Query: "I'm looking for a film directed by Francis Ford Coppola that is considered stupendous"
+Named Entities: [Francis Ford Coppola (Director), stupendous (Review)]
+
+Query: "is there a movie from 1961 that features the song Piano Man"
+Named Entities: [1961 (Year), Piano Man (Song)]

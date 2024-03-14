@@ -1,0 +1,8 @@
+1. "I'm craving a burger, where can I get the best fast food burger in town?"
+   Named Entities: [burger (Dish), fast food (Cuisine)]
+
+2. "I need a recommendation for an upscale fast food restaurant with a drive-thru."
+   Named Entities: [upscale (Price), fast food (Cuisine), drive-thru (Amenity)]
+
+3. "What's the top-rated fast food joint that serves breakfast all day?"
+   Named Entities: [top-rated (Rating), fast food (Cuisine), breakfast (Amenity)]

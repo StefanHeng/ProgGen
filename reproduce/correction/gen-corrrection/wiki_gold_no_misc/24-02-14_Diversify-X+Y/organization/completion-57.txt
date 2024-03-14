@@ -1,0 +1,8 @@
+1. Text Span: "An Inconvenient Truth"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Environmental Protection Agency"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Ragnarok"
+Label: (C). Wrong Type. The correct entity type is other.

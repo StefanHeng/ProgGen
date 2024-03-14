@@ -1,0 +1,8 @@
+1. "Can you recommend any paranormal movies with C+ rating?"
+Named Entities: [Paranormal (Genre), C+ rating (Viewers' Rating)]
+
+2. "I'm looking for a movie with character-driven storytelling, directed by Darren Aronofsky."
+Named Entities: [character-driven storytelling (Plot), Darren Aronofsky (Director)]
+
+3. "Could you show me a preview snippet of Burning Love in Alice in Wonderland?"
+Named Entities: [Burning Love (Title), Alice in Wonderland (Title), Preview snippet (Trailer)]

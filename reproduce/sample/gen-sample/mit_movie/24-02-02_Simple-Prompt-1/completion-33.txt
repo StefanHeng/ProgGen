@@ -1,0 +1,149 @@
+1. "who directed the movie the shawshank redemption"
+Named Entities: [the shawshank redemption (Title)]
+
+2. "what is the viewers' rating for the godfather"
+Named Entities: [the godfather (Title)]
+
+3. "when was the movie inception released"
+Named Entities: [inception (Title)]
+
+4. "can you recommend a good science fiction film"
+Named Entities: [science fiction (Genre)]
+
+5. "show me a movie by alfred hitchcock"
+Named Entities: [alfred hitchcock (Director)]
+
+6. "is the movie 1917 suitable for children"
+Named Entities: [1917 (Title), suitable for children (MPAA Rating)]
+
+7. "who is the lead actor in the dark knight"
+Named Entities: [the dark knight (Title), lead actor (Actor)]
+
+8. "could you describe the plot of the matrix"
+Named Entities: [the matrix (Title), plot (Plot)]
+
+9. "what movie features meryl streep"
+Named Entities: [meryl streep (Actor)]
+
+10. "can you play the trailer for the avengers: endgame"
+Named Entities: [the avengers: endgame (Title), trailer (Trailer)]
+
+11. "what is the song from titanic"
+Named Entities: [titanic (Title), song (Song)]
+
+12. "what is the review for the movie the social network"
+Named Entities: [the social network (Title), review (Review)]
+
+13. "how many movies did steven spielberg direct in the 1980s"
+Named Entities: [steven spielberg (Director), 1980s (Year)]
+
+14. "is the movie pulp fiction a comedy or a drama"
+Named Entities: [pulp fiction (Title), comedy or drama (Genre)]
+
+15. "show me a movie with an mpaa rating of g"
+Named Entities: [mpaa rating of g (MPAA Rating)]
+
+16. "what is the name of the lead character in the terminator"
+Named Entities: [the terminator (Title), lead character (Character)]
+
+17. "what is the best film of all time according to critics"
+Named Entities: [best film of all time (Review)]
+
+18. "who directed the movie jurassic park"
+Named Entities: [jurassic park (Title)]
+
+19. "what is the viewers' rating for the movie the lion king"
+Named Entities: [the lion king (Title)]
+
+20. "when did the movie the wizard of oz come out"
+Named Entities: [the wizard of oz (Title)]
+
+21. "can you suggest a good horror movie"
+Named Entities: [horror (Genre)]
+
+22. "show me a movie directed by quentin tarantino"
+Named Entities: [quentin tarantino (Director)]
+
+23. "is the movie jaws appropriate for all ages"
+Named Entities: [jaws (Title), appropriate for all ages (MPAA Rating)]
+
+24. "who is the lead actor in the movie forrest gump"
+Named Entities: [forrest gump (Title), lead actor (Actor)]
+
+25. "what is the plot of the james bond film goldfinger"
+Named Entities: [james bond film goldfinger (Title), plot (Plot)]
+
+26. "what movie features judy garland"
+Named Entities: [judy garland (Actor)]
+
+27. "can you play the trailer for the movie rogue one: a star wars story"
+Named Entities: [rogue one: a star wars story (Title), trailer (Trailer)]
+
+28. "what is the song from the film moana"
+Named Entities: [moana (Title), song (Song)]
+
+29. "what is the review for the movie taxi driver"
+Named Entities: [taxi driver (Title), review (Review)]
+
+30. "how many movies did martin scorsese direct in the 1990s"
+Named Entities: [martin scorsese (Director), 1990s (Year)]
+
+31. "is the film the shining a thriller or a mystery"
+Named Entities: [the shining (Title), thriller or mystery (Genre)]
+
+32. "show me a movie with an mpaa rating of pg-13"
+Named Entities: [mpaa rating of pg-13 (MPAA Rating)]
+
+33. "what is the name of the lead character in the matrix"
+Named Entities: [the matrix (Title), lead character (Character)]
+
+34. "what is the most iconic movie of all time"
+Named Entities: [most iconic movie of all time (Review)]
+
+35. "who directed the movie saving private ryan"
+Named Entities: [saving private ryan (Title)]
+
+36. "what is the viewers' rating for the movie the shawshank redemption"
+Named Entities: [the shawshank redemption (Title)]
+
+37. "when did the movie the godfather release"
+Named Entities: [the godfather (Title)]
+
+38. "can you recommend a good romance film"
+Named Entities: [romance (Genre)]
+
+39. "show me a movie by stanley kubrick"
+Named Entities: [stanley kubrick (Director)]
+
+40. "is the movie the exorcist suitable for children"
+Named Entities: [the exorcist (Title), suitable for children (MPAA Rating)]
+
+41. "who is the lead actor in the film heat"
+Named Entities: [heat (Title), lead actor (Actor)]
+
+42. "could you describe the plot of the shawshank redemption"
+Named Entities: [the shawshank redemption (Title), plot (Plot)]
+
+43. "what movie features johnny depp"
+Named Entities: [johnny depp (Actor)]
+
+44. "show me a movie with the song my heart will go on"
+Named Entities: [my heart will go on (Song)]
+
+45. "what is the review for the movie the godfather"
+Named Entities: [the godfather (Title), review (Review)]
+
+46. "how many movies did quentin tarantino direct in the 2000s"
+Named Entities: [quentin tarantino (Director), 2000s (Year)]
+
+47. "is the film the exorcist a horror or a thriller"
+Named Entities: [the exorcist (Title), horror or thriller (Genre)]
+
+48. "show me a movie with an mpaa rating of r"
+Named Entities: [mpaa rating of r (MPAA Rating)]
+
+49. "what is the name of the lead character in the godfather"
+Named Entities: [the godfather (Title), lead character (Character)]
+
+50. "what is the best sci-fi film of all time according to critics"
+Named Entities: [best sci-fi film of all time (Review)]

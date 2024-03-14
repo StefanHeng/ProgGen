@@ -1,0 +1,8 @@
+1. "Can you suggest a brunch spot with good happy hour specials?"
+Named Entities: [brunch (Cuisine), good (Rating), happy hour (Amenity)]
+
+2. "What are some restaurants in the area that serve brunch and have happy hour deals?"
+Named Entities: [brunch (Cuisine), happy hour (Amenity)]
+
+3. "I'm looking for a place with a brunch menu and happy hour options, do you have any recommendations?"
+Named Entities: [brunch (Cuisine), happy hour (Amenity)]

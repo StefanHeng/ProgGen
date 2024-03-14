@@ -1,0 +1,8 @@
+Query: "Where can I find a sushi food truck with clean restrooms nearby?"
+Named Entities: [sushi (Cuisine), clean restrooms (Amenity), nearby (Location)]
+
+Query: "I'm in the mood for some sushi from a food truck, can you recommend one in the neighborhood?"
+Named Entities: [sushi (Cuisine), neighborhood (Location)]
+
+Query: "What food truck in the neighborhood has the best sushi and clean restrooms?"
+Named Entities: [sushi (Cuisine), clean restrooms (Amenity), neighborhood (Location)]

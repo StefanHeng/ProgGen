@@ -1,0 +1,8 @@
+1. Query: "Can you really show me a sneak peek of the new epic superhero movie trailer?"
+   Named Entities: [sneak peek (Trailer), epic (Genre), superhero (Genre)]
+
+2. Query: "Are there any trailers for the upcoming epic fantasy film, or is it all just hype?"
+   Named Entities: [trailers (Trailer), epic (Genre), fantasy (Genre)]
+
+3. Query: "I doubt you have any exclusive previews for the highly anticipated epic adventure movie, do you?"
+   Named Entities: [exclusive previews (Trailer), highly anticipated (Viewers' Rating), epic (Genre), adventure (Genre)]

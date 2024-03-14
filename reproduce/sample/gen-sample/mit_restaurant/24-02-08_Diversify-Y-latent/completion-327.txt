@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with Wifi in the downtown area?"
+Named Entities: [restaurant (Amenity: Wifi), downtown area (Location)]
+
+2. "I'm craving sushi, where can I find a good sushi place around here?"
+Named Entities: [sushi (Cuisine)]
+
+3. "What's a reasonably priced Italian restaurant near the beach?"
+Named Entities: [reasonably priced (Price), Italian (Cuisine), beach (Location)]

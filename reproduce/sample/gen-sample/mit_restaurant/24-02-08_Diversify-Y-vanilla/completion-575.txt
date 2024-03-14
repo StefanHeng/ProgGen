@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant that serves authentic Greek gyro?"
+   Named Entities: [authentic (Rating), Greek (Cuisine), gyro (Dish)]
+
+2. "What are the hours of the Italian restaurant with the best pizza in town?"
+   Named Entities: [hours (Hours), Italian (Cuisine), best pizza (Dish)]
+
+3. "I'm looking for a budget-friendly place to eat with outdoor seating, do you have any suggestions?"
+   Named Entities: [budget-friendly (Price), outdoor seating (Amenity)]

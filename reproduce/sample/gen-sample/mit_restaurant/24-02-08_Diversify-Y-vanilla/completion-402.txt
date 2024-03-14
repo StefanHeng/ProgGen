@@ -1,0 +1,11 @@
+Query: "I'm in the mood for some German food, where can I find a good German restaurant"
+Named Entities: [German (Cuisine), German restaurant (Amenity)]
+
+Query: "I want to try some traditional Honduran dishes, where can I find a Honduran restaurant"
+Named Entities: [Honduran (Cuisine), Honduran restaurant (Amenity)]
+
+Query: "I'm craving some wine, can you recommend a place like Cooper's Hawk Winery & Restaurants"
+Named Entities: [Cooper's Hawk Winery & Restaurants (Restaurant Name)]
+
+Query: "I'm in the mood for fast food, can you find me a McDonald's nearby"
+Named Entities: [McDonald's (Restaurant Name)]

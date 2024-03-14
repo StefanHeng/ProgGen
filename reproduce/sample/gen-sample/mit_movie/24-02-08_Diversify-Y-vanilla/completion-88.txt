@@ -1,0 +1,8 @@
+1. "Can you recommend an enlightening movie starring Chris Pratt?"
+Named Entities: [enlightening (Viewers' Rating), Chris Pratt (Actor)]
+
+2. "Which movie features the song Raspberry Beret?"
+Named Entities: [Raspberry Beret (Song)]
+
+3. "What genre is the movie starring Chris Pratt called Passengers?"
+Named Entities: [Passengers (Title), Chris Pratt (Actor)]

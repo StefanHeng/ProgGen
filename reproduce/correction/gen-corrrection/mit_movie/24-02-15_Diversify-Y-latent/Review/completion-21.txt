@@ -1,0 +1,8 @@
+1. Text Span: "cast cohesion"
+Label: (A). The span is a named entity of type Review
+
+2. Text Span: "powerful message"
+Label: (A). The span is a named entity of type Review
+
+3. Text Span: "remarkable"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Director.

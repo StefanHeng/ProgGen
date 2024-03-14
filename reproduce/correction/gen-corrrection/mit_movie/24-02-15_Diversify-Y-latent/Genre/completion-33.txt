@@ -1,0 +1,8 @@
+1. Text Span: "comedic"
+Label: (C). Wrong Type. The correct entity type is MPAA Rating.
+
+2. Text Span: "epic"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "romantic films"
+Label: (B). Wrong Boundary. The correct span boundary is "romantic".

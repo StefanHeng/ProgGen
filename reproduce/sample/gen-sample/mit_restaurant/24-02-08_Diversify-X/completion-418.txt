@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a place with a good breakfast menu and live music performance?"
+   Named Entities: [good (Rating), breakfast (Cuisine), live music (Amenity)]
+
+2. Query: "I'm looking for a breakfast spot with live music. Any suggestions?"
+   Named Entities: [breakfast (Cuisine), live music (Amenity)]
+
+3. Query: "Where can I find a restaurant serving breakfast with live music before 10 am?"
+   Named Entities: [breakfast (Cuisine), live music (Amenity), before 10 am (Hours)]

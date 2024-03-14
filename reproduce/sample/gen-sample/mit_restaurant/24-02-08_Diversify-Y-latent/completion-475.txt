@@ -1,0 +1,8 @@
+Query: "I'm craving some BBQ tonight, where's the best place I can find it?"
+Named Entities: [BBQ (Cuisine), best (Rating)]
+
+Query: "Is there a highly rated café nearby with outdoor seating?"
+Named Entities: [highly rated (Rating), café (Amenity), outdoor seating (Amenity)]
+
+Query: "I need to grab a quick bite, where can I get a cheap meal close by?"
+Named Entities: [cheap (Price), close by (Location)]

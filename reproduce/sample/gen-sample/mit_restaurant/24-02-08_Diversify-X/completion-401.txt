@@ -1,0 +1,8 @@
+1. "What's a good spot for late-night dining that serves Mexican food?"
+Named Entities: [late-night dining (Amenity), Mexican food (Cuisine)]
+
+2. "Which restaurant offers late-night dining with a high rating in the downtown area?"
+Named Entities: [late-night dining (Amenity), downtown area (Location), high rating (Rating)]
+
+3. "Where can I find a place for late-night dining with vegan options and affordable prices?"
+Named Entities: [late-night dining (Amenity), vegan options (Cuisine), affordable prices (Price)]

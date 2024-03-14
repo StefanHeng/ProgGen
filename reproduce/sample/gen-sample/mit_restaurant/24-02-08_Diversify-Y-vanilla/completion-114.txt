@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating and vegan options?"
+Named Entities: [restaurant (Amenity), outdoor seating (Amenity), vegan (Cuisine)]
+
+2. "I'm looking for a place with live music and Mexican cuisine. It should be open past 10 pm."
+Named Entities: [live music (Amenity), Mexican (Cuisine), past 10 pm (Hours)]
+
+3. "Show me restaurants with happy hour deals and a rating of 4 stars or higher."
+Named Entities: [happy hour deals (Amenity), 4 stars or higher (Rating)]

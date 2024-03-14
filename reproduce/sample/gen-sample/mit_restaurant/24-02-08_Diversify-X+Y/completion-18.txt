@@ -1,0 +1,8 @@
+1. "Where can I find a good breakfast spot with happy hours near Blueberry Hill Restaurant?"
+Named Entities: [breakfast (Cuisine), happy hours (Amenity), Blueberry Hill Restaurant (Restaurant Name)]
+
+2. "I'm looking for a fancy restaurant that serves breakfast and offers happy hours, preferably Caribbean cuisine"
+Named Entities: [fancy (Rating), breakfast (Cuisine), happy hours (Amenity), Caribbean (Cuisine)]
+
+3. "What are some expensive restaurants in the area that have a breakfast menu and happy hour specials?"
+Named Entities: [expensive (Price), breakfast (Cuisine), happy hour (Amenity)]

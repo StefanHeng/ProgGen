@@ -1,0 +1,8 @@
+1. "Where can I find the best lunch discounts in the area?"
+Named Entities: [best (Rating), lunch discounts (Amenity), area (Location)]
+
+2. "I'm craving some Italian cuisine, can you recommend a restaurant nearby?"
+Named Entities: [Italian (Cuisine), restaurant (Amenity), nearby (Location)]
+
+3. "What's the closest place with a good menu for happy hour?"
+Named Entities: [closest (Location), good (Rating), happy hour (Amenity)]

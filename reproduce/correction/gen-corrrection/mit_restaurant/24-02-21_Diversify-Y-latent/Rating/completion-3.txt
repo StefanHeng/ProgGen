@@ -1,0 +1,8 @@
+1. Text Span: "good value for money"
+Label: (C). The span is a named entity but the category is not rating. Category: Price
+
+2. Text Span: "quality food"
+Label: (C). The span is a named entity but the category is not rating. Category: Cuisine
+
+3. Text Span: "highly rated"
+Label: (A). The span is a named entity of type rating

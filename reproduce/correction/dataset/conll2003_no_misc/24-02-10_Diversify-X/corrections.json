@@ -1,0 +1,4673 @@
+{
+    "dataset-name": "conll2003-no-misc",
+    "triples-dir-name": "24-02-07_NER-Dataset_{fmt=n-p2,#l=3,dc=T}",
+    "completions-dir-name": "24-02-10_14-40-11_Correction-Res_{fmt=n-p2,#cr=3,dc=T}_{t=0}",
+    "corrections": {
+        "person": [
+            {
+                "sentence": "8-year-old girl raises $10,000 for cancer research by selling lemonade.",
+                "span": "8-year-old girl",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tragic news as beloved actor and comedian passes away at the age of 77.",
+                "span": "actor",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Grammy-winning singer Adele announces upcoming world tour.",
+                "span": "Adele",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "POP SENSATION ARIANA GRANDE TO HEADLINE SUMMER MUSIC FESTIVAL",
+                "span": "ARIANA GRANDE",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "FAMOUS FASHION BRAND ANNOUNCES COLLABORATION WITH RISING ARTIST.",
+                "span": "ARTIST",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Director Ava DuVernay to produce new film about civil rights icon.",
+                "span": "Ava DuVernay",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Breaking News: President Biden delivers speech on new healthcare initiatives.",
+                "span": "Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Young boy raises thousands of dollars for cancer research through lemonade stand.",
+                "span": "boy",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Buddhist community in Thailand celebrates Vesak, the birth, enlightenment, and death of Buddha.",
+                "span": "Buddha",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Retired couple fulfills lifelong dream of traveling the world after winning lottery.",
+                "span": "couple",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned scientist Dr. Jane Smith awarded Nobel Prize for her groundbreaking research in the field of climate change.",
+                "span": "Dr. Jane Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned physicist Dr. Stephen Hawking's groundbreaking theory on black holes revolutionizes astrophysics.",
+                "span": "Dr. Stephen Hawking",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Elderly couple celebrates 60th wedding anniversary with a heartwarming ceremony.",
+                "span": "Elderly couple",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hollywood actress Emma Stone wins prestigious award for her role in new film.",
+                "span": "Emma Stone",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Famous author to hold book signing at neighborhood bookstore.",
+                "span": "Famous author",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local firefighter rescues kitten from burning building.",
+                "span": "firefighter",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former homeless man opens center to provide resources for those in need.",
+                "span": "Former homeless man",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former Prime Minister Trudeau to speak at political conference.",
+                "span": "Former Prime Minister Trudeau",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former refugee opens successful business to give back to her community.",
+                "span": "Former refugee",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Gang leader sentenced to 25 years in prison for drug trafficking.",
+                "span": "Gang leader",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "General Mark Smith appointed as the new commander of the 3rd Infantry Division.",
+                "span": "General Mark Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Famed director Guillermo del Toro to collaborate with renowned composer for new film project.",
+                "span": "Guillermo del Toro",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to raise funds for injured high school athlete's medical expenses.",
+                "span": "high school athlete",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "High school student creates charity to help elderly in need.",
+                "span": "High school student",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Rumors of a potential new collaboration between the acclaimed director and a popular Hollywood actress have been swirling in the industry.",
+                "span": "Hollywood actress",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Former homeless man starts nonprofit to help others in need.",
+                "span": "homeless man",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant family reunites after 10-year separation.",
+                "span": "Immigrant",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Jennifer Lawrence spotted at charity event raising money for children's hospital.",
+                "span": "Jennifer Lawrence",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CEO John Smith resigns amidst financial scandal.",
+                "span": "John Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Nobel Prize in Literature awarded to Japanese novelist Kazuo Ishiguro.",
+                "span": "Kazuo Ishiguro",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child from icy pond.",
+                "span": "Local hero",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves three children from a burning building, risking his own life.",
+                "span": "Local hero",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "French President Macron visits China to discuss trade relations and climate change.",
+                "span": "Macron",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Professor Mary Johnson receives prestigious award for her contribution to the field of education.",
+                "span": "Mary Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Mayor Johnson announces new public transportation initiative in downtown area.",
+                "span": "Mayor Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Mayor Smith unveils new community center in downtown area.",
+                "span": "Mayor Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local musician serenades travelers at airport during holiday season.",
+                "span": "musician",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "FORMER PRESIDENT OBAMA TO DELIVER KEYNOTE ADDRESS AT CLIMATE SUMMIT.",
+                "span": "Obama",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Parents express concerns about the lack of funding for arts education in public schools.",
+                "span": "Parents",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "BREAKING: President Biden announces new infrastructure plan in address to Congress.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden announces new infrastructure plan to create jobs and boost economy.",
+                "span": "President Biden",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters gather outside immigration detention center.",
+                "span": "Protesters",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local rabbi organizes interfaith prayer service for peace.",
+                "span": "rabbi",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Rabbi celebrates 50 years of service to his congregation with a special ceremony and community celebration.",
+                "span": "Rabbi",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned Artist to Exhibit at Local Gallery.",
+                "span": "Renowned Artist",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned chef accused of food safety violations at multiple restaurant locations.",
+                "span": "renowned chef",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Senator Smith delivers passionate speech on healthcare reform",
+                "span": "Senator Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Olympic gold medalist Simone Biles announces retirement from competitive gymnastics.",
+                "span": "Simone Biles",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local small business owner overcomes adversity to achieve record sales this year.",
+                "span": "small business owner",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Taylor Swift releases her highly anticipated album 'Evermore'.",
+                "span": "Taylor Swift",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former teacher starts scholarship fund to help underprivileged students pursue higher education.",
+                "span": "teacher",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Teen cancer survivor raises funds for pediatric oncology research.",
+                "span": "Teen cancer survivor",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Pope visits Jerusalem to promote interfaith dialogue.",
+                "span": "The Pope",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tiger Woods wins his 15th major title at the Masters Tournament.",
+                "span": "Tiger Woods",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The National Book Foundation honors Nobel laureate Toni Morrison for her contribution to literature.",
+                "span": "Toni Morrison",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local library hosting a poetry reading event with Pulitzer Prize-winning poet Tracy K. Smith.",
+                "span": "Tracy K. Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Famous travel blogger shares tips for budget-friendly vacations in Europe.",
+                "span": "travel blogger",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Russian President Vladimir Putin to discuss bilateral cooperation and global issues.",
+                "span": "Vladimir Putin",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Russian President Vladimir Putin to discuss trade and security issues.",
+                "span": "Vladimir Putin",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local woman raises funds for homeless shelter by knitting blankets.",
+                "span": "woman",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Local woman wins national award for her work with underprivileged children.",
+                "span": "woman",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Woman overcomes adversity to start successful catering business.",
+                "span": "Woman",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "person",
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Indian Prime Minister Narendra Modi to discuss border tensions.",
+                "span": "Xi Jinping",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Indian Prime Minister Narendra Modi to discuss trade relations.",
+                "span": "Xi Jinping",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Russian President Vladimir Putin to discuss bilateral cooperation and global issues.",
+                "span": "Xi Jinping",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Russian President Vladimir Putin to discuss trade and security issues.",
+                "span": "Xi Jinping",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "8-year-old cancer survivor raises funds for children's hospital.",
+                "span": "8-year-old",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "8-year-old cancer survivor",
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned economist Dr. John Smith predicts a downturn in the stock market.",
+                "span": "Dr. John Smith",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "John Smith",
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Johnson announces candidacy for upcoming mayoral election",
+                "span": "Former President Johnson",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "Johnson",
+                "span_index": null
+            },
+            {
+                "sentence": "Famous actor comes out as non-binary in a recent interview.",
+                "span": "actor",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "URGENT: Famous actor arrested for drunk driving in Los Angeles.",
+                "span": "actor",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists discover potential new treatment for Alzheimer's disease.",
+                "span": "Alzheimer's disease",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "British adventurer becomes first person to solo row across the Atlantic.",
+                "span": "British",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Breakthrough in cancer research may lead to more effective treatments.",
+                "span": "cancer",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Transgender activist appointed as new CEO of LGBTQ advocacy organization.",
+                "span": "CEO",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of General Motors predicts electric vehicles will account for 40% of company's sales by 2025.",
+                "span": "CEO of General Motors",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Experts warn of the devastating impact of deforestation on biodiversity and the ecosystem.",
+                "span": "Experts",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Top fashion designer accused of plagiarizing small independent designer's work.",
+                "span": "fashion designer",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local firefighter saves family from burning house.",
+                "span": "firefighter",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant entrepreneur wins national award for innovation.",
+                "span": "immigrant",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant family reunites after years apart.",
+                "span": "Immigrant family",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local inventor revolutionizes sustainable energy with new solar-powered technology.",
+                "span": "inventor",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local filmmaker wins prestigious award at international film festival.",
+                "span": "Local filmmaker",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child from lake.",
+                "span": "local hero",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Manhunt underway for escaped prisoner from maximum-security prison.",
+                "span": "Prisoner",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters march in solidarity with Black Lives Matter movement.",
+                "span": "Protesters",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local restaurant owner donates meals to homeless shelter.",
+                "span": "restaurant owner",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local restaurant owner wins national award for best seafood dish.",
+                "span": "restaurant owner",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Serial killer sentenced to life in prison for multiple murders.",
+                "span": "Serial killer",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President meets with South Korean counterpart to discuss trade agreements.",
+                "span": "South Korean",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Tourist stranded in remote location after travel agency goes bankrupt.",
+                "span": "Tourist",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Murder victim's body found in local park.",
+                "span": "Victim",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Volunteers organize fundraiser to support cancer research and treatment.",
+                "span": "Volunteers",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Woman reunites with long-lost sister after 40 years",
+                "span": "Woman",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local artist to showcase traditional dances at cultural festival.",
+                "span": "artist",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Celebrity chef opens new restaurant in downtown Los Angeles.",
+                "span": "chef",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Celebrity chef to launch new line of organic cooking sauces.",
+                "span": "chef",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned education expert delivers keynote speech at international conference.",
+                "span": "expert",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers from the World Wildlife Fund discover a new species of frog in the Amazon rainforest.",
+                "span": "frog",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Manhunt underway for fugitive wanted in connection with multiple homicides.",
+                "span": "fugitive",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Fitness guru launches new line of athleisure wear for women.",
+                "span": "guru",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "High school student overcomes adversity to win prestigious scholarship.",
+                "span": "high school student",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school student overcomes homelessness to graduate with honors.",
+                "span": "high school student",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school student wins national science competition.",
+                "span": "high school student",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child at crowded beach",
+                "span": "Local hero",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child in dramatic rescue",
+                "span": "local hero",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child in dramatic rescue.",
+                "span": "local hero",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school student wins prestigious science competition, impressive achievement for the community.",
+                "span": "student",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Authorities arrest three suspects in connection with bank robbery.",
+                "span": "suspects",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Police arrest three suspects in connection to the bank robbery.",
+                "span": "suspects",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Conservationists report a significant increase in tiger sightings in the Indian subcontinent.",
+                "span": "tiger",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Witnesses report seeing a masked man fleeing the crime scene.",
+                "span": "Witnesses",
+                "entity_type": "person",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            }
+        ],
+        "location": [
+            {
+                "sentence": "Conservation group warns of declining elephant population in Africa.",
+                "span": "Africa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Global wildlife conservation organization launches initiative to protect endangered species in Africa.",
+                "span": "Africa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "China pledges $80 billion in funding for new African infrastructure projects.",
+                "span": "African",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Elephant poaching decreases by 20% in African national parks.",
+                "span": "African national parks",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping visits African nations to strengthen trade ties.",
+                "span": "African nations",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "African nations",
+                "span_index": null
+            },
+            {
+                "sentence": "New study finds decline in elephant populations in African reserves.",
+                "span": "African reserves",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New study reveals the drastic impact of deforestation on indigenous communities in the Amazon.",
+                "span": "Amazon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental activists protest against deforestation in the Amazon rainforest.",
+                "span": "Amazon rainforest",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover new species of butterfly in the Amazon rainforest.",
+                "span": "Amazon rainforest",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists warn of the devastating effects of deforestation on the Amazon rainforest.",
+                "span": "Amazon rainforest",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple announces plans to open new headquarters in Austin, Texas, creating thousands of jobs in the region.",
+                "span": "Austin",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UN Secretary-General visits refugee camps in Bangladesh.",
+                "span": "Bangladesh",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child at the beach.",
+                "span": "beach",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Immigration officials intercepted a group of undocumented migrants at the border.",
+                "span": "border",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "JUST IN: President of Brazil impeached after corruption scandal rocks the nation.",
+                "span": "Brazil",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Actress Emma Stone discusses her upcoming role in the highly anticipated Broadway production of 'Cabaret'.",
+                "span": "Broadway",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The new film festival in Cannes draws attention from Hollywood stars and international filmmakers.",
+                "span": "Cannes",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Director Quentin Tarantino's new film to premiere at Cannes Film Festival.",
+                "span": "Cannes Film Festival",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Cannes Film Festival will feature screenings from renowned directors like Quentin Tarantino and Pedro Almod\u00f3var.",
+                "span": "Cannes Film Festival",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Karen expected to make landfall in the Carolinas.",
+                "span": "Carolinas",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "China pledges $80 billion in funding for new African infrastructure projects.",
+                "span": "China",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local business owner donates $10,000 to city's homeless shelter.",
+                "span": "city",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters gather outside city hall to demand police reform.",
+                "span": "city hall",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters gather outside immigration detention center to demand better conditions for detainees.",
+                "span": "detention center",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hindu community celebrates Diwali with colorful festivities and prayers.",
+                "span": "Diwali",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves budget for new public park downtown.",
+                "span": "downtown",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local community celebrates grand opening of new community center in downtown.",
+                "span": "downtown",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local woman opens new boutique in downtown area.",
+                "span": "downtown",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Cultural festival celebrating indigenous art and music set to take place in historic downtown district.",
+                "span": "downtown district",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Meteorologists predicting a colder than average winter for the East Coast.",
+                "span": "East Coast",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "World Health Organization declares Ebola outbreak a global emergency.",
+                "span": "Ebola outbreak",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "CHINA'S E-COMMERCE GIANT ALIBABA EXPANDS INTO EUROPEAN MARKET.",
+                "span": "EUROPEAN MARKET",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "EUROPEAN MARKET",
+                "span_index": null
+            },
+            {
+                "sentence": "Tropical storm Emma expected to make landfall in Florida on Friday.",
+                "span": "Florida",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "GOOGLE TO OPEN NEW ARTIFICIAL INTELLIGENCE RESEARCH CENTER IN FRANCE.",
+                "span": "FRANCE",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned wildlife photographer captures rare sighting of snow leopard in the Himalayas.",
+                "span": "Himalayas",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council votes to allocate funds for renovation of historic downtown district.",
+                "span": "historic downtown district",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hollywood blockbuster movie 'Fast & Furious 9' breaks opening weekend box office records.",
+                "span": "Hollywood",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hollywood production company announces plans to adapt best-selling novel into major motion picture.",
+                "span": "Hollywood",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Young actor from small town lands leading role in big-budget Hollywood film.",
+                "span": "Hollywood",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to support homeless shelter volunteer.",
+                "span": "homeless shelter",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "High school students volunteer at homeless shelter during winter break.",
+                "span": "homeless shelter",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "The new mosque in downtown Houston will be the largest in Texas.",
+                "span": "Houston",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Maria devastates Puerto Rico.",
+                "span": "Hurricane Maria",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters gather outside immigration detention center.",
+                "span": "immigration detention center",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hindu festival draws thousands of worshippers in India",
+                "span": "India",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Conservationists report a significant increase in tiger sightings in the Indian subcontinent.",
+                "span": "Indian subcontinent",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local filmmaker wins prestigious award at international film festival.",
+                "span": "international film festival",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Astronauts aboard the International Space Station conduct experiments to study effects of microgravity on plant growth.",
+                "span": "International Space Station",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned astronaut to lead upcoming mission to the International Space Station.",
+                "span": "International Space Station",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hero saves drowning child from lake.",
+                "span": "lake",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Principal Smith resigns from Lincoln High School amidst controversy.",
+                "span": "Lincoln High School",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Louvre Museum in Paris to host an exhibition featuring works by Leonardo da Vinci.",
+                "span": "Louvre Museum",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New bakery opens on Main Street, offering a variety of pastries and breads.",
+                "span": "Main Street",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New immigration policies to be implemented at major airports.",
+                "span": "major airports",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "major airports",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigration detention center protests erupt in major cities.",
+                "span": "major cities",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Protests erupt in major cities after controversial police shooting.",
+                "span": "major cities",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Mars rover, Perseverance, discovers signs of ancient life on the red planet.",
+                "span": "Mars",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Manhunt underway for escaped prisoner from maximum-security prison.",
+                "span": "Maximum-security prison",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover lost city of Atlantis in the Mediterranean Sea.",
+                "span": "Mediterranean Sea",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tropical Storm Barbara expected to bring heavy rain to Mexico's Pacific coast.",
+                "span": "Mexico",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Popular local band to perform at annual music festival.",
+                "span": "music festival",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Government announces plan to protect endangered species in national parks.",
+                "span": "national parks",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Community rallies together to clean up neighborhood park after vandalism.",
+                "span": "neighborhood park",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Renewable energy company announces plan to build new solar farm in Nevada.",
+                "span": "Nevada",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York Fashion Week attracts top designers and celebrities from around the world.",
+                "span": "New York",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New York restaurant named the best in the world.",
+                "span": "New York",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Meteorologists predict heavy snowfall in the Northeast region this weekend, prompting travel advisories and school closures.",
+                "span": "Northeast",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UN report warns of dire consequences of climate change in Pacific island nations.",
+                "span": "Pacific island",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Designer Karl Lagerfeld unveils new collection at Paris Fashion Week.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Fashion designer Michael Kors unveils new spring collection at Paris Fashion Week.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "FASHION WEEK IN PARIS ATTRACTS TOP DESIGNERS AND CELEBRITIES.",
+                "span": "PARIS",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week attracts top designers and celebrities.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week kicks off with celebrity-filled runway shows.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week to feature latest designs from top couture houses.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned fashion designer Stella McCartney to showcase new collection at Paris Fashion Week.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Louvre Museum in Paris to host an exhibition featuring works by Leonardo da Vinci.",
+                "span": "Paris",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Murder victim's body found in local park.",
+                "span": "Park",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Mars rover, Perseverance, discovers signs of ancient life on the red planet.",
+                "span": "Perseverance",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Education ministry announces new curriculum for primary schools.",
+                "span": "primary schools",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Archaeologists uncover ancient Roman ruins in new excavation.",
+                "span": "Roman",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "European Union to impose sanctions on Russia for its annexation of Crimea.",
+                "span": "Russia",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The French Ministry of Defense announced plans to increase its military presence in the Sahel region to combat rising insurgent activity.",
+                "span": "Sahel region",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New airline announces non-stop flights from New York to Tokyo.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Tokyo Olympics will be held with limited spectators due to the ongoing COVID-19 pandemic.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics officially postponed to 2021 due to the COVID-19 pandemic.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics postponed due to COVID-19 pandemic.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics to go ahead without overseas fans.",
+                "span": "Tokyo",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Climate change activists protest outside the United Nations headquarters in New York City.",
+                "span": "United Nations headquarters",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Pope Francis holds historic meeting with the leaders of various religious organizations at the Vatican.",
+                "span": "Vatican",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama endorses Democratic candidate for governor in Virginia.",
+                "span": "Virginia",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Record-breaking heatwave hits the western United States.",
+                "span": "western United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Record-breaking heatwave hits western United States.",
+                "span": "western United States",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Government officials investigate illegal dumping of toxic waste in a protected wildlife reserve.",
+                "span": "wildlife reserve",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Serena Williams advances to the finals of the Wimbledon tournament.",
+                "span": "Wimbledon",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Police arrest three suspects in connection with armed robbery at downtown bank.",
+                "span": "downtown",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "downtown bank",
+                "span_index": null
+            },
+            {
+                "sentence": "New mural depicting local history to be commissioned in downtown arts district.",
+                "span": "downtown arts district",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_boundary__"
+                },
+                "correction": "arts district",
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists develop breakthrough treatment for Alzheimer's disease.",
+                "span": "Alzheimer's disease",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Nobel Prize in Literature awarded to American poet Louise Gl\u00fcck.",
+                "span": "American",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "New study shows decline in bee populations due to increased use of pesticides.",
+                "span": "bee populations",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to protest against police brutality and advocate for reform.",
+                "span": "Community",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Outbreak of Ebola virus in West Africa prompts urgent response from international health organizations.",
+                "span": "Ebola virus",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental activists protest outside government headquarters",
+                "span": "government headquarters",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school marching band to perform at prestigious music festival.",
+                "span": "high school",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local charity organization provides free meals to homeless population during holiday season.",
+                "span": "homeless population",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Florence makes landfall in North Carolina, causing widespread flooding and power outages.",
+                "span": "Hurricane Florence",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Grace approaches the coast with winds reaching 120 mph.",
+                "span": "Hurricane Grace",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Laura makes landfall as a powerful Category 4 storm.",
+                "span": "Hurricane Laura",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Laura makes landfall in Louisiana as a Category 4 storm.",
+                "span": "Hurricane Laura",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant community celebrates cultural heritage festival.",
+                "span": "Immigrant community",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Japanese prime minister announces economic reforms to boost the country's GDP.",
+                "span": "Japanese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Warren Buffett's Berkshire Hathaway invests $10 billion in Japanese tech company.",
+                "span": "Japanese",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Mexican immigrant opens successful restaurant in New York City.",
+                "span": "Mexican",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Gucci announces collaboration with renowned Parisian designer.",
+                "span": "Parisian",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Conservationists warn of the declining population of polar bears in the Arctic due to climate change.",
+                "span": "polar bears",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Renowned wildlife photographer captures rare footage of snow leopard in Himalayas.",
+                "span": "snow leopard",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The European Union announce new trade agreement with South American countries.",
+                "span": "South American",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local High School Wins State Championship in Basketball.",
+                "span": "State Championship",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local businesses report increased sales following the annual street fair.",
+                "span": "street fair",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters gather in front of city hall demanding police reform.",
+                "span": "city hall",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local volunteer group plants 1000 trees in city park to combat deforestation.",
+                "span": "city park",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New restaurant to open in downtown area, bringing jobs and economic growth.",
+                "span": "downtown area",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Elsa to bring heavy rain and strong winds to the Caribbean.",
+                "span": "Hurricane Elsa",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Homicide rate reaches record high in major city.",
+                "span": "major city",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local bakery wins national award for best pastries.",
+                "span": "national",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Importance of Mental Health Awareness in the Workplace.",
+                "span": "Workplace",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Research reveals alarming levels of plastic pollution in the world's oceans, threatening marine life and ecosystems.",
+                "span": "world's oceans",
+                "entity_type": "location",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            }
+        ],
+        "organization": [
+            {
+                "sentence": "Activist group calls for reform in the criminal justice system.",
+                "span": "Activist group",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Activists call for government action to address homelessness crisis.",
+                "span": "activists",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The Metropolitan Museum of Art in New York City announces new exhibit featuring works by African American artists.",
+                "span": "African American",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Stanford University leads the way in AI research breakthrough.",
+                "span": "AI",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers at Harvard Medical School discover a promising new treatment for Alzheimer's disease.",
+                "span": "Alzheimer's disease",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists develop a breakthrough treatment for Alzheimer's disease.",
+                "span": "Alzheimer's disease",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Google launches AI-powered virtual assistant to compete with Amazon's Alexa.",
+                "span": "Amazon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "After years of anticipation, Apple finally unveils its latest groundbreaking innovation, the iCar, a fully electric and autonomous vehicle set to revolutionize the automotive industry.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple releases new iPhone with innovative 3D display technology.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple unveils latest iPhone with advanced facial recognition technology.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple unveils new iPhone with 5G capabilities.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple unveils new iPhone with advanced facial recognition technology.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tech giant Apple unveils new iPhone with advanced features.",
+                "span": "Apple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Apple Inc. unveils new iPhone with advanced features.",
+                "span": "Apple Inc.",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local authorities investigate string of burglaries in upscale neighborhoods.",
+                "span": "Authorities",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local bakery wins national award for best pastries.",
+                "span": "bakery",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "New local bakery opens in downtown, offering unique pastries and delicious coffee.",
+                "span": "bakery",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Border patrol apprehends record number of undocumented immigrants near Texas border.",
+                "span": "border patrol",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local business owners express concerns over proposed tax increase.",
+                "span": "business owners",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Volunteers organize charity fundraiser for cancer research in honor of beloved community member.",
+                "span": "cancer research",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "High school student creates charity to help elderly in need.",
+                "span": "charity",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local charity organization hosts annual fundraiser for homeless shelter.",
+                "span": "charity organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local charity organization provides shelter and meals to homeless families during winter storm.",
+                "span": "charity organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Christian charity organization provides aid to refugees in war-torn region.",
+                "span": "Christian charity organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves budget for new park and recreation center.",
+                "span": "City council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves budget for new public park downtown.",
+                "span": "City council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves funding for local parks and recreation programs.",
+                "span": "city council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves funding for new park in suburban neighborhood.",
+                "span": "city council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves funding for new public transportation system.",
+                "span": "city council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City Council Approves New Affordable Housing Project.",
+                "span": "City Council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "City council approves new budget for local schools.",
+                "span": "City council",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Director Ava DuVernay to produce new film about civil rights icon.",
+                "span": "civil rights icon",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Coachella music festival canceled for second year due to COVID-19 concerns.",
+                "span": "Coachella",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Beyonc\u00e9 to headline Coachella music festival.",
+                "span": "Coachella music festival",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Coca-Cola announces new partnership with local farmer's market to source fresh ingredients.",
+                "span": "Coca-Cola",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to support homeless shelter in time for winter.",
+                "span": "Community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Community leaders meet to discuss affordable housing crisis.",
+                "span": "community leaders",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Famed director Guillermo del Toro to collaborate with renowned composer for new film project.",
+                "span": "composer",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Cultural festival celebrating indigenous art and music set to take place in historic downtown district.",
+                "span": "Cultural festival",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant rights organization holds rally in support of DACA recipients.",
+                "span": "DACA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Former President Obama endorses Democratic candidate for governor in Virginia.",
+                "span": "Democratic",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Disney announces the release date for the highly anticipated sequel to \"Frozen\".",
+                "span": "Disney",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "FBI launches investigation into international drug trafficking ring.",
+                "span": "drug trafficking ring",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Education department allocates $10 million for STEM education in rural schools.",
+                "span": "Education department",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Education ministry announces new curriculum for primary schools.",
+                "span": "Education ministry",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New study finds decline in elephant populations in African reserves.",
+                "span": "elephant",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Government announces plan to protect endangered species in national parks.",
+                "span": "endangered species",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental activists protest against the construction of new oil pipelines in the Amazon rainforest.",
+                "span": "environmental activists",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental activists protest outside government headquarters",
+                "span": "Environmental activists",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental organization launches campaign to protect endangered species in the Amazon rainforest.",
+                "span": "Environmental organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "Environmental organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental organizations call for stricter regulations on industrial waste disposal in coastal areas.",
+                "span": "environmental organizations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental protection agency announces new regulations to reduce greenhouse gas emissions.",
+                "span": "Environmental protection agency",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UN Secretary-General meets with European leaders to discuss climate change goals.",
+                "span": "European",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "European Union imposes tariffs on imported steel to protect domestic industry.",
+                "span": "European Union",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Family-run company donates portion of profits to local charity.",
+                "span": "family-run company",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Investigation reveals major fashion brand's use of environmentally harmful materials in their production process.",
+                "span": "fashion brand",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Fashion industry insiders reveal secrets of the runway.",
+                "span": "Fashion industry",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Designer Karl Lagerfeld unveils new collection at Paris Fashion Week.",
+                "span": "Fashion Week",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Fashion designer Michael Kors unveils new spring collection at Paris Fashion Week.",
+                "span": "Fashion Week",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "FBI launches investigation into international drug trafficking ring.",
+                "span": "FBI",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "HBO announces 'Game of Thrones' prequel series 'House of the Dragon'.",
+                "span": "Game of Thrones",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Gang leader sentenced to life in prison for drug trafficking.",
+                "span": "Gang",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Three members of notorious gang indicted on charges of drug trafficking and extortion.",
+                "span": "gang",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Government announces plan to increase funding for public schools.",
+                "span": "Government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Government announces plan to protect endangered sea turtles along the coast.",
+                "span": "Government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Government crackdown on illegal immigration through travel agencies.",
+                "span": "Government",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Government officials investigate illegal dumping of toxic waste in a protected wildlife reserve.",
+                "span": "Government officials",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "GRAMMY AWARD WINNER TAYLOR SWIFT ANNOUNCES NEW ALBUM RELEASE DATE",
+                "span": "GRAMMY AWARD",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Grammys announce new category for Best Hip-Hop Album.",
+                "span": "Grammys",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school basketball team wins championship.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school basketball team wins regional championship.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local High School Football Team Wins Championship.",
+                "span": "High School",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school student wins prestigious science competition, impressive achievement for the community.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Hindu leader calls for tolerance and understanding amidst religious tensions.",
+                "span": "Hindu",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Hindu temple construction project faces opposition from local residents.",
+                "span": "Hindu temple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hindu temple in Bangladesh vandalized by unknown assailants.",
+                "span": "Hindu temple",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "CHINESE TECH GIANT HUAWEI LAUNCHES 5G SMARTPHONE.",
+                "span": "HUAWEI",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Elsa makes landfall in Florida as a Category 1 storm.",
+                "span": "Hurricane Elsa",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Katrina caused widespread destruction in New Orleans, Louisiana.",
+                "span": "Hurricane Katrina",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hurricane Katrina makes landfall in Louisiana.",
+                "span": "Hurricane Katrina",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New immigration laws impact immigrant communities in major cities across the country.",
+                "span": "immigrant communities",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "New immigration policy aims to attract skilled workers.",
+                "span": "immigration policy",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Top fashion designer accused of plagiarizing small independent designer's work.",
+                "span": "independent designer",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Indian Prime Minister Narendra Modi to discuss border tensions.",
+                "span": "Indian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "The International Monetary Fund warns of potential economic slowdown in emerging markets due to rising inflation and currency instability.",
+                "span": "International Monetary Fund",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "APPLE ANNOUNCES RELEASE DATE FOR NEW IPHONE.",
+                "span": "IPHONE",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "After a successful IPO, the startup company secured $50 million in funding from venture capitalists.",
+                "span": "IPO",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Transgender activist appointed as new CEO of LGBTQ advocacy organization.",
+                "span": "LGBTQ advocacy organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The LGBTQ+ community celebrates pride month with parades and events worldwide.",
+                "span": "LGBTQ+",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "FOOTBALL - LIVERPOOL WINS CHAMPIONS LEAGUE TITLE",
+                "span": "LIVERPOOL",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local authorities warn residents about recent spike in car thefts in the area.",
+                "span": "Local authorities",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local brewery wins national beer competition.",
+                "span": "Local brewery",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local charity provides free meals to over 500 homeless individuals on Thanksgiving.",
+                "span": "Local charity",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local charity organization provides free meals to homeless population during holiday season.",
+                "span": "local charity organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local community comes together to support family after tragic house fire.",
+                "span": "Local community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local community rallies together to support family after house fire destroys their home.",
+                "span": "Local community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local High School Wins State Championship in Basketball.",
+                "span": "Local High School",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local hospital receives national recognition for outstanding patient care.",
+                "span": "Local hospital",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local restaurant wins prestigious culinary award.",
+                "span": "Local restaurant",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The famous painter Pablo Picasso's masterpiece stolen from the Louvre Museum has been recovered by authorities.",
+                "span": "Louvre Museum",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Luxury Travel Company Offers Exclusive Retreats in Remote Caribbean Islands",
+                "span": "Luxury Travel Company",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "FOOTBALL - MANCHESTER UNITED SIGNS BRAZILIAN STRIKER FOR RECORD PRICE.",
+                "span": "MANCHESTER UNITED",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Marvel Studios president Kevin Feige reveals plans for upcoming superhero films in exclusive interview.",
+                "span": "Marvel Studios",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Investigation uncovers illegal practices in meat processing plants across the country.",
+                "span": "meat processing plants",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Metropolitan Museum of Art to host exhibition on Impressionist painters.",
+                "span": "Metropolitan Museum of Art",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA launches new mission to explore black holes.",
+                "span": "NASA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's latest discovery on Mars has sparked excitement among the scientific community as they believe it could provide crucial evidence of past life on the red planet.",
+                "span": "NASA",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New Study Shows Link Between Stress and Heart Disease",
+                "span": "New Study",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "NEW YORK FASHION INSTITUTE RECEIVES GRANT FOR SUSTAINABILITY RESEARCH.",
+                "span": "NEW YORK FASHION INSTITUTE",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Nobel Prize in Literature awarded to Japanese novelist Kazuo Ishiguro.",
+                "span": "Nobel Prize in Literature",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Nobel Prize in Literature awarded to American poet Louise Gl\u00fcck.",
+                "span": "Nobel Prize in Literature",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Nobel Prize in Literature is awarded to renowned poet Louise Gl\u00fcck for her impactful body of work.",
+                "span": "Nobel Prize in Literature",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local non-profit organization provides free meals to homeless veterans.",
+                "span": "non-profit organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Non-profit organization launches campaign to offer free vacations to underprivileged families.",
+                "span": "non-profit organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Non-profit organization provides shelter for homeless families in the community.",
+                "span": "non-profit organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Non-profit organization raises $100,000 for homeless shelter renovation.",
+                "span": "non-profit organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Nonprofit organization launches new initiative to combat homelessness in the city.",
+                "span": "Nonprofit organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Nonprofit organization provides free meals to homeless veterans.",
+                "span": "nonprofit organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "nonprofit organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Environmental activists protest construction of new oil pipeline through sensitive wetlands.",
+                "span": "oil pipeline",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Organization provides free meals to homeless veterans in downtown Los Angeles",
+                "span": "Organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Organization raises funds to provide shelter for homeless families",
+                "span": "Organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "World-renowned organization for space exploration announces plans for manned mission to Mars.",
+                "span": "organization for space exploration",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Paris Fashion Week organizers announce new venue for upcoming event.",
+                "span": "Paris Fashion Week",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Actress Emma Stone opens up to People magazine about her latest role in the upcoming romantic comedy 'Crazy, Stupid, Love 2'.",
+                "span": "People",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Perseverance rover successfully collects rock samples from Mars.",
+                "span": "Perseverance",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "NASA's Perseverance rover successfully collects rock samples from the surface of Mars.",
+                "span": "Perseverance",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Sales of plant-based meat alternatives soar as consumers seek sustainable food options.",
+                "span": "plant-based meat",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Police arrest suspect in connection to bank robbery.",
+                "span": "Police",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Police arrest suspect in connection with the bank robbery.",
+                "span": "Police",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Police arrest three suspects in connection with armed robbery at downtown bank.",
+                "span": "Police",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Police arrest two suspects in connection to bank robbery.",
+                "span": "Police",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Protesters gather in front of city hall demanding police reform.",
+                "span": "police",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Pride parade draws record turnout in major city.",
+                "span": "Pride parade",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Hollywood production company announces plans to adapt best-selling novel into major motion picture.",
+                "span": "production company",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local public library introduces virtual book club to engage with community during pandemic.",
+                "span": "public library",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local library hosting a poetry reading event with Pulitzer Prize-winning poet Tracy K. Smith.",
+                "span": "Pulitzer Prize",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Religious leaders call for peace amidst escalating tensions.",
+                "span": "Religious leaders",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local restaurant chain to open five new locations in the metropolitan area.",
+                "span": "restaurant",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New local restaurant sets grand opening date.",
+                "span": "restaurant",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local restaurant chain accused of mislabeling organic ingredients in their menu items.",
+                "span": "restaurant chain",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Archaeologists uncover ancient Roman ruins in southern France.",
+                "span": "Roman",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "European Union imposes sanctions on Russian officials",
+                "span": "Russian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Former teacher starts scholarship fund to help underprivileged students pursue higher education.",
+                "span": "scholarship fund",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Local community raises over $10,000 for school renovations.",
+                "span": "school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Non-profit organization partners with school district to provide free tutoring services for low-income students.",
+                "span": "school district",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists warn of irreversible damage to the Great Barrier Reef.",
+                "span": "Scientists",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese e-commerce giant Alibaba reports record-breaking sales on Singles' Day.",
+                "span": "Singles' Day",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Rising Healthcare Costs: The Impact on Small Businesses and Employees.",
+                "span": "Small Businesses",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Elon Musk's SpaceX successfully launches another batch of Starlink satellites into orbit.",
+                "span": "SpaceX",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Stanford University leads the way in AI research breakthrough.",
+                "span": "Stanford University",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Start-up company creates groundbreaking app to revolutionize the way people track their fitness goals.",
+                "span": "Start-up company",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New report shows increased enrollment in STEM programs at community colleges across the country.",
+                "span": "STEM programs",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Stock market sees sharp decline after trade tensions escalate between United States and China.",
+                "span": "Stock market",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New Study Finds Meditation Can Reduce Stress and Improve Mental Health",
+                "span": "Study",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "Study finds link between early childhood education and long-term success.",
+                "span": "Study",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "NEW YORK FASHION INSTITUTE RECEIVES GRANT FOR SUSTAINABILITY RESEARCH.",
+                "span": "SUSTAINABILITY",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": "organization",
+                "span_index": null
+            },
+            {
+                "sentence": "CEO of tech startup praises employees for successful product launch.",
+                "span": "tech startup",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "General Motors announces partnership with Tesla for development of electric vehicles.",
+                "span": "Tesla",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Coca-Cola Company announces new partnership with local farmers to source organic ingredients.",
+                "span": "The Coca-Cola Company",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Metropolitan Museum of Art in New York City announces a special exhibition featuring works by Vincent van Gogh.",
+                "span": "The Metropolitan Museum of Art",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Metropolitan Museum of Art in New York City announces new exhibit featuring works by African American artists.",
+                "span": "The Metropolitan Museum of Art",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The Royal Shakespeare Company will be performing a classic play at the historic Globe Theatre in London this summer.",
+                "span": "The Royal Shakespeare Company",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tokyo Olympics to allow limited number of spectators due to COVID-19 restrictions.",
+                "span": "Tokyo Olympics",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Transgender rights activists petition for equal access to healthcare and discrimination protection.",
+                "span": "Transgender rights activists",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Tropical Storm Barbara expected to bring heavy rain to Mexico's Pacific coast.",
+                "span": "Tropical Storm Barbara",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UN Climate Change Conference to be Held in Glasgow in November.",
+                "span": "UN",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "UN Secretary-General meets with European leaders to discuss climate change goals.",
+                "span": "UN",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Foreign Minister Johnson meets with UN Secretary-General to discuss global security issues.",
+                "span": "UN Secretary-General",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Climate change activists protest in front of the United Nations headquarters in New York City.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Greta Thunberg, a prominent Swedish environmental activist, addresses the United Nations on climate change.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations reports a significant increase in child labor in developing countries.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United Nations Security Council imposes sanctions on North Korea following their recent missile tests.",
+                "span": "United Nations",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The United States Supreme Court rules to uphold a controversial immigration policy.",
+                "span": "United States Supreme Court",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Serena Williams advances to the final of the US Open.",
+                "span": "US Open",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local volunteer organization helps build homes for families in need.",
+                "span": "volunteer organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Volunteers from across the country come together to rebuild after natural disaster strikes small town.",
+                "span": "Volunteers",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Movie director Steven Spielberg discusses his upcoming film 'West Side Story' in an exclusive interview with Entertainment Weekly.",
+                "span": "West Side Story",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "World Health Organization declares new COVID-19 variant as 'variant of concern'.",
+                "span": "World Health Organization",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local Yoga Studio Offers Free Classes to Promote Well-being in the Community.",
+                "span": "Yoga Studio",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__correct__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Aboriginal artist wins prestigious international art award for her breathtaking landscape paintings.",
+                "span": "Australian Aboriginal",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Authorities arrest three suspects in connection with bank robbery.",
+                "span": "authorities",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Box office revenue reaches new high as summer blockbuster movies draw in record crowds.",
+                "span": "box office",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local business owners express concerns over new zoning regulations.",
+                "span": "business owners",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The Battle Against Childhood Obesity: Strategies for a Healthier Future.",
+                "span": "Childhood Obesity",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to support family whose home was destroyed in fire.",
+                "span": "community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to support homeless shelter volunteer.",
+                "span": "Community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Community rallies around family after devastating house fire.",
+                "span": "community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Electric car sales surge as consumers seek environmentally-friendly options.",
+                "span": "Electric car",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "The new environmental policy aims to reduce carbon emissions by 20% in the next five years.",
+                "span": "environmental policy",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "President Biden to meet with European leaders to discuss climate change and economic cooperation.",
+                "span": "European",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Community comes together to support family whose home was destroyed in fire.",
+                "span": "family",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local community comes together to support family after tragic house fire.",
+                "span": "family",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "In the wake of the recent protests, the government official announces plans to address police brutality and racial inequality.",
+                "span": "government official",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Hindu community celebrates Diwali with colorful festivities and prayers.",
+                "span": "Hindu community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant family reunited after years of separation.",
+                "span": "Immigrant family",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigrant family reunites after years of separation due to immigration policies.",
+                "span": "immigrant family",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Immigration study shows impact on local economy.",
+                "span": "Immigration",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Australian Prime Minister meets with Japanese officials to discuss trade.",
+                "span": "Japanese",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Traditional Japanese tea ceremony to be showcased at annual cultural fair in San Francisco.",
+                "span": "Japanese",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "After years of lobbying, the local community finally secures funding to renovate the run-down public housing project.",
+                "span": "local community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local community comes together to raise funds for family of 6-year-old battling cancer.",
+                "span": "local community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Local community comes together to raise funds for family who lost everything in house fire.",
+                "span": "local community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Research reveals alarming levels of plastic pollution in the world's oceans, threatening marine life and ecosystems.",
+                "span": "marine life",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Archaeologists uncover ancient Mayan ruins in Guatemala.",
+                "span": "Mayan",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "location",
+                "span_index": null
+            },
+            {
+                "sentence": "Wildlife conservation organization receives $1 million donation to protect endangered rhinos.",
+                "span": "rhinos",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "New study finds that meditation can reduce stress and anxiety.",
+                "span": "study",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__wrong_type__"
+                },
+                "correction": "other",
+                "span_index": null
+            },
+            {
+                "sentence": "Canadian government announces new immigration policies to attract more international students.",
+                "span": "Canadian",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Chinese President Xi Jinping meets with Indian Prime Minister Narendra Modi to discuss trade relations.",
+                "span": "Chinese",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "The European Union imposes tariffs on Chinese steel imports.",
+                "span": "Chinese",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school football team wins state championship for the third consecutive year.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school students donate books to underprivileged children.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school students organize a book drive to collect literary works for underprivileged communities in the area.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local high school students organize fundraiser for new community center.",
+                "span": "high school",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "High school students volunteer at homeless shelter during winter break.",
+                "span": "high school students",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local rabbi organizes interfaith prayer service for peace.",
+                "span": "interfaith",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Local community comes together to support family who lost their home in a fire.",
+                "span": "Local community",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Famous wildlife photographer captures stunning images of polar bears in the Arctic.",
+                "span": "polar bears",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover new exoplanet in habitable zone.",
+                "span": "Researchers",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Researchers discover new species of deep-sea fish off the coast of Brazil.",
+                "span": "Researchers",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Scientists predict major breakthrough in renewable energy technology.",
+                "span": "Scientists",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "World Wildlife Fund launches campaign to protect endangered sea turtles.",
+                "span": "sea turtles",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Filming of highly anticipated sequel to blockbuster action movie to begin next month.",
+                "span": "sequel",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Students organize campaign to provide school supplies for underprivileged children.",
+                "span": "Students",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New Study Finds Meditation Can Reduce Stress and Improve Mental Health.",
+                "span": "Study",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "New study shows correlation between parental involvement and student academic achievement.",
+                "span": "study",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Opinion: The role of technology in shaping the future of education.",
+                "span": "technology",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Thousands protest against immigration policies in major cities.",
+                "span": "Thousands",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            },
+            {
+                "sentence": "Community volunteers organize food drive to help struggling families during the holiday season.",
+                "span": "volunteers",
+                "entity_type": "organization",
+                "correction_label": {
+                    "label": "__not_named_entity__"
+                },
+                "correction": null,
+                "span_index": null
+            }
+        ]
+    }
+}

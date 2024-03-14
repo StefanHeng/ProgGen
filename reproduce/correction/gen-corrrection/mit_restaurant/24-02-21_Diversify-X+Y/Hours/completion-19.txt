@@ -1,0 +1,8 @@
+1. Text Span: "until 10 p.m."
+   Label: (A). The span is a named entity of type Hours
+
+2. Text Span: "late-night"
+   Label: (A). The span is a named entity of type Hours
+
+3. Text Span: "late-night dining"
+   Label: (C). The span is a named entity but the category is not hours. The correct entity type is Cuisine.

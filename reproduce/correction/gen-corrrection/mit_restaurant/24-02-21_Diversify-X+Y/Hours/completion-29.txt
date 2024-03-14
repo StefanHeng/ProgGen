@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a café with vegan options for {{lunch}}"
+Text Span: "lunch"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Where can I find a high-end {{late-night}} dining spot like The Nightcap Eatery?"
+Text Span: "late-night"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Where can I find a café with special discounts and {{Weekend hours}} nearby"
+Text Span: "Weekend hours"
+Label: (A). Correct Entity Annotation.

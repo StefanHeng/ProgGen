@@ -1,0 +1,8 @@
+Synthetic Query 1: "Can you recommend a nearby sushi restaurant with outdoor seating and a high rating?"
+Named Entities: [sushi (Cuisine), nearby (Location), outdoor seating (Amenity), high rating (Rating)]
+
+Synthetic Query 2: "I'm craving some authentic Italian pizza, is there a place with late-night hours near me?"
+Named Entities: [Italian (Cuisine), pizza (Dish), late-night hours (Hours), near me (Location)]
+
+Synthetic Query 3: "Find me a budget-friendly Mexican restaurant with a good happy hour special"
+Named Entities: [budget-friendly (Price), Mexican (Cuisine), happy hour special (Amenity)]

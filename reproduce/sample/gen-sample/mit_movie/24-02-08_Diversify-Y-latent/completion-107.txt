@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a spy movie with a secret mission in it?"
+Named Entities: [spy movie (Genre), secret mission (Plot)]
+
+2. Query: "I'm looking for a family movie with a family secret as the main plot"
+Named Entities: [family movie (Genre), family secret (Plot)]
+
+3. Query: "Show me a heist movie with a complex robbery scheme"
+Named Entities: [heist movie (Genre), robbery scheme (Plot)]

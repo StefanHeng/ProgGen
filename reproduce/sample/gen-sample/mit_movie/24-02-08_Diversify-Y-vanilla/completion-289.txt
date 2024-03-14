@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a medical movie featuring Zach Galifianakis?"
+   Named Entities: [medical (Genre), Zach Galifianakis (Actor)]
+
+2. Query: "Show me a clip showcase of entertaining movies from the 2010s."
+   Named Entities: [clip showcase (Trailer), entertaining (Viewers' Rating), 2010s (Year)]
+
+3. Query: "What is the best movie directed by Zach Galifianakis?"
+   Named Entities: [Zach Galifianakis (Director)]

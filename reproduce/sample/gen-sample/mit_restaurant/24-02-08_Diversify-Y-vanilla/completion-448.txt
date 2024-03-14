@@ -1,0 +1,8 @@
+1. "I'm craving some macarons, can you recommend a place with a good selection?"
+   Named Entities: [macarons (Dish), good selection (Amenity)]
+
+2. "What are the hours for The Greek Island Taverna?"
+   Named Entities: [The Greek Island Taverna (Restaurant Name), Hours]
+
+3. "Where can I find a reasonably priced Italian restaurant with a good rating?"
+   Named Entities: [Italian (Cuisine), reasonably priced (Price), good rating (Rating)]

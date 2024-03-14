@@ -1,0 +1,8 @@
+Sentence: "The company was founded in 2008 and is headquartered in San Francisco."
+Named Entities: [San Francisco (location)]
+
+Sentence: "She became the first woman to win the Nobel Prize in Physics in 1903."
+Named Entities: []
+
+Sentence: "The band's lead singer, Chris Martin, is known for his philanthropic work with various charitable organizations."
+Named Entities: [Chris Martin (person)]

@@ -1,0 +1,8 @@
+1. "Where can I find Belgian waffles for breakfast?"
+   Named Entities: [Belgian waffles (Dish), breakfast (Amenity)]
+
+2. "I'm looking for a place to have an expensive dinner tonight."
+   Named Entities: [Expensive (Price), dinner (Amenity)]
+
+3. "Can you recommend a restaurant with a good rating and affordable prices?"
+   Named Entities: [good rating (Rating), affordable prices (Price)]

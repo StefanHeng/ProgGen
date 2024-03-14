@@ -1,0 +1,8 @@
+Query: "I'm craving some buffet, where can I find a restaurant like Golden Corral?"
+Named Entities: [buffet (Amenity), Golden Corral (Restaurant Name)]
+
+Query: "I want to try some new dishes, can you recommend a restaurant similar to Golden Corral?"
+Named Entities: [new dishes (Dish), Golden Corral (Restaurant Name)]
+
+Query: "Do you know any restaurants in the area with a good rating that offer a similar experience to Golden Corral?"
+Named Entities: [good rating (Rating), Golden Corral (Restaurant Name)]

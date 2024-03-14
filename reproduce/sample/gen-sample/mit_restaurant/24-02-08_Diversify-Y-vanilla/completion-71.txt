@@ -1,0 +1,8 @@
+Query: "Can you recommend a [Much-loved] Italian restaurant in the downtown area?"
+Named Entities: [Italian (Cuisine), downtown area (Location), [Much-loved] (Rating)]
+
+Query: "I'm craving some sushi, where can I find a [Much-loved] sushi spot with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), [Much-loved] (Rating)]
+
+Query: "Is there a [Much-loved] BBQ joint nearby that's open late?"
+Named Entities: [BBQ (Cuisine), nearby (Location), open late (Hours), [Much-loved] (Rating)]

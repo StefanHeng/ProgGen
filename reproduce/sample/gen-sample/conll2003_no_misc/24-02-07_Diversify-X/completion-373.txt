@@ -1,0 +1,8 @@
+Sentence: "Local restaurant owner wins award for best seafood in town."
+Named Entities: [restaurant owner (person)]
+
+Sentence: "City council approves budget for new public park downtown."
+Named Entities: [City council (organization), downtown (location)]
+
+Sentence: "Local high school football team advances to state championship game."
+Named Entities: [high school football team (organization)]

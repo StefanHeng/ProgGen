@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with Wi-Fi and a formal ambience?"
+Named Entities: [fine dining (Price), Wi-Fi (Amenity), formal (Amenity)]
+
+2. "I'm looking for a formal restaurant that serves escargot."
+Named Entities: [formal (Amenity), escargot (Dish)]
+
+3. "Where can I find a fine dining restaurant with Wi-Fi access and a good selection of escargot?"
+Named Entities: [fine dining (Price), Wi-Fi (Amenity), escargot (Dish)]

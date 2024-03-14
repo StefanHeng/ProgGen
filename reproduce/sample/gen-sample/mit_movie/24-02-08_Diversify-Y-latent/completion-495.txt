@@ -1,0 +1,8 @@
+1. Query: "What action-packed movie came out in 2020 with a soundtrack featuring The Sound of Silence"
+Named Entities: [action-packed (Genre), 2020 (Year), The Sound of Silence (Song)]
+
+2. Query: "Can you recommend a comedic film from the 1990s with a viewers' rating of at least 4 stars"
+Named Entities: [comedic (Genre), 1990s (Year), viewers' rating (Viewers' Rating)]
+
+3. Query: "Is there a creepy thriller directed by David Fincher that is rated GP"
+Named Entities: [creepy (Genre), David Fincher (Director), GP (MPAA Rating)]

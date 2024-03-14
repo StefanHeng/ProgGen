@@ -1,0 +1,11 @@
+1. Sentence: "Local {{high school}} students organize fundraiser for new community center."
+Text Span: "high school"
+Label: (D)
+
+2. Sentence: "{{City Council}} Approves New Affordable Housing Project."
+Text Span: "City Council"
+Label: (A)
+
+3. Sentence: "{{Education department}} allocates $10 million for STEM education in rural schools."
+Text Span: "Education department"
+Label: (A)

@@ -1,0 +1,8 @@
+Query: "I'm looking for a fine dining restaurant with a rustic and charming ambience, perhaps something from the Eater 38 selection?"
+Named Entities: [fine dining (Amenity), rustic and charming (Amenity), Eater 38 selection (Amenity)]
+
+Query: "Where can I find a rustic and charming fine dining restaurant like Jean-Georges?"
+Named Entities: [rustic and charming (Amenity), Jean-Georges (Restaurant Name)]
+
+Query: "I'm in the mood for a fine dining experience in a suburban setting, any recommendations?"
+Named Entities: [fine dining (Amenity), suburban (Location)]

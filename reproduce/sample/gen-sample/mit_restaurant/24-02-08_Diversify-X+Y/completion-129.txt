@@ -1,0 +1,8 @@
+1. "Where can I find awful fast food around here that offers chef's specials?"
+Named Entities: [awful (Rating), fast food (Cuisine), chef's specials (Amenity)]
+
+2. "I'm craving Papa John's, is there one nearby that offers fast food chef's specials?"
+Named Entities: [Papa John's (Restaurant Name), fast food (Cuisine), chef's specials (Amenity)]
+
+3. "Recommend a Korean fast food restaurant with chef's specials and a good rating."
+Named Entities: [Korean (Cuisine), fast food (Cuisine), chef's specials (Amenity), good (Rating)]

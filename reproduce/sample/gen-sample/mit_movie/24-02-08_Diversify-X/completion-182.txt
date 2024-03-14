@@ -1,0 +1,8 @@
+Query: "What movie directed by Brad Bird has won the most awards?"
+Named Entities: [Brad Bird (Director), Awards]
+
+Query: "Can you suggest a family-friendly film with a lot of nominations for major awards?"
+Named Entities: [family-friendly (Viewers' Rating), nominations for major awards (Review)]
+
+Query: "Show me a children's movie with a high viewers' rating and multiple nominations for best animated feature"
+Named Entities: [children's movie (Genre), high viewers' rating (Viewers' Rating), nominations for best animated feature (Awards)]

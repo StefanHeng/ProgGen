@@ -1,0 +1,8 @@
+1. "Can you recommend a place for late-night dining with a good steak menu"
+Named Entities: [late-night dining (Amenity), good (Rating), Steak (Cuisine)]
+
+2. "Where can I find a restaurant with a variety of steak options that's open after midnight"
+Named Entities: [variety of steak options (Dish), open after midnight (Hours)]
+
+3. "I'm craving a delicious steak for a late-night dinner, can you suggest a nearby restaurant"
+Named Entities: [delicious (Rating), Steak (Cuisine), nearby (Location)]

@@ -1,0 +1,11 @@
+1. Sentence: "Famous {{chef}} opens new restaurant in Melbourne."
+Text Span: "chef"
+Label: (D). Not a Named Entity
+
+2. Sentence: "{{Lupita Nyong'o}} to star in new film set in Dubai."
+Text Span: "Lupita Nyong'o"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "Celebrity chef {{Rachael Ray}} to open new restaurant in New York City."
+Text Span: "Rachael Ray"
+Label: (A). The span is a named entity of type person

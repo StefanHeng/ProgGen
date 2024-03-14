@@ -1,0 +1,8 @@
+Query: "I need a movie that has a thrilling plot with a unique and unexpected twist, something in the suspense or psychological thriller genre."
+Named Entities: [thrilling plot (Plot), suspense or psychological thriller (Genre)]
+
+Query: "I'm feeling really tense right now and need to watch a light-hearted comedy from the 1980s with a feel-good love story."
+Named Entities: [light-hearted comedy (Genre), 1980s (Year), feel-good love story (Plot)]
+
+Query: "I'm in the mood for an action movie with intense fight scenes, preferably something with martial arts or superhero elements."
+Named Entities: [action movie (Genre), intense fight scenes (Plot), martial arts or superhero (Subgenre)]

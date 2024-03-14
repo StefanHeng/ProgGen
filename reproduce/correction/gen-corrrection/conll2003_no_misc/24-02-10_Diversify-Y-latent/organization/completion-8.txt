@@ -1,0 +1,8 @@
+1. Text Span: "Microsoft"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Windows"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. Correct span boundary: "Windows at Microsoft"
+
+3. Text Span: "The Nobel Foundation"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,11 @@
+1. Query: "When was {{Quentin Tarantino}} born?"
+Text Span: "Quentin Tarantino"
+Label: (A). Named entity of type director
+
+2. Query: "What are the movie adaptations of {{Stephen King}}'s novels?"
+Text Span: "Stephen King"
+Label: (C). The span is a named entity but the category is not director. Entity type: Author
+
+3. Query: "What is the highest grossing film directed by {{Christopher Nolan}}"
+Text Span: "Christopher Nolan"
+Label: (A). Named entity of type director

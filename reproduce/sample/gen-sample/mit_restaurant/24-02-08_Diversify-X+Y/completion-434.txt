@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly restaurant with a buffet for a 35-year-old male construction worker?"
+Named Entities: [buffet (Amenity), budget-friendly (Price), 35-year-old (Demographic)]
+
+2. "I'm looking for a place with a buffet that's good for a 35-year-old construction worker and won't break the bank."
+Named Entities: [buffet (Amenity), 35-year-old (Demographic), budget-friendly (Price)]
+
+3. "Where can I find a buffet that's suitable for a 35-year-old construction worker without spending too much?"
+Named Entities: [buffet (Amenity), 35-year-old (Demographic), suitable (Rating), budget-friendly (Price)]

@@ -1,0 +1,8 @@
+1. "What movie features the song Happy Birthday and has Greta Gerwig as the director?"
+Named Entities: [Happy Birthday (Song), Greta Gerwig (Director)]
+
+2. "Show me a movie with Heartwarming moments starring Finn and a Viewers' Rating of 90% or higher"
+Named Entities: [Heartwarming moments (Review), Finn (Actor), 90% (Viewers' Rating)]
+
+3. "Is Gollum a character in the movie Beast or any related films?"
+Named Entities: [Gollum (Character), Beast (Title)]

@@ -1,0 +1,8 @@
+1. "What are the operating hours for Mastro's Steakhouse?"
+   Named Entities: [Mastro's (Restaurant Name), operating hours (Hours)]
+
+2. "I'm craving Lebanese food, can you recommend a highly-rated restaurant in the area?"
+   Named Entities: [Lebanese (Cuisine), highly-rated (Rating)]
+
+3. "Find me a restaurant with a nice outdoor patio and a moderate price range."
+   Named Entities: [outdoor patio (Amenity), moderate price range (Price)]

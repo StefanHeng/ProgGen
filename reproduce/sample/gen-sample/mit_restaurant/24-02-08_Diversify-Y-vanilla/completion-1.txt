@@ -1,0 +1,8 @@
+Query: "Can you recommend a good sushi restaurant in the downtown area?"
+Named Entities: [sushi (Cuisine), downtown area (Location), good (Rating)]
+
+Query: "What time does the Italian restaurant on Main Street close tonight?"
+Named Entities: [Italian restaurant (Restaurant Name), Main Street (Location), close tonight (Hours)]
+
+Query: "I'm in the mood for some Indian food, is there a budget-friendly option nearby?"
+Named Entities: [Indian food (Cuisine), budget-friendly (Price), nearby (Location)]

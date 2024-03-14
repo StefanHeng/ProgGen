@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Lebanese restaurant with an urban/chic ambience for a doctor in his 30s for lunch?"
+   Named Entities: [Lebanese (Cuisine), urban/chic (Amenity), doctor in his 30s (demographic), lunch (Hours)]
+
+2. Query: "I'm looking for a quality-approved Italian restaurant with a chic atmosphere for a 30-something male doctor. Any suggestions for lunch?"
+   Named Entities: [Quality-approved (Rating), Italian (Cuisine), chic (Amenity), 30-something male doctor (demographic), lunch (Hours)]
+
+3. Query: "Where can I find an Italian restaurant that is popular among professionals in their 30s and has a chic urban ambience for lunch?"
+   Named Entities: [Italian (Cuisine), professionals in their 30s (demographic), chic urban (Amenity), lunch (Hours)]

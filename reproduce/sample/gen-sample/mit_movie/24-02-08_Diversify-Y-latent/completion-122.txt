@@ -1,0 +1,8 @@
+1. "What is the average score of the movie directed by Kenneth Branagh?"
+Named Entities: [Kenneth Branagh (Director), Average score]
+
+2. "Show me a trailer of the movie where Rust Cohle plays a lead role"
+Named Entities: [Rust Cohle (Character), trailer]
+
+3. "Is Morgan Freeman in the film Coco?"
+Named Entities: [Morgan Freeman (Actor), Coco (Title)]

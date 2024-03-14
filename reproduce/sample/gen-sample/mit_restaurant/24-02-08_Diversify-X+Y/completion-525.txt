@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a breakfast spot that uses locally sourced ingredients?"
+Named Entities: [breakfast (Amenity), locally sourced ingredients (Amenity)]
+
+2. Query: "I'm looking for a breakfast place with organic menu options. Any suggestions?"
+Named Entities: [breakfast (Amenity), organic (Amenity)]
+
+3. Query: "Where can I find a breakfast restaurant with a farm-to-table concept?"
+Named Entities: [breakfast (Amenity), farm-to-table (Amenity)]

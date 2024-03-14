@@ -1,0 +1,8 @@
+1. "What restaurants around here serve breakfast before 10 AM?"
+   Named Entities: [breakfast (Cuisine), before 10 AM (Hours), around here (Location), [Morning]
+
+2. "Can you recommend a lunch spot with outdoor seating?"
+   Named Entities: [lunch (Cuisine), outdoor seating (Amenity), [Morning]
+
+3. "Where can I find a place for brunch with bottomless mimosas?"
+   Named Entities: [brunch (Cuisine), bottomless mimosas (Amenity), [Morning]

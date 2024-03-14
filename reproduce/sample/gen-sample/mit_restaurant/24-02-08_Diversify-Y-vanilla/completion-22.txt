@@ -1,0 +1,8 @@
+Query: "What is the best Italian restaurant in the area?"
+Named Entities: [Italian (Cuisine), restaurant (Amenity)]
+
+Query: "I need a table for 4 at a fine dining establishment for tonight"
+Named Entities: [table for 4 (Amenity), fine dining (Amenity), tonight (Hours)]
+
+Query: "Where can I find some cheap sushi nearby?"
+Named Entities: [cheap (Price), sushi (Cuisine), nearby (Location)]

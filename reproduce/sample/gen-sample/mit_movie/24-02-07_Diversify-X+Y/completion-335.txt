@@ -1,0 +1,8 @@
+1. "I'm looking for a movie with an enchanting music soundtrack, do you have any recommendations?"
+Named Entities: [Enchanting music (Song)]
+
+2. "I want to watch a movie that has a pleasant surprise in its theme song, any suggestions?"
+Named Entities: [Pleasant surprise (Song), Theme song (Song)]
+
+3. "Can you recommend a movie with a captivating theme song that will leave a lasting impression?"
+Named Entities: [Theme song (Song)]

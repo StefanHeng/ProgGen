@@ -1,0 +1,8 @@
+1. Query: "I want to watch a movie that features the song Suspicious Minds"
+Named Entities: [Suspicious Minds (Song)]
+
+2. Query: "Can you provide a one-minute trailer for the new Batman movie?"
+Named Entities: [one-minute trailer (Trailer), Batman (Title)]
+
+3. Query: "When did Flawless, directed by Joel Schumacher, come out and what is Kay Adams' view rating of the film?"
+Named Entities: [Flawless (Title), Joel Schumacher (Director), Kay Adams (Viewer's Rating)]

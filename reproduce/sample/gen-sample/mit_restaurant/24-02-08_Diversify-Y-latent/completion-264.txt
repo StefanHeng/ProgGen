@@ -1,0 +1,8 @@
+1. "What are the hours of operation for Pizzeria Uno?"
+Named Entities: [Pizzeria Uno (Restaurant Name)]
+
+2. "I'm craving some sushi, can you recommend a good sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), good (Rating), outdoor seating (Amenity)]
+
+3. "Where can I find a vegetarian-friendly restaurant with a prix fixe menu?"
+Named Entities: [vegetarian-friendly (Amenity), prix fixe menu (Price)]

@@ -1,0 +1,42 @@
+// dict(sentence='The author of the article, Dr. John Smith, is a leading expert in the field of neuroscience.', entity_span='John Smith', label=CORRECT),
+// dict(sentence='The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City.', entity_span='Pope', label=NA),
+// dict(sentence='She served as Secretary of State under President George W. Bush.', entity_span='President George W. Bush', label=WRONG_SPAN, correct_span='George W. Bush'),
+// dict(sentence='The Louvre Museum in Paris is home to the famous painting, the Mona Lisa.', entity_span='Mona Lisa', label=CORRECT),
+// dict(sentence='The Queen of England, Elizabeth II, celebrated her diamond jubilee in 2012.', entity_span='Queen of England', label=NA)
+{"sentence": "The author of the article, Dr. John Smith, is a leading expert in the field of neuroscience.", "entity_span": "John Smith", "label": "CORRECT"}
+{"sentence": "The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City.", "entity_span": "Pope", "label": "NA"}
+{"sentence": "She served as Secretary of State under President George W. Bush.", "entity_span": "President George W. Bush", "label": "WRONG_SPAN", "correct_span": "George W. Bush"}
+{"sentence": "The Louvre Museum in Paris is home to the famous painting, the Mona Lisa.", "entity_span": "Mona Lisa", "label": "CORRECT"}
+{"sentence": "The Queen of England, Elizabeth II, celebrated her diamond jubilee in 2012.", "entity_span": "Queen of England", "label": "NA"}
+// dict(sentence='The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.', entity_span='Harper Lee', label=CORRECT),
+// dict(sentence='Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.', entity_span='Dr. James E. Webb', label=WRONG_SPAN, correct_span='James E. Webb'),
+// dict(sentence='The ancient Greek myth of Orpheus and Eurydice has been retold in countless plays, operas, and films.', entity_span='Eurydice', label=WRONG_TYPE, correct_type='other'),
+{"sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.", "entity_span": "Harper Lee", "label": "CORRECT"}
+{"sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.", "entity_span": "Dr. James E. Webb", "label": "WRONG_SPAN", "correct_span": "James E. Webb"}
+{"sentence": "The ancient Greek myth of Orpheus and Eurydice has been retold in countless plays, operas, and films.", "entity_span": "Eurydice", "label": "WRONG_TYPE", "correct_type": "other"}
+// dict(sentence='The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.', entity_span='Harper Lee', label=CORRECT),
+// dict(sentence='Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.', entity_span='Dr. James E. Webb', label=WRONG_SPAN, correct_span='James E. Webb'),
+// dict(sentence='The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by Leonardo da Vinci.', entity_span='Mona Lisa', label=WRONG_TYPE, correct_type='other'),
+// dict(sentence='She is a well-known environmental activist and has spoken at numerous international conferences on climate change.', entity_span='environmental activist', label=NA),
+{"sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.", "entity_span": "Harper Lee", "label": "CORRECT"}
+{"sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.", "entity_span": "Dr. James E. Webb", "label": "WRONG_SPAN", "correct_span": "James E. Webb"}
+{"sentence": "The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by Leonardo da Vinci.", "entity_span": "Mona Lisa", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "She is a well-known environmental activist and has spoken at numerous international conferences on climate change.", "entity_span": "environmental activist", "label": "NA"}
+// dict(sentence='The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.', entity_span='Harper Lee', label=CORRECT),
+// dict(sentence='Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.', entity_span='Dr. James E. Webb', label=WRONG_SPAN, correct_span='James E. Webb'),
+// dict(sentence='The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by Leonardo da Vinci.', entity_span='Mona Lisa', label=WRONG_TYPE, correct_type='other'),
+// dict(sentence='She is a well-known environmental activist and has spoken at numerous international conferences on climate change.', entity_span='environmental activist', label=NA),
+// dict(sentence='She is the CEO of Apple Inc., a multinational technology company based in Cupertino, California.', entity_span='CEO', label=NA),
+{"sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.", "entity_span": "Harper Lee", "label": "CORRECT"}
+{"sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.", "entity_span": "Dr. James E. Webb", "label": "WRONG_SPAN", "correct_span": "James E. Webb"}
+{"sentence": "The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by Leonardo da Vinci.", "entity_span": "Mona Lisa", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "She is a well-known environmental activist and has spoken at numerous international conferences on climate change.", "entity_span": "environmental activist", "label": "NA"}
+{"sentence": "She is the CEO of Apple Inc., a multinational technology company based in Cupertino, California.", "entity_span": "CEO", "label": "NA"}
+// dict(sentence='The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.', entity_span='Harper Lee', label=CORRECT),
+// dict(sentence='Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.', entity_span='Dr. James E. Webb', label=WRONG_SPAN, correct_span='James E. Webb'),
+// dict(sentence='Hera is often depicted as the queen of the gods in Greek mythology, and is the wife and sister of Zeus.', entity_span='Zeus', label=WRONG_TYPE, correct_type='other'),
+// dict(sentence='She is a well-known environmental activist and has spoken at numerous international conferences on climate change.', entity_span='environmental activist', label=NA),
+{"sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.", "entity_span": "Harper Lee", "label": "CORRECT"}
+{"sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.", "entity_span": "Dr. James E. Webb", "label": "WRONG_SPAN", "correct_span": "James E. Webb"}
+{"sentence": "Hera is often depicted as the queen of the gods in Greek mythology, and is the wife and sister of Zeus.", "entity_span": "Zeus", "label": "WRONG_TYPE", "correct_type": "other"}
+{"sentence": "She is a well-known environmental activist and has spoken at numerous international conferences on climate change.", "entity_span": "environmental activist", "label": "NA"}

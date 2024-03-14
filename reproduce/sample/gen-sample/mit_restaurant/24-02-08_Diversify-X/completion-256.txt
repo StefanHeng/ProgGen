@@ -1,0 +1,8 @@
+1. "What fast food restaurants offer special discounts for lunchtime?"
+Named Entities: [fast food (Cuisine), special discounts (Amenity), lunchtime (Hours)]
+
+2. "Where can I find a fast food place with low prices for dinner?"
+Named Entities: [fast food (Cuisine), low prices (Price), dinner (Hours)]
+
+3. "Which fast food joints have good ratings and happy hour deals?"
+Named Entities: [fast food (Cuisine), good ratings (Rating), happy hour deals (Amenity)]

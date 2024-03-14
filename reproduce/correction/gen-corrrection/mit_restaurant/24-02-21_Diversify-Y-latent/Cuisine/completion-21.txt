@@ -1,0 +1,8 @@
+1. Text Span: "spicy Thai food"
+Label: (B). Wrong Boundary. The correct span boundary is "spicy Thai".
+
+2. Text Span: "Vietnamese"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Italian"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for some French cuisine, where can I find a good French restaurant in the area?"
+Named Entities: [French (Cuisine), French restaurant (Restaurant Name), area (Location)]
+
+2. Query: "Do you know of any Mediterranean restaurants with outdoor seating and a high rating?"
+Named Entities: [Mediterranean (Cuisine), Mediterranean restaurants (Restaurant Name), outdoor seating (Amenity), high rating (Rating)]
+
+3. Query: "Can you recommend a restaurant with affordable prices that serves authentic Mediterranean dishes?"
+Named Entities: [Mediterranean (Cuisine), restaurant (Restaurant Name), affordable prices (Price), authentic Mediterranean dishes (Dish)]

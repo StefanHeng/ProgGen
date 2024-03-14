@@ -1,0 +1,8 @@
+1. Query: "Can you give me a detailed summary of the plot for the movie Inception?"
+Named Entities: [Inception (Title), detailed summary (Plot)]
+
+2. Query: "I'm looking for a movie with a mind-bending plot twist. What would you recommend?"
+Named Entities: [mind-bending plot twist (Plot)]
+
+3. Query: "I want to watch a movie with an intense and gripping storyline. Any suggestions?"
+Named Entities: [intense and gripping storyline (Plot)]

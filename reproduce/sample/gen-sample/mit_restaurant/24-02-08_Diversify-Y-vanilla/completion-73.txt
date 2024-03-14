@@ -1,0 +1,8 @@
+Query: "Can you make a reservation at Seasons 52 for tonight?"
+Named Entities: [Seasons 52 (Restaurant Name), tonight (Hours)]
+
+Query: "I'm craving some seafood, any good seafood restaurants nearby?"
+Named Entities: [seafood (Cuisine), nearby (Location)]
+
+Query: "What are the prices like at Seasons 52 for a dinner for two?"
+Named Entities: [Seasons 52 (Restaurant Name), dinner for two (Price)]

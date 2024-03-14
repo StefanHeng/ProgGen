@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby restaurant that serves Israeli cuisine?"
+Named Entities: [Israeli (Cuisine)]
+
+2. "What are the operating hours for Cracker Barrel?"
+Named Entities: [Cracker Barrel (Restaurant Name), operating hours (Hours)]
+
+3. "I'm looking for a restaurant with a family-friendly atmosphere and affordable prices, any suggestions?"
+Named Entities: [family-friendly (Amenity), affordable prices (Price)]

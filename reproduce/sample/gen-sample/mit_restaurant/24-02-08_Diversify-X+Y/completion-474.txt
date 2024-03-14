@@ -1,0 +1,8 @@
+Query: "Can you recommend a wallet-friendly buffet with Greek cuisine in downtown?"
+Named Entities: [wallet-friendly (Price), buffet (Amenity), Greek (Cuisine), downtown (Location)]
+
+Query: "I'm looking for a lounge/bar with Greek buffet in the local area, can you help?"
+Named Entities: [lounge/bar (Amenity), Greek (Cuisine), buffet (Amenity), local area (Location)]
+
+Query: "Where can I find a buffet restaurant with Greek cuisine and a lounge/bar atmosphere that won't break the bank?"
+Named Entities: [buffet (Amenity), Greek (Cuisine), lounge/bar (Amenity), wallet-friendly (Price)]

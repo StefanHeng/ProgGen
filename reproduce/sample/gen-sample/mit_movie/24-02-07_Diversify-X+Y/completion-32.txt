@@ -1,0 +1,8 @@
+1. "Is the movie When Harry Met Sally available on any streaming platforms?"
+Named Entities: [When Harry Met Sally (Title), streaming platforms (Genre)]
+
+2. "Can I find a trailer for any romantic movies from the 1980s or 1990s?"
+Named Entities: [romantic movies (Genre), 1980-1990s (Year), trailer (Trailer)]
+
+3. "Are there any mediocre feedback movies on Netflix from the 1990s?"
+Named Entities: [mediocre feedback (Review), Netflix (Title), 1990s (Year)]

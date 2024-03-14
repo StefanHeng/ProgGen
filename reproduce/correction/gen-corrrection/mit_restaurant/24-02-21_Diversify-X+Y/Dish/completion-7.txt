@@ -1,0 +1,8 @@
+1. Text Span: "sushi"
+   Label: (A). The span is a named entity of type dish
+
+2. Text Span: "amazing sushi"
+   Label: (B). The span contains a named dish entity but the span boundary is not precise. The correct span boundary is "sushi".
+
+3. Text Span: "granola"
+   Label: (A). The span is a named entity of type dish

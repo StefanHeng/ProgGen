@@ -1,0 +1,8 @@
+1. "I'm craving some seafood buffet, any recommendations?"
+Named Entities: [seafood (Cuisine), buffet (Amenity)]
+
+2. "What's the highest rated buffet restaurant in the downtown area?"
+Named Entities: [highest rated (Rating), buffet (Amenity), downtown area (Location)]
+
+3. "Do you know any buffet restaurant with a lunch special under 15 dollars?"
+Named Entities: [buffet (Amenity), lunch special (Amenity), under 15 dollars (Price)]

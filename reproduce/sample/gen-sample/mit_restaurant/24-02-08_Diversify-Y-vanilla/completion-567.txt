@@ -1,0 +1,8 @@
+1. "Can you recommend any Mediterranean restaurants on Zomato with a high rating?"
+Named Entities: [Mediterranean (Cuisine), Zomato (Amenity), high rating (Rating)]
+
+2. "I'm looking for a restaurant with outdoor seating and a view of the ocean, preferably in the price range of $30-40 per person."
+Named Entities: [outdoor seating (Amenity), ocean (Location), $30-40 per person (Price)]
+
+3. "What are the operating hours of the Italian restaurant near the hotel?"
+Named Entities: [Italian (Cuisine), hotel (Location), operating hours (Hours)]

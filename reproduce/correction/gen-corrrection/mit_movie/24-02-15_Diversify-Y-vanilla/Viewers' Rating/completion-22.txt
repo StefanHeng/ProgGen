@@ -1,0 +1,8 @@
+1. Text Span: "highly rated"
+   Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "high viewers' rating"
+   Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "worth watching"
+   Label: (B). The span contains a named viewers' rating entity but the span boundary is not precise. The correct span boundary is "worth watching".

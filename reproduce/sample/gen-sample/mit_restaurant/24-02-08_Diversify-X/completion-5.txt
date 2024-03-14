@@ -1,0 +1,8 @@
+1. "Which fast food places deliver around here?"
+Named Entities: [fast food (Cuisine), deliver (Amenity), around here (Location)]
+
+2. "What are the hours for the nearest burger joint that delivers?"
+Named Entities: [hours (Hours), nearest (Location), burger joint (Restaurant Name), delivers (Amenity)]
+
+3. "I'm craving some quick and cheap pizza delivery, where can I find that?"
+Named Entities: [quick and cheap (Price), pizza (Cuisine), delivery (Amenity)]

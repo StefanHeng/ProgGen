@@ -1,0 +1,8 @@
+1. "What are the top-rated seafood restaurants near the beach?"
+   Named Entities: [top-rated (Rating), seafood (Cuisine), near the beach (Location)]
+
+2. "I'm looking for a restaurant with outdoor seating and live music on weekends."
+   Named Entities: [outdoor seating (Amenity), live music on weekends (Amenity)]
+
+3. "Can you recommend a French bistro with entrees priced at 30 dollars or less?"
+   Named Entities: [French (Cuisine), bistro (Restaurant Name), priced at 30 dollars or less (Price)]

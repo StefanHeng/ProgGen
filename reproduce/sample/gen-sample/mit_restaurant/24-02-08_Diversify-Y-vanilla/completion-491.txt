@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good weekend hours and a delicious risotto dish?"
+Named Entities: [good (Rating), weekend hours (Hours), risotto (Dish)]
+
+2. "I'm looking for a place with affordable prices and a great view of the city"
+Named Entities: [affordable prices (Price), great view of the city (Amenity)]
+
+3. "Find me a restaurant in the downtown area with a diverse international cuisine selection"
+Named Entities: [downtown area (Location), diverse international cuisine (Cuisine)]

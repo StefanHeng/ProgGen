@@ -1,0 +1,8 @@
+1. "Can you recommend a high-end Italian place for lunch?"
+Named Entities: [high-end (Price), Italian (Cuisine), lunch (Amenity)]
+
+2. "I'm looking for an upscale seafood restaurant for a lunch meeting."
+Named Entities: [upscale (Price), seafood (Cuisine), lunch (Amenity)]
+
+3. "Where can I find a fancy French bistro for a lunch date?"
+Named Entities: [fancy (Rating), French (Cuisine), lunch (Amenity)]

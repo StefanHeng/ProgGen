@@ -1,0 +1,8 @@
+1. "Can you recommend a cozy and intimate restaurant with a buffet option?"
+Named Entities: [cozy and intimate (Amenity), buffet (Amenity)]
+
+2. "I'm looking for a buffet place with a cozy ambience, do you know any?"
+Named Entities: [buffet (Amenity), cozy (Amenity)]
+
+3. "Where can I find a cozy and intimate restaurant that offers a buffet for dinner?"
+Named Entities: [cozy and intimate (Amenity), buffet (Amenity), dinner (Hours)]

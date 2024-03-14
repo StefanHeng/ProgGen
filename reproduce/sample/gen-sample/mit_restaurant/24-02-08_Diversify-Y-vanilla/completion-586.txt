@@ -1,0 +1,8 @@
+Query: "I'm looking for a sustainable restaurant in the area"
+Named Entities: [sustainable (Amenity)]
+
+Query: "What's the address of Cotton Patch Cafe?"
+Named Entities: [Cotton Patch Cafe (Restaurant Name)]
+
+Query: "Can you recommend a place with sustainable options for dinner tonight?"
+Named Entities: [sustainable (Amenity)]

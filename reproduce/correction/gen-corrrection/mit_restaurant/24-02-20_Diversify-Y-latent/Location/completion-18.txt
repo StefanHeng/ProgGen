@@ -1,0 +1,11 @@
+1. Query: "What are the operating Hours for the Famous Italian restaurant {{downtown}}?"
+Text Span: "downtown"
+Label: (A). The span is a named entity of type location
+
+2. Query: "i'm craving Italian food, is there a good Italian restaurant {{close to Viale dei Romani}}"
+Text Span: "close to Viale dei Romani"
+Label: (A). The span is a named entity of type location
+
+3. Query: "Can I find a {{restaurant near me}} that is similar to Johnny Rockets in terms of price range?"
+Text Span: "restaurant near me"
+Label: (A). The span is a named entity of type location

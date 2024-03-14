@@ -1,0 +1,8 @@
+1. "Can you tell me about the making-of process for the movie Inception?"
+Named Entities: [Inception (Title), making-of process (Plot)]
+
+2. "I'm interested in a movie with behind-the-scenes info about war strategies. What do you recommend?"
+Named Entities: [war strategies (Plot)]
+
+3. "Show me a film directed by Kathryn Bigelow that reveals the backstory of its main character."
+Named Entities: [Kathryn Bigelow (Director), backstory (Plot), main character (Character)]

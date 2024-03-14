@@ -1,0 +1,11 @@
+1. Query: "Are there any {{streaming platforms}} where I can watch the movie Inception?"
+Text Span: "streaming platforms"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Query: "What is the {{viewer rating}} for the latest James Cameron film?"
+Text Span: "viewer rating"
+Label: (A). The span is a named entity of type viewers' rating.
+
+3. Query: 'Who directed the {{classic}} film "Casablanca"?'
+Text Span: "classic"
+Label: (C). Wrong Type. The correct entity type is Genre.

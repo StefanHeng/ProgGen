@@ -1,0 +1,8 @@
+1. "Where can I find good value for money restaurants in this area?"
+Named Entities: [Value for money (Amenity)]
+
+2. "I'm craving for some burgers from The Twilight Grill, can you order delivery for me?"
+Named Entities: [The Twilight Grill (Restaurant Name), Delivery services (Amenity)]
+
+3. "Can you recommend a place with outdoor seating and a diverse cuisine selection?"
+Named Entities: [outdoor seating (Amenity), diverse cuisine selection (Cuisine)]

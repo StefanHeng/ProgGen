@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a survival in the wilderness plot"
+   Named Entities: [survival in the wilderness (Plot)]
+
+2. Query: "Is Daniel Craig in any riveting from start to finish action films"
+   Named Entities: [Daniel Craig (Actor), riveting from start to finish (Review)]
+
+3. Query: "What Cinderella movie has the highest viewers' rating"
+   Named Entities: [Cinderella (Title), highest viewers' rating (Viewers' Rating)]

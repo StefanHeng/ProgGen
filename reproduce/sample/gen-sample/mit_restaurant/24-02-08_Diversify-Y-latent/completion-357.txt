@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with a tasting menu in the area close to Eleven Madison Park"
+Named Entities: [tasting menu (Amenity), Eleven Madison Park (Restaurant Name), area close to Eleven Madison Park (Location)]
+
+Query: "what are the hours of operation for Eleven Madison Park"
+Named Entities: [hours of operation (Hours), Eleven Madison Park (Restaurant Name)]
+
+Query: "is there a highly rated restaurant near Eleven Madison Park with a prix fixe menu"
+Named Entities: [highly rated (Rating), near Eleven Madison Park (Location), prix fixe menu (Amenity), Eleven Madison Park (Restaurant Name)]

@@ -1,0 +1,8 @@
+Query: "What restaurants offer takeout hours in the downtown area?"
+Named Entities: [takeout hours (Amenity), downtown area (Location)]
+
+Query: "I'm looking for a seafood restaurant with a high rating and outdoor seating."
+Named Entities: [seafood (Cuisine), high rating (Rating), outdoor seating (Amenity)]
+
+Query: "Can you recommend a Chinese restaurant with delivery service and a budget-friendly menu?"
+Named Entities: [Chinese (Cuisine), delivery service (Amenity), budget-friendly (Price)]

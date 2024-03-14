@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me the plot of any slasher movie with a 5/10 rating?"
+   Named Entities: [slasher (Genre), 5/10 rating (Viewers' Rating)]
+
+2. Spoken Query: "I'm looking for a synopsis of a movie directed by Bong Joon-ho."
+   Named Entities: [Bong Joon-ho (Director)]
+
+3. Spoken Query: "Do you have any information on a slasher film with a 5/10 rating directed by Bong Joon-ho?"
+   Named Entities: [slasher (Genre), 5/10 rating (Viewers' Rating), Bong Joon-ho (Director)]

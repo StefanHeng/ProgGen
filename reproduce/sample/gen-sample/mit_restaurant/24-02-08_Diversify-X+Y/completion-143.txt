@@ -1,0 +1,8 @@
+Query: "I'm craving fast food, where can I find a Carl's Jr. nearby?"
+Named Entities: [Carl's Jr. (Restaurant Name)]
+
+Query: "I'm trying to eat healthier, can you provide me with the nutrition information for Carl's Jr.?"
+Named Entities: [Carl's Jr. (Restaurant Name), nutrition information (Amenity)]
+
+Query: "I'm on a budget, what is the price range for meals at Carl's Jr.?"
+Named Entities: [Carl's Jr. (Restaurant Name), price range (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood restaurant with outdoor seating?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity)]
+
+2. "What is the price range for italian restaurants in this area?"
+Named Entities: [Italian (Cuisine), price range (Price), this area (Location)]
+
+3. "I want to try the best-rated burger joint in town, where should I go?"
+Named Entities: [best-rated (Rating), burger joint (Restaurant Name), town (Location)]

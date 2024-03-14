@@ -1,0 +1,8 @@
+1. "Can you recommend a family-friendly movie directed by Gus Van Sant, rated TV-PG?"
+Named Entities: [Gus Van Sant (Director), TV-PG (MPAA Rating)]
+
+2. "What is the plot of Good Will Hunting, the movie with a 5.5-star rating?"
+Named Entities: [Good Will Hunting (Title), 5.5-star rating (Viewers' Rating)]
+
+3. "I'm looking for a romantic movie with the song Bad Romance. Can you show me a preview clip?"
+Named Entities: [Bad Romance (Song), Preview clip (Trailer)]

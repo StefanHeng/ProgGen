@@ -1,0 +1,8 @@
+Query: "What is the viewers' rating for the movie directed by the Wachowski siblings that is titled The Matrix?"
+Named Entities: [The Matrix (Title), viewers' rating (Viewers' Rating), Wachowski siblings (Director)]
+
+Query: "Could you recommend a breathtaking movie released between 1970 and 1980?"
+Named Entities: [breathtaking (Viewers' Rating), 1970-1980 (Year)]
+
+Query: "Is there a movie featuring Mark Ruffalo that is rated NR?"
+Named Entities: [Mark Ruffalo (Actor), NR (MPAA Rating)]

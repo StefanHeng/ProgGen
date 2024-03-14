@@ -1,0 +1,8 @@
+Query: "where can I grab a quick breakfast burrito nearby"
+Named Entities: [breakfast (Amenity), nearby (Location), breakfast burrito (Dish)]
+
+Query: "show me a fast-casual restaurant with early morning hours"
+Named Entities: [fast-casual (Amenity), early morning hours (Hours)]
+
+Query: "recommend a place for a fast breakfast bite on a budget"
+Named Entities: [fast (Amenity), breakfast bite (Dish), budget (Price)]

@@ -1,0 +1,8 @@
+Query: "Hey, have you seen the Golden Globe nominated trailer for any gangster movies from 1979 or 2008?"
+Named Entities: [Golden Globe nominated (Awards), gangster (Genre), 1979 (Year), 2008 (Year), trailer (Trailer)]
+
+Query: "Do you know if any gangster movies from 1979 or 2008 have received any awards or nominations?"
+Named Entities: [gangster (Genre), 1979 (Year), 2008 (Year), awards or nominations (Awards)]
+
+Query: "I'm curious, has there been any award-winning gangster movies from 1979 or 2008?"
+Named Entities: [award-winning (Awards), gangster (Genre), 1979 (Year), 2008 (Year)]

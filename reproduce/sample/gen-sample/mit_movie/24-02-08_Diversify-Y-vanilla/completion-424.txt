@@ -1,0 +1,8 @@
+1. "Can you recommend a brilliant PG-13 movie for this weekend"
+Named Entities: [Brilliant (Review), PG-13 (MPAA Rating)]
+
+2. "Tell me about the movie Moana, directed by Ron Clements and John Musker"
+Named Entities: [Moana (Title), Ron Clements (Director), John Musker (Director)]
+
+3. "What's the viewers' rating for the latest Quentin Tarantino film"
+Named Entities: [Quentin Tarantino (Director), latest (Year)]

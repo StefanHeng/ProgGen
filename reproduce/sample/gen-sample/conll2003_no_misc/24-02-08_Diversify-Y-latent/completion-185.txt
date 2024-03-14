@@ -1,0 +1,8 @@
+Sentence: "A massive crowd gathers in Times Square to ring in the New Year."
+Named Entities: [Times Square (location), New York City (location)]
+
+Sentence: "The famous Venice Biennale art exhibition attracts thousands of visitors from around the world."
+Named Entities: [Venice (location), Venice Biennale (organization), world (location)]
+
+Sentence: "New York City Marathon organizers announce new safety measures for upcoming race."
+Named Entities: [New York City (location), Marathon (organization)]

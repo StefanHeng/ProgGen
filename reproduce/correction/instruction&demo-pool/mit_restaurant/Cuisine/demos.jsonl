@@ -1,0 +1,5 @@
+{"sentence": "What time does the Italian restaurant on Main Street close tonight?", "entity_span": "Italian restaurant", "label": "WRONG_SPAN", "correct_span": "Italian"}
+{"sentence": "I want to try some authentic Mexican food, any recommendations?", "entity_span": "authentic Mexican food", "label": "WRONG_SPAN", "correct_span": "authentic Mexican"}
+{"sentence": "Find me a burger joint with a drive-thru.", "entity_span": "burger joint", "label": "CORRECT"}
+{"sentence": "show me a budget-friendly caf\u00e9 with vegan options", "entity_span": "vegan options", "label": "WRONG_SPAN", "correct_span": "vegan"}
+{"sentence": "Is there a 24-hour restaurant nearby that offers a breakfast buffet?", "entity_span": "breakfast", "label": "WRONG_TYPE", "correct_type": "Hours"}

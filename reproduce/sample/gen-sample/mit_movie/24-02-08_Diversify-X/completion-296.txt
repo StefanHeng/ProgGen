@@ -1,0 +1,8 @@
+1. Query: "Who directed the action film with a high viewers' rating and Sharon Stone as the lead actress?"
+   Named Entities: [action film (Genre), high viewers' rating (Viewers' Rating), Sharon Stone (Actor)]
+
+2. Query: "What is the title of the movie where Leonardo DiCaprio starred alongside Kate Winslet and had a theme song that won an Oscar?"
+   Named Entities: [Leonardo DiCaprio (Actor), Kate Winslet (Actor), theme song (Song), Oscar (Award)]
+
+3. Query: "Can you recommend a comedy film from the 90s with Jim Carrey and Cameron Diaz in the cast?"
+   Named Entities: [comedy film (Genre), 90s (Year), Jim Carrey (Actor), Cameron Diaz (Actor)]

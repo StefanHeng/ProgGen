@@ -1,0 +1,8 @@
+1. "What is the rating of The Daily Grind Cafe?"
+Named Entities: [The Daily Grind Cafe (Restaurant Name)]
+
+2. "I'm looking for a Lavish restaurant with outdoor seating and a view"
+Named Entities: [Lavish (Price), outdoor seating (Amenity)]
+
+3. "Can you recommend a place that serves vegan dishes near the beach and is open after 8 p.m?"
+Named Entities: [vegan (Cuisine), near the beach (Location), after 8 p.m (Hours)]

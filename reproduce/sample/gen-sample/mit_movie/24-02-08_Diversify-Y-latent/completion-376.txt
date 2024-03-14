@@ -1,0 +1,8 @@
+1. Query: "What movie directed by Gordon Parks was released in 1972 and has a GP rating"
+Named Entities: [Gordon Parks (Director), 1972 (Year), GP (MPAA Rating)]
+
+2. Query: "Tell me about the movie Schindler's List starring Liam Neeson and its viewers' rating"
+Named Entities: [Schindler's List (Title), Liam Neeson (Actor), viewers' rating (Review)]
+
+3. Query: "Can you recommend any R-rated thriller movies with iconic musical compositions"
+Named Entities: [R-rated (MPAA Rating), thriller (Genre), iconic musical compositions (Song)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Biographical film featuring Jon Snow?"
+   Named Entities: [Biographical (Genre), Jon Snow (Character)]
+
+2. Query: "What is the viewers' rating of the movie Joker directed by Todd Phillips?"
+   Named Entities: [Joker (Title), Todd Phillips (Director)]
+
+3. Query: "Who is the actor playing the role of Jon Snow in Game of Thrones?"
+   Named Entities: [Jon Snow (Character)]

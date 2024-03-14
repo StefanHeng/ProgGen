@@ -1,0 +1,11 @@
+1. Sentence: "New study shows a decrease in childhood obesity rates in {{Berlin}} schools."
+Text Span: "Berlin"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The Nature Conservancy launches a campaign to preserve the natural habitat of sea turtles along the coast of {{Florida}}."
+Text Span: "Florida"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Renowned artist from London to showcase her work at the {{Athens}} Biennale."
+Text Span: "Athens"
+Label: (A). The span is a named entity of type location

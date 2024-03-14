@@ -1,0 +1,59 @@
+1. What is the best Italian restaurant near me?
+Named Entities: [Italian (Cuisine), near me (Location)]
+
+2. Show me the top-rated seafood spots in town.
+Named Entities: [seafood (Cuisine), top-rated (Rating), in town (Location)]
+
+3. I'm craving some sushi, where can I find a good sushi bar?
+Named Entities: [sushi (Cuisine), good (Rating), sushi bar (Amenity)]
+
+4. Any Mexican restaurants open past 10 pm?
+Named Entities: [Mexican (Cuisine), past 10 pm (Hours)]
+
+5. Can you recommend a place with outdoor seating?
+Named Entities: [outdoor seating (Amenity)]
+
+6. I want to try some authentic Indian cuisine, where should I go?
+Named Entities: [authentic (Rating), Indian (Cuisine)]
+
+7. Is there a place nearby that serves brunch on weekends?
+Named Entities: [brunch (Amenity), on weekends (Hours), nearby (Location)]
+
+8. Find me a cheap eatery with good food.
+Named Entities: [cheap (Price), good (Rating)]
+
+9. I need to book a table at Olive Garden for 7 pm tonight.
+Named Entities: [Olive Garden (Restaurant Name), 7 pm tonight (Hours)]
+
+10. Are there any Chinese buffets in the area?
+Named Entities: [Chinese (Cuisine), buffets (Amenity), in the area (Location)]
+
+11. Show me the highest-rated steakhouse in the city.
+Named Entities: [highest-rated (Rating), steakhouse (Amenity), in the city (Location)]
+
+12. Is there a place where I can get a good burger for under $15?
+Named Entities: [good (Rating), burger (Dish), under $15 (Price)]
+
+13. Please find a romantic restaurant with a view.
+Named Entities: [romantic (Amenity), with a view (Amenity)]
+
+14. Take me to the nearest pizza joint.
+Named Entities: [nearest (Location), pizza (Cuisine)]
+
+15. I'm looking for a family-friendly diner, any suggestions?
+Named Entities: [family-friendly (Amenity), diner (Amenity)]
+
+16. What Thai restaurants are open for lunch?
+Named Entities: [Thai (Cuisine), open for lunch (Hours)]
+
+17. Is there a place around here that serves late-night tacos?
+Named Entities: [late-night (Hours), tacos (Dish), around here (Location)]
+
+18. Can you make a reservation for two at The Cheesecake Factory?
+Named Entities: [reservation (Amenity), two (Amenity), The Cheesecake Factory (Restaurant Name)]
+
+19. Find a trendy spot for cocktails and small plates.
+Named Entities: [trendy (Amenity), cocktails (Amenity), small plates (Amenity)]
+
+20. Any all-you-can-eat buffets in the downtown area?
+Named Entities: [all-you-can-eat (Price), buffets (Amenity), downtown area (Location)]

@@ -1,0 +1,8 @@
+1. "What's the highest rated action movie of all time?"
+   Named Entities: [action movie (Genre), highest rated (Viewers' Rating)]
+
+2. "Can you recommend a comedy movie from the 90s with a great plot?"
+   Named Entities: [comedy movie (Genre), 90s (Year), great plot (Plot)]
+
+3. "Who directed the best sci-fi movie in recent years?"
+   Named Entities: [sci-fi movie (Genre), recent years (Year), best (Review)]

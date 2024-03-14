@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a dance floor and Mexican cuisine?"
+Named Entities: [dance floor (Amenity), Mexican cuisine (Cuisine)]
+
+2. "I'm looking for a place with outdoor seating and a good happy hour menu."
+Named Entities: [outdoor seating (Amenity), happy hour (Amenity)]
+
+3. "What are some options for Italian restaurants with a rating of 4 stars or higher?"
+Named Entities: [Italian restaurants (Cuisine), rating of 4 stars or higher (Rating)]

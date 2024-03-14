@@ -1,0 +1,8 @@
+Query: "suggest a restaurant nearby with outdoor seating for lunch"
+Named Entities: [nearby (Location), outdoor seating (Amenity), lunch (Hours)]
+
+Query: "recommend a place for a quick bite during lunch break"
+Named Entities: [quick bite (Dish), lunch break (Hours)]
+
+Query: "find a spot with a diverse menu for lunch"
+Named Entities: [diverse menu (Amenity), lunch (Hours) ]

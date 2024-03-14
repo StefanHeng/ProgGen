@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Indian fast food, can you recommend a place?"
+   Named Entities: [Indian (Cuisine), fast food (Amenity)]
+
+2. "I'm craving Chipotle, is there a location nearby?"
+   Named Entities: [Chipotle (Restaurant Name), nearby (Location)]
+
+3. "I'm looking for a cost-effective fast food option, any recommendations?"
+   Named Entities: [Cost-effective (Price), fast food (Amenity)]

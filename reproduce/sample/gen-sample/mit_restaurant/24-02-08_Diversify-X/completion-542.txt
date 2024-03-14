@@ -1,0 +1,8 @@
+Query: "What fast food options are available nearby with a drive-thru?"
+Named Entities: [fast food (Cuisine), nearby (Location), drive-thru (Amenity)]
+
+Query: "Which fast food restaurant has the highest rating in this area?"
+Named Entities: [fast food (Cuisine), highest rating (Rating), this area (Location)]
+
+Query: "Can you recommend a fast food place with a dollar menu and open after 10 pm?"
+Named Entities: [fast food (Cuisine), dollar menu (Price), open after 10 pm (Hours)]

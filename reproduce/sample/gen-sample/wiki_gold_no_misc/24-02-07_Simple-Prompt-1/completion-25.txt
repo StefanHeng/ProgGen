@@ -1,0 +1,143 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The British Broadcasting Corporation (BBC) is a British public service broadcaster."
+Named Entities: [British Broadcasting Corporation (organization), BBC (organization), British (location)]
+
+Sentence: "She is a member of the European Parliament for South East England and co-leader of the Green Party of England and Wales."
+Named Entities: [European Parliament (organization), South East England (location), Green Party of England and Wales (organization)]
+
+Sentence: "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe."
+Named Entities: [Great Wall of China (location), China (location), Eurasian Steppe (location)]
+
+Sentence: "In 1999, Time magazine named him one of the 100 most influential people in the world."
+Named Entities: [Time magazine (organization)]
+
+Sentence: "He was elected the Member of Parliament (MP) for Henley in 2001."
+Named Entities: [Member of Parliament (MP) (organization), Henley (location)]
+
+Sentence: "The Louvre in Paris is the world's largest art museum and a historic monument in Paris, France."
+Named Entities: [Louvre (location), Paris (location), France (location)]
+
+Sentence: "Taj Mahal, an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra, is an example of Mughal architecture and was designated as a UNESCO World Heritage Site in 1983."
+Named Entities: [Taj Mahal (location), Yamuna River (location), Agra (location), Indian (location), Mughal (location), UNESCO World Heritage Site (organization)]
+
+Sentence: "New Zealand is a sovereign island country in the southwestern Pacific Ocean."
+Named Entities: [New Zealand (location), Pacific Ocean (location)]
+
+Sentence: "She co-founded the United Farm Workers (UFW) union with Cesar Chavez."
+Named Entities: [United Farm Workers (UFW) (organization), Cesar Chavez (person)]
+
+Sentence: "He is a member of the Democratic Party and was the 47th vice president of the United States from 2009 to 2017."
+Named Entities: [Democratic Party (organization), United States (location)]
+
+Sentence: "He is the CEO of Apple Inc. and was named CEO of the decade by Fortune."
+Named Entities: [Apple Inc. (organization), Fortune (organization)]
+
+Sentence: "The Mayflower was an English ship that transported the first English Puritans, known today as the Pilgrims, from England to the New World in 1620."
+Named Entities: [Mayflower (location), England (location), English (location), Pilgrims (organization), New World (location)]
+
+Sentence: "He is the lead vocalist of the rock band Queen."
+Named Entities: [Queen (organization)]
+
+Sentence: "She is a member of the United Nations Educational, Scientific and Cultural Organization (UNESCO)."
+Named Entities: [United Nations Educational, Scientific and Cultural Organization (UNESCO) (organization)]
+
+Sentence: "He was the president of the United States from 2001 to 2009."
+Named Entities: [United States (location)]
+
+Sentence: "He is an honorary knighthood of the British Empire."
+Named Entities: [British Empire (location)]
+
+Sentence: "The Amazon River in South America is the largest river by discharge volume of water in the world, and the second in length."
+Named Entities: [Amazon River (location), South America (location)]
+
+Sentence: "She is a member of the International Olympic Committee (IOC)."
+Named Entities: [International Olympic Committee (IOC) (organization)]
+
+Sentence: "He is the founder of Microsoft Corporation."
+Named Entities: [Microsoft Corporation (organization)]
+
+Sentence: "He was the chairman of the Palestinian Liberation Organization (PLO)."
+Named Entities: [Palestinian Liberation Organization (PLO) (organization)]
+
+Sentence: "He is the author of the famous novel, To Kill a Mockingbird."
+Named Entities: [To Kill a Mockingbird (location)]
+
+Sentence: "She is the founder of the Malala Fund, a non-profit organization advocating for girls' education."
+Named Entities: [Malala Fund (organization)]
+
+Sentence: "He completed his master's degree in Computer Science at Stanford University."
+Named Entities: [Computer Science (organization), Stanford University (organization)]
+
+Sentence: "She is a member of the World Health Organization (WHO)."
+Named Entities: [World Health Organization (WHO) (organization)]
+
+Sentence: "He played a crucial role in the formation of the United Nations."
+Named Entities: [United Nations (organization)]
+
+Sentence: "The Gobi Desert is a large desert region in Asia."
+Named Entities: [Gobi Desert (location), Asia (location)]
+
+Sentence: "He is a member of the Helsinki Committee for Human Rights."
+Named Entities: [Helsinki Committee for Human Rights (organization)]
+
+Sentence: "He is the CEO of Tesla, Inc."
+Named Entities: [Tesla, Inc. (organization)]
+
+Sentence: "She is a member of the International Court of Justice (ICJ)."
+Named Entities: [International Court of Justice (ICJ) (organization)]
+
+Sentence: "Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington."
+Named Entities: [Starbucks Corporation (organization), American (location), Seattle (location), Washington (location)]
+
+Sentence: "He served as the Chancellor of Germany from 1982 to 1998."
+Named Entities: [Chancellor of Germany (organization)]
+
+Sentence: "The Nile is a major north-flowing river in northeastern Africa."
+Named Entities: [Nile (location), Africa (location)]
+
+Sentence: "She is a member of the International Monetary Fund (IMF)."
+Named Entities: [International Monetary Fund (IMF) (organization)]
+
+Sentence: "He is the co-founder of YouTube, an American online video-sharing platform."
+Named Entities: [YouTube (organization), American (location)]
+
+Sentence: "The Sahara is the largest hot desert and the third-largest desert overall in the world after Antarctica and the Arctic."
+Named Entities: [Sahara (location), Antarctica (location), Arctic (location)]
+
+Sentence: "She is an advocate for human rights and the founder of the Malala Fund."
+Named Entities: [Malala Fund (organization)]
+
+Sentence: "He is the lead guitarist of the rock band Led Zeppelin."
+Named Entities: [Led Zeppelin (organization)]
+
+Sentence: "The Yangtze River, known in China as the Chang Jiang, is the longest river in Asia and the third-longest in the world."
+Named Entities: [Yangtze River (location), China (location), Chang Jiang (location), Asia (location)]
+
+Sentence: "She is the co-founder of the Bill & Melinda Gates Foundation."
+Named Entities: [Bill & Melinda Gates Foundation (organization)]
+
+Sentence: "He is a member of the European Parliament for North West England."
+Named Entities: [European Parliament (organization), North West England (location)]
+
+Sentence: "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City."
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+
+Sentence: "She is a member of the United Nations Development Programme (UNDP)."
+Named Entities: [United Nations Development Programme (UNDP) (organization)]
+
+Sentence: "He was the Secretary-General of the United Nations from 1997 to 2006."
+Named Entities: [Secretary-General of the United Nations (organization)]
+
+Sentence: "The Oceania Football Confederation (OFC) is one of the six continental confederations of international association football."
+Named Entities: [Oceania Football Confederation (OFC) (organization)]
+
+Sentence: "He is the co-creator of the animated television series Avatar: The Last Airbender."
+Named Entities: [Avatar: The Last Airbender (organization)]
+
+Sentence: "She is a member of the International Criminal Court (ICC)."
+Named Entities: [International Criminal Court (ICC) (organization)]
+
+Sentence: "He is the CEO of Amazon.com."
+Named Entities: [Amazon.com (organization)]

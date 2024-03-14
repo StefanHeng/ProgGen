@@ -1,0 +1,8 @@
+1. Query: "What is the plot of Braveheart?"
+   Named Entities: [Braveheart (Title), plot (Plot)]
+
+2. Query: "Show me a trailer of a film directed by Destin Daniel Cretton"
+   Named Entities: [Destin Daniel Cretton (Director), trailer (Trailer)]
+
+3. Query: "What are some popular movies from 1990?"
+   Named Entities: [1990 (Year)]

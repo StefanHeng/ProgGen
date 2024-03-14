@@ -1,0 +1,8 @@
+Query: "which movie won the most Oscars in 2021"
+Named Entities: [most Oscars (Awards), 2021 (Year)]
+
+Query: "can you tell me if the movie Inception received any Golden Globe nominations"
+Named Entities: [Inception (Title), Golden Globe nominations (Awards)]
+
+Query: "show me a film that won the Palme d'Or at the Cannes Film Festival"
+Named Entities: [Palme d'Or (Awards), Cannes Film Festival (Event)]

@@ -1,0 +1,8 @@
+Query: "What movie features the character Atticus Finch"
+Named Entities: [Atticus Finch (Character)]
+
+Query: "Can I watch a cinematic preview for a film rated TV-14"
+Named Entities: [cinematic preview (Trailer), TV-14 (MPAA Rating)]
+
+Query: "Show me a movie with 4.9 stars and awesome character-driven storytelling"
+Named Entities: [4.9 stars (Viewers' Rating), awesome (Review), character-driven storytelling (Plot)]

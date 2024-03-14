@@ -1,0 +1,8 @@
+1. "Can you recommend a movie that addresses the issue of minority discrimination and is rated M or PG"
+   Named Entities: [minority discrimination (Plot), M/PG (MPAA Rating)]
+
+2. "I'm looking for a terrific mystery movie from 1966 with terrible reviews"
+   Named Entities: [terrific (Viewers' Rating), mystery (Genre), 1966 (Year), terrible reviews (Review)]
+
+3. "Could you show me the cinematic preview of the movie 'The Perfect Weapon'"
+   Named Entities: [the perfect weapon (Title), cinematic preview (Trailer)]

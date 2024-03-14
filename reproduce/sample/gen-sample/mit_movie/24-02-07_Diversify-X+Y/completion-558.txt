@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me if the movie The Shawshank Redemption, featuring Morgan Freeman, received any awards or nominations?"
+   Named Entities: [The Shawshank Redemption (Title), Morgan Freeman (Actor), awards or nominations (Review)]
+
+2. Spoken Query: "I'm feeling a bit down. Could you find a highly rewarded movie, perhaps featuring Joaquin Phoenix, to lift my spirits?"
+   Named Entities: [highly rewarded (Viewers' Rating), Joaquin Phoenix (Actor)]
+
+3. Spoken Query: "I'm curious if there are any highly lauded movies that were Golden Globes or Festival winners."
+   Named Entities: [highly lauded (Review), Golden Globes (Award), Festival winner (Award)]

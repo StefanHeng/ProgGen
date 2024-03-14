@@ -1,0 +1,8 @@
+Sentence: "Tech giant Apple announces new iPhone release."
+Named Entities: [Apple (organization)]
+
+Sentence: "Hurricane Dorian hits Bahamas with devastating force."
+Named Entities: [Hurricane Dorian (location), Bahamas (location)]
+
+Sentence: "Actress Emma Watson named ambassador for UN Women."
+Named Entities: [Emma Watson (person), UN Women (organization)]

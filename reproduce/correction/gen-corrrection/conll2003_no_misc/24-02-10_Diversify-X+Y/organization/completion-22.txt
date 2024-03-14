@@ -1,0 +1,8 @@
+1. Text Span: "Sally Ride Science Symposium"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Conservationists"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+3. Text Span: "bakery"
+Label: (D). Not a Named Entity

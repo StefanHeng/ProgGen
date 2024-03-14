@@ -1,0 +1,8 @@
+1. Text Span: "African American"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "John Glenn"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Stephen King"
+Label: (A). Correct Entity Annotation.

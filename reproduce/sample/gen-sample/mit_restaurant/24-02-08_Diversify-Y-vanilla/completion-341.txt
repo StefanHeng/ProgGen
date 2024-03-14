@@ -1,0 +1,8 @@
+Query: "Where can I find a good Italian restaurant for dinner near [Rossoblu]?"
+Named Entities: [good (Rating), Italian (Cuisine), dinner (Hours), [Rossoblu] (Location)]
+
+Query: "What are the opening hours of [Rossoblu]?"
+Named Entities: [opening hours (Hours), [Rossoblu] (Restaurant Name)]
+
+Query: "I'm looking for a place that serves seafood within walking distance of [Rossoblu]."
+Named Entities: [seafood (Cuisine), walking distance (Amenity), [Rossoblu] (Location)]

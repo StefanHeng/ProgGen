@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with spectacular music from 1971?"
+Named Entities: [spectacular music (Song), 1971 (Year)]
+
+2. "I'm looking for a movie that features song snippets in the background"
+Named Entities: [song snippets (Song), background music (Song)]
+
+3. "What movie directed by Robert Rodriguez has a memorable soundtrack?"
+Named Entities: [Robert Rodriguez (Director), memorable soundtrack (Song)]

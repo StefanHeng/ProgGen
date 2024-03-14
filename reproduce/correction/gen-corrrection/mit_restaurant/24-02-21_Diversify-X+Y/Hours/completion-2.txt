@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a café that offers a variety of options for {{brunch}} in the downtown area"
+Text Span: "brunch"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Can you recommend a beachfront restaurant in Dubai with a diverse menu for {{dinner}}?"
+Text Span: "dinner"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend a Spanish restaurant that serves {{late-night}} tapas?"
+Text Span: "late-night"
+Label: (A). Correct Entity Annotation.

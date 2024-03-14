@@ -1,0 +1,8 @@
+Sentence: "Rome, Italy, experiences a surge in international students seeking higher education opportunities."
+Named Entities: [Rome (location), Italy (location)]
+
+Sentence: "Professor John Martinez wins prestigious award for his groundbreaking research in education psychology."
+Named Entities: [Professor John Martinez (person)]
+
+Sentence: "Professor Michael Wang appointed as the new dean of the School of Education at a prestigious university in Rome, Italy."
+Named Entities: [Professor Michael Wang (person), Rome (location), Italy (location)]

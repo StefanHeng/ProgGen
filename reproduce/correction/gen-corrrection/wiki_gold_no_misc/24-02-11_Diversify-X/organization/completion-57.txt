@@ -1,0 +1,8 @@
+1. Text Span: "Council of Fashion Designers of America"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "education"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Manchester United"
+Label: (A). The span is a named entity of type organization

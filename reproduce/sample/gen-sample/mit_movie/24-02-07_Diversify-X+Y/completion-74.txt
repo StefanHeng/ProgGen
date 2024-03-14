@@ -1,0 +1,8 @@
+1. "Hey, what's the deal with The Social Network? Is it worth watching or does it have a low rating?"
+Named Entities: [The Social Network (Title), worth watching (Viewers' Rating)]
+
+2. "Have you seen any of Darren Aronofsky's films? Which one has the best reviews?"
+Named Entities: [Darren Aronofsky (Director), best reviews (Review)]
+
+3. "I'm curious, what genre does The Social Network fall under and how was it received by viewers?"
+Named Entities: [The Social Network (Title), genre (Genre), received by viewers (Review)]

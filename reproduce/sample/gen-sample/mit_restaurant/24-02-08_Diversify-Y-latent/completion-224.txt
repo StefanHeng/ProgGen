@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly rated seafood restaurant in [City]?"
+Named Entities: [highly rated (Rating), seafood restaurant (Cuisine), [City] (Location)]
+
+Query: "I'm looking for a restaurant with outdoor seating and live music in [City]."
+Named Entities: [outdoor seating (Amenity), live music (Amenity), [City] (Location)]
+
+Query: "What are the operating hours for the Italian restaurant downtown in [City]?"
+Named Entities: [operating hours (Hours), Italian restaurant (Cuisine), downtown (Location), [City] (Location)]

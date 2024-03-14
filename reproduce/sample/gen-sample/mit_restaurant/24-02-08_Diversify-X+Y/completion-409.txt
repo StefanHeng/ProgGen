@@ -1,0 +1,8 @@
+1. "Can you recommend a brunch spot with an urban/chic ambience that offers live music during late morning hours?"
+Named Entities: [brunch (Amenity), urban/chic (Amenity), live music (Amenity), late morning hours (Hours)]
+
+2. "I'm looking for a trendy restaurant with a brunch menu and a vibrant atmosphere in the late morning hours. Any suggestions?"
+Named Entities: [brunch (Amenity), trendy (Amenity), late morning hours (Hours)]
+
+3. "Where can I find a hip restaurant with a brunch menu and live music for late morning hours?"
+Named Entities: [brunch (Amenity), hip (Amenity), live music (Amenity), late morning hours (Hours)]

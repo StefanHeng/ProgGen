@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Restricted movie directed by Baz Luhrmann starring Nicole Kidman and Ewan McGregor?"
+Named Entities: [Restricted (MPAA Rating), Baz Luhrmann (Director), Nicole Kidman (Actor), Ewan McGregor (Actor)]
+
+2. Query: "What is the Viewers' Rating for any Adam Sandler movie released in the year 2000?"
+Named Entities: [Adam Sandler (Actor), 2000 (Year)]
+
+3. Query: "Are there any movies with the character Romeo and Juliet directed by Baz Luhrmann?"
+Named Entities: [Romeo and Juliet (Character), Baz Luhrmann (Director)]

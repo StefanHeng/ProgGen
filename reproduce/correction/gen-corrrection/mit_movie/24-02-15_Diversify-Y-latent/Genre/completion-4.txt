@@ -1,0 +1,11 @@
+1. Query: "Can you recommend an uplifting {{War documentary}}?"
+Text Span: "War documentary"
+Label: (A). The span is a named entity of type genre
+
+2. Query: "What is the best {{musical}} of all time"
+Text Span: "musical"
+Label: (A). The span is a named entity of type genre
+
+3. Query: "Can you recommend a compelling film in the genre '{{Glimpse}}' with a poor rating?"
+Text Span: "Glimpse"
+Label: (C). Wrong Type. The correct entity type is Title.

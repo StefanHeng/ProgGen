@@ -1,0 +1,8 @@
+1. Text Span: "late-night dining"
+Label: (C). The span is a named entity but the category is not hours. Category: Amenity
+
+2. Text Span: "open before 11am"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "late"
+Label: (A). Correct Entity Annotation.

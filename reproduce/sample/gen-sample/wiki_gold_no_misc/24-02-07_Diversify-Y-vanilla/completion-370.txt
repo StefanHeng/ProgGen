@@ -1,0 +1,8 @@
+1. The company announced a partnership with LinkedIn to provide integrated services for professional networking.
+Named Entities: [LinkedIn (organization)]
+
+2. She graduated from Harvard University in 2010 and went on to work at Google and LinkedIn.
+Named Entities: [Harvard University (organization), Google (organization), LinkedIn (organization)]
+
+3. The Prime Minister of Canada, Justin Trudeau, met with executives from LinkedIn to discuss economic opportunities for the country.
+Named Entities: [Justin Trudeau (person), Canada (location), LinkedIn (organization)]

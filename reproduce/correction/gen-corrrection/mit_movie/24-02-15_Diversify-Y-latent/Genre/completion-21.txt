@@ -1,0 +1,8 @@
+1. Text Span: "Cinematic musical arrangements"
+Label: (B). The correct span boundary is "Cinematic musical"
+
+2. Text Span: "biographical film"
+Label: (A). Named entity of type genre
+
+3. Text Span: "instrumental music"
+Label: (A). Named entity of type genre

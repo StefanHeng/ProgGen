@@ -1,0 +1,8 @@
+1. Text Span: "US President Obama"
+Label: (B). Wrong Boundary. The correct span boundary is "Obama".
+
+2. Text Span: "Alexander McQueen"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Mario Batali"
+Label: (A). The span is a named entity of type person

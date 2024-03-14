@@ -1,0 +1,8 @@
+1. "Can you recommend a high-rated Italian restaurant with outdoor seating for dinner tonight?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), tonight (Hours), dinner (Price), high-rated (Rating)]
+
+2. "I'm in the mood for sushi. Is there a Japanese restaurant with vegan options and a trendy vibe?"
+Named Entities: [sushi (Dish), Japanese (Cuisine), vegan options (Amenity), trendy vibe (Amenity), dinner (Price)]
+
+3. "Find me a cozy French bistro with a prix fixe menu within walking distance, please."
+Named Entities: [cozy (Amenity), French (Cuisine), prix fixe menu (Price), walking distance (Location), dinner (Hours)]

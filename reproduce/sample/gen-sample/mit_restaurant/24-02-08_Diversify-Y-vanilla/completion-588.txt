@@ -1,0 +1,8 @@
+Query: "Can you recommend any seafood restaurants around here?"
+Named Entities: [seafood (Cuisine)]
+
+Query: "What are the operating hours for The Barking Crab?"
+Named Entities: [The Barking Crab (Restaurant Name), operating hours (Hours)]
+
+Query: "I want to find a place with outdoor seating and a good view of the water"
+Named Entities: [outdoor seating (Amenity), good view of the water (Amenity)]

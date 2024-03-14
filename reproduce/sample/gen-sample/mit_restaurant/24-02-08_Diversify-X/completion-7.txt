@@ -1,0 +1,8 @@
+Query: "Can you recommend a Japanese restaurant with a lunch special near the office?"
+Named Entities: [Japanese (Cuisine), lunch special (Amenity), near the office (Location)]
+
+Query: "What are the hours for the Italian restaurant in downtown for lunch?"
+Named Entities: [Italian (Cuisine), downtown (Location), lunch (Meal Category), hours (Hours)]
+
+Query: "I'm looking for a seafood place with outdoor seating for lunch. Any suggestions?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), lunch (Meal Category)]

@@ -1,0 +1,8 @@
+1. "What are the best Italian restaurants for lunch in downtown?"
+Named Entities: [Italian (Cuisine), lunch (Amenity), downtown (Location)]
+
+2. "I'm looking for a place with outdoor seating and a variety of salads for lunch"
+Named Entities: [outdoor seating (Amenity), salads (Dish), lunch (Amenity)]
+
+3. "Can you recommend a Chinese restaurant with a high rating and affordable lunch specials?"
+Named Entities: [Chinese (Cuisine), high rating (Rating), lunch specials (Amenity)]

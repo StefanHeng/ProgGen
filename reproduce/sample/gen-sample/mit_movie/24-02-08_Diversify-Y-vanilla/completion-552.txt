@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any disaster movies from 1984 with an apocalyptic event?"
+   Named Entities: [1984 (Year), Disaster (Genre), Apocalyptic event (Plot)]
+
+2. Query: "I'm looking for a movie involving an undercover operation with the song Red Red Wine."
+   Named Entities: [undercover operation (Plot), Red Red Wine (Song)]
+
+3. Query: "What is the viewers' rating of the movie that features an apocalyptic event and was released in 1984?"
+   Named Entities: [Apocalyptic event (Plot), 1984 (Year), viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "What is Ang Lee's most famous movie?"
+   Named Entities: [Ang Lee (Director)]
+
+2. Query: "Can you recommend a mystery crime movie with the song Stayin' Alive?"
+   Named Entities: [mystery crime (Genre), Stayin' Alive (Song)]
+
+3. Query: "What are the viewers' ratings for the latest movie directed by Ang Lee?"
+   Named Entities: [Ang Lee (Director)]

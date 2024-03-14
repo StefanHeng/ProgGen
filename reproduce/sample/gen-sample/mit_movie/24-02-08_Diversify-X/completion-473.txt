@@ -1,0 +1,8 @@
+1. Query: "What are some mind-bending sci-fi movies that will leave me on the edge of my seat?"
+   Named Entities: [mind-bending (Plot), sci-fi (Genre)]
+
+2. Query: "Can you recommend some classic western films with intense gunfights and gripping storylines?"
+   Named Entities: [classic (Viewers' Rating), western (Genre), intense gunfights (Plot)]
+
+3. Query: "I'm craving a horror movie that will scare the daylights out of me. What's a truly terrifying supernatural thriller worth watching?"
+   Named Entities: [horror (Genre), terrifying (Viewers' Rating), supernatural (Plot)]

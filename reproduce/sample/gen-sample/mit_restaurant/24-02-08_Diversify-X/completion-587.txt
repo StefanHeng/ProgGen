@@ -1,0 +1,8 @@
+Query: "where is the nearest food truck selling tacos"
+Named Entities: [nearest (Location), food truck (Amenity), tacos (Dish)]
+
+Query: "are there any food trucks open past midnight"
+Named Entities: [open past midnight (Hours), food trucks (Amenity)]
+
+Query: "recommend me a food truck with affordable prices"
+Named Entities: [affordable (Price), food truck (Amenity)]

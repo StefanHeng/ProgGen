@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a Taika Waititi movie that has been Award-nominated and is suitable for NC-17 viewers?"
+Named Entities: [Taika Waititi (Director), Award-nominated (Review), NC-17 (MPAA Rating)]
+
+2. Query: "I'm looking for a movie that features the song Eye of the Tiger by A.R. Rahman."
+Named Entities: [Eye of the Tiger (Song), A.R. Rahman (Song)]
+
+3. Query: "What movie did Taika Waititi direct that won an Award and was released in the 2000s?"
+Named Entities: [Taika Waititi (Director), Award (Review), 2000s (Year)]

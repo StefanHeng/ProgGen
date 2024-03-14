@@ -1,0 +1,80 @@
+1. The Eiffel Tower, located in Paris, France, is a global cultural icon and one of the most recognizable structures in the world.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+2. The United Nations is an intergovernmental organization aiming to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a center for harmonizing the actions of nations.
+Named Entities: [United Nations (organization)]
+3. The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.
+Named Entities: [Mona Lisa (person), Leonardo da Vinci (person), Italian (location)]
+4. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+5. Albert Einstein, a German-born theoretical physicist, developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).
+Named Entities: [Albert Einstein (person), German (location)]
+6. Harvard University is a private Ivy League research university in Cambridge, Massachusetts.
+Named Entities: [Harvard University (organization), Cambridge (location), Massachusetts (location)]
+7. The Great Wall of China is the collective name of a series of fortification systems generally built across the historical northern borders of China to protect and consolidate territories of Chinese states and empires against various nomadic groups of the steppe and their polities.
+Named Entities: [Great Wall of China (location), China (location)]
+8. Oprah Winfrey is an American talk show host, television producer, actress, author, and philanthropist.
+Named Entities: [Oprah Winfrey (person), American (location)]
+9. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location), United States (location)]
+10. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+11. William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist.
+Named Entities: [William Shakespeare (person), English (location)]
+12. The Amazon rainforest, covering much of northwestern Brazil and extending into Colombia, Peru, and several other South American countries, is the world's largest tropical rainforest, famed for its biodiversity.
+Named Entities: [Amazon rainforest (location), Brazil (location), Colombia (location), Peru (location), South American (location)]
+13. Coca-Cola, or Coke, is a carbonated soft drink manufactured by the Coca-Cola Company.
+Named Entities: [Coca-Cola (organization), Coke (organization), Coca-Cola Company (organization)]
+14. The Kremlin is a historic fortified complex at the heart of Moscow, overlooking the Moskva River to the south, Saint Basil's Cathedral, and Red Square to the east, and the Alexander Garden to the west.
+Named Entities: [Kremlin (location), Moscow (location), Moskva River (location), Saint Basil's Cathedral (location), Red Square (location), Alexander Garden (location)]
+15. Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Named Entities: [Nelson Mandela (person), South African (location), South Africa (location)]
+16. The Louvre Museum, located in Paris, France, is the world's largest art museum and a historic monument in Paris.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+17. Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington.
+Named Entities: [Microsoft Corporation (organization), American (location), Redmond (location), Washington (location)]
+18. Ludwig van Beethoven was a German composer and pianist whose music is among the most performed of the classical repertoire.
+Named Entities: [Ludwig van Beethoven (person), German (location)]
+19. The Vatican City, an independent city-state enclaved within Rome, Italy, is the spiritual and governing center of the Roman Catholic Church.
+Named Entities: [Vatican City (location), Rome (location), Italy (location), Roman Catholic Church (organization)]
+20. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+21. J.K. Rowling is a British author, best known for writing the Harry Potter fantasy series.
+Named Entities: [J.K. Rowling (person), British (location), Harry Potter (organization)]
+22. The Pyramids of Giza are ancient monumental structures in Egypt.
+Named Entities: [Pyramids of Giza (location), Egypt (location)]
+23. Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.
+Named Entities: [Apple Inc. (organization), American (location), Cupertino (location), California (location)]
+24. Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent van Gogh (person), Dutch (location), Western (location)]
+25. The Colosseum, or the Flavian Amphitheatre, is an oval amphitheater in the center of Rome, Italy.
+Named Entities: [Colosseum (location), Flavian Amphitheatre (location), Rome (location), Italy (location)]
+26. Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware.
+Named Entities: [Google LLC (organization), American (location)]
+27. Leonardo da Vinci was an Italian polymath of the Renaissance whose areas of interest included invention, drawing, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.
+Named Entities: [Leonardo da Vinci (person), Italian (location), Renaissance (location)]
+28. The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Named Entities: [Grand Canyon (location), Colorado River (location), Arizona (location), United States (location)]
+29. Facebook, Inc. is an American social media and technology company based in Menlo Park, California.
+Named Entities: [Facebook, Inc. (organization), American (location), Menlo Park (location), California (location)]
+30. Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.
+Named Entities: [Marie Curie (person), Polish (location), French (location)]
+31. The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Yamuna River (location), Indian (location), Agra (location)]
+32. The National Aeronautics and Space Administration (NASA) is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and aerospace research.
+Named Entities: [National Aeronautics and Space Administration (organization), NASA (organization), U.S. (location)]
+33. Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and stage designer who spent most of his adult life in France.
+Named Entities: [Pablo Picasso (person), Spanish (location), France (location)]
+34. The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers (1,400 miles) over an area of approximately 344,400 square kilometers (133,000 square miles).
+Named Entities: [Great Barrier Reef (location)]
+35. The Walt Disney Company, commonly known as Disney, is an American diversified multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California.
+Named Entities: [Walt Disney Company (organization), Disney (organization), American (location), Burbank (location), California (location)]
+36. Michelangelo was an Italian sculptor, painter, architect, and poet of the High Renaissance born in the Republic of Florence, and who exerted an unparalleled influence on the development of Western art.
+Named Entities: [Michelangelo (person), Italian (location), High Renaissance (location), Republic of Florence (location), Western (location)]
+37. The Galápagos Islands are a volcanic archipelago in the Pacific Ocean, around 1,000 kilometers (620 miles) west of the Ecuadorian mainland.
+Named Entities: [Galápagos Islands (location), Pacific Ocean (location), Ecuadorian (location)]
+38. Buckingham Palace is the residence and administrative headquarters of the monarch of the United Kingdom.
+Named Entities: [Buckingham Palace (location), United Kingdom (location)]
+39. Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the development of the modern alternating current electricity supply system.
+Named Entities: [Nikola Tesla (person), Serbian-American (location)]
+40. The Hollywood Walk of Fame comprises more than 2,690 five-pointed terrazzo and brass stars embedded in the sidewalks along 15 blocks of Hollywood Boulevard and three blocks of Vine Street in Hollywood, California.
+Named Entities: [Hollywood Walk of Fame (location), Hollywood Boulevard (location), Vine Street (location

@@ -1,0 +1,8 @@
+Query: "Can I make a reservation at [Chope] for tomorrow night at 7 PM"
+Named Entities: [Chope (Restaurant Name), tomorrow night at 7 PM (Hours)]
+
+Query: "I'm in the mood for some Italian cuisine, is there a good place in the [Surrounding area]"
+Named Entities: [Italian (Cuisine), Surrounding area (Location)]
+
+Query: "I'm craving for some pizza, can you recommend me a popular spot like [The Pizza Place]"
+Named Entities: [pizza (Dish), popular (Rating), The Pizza Place (Restaurant Name)]

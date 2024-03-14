@@ -1,0 +1,8 @@
+1. "What Italian restaurants are open for dinner tonight?"
+   Named Entities: [Italian (Cuisine), open for dinner tonight (Hours)]
+
+2. "I'm looking for a budget-friendly place with outdoor seating"
+   Named Entities: [budget-friendly (Price), outdoor seating (Amenity)]
+
+3. "Can you recommend a highly-rated sushi place nearby?"
+   Named Entities: [highly-rated (Rating), sushi (Cuisine), nearby (Location)]

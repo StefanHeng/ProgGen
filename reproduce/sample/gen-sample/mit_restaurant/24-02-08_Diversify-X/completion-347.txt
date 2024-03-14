@@ -1,0 +1,8 @@
+Query: "where can I find a buffet restaurant with a good selection of seafood dishes"
+Named Entities: [buffet (Amenity), seafood dishes (Cuisine)]
+
+Query: "what are some buffet options with high ratings in the downtown area"
+Named Entities: [buffet (Amenity), high ratings (Rating), downtown area (Location)]
+
+Query: "I'm craving some Chinese buffet, do you know any places open late tonight"
+Named Entities: [Chinese (Cuisine), buffet (Amenity), open late tonight (Hours)]

@@ -1,0 +1,8 @@
+1. Text Span: "buffet"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "vegetarian"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "variety of options"
+Label: (C). Wrong Type. The correct entity type is Dish.

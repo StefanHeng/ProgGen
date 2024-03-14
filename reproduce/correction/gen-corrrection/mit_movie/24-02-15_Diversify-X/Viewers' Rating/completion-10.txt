@@ -1,0 +1,8 @@
+1. Text Span: "highest rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "high Viewers' Rating"
+Label: (B). The span contains a named viewers' rating entity but the span boundary is not precise. The correct span boundary is "high Viewers' Rating"
+
+3. Text Span: "fast and furious style"
+Label: (C). Wrong Type. The correct entity type is Genre.

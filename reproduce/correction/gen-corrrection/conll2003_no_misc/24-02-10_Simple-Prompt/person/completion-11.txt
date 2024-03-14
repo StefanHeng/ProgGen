@@ -1,0 +1,8 @@
+1. Text Span: "Harry Styles"
+Label: (A)
+
+2. Text Span: "President Obama"
+Label: (B). The correct span boundary is "Obama".
+
+3. Text Span: "Gordon Ramsay"
+Label: (A)

@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for the new romantic comedy directed by Nancy Meyers?"
+   Named Entities: [romantic comedy (Genre), Nancy Meyers (Director)]
+
+2. Query: "I'm looking for a movie with a great soundtrack. Can you recommend a film with a memorable song performed by Whitney Houston?"
+   Named Entities: [great soundtrack (Review), Whitney Houston (Actor), memorable song (Song)]
+
+3. Query: "I heard there's a new historical drama featuring Meryl Streep coming out soon. Can I see a teaser for it?"
+   Named Entities: [historical drama (Genre), Meryl Streep (Actor), teaser (Trailer)]

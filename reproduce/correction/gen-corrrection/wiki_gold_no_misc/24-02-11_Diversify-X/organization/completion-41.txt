@@ -1,0 +1,11 @@
+1. Sentence: "Angela Merkel served as the Chancellor of Germany from 2005 to 2021, making her the longest-serving chancellor in the history of the {{Federal Republic}}."
+Text Span: "Federal Republic"
+Label: (C). Wrong Type. The correct entity type is location.
+
+2. Sentence: "The first human-made object to reach space was the {{German}} V-2 rocket, on a sub-orbital flight launched by the Germans in 1944."
+Text Span: "German"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "{{The Beatles}}, an iconic British rock band, revolutionized the music industry with their innovative sound and timeless hits."
+Text Span: "The Beatles"
+Label: (A). Correct Entity Annotation.

@@ -1,0 +1,8 @@
+1. Query: "what are some good movies from 2008 directed by Oliver Stone"
+Named Entities: [2008 (Year), Oliver Stone (Director)]
+
+2. Query: "are there any movies starring Zooey Deschanel that are rated R"
+Named Entities: [Zooey Deschanel (Actor), R (MPAA Rating)]
+
+3. Query: "can you recommend a road movie with a thrilling plot"
+Named Entities: [road (Genre), thrilling (Plot)]

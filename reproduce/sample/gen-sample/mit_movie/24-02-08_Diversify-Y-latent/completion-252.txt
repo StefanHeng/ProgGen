@@ -1,0 +1,8 @@
+Query: "What are some movies with on-location shooting"
+Named Entities: [on-location shooting (Plot)]
+
+Query: "Can you recommend a good 3D and IMAX effects critique movie"
+Named Entities: [3D and IMAX effects critique (Review)]
+
+Query: "How many movies received a rating of 8 out of 10 in the past year"
+Named Entities: [8 out of 10 (Viewers' Rating), past year (Year)]

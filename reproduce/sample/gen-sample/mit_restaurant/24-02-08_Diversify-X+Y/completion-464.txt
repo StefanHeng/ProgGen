@@ -1,0 +1,8 @@
+1. "Can you recommend a wallet-friendly fine dining restaurant nearby?"
+Named Entities: [wallet-friendly (Price), fine dining (Cuisine)]
+
+2. "What is the highest-rated fine dining restaurant with a dog-friendly patio in the area?"
+Named Entities: [highest-rated (Rating), fine dining (Cuisine), dog-friendly patio (Amenity)]
+
+3. "I'm looking for a fine dining restaurant with a dog-friendly patio that won't break the bank. Any suggestions?"
+Named Entities: [fine dining (Cuisine), dog-friendly patio (Amenity), won't break the bank (Price)]

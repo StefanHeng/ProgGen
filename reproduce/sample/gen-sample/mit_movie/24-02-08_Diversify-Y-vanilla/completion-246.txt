@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie directed by Woody Allen with Mark Ruffalo in it?"
+Named Entities: [Woody Allen (Director), Mark Ruffalo (Actor)]
+
+2. "Can you give me a brief plot summary of the movie Harry Potter and the Philosopher's Stone?"
+Named Entities: [Harry Potter and the Philosopher's Stone (Title), plot summary (Plot)]
+
+3. "Show me a trailer of a drama movie from the year when Harry Potter and the Philosopher's Stone was released."
+Named Entities: [drama (Genre), Harry Potter and the Philosopher's Stone (Title)]

@@ -1,0 +1,8 @@
+1. The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers.
+Named Entities: [Great Barrier Reef (location)]
+
+2. The Chrysler Building is an Art Deco–style skyscraper located in the Turtle Bay neighborhood on the east side of Manhattan in New York City.
+Named Entities: [Chrysler Building (location), Turtle Bay (location), Manhattan (location), New York City (location)]
+
+3. The World Health Organization declared that the spread of the COVID-19 virus constitutes a public health emergency of international concern.
+Named Entities: [World Health Organization (organization), COVID-19 (location)]

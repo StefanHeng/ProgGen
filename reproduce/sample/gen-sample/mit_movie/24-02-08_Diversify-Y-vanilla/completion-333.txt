@@ -1,0 +1,8 @@
+1. Query: "What was the top-rated movie of 2010 starring Glinda the Good Witch?"
+Named Entities: [2010 (Year), Glinda the Good Witch (Character), top-rated (Viewers' Rating)]
+
+2. Query: "Is there a movie from the 90s with a song similar to 'A Whole New World'?"
+Named Entities: [90s (Year), A Whole New World (Song)]
+
+3. Query: "Could you recommend a family-friendly movie featuring Perry the Platypus that is rated TV-Y7?"
+Named Entities: [Perry the Platypus (Character), family-friendly (Genre), TV-Y7 (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. "I'm looking for a place for a fancy dinner with a budget of $60 per person, preferably with a gourmet buffet."
+Named Entities: [fancy (Amenity), $60 (Price), gourmet buffet (Cuisine)]
+
+2. "Can you recommend a restaurant with a rating of at least 4 stars and a location near the waterfront?"
+Named Entities: [at least 4 stars (Rating), waterfront (Location)]
+
+3. "What are the operating hours for the Italian restaurant in the downtown area?"
+Named Entities: [Italian (Cuisine), downtown area (Location), operating hours (Hours)]

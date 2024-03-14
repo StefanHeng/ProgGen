@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the reviews for the movie Inception?"
+   Named Entities: [Inception (Title), reviews (Review)]
+
+2. Query: "I'm not sure if the movie The Godfather is as good as they say. Can you provide its viewers' rating?"
+   Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "I don't trust the director of the movie Avatar. What can you tell me about James Cameron's work on it?"
+   Named Entities: [Avatar (Title), James Cameron (Director)]

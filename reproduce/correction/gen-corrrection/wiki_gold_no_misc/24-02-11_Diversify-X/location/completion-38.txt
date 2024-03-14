@@ -1,0 +1,8 @@
+1. Text Span: "modern dance"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Venus"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "51 Pegasi b"
+Label: (A). Correct Entity Annotation.

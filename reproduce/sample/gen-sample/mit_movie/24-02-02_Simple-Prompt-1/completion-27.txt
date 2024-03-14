@@ -1,0 +1,149 @@
+1. "What is the best-rated movie of all time?"
+Named Entities: [best-rated (Viewers' Rating)]
+
+2. "Can you recommend a great thriller from the 90s?"
+Named Entities: [thriller (Genre), 90s (Year)]
+
+3. "Who directed the movie Inception?"
+Named Entities: [Inception (Title), directed (Director)]
+
+4. "Can you show me the trailer for the latest Marvel movie?"
+Named Entities: [latest (Year), Marvel (Genre), trailer (Trailer)]
+
+5. "What is the song from the movie Titanic?"
+Named Entities: [Titanic (Title), the song (Song)]
+
+6. "Can you find a review for the film The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), review (Review)]
+
+7. "I want to watch a movie with Leonardo DiCaprio. Any suggestions?"
+Named Entities: [Leonardo DiCaprio (Actor)]
+
+8. "What is the plot of the movie Fight Club?"
+Named Entities: [Fight Club (Title), plot (Plot)]
+
+9. "Recommend me a PG-13 rated comedy from the 2000s."
+Named Entities: [PG-13 (MPAA Rating), comedy (Genre), 2000s (Year)]
+
+10. "Can you tell me about the character Rey from Star Wars?"
+Named Entities: [Rey (Character), Star Wars (Title)]
+
+11. "Who stars in the film Jurassic Park?"
+Named Entities: [Jurassic Park (Title)]
+
+12. "What is the viewers' rating for The Godfather?"
+Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+13. "I'm looking for an action movie from the 80s."
+Named Entities: [action (Genre), 80s (Year)]
+
+14. "Which movie did Quentin Tarantino direct in 1994?"
+Named Entities: [Quentin Tarantino (Director), 1994 (Year)]
+
+15. "Can you show me the trailer for the latest James Bond film?"
+Named Entities: [latest (Year), James Bond (Character), trailer (Trailer)]
+
+16. "What is the name of the song from the movie The Lion King?"
+Named Entities: [The Lion King (Title), the song (Song)]
+
+17. "Can you find a review for the film The Matrix?"
+Named Entities: [The Matrix (Title), review (Review)]
+
+18. "I want to watch a movie with Tom Hanks. Any suggestions?"
+Named Entities: [Tom Hanks (Actor)]
+
+19. "What is the plot of the movie Forrest Gump?"
+Named Entities: [Forrest Gump (Title), plot (Plot)] 
+
+20. "Recommend me a G-rated animation from the 2010s."
+Named Entities: [G-rated (MPAA Rating), animation (Genre), 2010s (Year)]
+
+21. "Can you tell me about the character Harry Potter from the Harry Potter series?"
+Named Entities: [Harry Potter (Character), Harry Potter (Title)]
+
+22. "Who stars in the film Iron Man?"
+Named Entities: [Iron Man (Title)]
+
+23. "What is the viewers' rating for The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Viewers' Rating)]
+
+24. "I'm looking for a romantic movie from the 90s."
+Named Entities: [romantic (Genre), 90s (Year)]
+
+25. "Which movie did Steven Spielberg direct in 1982?"
+Named Entities: [Steven Spielberg (Director), 1982 (Year)]
+
+26. "Can you show me the trailer for the latest Star Wars film?"
+Named Entities: [latest (Year), Star Wars (Title), trailer (Trailer)]
+
+27. "What is the name of the song from the movie Frozen?"
+Named Entities: [Frozen (Title), the song (Song)]
+
+28. "Can you find a review for the film Inception?"
+Named Entities: [Inception (Title), review (Review)]
+
+29. "I want to watch a movie with Sandra Bullock. Any suggestions?"
+Named Entities: [Sandra Bullock (Actor)]
+
+30. "What is the plot of the movie Pulp Fiction?"
+Named Entities: [Pulp Fiction (Title), plot (Plot)]
+
+31. "Recommend me a R-rated horror film from the 2000s."
+Named Entities: [R-rated (MPAA Rating), horror (Genre), 2000s (Year)]
+
+32. "Can you tell me about the character Batman from The Dark Knight?"
+Named Entities: [Batman (Character), The Dark Knight (Title)]
+
+33. "Who stars in the film Avatar?"
+Named Entities: [Avatar (Title)]
+
+34. "What is the viewers' rating for Inception?"
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]
+
+35. "I'm looking for a fantasy movie from the 80s."
+Named Entities: [fantasy (Genre), 80s (Year)]
+
+36. "Which movie did Christopher Nolan direct in 2010?"
+Named Entities: [Christopher Nolan (Director), 2010 (Year)]
+
+37. "Can you show me the trailer for the latest Spider-Man film?"
+Named Entities: [latest (Year), Spider-Man (Character), trailer (Trailer)]
+
+38. "What is the name of the song from the movie The Sound of Music?"
+Named Entities: [The Sound of Music (Title), the song (Song)]
+
+39. "Can you find a review for the film The Dark Knight?"
+Named Entities: [The Dark Knight (Title), review (Review)]
+
+40. "I want to watch a movie with Meryl Streep. Any suggestions?"
+Named Entities: [Meryl Streep (Actor)]
+
+41. "What is the plot of the movie The Silence of the Lambs?"
+Named Entities: [The Silence of the Lambs (Title), plot (Plot)]
+
+42. "Recommend me a PG-13 rated science fiction film from the 2010s."
+Named Entities: [PG-13 (MPAA Rating), science fiction (Genre), 2010s (Year)]
+
+43. "Can you tell me about the character Superman from Man of Steel?"
+Named Entities: [Superman (Character), Man of Steel (Title)]
+
+44. "Who stars in the film The Avengers?"
+Named Entities: [The Avengers (Title)]
+
+45. "What is the viewers' rating for The Matrix?"
+Named Entities: [The Matrix (Title), viewers' rating (Viewers' Rating)]
+
+46. "I'm looking for a comedy movie from the 90s."
+Named Entities: [comedy (Genre), 90s (Year)]
+
+47. "Can you show me the trailer for the latest Harry Potter film?"
+Named Entities: [latest (Year), Harry Potter (Title), trailer (Trailer)]
+
+48. "What is the name of the song from the movie Grease?"
+Named Entities: [Grease (Title), the song (Song)]
+
+49. "Can you find a review for the film The Lord of the Rings: The Fellowship of the Ring?"
+Named Entities: [The Lord of the Rings: The Fellowship of the Ring (Title), review (Review)]
+
+50. "I want to watch a movie with Johnny Depp. Any suggestions?"
+Named Entities: [Johnny Depp (Actor)]

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a breakfast spot with outdoor seating?"
+Named Entities: [breakfast (Cuisine), outdoor seating (Amenity)]
+
+2. Query: "what's the best place for pancakes and waffles in town"
+Named Entities: [pancakes (Dish), waffles (Dish)]
+
+3. Query: "I need a cheap breakfast joint with a high customer rating"
+Named Entities: [cheap (Price), breakfast (Cuisine), high customer rating (Rating)]

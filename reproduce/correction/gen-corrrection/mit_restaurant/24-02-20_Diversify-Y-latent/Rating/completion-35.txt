@@ -1,0 +1,8 @@
+1. Text Span: "high"
+Label: (A). The span is a named entity of type rating
+
+2. Text Span: "The 50 Best Discovery rating"
+Label: (C). The span is a named entity but the category is not rating. Entity Type: other
+
+3. Text Span: "high"
+Label: (A). The span is a named entity of type rating

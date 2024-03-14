@@ -1,0 +1,8 @@
+Query: "Can you recommend any movies similar to Beauty and the Beast?"
+Named Entities: [Beauty and the Beast (Title)]
+
+Query: "Has Samuel L. Jackson ever won an award at the Sundance Film Festival?"
+Named Entities: [Samuel L. Jackson (Actor), Sundance Film Festival (Event)]
+
+Query: "Can you suggest a good family drama movie with a rating of X or higher?"
+Named Entities: [family drama (Genre), X (Viewers' Rating)]

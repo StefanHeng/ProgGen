@@ -1,0 +1,8 @@
+1. Spoken Movie Query: "Can you recommend a movie with a K-pop soundtrack that features Lana Del Rey's music?"
+   Named Entities: [K-pop (Genre), Lana Del Rey (Song)]
+
+2. Spoken Movie Query: "Is there a movie directed by Ben Affleck that has a soundtrack with a rap song or features a character like Rapunzel?"
+   Named Entities: [Ben Affleck (Director), rap (Song), Rapunzel (Character)]
+
+3. Spoken Movie Query: "I'm looking for a film with a musical genre that includes songs by Lana Del Rey - do you have any recommendations?"
+   Named Entities: [musical (Genre), Lana Del Rey (Song)]

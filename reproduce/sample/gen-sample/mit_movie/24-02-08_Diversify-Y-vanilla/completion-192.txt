@@ -1,0 +1,8 @@
+1. "What genre is the movie Let It Go classified as"
+Named Entities: [Let It Go (Title)]
+
+2. "Can you recommend any films with a B rating that Charlize Theron has starred in"
+Named Entities: [B rating (MPAA Rating), Charlize Theron (Actor)]
+
+3. "Who directed the movie with the song We Will Rock You"
+Named Entities: [We Will Rock You (Song), Sam Mendes (Director)]

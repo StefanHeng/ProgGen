@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a low-cost dinner place in Vancouver?"
+   Named Entities: [low-cost (Price), dinner (Amenity), Vancouver (Location)]
+
+2. Query: "I'm looking for a budget-friendly evening meal spot in Vancouver"
+   Named Entities: [budget-friendly (Price), evening meal (Amenity), Vancouver (Location)]
+
+3. Query: "Where can I find a cheap dinner option in Vancouver for tonight?"
+   Named Entities: [cheap (Price), dinner (Amenity), Vancouver (Location)]

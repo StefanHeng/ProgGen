@@ -1,0 +1,8 @@
+1. "Recommend a restaurant in Mexico City with a diverse menu for under 20 dollars"
+Named Entities: [Mexico City (Location), diverse menu (Amenity), under 20 dollars (Price)]
+
+2. "I'm in the mood for lobster, where is the nearest seafood restaurant with good ratings?"
+Named Entities: [lobster (Dish), nearest (Location), seafood restaurant (Cuisine), good ratings (Rating)]
+
+3. "What time does TGI Fridays close on Saturdays?"
+Named Entities: [TGI Fridays (Restaurant Name), close on Saturdays (Hours)]

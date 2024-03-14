@@ -1,0 +1,140 @@
+Sentence: "President Biden announces new infrastructure plan."
+Named Entities: [President Biden (person)]
+
+Sentence: "Apple Inc. unveils latest iPhone model."
+Named Entities: [Apple Inc. (organization)]
+
+Sentence: "Tropical storm makes landfall in Florida."
+Named Entities: [Florida (location)]
+
+Sentence: "Elon Musk's SpaceX launches satellite into orbit."
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+Sentence: "New study shows link between coffee consumption and reduced risk of heart disease."
+Named Entities: []
+
+Sentence: "United Nations issues statement on human rights violations in Myanmar."
+Named Entities: [United Nations (organization), Myanmar (location)]
+
+Sentence: "Simone Biles wins gold in gymnastics competition."
+Named Entities: [Simone Biles (person)]
+
+Sentence: "Google announces partnership with local schools to promote computer science education."
+Named Entities: [Google (organization)]
+
+Sentence: "Former President Obama visits Kenya for charity work."
+Named Entities: [President Obama (person), Kenya (location)]
+
+Sentence: "Wildfires continue to ravage California forests."
+Named Entities: [California (location)]
+
+Sentence: "Amazon to open new distribution center in Texas."
+Named Entities: [Amazon (organization), Texas (location)]
+
+Sentence: "New study finds potential link between obesity and increased risk of certain cancers."
+Named Entities: []
+
+Sentence: "Beyoncé releases new album."
+Named Entities: [Beyoncé (person)]
+
+Sentence: "European Union imposes sanctions on Russia for human rights abuses."
+Named Entities: [European Union (organization), Russia (location)]
+
+Sentence: "New York City to implement new public transportation system."
+Named Entities: [New York City (location)]
+
+Sentence: "Greta Thunberg speaks at climate change conference in Switzerland."
+Named Entities: [Greta Thunberg (person), Switzerland (location)]
+
+Sentence: "Toyota announces recall of over 1 million vehicles."
+Named Entities: [Toyota (organization)]
+
+Sentence: "Hurricane hits coastal town in Louisiana."
+Named Entities: [Louisiana (location)]
+
+Sentence: "Researchers discover new species of dinosaur in South America."
+Named Entities: [South America (location)]
+
+Sentence: "Taylor Swift performs at sold-out concert in London."
+Named Entities: [Taylor Swift (person), London (location)]
+
+Sentence: "Microsoft CEO steps down from position."
+Named Entities: [Microsoft (organization)]
+
+Sentence: "Australia experiences record-breaking heatwave."
+Named Entities: [Australia (location)]
+
+Sentence: "LeBron James signs multi-million dollar contract with new team."
+Named Entities: [LeBron James (person)]
+
+Sentence: "Alibaba founder faces investigation for alleged financial misconduct."
+Named Entities: [Alibaba (organization)]
+
+Sentence: "Mount Everest climbers stranded in severe snowstorm."
+Named Entities: [Mount Everest (location)]
+
+Sentence: "Taylor Jenkins named head coach of NBA team."
+Named Entities: [Taylor Jenkins (person), NBA (organization)]
+
+Sentence: "New study suggests link between social media use and increased anxiety."
+Named Entities: []
+
+Sentence: "Thousands protest for democracy in Hong Kong."
+Named Entities: [Hong Kong (location)]
+
+Sentence: "Warren Buffett donates $1 billion to charity."
+Named Entities: [Warren Buffett (person)]
+
+Sentence: "Ford to invest in new electric vehicle technology."
+Named Entities: [Ford (organization)]
+
+Sentence: "Severe drought threatens crops in Midwest."
+Named Entities: [Midwest (location)]
+
+Sentence: "Jennifer Lawrence to star in upcoming film."
+Named Entities: [Jennifer Lawrence (person)]
+
+Sentence: "World Health Organization issues warning about new strain of flu virus."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "New York Yankees win World Series."
+Named Entities: [New York Yankees (organization)]
+
+Sentence: "Duchess of Cambridge visits children's hospital in London."
+Named Entities: [Duchess of Cambridge (person), London (location)]
+
+Sentence: "Uber to launch new food delivery service."
+Named Entities: [Uber (organization)]
+
+Sentence: "Scientists confirm presence of water on Mars."
+Named Entities: [Mars (location)]
+
+Sentence: "Singer Rihanna starts new fashion line."
+Named Entities: [Rihanna (person)]
+
+Sentence: "United Airlines to add new routes to Europe."
+Named Entities: [United Airlines (organization), Europe (location)]
+
+Sentence: "FBI warns of potential cyberattack on government agencies."
+Named Entities: [FBI (organization)]
+
+Sentence: "Italian restaurant chain announces expansion to Asia."
+Named Entities: [Asia (location)]
+
+Sentence: "New study shows link between air pollution and increased risk of respiratory illnesses."
+Named Entities: []
+
+Sentence: "Prince Harry and Meghan Markle visit Africa for charity work."
+Named Entities: [Prince Harry (person), Meghan Markle (person), Africa (location)]
+
+Sentence: "Facebook launches new initiative to combat misinformation."
+Named Entities: [Facebook (organization)]
+
+Sentence: "Iran announces plan to increase uranium enrichment."
+Named Entities: [Iran (location)]
+
+Sentence: "Nobel Peace Prize awarded to humanitarian organization for work in conflict zones."
+Named Entities: [Nobel Peace Prize (organization)]
+
+Sentence: "Severe flooding hits coastal town in Japan."
+Named Entities: [Japan (location)]

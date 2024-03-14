@@ -1,0 +1,8 @@
+1. Query: "What movie directed by Yorgos Lanthimos has a 10% approval rating and stars Emma Stone in a rescue mission plot?"
+Named Entities: [Yorgos Lanthimos (Director), 10% approval rating (Viewers' Rating), Emma Stone (Actor), rescue mission (Plot)]
+
+2. Query: "Can you recommend a film with a song performed by Emma Stone and is from the year 2016?"
+Named Entities: [Emma Stone (Actor), 2016 (Year)]
+
+3. Query: "Show me a movie with a plot similar to a rescue mission and directed by Yorgos Lanthimos."
+Named Entities: [rescue mission (Plot), Yorgos Lanthimos (Director)]

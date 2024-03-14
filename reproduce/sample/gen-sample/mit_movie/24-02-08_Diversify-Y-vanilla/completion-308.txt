@@ -1,0 +1,8 @@
+Query: "could you find a movie directed by jonathan demme featuring clarice starling"
+Named Entities: [jonathan demme (Director), clarice starling (Character)]
+
+Query: "do you have the international trailer for the latest action movie with a lost artifact"
+Named Entities: [international trailer (Trailer), lost artifact (Plot)]
+
+Query: "what is the genre of the film American pie that features the song sweet child o’ mine"
+Named Entities: [American pie (Title), sweet child o’ mine (Song)]

@@ -1,0 +1,10 @@
+
+
+Query: "Can you tell me the director of the movie Moonlight?"
+Named Entities: [Moonlight (Title)]
+
+Query: "I'm looking for a film with Emma Stone and Ryan Gosling in it, can you recommend something?"
+Named Entities: [Emma Stone (Actor), Ryan Gosling (Actor)]
+
+Query: "What genre of movies does Taika Waititi typically direct?"
+Named Entities: [Taika Waititi (Director)]

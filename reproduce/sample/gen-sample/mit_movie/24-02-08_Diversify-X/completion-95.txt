@@ -1,0 +1,8 @@
+1. Query: "What's the story behind the movie Die Hard?"
+   Named Entities: [Die Hard (Title), story (Plot summary)]
+
+2. Query: "Who directed the sci-fi movie The Matrix and when did it come out?"
+   Named Entities: [The Matrix (Title), sci-fi (Genre), Wachowski Brothers (Director), come out (Year)]
+
+3. Query: "Can you recommend a good thriller from the 90s?"
+   Named Entities: [thriller (Genre), 90s (Year), recommend (Viewers' Rating)]

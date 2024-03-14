@@ -1,0 +1,8 @@
+1. "What restaurants in the area serve a good brunch menu with bottomless mimosas?"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+2. "I'm craving some eggs benedict for brunch, where can I find a place that serves it?"
+Named Entities: [eggs benedict (Dish), brunch (Amenity)]
+
+3. "Do you know of any brunch spots with outdoor seating and a view of the water?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), view of the water (Amenity)]

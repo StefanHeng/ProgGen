@@ -1,0 +1,8 @@
+Query: "I want to have a nice breakfast nearby"
+Named Entities: [nice (Rating), breakfast (Amenity), nearby (Location)]
+
+Query: "do you know any place serving delicious pancakes for breakfast?"
+Named Entities: [delicious (Rating), pancakes (Dish), breakfast (Amenity)]
+
+Query: "which restaurant in this area offers breakfast for less than $15?"
+Named Entities: [less than $15 (Price), breakfast (Amenity), this area (Location) ]

@@ -1,0 +1,8 @@
+Query: "What are the hours of operation for the Italian restaurant near [Coordinates]?"
+Named Entities: [Italian (Cuisine), hours of operation (Hours), [Coordinates] (Location)]
+
+Query: "I'm in the mood for sushi, where can I find a highly-rated sushi place?"
+Named Entities: [sushi (Cuisine), highly-rated (Rating)]
+
+Query: "Can you recommend a restaurant with outdoor seating and a diverse menu within walking distance?"
+Named Entities: [outdoor seating (Amenity), diverse menu (Amenity), walking distance (Location)]

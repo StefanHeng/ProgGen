@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with authentic Sri Lankan cuisine?"
+Named Entities: [Sri Lankan (Cuisine)]
+
+2. "I'm craving some Sri Lankan food, where is the nearest place?"
+Named Entities: [Sri Lankan (Cuisine), nearest (Location)]
+
+3. "What are the top-rated Sri Lankan restaurants in the area?"
+Named Entities: [Sri Lankan (Cuisine), top-rated (Rating)]

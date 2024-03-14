@@ -1,0 +1,11 @@
+1. "I'm in the mood for some fast food, where can I find a Whataburger with order kiosks?"
+
+Named Entities: [fast food (Cuisine), Whataburger (Restaurant Name), Order kiosks (Amenity)]
+
+2. "Do you know any fast food places with happy hour specials nearby?"
+
+Named Entities: [fast food (Cuisine), happy hour specials (Amenity)]
+
+3. "I want to grab some fast food, can you show me the closest place with order kiosks?"
+
+Named Entities: [fast food (Cuisine), closest (Location), order kiosks (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "affordable prices"
+Label: (C). Wrong Type. The correct entity type is Price.
+
+2. Text Span: "under 50 dollars"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Bargain"
+Label: (C). Wrong Type. The correct entity type is Amenity.

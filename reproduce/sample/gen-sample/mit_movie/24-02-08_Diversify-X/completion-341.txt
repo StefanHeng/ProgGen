@@ -1,0 +1,8 @@
+1. Query: "Can I buy tickets for the new James Bond movie today?"
+Named Entities: [James Bond (Character), tickets (Viewers' Rating), today (Year)]
+
+2. Query: "What are the showtimes for the latest Tarantino film?"
+Named Entities: [Tarantino (Director), showtimes (Review), latest (Year)]
+
+3. Query: "I'm looking for a good action movie to watch this weekend. Any recommendations?"
+Named Entities: [action movie (Genre), weekend (Year)]

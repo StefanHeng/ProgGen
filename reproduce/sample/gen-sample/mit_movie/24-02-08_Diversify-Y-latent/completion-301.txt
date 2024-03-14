@@ -1,0 +1,8 @@
+1. Query: "What is the closing credits song in the movie Coco?"
+   Named Entities: [closing credits song (Song), Coco (Title)]
+
+2. Query: "Who is the director of the movie with Emily Blunt and Rian Johnson?"
+   Named Entities: [Emily Blunt (Actor), Rian Johnson (Director)]
+
+3. Query: "Are there any movies that combine the genres of metal and harmonious music, and are emotionally resonant?"
+   Named Entities: [metal (Genre), harmonious music (Genre), emotionally resonant (Viewers' Rating)]

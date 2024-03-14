@@ -1,0 +1,8 @@
+Query: "Can you recommend a fast food restaurant nearby that offers dine-in service?"
+Named Entities: [fast food (Cuisine), dine-in (Amenity), nearby (Location)]
+
+Query: "What are the hours of operation for the nearest dine-in fast food restaurant?"
+Named Entities: [dine-in (Amenity), fast food (Cuisine), nearest (Location), hours of operation (Hours)]
+
+Query: "I'm craving some quick service and need to find a fast food restaurant with dine-in options"
+Named Entities: [quick service (Amenity), fast food (Cuisine), dine-in (Amenity)]

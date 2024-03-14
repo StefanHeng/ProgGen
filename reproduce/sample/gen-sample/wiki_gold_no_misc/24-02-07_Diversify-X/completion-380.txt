@@ -1,0 +1,8 @@
+Sentence: "Language is a system that consists of the development, acquisition, maintenance and use of complex systems of communication."
+Named Entities: []
+
+Sentence: "Some of the most widely spoken languages in the world include Mandarin Chinese, English, Hindi, Spanish, and Arabic."
+Named Entities: [Mandarin Chinese (language), English (language), Hindi (language), Spanish (language), Arabic (language)]
+
+Sentence: "The study of language is known as linguistics, and includes the analysis of language form, language meaning, and language in context."
+Named Entities: [linguistics (organization)]

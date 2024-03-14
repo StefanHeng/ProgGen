@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of the movie Inception?"
+   Named Entities: [Inception (Title), plot (Plot)]
+
+2. Query: "What are some highly-rated science fiction movies from the 1990s?"
+   Named Entities: [science fiction (Genre), 1990s (Year), highly-rated (Viewers' Rating)]
+
+3. Query: "Who are the main characters in the film The Shawshank Redemption?"
+   Named Entities: [The Shawshank Redemption (Title), main characters (Character)]

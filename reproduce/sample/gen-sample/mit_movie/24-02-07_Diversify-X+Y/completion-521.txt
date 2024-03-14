@@ -1,0 +1,8 @@
+1. "Could you provide me with the showtimes and ticket availability for the movie Unforgettable directed by Clint Eastwood?"
+Named Entities: [showtimes and ticket availability (Plot), Unforgettable (Title), Clint Eastwood (Director)]
+
+2. "Is the movie The Big Lebowski available in an unrated version and if so, where can I find showtimes and tickets?"
+Named Entities: [unrated (MPAA Rating), The Big Lebowski (Title)]
+
+3. "I'm looking for the showtimes and ticket availability for the movie Braveheart, which is considered a classic in the film industry."
+Named Entities: [showtimes and ticket availability (Plot), Braveheart (Title)]

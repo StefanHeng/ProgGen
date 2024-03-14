@@ -1,0 +1,8 @@
+1. Text Span: "Super Bowl"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Edinburgh Fringe Festival"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Police"
+Label: (C). The span is a named entity but the category is not organization. Correct entity type: organization

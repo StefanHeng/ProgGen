@@ -1,0 +1,8 @@
+1. Query: "I'm craving some spicy Kimchi, where can I find a Korean restaurant nearby?"
+Named Entities: [spicy (Amenity), Kimchi (Dish), Korean (Cuisine), nearby (Location)]
+
+2. Query: "What's the highest rated seafood restaurant in the area?"
+Named Entities: [highest rated (Rating), seafood (Cuisine), area (Location)]
+
+3. Query: "Do you know of any 24-hour diners that serve Kimchi dishes?"
+Named Entities: [24-hour (Hours), diners (Amenity), Kimchi (Dish)]

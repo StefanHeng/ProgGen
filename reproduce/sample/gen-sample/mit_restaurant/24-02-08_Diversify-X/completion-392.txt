@@ -1,0 +1,8 @@
+Query: "I'm craving some burgers, where can I find a good fast food restaurant?"
+Named Entities: [burgers (Dish), fast food (Cuisine)]
+
+Query: "what are the hours of operation for In-N-Out Burger?"
+Named Entities: [In-N-Out Burger (Restaurant Name), hours of operation (Hours)]
+
+Query: "show me the highest rated fast food joint near me"
+Named Entities: [highest rated (Rating), fast food (Cuisine), near me (Location)]

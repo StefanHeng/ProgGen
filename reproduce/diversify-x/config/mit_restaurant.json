@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "dataset_name": "mit-restaurant",
+        "diverse_context": true,
+        "diverse_entity": false,
+        "attributes": [
+            "meal-category",
+            "demographic",
+            "ambiance",
+            "price",
+            "dietary",
+            "special",
+            "service"
+        ]
+    },
+    "attribute2values": {
+        "meal-category": [
+            "fine dining",
+            "buffet",
+            "late-night dining",
+            "dinner",
+            "caf\u00e9",
+            "fast food",
+            "breakfast",
+            "lunch",
+            "brunch",
+            "food truck"
+        ],
+        "demographic": [
+            "25-year-old female student",
+            "35-year-old male construction worker",
+            "40-year-old female accountant",
+            "55-year-old male retiree",
+            "30-year-old female stay-at-home parent",
+            "45-year-old male business executive",
+            "20-year-old female retail worker",
+            "50-year-old male doctor",
+            "28-year-old female software developer",
+            "65-year-old male teacher",
+            "Young adult, female, student",
+            "Middle-aged, male, accountant",
+            "Senior citizen, female, retired",
+            "30s, male, doctor",
+            "Teenager, female, high school student",
+            "40s, female, lawyer",
+            "20s, male, programmer",
+            "50s, male, business owner",
+            "25, female, nurse",
+            "35, male, teacher"
+        ],
+        "ambiance": [
+            "Casual",
+            "Outdoor seating",
+            "Family-friendly",
+            "Romantic",
+            "Formal",
+            "Trendy",
+            "Rustic",
+            "Intimate",
+            "Fine dining",
+            "Lounge/Bar",
+            "Fast-casual",
+            "Waterfront",
+            "Urban/Chic",
+            "Cozy and intimate",
+            "Upscale and elegant",
+            "Hip and trendy",
+            "Rustic and charming",
+            "Lively and energetic",
+            "Quiet and peaceful",
+            "Beachfront or waterfront",
+            "Quirky and eccentric"
+        ],
+        "price": [
+            "Affordable",
+            "Budget-friendly",
+            "Mid-range",
+            "Upscale",
+            "Expensive"
+        ],
+        "dietary": [
+            "Vegetarian",
+            "Vegan",
+            "Gluten-free",
+            "Dairy-free",
+            "Nut-free",
+            "Paleo",
+            "Low-carb",
+            "Pescatarian",
+            "Kosher",
+            "Halal"
+        ],
+        "special": [
+            "Chef's specials",
+            "Private Dining",
+            "Tasting Menus",
+            "live music",
+            "waterfront views",
+            "happy hours",
+            "special discounts",
+            "outdoor seating"
+        ],
+        "service": [
+            "takeout",
+            "delivery",
+            "dine-in",
+            "drive-thru"
+        ]
+    }
+}

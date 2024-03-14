@@ -1,0 +1,8 @@
+1. Text Span: "You've Got a Friend in Me"
+Label: (A). The span is a named entity of type song
+
+2. Text Span: "song"
+Label: (D). Not a Named Entity
+
+3. Text Span: "memorable theme song"
+Label: (C). Wrong Type. The correct entity type is other.

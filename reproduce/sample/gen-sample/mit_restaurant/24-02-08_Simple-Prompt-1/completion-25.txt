@@ -1,0 +1,56 @@
+Query: "show me Italian restaurants near me"
+Named Entities: [Italian (Cuisine), near me (Location)]
+
+Query: "what are the hours for sushi garden"
+Named Entities: [sushi garden (Restaurant Name)]
+
+Query: "recommend a restaurant with outdoor seating"
+Named Entities: [outdoor seating (Amenity)]
+
+Query: "are there any vegan options at the diner on 5th street"
+Named Entities: [vegan (Cuisine), diner on 5th street (Restaurant Name)]
+
+Query: "what is the price range at the steakhouse downtown"
+Named Entities: [price range (Price), steakhouse downtown (Restaurant Name)]
+
+Query: "find me a place with a kids menu"
+Named Entities: [kids menu (Amenity)]
+
+Query: "call the Thai place on Main Street"
+Named Entities: [Thai (Cuisine), Main Street (Location)]
+
+Query: "where is the best place to get burgers in town"
+Named Entities: [best (Rating), burgers (Dish), in town (Location)]
+
+Query: "what time does the cafe open"
+Named Entities: [cafe (Restaurant Name), open (Hours)]
+
+Query: "show me all the Mexican restaurants with a rating above 4 stars"
+Named Entities: [Mexican (Cuisine), above 4 stars (Rating)]
+
+Query: "are there any 24-hour diners in this area"
+Named Entities: [24-hour (Hours), diners (Amenity), in this area (Location)]
+
+Query: "suggest a seafood restaurant for a special occasion"
+Named Entities: [seafood (Cuisine), special occasion (Amenity)]
+
+Query: "where can I find a cheap pizza place"
+Named Entities: [cheap (Price), pizza (Cuisine)]
+
+Query: "what is the address of the Italian bistro on 8th avenue"
+Named Entities: [Italian bistro (Restaurant Name), 8th avenue (Location)]
+
+Query: "show me the Chinese restaurants that deliver"
+Named Entities: [Chinese (Cuisine), deliver (Amenity)]
+
+Query: "recommend a place for brunch with bottomless mimosas"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "find a sushi restaurant with a patio"
+Named Entities: [sushi (Cuisine), patio (Amenity)]
+
+Query: "what is the best-rated Indian spot in town"
+Named Entities: [best-rated (Rating), Indian (Cuisine), in town (Location)]
+
+Query: "what time does the pub close"
+Named Entities: [pub (Restaurant Name), close (Hours)]

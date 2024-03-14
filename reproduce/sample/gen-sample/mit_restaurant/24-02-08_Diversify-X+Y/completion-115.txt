@@ -1,0 +1,8 @@
+Query: "I'm looking for well-reviewed late-night dining options with outdoor seating and WiFi"
+Named Entities: [well-reviewed (Rating), late-night dining (Amenity), outdoor seating (Amenity), WiFi (Amenity)]
+
+Query: "Can you recommend any cost-friendly restaurants with outdoor seating for late-night dining?"
+Named Entities: [cost-friendly (Price), outdoor seating (Amenity), late-night dining (Amenity)]
+
+Query: "Where can I find late-night dining options with outdoor seating and WiFi that are highly rated?"
+Named Entities: [late-night dining (Amenity), outdoor seating (Amenity), WiFi (Amenity), highly rated (Rating)]

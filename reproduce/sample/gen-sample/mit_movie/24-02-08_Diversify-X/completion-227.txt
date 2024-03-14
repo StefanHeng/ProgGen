@@ -1,0 +1,8 @@
+1. Spoken Query: "Who directed the action movie starring Matt Damon and Julia Stiles with a PG-13 rating"
+   Named Entities: [action movie (Genre), Matt Damon (Actor), Julia Stiles (Actor), PG-13 (MPAA Rating)]
+
+2. Spoken Query: "What film features Meryl Streep and is known for its captivating storyline and a high viewers' rating"
+   Named Entities: [Meryl Streep (Actor), captivating storyline (Plot), high viewers' rating (Viewers' Rating)]
+
+3. Spoken Query: "Can you provide me with the name of the director of the science fiction movie released in 2010"
+   Named Entities: [science fiction movie (Genre), 2010 (Year)]

@@ -1,0 +1,8 @@
+1. "Can you tell me which movie Ava DuVernay directed that explores the theme of betrayal?"
+   Named Entities: [Ava DuVernay (Director), betrayal (Plot)]
+
+2. "I'm looking for a movie from the 1970-2000 period with a teaser trailer that features the character Tyler Durden."
+   Named Entities: [1970-2000 (Year), teaser (Trailer), Tyler Durden (Character)]
+
+3. "What unrated comprehensive movie explores the theme of betrayal?"
+   Named Entities: [unrated (MPAA Rating), comprehensive (Viewers' Rating), betrayal (Plot)]

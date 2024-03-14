@@ -1,0 +1,11 @@
+1. Sentence: "The military operation was conducted under the leadership of {{General Eric Shinseki}}."
+Text Span: "General Eric Shinseki"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "{{André Weil}}, a French mathematician known for his foundational work in algebraic geometry and number theory, was a key figure in the development of the Bourbaki group, a collective of mathematicians dedicated to reformulating mathematics on a more rigorous and abstract foundation."
+Text Span: "André Weil"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: "{{Max Weber}} is considered one of the founding figures of sociology."
+Text Span: "Max Weber"
+Label: (A). The span is a named entity of type person

@@ -1,0 +1,8 @@
+1. Text Span: "U.S. Representative"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "mathematics"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Ivy League"
+Label: (A). The span is a named entity of type organization

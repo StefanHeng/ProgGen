@@ -1,0 +1,8 @@
+1. Query: "I'm excited about watching a movie tonight. Can you tell me if there are any showings for the film 'Inception' at the nearby theaters?"
+   Named Entities: ['Inception' (Title)]
+
+2. Query: "I'm really looking forward to seeing a new action movie. What are the showtimes for 'Mad Max: Fury Road' in 3D?"
+   Named Entities: ['Mad Max: Fury Road' (Title), 3D (Genre)]
+
+3. Query: "I'm in the mood for a comedy this weekend. Are there any theaters playing 'Bridesmaids'?"
+   Named Entities: ['Bridesmaids' (Title), comedy (Genre)]

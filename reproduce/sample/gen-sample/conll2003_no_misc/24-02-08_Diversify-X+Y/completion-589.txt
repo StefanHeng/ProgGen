@@ -1,0 +1,8 @@
+1. "President Smith delivers a speech on economic reforms."
+Named Entities: [President Smith (person)]
+
+2. "The United Nations passes a resolution on climate change."
+Named Entities: [United Nations (organization)]
+
+3. "Prime Minister Johnson meets with Chancellor Merkel to discuss trade relations."
+Named Entities: [Prime Minister Johnson (person), Chancellor Merkel (person)]

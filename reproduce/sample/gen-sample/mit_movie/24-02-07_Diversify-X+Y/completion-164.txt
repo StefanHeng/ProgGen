@@ -1,0 +1,8 @@
+1. Query: "Can you show me the making-of featurette for the teenage classic 'Rebel Without a Cause'?"
+Named Entities: [making-of featurette (Genre), teenage classic (Genre)]
+
+2. Query: "I'm feeling nostalgic. Can you recommend a worth-watching movie directed by John Cassavetes?"
+Named Entities: [worth-watching (Viewers' Rating), John Cassavetes (Director)]
+
+3. Query: "What was the making-of process like for the classic film 'Casablanca'?"
+Named Entities: [making-of process (Plot), classic film (Genre)]

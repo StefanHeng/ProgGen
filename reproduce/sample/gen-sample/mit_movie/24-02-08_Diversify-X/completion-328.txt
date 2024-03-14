@@ -1,0 +1,8 @@
+Query: "who directed the making of the movie avatar"
+Named Entities: [avatar (Title), making of (Plot), directed (Director)]
+
+Query: "can you recommend a film with a behind-the-scenes look at the special effects"
+Named Entities: [behind-the-scenes (Plot), special effects (Plot)]
+
+Query: "show me a documentary about the production of the lord of the rings trilogy"
+Named Entities: [lord of the rings (Title), production (Plot), trilogy (Plot)]

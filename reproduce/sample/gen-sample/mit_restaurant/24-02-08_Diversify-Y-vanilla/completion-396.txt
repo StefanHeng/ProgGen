@@ -1,0 +1,8 @@
+1. "I'm craving some American food, can you recommend a restaurant with a good burger and fries?"
+Named Entities: [American (Cuisine), burger and fries (Dish)]
+
+2. "What are the hours of the closest Mexican restaurant that serves tacos and burritos?"
+Named Entities: [closest (Location), Mexican (Cuisine), tacos and burritos (Dish), hours (Hours)]
+
+3. "I'm looking for a Japanese place with a high rating and reasonable prices, can you help me find one?"
+Named Entities: [Japanese (Cuisine), high rating (Rating), reasonable prices (Price)]

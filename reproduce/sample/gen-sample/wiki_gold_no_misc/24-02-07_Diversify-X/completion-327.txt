@@ -1,0 +1,8 @@
+Sentence: "The United States Army is the land warfare service branch of the United States Armed Forces."
+Named Entities: [United States Army (organization), United States (location), United States Armed Forces (organization)]
+
+Sentence: "The Battle of Gettysburg was fought from July 1 to July 3, 1863, in and around the town of Gettysburg, Pennsylvania, by Union and Confederate forces during the American Civil War."
+Named Entities: [Battle of Gettysburg (location), Gettysburg (location), Pennsylvania (location), Union (organization), Confederate (organization), American Civil War (event)]
+
+Sentence: "The nuclear arsenal of the United Kingdom is the full range of nuclear weapons that the United Kingdom has in its arsenal."
+Named Entities: [United Kingdom (location)]

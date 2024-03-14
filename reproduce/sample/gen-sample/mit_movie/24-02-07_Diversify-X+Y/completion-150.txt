@@ -1,0 +1,8 @@
+1. Query: "Can you remind me who directed the romantic comedy that came out in the 90s with stellar acting?"
+Named Entities: [romantic comedy (Genre), 90s (Year), stellar acting (Review)]
+
+2. Query: "Show me a teaser trailer from the 80s for a war movie that has stood the test of time."
+Named Entities: [teaser trailer (Trailer), 80s (Year), war (Genre), stood the test of time (Review)]
+
+3. Query: "I'm in the mood for a classic film - something like Goodfellas, but without the lackluster acting. Any suggestions?"
+Named Entities: [Goodfellas (Title), lackluster acting (Review)]

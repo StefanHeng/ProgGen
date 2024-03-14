@@ -1,0 +1,8 @@
+Sentence: "Literature plays a crucial role in reflecting and shaping the cultural, social, and political values of a society."
+Named Entities: []
+
+Sentence: "The works of William Shakespeare continue to be studied and celebrated for their profound insights into the human condition."
+Named Entities: [William Shakespeare (person)]
+
+Sentence: "The American Academy of Arts and Letters recognizes outstanding achievement in the field of literature through its prestigious awards and fellowships."
+Named Entities: [American Academy of Arts and Letters (organization)]

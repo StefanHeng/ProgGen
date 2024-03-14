@@ -1,0 +1,8 @@
+1. Query: "I'm craving some Korean BBQ, can you recommend a place with good ratings?"
+Named Entities: [Korean (Cuisine), BBQ (Dish), good ratings (Rating)]
+
+2. Query: "What's a popular Korean restaurant in the downtown area?"
+Named Entities: [Korean (Cuisine), downtown area (Location)]
+
+3. Query: "I'm looking for a Korean fusion restaurant with outdoor seating, any suggestions?"
+Named Entities: [Korean (Cuisine), fusion (Amenity), outdoor seating (Amenity)]

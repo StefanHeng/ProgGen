@@ -1,0 +1,8 @@
+1. "Can you recommend any Lebanese restaurants in the downtown area that have a good outdoor seating area?"
+   Named Entities: [Lebanese (Cuisine), downtown (Location), good (Amenity), outdoor seating area (Amenity)]
+
+2. "What are the hours of operation for the Lebanese restaurant called Cedar Grill?"
+   Named Entities: [Lebanese (Cuisine), Cedar Grill (Restaurant Name), hours of operation (Hours)]
+
+3. "I'm looking for a reasonably priced Lebanese restaurant with high ratings for dinner tonight."
+   Named Entities: [Lebanese (Cuisine), reasonably priced (Price), high ratings (Rating), dinner (Amenity)]

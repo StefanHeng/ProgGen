@@ -1,0 +1,8 @@
+1. Text Span: "Tim Burton"
+Label: (A). The span is a named entity of type director
+
+2. Text Span: "George Lucas"
+Label: (A). The span is a named entity of type director
+
+3. Text Span: "Director"
+Label: (C). The span is a named entity but the category is not director. Entity Type: Other

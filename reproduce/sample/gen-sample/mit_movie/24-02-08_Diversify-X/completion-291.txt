@@ -1,0 +1,8 @@
+Query: "Who stars in that new action movie with the superheroes?"
+Named Entities: [action movie (Genre), superheroes (Character)]
+
+Query: "What's the name of the director for the new horror flick with the haunted house?"
+Named Entities: [horror flick (Genre), haunted house (Plot)]
+
+Query: "Can you tell me the year when that comedy with the talking animals came out?"
+Named Entities: [comedy (Genre), talking animals (Plot)]

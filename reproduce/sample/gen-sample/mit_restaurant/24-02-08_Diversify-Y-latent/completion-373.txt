@@ -1,0 +1,8 @@
+Query: "I'm craving some avocado toast, where can I find a place that serves it?"
+Named Entities: [avocado toast (Dish)]
+
+Query: "I need to grab a quick bite, where's the closest café that serves avocado toast?"
+Named Entities: [close (Location), café (Amenity), avocado toast (Dish)]
+
+Query: "What's a good restaurant with outdoor seating that serves avocado toast?"
+Named Entities: [good (Rating), restaurant (Amenity), outdoor seating (Amenity), avocado toast (Dish)]

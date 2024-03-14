@@ -1,0 +1,8 @@
+1. Query: "Hey, can I watch any movie directed by Spike Jonze on any streaming platform?"
+Named Entities: [Spike Jonze (Director)]
+
+2. Query: "I heard Julia Roberts was in a movie called Belle. Is it available on any streaming platform?"
+Named Entities: [Julia Roberts (Actor), Belle (Title)]
+
+3. Query: "Is there a disaster survival movie directed by Steven Spielberg that I can watch on a streaming platform?"
+Named Entities: [Steven Spielberg (Director), disaster survival (Genre)]

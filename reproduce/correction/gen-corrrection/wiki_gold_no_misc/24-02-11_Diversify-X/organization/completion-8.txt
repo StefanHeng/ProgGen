@@ -1,0 +1,8 @@
+1. Text Span: "NASA"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "International Air Transport Association"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "French cuisine"
+Label: (C). Wrong Type. The correct entity type is other.

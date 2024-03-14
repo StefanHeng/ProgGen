@@ -1,0 +1,8 @@
+1. "I'm looking for a place for brunch with great ratings, do you have any recommendations?"
+Named Entities: [brunch (Amenity), great ratings (Rating)]
+
+2. "Can you suggest a restaurant nearby with a good brunch menu and affordable prices?"
+Named Entities: [brunch (Amenity), affordable prices (Price)]
+
+3. "Where can I find a spot for brunch with great ratings and a nice outdoor seating area?"
+Named Entities: [brunch (Amenity), great ratings (Rating), outdoor seating area (Amenity)]

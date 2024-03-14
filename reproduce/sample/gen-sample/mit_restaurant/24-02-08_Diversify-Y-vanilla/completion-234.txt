@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with low calorie options in the downtown area?"
+Named Entities: [low calorie (Amenity), downtown area (Location)]
+
+2. "I'm looking for a sushi place with outdoor seating and a view of the river."
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), view of the river (Amenity)]
+
+3. "Do you know of any Italian restaurants open for dinner after 8 pm?"
+Named Entities: [Italian (Cuisine), dinner after 8 pm (Hours)]

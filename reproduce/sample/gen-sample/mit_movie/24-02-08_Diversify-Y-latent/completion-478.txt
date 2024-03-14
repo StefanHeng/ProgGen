@@ -1,0 +1,8 @@
+Query: "can you give me the viewers' rating for the movie Inception"
+Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]
+
+Query: "who directed the film Fight Club"
+Named Entities: [Fight Club (Title), directed (Director)]
+
+Query: "show me a list of movies released in the 1980s"
+Named Entities: [1980s (Year)]

@@ -1,0 +1,11 @@
+1. Query: "What film in The Twilight Saga has the {{best}} viewers' rating?"
+Text Span: "best"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "What movie directed by Kerry Washington was {{Critically acclaimed}}?"
+Text Span: "Critically acclaimed"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend a movie with an {{Outstanding ensemble cast}}?"
+Text Span: "Outstanding ensemble cast"
+Label: (A). Correct Entity Annotation.

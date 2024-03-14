@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant nearby that has vegetarian options and is [Walk-ins welcome]?"
+Named Entities: [vegetarian options (Cuisine), [Walk-ins welcome] (Amenity)]
+
+2. "I'm craving Italian food, do you know of any place with a good pizza menu and outdoor seating?"
+Named Entities: [Italian food (Cuisine), good pizza menu (Dish), outdoor seating (Amenity)]
+
+3. "What are some restaurants around here with a high rating and affordable prices?"
+Named Entities: [high rating (Rating), affordable prices (Price)]

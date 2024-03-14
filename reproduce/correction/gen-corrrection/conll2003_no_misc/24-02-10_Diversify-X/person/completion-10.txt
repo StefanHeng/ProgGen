@@ -1,0 +1,11 @@
+1. Sentence: "{{Senator Smith}} delivers passionate speech on healthcare reform"
+Text Span: "Senator Smith"
+Label: (A)
+
+2. Sentence: "{{Volunteers}} organize fundraiser to support cancer research and treatment."
+Text Span: "Volunteers"
+Label: (C). The correct entity type is organization.
+
+3. Sentence: "{{high school student}} overcomes adversity to win prestigious scholarship."
+Text Span: "high school student"
+Label: (D)

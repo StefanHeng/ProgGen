@@ -1,0 +1,8 @@
+Query: "what is the best sushi restaurant in the area"
+Named Entities: [sushi (Cuisine), best (Rating), area (Location)]
+
+Query: "I want to find a restaurant with outdoor seating and live music"
+Named Entities: [outdoor seating (Amenity), live music (Amenity)]
+
+Query: "show me the nearest Italian restaurant that is open now"
+Named Entities: [nearest (Location), Italian (Cuisine), open now (Hours)]

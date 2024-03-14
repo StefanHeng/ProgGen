@@ -1,0 +1,8 @@
+Query: "I'm craving some hot dogs from a food truck, where can I find the best ones?"
+Named Entities: [hot dogs (Dish), food truck (Amenity)]
+
+Query: "I'm heading out for lunch, can you recommend a food truck with delicious hot dogs nearby?"
+Named Entities: [lunch (Amenity), hot dogs (Dish), food truck (Amenity)]
+
+Query: "I want to try something new for dinner, any food truck with gourmet hot dogs you can suggest?"
+Named Entities: [dinner (Amenity), gourmet hot dogs (Dish), food truck (Amenity)]

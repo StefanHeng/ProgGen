@@ -1,0 +1,8 @@
+Sentence: "Renowned artist Banksy's new exhibition showcases thought-provoking pieces in New York City."
+Named Entities: [Banksy (person), New York City (location)]
+
+Sentence: "The Louvre Museum in Paris unveils a rare collection of ancient artworks for public viewing."
+Named Entities: [Louvre Museum (organization), Paris (location)]
+
+Sentence: "Famous sculptor Ai Weiwei to collaborate with local students on a public art installation in Beijing."
+Named Entities: [Ai Weiwei (person), Beijing (location)]

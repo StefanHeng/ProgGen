@@ -1,0 +1,11 @@
+1. Sentence: "In Greek mythology, the Amazons were a tribe of warrior women, believed to live in {{Pontus}}, an area in the north-east of Asia Minor, now modern-day Turkey."
+Text Span: "Pontus"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "According to ancient Egyptian mythology, the {{Land of Punt}} was a prosperous and enigmatic region known for its exotic goods and precious resources."
+Text Span: "Land of Punt"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The Bank of China Tower in {{Hong Kong}}, designed by Ieoh Ming Pei, is a prime example of his innovative and modern architectural style, featuring sharp angles and a distinctive silhouette on the city's skyline."
+Text Span: "Hong Kong"
+Label: (A). The span is a named entity of type location

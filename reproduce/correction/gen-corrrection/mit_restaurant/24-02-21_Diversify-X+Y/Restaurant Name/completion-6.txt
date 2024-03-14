@@ -1,0 +1,11 @@
+1. Query: "What's the best item on the menu at {{Carl's Jr.}}?"
+Text Span: "Carl's Jr."
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "where can I grab a quick lunch near {{Outback Steakhouse}}?"
+Text Span: "Outback Steakhouse"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What's the nearest {{In-N-Out Burger}} location with a drive-thru?"
+Text Span: "In-N-Out Burger"
+Label: (A). The span is a named entity of type restaurant name

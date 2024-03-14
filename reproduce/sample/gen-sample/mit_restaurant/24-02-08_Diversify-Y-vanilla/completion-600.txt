@@ -1,0 +1,8 @@
+Query: "I am looking for a good Italian restaurant near [Ristorante Roma]"
+Named Entities: [Italian (Cuisine), [Ristorante Roma] (Restaurant Name)]
+
+Query: "What are the opening hours of [Ristorante Roma]?"
+Named Entities: [[Ristorante Roma] (Restaurant Name), opening hours (Hours)]
+
+Query: "I want to take my date to a romantic restaurant near [Ristorante Roma]"
+Named Entities: [romantic (Amenity), [Ristorante Roma] (Restaurant Name)]

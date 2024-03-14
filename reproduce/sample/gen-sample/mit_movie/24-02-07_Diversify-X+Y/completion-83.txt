@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with compelling soundtrack choices and a songwriting competition as part of the plot?"
+   Named Entities: [compelling soundtrack choices (Review), songwriting competition (Plot)]
+
+2. "I'm looking for a movie with a 4-star soundtrack and involving war as a theme."
+   Named Entities: [4-star soundtrack (Viewers' Rating), war (Genre)]
+
+3. "Is the song 'I Believe I Can Fly' featured in The Breakfast Club movie?"
+   Named Entities: ['I Believe I Can Fly' (Song), The Breakfast Club (Title)]

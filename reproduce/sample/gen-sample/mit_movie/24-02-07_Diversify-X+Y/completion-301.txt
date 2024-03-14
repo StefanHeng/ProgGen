@@ -1,0 +1,8 @@
+1. "Can you tell me if the film 'The Godfather' was Oscar nominated and how many awards it received?"
+Named Entities: ['The Godfather' (Title), Oscar nominated (Awards), awards (Awards)]
+
+2. "I'm feeling nostalgic. Do you have any information on Oscar nominated movies from the 90s?"
+Named Entities: [nostalgic (Viewers' Rating), Oscar nominated (Awards), 90s (Year)]
+
+3. "I'd like to know if 'Forrest Gump' won any Oscars. It's one of my favorite films from the 90s."
+Named Entities: ['Forrest Gump' (Title), Oscars (Awards), favorite (Viewers' Rating), 90s (Year)]

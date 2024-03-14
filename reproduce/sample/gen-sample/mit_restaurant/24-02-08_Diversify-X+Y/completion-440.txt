@@ -1,0 +1,8 @@
+1. "I'm looking for a brunch spot with outdoor seating in Dallas"
+Named Entities: [brunch (Cuisine), outdoor seating (Amenity), Dallas (Location)]
+
+2. "Where can I find an Applebee's in Dallas that serves brunch?"
+Named Entities: [Applebee's (Restaurant Name), brunch (Cuisine), Dallas (Location)]
+
+3. "Is there a restaurant in Dallas with outdoor seating that offers brunch options?"
+Named Entities: [Dallas (Location), outdoor seating (Amenity), brunch (Cuisine)]

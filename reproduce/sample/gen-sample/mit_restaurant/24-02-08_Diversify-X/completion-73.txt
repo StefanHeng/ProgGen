@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a waterfront ambience?"
+   Named Entities: [fine dining (Amenity), waterfront (Amenity)]
+
+2. "What are the top-rated waterfront fine dining restaurants in the area?"
+   Named Entities: [waterfront (Amenity), fine dining (Amenity)]
+
+3. "I'm looking for a gourmet seafood restaurant with a view of the water. Any suggestions?"
+   Named Entities: [gourmet seafood (Cuisine), waterfront (Amenity)]

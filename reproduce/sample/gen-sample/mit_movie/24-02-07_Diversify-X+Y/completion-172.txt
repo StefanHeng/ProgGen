@@ -1,0 +1,8 @@
+1. Query: "I'm feeling down. Can you show me the movie trailer for a sad movie with high viewers' ratings?"
+Named Entities: [sad (Viewers' Rating), Movie trailer (Trailer)]
+
+2. Query: "I'm in a melancholic mood. Have you heard of a moving film directed by Ava DuVernay?"
+Named Entities: [melancholic (Viewers' Rating), moving (Plot), Ava DuVernay (Director)]
+
+3. Query: "I'm feeling nostalgic. Can you recommend a teen movie from 1984 with the song 'I Heard It Through the Grapevine'?"
+Named Entities: [nostalgic (Viewers' Rating), Teen (Genre), 1984 (Year), 'I Heard It Through the Grapevine' (Song)]

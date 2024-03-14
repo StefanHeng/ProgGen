@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Yemeni food, where can I find a restaurant that serves it?"
+   Named Entities: [Yemeni (Cuisine)]
+
+2. "What are the hours for The Igloo Ice Cream Parlor?"
+   Named Entities: [The Igloo Ice Cream Parlor (Restaurant Name), hours (Hours)]
+
+3. "I want to take a date somewhere with a romantic ambiance, any recommendations for a restaurant with a good atmosphere?"
+   Named Entities: [romantic (Amenity)]

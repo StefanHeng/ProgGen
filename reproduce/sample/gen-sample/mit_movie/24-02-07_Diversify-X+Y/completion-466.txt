@@ -1,0 +1,8 @@
+1. "I'm curious, what kind of film is Anna interested in? Something maybe animated or from the 1940s?"
+Named Entities: [Anna (Character), animated (Genre), 1940s (Year)]
+
+2. "Can you suggest a movie that has a silent film vibe, maybe something from the 1920s or 1930s?"
+Named Entities: [silent film (Genre)]
+
+3. "I'm looking for a classic movie, maybe something from the 1940s, that falls into the animated genre."
+Named Entities: [1940s (Year), animated (Genre)]

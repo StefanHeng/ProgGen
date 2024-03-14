@@ -1,0 +1,8 @@
+1. "I'm craving some Chicken tikka masala, where can I find a place that serves it?"
+Named Entities: [Chicken tikka masala (Dish)]
+
+2. "What's the operational schedule for the Indian restaurant near me?"
+Named Entities: [Operational schedule (Hours), Indian restaurant (Cuisine)]
+
+3. "I need to find a restaurant with a high rating and reasonable prices, can you suggest one?"
+Named Entities: [high rating (Rating), reasonable prices (Price)]

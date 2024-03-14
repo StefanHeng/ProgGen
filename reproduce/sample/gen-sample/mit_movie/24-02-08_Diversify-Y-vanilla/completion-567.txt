@@ -1,0 +1,8 @@
+1. Query: "What movie directed by F. Gary Gray has a satisfying conclusion and an uplifting theme?"
+Named Entities: [F. Gary Gray (Director), satisfying conclusion (Plot), uplifting (Review)]
+
+2. Query: "Can you recommend a movie from 1977 with a PG-7 rating and the character Mystique?"
+Named Entities: [1977 (Year), PG-7 (MPAA Rating), Mystique (Character)]
+
+3. Query: "Show me a movie teaser featuring Scarlett Johansson."
+Named Entities: [movie teaser (Trailer), Scarlett Johansson (Actor)]

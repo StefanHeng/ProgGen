@@ -1,0 +1,8 @@
+Sentence: "Gucci announces collaboration with renowned Parisian designer."
+Named Entities: [Gucci (organization), Parisian (location)]
+
+Sentence: "Supermodel Gigi Hadid walks the runway at Milan Fashion Week."
+Named Entities: [Gigi Hadid (person), Milan (location)]
+
+Sentence: "Fast fashion retailer Zara opens flagship store in New York City."
+Named Entities: [Zara (organization), New York City (location)]

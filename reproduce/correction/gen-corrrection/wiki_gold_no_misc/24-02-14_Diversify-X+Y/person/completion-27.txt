@@ -1,0 +1,11 @@
+1. Sentence: "Ada Lovelace, often referred to as the world's first computer programmer, collaborated with {{Charles Babbage}} on his early mechanical general-purpose computer, the Analytical Engine."
+Text Span: "Charles Babbage"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "{{Enzo Ferrari}}, the founder of the Ferrari automobile company, was known for his dedication to producing high-performance sports cars."
+Text Span: "Enzo Ferrari"
+Label: (A). The span is a named entity of type person
+
+3. Sentence: '{{Al Gore}}, the former Vice President of the United States, is a well-known environmental activist and the author of "An Inconvenient Truth".'
+Text Span: "Al Gore"
+Label: (A). The span is a named entity of type person

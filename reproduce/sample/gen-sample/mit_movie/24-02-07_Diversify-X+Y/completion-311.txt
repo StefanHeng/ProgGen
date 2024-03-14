@@ -1,0 +1,8 @@
+1. "What movie from the 1940s features the song 'I've Had the Time of My Life' on its soundtrack?"
+   Named Entities: [1940s (Year), I've Had the Time of My Life (Song)]
+
+2. "Can you recommend a film directed by Patty Jenkins that has strong family dynamics?"
+   Named Entities: [Patty Jenkins (Director), Family dynamics]
+
+3. "Are there any cop movies from 1976 starring Denzel Washington or Samuel L. Jackson?"
+   Named Entities: [1976 (Year), Cop (Genre), Denzel Washington (Actor), Samuel L. Jackson (Actor)]

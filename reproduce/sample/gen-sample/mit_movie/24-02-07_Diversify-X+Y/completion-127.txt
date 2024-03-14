@@ -1,0 +1,8 @@
+1. Query: "Hey, what's a really exciting movie from the late 1990s that's rated PG-13?"
+Named Entities: [Exciting (Genre), Late 1990s (Year), PG-13 (MPAA Rating)]
+
+2. Query: "Have you heard of any electrifying movies from 1992 to 1998 that got really good ratings?"
+Named Entities: [Electrifying (Genre), 1992-1998 (Year)]
+
+3. Query: "Do you know if James P. Sullivan is in any movies with great reviews?"
+Named Entities: [James P. Sullivan (Actor), great reviews (Review)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a place that serves breakfast with reasonable prices"
+Named Entities: [breakfast (Cuisine), reasonable prices (Price)]
+
+Query: "Where can I find a breakfast spot with affordable options"
+Named Entities: [breakfast (Cuisine), affordable (Price)]
+
+Query: "Which restaurant around here offers breakfast at a reasonable price"
+Named Entities: [breakfast (Cuisine), reasonable price (Price), The Cereal Spot (Restaurant Name)]

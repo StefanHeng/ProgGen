@@ -1,0 +1,8 @@
+1. Query: "Can you suggest a movie with a captivating soundtrack that elevates the movie?"
+   Named Entities: [captivating soundtrack (Soundtrack), elevates the movie (Review)]
+
+2. Query: "What movie directed by Tim Story has a remarkable soundtrack?"
+   Named Entities: [Tim Story (Director), remarkable soundtrack (Soundtrack)]
+
+3. Query: "Are there any GP-rated movies with a memorable soundtrack that enhances the viewing experience?"
+   Named Entities: [GP (MPAA Rating), memorable soundtrack (Soundtrack), enhances the viewing experience (Review)]

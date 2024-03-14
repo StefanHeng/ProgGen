@@ -1,0 +1,8 @@
+1. "Can you recommend a gripping movie that features the song 'You Can't Hurry Love'?"
+Named Entities: [gripping (Viewers' Rating), You Can't Hurry Love (Song)]
+
+2. "Is there a film from the 1980s starring X that falls into the sci-fi genre?"
+Named Entities: [1980s (Year), X (Actor), sci-fi (Genre)]
+
+3. "Who directed the movie with a thrilling plot and a PG-13 rating that came out last year?"
+Named Entities: [thrilling (Plot), PG-13 (MPAA Rating), last year (Year)]

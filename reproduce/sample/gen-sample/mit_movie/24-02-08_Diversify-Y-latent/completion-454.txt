@@ -1,0 +1,8 @@
+1. "What is the highest-rated James Bond movie of all time?"
+Named Entities: [highest-rated (Viewers' Rating), James Bond (Title)]
+
+2. "Who directed the latest James Bond film that came out in 2019?"
+Named Entities: [directed (Director), latest (Year), 2019 (Year), James Bond (Title)]
+
+3. "Can you recommend a James Bond movie with a great theme song?"
+Named Entities: [recommend (Review), great theme song (Song), James Bond (Title)]

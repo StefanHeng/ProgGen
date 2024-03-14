@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which director is known for creating intense psychological thrillers that keep you on the edge of your seat?"
+   Named Entities: [intense psychological thrillers (Genre), edge of your seat (Viewers' Rating)]
+
+2. Query: "I'm interested in a movie that showcases the evolution of special effects in the sci-fi genre, can you recommend one?"
+   Named Entities: [special effects (Plot), sci-fi (Genre)]
+
+3. Query: "I'm curious to know which actor has worked on the most iconic romantic films throughout their career."
+   Named Entities: [iconic romantic films (Genre), career (Plot)]

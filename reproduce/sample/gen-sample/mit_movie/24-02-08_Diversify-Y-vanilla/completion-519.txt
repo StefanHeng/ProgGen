@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a mesmerizing movie with the song Blackbird in it?"
+   Named Entities: [mesmerizing (Review), Blackbird (Song)]
+
+2. Query: "What movie directed by Christopher Nolan has the highest viewers' rating?"
+   Named Entities: [Christopher Nolan (Director), highest viewers' rating (Viewers' Rating)]
+
+3. Query: "Show me a trailer of the latest action film with Scarlett Johansson in it."
+   Named Entities: [action film (Genre), Scarlett Johansson (Actor), latest (Year), trailer (Trailer)]

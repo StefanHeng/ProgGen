@@ -1,0 +1,8 @@
+1. "Do you have any showtimes available for the new Marvel movie that just came out?"
+Named Entities: [Marvel (Title)]
+
+2. "Can I get tickets for the latest Quentin Tarantino movie at your theater?"
+Named Entities: [Quentin Tarantino (Director)]
+
+3. "I heard great things about the new animated film - any showtimes available?"
+Named Entities: [animated film (Genre), [Positive feedback] (Review)]

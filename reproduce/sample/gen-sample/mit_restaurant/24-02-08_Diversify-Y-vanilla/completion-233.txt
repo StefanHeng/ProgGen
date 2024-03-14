@@ -1,0 +1,8 @@
+1. "What Italian restaurants are open past 11 pm in Manhattan?"
+Named Entities: [Italian (Cuisine), past 11 pm (Hours), Manhattan (Location)]
+
+2. "I'm looking for a vegan-friendly restaurant with outdoor seating in Brooklyn."
+Named Entities: [vegan-friendly (Amenity), outdoor seating (Amenity), Brooklyn (Location)]
+
+3. "Recommend a seafood place with a high rating and reasonable prices in Queens."
+Named Entities: [seafood (Cuisine), high rating (Rating), reasonable prices (Price), Queens (Location)]

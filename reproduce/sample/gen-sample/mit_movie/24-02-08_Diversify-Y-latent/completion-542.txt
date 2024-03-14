@@ -1,0 +1,8 @@
+1. Query: "recommend a movie directed by Judd Apatow"
+Named Entities: [Judd Apatow (Director)]
+
+2. Query: "can you show me a trailer for the latest solid action movie"
+Named Entities: [Solid (Title), action (Genre)]
+
+3. Query: "which movie from the 1990s has the highest viewers' rating"
+Named Entities: [1990s (Year), highest viewers' rating (Review)]

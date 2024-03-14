@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a superhero origin story that is hugely popular and rated PG-13"
+   Named Entities: [superhero origin story (Genre), hugely popular (Review), PG-13 (MPAA Rating)]
+
+2. Query: "What movie directed by Barry Jenkins is a must watch"
+   Named Entities: [Barry Jenkins (Director), must watch (Viewers' Rating)]
+
+3. Query: "Is Jim Carrey in The French Connection"
+   Named Entities: [Jim Carrey (Actor), The French Connection (Title)]

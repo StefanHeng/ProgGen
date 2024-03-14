@@ -1,0 +1,8 @@
+1. "I'm craving some Taiwanese food, can you recommend a budget-friendly fare nearby?"
+Named Entities: [Taiwanese (Cuisine), budget-friendly fare (Price)]
+
+2. "Is there a Chipotle around here that's open late?"
+Named Entities: [Chipotle (Restaurant Name), open late (Hours)]
+
+3. "Can you suggest a place for dinner with a high rating and outdoor seating?"
+Named Entities: [high rating (Rating), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can I stream any movies directed by Christopher Nolan?"
+Named Entities: [Christopher Nolan (Director)]
+
+Query: "Is there a movie with a soundtrack by Hans Zimmer available to watch?"
+Named Entities: [Hans Zimmer (Composer)]
+
+Query: "Are there any thriller movies from the 90s that I can watch?"
+Named Entities: [thriller (Genre), 90s (Year)]

@@ -1,0 +1,8 @@
+1. Text Span: "high viewers' rating"
+   Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "enriching"
+   Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: other
+
+3. Text Span: "A- rating"
+   Label: (A). The span is a named entity of type viewers' rating

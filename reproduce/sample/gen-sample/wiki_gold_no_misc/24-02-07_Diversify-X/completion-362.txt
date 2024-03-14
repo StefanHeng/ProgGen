@@ -1,0 +1,8 @@
+Sentence: "The fashion industry is a multibillion-dollar global enterprise devoted to the business of making and selling clothes."
+Named Entities: []
+
+Sentence: "Notable fashion designers such as Coco Chanel, Giorgio Armani, and Vera Wang have made significant contributions to the evolution of the fashion world."
+Named Entities: [Coco Chanel (person), Giorgio Armani (person), Vera Wang (person)]
+
+Sentence: "New York City and Paris are widely recognized as the world's major fashion capitals, with renowned fashion houses and designers showcasing their latest collections during the prestigious fashion weeks held in these cities."
+Named Entities: [New York City (location), Paris (location)]

@@ -1,0 +1,8 @@
+1. Text Span: "morning spread"
+Label: (C). The span is not a named entity. The correct entity type is Dish.
+
+2. Text Span: "Italian"
+Label: (A). The span is a named entity of type cuisine.
+
+3. Text Span: "wide variety of dishes"
+Label: (C). The span is not a named entity. The correct entity type is Dish.

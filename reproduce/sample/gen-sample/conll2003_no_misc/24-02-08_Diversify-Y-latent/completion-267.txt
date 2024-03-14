@@ -1,0 +1,8 @@
+Sentence: "The CEO of Apple, Tim Cook, announces the launch of a new iPad."
+Named Entities: [Tim Cook (person), Apple (organization)]
+
+Sentence: "The devastating hurricane hit the coast of Florida, causing widespread destruction."
+Named Entities: [Florida (location)]
+
+Sentence: "The United Nations issues a statement condemning the recent terrorist attack in Europe."
+Named Entities: [United Nations (organization), Europe (location)]

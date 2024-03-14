@@ -1,0 +1,8 @@
+1. Text Span: "Pixar"
+Label: (C). Wrong Type. The correct entity type is Studio.
+
+2. Text Span: "classic film noir"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "comedy"
+Label: (A). Correct Entity Annotation.

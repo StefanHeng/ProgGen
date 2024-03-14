@@ -1,0 +1,8 @@
+1. "Can you recommend a highly rated comedy from the 1990s?"
+Named Entities: [highly rated (Viewers' Rating), comedy (Genre), 1990s (Year)]
+
+2. "Who directed the action film with a great soundtrack that came out in 2015?"
+Named Entities: [action film (Genre), great soundtrack (Song), 2015 (Year)]
+
+3. "I heard there's a new thriller movie out. What's the plot and who stars in it?"
+Named Entities: [thriller (Genre), plot (Plot), stars (Actor)]

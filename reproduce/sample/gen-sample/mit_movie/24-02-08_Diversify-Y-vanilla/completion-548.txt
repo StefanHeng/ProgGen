@@ -1,0 +1,8 @@
+Query: "what type of movie genre is killing me softly"
+Named Entities: [killing me softly (Title)]
+
+Query: "show me a movie with the sports underdog story plot"
+Named Entities: [sports underdog story (Plot)]
+
+Query: "do you have any movies not rated with rachel mcadams in them"
+Named Entities: [not rated (MPAA Rating), rachel mcadams (Actor)]

@@ -1,0 +1,8 @@
+1. "Are there any Himalayan restaurants open for dinner tonight?"
+Named Entities: [Himalayan (Cuisine), dinner tonight (Hours)]
+
+2. "I'm in the mood for some cheap eats, can you recommend any budget-friendly Himalayan places?"
+Named Entities: [cheap (Price), budget-friendly (Price), Himalayan (Cuisine)]
+
+3. "Which restaurant in this area has the highest rating for Himalayan cuisine?"
+Named Entities: [highest rating (Rating), Himalayan (Cuisine), this area (Location) ]

@@ -1,0 +1,8 @@
+1. Text Span: "all-you-can-eat"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "breakfast"
+Label: (C). The span is a named entity but the category is not amenity. The correct entity type is Hours.
+
+3. Text Span: "takeout"
+Label: (A). The span is a named entity of type amenity

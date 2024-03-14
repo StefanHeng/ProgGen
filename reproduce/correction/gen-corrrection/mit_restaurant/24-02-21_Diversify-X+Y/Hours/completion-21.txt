@@ -1,0 +1,8 @@
+1. Text Span: "Open"
+Label: (C). The span is a named entity but the category is not hours. Category: Amenity
+
+2. Text Span: "lunch"
+Label: (A). The span is a named entity of type hours
+
+3. Text Span: "late-night"
+Label: (A). The span is a named entity of type hours

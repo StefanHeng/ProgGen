@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Inception?"
+Named Entities: [Inception (Title), directed (Director)]
+
+2. Query: "Can you find me a movie featuring Tom Hanks and Meg Ryan together?"
+Named Entities: [Tom Hanks (Actor), Meg Ryan (Actor)]
+
+3. Query: "Show me a film where Meryl Streep played a historical character."
+Named Entities: [Meryl Streep (Actor), historical character (Character)]

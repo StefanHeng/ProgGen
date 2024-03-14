@@ -1,0 +1,8 @@
+1. Query: "Hey, can you give me a preview of the latest Fast and Furious film with Vin Diesel in it?"
+   Named Entities: [Fast and Furious (Title), Vin Diesel (Actor)]
+
+2. Query: "I heard there's a new Pixar animated movie out, can you show me a sneak peek or something?"
+   Named Entities: [Pixar (Director), animated (Genre)]
+
+3. Query: "Where can I find a teaser for the upcoming Marvel movie with Scarlett Johansson as the lead?"
+   Named Entities: [Marval (Title), Scarlett Johansson (Actor)]

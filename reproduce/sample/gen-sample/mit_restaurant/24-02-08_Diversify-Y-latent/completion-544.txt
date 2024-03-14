@@ -1,0 +1,8 @@
+1. "I'm looking for an inexpensive restaurant with group discounts."
+Named Entities: [inexpensive (Price), Group discounts (Amenity)]
+
+2. "Where is Sunflower Café located?"
+Named Entities: [Sunflower Café (Restaurant Name), located (Location)]
+
+3. "Can you recommend a place with a diverse menu for a group dinner?"
+Named Entities: [diverse menu (Cuisine), group dinner (Amenity)]

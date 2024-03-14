@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-rated Italian restaurant with outdoor seating"
+Named Entities: [high-rated (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm craving sushi, is there a good sushi bar that opens late nearby"
+Named Entities: [sushi (Cuisine), late (Hours), nearby (Location)]
+
+Query: "I need to find a cheap burger joint with vegan options"
+Named Entities: [cheap (Price), burger joint (Restaurant Name), vegan (Dish)]

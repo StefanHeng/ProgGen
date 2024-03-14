@@ -1,0 +1,8 @@
+1. "Is the movie Nomadland directed by Chloé Zhao worth watching?"
+Named Entities: [Nomadland (Title), Chloé Zhao (Director), worth watching (Viewers' Rating)]
+
+2. "Can you recommend a good action movie involving a bank robbery scene?"
+Named Entities: [action (Genre), bank robbery (Plot)]
+
+3. "What was the viewers' rating for The Dark Knight?"
+Named Entities: [The Dark Knight (Title), 8.9 stars (Viewers' Rating)]

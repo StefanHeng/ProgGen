@@ -1,0 +1,8 @@
+Sentence: "London Fashion Week kicks off with a star-studded lineup of designers and celebrities."
+Named Entities: [London Fashion Week (event)]
+
+Sentence: "Donatella Versace to unveil her latest collection at Paris Fashion Week."
+Named Entities: [Donatella Versace (person), Paris Fashion Week (event)]
+
+Sentence: "The vibrant fashion scene in Milan attracts global attention with the debut of Virgil Abloh's new streetwear line."
+Named Entities: [Milan (location), Virgil Abloh (person)]

@@ -1,0 +1,8 @@
+1. Text Span: "all-day"
+Label: (C). The span is a named entity but the category is not hours. Category: other
+
+2. Text Span: "a few hours"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "lunch"
+Label: (A). Correct Entity Annotation.

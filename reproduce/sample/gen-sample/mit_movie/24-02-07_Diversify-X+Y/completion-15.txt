@@ -1,0 +1,8 @@
+1. "Hey, what kind of movie is Star Wars: The Clone Wars? Like, is it sci-fi or action or what?"
+   Named Entities: [Star Wars: The Clone Wars (Title)]
+
+2. "Yo, I'm looking for some movies with Hera Syndulla from Star Wars, you know, the animated ones with her in it?"
+   Named Entities: [Hera Syndulla (Character), Star Wars (Franchise)]
+
+3. "What's the deal with The Incredibles? Is it a superhero movie or more of a family film?"
+   Named Entities: [The Incredibles (Title), superhero (Genre), family (Subgenre)]

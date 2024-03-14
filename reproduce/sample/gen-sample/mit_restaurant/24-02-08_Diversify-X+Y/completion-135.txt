@@ -1,0 +1,8 @@
+Query: "What are the nearest Italian restaurants open for dinner?"
+Named Entities: [nearest (Location), Italian (Cuisine), dinner (Amenity), Business hours (Hours)]
+
+Query: "I'm looking for a seafood place with outdoor seating for dinner, what's nearby?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), nearby (Location), dinner (Amenity)]
+
+Query: "I need to find a Mexican restaurant with late business hours for dinner tonight"
+Named Entities: [Mexican (Cuisine), late business hours (Hours), dinner (Amenity)]

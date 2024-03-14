@@ -1,0 +1,8 @@
+1. "Can you recommend a good action movie starring Kerry Washington?"
+Named Entities: [Kerry Washington (Actor), Action (Genre)]
+
+2. "I'm interested in watching a Spike Jonze film. Which movie directed by him has the best viewers' rating?"
+Named Entities: [Spike Jonze (Director), best viewers' rating (Viewers' Rating)]
+
+3. "Show me the trailer for the movie Jolene."
+Named Entities: [Jolene (Title), trailer (Trailer)]

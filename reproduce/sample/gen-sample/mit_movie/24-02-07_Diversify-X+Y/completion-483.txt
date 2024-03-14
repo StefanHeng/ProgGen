@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend a behind-the-scenes documentary about the making of an eye-opening movie about space exploration?"
+   Named Entities: [behind-the-scenes documentary (Plot), eye-opening (Review), space exploration (Genre)]
+
+2. Spoken Query: "I'm interested in learning more about Taxi Driver - do you have any behind-the-scenes footage or interviews with the director available?"
+   Named Entities: [behind-the-scenes footage (Plot), Taxi Driver (Title), director (Director)]
+
+3. Spoken Query: "I'm optimistic about finding a behind-the-scenes look at a Gwyneth Paltrow movie - any recommendations?"
+   Named Entities: [behind-the-scenes look (Plot), Gwyneth Paltrow (Actor)]

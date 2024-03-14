@@ -1,0 +1,8 @@
+1. Text Span: "unforgettable"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "satisfying conclusion"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "high viewers' ratings"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

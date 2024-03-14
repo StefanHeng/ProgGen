@@ -1,0 +1,11 @@
+1. Query: "Is Raging Bull considered a {{classic}} movie? What's it about?"
+Text Span: "classic"
+Label: (A). The span is a named entity of type review
+
+2. Query: "What are some {{raw and authentic}} films directed by Clint Eastwood?"
+Text Span: "raw and authentic"
+Label: (A). The span is a named entity of type review
+
+3. Query: "Can you recommend a movie with {{rich and layered storytelling}}?"
+Text Span: "rich and layered storytelling"
+Label: (A). The span is a named entity of type review

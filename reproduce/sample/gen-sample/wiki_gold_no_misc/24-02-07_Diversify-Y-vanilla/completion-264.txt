@@ -1,0 +1,8 @@
+Sentence: "Microsoft Azure provides a wide range of cloud services, including those for computing, analytics, storage, and networking."
+Named Entities: [Microsoft Azure (organization)]
+
+Sentence: "The company's headquarters is located in Redmond, Washington."
+Named Entities: [Redmond (location), Washington (location)]
+
+Sentence: "He became the CEO of a software company that specializes in developing applications for Microsoft Azure."
+Named Entities: [Microsoft Azure (organization)]

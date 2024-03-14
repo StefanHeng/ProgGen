@@ -1,0 +1,41 @@
+// demos=[
+//     dict(sentence='Apple unveils the latest iPhone model at a product launch event.', entity_span='Apple', label=CORRECT),
+//     dict(sentence='CEO of Tesla Elon Musk Denies Securities Fraud Allegations', entity_span='CEO', label=NA),
+//     dict(sentence='Japanese automaker Toyota recalls millions of vehicles.', entity_span='Japanese', label=NA),
+//     dict(sentence='Pfizer announces new vaccine efficacy data against COVID-19 variants.', entity_span='COVID-19', label=NA),
+// ]
+{"sentence": "Apple unveils the latest iPhone model at a product launch event.", "entity_span": "Apple", "label": "CORRECT"}
+{"sentence": "CEO of Tesla Elon Musk Denies Securities Fraud Allegations", "entity_span": "CEO", "label": "NA"}
+{"sentence": "Japanese automaker Toyota recalls millions of vehicles.", "entity_span": "Japanese", "label": "NA"}
+{"sentence": "Pfizer announces new vaccine efficacy data against COVID-19 variants.", "entity_span": "COVID-19", "label": "NA"}
+// dict(sentence='local charity organization provides free meals to homeless population during holiday season.', entity_span='local charity organization', label=NA),
+// dict(sentence='Local non-profit organization provides free meals to homeless veterans.', entity_span='non-profit organization', label=NA),
+// dict(sentence='Researchers discover new exoplanet in habitable zone.', entity_span='Researchers', label=NA),
+// dict(sentence='Canadian government announces new immigration policies to attract more international students.', entity_span='Canadian', label=NA)
+{"sentence": "local charity organization provides free meals to homeless population during holiday season.", "entity_span": "local charity organization", "label": "NA"}
+{"sentence": "Local non-profit organization provides free meals to homeless veterans.", "entity_span": "non-profit organization", "label": "NA"}
+{"sentence": "Researchers discover new exoplanet in habitable zone.", "entity_span": "Researchers", "label": "NA"}
+{"sentence": "Canadian government announces new mmigration policies to attract more international students.", "entity_span": "Canadian", "label": "NA"}
+// dict(sentence='The Indian government announces new policies to address air pollution in Delhi.', entity_span='Indian government', label=NA),
+// dict(sentence='Major electronics company headquartered in Seoul sees 15% increase in profits.', entity_span='company', label=NA),
+// dict(sentence='Local tech company to open new headquarters in San Francisco.', entity_span='tech company', label=NA),
+// dict(sentence='Australian Prime Minister to visit Sydney for climate change summit.', entity_span='Australian', label=NA),
+// dict(sentence='The University of Washington football team defeated Stanford in a close game.', entity_span='University of Washington', label=CORRECT)
+{"sentence": "The Indian government announces new policies to address air pollution in Delhi.", "entity_span": "Indian government", "label": "NA"}
+{"sentence": "Major electronics company headquartered in Seoul sees 15% increase in profits.", "entity_span": "company", "label": "NA"}
+{"sentence": "Local tech company to open new headquarters in San Francisco.", "entity_span": "tech company", "label": "NA"}
+{"sentence": "Australian Prime Minister to visit Sydney for climate change summit.", "entity_span": "Australian", "label": "NA"}
+{"sentence": "The University of Washington football team defeated Stanford in a close game.", "entity_span": "University of Washington", "label": "CORRECT"}
+// dict(sentence='Russian cosmonauts and Chinese astronauts conduct joint space mission.', entity_span='Russian', label=NA),
+// dict(sentence='Indian government bans TikTok and 58 other Chinese apps.', entity_span='TikTok', label=CORRECT)
+{"sentence": "Russian cosmonauts and Chinese astronauts conduct joint space mission.", "entity_span": "Russian", "label": "NA"}
+{"sentence": "Indian government bans TikTok and 58 other Chinese apps.", "entity_span": "TikTok", "label": "CORRECT"}
+// dict(sentence='Joe Biden holds talks with European leaders on climate change and global security.', entity_span='European', label=NA),
+// dict(sentence='Environmental group launches campaign to protect Arctic Circle wildlife.', entity_span='Environmental group', label=NA),
+// dict(sentence='Taiwanese startup revolutionizes the tech industry in Canada with innovative new app.', entity_span='Taiwanese', label=NA),
+// dict(sentence='Renowned Indian classical dancer performs at prestigious cultural event in Mumbai, India.', entity_span='Indian', label=NA),
+{"sentence": "Joe Biden holds talks with European leaders on climate change and global security.", "entity_span": "European", "label": "NA"}
+{"sentence": "Environmental group launches campaign to protect Arctic Circle wildlife.", "entity_span": "Environmental group", "label": "NA"}
+{"sentence": "Taiwanese startup revolutionizes the tech industry in Canada with innovative new app.", "entity_span": "Taiwanese", "label": "NA"}
+{"sentence": "Renowned Indian classical dancer performs at prestigious cultural event in Mumbai, India.", "entity_span": "Indian", "label": "NA"}
+{"sentence": "The United Nations announces new initiative to combat global hunger.", "entity_span": "United Nations", "label": "NA"}

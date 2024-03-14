@@ -1,0 +1,8 @@
+1. Text Span: "exceptional acting"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Boba Fett"
+Label: (A). The span is a named entity of type character
+
+3. Text Span: "Uhura"
+Label: (A). The span is a named entity of type character

@@ -1,0 +1,11 @@
+1. Sentence: "Walt Disney Parks and Resorts announces new expansion plans in {{Orlando}}."
+Text Span: "Orlando"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Fashion designers from around the world showcase their collections at {{Paris Fashion Week}}."
+Text Span: "Paris Fashion Week"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+3. Sentence: "{{India}} releases new economic growth forecast for Mumbai region."
+Text Span: "India"
+Label: (A). The span is a named entity of type location

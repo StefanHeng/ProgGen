@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good brunch menu in the downtown area?"
+Named Entities: [good (Rating), brunch (Amenity), downtown area (Location)]
+
+Query: "What are the brunch hours for The Giving Fork restaurant?"
+Named Entities: [brunch (Amenity), The Giving Fork (Restaurant Name), hours (Hours)]
+
+Query: "I'm looking for a place with affordable brunch options, maybe in the French cuisine category?"
+Named Entities: [affordable (Price), brunch (Amenity), French cuisine (Cuisine)]

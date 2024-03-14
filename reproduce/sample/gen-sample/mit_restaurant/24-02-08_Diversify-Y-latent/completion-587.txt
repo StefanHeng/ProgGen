@@ -1,0 +1,8 @@
+1. "Which restaurants in the area offer good value for money and have patio seating?"
+Named Entities: [Value for money (Amenity), Patio seating (Amenity)]
+
+2. "Can you recommend a place with garden seating and a diverse cuisine selection?"
+Named Entities: [Garden seating (Amenity), diverse cuisine (Cuisine selection)]
+
+3. "Is there a highly rated restaurant that offers both patio seating and good value for money?"
+Named Entities: [highly rated (Rating), patio seating (Amenity), Value for money (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a heartwarming movie released in 2010?"
+Named Entities: [heartwarming (Review), 2010 (Year)]
+
+Query: "I'm looking for the movie with the song 'I'm Gonna Be', can you help me find it?"
+Named Entities: [I'm Gonna Be (Song)]
+
+Query: "What is the genre of the film 'R'?"
+Named Entities: [R (Title)]

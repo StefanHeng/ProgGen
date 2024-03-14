@@ -1,0 +1,8 @@
+Query: "Can you suggest a buffet restaurant with a quiet and peaceful ambience?"
+Named Entities: [buffet (Cuisine), quiet and peaceful (Amenity)]
+
+Query: "I'm looking for a serene buffet restaurant, preferably with a rating of 4 stars or above"
+Named Entities: [buffet (Cuisine), serene (Amenity), 4 stars or above (Rating)]
+
+Query: "Where can I find a calm and relaxed buffet restaurant in the city center?"
+Named Entities: [buffet (Cuisine), calm and relaxed (Amenity), city center (Location)]

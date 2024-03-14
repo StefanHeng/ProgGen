@@ -1,0 +1,29 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France named after engineer Gustave Eiffel.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location), Gustave Eiffel (person)]
+
+2. The United Nations is an intergovernmental organization that aims to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a center for harmonizing the actions of nations.
+Named Entities: [United Nations (organization)]
+
+3. Born in Honolulu, Hawaii, Barack Obama is an American attorney and politician who served as the 44th president of the United States from 2009 to 2017.
+Named Entities: [Honolulu (location), Hawaii (location), Barack Obama (person), United States (location)]
+
+4. The Roman Empire was the post-Republican period of ancient Rome, characterized by government headed by emperors and large territorial holdings around the Mediterranean Sea in Europe, Africa, and Asia.
+Named Entities: [Roman Empire (organization), Rome (location), Mediterranean Sea (location), Europe (location), Africa (location), Asia (location)]
+
+5. In 1928, Walt Disney founded the eponymous company, which is now one of the largest and best-known entertainment conglomerates in the world.
+Named Entities: [Walt Disney (person)]
+
+6. The Great Barrier Reef is a site of remarkable variety and beauty on the north-east coast of Australia, and is the world's largest coral reef system.
+Named Entities: [Great Barrier Reef (location), Australia (location)]
+
+7. NASA, the National Aeronautics and Space Administration, is an independent agency of the United States federal government that conducts civil space research.
+Named Entities: [NASA (organization), National Aeronautics and Space Administration (organization), United States (location)]
+
+8. Born in Santiago, Chile, Isabel Allende is a Chilean writer whose works sometimes contain aspects of the "magic realist" tradition.
+Named Entities: [Santiago (location), Chile (location), Isabel Allende (person)]
+
+9. The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+10. As an actor, philanthropist, and musician, Will Smith has achieved success in multiple areas of entertainment and is known for his roles in a number of popular films.
+Named Entities: [Will Smith (person)]

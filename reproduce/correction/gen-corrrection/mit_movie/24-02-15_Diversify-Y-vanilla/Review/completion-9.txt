@@ -1,0 +1,11 @@
+1. Query: "What are some of the most powerful and impactful movies of the 21st century according to {{AA}}?"
+Text Span: "AA"
+Label: (D). The span is not a named entity
+
+2. Query: "What did the critics say about the {{mediocre}} movie last week?"
+Text Span: "mediocre"
+Label: (A). The span is a named entity of type review
+
+3. Query: "What movie did Martin Scorsese direct that is known for its {{stellar}} special effects?"
+Text Span: "stellar"
+Label: (A). The span is a named entity of type review

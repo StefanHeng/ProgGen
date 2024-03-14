@@ -1,0 +1,8 @@
+1. "Can you recommend a movie from 2000-2005 with a 2-star rating by Johnny Depp?"
+Named Entities: [2000-2005 (Year), 2-star rating (Viewers' Rating), Johnny Depp (Actor)]
+
+2. "I'm looking for reviews of the movie Inside Out. What do people think about it?"
+Named Entities: [Inside Out (Title), reviews (Review)]
+
+3. "Do you have any movie footage of a zombie film with high ratings?"
+Named Entities: [movie footage (Trailer), zombie (Genre)]

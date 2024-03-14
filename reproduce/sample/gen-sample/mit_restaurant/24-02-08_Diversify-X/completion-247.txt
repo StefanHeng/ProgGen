@@ -1,0 +1,8 @@
+Query: "can you recommend a nearby café with outdoor seating"
+Named Entities: [nearby (Location), café (Amenity), outdoor seating (Amenity)]
+
+Query: "what are the best brunch spots in the area"
+Named Entities: [best (Rating), brunch (Amenity), area (Location)]
+
+Query: "show me a café with vegetarian options and free wifi"
+Named Entities: [café (Amenity), vegetarian (Cuisine), free wifi (Amenity)]

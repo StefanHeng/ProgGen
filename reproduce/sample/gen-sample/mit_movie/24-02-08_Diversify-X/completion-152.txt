@@ -1,0 +1,8 @@
+1. "Can you recommend a movie featuring Leonardo DiCaprio and directed by Christopher Nolan?"
+   Named Entities: [Leonardo DiCaprio (Actor), Christopher Nolan (Director)]
+
+2. "What are some popular action movies from the 90s?"
+   Named Entities: [action (Genre), 90s (Year)]
+
+3. "I'm looking for a comedy film starring Emma Stone and Ryan Reynolds, can you help me find one?"
+   Named Entities: [comedy (Genre), Emma Stone (Actor), Ryan Reynolds (Actor)]

@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the awe-inducing science fiction movie directed by Steven Spielberg"
+Named Entities: [trailer (Trailer), awe-inducing science fiction (Genre), Steven Spielberg (Director)]
+
+2. "What is the viewers' rating for the movie La Bamba released between 1995 and 1997"
+Named Entities: [La Bamba (Title), 1995-1997 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Is the movie MA rated 4.5 stars by the critics"
+Named Entities: [MA (MPAA Rating), 4.5 stars (Review)]

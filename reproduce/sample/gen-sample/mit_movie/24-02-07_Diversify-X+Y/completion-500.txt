@@ -1,0 +1,8 @@
+1. Query: "I can't wait any longer, show me a clip of The Good, the Bad and the Ugly movie"
+   Named Entities: [The Good, the Bad and the Ugly (Title), Clip (Trailer)]
+
+2. Query: "Hurry up, I need to see a teaser of Chris Hemsworth's latest film"
+   Named Entities: [Chris Hemsworth (Actor), teaser (Trailer)]
+
+3. Query: "I'm in a rush, can you show me a clip of All the Stars featuring Jason Statham"
+   Named Entities: [All the Stars (Song), Jason Statham (Actor), Clip (Trailer)]

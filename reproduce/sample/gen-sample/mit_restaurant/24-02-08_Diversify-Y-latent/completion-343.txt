@@ -1,0 +1,8 @@
+1. "What is the best Italian restaurant in this area according to reviews?"
+Named Entities: [Italian (Cuisine), best (Rating), this area (Location), reviews (Amenity)]
+
+2. "I'm looking for a restaurant that serves sushi and is open late on weekends."
+Named Entities: [sushi (Cuisine), open late on weekends (Hours)]
+
+3. "Can you recommend a budget-friendly restaurant with outdoor seating?"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity)]

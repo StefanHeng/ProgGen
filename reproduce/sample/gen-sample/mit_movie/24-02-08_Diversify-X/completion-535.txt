@@ -1,0 +1,8 @@
+Query: "Can I find a movie from the 1960s that is available on Netflix and has a high rating?"
+Named Entities: [1960s (Year), Netflix (Streaming platform), high rating (Viewers' Rating)]
+
+Query: "Which director made an action film that is on Amazon Prime, and can you show me the trailer?"
+Named Entities: [action film (Genre), Amazon Prime (Streaming platform), the trailer (Trailer)]
+
+Query: "I'm craving a classic romance movie that I can watch on Hulu, can you recommend one with a popular actor?"
+Named Entities: [classic romance movie (Genre), Hulu (Streaming platform), popular actor (Actor)]

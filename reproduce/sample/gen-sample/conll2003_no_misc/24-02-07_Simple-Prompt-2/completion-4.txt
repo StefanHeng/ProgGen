@@ -1,0 +1,44 @@
+1. Apple launches new iPhone 12.
+Named Entities: [Apple (organization)]
+
+2. President Biden signs executive order on climate change.
+Named Entities: [Biden (person)]
+
+3. Tokyo Olympics postponed until 2021 due to COVID-19.
+Named Entities: [Tokyo (location)]
+
+4. Amazon announces plans to open new headquarters in Texas.
+Named Entities: [Amazon (organization), Texas (location)]
+
+5. Elon Musk's SpaceX successfully launches new satellite into space.
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+6. European Union imposes sanctions on Russia.
+Named Entities: [European Union (organization), Russia (location)]
+
+7. California wildfires continue to threaten homes.
+Named Entities: [California (location)]
+
+8. Pfizer and Moderna announce progress on COVID-19 vaccine.
+Named Entities: [Pfizer (organization), Moderna (organization)]
+
+9. Russian opposition leader Alexei Navalny detained upon returning to Moscow.
+Named Entities: [Alexei Navalny (person), Moscow (location), Russia (location)]
+
+10. Jeff Bezos steps down as CEO of Amazon.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+
+11. New York City to invest billions in renewable energy projects.
+Named Entities: [New York City (location)]
+
+12. United Nations calls for ceasefire in Syria.
+Named Entities: [United Nations (organization), Syria (location)]
+
+13. Simone Biles wins gold at gymnastics world championships.
+Named Entities: [Simone Biles (person)]
+
+14. Tesla to build new gigafactory in Germany.
+Named Entities: [Tesla (organization), Germany (location)]
+
+15. South Africa to implement new COVID-19 restrictions.
+Named Entities: [South Africa (location)]

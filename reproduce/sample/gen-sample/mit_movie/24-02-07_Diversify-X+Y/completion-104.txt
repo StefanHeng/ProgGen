@@ -1,0 +1,8 @@
+1. "Is there a movie available to stream on any platforms with a 96% audience score and a sneak peek?"
+    Named Entities: [96% audience score (Viewers' Rating), sneak peek (Trailer)]
+
+2. "I want to watch a movie with a high audience rating. Can you suggest one that is available for streaming?"
+    Named Entities: [high audience rating (Viewers' Rating)]
+
+3. "Are there any streaming platforms with a sneak peek of a highly-rated movie?"
+    Named Entities: [sneak peek (Trailer), highly-rated (Viewers' Rating)]

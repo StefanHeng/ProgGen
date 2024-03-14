@@ -1,0 +1,149 @@
+1. "What time does Pizza Hut close tonight?"
+Named Entities: [Pizza Hut (Restaurant Name), close tonight (Hours)]
+
+2. "I'm looking for Italian cuisine with outdoor seating"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+3. "Where can I find the best sushi in town?"
+Named Entities: [sushi (Dish), best (Rating), town (Location)]
+
+4. "What's the price range for seafood restaurants in the area?"
+Named Entities: [seafood (Cuisine), price range (Price), area (Location)]
+
+5. "Which diner has the highest customer rating for breakfast?"
+Named Entities: [diner (Restaurant Name), highest customer rating (Rating), breakfast (Amenity)]
+
+6. "I need to find a vegan-friendly place for lunch"
+Named Entities: [vegan-friendly (Amenity), lunch (Amenity)]
+
+7. "Is there a Mexican restaurant nearby that's open until midnight?"
+Named Entities: [Mexican (Cuisine), nearby (Location), open until midnight (Hours)]
+
+8. "I'm in the mood for some spicy Indian food. Where should I go?"
+Named Entities: [spicy (Amenity), Indian (Cuisine)]
+
+9. "Find me a steakhouse with a 5-star rating"
+Named Entities: [steakhouse (Restaurant Name), 5-star (Rating)]
+
+10. "What's the cheapest place to get a burger in this city?"
+Named Entities: [cheapest (Price), burger (Dish), city (Location)]
+
+11. "Where can I grab a cup of coffee before 8 am?"
+Named Entities: [cup of coffee (Dish), before 8 am (Hours)]
+
+12. "I'm craving some Thai food. Any recommendations?"
+Named Entities: [Thai (Cuisine)]
+
+13. "Which bar has the best happy hour specials?"
+Named Entities: [bar (Amenity), best happy hour specials (Amenity)]
+
+14. "I'd like to make a reservation at The Cheesecake Factory"
+Named Entities: [reservation (Amenity), The Cheesecake Factory (Restaurant Name)]
+
+15. "Where's the nearest fast food joint?"
+Named Entities: [nearest (Location), fast food (Amenity)]
+
+16. "Can you help me find a place with live music and a good beer selection?"
+Named Entities: [live music (Amenity), good beer selection (Amenity)]
+
+17. "What's the rating for the Chinese restaurant on Main Street?"
+Named Entities: [rating (Rating), Chinese (Cuisine), Main Street (Location)]
+
+18. "I want to order a large pepperoni pizza for delivery"
+Named Entities: [large pepperoni pizza (Dish), delivery (Amenity)]
+
+19. "Is there a 24-hour diner around here?"
+Named Entities: [24-hour (Hours), diner (Amenity)]
+
+20. "I'm searching for a family-friendly Italian restaurant"
+Named Entities: [family-friendly (Amenity), Italian (Cuisine)]
+
+21. "Where can I go for a fancy dinner?"
+Named Entities: [fancy (Amenity), dinner (Amenity)]
+
+22. "Which restaurant serves the best brunch in the city?"
+Named Entities: [restaurant (Restaurant Name), best (Rating), brunch (Amenity), city (Location)]
+
+23. "What's the average cost of a meal at the steakhouse downtown?"
+Named Entities: [average cost (Price), steakhouse (Restaurant Name), downtown (Location)]
+
+24. "I'd like to find a place that offers vegetarian options"
+Named Entities: [vegetarian options (Amenity)]
+
+25. "Can you recommend a good seafood spot for a date night?"
+Named Entities: [recommend (Rating), seafood (Cuisine), date night (Amenity)]
+
+26. "I need a table for two at the Italian bistro"
+Named Entities: [table for two (Amenity), Italian (Cuisine), bistro (Amenity)]
+
+27. "Where can I get a burger with a side of onion rings?"
+Named Entities: [burger (Dish), side of onion rings (Amenity)]
+
+28. "What time does the Mexican grill open for lunch?"
+Named Entities: [Mexican grill (Restaurant Name), open for lunch (Hours)]
+
+29. "I'm looking for a budget-friendly spot for happy hour"
+Named Entities: [budget-friendly (Price), happy hour (Amenity)]
+
+30. "Is the Italian restaurant cash-only?"
+Named Entities: [Italian (Cuisine), cash-only (Payment)]
+
+31. "Where can I find a 24-hour coffee shop?"
+Named Entities: [24-hour (Hours), coffee shop (Amenity)]
+
+32. "What's the highest-rated BBQ joint in the area?"
+Named Entities: [highest-rated (Rating), BBQ (Cuisine), area (Location)]
+
+33. "I want to order a large pepperoni pizza for delivery"
+Named Entities: [large pepperoni pizza (Dish), delivery (Amenity)]
+
+34. "I'm craving some spicy Mexican food. Any recommendations?"
+Named Entities: [spicy (Amenity), Mexican (Cuisine)]
+
+35. "Where can I get a good cup of tea with a view?"
+Named Entities: [good cup of tea (Dish), view (Amenity)]
+
+36. "I need to find a bakery that's open late"
+Named Entities: [bakery (Amenity), open late (Hours)]
+
+37. "Which restaurant has the best outdoor seating in the city?"
+Named Entities: [restaurant (Restaurant Name), best outdoor seating (Amenity), city (Location)]
+
+38. "Can you help me find a place that offers gluten-free options?"
+Named Entities: [gluten-free options (Amenity)]
+
+39. "What's the price range for Italian restaurants in this neighborhood?"
+Named Entities: [Italian (Cuisine), price range (Price), neighborhood (Location)]
+
+40. "Where can I find a good taco truck in the downtown area?"
+Named Entities: [good (Rating), taco truck (Restaurant Name), downtown (Location)]
+
+41. "I'm looking for a casual spot for a quick lunch"
+Named Entities: [casual (Amenity), quick lunch (Amenity)]
+
+42. "Where does the café with the best pastries in town?"
+Named Entities: [café (Amenity), best pastries (Dish), town (Location)]
+
+43. "I need to make a reservation for four at the Thai restaurant"
+Named Entities: [reservation (Amenity), four (Amenity), Thai (Cuisine), restaurant (Restaurant Name)]
+
+44. "Is there a 24-hour diner around here?"
+Named Entities: [24-hour (Hours), diner (Amenity)]
+
+45. "Where's the nearest fast food joint?"
+Named Entities: [nearest (Location), fast food (Amenity)]
+
+46. "Can you recommend a good seafood spot for a date night?"
+Named Entities: [recommend (Rating), seafood (Cuisine), date night (Amenity)]
+
+47. "What time does the Mexican grill open for lunch?"
+Named Entities: [Mexican grill (Restaurant Name), open for lunch (Hours)]
+
+48. "I need a table for two at the Italian bistro"
+Named Entities: [table for two (Amenity), Italian (Cuisine), bistro (Amenity)]
+
+49. "Where can I find a 24-hour coffee shop?"
+Named Entities: [24-hour (Hours), coffee shop (Amenity)]
+
+50. "What's the highest-rated BBQ joint in the area?"
+Named Entities: [highest-rated (Rating), BBQ (Cuisine), area (Location)]

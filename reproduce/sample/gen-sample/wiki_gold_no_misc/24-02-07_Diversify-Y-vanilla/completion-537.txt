@@ -1,0 +1,8 @@
+1. The construction of the [Sydney Harbour Bridge] started in 1923 and it was completed in 1932.
+Named Entities: [Sydney Harbour Bridge (location)]
+
+2. The museum is operated by the Royal Air Force Museum, a non-departmental public body sponsored by the Ministry of Defence.
+Named Entities: [Royal Air Force Museum (organization), Ministry of Defence (organization)]
+
+3. The artist, Vincent van Gogh, lived in various locations throughout his life, including Arles, Saint-Rémy-de-Provence, and Auvers-sur-Oise.
+Named Entities: [Vincent van Gogh (person), Arles (location), Saint-Rémy-de-Provence (location), Auvers-sur-Oise (location)]

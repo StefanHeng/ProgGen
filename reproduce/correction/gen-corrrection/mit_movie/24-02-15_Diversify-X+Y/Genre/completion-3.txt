@@ -1,0 +1,8 @@
+1. Text Span: "Exciting"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "adventure"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "streaming platforms"
+Label: (C). Wrong Type. The correct entity type is other.

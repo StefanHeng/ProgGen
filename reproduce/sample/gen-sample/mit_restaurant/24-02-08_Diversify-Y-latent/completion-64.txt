@@ -1,0 +1,8 @@
+Query: "I'm in the mood for Italian food, where can I find a restaurant with good ratings for around $30 per person?"
+Named Entities: [Italian (Cuisine), good ratings (Rating), around $30 per person (Price)]
+
+Query: "What are the hours for the nearest seafood restaurant?"
+Named Entities: [seafood (Cuisine), nearest (Location), Hours]
+
+Query: "Can you recommend a restaurant with outdoor seating and a nice view for under $30 per person?"
+Named Entities: [outdoor seating (Amenity), nice view (Amenity), under $30 per person (Price)]

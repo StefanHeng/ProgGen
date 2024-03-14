@@ -1,0 +1,8 @@
+Query: "can you recommend any movies featuring Michael Corleone?"
+Named Entities: [Michael Corleone (Character)]
+
+Query: "show me a movie with Al Pacino playing the role of Michael Corleone"
+Named Entities: [Al Pacino (Actor), Michael Corleone (Character)]
+
+Query: "what is the highest rated movie that includes a character similar to Michael Corleone?"
+Named Entities: [highest rated (Viewers' Rating), Michael Corleone (Character)]

@@ -1,0 +1,8 @@
+1. "I need to watch a comedy movie right now, is 'The Hangover' available on any streaming platform?"
+Named Entities: ['The Hangover' (Title), comedy (Genre)]
+
+2. "I can't find 'Inception' anywhere, is it on any streaming platform?"
+Named Entities: ['Inception' (Title)]
+
+3. "I'm in the mood for a classic, is 'Casablanca' streaming anywhere?"
+Named Entities: ['Casablanca' (Title), classic (Genre)]

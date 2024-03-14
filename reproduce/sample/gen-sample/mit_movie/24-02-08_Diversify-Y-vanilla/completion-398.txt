@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies directed by Wes Craven that feature Kate Winslet?"
+Named Entities: [Wes Craven (Director), Kate Winslet (Actor)]
+
+2. Query: "Are there any disaster movies set to be released in 2023?"
+Named Entities: [2023 (Year), Disaster (Genre)]
+
+3. Query: "What is the best-rated movie directed by Wes Craven?"
+Named Entities: [Wes Craven (Director), best-rated (Viewers' Rating)]

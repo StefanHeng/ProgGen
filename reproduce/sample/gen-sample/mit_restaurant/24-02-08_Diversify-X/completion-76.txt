@@ -1,0 +1,8 @@
+Query: "Do you know any restaurants that serve a good breakfast burrito?"
+Named Entities: [good (Rating), breakfast burrito (Dish)]
+
+Query: "I'm looking for a place with a cozy atmosphere and a variety of breakfast options."
+Named Entities: [cozy atmosphere (Amenity), breakfast options (Dish)]
+
+Query: "Can you recommend a breakfast spot with a waterfront location and reasonable prices?"
+Named Entities: [waterfront location (Location), reasonable prices (Price)]

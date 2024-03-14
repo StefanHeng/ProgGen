@@ -1,0 +1,11 @@
+1. Sentence: "Each year, {{The National Book Foundation}} presents the National Book Awards to honor exceptional contributions to American literature in various genres such as fiction, nonfiction, poetry, and young people's literature."
+Text Span: "The National Book Foundation"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The {{Writers Guild of America, East}}, is a labor union representing film, television, and radio writers on the East Coast of the United States."
+Text Span: "Writers Guild of America, East"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "His magnum opus {{Being and Time}}, is considered a foundational text of 20th-century philosophy."
+Text Span: "Being and Time"
+Label: (D). The span is not a named entity

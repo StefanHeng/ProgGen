@@ -1,0 +1,8 @@
+1. "Can you recommend any Italian restaurants in the downtown area with an outdoor terrace?"
+Named Entities: [Italian (Cuisine), downtown area (Location), outdoor terrace (Amenity)]
+
+2. "I'm craving some sushi. Where is the nearest sushi bar with a good happy hour menu?"
+Named Entities: [sushi (Cuisine), nearest (Location), good (Rating), happy hour (Amenity)]
+
+3. "What are the operating hours of Olive Garden, the Italian restaurant on Main Street?"
+Named Entities: [Olive Garden (Restaurant Name), Italian (Cuisine), Main Street (Location), operating hours (Hours)]

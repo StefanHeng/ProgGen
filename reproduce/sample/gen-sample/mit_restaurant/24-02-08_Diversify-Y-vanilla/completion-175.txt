@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with great calamari?"
+Named Entities: [restaurant (Amenity), great (Rating), calamari (Dish)]
+
+2. Query: "I'm craving calamari, where can I find a place with authentic Italian cuisine?"
+Named Entities: [calamari (Dish), authentic Italian (Cuisine)]
+
+3. Query: "What are the opening hours for the seafood restaurant that serves the best calamari in town?"
+Named Entities: [seafood restaurant (Cuisine), best (Rating), calamari (Dish), opening hours (Hours)]

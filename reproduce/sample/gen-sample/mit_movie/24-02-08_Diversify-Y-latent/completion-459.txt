@@ -1,0 +1,8 @@
+1. "What is the genre of the movie All That Jazz directed by Bob Fosse and rated R?"
+Named Entities: [All That Jazz (Title), Bob Fosse (Director), R (MPAA Rating)]
+
+2. "Could you recommend a post-apocalyptic film with Sandra Bullock?"
+Named Entities: [post-apocalyptic (Genre), Sandra Bullock (Actor)]
+
+3. "Show me the teaser for the new movie directed by James Wan starring Jennifer Aniston called Gothic."
+Named Entities: [teaser (Trailer), James Wan (Director), Jennifer Aniston (Actor), Gothic (Title)]

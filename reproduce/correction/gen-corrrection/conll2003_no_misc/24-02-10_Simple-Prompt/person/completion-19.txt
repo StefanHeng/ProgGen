@@ -1,0 +1,8 @@
+1. Text Span: "President Obama"
+Label: (A)
+
+2. Text Span: "Elon Musk"
+Label: (A)
+
+3. Text Span: "Prime Minister of Canada"
+Label: (C). The correct entity type is organization.

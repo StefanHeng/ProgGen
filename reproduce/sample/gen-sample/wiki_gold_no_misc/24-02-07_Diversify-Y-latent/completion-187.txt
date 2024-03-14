@@ -1,0 +1,8 @@
+Sentence: "The Louvre Palace was originally built as a fortress in the late 12th century."
+Named Entities: [Louvre Palace (location)]
+
+Sentence: "She joined the United Nations Children's Fund in 2005 as a communications specialist."
+Named Entities: [United Nations Children's Fund (organization)]
+
+Sentence: "The Mona Lisa, also known as La Gioconda, is a portrait of Lisa Gherardini, a woman from Florence."
+Named Entities: [Mona Lisa (person), Lisa Gherardini (person), Florence (location)]

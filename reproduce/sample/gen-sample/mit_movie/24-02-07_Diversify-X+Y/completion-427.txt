@@ -1,0 +1,8 @@
+Query: "I'm trying to decide what to watch. Do you know if the movie Ant-Man is available on any streaming platforms?"
+Named Entities: [Ant-Man (Title)]
+
+Query: "I'm in the mood for a survival adventure. Any idea where I can find a movie with that theme?"
+Named Entities: [survival adventure (Genre)]
+
+Query: "I'm not sure what to watch. Can you help me find a movie with a plot related to cybercrime?"
+Named Entities: [cybercrime (Plot)]

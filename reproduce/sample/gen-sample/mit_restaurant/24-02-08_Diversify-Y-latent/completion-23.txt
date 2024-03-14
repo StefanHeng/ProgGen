@@ -1,0 +1,8 @@
+Query: "Can you recommend any late-night dining options near Denny's?"
+Named Entities: [late-night dining options (Amenity), Denny's (Restaurant Name)]
+
+Query: "I'm in the mood for some affordable comfort food, where can I find a Denny's nearby?"
+Named Entities: [affordable (Price), comfort food (Cuisine), Denny's (Restaurant Name)]
+
+Query: "What are the hours for Denny's? I'm craving some breakfast food before 7 am."
+Named Entities: [Denny's (Restaurant Name), before 7 am (Hours)]

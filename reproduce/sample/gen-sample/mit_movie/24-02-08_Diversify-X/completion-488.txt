@@ -1,0 +1,8 @@
+1. Query: "Has the film Gladiator won any awards?"
+   Named Entities: [Gladiator (Title), awards (Awards)]
+
+2. Query: "What movie from the 1960s was nominated for the most Oscars?"
+   Named Entities: [1960s (Year), Oscars (Awards)]
+
+3. Query: "Did Steven Spielberg direct any movies that won a Golden Globe?"
+   Named Entities: [Steven Spielberg (Director), Golden Globe (Awards)]

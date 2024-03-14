@@ -1,0 +1,8 @@
+1. Text Span: "good rating"
+Label: (A). The span is a named entity of type rating
+
+2. Text Span: "great"
+Label: (A). The span is a named entity of type rating
+
+3. Text Span: "best"
+Label: (A). The span is a named entity of type rating

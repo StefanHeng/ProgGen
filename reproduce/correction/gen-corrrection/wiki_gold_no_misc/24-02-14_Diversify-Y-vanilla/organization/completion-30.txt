@@ -1,0 +1,11 @@
+1. Sentence: "The {{Shanghai Stock Exchange}} (SSE) is one of the two stock exchanges operating independently in the People's Republic of China."
+Text Span: "Shanghai Stock Exchange"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The actress Emma Watson gained international fame from her role as Hermione Granger in the {{Harry Potter}} film series."
+Text Span: "Harry Potter"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: "The Jakarta Stock Exchange was established as a stock exchange trading floor under the Capital Market Supervisory Agency (Bapepam), and was later privatised to be traded by PT Bursa Efek Jakarta (Persero) ({{Jakarta Stock Exchange}}), or the Jakarta Stock Exchange."
+Text Span: "Jakarta Stock Exchange"
+Label: (A). The span is a named entity of type organization

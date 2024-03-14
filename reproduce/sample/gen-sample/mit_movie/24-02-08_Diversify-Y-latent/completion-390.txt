@@ -1,0 +1,8 @@
+1. Query: "Who directed the action-packed movie with George Miller as the lead actor?"
+Named Entities: [action-packed (Genre), George Miller (Actor)]
+
+2. Query: "Are there any movies about witness protection that are worth watching?"
+Named Entities: [witness protection (Plot), worth watching (Viewers' Rating)]
+
+3. Query: "Should I avoid at all costs the film with the amazing set design?"
+Named Entities: [Avoid at all costs (Review), amazing set design (Character)]

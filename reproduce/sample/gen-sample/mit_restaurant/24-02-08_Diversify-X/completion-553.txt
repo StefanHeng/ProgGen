@@ -1,0 +1,8 @@
+1. "Can you recommend a café with paleo options in the area?"
+Named Entities: [café (Amenity), paleo (Dietary Restriction), area (Location)]
+
+2. "What are the operating hours for the nearest café with paleo-friendly dishes?"
+Named Entities: [operating hours (Hours), café (Amenity), paleo-friendly (Dietary Restriction), nearest (Location)]
+
+3. "I'm looking for a café with a good rating that serves paleo meals. Any suggestions?"
+Named Entities: [café (Amenity), good rating (Rating), paleo meals (Dish) ]

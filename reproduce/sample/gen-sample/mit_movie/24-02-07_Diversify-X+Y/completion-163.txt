@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of any movies involving a drug cartel?"
+Named Entities: [Drug cartel (Plot)]
+
+2. Query: "Do you have any recommendations for movies released in 2001?"
+Named Entities: [2001 (Year)]
+
+3. Query: "What movie features Professor Snape as a character and is considered a cinematic highlight?"
+Named Entities: [Professor Snape (Character), Highlight (Viewers' Rating)]

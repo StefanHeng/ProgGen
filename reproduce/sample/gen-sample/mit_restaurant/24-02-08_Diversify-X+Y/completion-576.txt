@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a romantic ambience and waterfront views?"
+   Named Entities: [fine dining (Price), romantic (Amenity), waterfront views (Amenity)]
+
+2. "I'm looking for a restaurant with a romantic atmosphere and a mountain view, can you help me find one?"
+   Named Entities: [romantic (Amenity), mountain view (Amenity)]
+
+3. "Where can I have a fine dining experience with a romantic ambience and a view of the mountains?"
+   Named Entities: [fine dining (Price), romantic (Amenity), mountain view (Amenity)]

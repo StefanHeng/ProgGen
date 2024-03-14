@@ -1,0 +1,59 @@
+1. "Can you tell me the director of the movie Inception?"
+   Named Entities: [Inception (Title), director (Director)]
+
+2. "Is the movie Titanic worth watching?"
+   Named Entities: [Titanic (Title), worth watching (Viewers' Rating)]
+
+3. "What year was the movie Forrest Gump released?"
+   Named Entities: [Forrest Gump (Title), released (Year)]
+
+4. "What is the genre of the movie The Dark Knight?"
+   Named Entities: [The Dark Knight (Title), genre (Genre)]
+
+5. "Who directed the movie Shawshank Redemption?"
+   Named Entities: [Shawshank Redemption (Title), directed (Director)]
+
+6. "What is the MPAA rating for the movie The Matrix?"
+   Named Entities: [The Matrix (Title), MPAA rating (MPAA Rating)]
+
+7. "Can you tell me the plot of the movie Inception?"
+   Named Entities: [Inception (Title), plot (Plot)]
+
+8. "Is Leonardo DiCaprio in the movie Catch Me If You Can?"
+   Named Entities: [Leonardo DiCaprio (Actor), Catch Me If You Can (Title)]
+
+9. "Show me the trailer for the movie Jurassic Park"
+   Named Entities: [Jurassic Park (Title), trailer (Trailer)]
+
+10. "What movie features the song My Heart Will Go On?"
+    Named Entities: [My Heart Will Go On (Song)] 
+
+11. "I want to read a review of the movie The Godfather"
+    Named Entities: [The Godfather (Title), review (Review)]
+
+12. "What character does Johnny Depp play in the Pirates of the Caribbean movies?"
+    Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Title), character (Character)]
+
+13. "Give me the viewers' rating for the movie Inception"
+    Named Entities: [Inception (Title), viewers' rating (Viewers' Rating)]
+
+14. "Could you recommend a movie released in the 80s?"
+    Named Entities: [80s (Year)]
+
+15. "Which movie directed by Steven Spielberg has the highest viewers' rating?"
+    Named Entities: [Steven Spielberg (Director), viewers' rating (Viewers' Rating)]
+
+16. "Is the movie The Social Network based on a true story?"
+    Named Entities: [The Social Network (Title), true story (Plot)]
+
+17. "Who are the main actors in the movie The Avengers?"
+    Named Entities: [The Avengers (Title), main actors (Actor)]
+
+18. "Show me the trailer for the movie Avatar"
+    Named Entities: [Avatar (Title), trailer (Trailer)]
+
+19. "What is the genre of the movie The Rocky Horror Picture Show?"
+    Named Entities: [The Rocky Horror Picture Show (Title), genre (Genre)]
+
+20. "What is the MPAA rating for the movie The Silence of the Lambs?"
+    Named Entities: [The Silence of the Lambs (Title), MPAA rating (MPAA Rating)]

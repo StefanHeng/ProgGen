@@ -1,0 +1,8 @@
+1. "Can you play the trailer for the latest Dario Argento film?"
+Named Entities: [trailer (Trailer), Dario Argento (Director)]
+
+2. "Are there any PG-14 rated movies starring Samuel L. Jackson?"
+Named Entities: [PG-14 (MPAA Rating), Samuel L. Jackson (Actor)]
+
+3. "What genre does Bong Joon-ho typically direct in?"
+Named Entities: [Bong Joon-ho (Director)]

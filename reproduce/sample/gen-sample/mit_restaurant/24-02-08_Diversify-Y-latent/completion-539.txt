@@ -1,0 +1,8 @@
+1. "Can you make a reservation at Chez Panisse for 7 p.m. tonight?"
+Named Entities: [Chez Panisse (Restaurant Name), 7 p.m. (Hours)]
+
+2. "What restaurants nearby offer buffet service hours?"
+Named Entities: [buffet service hours (Amenity)]
+
+3. "I'm craving some Italian cuisine, where can I find a good spot with reasonable prices?"
+Named Entities: [Italian (Cuisine), reasonable prices (Price)]

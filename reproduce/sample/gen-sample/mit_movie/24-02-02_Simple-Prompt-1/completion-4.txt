@@ -1,0 +1,44 @@
+1. Can you tell me the release year of the movie "The Shawshank Redemption"?
+Named Entities: ["The Shawshank Redemption" (Title)]
+
+2. Please show me a movie with a high viewers' rating.
+Named Entities: [high (Viewers' Rating)]
+
+3. What genre does the movie "Inception" belong to?
+Named Entities: ["Inception" (Title)]
+
+4. Who directed the film "The Dark Knight"?
+Named Entities: ["The Dark Knight" (Title)]
+
+5. What is the MPAA rating for the movie "Jurassic Park"?
+Named Entities: ["Jurassic Park" (Title)]
+
+6. Can you provide a brief plot summary for the movie "Forrest Gump"?
+Named Entities: ["Forrest Gump" (Title)]
+
+7. Is Brad Pitt in the trailer for the film "Fight Club"?
+Named Entities: [Brad Pitt (Actor), "Fight Club" (Title)]
+
+8. Show me a movie with the song "My Heart Will Go On".
+Named Entities: ["My Heart Will Go On" (Song)]
+
+9. What are the reviews for the movie "The Godfather"?
+Named Entities: ["The Godfather" (Title)]
+
+10. Can you tell me the main character of the movie "The Matrix"?
+Named Entities: ["The Matrix" (Title)]
+
+11. What year did "Titanic" with Leonardo DiCaprio come out?
+Named Entities: ["Titanic" (Title), Leonardo DiCaprio (Actor)]
+
+12. I want to watch a comedy film, can you recommend one?
+Named Entities: [comedy (Genre)]
+
+13. Are there any movies directed by Steven Spielberg that I should watch?
+Named Entities: [Steven Spielberg (Director), should watch (Viewers' Rating)]
+
+14. Could you show me a film with George Clooney as the lead actor?
+Named Entities: [George Clooney (Actor)]
+
+15. What is the MPAA rating for the movie "The Exorcist"?
+Named Entities: ["The Exorcist" (Title)]

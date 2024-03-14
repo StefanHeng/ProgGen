@@ -1,0 +1,8 @@
+1. Text Span: "Dell Technologies"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "UNESCO"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Fortune 500"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. The correct span boundary is "Fortune 500 companies".

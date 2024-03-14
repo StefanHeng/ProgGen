@@ -1,0 +1,8 @@
+Query: "Can you tell me when and where I can see the new Spider-Man movie?"
+Named Entities: [Spider-Man (Title)]
+
+Query: "I'm really looking forward to watching a romantic comedy with Julia Roberts, can you suggest one for me?"
+Named Entities: [romantic comedy (Genre), Julia Roberts (Actor)]
+
+Query: "I heard great things about the new James Bond movie, can you help me find tickets for it?"
+Named Entities: [James Bond (Title)]

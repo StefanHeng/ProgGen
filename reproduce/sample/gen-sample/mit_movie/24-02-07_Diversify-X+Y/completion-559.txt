@@ -1,0 +1,8 @@
+Query: "Can you tell me about the making-of documentary for The Terminator?"
+Named Entities: [The Terminator (Title), making-of (Plot)]
+
+Query: "Is there a behind-the-scenes featurette available for Stand by Me?"
+Named Entities: [Stand by Me (Title), behind-the-scenes (Plot)]
+
+Query: "I'm interested in learning more about Ed Harris's directorial debut. Can you provide information on any behind-the-scenes footage or interviews for Rebellion?"
+Named Entities: [Ed Harris (Actor), Rebellion (Title), behind-the-scenes (Plot)]

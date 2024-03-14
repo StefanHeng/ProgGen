@@ -1,0 +1,8 @@
+1. Text Span: "Director's commentary"
+Label: (C). Wrong Type. The correct entity type is Other.
+
+2. Text Span: "Excellent music"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "positive viewer ratings"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

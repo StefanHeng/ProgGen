@@ -1,0 +1,8 @@
+1. "What movie features the song Come Together?"
+Named Entities: [Come Together (Song)]
+
+2. "Is there a movie about Peter Pan from 1965?"
+Named Entities: [Peter Pan (Character), 1965 (Year)]
+
+3. "Did Jason Momoa star in any action films with the song Lose Yourself?"
+Named Entities: [Jason Momoa (Actor), action (Genre), Lose Yourself (Song)]

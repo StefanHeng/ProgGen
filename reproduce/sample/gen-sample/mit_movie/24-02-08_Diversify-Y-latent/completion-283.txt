@@ -1,0 +1,8 @@
+1. "Can you recommend an exhilarating and unique movie from the 1990s?"
+   Named Entities: [exhilarating (Viewers' Rating), unique (Review), 1990s (Year)]
+
+2. "I need information about an original and captivating movie directed by Christopher Nolan"
+   Named Entities: [original (Review), Christopher Nolan (Director), captivating (Viewers' Rating)]
+
+3. "show me a list of unique and thrilling action movies from the 2010s"
+   Named Entities: [unique (Review), thrilling (Viewers' Rating), action (Genre), 2010s (Year)]

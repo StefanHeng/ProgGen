@@ -1,0 +1,11 @@
+1. Query: "What is the {{rating}} of the best sports bar in the downtown area?"
+Text Span: "rating"
+Label: (C). The span is not a named entity. Category: other
+
+2. Query: "I want to try some authentic Italian pasta, can you recommend a {{good}} restaurant?"
+Text Span: "good"
+Label: (A). The span is a named entity of type rating
+
+3. Query: "What are the {{top-rated}} restaurants in Buenos Aires?"
+Text Span: "top-rated"
+Label: (A). The span is a named entity of type rating

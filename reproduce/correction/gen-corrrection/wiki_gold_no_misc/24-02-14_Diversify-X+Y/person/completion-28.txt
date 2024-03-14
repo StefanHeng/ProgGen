@@ -1,0 +1,8 @@
+1. Text Span: "Fibonacci"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Eric Shinseki"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Dr. Mae Jemison"
+Label: (B). Wrong Boundary. The correct span boundary is "Mae Jemison"

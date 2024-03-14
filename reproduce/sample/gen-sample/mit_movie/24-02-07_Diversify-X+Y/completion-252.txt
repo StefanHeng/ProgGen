@@ -1,0 +1,8 @@
+1. Query: "Can you tell me if Emma Stone starred in any horror-thriller movies between 2005 and 2010?"
+   Named Entities: [Emma Stone (Actor), horror-thriller (Genre), 2005-2010 (Year)]
+
+2. Query: "I heard that drug trafficking is a theme in some movies. Can you recommend a film with a perfectly cast hero's journey?"
+   Named Entities: [drug trafficking (Plot), perfectly cast (Review), hero's journey (Plot)]
+
+3. Query: "Who directed the movie involving drug trafficking and a hero's journey that was released between 2005 and 2010?"
+   Named Entities: [drug trafficking (Plot), hero's journey (Plot), 2005-2010 (Year)]

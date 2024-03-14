@@ -1,0 +1,8 @@
+1. "Which movie won the most Academy Awards in 2020?"
+Named Entities: [2020 (Year), Academy Awards (Awards)]
+
+2. "Can you tell me the list of films nominated for Best Picture in 2015?"
+Named Entities: [2015 (Year), Best Picture (Awards)]
+
+3. "What movie received the most nominations at the Golden Globes last year?"
+Named Entities: [Golden Globes (Awards)]

@@ -1,0 +1,11 @@
+1. Query: '"Can I watch Titanic on any {{streaming platforms}}?'
+Text Span: "streaming platforms"
+Label: (C). Other
+
+2. Query: "Hey, what's the name of that movie with the awesome soundtrack that has a bunch of {{80s hits}}?"
+Text Span: "80s hits"
+Label: (A). Genre
+
+3. Query: "is there a movie theater nearby playing the new {{action film}}?"
+Text Span: "action film"
+Label: (A). Genre

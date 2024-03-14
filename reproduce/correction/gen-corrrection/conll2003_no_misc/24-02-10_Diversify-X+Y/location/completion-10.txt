@@ -1,0 +1,11 @@
+1. Sentence: "Al-Qaeda claims responsibility for the 1998 {{U.S. embassy}} bombings in East Africa."
+Text Span: "U.S. embassy"
+Label: (C). The span is a named entity but the category is not location. Entity type: organization
+
+2. Sentence: "Chinese government invests in projects to protect the ecosystem of {{Lake Baikal}}."
+Text Span: "Lake Baikal"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Professor Michael Wang appointed as the new dean of the School of Education at a prestigious university in Rome, {{Italy}}."
+Text Span: "Italy"
+Label: (A). The span is a named entity of type location

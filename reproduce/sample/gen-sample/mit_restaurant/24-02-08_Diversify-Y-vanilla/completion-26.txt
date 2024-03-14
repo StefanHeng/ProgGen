@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with a great view and outdoor seating for The 50 Best Discovery rating?"
+Named Entities: [great view (Amenity), outdoor seating (Amenity), The 50 Best Discovery rating (Rating)]
+
+2. Query: "I'm looking for a place with vegetarian options and a relaxed atmosphere, preferably open until 10 p m."
+Named Entities: [vegetarian options (Cuisine), relaxed atmosphere (Amenity), until 10 p m (Hours)]
+
+3. Query: "Find me a restaurant with live music and a diverse menu for The 50 Best Discovery rating."
+Named Entities: [live music (Amenity), diverse menu (Amenity), The 50 Best Discovery rating (Rating)]

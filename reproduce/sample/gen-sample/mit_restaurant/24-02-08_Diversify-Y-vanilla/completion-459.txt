@@ -1,0 +1,8 @@
+Query: "which restaurant has the best craft beer selection"
+Named Entities: [best (Rating), craft beer selection (Amenity)]
+
+Query: "i'm craving some tacos, where is the closest taco bell"
+Named Entities: [craving (Amenity), closest (Location), Taco Bell (Restaurant Name)]
+
+Query: "i want to try some fresh seafood, any recommendations near Fisherman's Wharf Seafood"
+Named Entities: [fresh seafood (Cuisine), recommendations (Amenity), Fisherman's Wharf Seafood (Restaurant Name)]

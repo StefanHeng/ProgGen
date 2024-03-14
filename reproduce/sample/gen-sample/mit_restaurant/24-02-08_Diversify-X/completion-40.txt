@@ -1,0 +1,8 @@
+Query: "Can you recommend a seafood restaurant with outdoor seating?"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity)]
+
+Query: "What are the top-rated Italian restaurants for lunch in the downtown area?"
+Named Entities: [Italian (Cuisine), top-rated (Rating), downtown area (Location), lunch (Amenity)]
+
+Query: "I'm looking for a cheap spot for lunch with vegan options, any suggestions?"
+Named Entities: [cheap (Price), vegan (Cuisine), lunch (Amenity)]

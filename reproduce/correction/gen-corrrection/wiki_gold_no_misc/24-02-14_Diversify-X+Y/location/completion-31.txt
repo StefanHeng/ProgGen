@@ -1,0 +1,8 @@
+1. Text Span: "Egypt"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "headquarters"
+Label: (D). The span is not a named entity
+
+3. Text Span: "West Point"
+Label: (A). The span is a named entity of type location

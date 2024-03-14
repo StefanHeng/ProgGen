@@ -1,0 +1,8 @@
+1. "What are the top-rated brunch places that serve pancakes near downtown?"
+Named Entities: [top-rated (Rating), brunch (Amenity), pancakes (Dish), downtown (Location)]
+
+2. "I'm looking for a family-friendly restaurant that offers pancakes and waffles for breakfast."
+Named Entities: [family-friendly (Amenity), pancakes (Dish), waffles (Dish), breakfast (Amenity)]
+
+3. "Can you recommend a budget-friendly diner with all-day breakfast and pancakes on the menu?"
+Named Entities: [budget-friendly (Price), diner (Amenity), all-day (Hours), breakfast (Amenity), pancakes (Dish)]

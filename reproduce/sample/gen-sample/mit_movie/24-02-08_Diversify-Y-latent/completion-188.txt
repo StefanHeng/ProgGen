@@ -1,0 +1,8 @@
+Query: "What is the MPAA rating for the movie A haunted house"
+Named Entities: [A haunted house (Title)]
+
+Query: "Can you recommend a movie with top-notch performances"
+Named Entities: [top-notch performances (Review)]
+
+Query: "Show me the trailer for The Incredibles"
+Named Entities: [The Incredibles (Title), trailer (Trailer)]

@@ -1,0 +1,8 @@
+1. "Can you suggest a cozy and intimate restaurant close by that serves lavish dinner?"
+Named Entities: [cozy and intimate (Amenity), close by (Location), lavish (Price), dinner (Amenity)]
+
+2. "I'm in the mood for a lavish dinner at a cozy and intimate restaurant, any recommendations?"
+Named Entities: [lavish (Price), cozy and intimate (Amenity), dinner (Amenity)]
+
+3. "Where can I find a restaurant with a cozy and intimate ambience that offers a lavish dinner nearby?"
+Named Entities: [cozy and intimate (Amenity), lavish (Price), nearby (Location), dinner (Amenity)]

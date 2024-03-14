@@ -1,0 +1,8 @@
+1. Text Span: "Virtual reality"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "historical"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "medical"
+Label: (A). Correct Entity Annotation.

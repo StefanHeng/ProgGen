@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a popular title directed by {{Steven Spielberg}} in the 80s?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+2. Query: "Show me a trailer for a 1950s film noir directed by {{Alfred Hitchcock}}."
+Text Span: "Alfred Hitchcock"
+Label: (A). The span is a named entity of type director
+
+3. Query: "What year did {{Bong Joon-ho}} direct a film with a strong female lead and a gripping plot?"
+Text Span: "Bong Joon-ho"
+Label: (A). The span is a named entity of type director

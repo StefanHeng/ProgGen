@@ -1,0 +1,11 @@
+1. Query: "are there any {{food trucks}} nearby that serve vegan dishes?"
+Text Span: "food trucks"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "I'm meeting a friend for lunch, can you recommend a {{café}} near the hospital with a healthy menu?"
+Text Span: "café"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "what are the operating hours for a {{café}} with outdoor seating"
+Text Span: "café"
+Label: (C). Wrong Type. The correct entity type is Amenity.

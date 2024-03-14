@@ -1,0 +1,8 @@
+1. "Has any movie with a solid track record in awards recognition come out between 1983 and 1986?"
+Named Entities: [Solid track record in awards recognition (Review), 1983-1986 (Year)]
+
+2. "What film from 1984 has the most nominations and awards?"
+Named Entities: [1984 (Year), nominations (Review), awards (Review)]
+
+3. "Show me a movie from the mid-80s that has received critical acclaim for its awards."
+Named Entities: [mid-80s (Year), critical acclaim (Review), awards (Review)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with vegetarian options nearby?"
+Named Entities: [café (Amenity), vegetarian options (Dish), nearby (Location)]
+
+Query: "I'm looking for a cozy café with outdoor seating and good coffee."
+Named Entities: [café (Amenity), outdoor seating (Amenity), good coffee (Dish)]
+
+Query: "Where can I find a café with live music on weekends?"
+Named Entities: [café (Amenity), live music on weekends (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant for superb night time dining?"
+Named Entities: [superb (Rating), night time dining (Amenity)]
+
+Query: "I'm looking for a place with early bird specials for dinner"
+Named Entities: [early bird specials (Amenity), dinner (Meal Category)]
+
+Query: "Where is the nearest Chili's Grill & Bar for dinner tonight?"
+Named Entities: [Chili's Grill & Bar (Restaurant Name), dinner (Meal Category)]

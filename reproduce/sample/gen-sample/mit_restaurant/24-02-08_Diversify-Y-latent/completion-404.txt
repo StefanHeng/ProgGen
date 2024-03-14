@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating and a vegan menu within a 10-mile radius?"
+Named Entities: [outdoor seating (Amenity), vegan (Cuisine), within a 10-mile radius (Location)]
+
+2. "What are the top-rated seafood restaurants in the downtown area?"
+Named Entities: [top-rated (Rating), seafood (Cuisine), downtown area (Location)]
+
+3. "Do you have any suggestions for late-night dining options open after midnight?"
+Named Entities: [late-night (Hours), after midnight (Hours)]

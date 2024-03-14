@@ -1,0 +1,8 @@
+Query: "what is the viewers' rating for X movie"
+Named Entities: [X (Title)]
+
+Query: "what movies have metaphorical music similar to Finding Nemo"
+Named Entities: [metaphorical music (Song), Finding Nemo (Title)]
+
+Query: "who directed the film that came out in 1995 about a lawyer fighting for justice"
+Named Entities: [1995 (Year), lawyer fighting for justice (Plot)]

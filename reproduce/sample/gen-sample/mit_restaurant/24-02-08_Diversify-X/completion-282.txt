@@ -1,0 +1,8 @@
+1. "Can you recommend a place where I can get a delicious breakfast with a drive-thru option?"
+   Named Entities: [delicious (Rating), breakfast (Cuisine), drive-thru (Amenity)]
+
+2. "I need a restaurant that serves breakfast and has a drive-thru. What are my options?"
+   Named Entities: [breakfast (Cuisine), drive-thru (Amenity)]
+
+3. "I'm looking for a drive-thru restaurant that offers a wide selection of breakfast items. Any recommendations?"
+   Named Entities: [drive-thru (Amenity), breakfast (Cuisine)]

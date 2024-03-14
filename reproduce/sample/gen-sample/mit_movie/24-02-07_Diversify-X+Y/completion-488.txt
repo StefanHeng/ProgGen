@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a captivating musical. Can you recommend one for me?"
+Named Entities: [captivating (Viewers' Rating), musical (Genre)]
+
+Query: "I'm looking for a survival thriller that will really keep me on the edge of my seat. Do you have any recommendations?"
+Named Entities: [survival thriller (Subgenre)]
+
+Query: "I'm a bit picky when it comes to movie genres. Can you suggest a musical that really stands out?"
+Named Entities: [musical (Genre)]

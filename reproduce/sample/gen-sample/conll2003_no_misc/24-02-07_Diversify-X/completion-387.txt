@@ -1,0 +1,8 @@
+Sentence: "Tesla Motors announces plans to open a new manufacturing plant in Texas."
+Named Entities: [Tesla Motors (organization), Texas (location)]
+
+Sentence: "Ford Motor Company's annual revenue reaches all-time high of $155 billion."
+Named Entities: [Ford Motor Company (organization)]
+
+Sentence: "CEO of General Motors predicts electric vehicles will account for 40% of company's sales by 2025."
+Named Entities: [CEO of General Motors (person)]

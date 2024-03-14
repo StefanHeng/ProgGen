@@ -1,0 +1,8 @@
+1. "Can you give me a brief overview of the plot for the movie Inception?"
+Named Entities: [Inception (Title), plot (Plot)]
+
+2. "I'm looking for a movie directed by Christopher Nolan with a mind-bending plot and a thrilling soundtrack."
+Named Entities: [Christopher Nolan (Director), mind-bending plot (Plot), thrilling soundtrack (Song)]
+
+3. "Show me a film featuring an ensemble cast, a gripping plot, and a high viewers' rating."
+Named Entities: [ensemble cast (Character), gripping plot (Plot), high viewers' rating (Viewers' Rating)]

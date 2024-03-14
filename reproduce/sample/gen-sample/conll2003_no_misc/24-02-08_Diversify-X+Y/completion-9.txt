@@ -1,0 +1,8 @@
+Sentence: "Toronto experiences record-breaking heat wave, with temperatures reaching 40°C."
+Named Entities: [Toronto (location)]
+
+Sentence: "Kim Jong Un announces plans for historic summit with South Korea."
+Named Entities: [Kim Jong Un (person)]
+
+Sentence: "Mass shooting in downtown Toronto leaves five dead and several injured."
+Named Entities: [Toronto (location)]

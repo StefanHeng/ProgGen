@@ -1,0 +1,8 @@
+1. Text Span: "Italian"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "vegetarian dishes"
+Label: (B). Wrong Boundary. The correct span boundary is "vegetarian"
+
+3. Text Span: "authentic Italian"
+Label: (A). The span is a named entity of type cuisine

@@ -1,0 +1,8 @@
+1. "Where is the nearest budget-friendly Mexican restaurant for lunch?"
+Named Entities: [nearest (Location), budget-friendly (Price), Mexican (Cuisine), lunch (Amenity)]
+
+2. "Can you recommend a Mexican restaurant with a good lunch menu and affordable prices?"
+Named Entities: [Mexican (Cuisine), good (Rating), lunch (Amenity), affordable (Price)]
+
+3. "I'm looking for a Mexican restaurant with a lunch special that's easy on the wallet, can you help?"
+Named Entities: [Mexican (Cuisine), lunch special (Amenity), easy on the wallet (Price)]

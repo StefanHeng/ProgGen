@@ -1,0 +1,8 @@
+1. "The Red Cross is providing aid to the victims of the natural disaster."
+Named Entities: [Red Cross (organization)]
+
+2. "The Red Cross volunteer, Sarah Johnson, traveled to Haiti to assist with relief efforts."
+Named Entities: [Red Cross (organization), Sarah Johnson (person), Haiti (location)]
+
+3. "Donations to the Red Cross have exceeded $1 million in support of disaster relief."
+Named Entities: [Red Cross (organization)]

@@ -1,0 +1,8 @@
+Sentence: "The majestic African elephant, with its iconic tusks and large ears, roams the savannas of sub-Saharan Africa."
+Named Entities: [African elephant (organism), Africa (location)]
+
+Sentence: "The International Union for Conservation of Nature (IUCN) plays a crucial role in monitoring and protecting endangered species around the world."
+Named Entities: [International Union for Conservation of Nature (organization)]
+
+Sentence: "Dr. Jane Goodall, a renowned primatologist, dedicated her life to studying and advocating for the conservation of chimpanzees in their natural habitats."
+Named Entities: [Jane Goodall (person), chimpanzees (organism)]

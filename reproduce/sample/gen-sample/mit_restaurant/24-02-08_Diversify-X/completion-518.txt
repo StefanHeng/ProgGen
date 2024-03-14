@@ -1,0 +1,8 @@
+1. "Can you recommend any upscale buffets in the area?"
+   Named Entities: [upscale (Price), buffet (Amenity)]
+
+2. "I'm looking for a fancy restaurant with a buffet option, any suggestions?"
+   Named Entities: [fancy (Rating), buffet (Amenity)]
+
+3. "Where can I find a high-end buffet for dinner tonight?"
+   Named Entities: [high-end (Price), buffet (Amenity)]

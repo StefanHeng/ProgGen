@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a feel-good movie for {{family}} viewing?"
+Text Span: "family"
+Label: (C). Entity Type: Genre
+
+2. Query: "What is the title of the {{highest-grossing}} movie of all time?"
+Text Span: "highest-grossing"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Is there a romantic comedy from the 1990s that you would {{recommend}}?"
+Text Span: "recommend"
+Label: (B). The span contains a named viewers' rating entity but the span boundary is not precise.

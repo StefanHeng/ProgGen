@@ -1,0 +1,8 @@
+Query: "What homestyle kitchen restaurants are open before 8 am?"
+Named Entities: [Homestyle Kitchen (Restaurant Name), before 8 am (Hours)]
+
+Query: "I'm looking for a breakfast spot, can you tell me the operating hours of The Morning Glory Cafe?"
+Named Entities: [breakfast (Amenity), The Morning Glory Cafe (Restaurant Name), operating hours (Hours)]
+
+Query: "I want to have breakfast at a place with a cozy atmosphere, are there any homestyle kitchen restaurants nearby?"
+Named Entities: [breakfast (Amenity), cozy atmosphere (Amenity), Homestyle Kitchen (Restaurant Name), nearby (Location)]

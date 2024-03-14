@@ -1,0 +1,148 @@
+1. The White House is the official residence and workplace of the president of the United States.
+Named Entities: [White House (location), United States (location)]
+
+2. The novel, Sense and Sensibility, was written by English author Jane Austen and was published in 1811.
+Named Entities: [Jane Austen (person), England (location)]
+
+3. The United Nations is an intergovernmental organization aiming to maintain international peace and security.
+Named Entities: [United Nations (organization)]
+
+4. Lake Ontario is one of the five Great Lakes of North America.
+Named Entities: [Lake Ontario (location), North America (location)]
+
+5. The Rolling Stones are a famous rock band formed in London in 1962.
+Named Entities: [Rolling Stones (organization), London (location)]
+
+6. Queen Elizabeth II is the longest-reigning monarch in British history.
+Named Entities: [Queen Elizabeth II (person), British (location)]
+
+7. Harvard University is a private Ivy League research university in Cambridge, Massachusetts.
+Named Entities: [Harvard University (organization), Cambridge (location), Massachusetts (location)]
+
+8. Cristiano Ronaldo is a Portuguese professional footballer known for his goal-scoring ability.
+Named Entities: [Cristiano Ronaldo (person), Portuguese (location)]
+
+9. The Eiffel Tower is a famous landmark in Paris, France, constructed in 1889 for the World's Fair.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+10. NASA, also known as the National Aeronautics and Space Administration, is responsible for the United States' civilian space program and for aeronautics and aerospace research.
+Named Entities: [NASA (organization), United States (location)]
+
+11. Angela Merkel is a German politician who served as the Chancellor of Germany from 2005 to 2021.
+Named Entities: [Angela Merkel (person), Germany (location)]
+
+12. The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+
+13. Apple Inc. is an American multinational technology company known for its innovative products such as the iPhone, iPad, and Mac computers.
+Named Entities: [Apple Inc. (organization), American (location)]
+
+14. Abraham Lincoln was the 16th president of the United States, serving from 1861 to 1865.
+Named Entities: [Abraham Lincoln (person), United States (location)]
+
+15. Mount Everest is the highest mountain in the world, located in the Himalayas on the border between Nepal and China.
+Named Entities: [Mount Everest (location), Himalayas (location), Nepal (location), China (location)]
+
+16. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+
+17. Oprah Winfrey is an American media proprietor, talk show host, and philanthropist.
+Named Entities: [Oprah Winfrey (person), American (location)]
+
+18. The Louvre is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre (location), Paris (location), France (location)]
+
+19. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+
+20. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person), German (location)]
+
+21. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, built to protect the Chinese states and empires.
+Named Entities: [Great Wall of China (location), Chinese (location)]
+
+22. Google LLC is an American multinational technology company specializing in Internet-related services and products.
+Named Entities: [Google LLC (organization), American (location)]
+
+23. Michelangelo was an Italian sculptor, painter, architect, and poet of the High Renaissance.
+Named Entities: [Michelangelo (person), Italian (location), High Renaissance (location)]
+
+24. The Statue of Liberty is a symbol of freedom and democracy, located on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York (location)]
+
+25. Microsoft Corporation is an American multinational technology company known for its Windows operating system and Microsoft Office software suite.
+Named Entities: [Microsoft Corporation (organization), American (location)]
+
+26. Winston Churchill was a British statesman who served as the Prime Minister of the United Kingdom during World War II.
+Named Entities: [Winston Churchill (person), British (location), United Kingdom (location)]
+
+27. Machu Picchu is an ancient Inca citadel located in the Andes Mountains in Peru.
+Named Entities: [Machu Picchu (location), Inca (location), Andes Mountains (location), Peru (location)]
+
+28. Amazon.com, Inc. is an American multinational technology company known for its e-commerce and cloud computing services.
+Named Entities: [Amazon.com, Inc. (organization), American (location)]
+
+29. Leonardo da Vinci was an Italian polymath of the Renaissance known for his Mona Lisa and The Last Supper paintings.
+Named Entities: [Leonardo da Vinci (person), Italian (location), Renaissance (location)]
+
+30. The Sydney Opera House is a multi-venue performing arts center in Sydney, Australia, known for its unique architectural design.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location)]
+
+31. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+32. Genghis Khan was the founder and first Great Khan of the Mongol Empire, which became the largest contiguous empire in history after his death.
+Named Entities: [Genghis Khan (person), Mongol Empire (organization)]
+
+33. The Taj Mahal is an ivory-white marble mausoleum in Agra, India, built by the Mughal emperor Shah Jahan in memory of his wife.
+Named Entities: [Taj Mahal (location), Agra (location), India (location), Shah Jahan (person), Mughal (location)]
+
+34. The Nintendo Switch is a popular video game console developed by the Japanese company Nintendo.
+Named Entities: [Nintendo (organization), Japanese (location)]
+
+35. Vincent van Gogh was a Dutch Post-Impressionist painter who created some of the most well-known works of art in the world.
+Named Entities: [Vincent van Gogh (person), Dutch (location), Post-Impressionist (location)]
+
+36. The Pyramids of Giza are ancient monumental structures located in Egypt and are one of the Seven Wonders of the Ancient World.
+Named Entities: [Pyramids of Giza (location), Egypt (location), Seven Wonders of the Ancient World (location)]
+
+37. Ford Motor Company is an American multinational automaker known for its Ford and Lincoln brands of vehicles.
+Named Entities: [Ford Motor Company (organization), American (location), Ford (location), Lincoln (location)]
+
+38. Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity.
+Named Entities: [Marie Curie (person), Polish (location)]
+
+39. The Colosseum is an ancient amphitheater located in Rome, Italy, known for its architectural and historical significance.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+40. Bill Gates is an American business magnate, software developer, and philanthropist best known as the co-founder of Microsoft Corporation.
+Named Entities: [Bill Gates (person), American (location), Microsoft Corporation (organization)]
+
+41. The Kremlin is a historic fortified complex located in Moscow, Russia, and is the official residence of the President of Russia.
+Named Entities: [Kremlin (location), Moscow (location), Russia (location), President of Russia (person)]
+
+42. Prince was an American musician known for his eclectic style, flamboyant stage presence, and wide vocal range.
+Named Entities: [Prince (person), American (location)]
+
+43. Stonehenge is a prehistoric monument in Wiltshire, England, and is considered one of the most famous landmarks in the United Kingdom.
+Named Entities: [Stonehenge (location), Wiltshire (location), England (location), United Kingdom (location)]
+
+44. The World Bank is an international financial institution that provides loans and grants to the governments of poorer countries for the purpose of pursuing capital projects.
+Named Entities: [World Bank (organization)]
+
+45. J.K. Rowling is a British author best known for creating the Harry Potter fantasy series.
+Named Entities: [J.K. Rowling (person), British (location), Harry Potter (organization)]
+
+46. Buckingham Palace is the official residence of the British monarch in the City of Westminster, London.
+Named Entities: [Buckingham Palace (location), British (location), City of Westminster (location), London (location)]
+
+47. Steve Jobs co-founded Apple Inc. and played a major role in the development of revolutionary products such as the iPhone and MacBook.
+Named Entities: [Steve Jobs (person), Apple Inc. (organization), iPhone (organization), MacBook (organization)]
+
+48. The Alhambra is a palace and fortress complex located in Granada, Spain, known for its Islamic architecture and historical significance.
+Named Entities: [Alhambra (location), Granada (location), Spain (location)]
+
+49. Albert Camus was a French philosopher and author known for his contributions to existentialism and absurdism.
+Named Entities: [Albert Camus (person), French (location)]
+
+50. The Great Mosque of Mecca, also known as the Grand Mosque, is the

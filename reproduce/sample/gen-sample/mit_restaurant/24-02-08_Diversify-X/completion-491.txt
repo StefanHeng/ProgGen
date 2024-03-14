@@ -1,0 +1,8 @@
+Query: "Are there any food trucks near the waterfront with vegan options?"
+Named Entities: [food trucks (Amenity), waterfront (Location), vegan (Cuisine)]
+
+Query: "What food trucks along the waterfront have a good rating for their seafood dishes?"
+Named Entities: [food trucks (Amenity), waterfront (Location), good rating (Rating), seafood dishes (Dish)]
+
+Query: "I want to grab a quick bite from a food truck by the waterfront, what are my options?"
+Named Entities: [food truck (Amenity), waterfront (Location)]

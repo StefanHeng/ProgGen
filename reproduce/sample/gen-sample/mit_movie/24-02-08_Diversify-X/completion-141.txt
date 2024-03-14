@@ -1,0 +1,8 @@
+Query: "Can I watch the movie Inception on any streaming platform?"
+Named Entities: [Inception (Title)]
+
+Query: "Is the director's cut of Blade Runner available for streaming anywhere?"
+Named Entities: [Blade Runner (Title), director's cut (Plot)]
+
+Query: "I'm looking for a classic movie with Humphrey Bogart, preferably on a streaming service. Any recommendations?"
+Named Entities: [Humphrey Bogart (Actor), classic (Genre), streaming service (Entity Type)]

@@ -1,0 +1,8 @@
+1. "I'm not sure what movie to watch tonight, can you tell me if there are any showtimes for a highly-rated movie directed by Daniel Day-Lewis?"
+Named Entities: [highly-rated (Viewers' Rating), Daniel Day-Lewis (Director)]
+
+2. "I can't decide which movie to see this weekend, do you have any information on the showtimes for a film with a D rating?"
+Named Entities: [D rating (MPAA Rating)]
+
+3. "I'm having trouble choosing a movie, are there any showtimes available for a film that is not rated (NR) and features Daniel Day-Lewis?"
+Named Entities: [NR (MPAA Rating), Daniel Day-Lewis (Actor)]

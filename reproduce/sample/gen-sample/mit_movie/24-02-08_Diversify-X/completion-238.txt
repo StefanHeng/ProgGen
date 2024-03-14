@@ -1,0 +1,8 @@
+Query: "Who directed the movie Inception?"
+Named Entities: [Inception (Title), directed (Director)]
+
+Query: "What is the name of the actor who plays Iron Man in the Marvel movies?"
+Named Entities: [Iron Man (Character), actor (Actor), Marvel movies (Title)]
+
+Query: "Can you tell me the genre of the movie The Matrix?"
+Named Entities: [The Matrix (Title), genre (Genre)]

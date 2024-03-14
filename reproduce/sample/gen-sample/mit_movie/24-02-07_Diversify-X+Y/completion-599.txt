@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of any movies about a drug cartel?"
+Named Entities: [Drug cartel (Plot)]
+
+2. "What's a movie with Keanu Reeves in it that has an interesting storyline?"
+Named Entities: [Keanu Reeves (Actor)]
+
+3. "Do you know of any films from 1955 with an alien invasion theme?"
+Named Entities: [1955 (Year), Alien invasion (Plot)]

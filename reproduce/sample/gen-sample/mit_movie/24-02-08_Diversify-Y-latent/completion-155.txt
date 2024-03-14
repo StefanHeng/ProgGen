@@ -1,0 +1,8 @@
+1. Query: "tell me about a movie with subpar soundtrack"
+Named Entities: [subpar soundtrack (Review)]
+
+2. Query: "what movie music is featured in Mary Poppins"
+Named Entities: [Mary Poppins (Title), Movie music (Song)]
+
+3. Query: "is there a robot uprising in any films like Chicago"
+Named Entities: [robot uprising (Plot), Chicago (Title)]

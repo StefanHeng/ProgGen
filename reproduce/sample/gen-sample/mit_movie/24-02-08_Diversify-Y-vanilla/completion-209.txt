@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the movie directed by Jennifer Kent that features an animal in the 1940s"
+   Named Entities: [Jennifer Kent (Director), animal (Plot), 1940s (Year)]
+
+2. Query: "Can I watch a buddy comedy movie with Samuel L. Jackson that has the song Sweet Child O’ Mine"
+   Named Entities: [buddy comedy (Genre), Samuel L. Jackson (Actor), Sweet Child O’ Mine (Song)]
+
+3. Query: "Is there a Spider-Man movie with a high viewers' rating"
+   Named Entities: [Spider-Man (Title), high viewers' rating (Viewers' Rating)]

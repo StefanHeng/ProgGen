@@ -1,0 +1,8 @@
+Sentence: "The World Wildlife Fund focuses on the conservation of the Galápagos Islands."
+Named Entities: [World Wildlife Fund (organization), Galápagos Islands (location)]
+
+Sentence: "Ecuador is home to a diverse range of wildlife, including many species protected by the World Wide Fund for Nature."
+Named Entities: [Ecuador (location), World Wide Fund for Nature (organization)]
+
+Sentence: "The World Wildlife Fund's efforts in the Galápagos Islands have led to the protection of several endangered species."
+Named Entities: [World Wildlife Fund (organization), Galápagos Islands (location)]

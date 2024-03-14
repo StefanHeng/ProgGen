@@ -1,0 +1,8 @@
+1. Text Span: "Angelina Jolie"
+Label: (A)
+
+2. Text Span: "Former President Obama"
+Label: (B). The correct span boundary is "Obama".
+
+3. Text Span: "J.K. Rowling"
+Label: (A)

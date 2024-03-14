@@ -1,0 +1,8 @@
+1. "Can you recommend any upscale restaurants with late-night dining options for those on a low-carb diet?"
+Named Entities: [upscale (Price), late-night dining (Amenity), low-carb (Cuisine)]
+
+2. "I'm looking for a late-night dining option with upscale pricing that offers low-carb dishes. Any suggestions?"
+Named Entities: [late-night dining (Amenity), upscale (Price), low-carb (Cuisine)]
+
+3. "Where can I find upscale dining with late-night options, preferably with low-carb choices on the menu?"
+Named Entities: [upscale (Price), late-night dining (Amenity), low-carb (Cuisine)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a dinner spot with a good wine selection and outdoor seating"
+Named Entities: [dinner (Amenity), good wine selection (Amenity), outdoor seating (Amenity)]
+
+Query: "show me restaurants with vegetarian dishes and live music for dinner"
+Named Entities: [dinner (Amenity), vegetarian dishes (Cuisine), live music (Amenity)]
+
+Query: "I need a place for dinner with a romantic ambiance and a view of the city"
+Named Entities: [dinner (Amenity), romantic ambiance (Amenity), view of the city (Amenity)]

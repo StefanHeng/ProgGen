@@ -1,0 +1,8 @@
+Query: "Can you recommend any movies with the song 'Unchained Melody'?"
+Named Entities: ['Unchained Melody' (Song)]
+
+Query: "What movie from the 1950s has the best soundtrack?"
+Named Entities: [1950s (Year), best soundtrack (Review)]
+
+Query: "Are there any old movies with a great love song?"
+Named Entities: [great love song (Review)]

@@ -1,0 +1,8 @@
+Query: "show me the nearest burger king"
+Named Entities: [nearest (Location), burger king (Restaurant Name)]
+
+Query: "where can I grab a quick bite for less than 6 dollars"
+Named Entities: [quick bite (Amenity), less than 6 dollars (Price)]
+
+Query: "is there a taco bell open past midnight"
+Named Entities: [taco bell (Restaurant Name), past midnight (Hours)]

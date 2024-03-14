@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with vegetarian options and a rating of 4 stars or higher in this area?"
+   Named Entities: [vegetarian options (Cuisine), rating of 4 stars or higher (Rating), this area (Location)]
+
+2. "I'm in the mood for some spicy curry, could you suggest a place that serves authentic Indian cuisine?"
+   Named Entities: [spicy curry (Dish), authentic Indian cuisine (Cuisine)]
+
+3. "What's a good restaurant nearby that stays open late and has outdoor seating?"
+   Named Entities: [nearby (Location), stays open late (Hours), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+1. "I'm feeling really down right now. Can you tell me if a particular movie received multiple nominations for any awards?"
+Named Entities: [received multiple nominations (Awards and nominations)]
+
+2. "I need a movie recommendation that's really touching. I'm a fan of Hugh Jackman, so something with him in it would be great."
+Named Entities: [touching (Viewers' Rating), Hugh Jackman (Actor)]
+
+3. "I'm feeling quite melancholic. Can you recommend me an unparalleled movie with Ethan Coen as the director and Lady Gaga in a prominent role?"
+Named Entities: [unparalleled (Viewers' Rating), Ethan Coen (Director), Lady Gaga (Actor)]

@@ -1,0 +1,8 @@
+Query: "Which movie won the most Oscars in 2020"
+Named Entities: [most Oscars (Awards), 2020 (Year)]
+
+Query: "Did any films directed by Christopher Nolan receive Golden Globe nominations"
+Named Entities: [Christopher Nolan (Director), Golden Globe nominations (Awards)]
+
+Query: "What movie was nominated for the Cannes Film Festival Palm d'Or in 2019"
+Named Entities: [Cannes Film Festival Palm d'Or (Awards), 2019 (Year)]

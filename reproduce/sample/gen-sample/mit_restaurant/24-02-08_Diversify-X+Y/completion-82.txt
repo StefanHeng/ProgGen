@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a breakfast spot that offers tasting menus?"
+   Named Entities: [breakfast (Cuisine), tasting menus (Amenity)]
+
+2. Query: "I'm looking for a restaurant with a tasting menu for breakfast with free Wi-Fi"
+   Named Entities: [tasting menu (Amenity), breakfast (Cuisine), Free Wi-Fi (Amenity)]
+
+3. Query: "Where can I find a bacon and eggs bistro that serves tasting menus for breakfast?"
+   Named Entities: [bacon and eggs bistro (Restaurant Name), tasting menus (Amenity), breakfast (Cuisine)]

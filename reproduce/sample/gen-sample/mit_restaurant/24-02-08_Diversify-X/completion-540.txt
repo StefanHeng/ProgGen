@@ -1,0 +1,8 @@
+Query: "show me a budget-friendly café with vegan options"
+Named Entities: [budget-friendly (Price), café (Amenity), vegan options (Cuisine)]
+
+Query: "which café around here has outdoor seating and is open late"
+Named Entities: [café (Amenity), outdoor seating (Amenity), open late (Hours)]
+
+Query: "find me a cheap café with good reviews and live music"
+Named Entities: [cheap (Price), café (Amenity), good reviews (Rating), live music (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "cheesy"
+Label: (C). Other
+
+2. Text Span: "high"
+Label: (B). Wrong Boundary. The correct span boundary is "high Viewers' Rating".
+
+3. Text Span: "top-notch"
+Label: (A). Correct Entity Annotation.

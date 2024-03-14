@@ -1,0 +1,8 @@
+Query: "I'm craving some gluten-free options, can you recommend a restaurant at the crossroads?"
+Named Entities: [gluten-free (Amenity), at the crossroads (Location)]
+
+Query: "I want to try something new, where can I find a fusion cuisine restaurant with high ratings?"
+Named Entities: [fusion cuisine (Cuisine), high ratings (Rating)]
+
+Query: "I need a quick bite to eat, what's the closest restaurant with outdoor seating?"
+Named Entities: [quick bite (Amenity), closest (Location), outdoor seating (Amenity)]

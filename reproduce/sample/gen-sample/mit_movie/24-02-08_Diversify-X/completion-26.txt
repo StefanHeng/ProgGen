@@ -1,0 +1,8 @@
+1. Query: "Who directed the movie Inception?"
+   Named Entities: [Inception (Title), Director]
+
+2. Query: "Can you recommend a movie with Tom Hanks and Meg Ryan?"
+   Named Entities: [Tom Hanks (Actor), Meg Ryan (Actor)]
+
+3. Query: "What's the genre of the movie The Matrix?"
+   Named Entities: [The Matrix (Title), Genre]

@@ -1,0 +1,8 @@
+1. "I'm craving some fast food, where can I find a good burger joint?" 
+   Named Entities: [fast food (Cuisine), burger joint (Dish)]
+
+2. "I need a quick bite to eat, is there a fast food place nearby that's open late?"
+   Named Entities: [fast food (Cuisine), open late (Hours)]
+
+3. "What's the best fast food spot in town for a budget-friendly meal?"
+   Named Entities: [fast food (Cuisine), budget-friendly (Price), best (Rating)]

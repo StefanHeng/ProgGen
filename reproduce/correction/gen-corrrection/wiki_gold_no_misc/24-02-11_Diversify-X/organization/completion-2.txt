@@ -1,0 +1,8 @@
+1. Text Span: "ISS"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Apple Inc."
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "tech company"
+Label: (C). Wrong Type. The correct entity type is organization.

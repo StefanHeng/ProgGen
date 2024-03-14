@@ -1,0 +1,8 @@
+Query: "Can you recommend a good upscale buffet restaurant around here?"
+Named Entities: [good (Rating), upscale (Price), buffet (Amenity), Around here (Location)]
+
+Query: "I'm looking for an upscale buffet restaurant nearby, any suggestions?"
+Named Entities: [upscale (Price), buffet (Amenity), Nearby (Location)]
+
+Query: "Where can I find a high-end buffet restaurant around here?"
+Named Entities: [high-end (Rating), buffet (Amenity), Around here (Location)]

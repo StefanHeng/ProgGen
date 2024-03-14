@@ -1,0 +1,8 @@
+1.  Query: "Who directed the science fiction movie with a high viewers' rating"
+Named Entities: [science fiction (Genre), viewers' rating (Viewers' Rating), directed (Director)]
+
+2. Query: "Which movie features the song 'My Heart Will Go On' and who are the main actors"
+Named Entities: ['My Heart Will Go On' (Song), main actors (Actor)]
+
+3. Query: "Recommend a thriller film released in the 90s with an R rating and tell me about the plot"
+Named Entities: [thriller (Genre), 90s (Year), R rating (MPAA Rating), plot (Plot)]

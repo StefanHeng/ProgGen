@@ -1,0 +1,8 @@
+1. Query: "I want to make a reservation for a table at Chez Panisse"
+Named Entities: [Chez Panisse (Restaurant Name)]
+
+2. Query: "What are the operating hours for Le Bernardin this evening?"
+Named Entities: [Le Bernardin (Restaurant Name), this evening (Hours)]
+
+3. Query: "Can you recommend a high-end restaurant with French cuisine?"
+Named Entities: [high-end (Price), French cuisine (Cuisine)]

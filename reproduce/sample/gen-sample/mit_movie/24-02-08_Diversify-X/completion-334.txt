@@ -1,0 +1,8 @@
+1. "I'm in a hurry, can you tell me the genre of the movie Forest Gump?"
+Named Entities: [Forest Gump (Title), genre (Genre)]
+
+2. "I need to know the subgenre of the film The Matrix right now"
+Named Entities: [The Matrix (Title), subgenre (Genre)]
+
+3. "What's the genre of the classic movie Casablanca? Hurry up!"
+Named Entities: [Casablanca (Title), genre (Genre)]

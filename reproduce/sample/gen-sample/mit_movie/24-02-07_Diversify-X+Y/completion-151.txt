@@ -1,0 +1,8 @@
+Query: "I'm looking for a movie directed by Ron Howard with an excellent plot and starring Jessica Chastain, which has received awards and nominations"
+Named Entities: [Ron Howard (Director), Excellent (Viewers' Rating), Jessica Chastain (Actor), Awards and nominations (Review)]
+
+Query: "Find me a movie with music by U2, a top-notch plot, and which has won awards and nominations"
+Named Entities: [U2 (Song), top-notch (Viewers' Rating), Awards and nominations (Review)]
+
+Query: "Can you recommend a movie similar to A Star is Born, with exceptional reviews and numerous awards and nominations"
+Named Entities: [A Star is Born (Title), exceptional reviews (Review), Awards and nominations (Review)]

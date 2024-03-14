@@ -1,0 +1,8 @@
+Query: "where can I find affordable chicken nuggets around here"
+Named Entities: [affordable (Price), chicken nuggets (Dish)]
+
+Query: "I'm craving some fast food, do you know any place that serves chicken nuggets"
+Named Entities: [fast food (Cuisine), chicken nuggets (Dish)]
+
+Query: "I'm in the mood for some Papa John's, can you recommend a budget-friendly location"
+Named Entities: [Papa John's (Restaurant Name), budget-friendly (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "environmental activist"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Marie Curie"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Kathy Warden"
+Label: (A). The span is a named entity of type person

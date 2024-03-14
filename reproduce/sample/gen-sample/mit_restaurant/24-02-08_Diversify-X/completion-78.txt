@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with waterfront views for dinner tonight?"
+Named Entities: [fine dining (Amenity), waterfront views (Amenity), tonight (Hours)]
+
+2. "I'm looking for a high-end restaurant with a view of the water, can you suggest any?"
+Named Entities: [high-end (Price), view of the water (Amenity)]
+
+3. "Find me a luxury restaurant with a waterfront location and a gourmet menu."
+Named Entities: [luxury (Price), waterfront location (Location), gourmet menu (Cuisine)]

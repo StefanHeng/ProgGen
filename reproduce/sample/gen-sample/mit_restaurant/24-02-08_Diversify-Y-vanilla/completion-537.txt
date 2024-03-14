@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a rooftop terrace and a Gourmet Traveller menu?"
+Named Entities: [rooftop terrace (Amenity), Gourmet Traveller (Amenity)]
+
+Query: "I'm looking for a place with a good rating in gourmet traveller"
+Named Entities: [good (Rating), Gourmet Traveller (Amenity)]
+
+Query: "Where can I find a restaurant with a rooftop terrace in this area?"
+Named Entities: [rooftop terrace (Amenity), this area (Location)]

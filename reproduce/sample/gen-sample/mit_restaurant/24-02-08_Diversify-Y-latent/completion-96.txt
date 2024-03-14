@@ -1,0 +1,8 @@
+1. "Can you recommend any Italian restaurants with a romantic ambience?"
+Named Entities: [Italian (Cuisine), romantic ambience (Amenity)]
+
+2. "Which restaurants in the area have a kid-friendly menu?"
+Named Entities: [kid-friendly (Amenity)]
+
+3. "I'm in the mood for some sushi. Can you find a sushi bar with a high rating?"
+Named Entities: [sushi (Cuisine), high rating (Rating)]

@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "dataset_name": "conll2003-no-misc",
+        "source_dataset_dir_name": "24-02-07_NER-Dataset_{fmt=n-p2,#l=3,de=T}_ori-et-pool-#et=1.5",
+        "diversity_variant": "Diverse-Y-vanilla"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Only first names, last names, and full names are considered named person entities. Any reference to a person or people such as \"mayor\" and \"CEO\" is not a named entity. A named person entity should not have any starting titles such as \"President\", \"Prince\" and \"Professor\". Titles such as \"President of Iceland\" and \"Prime Minister of Australia\" are also not relevant named entities.",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "The CEO of Ford Motor Company predicts a surge in demand for electric cars in the next decade.",
+                    "entity_span": "CEO",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "South African president visits Johannesburg to address issues of poverty and inequality.",
+                    "entity_span": "South African president",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "India's Prime Minister to meet with President of Nepal for bilateral talks.",
+                    "entity_span": "President of Nepal",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "President Jokowi announces new economic policies to boost growth in Jakarta.",
+                    "entity_span": "President Jokowi",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "Jokowi",
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Adjectives like \"American\", \"Russian\" and \"Brazilian\" are not relevant named entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "European Union imposes sanctions on Belarusian officials, prompting strong response from Sergey Lavrov.",
+                    "entity_span": "Belarusian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The European Union imposes sanctions on Russian officials over human rights abuses.",
+                    "entity_span": "Russian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Sydney native wins gold medal in swimming competition.",
+                    "entity_span": "Sydney",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "London Mayor Sadiq Khan responds to criticism over public transport funding.",
+                    "entity_span": "London",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Any general reference to an organization or organizations such as \"government\", \"company\" and \"global technology company\" is not a named entity. Adjectives such as \"Chinese\", \"Australian\" and \"European\" are also not relevant named entities. Viruses such as \"COVID-19\" are also not named organization entities. Products such as \"iPhone\" and \"Instagram\" are not relevant named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "The Indian government announces new policies to address air pollution in Delhi.",
+                    "entity_span": "Indian government",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Major electronics company headquartered in Seoul sees 15% increase in profits.",
+                    "entity_span": "company",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Local tech company to open new headquarters in San Francisco.",
+                    "entity_span": "tech company",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Australian Prime Minister to visit Sydney for climate change summit.",
+                    "entity_span": "Australian",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The University of Washington football team defeated Stanford in a close game.",
+                    "entity_span": "University of Washington",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

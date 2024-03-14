@@ -1,0 +1,11 @@
+1. Query: "What are the opening hours for {{Bluestone Lane}}?"
+Text Span: "Bluestone Lane"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What are the opening hours of {{Downtown Diner}} on Saturdays?"
+Text Span: "Downtown Diner"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What type of cuisine does {{The Late Night Hangout}} serve?"
+Text Span: "The Late Night Hangout"
+Label: (A). The span is a named entity of type restaurant name

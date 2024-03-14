@@ -1,0 +1,100 @@
+1. "who directed the 1994 film shawshank redemption rated as the best movie of all time"
+   Named Entities: [1994 (Year), shawshank redemption (Title), best movie of all time (Review), rated (Plot)]
+2. "which film stars morgan freeman and clint eastwood fighting in the old west"
+   Named Entities: [morgan freeman (Actor), clint eastwood (Actor), old west (Setting)]
+3. "show me a list of action movies released in the 1980s"
+   Named Entities: [action (Genre), 1980s (Year)]
+4. "is there a musical movie featuring the song 'my heart will go on'"
+   Named Entities: [musical (Genre), my heart will go on (Song)]
+5. "who were the main characters in the lord of the rings trilogy"
+   Named Entities: [lord of the rings (Title), main characters (Character)]
+6. "what is your favorite horror movie"
+   Named Entities: [horror (Genre)]
+7. "can you recommend a good sci-fi film from the 70s"
+   Named Entities: [sci-fi (Genre), 70s (Year)]
+8. "how was the reception of the matrix reloaded movie"
+   Named Entities: [the matrix reloaded (Title), reception (Review)]
+9. "in what year did quentin tarantino direct the film pulp fiction"
+   Named Entities: [quentin tarantino (Director), pulp fiction (Title)]
+10. "show me a trailer for the latest james bond movie"
+    Named Entities: [trailer (Trailer), james bond (Character)]
+11. "what was the viewers' rating for the godfather movie"
+    Named Entities: [the godfather (Title), viewers' rating (Viewers' Rating)]
+12. "which movie won the best picture award in 2018"
+    Named Entities: [best picture award (Award), 2018 (Year)]
+13. "who is the actor that played luke skywalker in the star wars series"
+    Named Entities: [luke skywalker (Character), star wars (Title), actor (Actor)]
+14. "can you tell me the plot of the film the silence of the lambs"
+    Named Entities: [the silence of the lambs (Title), plot (Plot)]
+15. "show me the list of romantic comedy movies released in the past year"
+    Named Entities: [romantic comedy (Genre), past year (Year)]
+16. "what is the name of the actress who starred in the movie pretty woman"
+    Named Entities: [pretty woman (Title), actress (Actor)]
+17. "list the top 10 highest rated movies on rotten tomatoes"
+    Named Entities: [top 10 highest rated (Viewers' Rating), rotten tomatoes (Review)]
+18. "are there any upcoming superhero movies with a female lead"
+    Named Entities: [upcoming (Year), superhero (Genre), female lead (Character)]
+19. "what is the mpaa rating for the film saving private ryan"
+    Named Entities: [mpaa rating (MPAA Rating), saving private ryan (Title)]
+20. "show me a movie that features the song 'eye of the tiger'"
+    Named Entities: [eye of the tiger (Song)]
+21. "which movie won the most awards at the oscars last year"
+    Named Entities: [most awards (Award), oscars (Award), last year (Year)]
+22. "what is considered the best animated film of all time"
+    Named Entities: [best animated film (Review), all time (Year)]
+23. "who directed the film the shawshank redemption"
+    Named Entities: [shawshank redemption (Title), directed (Director)]
+24. "what movie has the character rocky balboa as the main protagonist"
+    Named Entities: [rocky balboa (Character), main protagonist (Character)]
+25. "show me a list of classic black and white movies from the 1940s"
+    Named Entities: [classic (Genre), black and white (Genre), 1940s (Year)]
+26. "what is the estimated budget for the movie avengers: endgame"
+    Named Entities: [avengers: endgame (Title), estimated budget (Plot)]
+27. "who is the female lead in the film the notebook"
+    Named Entities: [female lead (Character), the notebook (Title)]
+28. "what is the viewers' rating for the movie the dark knight"
+    Named Entities: [viewers' rating (Viewers' Rating), the dark knight (Title)]
+29. "what are some of alfred hitchcock's most famous movies"
+    Named Entities: [alfred hitchcock (Director), most famous (Review)]
+30. "show me the trailers for the star wars original trilogy"
+    Named Entities: [trailers (Trailer), star wars original trilogy (Title)]
+31. "what is the plot of the film inception directed by christopher nolan"
+    Named Entities: [inception (Title), directed by christopher nolan (Director), plot (Plot)]
+32. "how many movies were directed by steven spielberg in the 1990s"
+    Named Entities: [steven spielberg (Director), 1990s (Year)]
+33. "what is the genre of the movie the wizard of oz"
+    Named Entities: [the wizard of oz (Title), genre (Genre)]
+34. "what is the name of the actor who played tony stark in the marvel cinematic universe"
+    Named Entities: [actor (Actor), tony stark (Character), marvel cinematic universe (Title)]
+35. "show me a musical movie featuring the song 'somewhere over the rainbow'"
+    Named Entities: [musical (Genre), somewhere over the rainbow (Song)]
+36. "list all the movies directed by quentin tarantino"
+    Named Entities: [quentin tarantino (Director)]
+37. "what was the viewers' rating for the movie the godfather"
+    Named Entities: [viewers' rating (Viewers' Rating), the godfather (Title)]
+38. "which movie won the best picture award at the academy awards in 2000"
+    Named Entities: [best picture award (Award), academy awards (Award), 2000 (Year)]
+39. "who is the lead actress in the film pretty woman"
+    Named Entities: [lead actress (Actor), pretty woman (Title)]
+40. "what is the mpaa rating for the film jaws directed by steven spielberg"
+    Named Entities: [mpaa rating (MPAA Rating), jaws (Title), directed by steven spielberg (Director)]
+41. "who composed the soundtrack for the movie jurassic park"
+    Named Entities: [soundtrack (Song), jurassic park (Title)]
+42. "show me a list of fantasy movies released in the last decade"
+    Named Entities: [fantasy (Genre), last decade (Year)]
+43. "what is the best war movie of all time according to critics"
+    Named Entities: [best war movie (Review), all time (Year), according to critics (Review)]
+44. "how many james bond films were directed by martin campbell"
+    Named Entities: [james bond (Title), martin campbell (Director)]
+45. "what type of movie genre is the film the shawshank redemption"
+    Named Entities: [the shawshank redemption (Title), genre (Genre)]
+46. "show me a movie that features the character indiana jones"
+    Named Entities: [indiana jones (Character)]
+47. "what is the viewers' rating for the film the lord of the rings: the return of the king"
+    Named Entities: [viewers' rating (Viewers' Rating), the lord of the rings: the return of the king (Title)]
+48. "list the top 5 highest grossing comedy movies of all time"
+    Named Entities: [top 5 highest grossing (Plot), comedy (Genre), all time (Year)]
+49. "who is the director of the movie inception starring leonardo dicaprio"
+    Named Entities: [inception (Title), director (Director), leonardo dicaprio (Actor)]
+50. "show me the trailers for the top 10 highest grossing movies of 2021"
+    Named Entities: [trailers (Trailer), top 10 highest grossing (Plot), 2021 (Year) ]

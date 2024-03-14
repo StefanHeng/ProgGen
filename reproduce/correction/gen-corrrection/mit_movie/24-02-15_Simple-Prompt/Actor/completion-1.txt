@@ -1,0 +1,8 @@
+1. Text Span: "Tom Hanks"
+   Label: (A). The span is a named entity of type actor
+
+2. Text Span: "actor"
+   Label: (D). The span is not a named entity
+
+3. Text Span: "lead actress"
+   Label: (C). The span is a named entity but the category is not actor, correct entity type: Character

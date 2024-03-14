@@ -1,0 +1,8 @@
+1. Text Span: "affordable"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "isn't too costly"
+Label: (B). Wrong Boundary. The correct span boundary is "isn't too costly".
+
+3. Text Span: "budget-friendly"
+Label: (A). Correct Entity Annotation.

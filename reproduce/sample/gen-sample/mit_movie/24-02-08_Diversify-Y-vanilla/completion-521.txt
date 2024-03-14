@@ -1,0 +1,8 @@
+1. Query: "What Experimental films were released in 1950"
+   Named Entities: [1950 (Year), Experimental (Genre)]
+
+2. Query: "Who directed the Spaghetti Western movie with Han Solo as one of the characters"
+   Named Entities: [Spaghetti Western (Genre), Han Solo (Character)]
+
+3. Query: "I'm looking for a movie with heartfelt performances, can you recommend one"
+   Named Entities: [heartfelt performances (Review)]

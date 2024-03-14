@@ -1,0 +1,8 @@
+1. Query: "Can you provide an excerpt from the black comedy film released in 1995 with an engrossing narrative?"
+   Named Entities: [black comedy (Genre), 1995 (Year), engrossing narrative (Plot), excerpt (Trailer)]
+
+2. Query: "What reel does Mufasa appear in?"
+   Named Entities: [Mufasa (Character), reel (Trailer)]
+
+3. Query: "Recommend a movie with an engrossing narrative and an exceptional song."
+   Named Entities: [engrossing narrative (Plot), exceptional song (Song)]

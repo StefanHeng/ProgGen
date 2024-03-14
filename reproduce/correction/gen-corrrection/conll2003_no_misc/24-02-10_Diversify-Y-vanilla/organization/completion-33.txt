@@ -1,0 +1,11 @@
+1. Sentence: "The {{United Nations}} has announced a new aid package for refugees in Cape Town ."
+Text Span: "United Nations"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{FC Barcelona}} signs sponsorship deal with a global technology company."
+Text Span: "FC Barcelona"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The {{OPEC}} members met in Wellington to discuss oil production cuts."
+Text Span: "OPEC"
+Label: (A). The span is a named entity of type organization

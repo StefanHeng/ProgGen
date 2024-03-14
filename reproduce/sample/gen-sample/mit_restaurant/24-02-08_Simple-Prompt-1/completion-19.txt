@@ -1,0 +1,149 @@
+1. "I'm in the mood for Italian food, any good places nearby?"
+   Named Entities: [Italian (Cuisine)]
+
+2. "What time does Burger King close?"
+   Named Entities: [Burger King (Restaurant Name), close (Hours)]
+
+3. "I want to find a restaurant with outdoor seating"
+   Named Entities: [outdoor seating (Amenity)]
+
+4. "Where can I find some cheap eats around here?"
+   Named Entities: [cheap eats (Price), around here (Location)]
+
+5. "Do you know any Michelin-starred restaurants in this area?"
+   Named Entities: [Michelin-starred (Rating), in this area (Location)]
+
+6. "Siri, find me a cozy café that serves matcha lattes"
+   Named Entities: [cozy café (Amenity), matcha lattes (Dish)]
+
+7. "I need to order a large pepperoni pizza for delivery"
+   Named Entities: [large (Amenity), pepperoni pizza (Dish), delivery (Amenity)]
+
+8. "What's the best sushi place in town?"
+   Named Entities: [best (Rating), sushi (Cuisine)]
+
+9. "I'm looking for a place that offers gluten-free options"
+   Named Entities: [gluten-free options (Amenity)]
+
+10. "Where's the nearest rooftop bar?"
+    Named Entities: [nearest (Location), rooftop bar (Amenity)]
+
+11. "What are some good brunch spots around here?"
+    Named Entities: [good (Rating), brunch (Amenity), around here (Location)]
+
+12. "Call Taco Bell and ask about their vegetarian menu"
+    Named Entities: [Taco Bell (Restaurant Name), vegetarian (Cuisine)]
+
+13. "Is there a 24-hour diner in this neighborhood?"
+    Named Entities: [24-hour (Hours), diner (Amenity), in this neighborhood (Location)]
+
+14. "I need a reservation for 2 at a French restaurant for 7 p.m."
+    Named Entities: [reservation (Amenity), 2 (Amenity), French (Cuisine), 7 p.m. (Hours)]
+
+15. "Where can I get a good lobster roll?"
+    Named Entities: [good (Rating), lobster roll (Dish)]
+
+16. "Find me a place with live music and a full bar"
+    Named Entities: [live music (Amenity), full bar (Amenity)]
+
+17. "What's the best place for a romantic dinner?"
+    Named Entities: [best (Rating), romantic dinner (Amenity)]
+
+18. "I'm craving some street tacos, where can I find them?"
+    Named Entities: [street tacos (Dish)]
+
+19. "I want to order a family meal from KFC"
+    Named Entities: [family meal (Amenity), KFC (Restaurant Name)]
+
+20. "What's the price range for the steakhouse downtown?"
+    Named Entities: [price range (Price), steakhouse (Amenity), downtown (Location)]
+
+21. "Where can I find a good pho restaurant?"
+    Named Entities: [good (Rating), pho (Cuisine)]
+
+22. "I need to know the address of the nearest Starbucks"
+    Named Entities: [address (Location), nearest (Location), Starbucks (Restaurant Name)]
+
+23. "Are there any all-you-can-eat buffets in this area?"
+    Named Entities: [all-you-can-eat (Price), buffets (Amenity), in this area (Location)]
+
+24. "Find me a place with a kids menu"
+    Named Entities: [kids menu (Amenity)]
+
+25. "What's the best place for a quick bite to eat?"
+    Named Entities: [best (Rating), quick bite (Amenity)]
+
+26. "I'm looking for a cozy little bistro with outdoor seating"
+    Named Entities: [cozy little bistro (Amenity), outdoor seating (Amenity)]
+
+27. "Call the Chinese restaurant and ask about their delivery options"
+    Named Entities: [Chinese (Cuisine), delivery (Amenity)]
+
+28. "Where can I find a good vegan restaurant?"
+    Named Entities: [good (Rating), vegan (Cuisine)]
+
+29. "I need to order a large pepperoni pizza for delivery"
+    Named Entities: [large (Amenity), pepperoni pizza (Dish), delivery (Amenity)]
+
+30. "What's the best Mexican restaurant in town?"
+    Named Entities: [best (Rating), Mexican (Cuisine), in town (Location)]
+
+31. "I want to find a place with a view of the ocean"
+    Named Entities: [view of the ocean (Amenity)]
+
+32. "Where can I get some late-night eats?"
+    Named Entities: [late-night (Hours), eats (Amenity)]
+
+33. "Do you know any Ethiopian restaurants in this area?"
+    Named Entities: [Ethiopian (Cuisine), in this area (Location)]
+
+34. "I'm craving some street tacos, where can I find them?"
+    Named Entities: [street tacos (Dish)]
+
+35. "What's the price range for the steakhouse downtown?"
+    Named Entities: [price range (Price), steakhouse (Amenity), downtown (Location)]
+
+36. "Where can I find a good pho restaurant?"
+    Named Entities: [good (Rating), pho (Cuisine)]
+
+37. "I need to know the address of the nearest Starbucks"
+    Named Entities: [address (Location), nearest (Location), Starbucks (Restaurant Name)]
+
+38. "Are there any all-you-can-eat buffets in this area?"
+    Named Entities: [all-you-can-eat (Price), buffets (Amenity), in this area (Location)]
+
+39. "Find me a place with a kids menu"
+    Named Entities: [kids menu (Amenity)]
+
+40. "What's the best place for a quick bite to eat?"
+    Named Entities: [best (Rating), quick bite (Amenity)]
+
+41. "I'm looking for a cozy little bistro with outdoor seating"
+    Named Entities: [cozy little bistro (Amenity), outdoor seating (Amenity)]
+
+42. "Call the Chinese restaurant and ask about their delivery options"
+    Named Entities: [Chinese (Cuisine), delivery (Amenity)]
+
+43. "Where can I find a good vegan restaurant?"
+    Named Entities: [good (Rating), vegan (Cuisine)]
+
+44. "I need to order a large pepperoni pizza for delivery"
+    Named Entities: [large (Amenity), pepperoni pizza (Dish), delivery (Amenity)]
+
+45. "What's the best Mexican restaurant in town?"
+    Named Entities: [best (Rating), Mexican (Cuisine), in town (Location)]
+
+46. "I want to find a place with a view of the ocean"
+    Named Entities: [view of the ocean (Amenity)]
+
+47. "Where can I get some late-night eats?"
+    Named Entities: [late-night (Hours), eats (Amenity)]
+
+48. "Do you know any Ethiopian restaurants in this area?"
+    Named Entities: [Ethiopian (Cuisine), in this area (Location)]
+
+49. "What's the most expensive restaurant in the city?"
+    Named Entities: [most expensive (Price), city (Location)]
+
+50. "I'm looking for a place with a 5-star rating"
+    Named Entities: [5-star (Rating)]

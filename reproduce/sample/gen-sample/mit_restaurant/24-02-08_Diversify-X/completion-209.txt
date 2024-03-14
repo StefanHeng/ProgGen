@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck with a variety of Mexican dishes?"
+Named Entities: [food truck (Amenity), Mexican (Cuisine)]
+
+2. "What are the operating hours of the nearest food truck that serves vegan options?"
+Named Entities: [operating hours (Hours), nearest (Location), food truck (Amenity), vegan (Cuisine)]
+
+3. "I'm craving some comfort food, where can I find a food truck with affordable prices?"
+Named Entities: [comfort food (Cuisine), food truck (Amenity), affordable prices (Price)]

@@ -1,0 +1,8 @@
+1. Query: "What year was the first Harry Potter movie released"
+Named Entities: [Harry Potter (Title)]
+
+2. Query: "Can you recommend an astounding movie from the 1960s to 1962"
+Named Entities: [Astounding (Review), 1960-1962 (Year)]
+
+3. Query: "Who directed the movie Gladiator and what genre is it"
+Named Entities: [Gladiator (Title), Ridley Scott (Director), Adventure-drama (Genre)]

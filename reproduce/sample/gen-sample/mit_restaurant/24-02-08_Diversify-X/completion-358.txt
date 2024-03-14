@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with a good student discount?"
+Named Entities: [buffet (Amenity), student discount (Price)]
+
+Query: "I'm looking for a buffet place with a nice ambiance and affordable prices for a lunch date with my friends."
+Named Entities: [buffet (Amenity), lunch date (Amenity)]
+
+Query: "Where can I find a trendy buffet spot with vegetarian options and a lively atmosphere for a girls' night out?"
+Named Entities: [buffet (Amenity), vegetarian options (Cuisine), girls' night out (Amenity)]

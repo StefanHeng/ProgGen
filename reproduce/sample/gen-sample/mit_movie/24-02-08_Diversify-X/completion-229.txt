@@ -1,0 +1,8 @@
+1. "Who directed the movie Inception and who were the main actors?"
+Named Entities: [Inception (Title), main actors (Actor), directed (Director)]
+
+2. "I need to know the year the film Pulp Fiction was released and the genre of the movie."
+Named Entities: [Pulp Fiction (Title), year (Year), genre (Genre)]
+
+3. "Give me the name of the actor who starred in The Godfather and the viewers' rating for the film now."
+Named Entities: [The Godfather (Title), actor (Actor), viewers' rating (Viewers' Rating)]

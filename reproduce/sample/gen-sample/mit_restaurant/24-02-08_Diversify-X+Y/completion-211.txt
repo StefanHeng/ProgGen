@@ -1,0 +1,8 @@
+Query: "I'm looking for a café with outdoor seating and a good brunch menu"
+Named Entities: [outdoor seating (Amenity), brunch (Meal), café (Cuisine)]
+
+Query: "what are the top-rated cafés in downtown with free Wi-Fi?"
+Named Entities: [top-rated (Rating), downtown (Location), free Wi-Fi (Amenity), café (Cuisine)]
+
+Query: "I need a café that serves vegan options and is open 24 hours"
+Named Entities: [vegan (Cuisine), open 24 hours (Hours), café (Cuisine)]

@@ -1,0 +1,8 @@
+Query: "I'm craving some Japanese food for takeout tonight, where can I find a good place?"
+Named Entities: [Japanese (Cuisine), takeout (Amenity), tonight (Hours)]
+
+Query: "What are the best Japanese restaurants in the area that offer takeout for dinner?"
+Named Entities: [Japanese (Cuisine), takeout (Amenity), dinner (Hours)]
+
+Query: "I want to order some takeout for dinner, can you recommend any Japanese restaurants nearby?"
+Named Entities: [takeout (Amenity), dinner (Hours), Japanese (Cuisine), nearby (Location)]

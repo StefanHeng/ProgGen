@@ -1,0 +1,8 @@
+1. "What's the best family-friendly Italian restaurant in the area?"
+Named Entities: [best (Rating), family-friendly (Amenity), Italian (Cuisine), area (Location)]
+
+2. "Can you recommend a family-friendly restaurant with outdoor seating and a kids menu?"
+Named Entities: [recommend (Amenity), family-friendly (Amenity), outdoor seating (Amenity), kids menu (Amenity)]
+
+3. "Are there any family-friendly restaurants nearby that serve vegan dishes?"
+Named Entities: [family-friendly (Amenity), nearby (Location), vegan (Cuisine)]

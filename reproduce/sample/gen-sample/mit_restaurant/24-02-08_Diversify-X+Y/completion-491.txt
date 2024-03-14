@@ -1,0 +1,8 @@
+Query: "Can you recommend a Zagat-rated buffet restaurant in the downtown area?"
+Named Entities: [Zagat-rated (Rating), buffet (Amenity), downtown area (Location)]
+
+Query: "Is there a Zagat-rated buffet place with a variety of seafood dishes?"
+Named Entities: [Zagat-rated (Rating), buffet (Amenity), seafood dishes (Dish)]
+
+Query: "I'm looking for a Zagat-rated buffet spot that offers a good selection of vegetarian cuisine."
+Named Entities: [Zagat-rated (Rating), buffet (Amenity), vegetarian cuisine (Cuisine)]

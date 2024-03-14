@@ -1,0 +1,11 @@
+1. Sentence: "The Geological Society of America was founded in 1888 and is based in {{Boulder}}, Colorado."
+Text Span: "Boulder"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "In {{Greek mythology}}, the Titans were often depicted as giants with incredible strength and immense power."
+Text Span: "Greek mythology"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Sentence: "The New York Philharmonic, one of the oldest orchestras in the United States, performed at the Royal Albert Hall in {{London}} during the orchestra's 2007 European tour."
+Text Span: "London"
+Label: (A). The span is a named entity of type location

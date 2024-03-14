@@ -1,0 +1,8 @@
+1. "Can you tell me about a movie with a gripping storyline and martial arts involved?"
+ Named Entities: [gripping storyline (Plot), martial arts (Genre)]
+
+2. "I'm looking for a film with a compulsive plot and the letter M in the title, can you help me?"
+ Named Entities: [compulsive (Plot), M (Title)]
+
+3. "Show me a movie that involves martial arts and has a mysterious plot."
+ Named Entities: [martial arts (Genre), mysterious plot (Plot)]

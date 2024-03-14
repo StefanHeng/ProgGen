@@ -1,0 +1,8 @@
+1. Text Span: "Komodo dragon"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Guatemalan"
+Label: (B). The correct span boundary is "Guatemala".
+
+3. Text Span: "Eastern United States"
+Label: (A). Correct Entity Annotation.

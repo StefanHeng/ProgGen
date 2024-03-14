@@ -1,0 +1,8 @@
+1. Text Span: "National Radio Quiet Zone"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Vaishnava"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is other.
+
+3. Text Span: "Red Cross"
+Label: (A). The span is a named entity of type organization

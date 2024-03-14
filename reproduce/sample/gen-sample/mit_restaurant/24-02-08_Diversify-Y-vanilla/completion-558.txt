@@ -1,0 +1,11 @@
+Query: "I'm craving a steak. Can you suggest any good restaurants nearby? Maybe [Del Frisco's Grille]?"
+
+Named Entities: [steak (Dish), nearby (Location), Del Frisco's Grille (Restaurant Name)]
+
+Query: "What's the best seafood restaurant in the area? I'm looking for something upscale."
+
+Named Entities: [best (Rating), seafood (Cuisine), upscale (Price)]
+
+Query: "Do you know of any Italian restaurants with outdoor seating? I prefer to dine al fresco, especially at [Del Frisco's Grille]."
+
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), Del Frisco's Grille (Restaurant Name)]

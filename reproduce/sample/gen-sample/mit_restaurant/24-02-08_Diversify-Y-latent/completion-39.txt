@@ -1,0 +1,8 @@
+1. "I'm craving a burrito, where can I find a Chipotle Mexican Grill nearby?"
+Named Entities: [burrito (Dish), Chipotle Mexican Grill (Restaurant Name)]
+
+2. "What's the rating of the Mexican restaurant with the best happy hour specials?"
+Named Entities: [Mexican (Cuisine), happy hour (Amenity), best (Rating)]
+
+3. "Which restaurant in this area has a patio and serves vegetarian dishes?"
+Named Entities: [patio (Amenity), vegetarian (Dish), this area (Location)]

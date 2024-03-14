@@ -1,0 +1,8 @@
+1. "Find me a food truck that serves Mexican cuisine and is open for takeout after 7 pm"
+Named Entities: [food truck (Amenity), Mexican (Cuisine), takeout (Amenity), after 7 pm (Hours)]
+
+2. "I'm in the mood for some street food, can you recommend a food truck with a high rating?"
+Named Entities: [street food (Cuisine), high rating (Rating), food truck (Amenity)]
+
+3. "Where can I get some budget-friendly takeout from a food truck near the downtown area?"
+Named Entities: [budget-friendly (Price), takeout (Amenity), food truck (Amenity), downtown area (Location)]

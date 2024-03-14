@@ -1,0 +1,8 @@
+1. Query: "I'm in the mood for some spicy chicken, where can I find Nando's Peri-Peri"
+   Named Entities: [spicy chicken (Dish), Nando's Peri-Peri (Restaurant Name)]
+
+2. Query: "What restaurants are open during nighttime hours in this area?"
+   Named Entities: [nighttime hours (Hours)]
+
+3. Query: "I'm craving authentic Indian food, where can I go in Mumbai"
+   Named Entities: [authentic Indian food (Cuisine), Mumbai (Location)]

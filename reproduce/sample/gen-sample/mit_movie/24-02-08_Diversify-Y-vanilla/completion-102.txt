@@ -1,0 +1,8 @@
+1. "Can you recommend a PG-13 movie from 1975 starring Meryl Streep?"
+Named Entities: [PG-13 (MPAA Rating), 1975 (Year), Meryl Streep (Actor)]
+
+2. "Show me a trailer for the 2008 action movie directed by Christopher Nolan."
+Named Entities: [trailer (Trailer), 2008 (Year), action (Genre), Christopher Nolan (Director)]
+
+3. "What is the highest viewers' rated film of all time, and who directed it?"
+Named Entities: [highest viewers' rated (Viewers' Rating), directed (Director)]

@@ -1,0 +1,8 @@
+1. Text Span: "recommended"
+   Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "kid-friendly"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "restaurant"
+   Label: (A). Correct Entity Annotation.

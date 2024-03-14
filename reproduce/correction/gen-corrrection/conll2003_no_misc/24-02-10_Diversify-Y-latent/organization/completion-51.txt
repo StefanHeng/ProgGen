@@ -1,0 +1,8 @@
+1. Text Span: "Johnson Elementary School"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "police officer"
+Label: (C). The span is a named entity but the category is not organization. Entity type: other
+
+3. Text Span: "IPHONE 13"
+Label: (D). The span is not a named entity

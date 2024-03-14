@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with an outstanding ensemble cast?"
+Named Entities: [Outstanding ensemble cast (Review)]
+
+2. "Please show me the one-minute trailer for The Avengers."
+Named Entities: [One-minute trailer (Trailer), The Avengers (Title)]
+
+3. "Is Reese Witherspoon in any space opera films like Million Dollar Baby?"
+Named Entities: [Reese Witherspoon (Actor), Million Dollar Baby (Title), space opera (Genre)]

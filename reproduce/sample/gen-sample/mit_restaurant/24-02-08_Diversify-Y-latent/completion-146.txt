@@ -1,0 +1,8 @@
+Query: "I'm looking for some cheap eats with WiFi, do you know any place nearby?"
+Named Entities: [cheap eats (Price), WiFi (Amenity), nearby (Location)]
+
+Query: "Can you recommend a restaurant with good WiFi connection and a variety of vegan dishes?"
+Named Entities: [good WiFi (Amenity), vegan (Cuisine)]
+
+Query: "Where can I find a restaurant with affordable prices and a good outdoor seating area?"
+Named Entities: [affordable prices (Price), outdoor seating area (Amenity)]

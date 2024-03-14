@@ -1,0 +1,8 @@
+Query: "can you play an excerpt from the latest war movie set in an exotic location"
+Named Entities: [excerpt (Excerpt), war (Genre), exotic location (Exotic location)]
+
+Query: "is there a teaser trailer for the psychological thriller with a sacrifice for a greater cause"
+Named Entities: [teaser trailer (Trailer), psychological thriller (Genre), sacrifice for a greater cause (Plot)]
+
+Query: "what is the viewers' rating for the romantic comedy directed by nora ephron and released in 1993"
+Named Entities: [romantic comedy (Genre), nora ephron (Director), 1993 (Year), viewers' rating (Viewers' Rating)]

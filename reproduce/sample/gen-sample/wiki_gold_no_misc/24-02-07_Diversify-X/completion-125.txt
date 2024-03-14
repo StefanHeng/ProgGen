@@ -1,0 +1,8 @@
+Sentence: "Euclid is often referred to as the "father of geometry" for his work in the field."
+Named Entities: [Euclid (person)]
+
+Sentence: "The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides."
+Named Entities: []
+
+Sentence: "The International Mathematical Olympiad is a prestigious annual mathematics competition for high school students from around the world."
+Named Entities: [International Mathematical Olympiad (organization)]

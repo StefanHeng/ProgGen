@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants nearby that serve A&W root beer floats?"
+Named Entities: [A&W (Restaurant Name), root beer floats (Dish)]
+
+2. "I'm looking for a place to have a fancy dinner with a view for under $50 per person. Do you know any restaurants like Cheesecake Bistro?"
+Named Entities: [fancy (Amenity), under $50 per person (Price), Cheesecake Bistro (Restaurant Name)]
+
+3. "What are the best Italian restaurants in the area that are open late on weekends?"
+Named Entities: [Italian (Cuisine), late on weekends (Hours)]

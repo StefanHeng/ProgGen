@@ -1,0 +1,2 @@
+{"sentence": "Are there any movies directed by Steven Spielberg that I should watch?", "entity_span": "Steven Spielberg", "label": "CORRECT"}
+{"sentence": "who directed the movie Inception", "entity_span": "directed", "label": "NA"}

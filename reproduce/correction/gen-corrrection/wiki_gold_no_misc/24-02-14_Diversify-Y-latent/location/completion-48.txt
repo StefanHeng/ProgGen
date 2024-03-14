@@ -1,0 +1,11 @@
+1. Sentence: "The company's headquarters are located in {{Milan}}, Italy."
+Text Span: "Milan"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Mount Everest, also known in Nepal as Sagarmatha and in Tibet as Chomolungma, is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the {{Himalayas}}."
+Text Span: "Himalayas"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: 'After graduating from {{Waseda University}}, Murakami opened a jazz bar in Tokyo called "Peter Cat".'
+Text Span: "Waseda University"
+Label: (A). The span is a named entity of type location

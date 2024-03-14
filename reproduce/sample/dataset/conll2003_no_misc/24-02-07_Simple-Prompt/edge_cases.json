@@ -1,0 +1,487 @@
+[
+    {
+        "sentence": "London Stock Exchange experiences record high trading volume.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "Italian fashion house Gucci under fire for cultural appropriation.",
+        "entity_names": [
+            "Gucci",
+            "Italy"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "Japanese car manufacturer Toyota to invest $1 billion in renewable energy.",
+        "entity_names": [
+            "Toyota",
+            "Japan"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "London Stock Exchange experiences trading delay.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-12",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "Australian authorities arrest a notorious drug trafficker in a major bust.",
+        "entity_names": [
+            "Australia"
+        ],
+        "filename": "completion-13",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Paris Agreement reaches milestone with new signatory countries.",
+        "entity_names": [
+            "Paris Agreement",
+            "Paris"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Paris"
+        ]
+    },
+    {
+        "sentence": "Tokyo Disneyland reopens after extended closure.",
+        "entity_names": [
+            "Tokyo Disneyland",
+            "Tokyo"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Tokyo"
+        ]
+    },
+    {
+        "sentence": "Japanese electronics giant Sony to launch new gaming console.",
+        "entity_names": [
+            "Sony",
+            "Japan"
+        ],
+        "filename": "completion-17",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "London Stock Exchange closes at record high.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-27",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "Chicago Blackhawks trade veteran defenseman to Florida Panthers.",
+        "entity_names": [
+            "Chicago Blackhawks",
+            "Florida Panthers",
+            "Chicago",
+            "Florida"
+        ],
+        "filename": "completion-27",
+        "entity_types": [
+            "organization",
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Chicago",
+            "Florida"
+        ]
+    },
+    {
+        "sentence": "WHO declares global pandemic as COVID-19 cases surge.",
+        "entity_names": [
+            "World Health Organization"
+        ],
+        "filename": "completion-27",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "World Health Organization"
+        ]
+    },
+    {
+        "sentence": "Australian wildfires destroy thousands of acres",
+        "entity_names": [
+            "Australia"
+        ],
+        "filename": "completion-30",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Russian opposition leader Alexei Navalny released from jail.",
+        "entity_names": [
+            "Alexei Navalny",
+            "Russia"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "Australian bushfires devastate millions of acres.",
+        "entity_names": [
+            "Australia"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "New York Stock Exchange experiences record-breaking trading day.",
+        "entity_names": [
+            "New York Stock Exchange",
+            "New York"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "New York"
+        ]
+    },
+    {
+        "sentence": "Italian fashion designer launches new clothing line.",
+        "entity_names": [
+            "Italy"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "Actress Scarlett Johansson sues Disney over streaming release.",
+        "entity_names": [
+            "Scarlett Johansson",
+            "[Disney"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "person)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[Disney"
+        ]
+    },
+    {
+        "sentence": "Prince Harry and Meghan Markle announce new charitable foundation.",
+        "entity_names": [
+            "Prince Harry",
+            "[Meghan Markle"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "person)]",
+            "person"
+        ],
+        "missing_entity_names": [
+            "[Meghan Markle"
+        ]
+    },
+    {
+        "sentence": "SpaceX launches civilian crew to International Space Station.",
+        "entity_names": [
+            "SpaceX",
+            "[International Space Station"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[International Space Station"
+        ]
+    },
+    {
+        "sentence": "Taliban gains control in Afghanistan.",
+        "entity_names": [
+            "Taliban",
+            "[Afghanistan"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Afghanistan"
+        ]
+    },
+    {
+        "sentence": "President Xi Jinping addresses UN General Assembly.",
+        "entity_names": [
+            "Xi Jinping",
+            "[UN General Assembly"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "person)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[UN General Assembly"
+        ]
+    },
+    {
+        "sentence": "NASA rover discovers evidence of ancient life on Mars.",
+        "entity_names": [
+            "NASA",
+            "[Mars"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Mars"
+        ]
+    },
+    {
+        "sentence": "President Macron meets with German Chancellor Merkel to discuss EU economic recovery.",
+        "entity_names": [
+            "Macron",
+            "[Merkel",
+            "[EU"
+        ],
+        "filename": "completion-34",
+        "entity_types": [
+            "person)]",
+            "person)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[Merkel",
+            "[EU"
+        ]
+    },
+    {
+        "sentence": "The London Stock Exchange experienced a sharp decline in trading volume.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "Australian surfer Mick Fanning wins championship title.",
+        "entity_names": [
+            "Mick Fanning",
+            "Australia"
+        ],
+        "filename": "completion-2",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "Russian President Putin Meets with Chinese Leader Xi Jinping",
+        "entity_names": [
+            "Putin",
+            "Xi Jinping",
+            "Russia",
+            "China"
+        ],
+        "filename": "completion-3",
+        "entity_types": [
+            "person",
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "sentence": "Russian opposition leader Alexei Navalny detained upon returning to Moscow.",
+        "entity_names": [
+            "Alexei Navalny",
+            "Moscow",
+            "Russia"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "Governor of Texas faces corruption allegations.",
+        "entity_names": [
+            "Governor of Texas",
+            "Texas"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Texas"
+        ]
+    },
+    {
+        "sentence": "Senator from New York proposes new legislation.",
+        "entity_names": [
+            "Senator from New York",
+            "New York"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "New York"
+        ]
+    },
+    {
+        "sentence": "Mayor of Chicago announces new public transportation initiative.",
+        "entity_names": [
+            "Mayor of Chicago",
+            "Chicago"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Chicago"
+        ]
+    },
+    {
+        "sentence": "CEO of Tesla unveils new electric car model.",
+        "entity_names": [
+            "CEO of Tesla",
+            "Tesla"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Tesla"
+        ]
+    },
+    {
+        "sentence": "Mayor of London launches initiative to combat air pollution.",
+        "entity_names": [
+            "Mayor of London",
+            "London"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    }
+]

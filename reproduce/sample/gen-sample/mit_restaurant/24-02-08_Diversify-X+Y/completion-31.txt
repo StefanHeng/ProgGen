@@ -1,0 +1,8 @@
+Query: "can you recommend a budget-friendly restaurant with good ratings for dinner"
+Named Entities: [budget-friendly (Price), good ratings (Rating), dinner (Amenity)]
+
+Query: "where can I find a budget-friendly place for a dinner date"
+Named Entities: [budget-friendly (Price), dinner date (Amenity)]
+
+Query: "show me a list of budget-friendly restaurants for dinner in the area"
+Named Entities: [budget-friendly (Price), dinner (Amenity)]

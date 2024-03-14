@@ -1,0 +1,11 @@
+1. Sentence: "Iggy Pop is an {{American}} musician, singer, and songwriter."
+Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "In 2016, Angela Merkel was named as the Time Person of the Year for her leadership during the {{European migrant crisis}} and the ongoing Syrian Civil War."
+Text Span: "European migrant crisis"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Sentence: 'In {{2019}}, the band released their fifth album, titled "Breaking the Silence," and embarked on a world tour to promote the new music.'
+Text Span: "2019"
+Label: (D). The span is not a named entity.

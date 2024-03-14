@@ -1,0 +1,8 @@
+1. Text Span: "awards or nominations"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "compelling"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating
+
+3. Text Span: "solid acting"
+   Label: (A). The span is a named entity of type Review

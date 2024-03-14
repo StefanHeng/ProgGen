@@ -1,0 +1,8 @@
+1. "Is there any restaurant nearby with live music tonight?"
+Named Entities: [nearby (Location), live music (Amenity)]
+
+2. "I'm craving a burger, can you recommend a good place like Shake Shack?"
+Named Entities: [burger (Dish), Shake Shack (Restaurant Name)]
+
+3. "What's the best restaurant in the area for a romantic dinner?"
+Named Entities: [best (Rating), romantic dinner (Amenity)]

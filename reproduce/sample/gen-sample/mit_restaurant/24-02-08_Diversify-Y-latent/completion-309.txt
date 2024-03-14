@@ -1,0 +1,8 @@
+1. "Can you recommend a good restaurant in the tourist area that serves Key Lime Pie?"
+Named Entities: [good (Rating), tourist area (Location), Key Lime Pie (Dish)]
+
+2. "What is the closest restaurant with a diverse menu and reasonable prices?"
+Named Entities: [closest (Location), diverse (Amenity), reasonable prices (Price)]
+
+3. "I'm craving Italian cuisine, is there a place with high ratings and outdoor seating?"
+Named Entities: [Italian (Cuisine), high ratings (Rating), outdoor seating (Amenity)]

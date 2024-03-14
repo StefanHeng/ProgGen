@@ -1,0 +1,8 @@
+Query: "can you recommend a fine dining restaurant with vegan options"
+Named Entities: [fine dining (Amenity), vegan options (Cuisine)]
+
+Query: "what is the best-rated fine dining restaurant in this area"
+Named Entities: [best-rated (Rating), fine dining (Amenity), area (Location)]
+
+Query: "do you know any fine dining places with outdoor seating"
+Named Entities: [fine dining (Amenity), outdoor seating (Amenity)]

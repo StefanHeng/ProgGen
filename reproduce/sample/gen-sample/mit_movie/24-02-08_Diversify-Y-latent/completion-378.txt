@@ -1,0 +1,8 @@
+Query: "tell me about the movie released in 1945"
+Named Entities: [1945 (Year)]
+
+Query: "what movie features the song Bohemian Rhapsody"
+Named Entities: [Bohemian Rhapsody (Song)]
+
+Query: "show me a thought-provoking movie with a Parental Guidance Suggested rating"
+Named Entities: [thought-provoking (Plot), Parental Guidance Suggested (MPAA Rating)]

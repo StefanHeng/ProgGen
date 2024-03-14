@@ -1,0 +1,8 @@
+Query: "Please recommend a good sushi restaurant nearby."
+Named Entities: [Sushi (Cuisine)]
+
+Query: "What are the operating hours for the sushi place on Main Street?"
+Named Entities: [Main Street (Location), operating hours (Hours), sushi (Cuisine)]
+
+Query: "Can you help me find a highly-rated sushi restaurant within my budget?"
+Named Entities: [highly-rated (Rating), sushi (Cuisine), budget (Price)]

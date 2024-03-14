@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie released in 2012 that features a dance competition?"
+   Named Entities: [2012 (Year), dance competition (Plot)]
+
+2. Query: "What is the viewers' rating for Belle?"
+   Named Entities: [Belle (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "Who directed the movie about a young ballerina looking for her big break in the world of dance?"
+   Named Entities: [young ballerina (Character), dance (Genre)]

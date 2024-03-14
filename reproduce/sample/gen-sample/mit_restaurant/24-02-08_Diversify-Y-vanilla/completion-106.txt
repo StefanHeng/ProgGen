@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating and vegan options?"
+Named Entities: [outdoor seating (Amenity), vegan (Cuisine)]
+
+2. "What's the best Italian restaurant in the downtown area?"
+Named Entities: [Italian (Cuisine), downtown (Location)]
+
+3. "I'm looking for a place with a 5-star rating that serves brunch until 3 p m"
+Named Entities: [5-star (Rating), brunch (Amenity), until 3 p m (Hours)]

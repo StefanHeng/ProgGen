@@ -1,0 +1,8 @@
+Query: "Can you recommend an Indonesian restaurant with outdoor seating?"
+Named Entities: [Indonesian (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm in the mood for some Indonesian food, what are the top-rated options nearby?"
+Named Entities: [Indonesian (Cuisine), top-rated (Rating), nearby (Location)]
+
+Query: "Are there any Indonesian places open for late-night dining?"
+Named Entities: [Indonesian (Cuisine), late-night (Hours)]

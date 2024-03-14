@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie directed by Patty Jenkins in 1979?"
+Named Entities: [Patty Jenkins (Director), 1979 (Year), viewers' rating (Viewers' Rating)]
+
+2. "I'm looking for a movie with a song that is rated 1.5 out of 5 stars"
+Named Entities: [1.5 out of (Viewers' Rating), song (Song)]
+
+3. "Can you recommend a compelling film in the genre 'Glimpse' with a poor rating?"
+Named Entities: [compelling (Viewers' Rating), 'Glimpse' (Genre), poor rating (Review)]

@@ -1,0 +1,8 @@
+1. "Could you provide information on the making-of the movie Inception directed by Christopher Nolan?"
+   Named Entities: [Inception (Title), Christopher Nolan (Director)]
+
+2. "I would like to know more about the behind-the-scenes of the film La La Land starring Ryan Gosling and Emma Stone."
+   Named Entities: [La La Land (Title), Ryan Gosling (Actor), Emma Stone (Actor)]
+
+3. "Please show me a documentary about the making of the classic film Citizen Kane by Orson Welles."
+   Named Entities: [Citizen Kane (Title), Orson Welles (Director)]

@@ -1,0 +1,8 @@
+1. Text Span: "$6.99 Pizza Deal"
+Label: (A). The span is a named entity of type price
+
+2. Text Span: "lavish"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Text Span: "upscale"
+Label: (C). Wrong Type. The correct entity type is Amenity.

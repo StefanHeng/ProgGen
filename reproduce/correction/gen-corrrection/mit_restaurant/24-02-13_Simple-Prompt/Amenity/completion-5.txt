@@ -1,0 +1,11 @@
+1. Query: "Get me the {{phone number}} for the nearest pizza place."
+Text Span: "phone number"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Query: "I need a reservation at the {{upscale}} Italian place downtown."
+Text Span: "upscale"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I want to find a place with a good {{outdoor seating}} area for brunch"
+Text Span: "outdoor seating"
+Label: (A). The span is a named entity of type amenity

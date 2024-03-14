@@ -1,0 +1,8 @@
+Query: "I'm craving a Big Mac, where is the nearest McDonald's?"
+Named Entities: [Big Mac (Dish), nearest McDonald's (Restaurant Name)]
+
+Query: "Do you know a restaurant with a vegetarian menu and outdoor seating?"
+Named Entities: [vegetarian (Cuisine), outdoor seating (Amenity)]
+
+Query: "Which place has the best seafood in town and is open until midnight?"
+Named Entities: [best seafood (Rating), open until midnight (Hours)]

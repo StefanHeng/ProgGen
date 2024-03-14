@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating and a view of the ocean for dinner?"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity), dinner (Hours)]
+
+2. "I'm in the mood for Italian cuisine at a Michelin-starred restaurant, what do you suggest?"
+Named Entities: [Italian cuisine (Cuisine), Michelin-starred (Rating), dinner (Hours)]
+
+3. "Where can I find a place with a diverse menu and live music for dinner tonight?"
+Named Entities: [diverse menu (Amenity), live music (Amenity), dinner (Hours)]

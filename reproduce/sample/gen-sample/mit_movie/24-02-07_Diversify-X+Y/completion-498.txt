@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a sensational movie from the 1958 era with remarkable ratings?"
+   Named Entities: [sensational (Viewers' Rating), 1958 (Year), remarkable (Review)]
+
+2. Query: "Show me a poignant film from the 1940s that received great reviews"
+   Named Entities: [poignant (Review), 1940s (Year)]
+
+3. Query: "I heard Oliver Stone directed a movie starring Chris Evans, can you tell me about it?"
+   Named Entities: [Oliver Stone (Director), Chris Evans (Actor)]

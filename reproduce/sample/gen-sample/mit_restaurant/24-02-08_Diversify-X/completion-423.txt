@@ -1,0 +1,8 @@
+Query: "Can you recommend a highly-rated Italian restaurant for dinner tonight"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), dinner (Amenity)]
+
+Query: "What are the operating hours for the nearest barbecue joint for dinner tonight?"
+Named Entities: [nearest (Location), barbecue (Cuisine), operating hours (Hours), dinner (Amenity)]
+
+Query: "I'm looking for a seafood place with outdoor seating for dinner"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), dinner (Amenity)]

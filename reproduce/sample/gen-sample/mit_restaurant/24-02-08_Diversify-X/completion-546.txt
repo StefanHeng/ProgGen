@@ -1,0 +1,8 @@
+Query: "I'm craving some eggs benedict, where can I find a restaurant serving breakfast in this area?"
+Named Entities: [eggs benedict (Dish), breakfast (Amenity), area (Location)]
+
+Query: "What's a highly rated breakfast spot with a cozy atmosphere and reasonable prices?"
+Named Entities: [highly rated (Rating), breakfast (Amenity), cozy atmosphere (Amenity), reasonable prices (Price)]
+
+Query: "Can you recommend a restaurant known for its delicious pancakes and early opening hours?"
+Named Entities: [delicious pancakes (Dish), early opening hours (Hours)]

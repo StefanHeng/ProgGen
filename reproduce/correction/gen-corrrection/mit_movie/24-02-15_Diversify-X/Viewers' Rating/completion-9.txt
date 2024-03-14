@@ -1,0 +1,8 @@
+1. Text Span: "top-rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "top-rated"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "feel-good"
+Label: (C). The span is a named entity but the category is not viewers' rating. The correct entity type is Genre.

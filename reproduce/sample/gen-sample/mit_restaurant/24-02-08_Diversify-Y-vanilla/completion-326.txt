@@ -1,0 +1,8 @@
+1. "Can you recommend a good restaurant with all-day dining?"
+Named Entities: [good (Rating), all-day dining (Amenity)]
+
+2. "What are the top-rated restaurants according to the local newspaper's review?"
+Named Entities: [top-rated (Rating), local newspaper's review (Amenity)]
+
+3. "I'm in the mood for some noodles, do you know any Noodles & Company locations nearby?"
+Named Entities: [noodles (Dish), Noodles & Company (Restaurant Name)]

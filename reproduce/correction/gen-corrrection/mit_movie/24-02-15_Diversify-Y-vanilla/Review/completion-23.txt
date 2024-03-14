@@ -1,0 +1,11 @@
+1. Query: "What {{outstanding}} movies has Martin Riggs acted in?"
+Text Span: "outstanding"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "What is considered the {{greatest}} movie directed by Rob Reiner"
+Text Span: "greatest"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "What year did the director of the action-packed movie 'Die Hard' win an award for {{best director}}?"
+Text Span: "best director"
+Label: (A). The span is a named entity of type Review

@@ -1,0 +1,8 @@
+1. "Can you recommend a high-end food truck with outdoor seating?"
+Named Entities: [high-end (Price), food truck (Amenity), outdoor seating (Amenity)]
+
+2. "I'm looking for a food truck with upscale prices and outdoor dining, what are my options?"
+Named Entities: [upscale (Price), food truck (Amenity), outdoor dining (Amenity)]
+
+3. "Where can I find a food truck with upscale pricing and outdoor seating?"
+Named Entities: [upscale (Price), food truck (Amenity), outdoor seating (Amenity)]

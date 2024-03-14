@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some Brazilian food, where's the nearest spot for that?"
+Named Entities: [Brazilian (Cuisine), nearest (Location)]
+
+Query: "I want to have dinner at Golden Dragon Buffet tonight, can you make a reservation?"
+Named Entities: [Golden Dragon Buffet (Restaurant Name), tonight (Hours)]
+
+Query: "Do you know any places with a good Pho on their menu and a BYOB policy?"
+Named Entities: [Pho (Dish), good (Rating), BYOB policy (Amenity)]

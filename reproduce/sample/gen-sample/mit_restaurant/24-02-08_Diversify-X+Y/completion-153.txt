@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with vegetarian options and special discounts?"
+Named Entities: [café (Amenity), Vegetarian options (Cuisine), special discounts (Amenity)]
+
+Query: "I'm looking for a place with vegetarian options for breakfast and special discounts"
+Named Entities: [Vegetarian options (Cuisine), breakfast (Hours), special discounts (Amenity)]
+
+Query: "What café in the area has vegetarian options and offers special discounts?"
+Named Entities: [café (Amenity), Vegetarian options (Cuisine), special discounts (Amenity)]

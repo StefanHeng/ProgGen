@@ -1,0 +1,8 @@
+1. Query: "Is Dwayne Johnson starring in any action films that are suitable for children?"
+Named Entities: [Dwayne Johnson (Actor), action (Genre), suitable for children (MPAA Rating)]
+
+2. Query: "When was The Dark Crystal originally released and who directed it?"
+Named Entities: [The Dark Crystal (Title), originally released (Year), directed (Director)]
+
+3. Query: "Is there a movie directed by Steven Soderbergh that features the song Stayin' Alive?"
+Named Entities: [Steven Soderbergh (Director), features the song Stayin' Alive (Song)]

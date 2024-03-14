@@ -1,0 +1,8 @@
+Sentence: "Coco Chanel, the founder of the Chanel brand, is credited with popularizing the concept of the "little black dress"."
+Named Entities: [Coco Chanel (person), Chanel (organization)]
+
+Sentence: "Milan, Paris, and New York City are considered the "fashion capitals" of the world."
+Named Entities: [Milan (location), Paris (location), New York City (location)]
+
+Sentence: "The Fashion Institute of Technology, located in New York City, is known for its prestigious fashion design program."
+Named Entities: [Fashion Institute of Technology (organization), New York City (location)]

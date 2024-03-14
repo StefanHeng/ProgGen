@@ -1,0 +1,8 @@
+Query: "I'm craving some pizza, where can I find a cheap and fast food pizza place?"
+Named Entities: [cheap (Price), fast food (Amenity), pizza (Cuisine)]
+
+Query: "I need a quick bite, where is the nearest burger joint with good ratings?"
+Named Entities: [quick (Amenity), nearest (Location), burger joint (Cuisine), good ratings (Rating)]
+
+Query: "What are the operating hours of the closest taco fast food restaurant?"
+Named Entities: [operating hours (Hours), closest (Location), taco (Cuisine), fast food (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "Jane Campion"
+Label: (A). The span is a named entity of type director
+
+2. Text Span: "E"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Gus Van Sant"
+Label: (A). The span is a named entity of type director

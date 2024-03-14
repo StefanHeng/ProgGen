@@ -1,0 +1,8 @@
+1. Text Span: "John Smith"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Alexandria Ocasio-Cortez"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Gigi Hadid"
+Label: (A). The span is a named entity of type person

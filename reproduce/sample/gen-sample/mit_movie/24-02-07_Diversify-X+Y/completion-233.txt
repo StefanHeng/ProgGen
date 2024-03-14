@@ -1,0 +1,11 @@
+1. "Can you tell me the Plot of any action movie with at least an [A rating]?"
+
+Named Entities: [action movie (Genre), [A rating] (MPAA Rating)]
+
+2. "I'm in the mood for a suspenseful movie with a great Plot and an [A rating]. Any recommendations?"
+
+Named Entities: [suspenseful movie (Genre), great Plot (Plot), [A rating] (MPAA Rating)]
+
+3. "What are some must-see movies with a compelling Plot and an [A rating]?"
+
+Named Entities: [must-see movies (Viewers' Rating), compelling Plot (Plot), [A rating] (MPAA Rating)]

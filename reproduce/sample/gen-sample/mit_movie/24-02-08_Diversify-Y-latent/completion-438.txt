@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie Frozen?"
+Named Entities: [Frozen (Title), viewers' rating (Viewers' Rating)]
+
+2. "Show me a clip from a memorable movie from 1742"
+Named Entities: [memorable (Review), 1742 (Year), clip (Trailer)]
+
+3. "Recommend a emotionally impactful found footage film"
+Named Entities: [emotionally impactful (Review), found footage (Genre)]

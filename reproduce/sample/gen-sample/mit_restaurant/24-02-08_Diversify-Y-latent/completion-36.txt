@@ -1,0 +1,8 @@
+Query: "Can you recommend any affordable options for Italian food with outdoor seating?"
+Named Entities: [affordable (Price), Italian food (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm craving sushi, where can I find a highly rated sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), highly rated (Rating), nearby (Location)]
+
+Query: "What are the opening hours for the Chinese restaurant on Main Street?"
+Named Entities: [Chinese restaurant (Cuisine), Main Street (Location), opening hours (Hours)]

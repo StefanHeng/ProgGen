@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with good value for money in the area?"
+Named Entities: [good value for money (Rating), in the area (Location)]
+
+2. "I'm craving some sushi, is there a place nearby with a high rating?"
+Named Entities: [sushi (Cuisine), high rating (Rating), nearby (Location)]
+
+3. "What's the best Mexican restaurant with affordable prices in the area?"
+Named Entities: [best (Rating), Mexican (Cuisine), affordable prices (Price), in the area (Location)]

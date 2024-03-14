@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the movie Blazing Saddles?"
+Named Entities: [Blazing Saddles (Title)]
+
+2. Query: "Show me the in-depth making-of featurette for the movie Happy"
+Named Entities: [Happy (Title), In-depth (Review), Making-of featurette (Character)]
+
+3. Query: "Can you recommend a movie with a strong female character similar to Sarah Connor?"
+Named Entities: [strong female character (Character), Sarah Connor (Character)]

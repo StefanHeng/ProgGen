@@ -1,0 +1,8 @@
+Query: "I'm looking for a buffet restaurant in Mexico City that serves delicious dessert"
+Named Entities: [buffet (Amenity), Mexico City (Location), delicious dessert (Dish)]
+
+Query: "Can you recommend a buffet-style restaurant with a great selection of desserts in Mexico City"
+Named Entities: [buffet-style (Amenity), great selection of desserts (Dish), Mexico City (Location)]
+
+Query: "I want to find a buffet restaurant in Mexico City where I can enjoy a variety of desserts"
+Named Entities: [buffet (Amenity), variety of desserts (Dish), Mexico City (Location)]

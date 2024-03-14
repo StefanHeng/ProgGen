@@ -1,0 +1,8 @@
+1. Query: "Can you show me a trailer for a heart-wrenching movie released between 2000-2010?"
+Named Entities: [trailer (Trailer), heart-wrenching (Genre), 2000-2010 (Year)]
+
+2. Query: "I'm looking for a movie with compelling characters, perhaps you can show me a teaser?"
+Named Entities: [teaser (Trailer), compelling characters (Character)]
+
+3. Query: "Do you have any trailers for movies similar to Taxi Driver from the 2000s?"
+Named Entities: [trailers (Trailer), 2000s (Year), Taxi Driver (Title)]

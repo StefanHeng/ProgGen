@@ -1,0 +1,8 @@
+1. Text Span: "salads"
+Label: (B). Wrong Boundary. The correct span boundary is "salad".
+
+2. Text Span: "breakfast"
+Label: (C). The correct entity type is Hours.
+
+3. Text Span: "vegetarian"
+Label: (A). Correct Entity Annotation.

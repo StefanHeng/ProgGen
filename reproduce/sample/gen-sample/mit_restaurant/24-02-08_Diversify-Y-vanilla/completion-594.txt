@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants nearby with high chairs for kids?"
+Named Entities: [nearby (Location), high chairs (Amenity)]
+
+2. "I'm looking for a restaurant that offers a discount for happy hour, can you help me find one?"
+Named Entities: [discount (Amenity), happy hour (Amenity)]
+
+3. "Where can I find a family-friendly restaurant that serves Italian cuisine?"
+Named Entities: [family-friendly (Amenity), Italian cuisine (Cuisine)]

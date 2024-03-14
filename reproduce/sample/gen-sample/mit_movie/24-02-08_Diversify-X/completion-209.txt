@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the latest Marvel movie?"
+Named Entities: [trailer (Trailer), Marvel (Genre)]
+
+2. "What's an action movie with a great song in it?"
+Named Entities: [action (Genre), great song (Song)]
+
+3. "Who directed the highest-rated horror movie of the year?"
+Named Entities: [directed (Director), highest-rated (Viewers' Rating), horror (Genre), the year (Year)]

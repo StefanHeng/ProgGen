@@ -1,0 +1,8 @@
+Query: "What fast food restaurants are open 24 hours?"
+Named Entities: [fast food (Cuisine), open 24 hours (Hours)]
+
+Query: "I'm craving a burger, where can I find a fast food joint with veggie options?"
+Named Entities: [burger (Dish), fast food (Cuisine), veggie options (Amenity)]
+
+Query: "I want to grab some quick bites, where can I get fast food for a cheap price?"
+Named Entities: [quick bites (Amenity), fast food (Cuisine), cheap price (Price)]

@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie similar to Alien that is rated R-13?"
+Named Entities: [Alien (Title), rated R-13 (MPAA Rating)]
+
+2. Query: "What is the plot of the movie AO?"
+Named Entities: [AO (Title), plot (Plot)]
+
+3. Query: "Who are the main actors in the movie Alien?"
+Named Entities: [Alien (Title), main actors (Actor)]

@@ -1,0 +1,8 @@
+Sentence: "The Beatles revolutionized popular music in the 1960s with their innovative songwriting and experimental sound."
+Named Entities: [The Beatles (organization)]
+
+Sentence: "Jazz, originating in the African-American communities of New Orleans, has evolved into a diverse and influential genre of music."
+Named Entities: [New Orleans (location), African-American (organization)]
+
+Sentence: "Mariah Carey, known for her powerful five-octave vocal range, has sold over 200 million records worldwide and is often referred to as the 'Songbird Supreme'."
+Named Entities: [Mariah Carey (person)]

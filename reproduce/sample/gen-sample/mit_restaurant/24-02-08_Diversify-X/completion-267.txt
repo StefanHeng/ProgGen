@@ -1,0 +1,8 @@
+Query: "where can I find a food truck serving gourmet sandwiches in the downtown area"
+Named Entities: [food truck (Amenity), gourmet sandwiches (Dish), downtown area (Location)]
+
+Query: "what food trucks in the vicinity offer seafood dishes for lunch"
+Named Entities: [food trucks (Amenity), seafood dishes (Cuisine), lunch (Hours), vicinity (Location)]
+
+Query: "show me food trucks with a high rating for their Mexican cuisine"
+Named Entities: [food trucks (Amenity), high rating (Rating), Mexican cuisine (Cuisine)]

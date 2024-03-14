@@ -1,0 +1,8 @@
+1. Text Span: "V-2 rocket"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Department of Pure Mathematics and Mathematical Statistics"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Greek mythology"
+Label: (C). Wrong Type. The correct entity type is other.

@@ -1,0 +1,11 @@
+1. Query: "I'm looking for an Italian restaurant with a {{cozy atmosphere}} and good coffee. Any suggestions?"
+Text Span: "cozy atmosphere"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "show me a budget-friendly vegan {{café}} in the area"
+Text Span: "café"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I'm looking for a buffet restaurant with {{decadent}} vegetarian options for dinner"
+Text Span: "decadent"
+Label: (C). Wrong Type. The correct entity type is Cuisine.

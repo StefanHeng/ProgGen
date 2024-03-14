@@ -1,0 +1,8 @@
+1. Query: "What year was the movie Coco released"
+   Named Entities: [Coco (Title)]
+
+2. Query: "Who directed the epic and enjoyable movie with the song Sweet Child O' Mine"
+   Named Entities: [Wes Anderson (Director), epic (Genre), enjoyable (Review), Sweet Child O' Mine (Song)]
+
+3. Query: "Is the movie G supernatural"
+   Named Entities: [G (MPAA Rating), supernatural (Genre)]

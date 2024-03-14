@@ -1,0 +1,8 @@
+1. "Can you recommend a good restaurant in the residential neighborhood with stellar reviews?"
+   Named Entities: [residential neighborhood (Location), stellar (Rating)]
+
+2. "I'm craving some Italian cuisine, is there a restaurant nearby with a great pasta dish?"
+   Named Entities: [Italian (Cuisine), pasta dish (Dish), nearby (Location)]
+
+3. "What are the hours of the restaurant with the best seafood menu in the area?"
+   Named Entities: [seafood (Cuisine), best (Rating), the area (Location)]

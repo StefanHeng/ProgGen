@@ -1,0 +1,8 @@
+Query: "Where can I find a upscale food truck for dinner tonight"
+Named Entities: [upscale (Price), food truck (Amenity)]
+
+Query: "I'm looking for a food truck with a upscale menu, maybe The Grilled Cheese Truck"
+Named Entities: [upscale (Price), The Grilled Cheese Truck (Restaurant Name)]
+
+Query: "What are the upscale food truck options in the area, like The Grilled Cheese Truck"
+Named Entities: [upscale (Price), food truck (Amenity), The Grilled Cheese Truck (Restaurant Name)]

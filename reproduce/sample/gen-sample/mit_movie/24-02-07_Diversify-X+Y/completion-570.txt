@@ -1,0 +1,8 @@
+1. "Can you recommend a superhero movie with high viewers' ratings directed by Kenneth Branagh?"
+Named Entities: [superhero (Genre), Kenneth Branagh (Director)]
+
+2. "What's a great movie with a superhero theme that has received positive reviews?"
+Named Entities: [superhero (Genre), positive reviews (Review)]
+
+3. "Is there a well-regarded film involving a superhero that was directed by Kenneth Branagh?"
+Named Entities: [superhero (Genre), Kenneth Branagh (Director)]

@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you really find showtimes for the new Indiana Jones movie that everyone's raving about?"
+   Named Entities: [Indiana Jones (Title)]
+
+2. Spoken Query: "I'm not sure if I believe it, but can I really get tickets to a visually stunning movie like the one from 1706 about a treasure hunt?"
+   Named Entities: [visually stunning (Review), 1706 (Year), treasure hunt (Plot)]
+
+3. Spoken Query: "I find it hard to believe, but are there any great movies playing right now that I can watch?"
+   Named Entities: [Great (Viewers' Rating)]

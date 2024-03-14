@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a film directed by Alfred Hitchcock and {{worth watching}}"
+Text Span: "worth watching"
+Label: (A). The span is a named entity of type review
+
+2. Query: "I'm looking for the {{highest rated drama film}} of all time"
+Text Span: "highest rated drama film"
+Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "highest rated drama film"
+
+3. Query: "could you tell me about any {{decent}} movies from the 90s"
+Text Span: "decent"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

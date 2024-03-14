@@ -1,0 +1,8 @@
+1. Text Span: "Shawshank Redemption"
+Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "Oscars"
+Label: (C). The span is a named entity but the category is not movie title. The correct entity type is Other.
+
+3. Text Span: "aliens"
+Label: (A). The span is a named entity of type movie title

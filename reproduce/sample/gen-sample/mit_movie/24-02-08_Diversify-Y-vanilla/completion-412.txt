@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Damien Chazelle that has a great preview?"
+   Named Entities: [Damien Chazelle (Director), great (Viewers' Rating), Preview (Trailer)]
+
+2. "I'm looking for a movie from 1979 with the song 'Pour Some Sugar on Me' in it"
+   Named Entities: [1979 (Year), 'Pour Some Sugar on Me' (Song)]
+
+3. "What action-comedy film starring Harry Callahan do you consider dreadful?"
+   Named Entities: [Harry Callahan (Character), dreadful (Review), Action-comedy (Genre)]

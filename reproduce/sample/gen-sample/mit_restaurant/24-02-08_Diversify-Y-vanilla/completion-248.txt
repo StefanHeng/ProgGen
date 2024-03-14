@@ -1,0 +1,8 @@
+Query: "can you recommend a praiseworthy restaurant with mountainous views?"
+Named Entities: [praiseworthy (Rating), mountainous views (Amenity)]
+
+Query: "I'm looking for a mountainous restaurant with praiseworthy service, what do you suggest?"
+Named Entities: [mountainous (Location), praiseworthy service (Amenity)]
+
+Query: "where is the closest mountainous restaurant with praiseworthy reviews?"
+Named Entities: [closest (Location), mountainous (Amenity), praiseworthy reviews (Rating)]

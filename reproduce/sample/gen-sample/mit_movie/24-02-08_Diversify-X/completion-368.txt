@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the film The Revenant and any behind-the-scenes details?"
+Named Entities: [The Revenant (Title), director (Director), behind-the-scenes details (Plot)]
+
+2. Query: "I'm interested in a movie with an amazing soundtrack. Do you have any recommendations and can you provide some behind-the-scenes information about the music production?"
+Named Entities: [amazing soundtrack (Song), behind-the-scenes information (Plot)]
+
+3. Query: "Show me a classic movie directed by Alfred Hitchcock and share some behind-the-scenes stories about the making of the film."
+Named Entities: [Alfred Hitchcock (Director), behind-the-scenes stories (Plot)]

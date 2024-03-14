@@ -1,0 +1,11 @@
+1. Sentence: "Aung San Suu Kyi was awarded the {{Nobel Peace Prize}} in 1991 for her non-violent struggle for democracy and human rights in Myanmar."
+Text Span: "Nobel Peace Prize"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{NATO}}, also called the North Atlantic Treaty Organization, is an intergovernmental military alliance between 30 North American and European countries."
+Text Span: "NATO"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "Plato was a philosopher in Classical Greece and the founder of the {{Academy in Athens}}, the first institution of higher learning in the Western world."
+Text Span: "Academy in Athens"
+Label: (A). The span is a named entity of type organization

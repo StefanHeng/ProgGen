@@ -1,0 +1,11 @@
+1. Query: "Can you show me clips from the {{action-packed}} movie Mad Max: Fury Road?"
+Text Span: "action-packed"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "Can you recommend a movie with a {{great soundtrack}}?"
+Text Span: "great soundtrack"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "what is the {{most iconic movie of all time}}"
+Text Span: "most iconic movie of all time"
+Label: (A). The span is a named entity of type Review

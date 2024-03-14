@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you show me a director's cut preview of a movie with some supernatural elements?"
+   Named Entities: [supernatural (Genre), director's cut preview (Trailer)]
+
+2. Spoken Query: "I'm curious about unheard stories behind a movie directed by Lasse Hallström. Can you help me with that?"
+   Named Entities: [unheard stories (Plot), Lasse Hallström (Director)]
+
+3. Spoken Query: "I'm looking for a masterpiece movie with some behind-the-scenes details. Any recommendations?"
+   Named Entities: [masterpiece (Review), behind-the-scenes details (Plot)]

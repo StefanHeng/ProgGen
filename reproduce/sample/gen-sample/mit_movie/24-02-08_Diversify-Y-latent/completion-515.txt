@@ -1,0 +1,8 @@
+1. "Can you recommend a movie featuring Scarlett O'Hara?"
+Named Entities: [Scarlett O'Hara (Character)]
+
+2. "I'm curious about movies with impressive motion capture assessment. Can you provide some recommendations?"
+Named Entities: [impressive (Review), motion capture assessment (Plot)]
+
+3. "Who directed the movie The Blues Brothers and what was the rating for costume design?"
+Named Entities: [The Blues Brothers (Title), costume design (Review), Alejandro González Iñárritu (Director)]

@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in the area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine)]
+
+Query: "I'm looking for a Mexican restaurant with outdoor seating."
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity)]
+
+Query: "What time does the fancy steakhouse close tonight?"
+Named Entities: [fancy steakhouse (Restaurant Name), close tonight (Hours)]

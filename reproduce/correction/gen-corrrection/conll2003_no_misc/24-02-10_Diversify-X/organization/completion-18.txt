@@ -1,0 +1,11 @@
+1. Sentence: "{{Environmental protection agency}} announces new regulations to reduce greenhouse gas emissions."
+Text Span: "Environmental protection agency"
+Label: (A)
+
+2. Sentence: "{{Environmental activists}} protest outside government headquarters"
+Text Span: "Environmental activists"
+Label: (C) Entity type: organization
+
+3. Sentence: "Designer Karl Lagerfeld unveils new collection at Paris {{Fashion Week}}."
+Text Span: "Fashion Week"
+Label: (A)

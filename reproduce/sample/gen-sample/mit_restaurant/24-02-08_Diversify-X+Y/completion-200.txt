@@ -1,0 +1,8 @@
+Query: "I'm looking for a restaurant with vegan options for breakfast"
+Named Entities: [Vegan options (Amenity)]
+
+Query: "Where can I find a breakfast spot with vegan options near Sunrise Bistro?"
+Named Entities: [Vegan options (Amenity), Sunrise Bistro (Restaurant Name)]
+
+Query: "Do you know any restaurant around here that serves vegan breakfast dishes"
+Named Entities: [Vegan (Cuisine)]

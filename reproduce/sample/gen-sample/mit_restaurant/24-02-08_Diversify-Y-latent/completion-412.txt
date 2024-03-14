@@ -1,0 +1,8 @@
+1. Query: "Find a Thai restaurant with outdoor seating"
+   Named Entities: [Thai (Cuisine), outdoor seating (Amenity)]
+
+2. Query: "What are the hours for the closest Thai place?"
+   Named Entities: [closest (Location), Thai (Cuisine), hours (Hours)]
+
+3. Query: "I'm craving pad thai, where can I find a good spot for it?"
+   Named Entities: [pad thai (Dish), good (Rating)]

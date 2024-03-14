@@ -1,0 +1,8 @@
+1. "Can you recommend a highly rated Italian restaurant in the downtown area?"
+   Named Entities: [highly rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+2. "What are some sushi places with outdoor seating and vegan options?"
+   Named Entities: [sushi (Cuisine), outdoor seating (Amenity), vegan (Dish)]
+
+3. "I'm looking for a family-friendly restaurant with a playground and affordable prices."
+   Named Entities: [family-friendly (Amenity), playground (Amenity), affordable prices (Price)]

@@ -1,0 +1,8 @@
+1. Text Span: "lunch"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+2. Text Span: "late-night comfort food"
+Label: (B). Wrong Boundary. The correct span boundary is "late-night comfort".
+
+3. Text Span: "lunch menu"
+Label: (C). Wrong Type. The correct entity type is Dish.

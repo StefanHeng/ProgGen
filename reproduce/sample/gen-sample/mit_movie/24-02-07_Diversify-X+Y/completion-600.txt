@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me about the filmmaking process of the movie that came out in 2003 and is considered unimpressive?"
+   Named Entities: [2003 (Year), unimpressive (Viewers' Rating), filmmaking process (Plot)]
+
+2. Spoken Query: "Show me a movie with behind-the-scenes footage that is rated NR."
+   Named Entities: [behind-the-scenes (Plot), NR (MPAA Rating)]
+
+3. Spoken Query: "Is there any documentary about the making of a film released in 2003?"
+   Named Entities: [2003 (Year), documentary (Genre), making of a film (Plot)]

@@ -1,0 +1,8 @@
+Query: "what are the operational hours for smoothie king"
+Named Entities: [operational hours (Hours), smoothie king (Restaurant Name)]
+
+Query: "can you recommend a restaurant with outdoor seating and good seafood dishes"
+Named Entities: [outdoor seating (Amenity), good (Rating), seafood dishes (Dish)]
+
+Query: "i'm craving some mexican food, is there a budget-friendly place nearby"
+Named Entities: [mexican food (Cuisine), budget-friendly (Price)]

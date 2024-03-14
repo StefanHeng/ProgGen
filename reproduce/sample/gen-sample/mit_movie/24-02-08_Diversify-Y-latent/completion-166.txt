@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the movie Birdman?"
+Named Entities: [Birdman (Title)]
+
+2. Query: "Show me a trailer of the movie The Dark Knight"
+Named Entities: [trailer (Trailer), The Dark Knight (Title)]
+
+3. Query: "Is Jennifer Lawrence in any movies with the song I Will Follow Him?"
+Named Entities: [Jennifer Lawrence (Actor), I Will Follow Him (Song)]

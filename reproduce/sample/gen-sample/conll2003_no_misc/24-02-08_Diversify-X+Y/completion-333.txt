@@ -1,0 +1,8 @@
+Sentence: "McDonald's reports a 3% increase in quarterly profits."
+Named Entities: [McDonald's (organization)]
+
+Sentence: "New study shows McDonald's is the most popular fast food chain in the U.S."
+Named Entities: [McDonald's (organization)]
+
+Sentence: "McDonald's announces plans to open 100 new locations in China."
+Named Entities: [McDonald's (organization), China (location)]

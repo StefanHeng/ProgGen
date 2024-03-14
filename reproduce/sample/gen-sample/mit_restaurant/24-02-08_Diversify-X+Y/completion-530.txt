@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a highly-rated restaurant with outdoor seating for dinner tonight"
+Named Entities: [highly-rated (Rating), outdoor seating (Amenity), dinner (Amenity), tonight (Hours)]
+
+2. Query: "Find me a steakhouse with a 4-star rating in the downtown area for dinner"
+Named Entities: [steakhouse (Cuisine), 4-star (Rating), downtown area (Location), dinner (Amenity)]
+
+3. Query: "I want to try a new Italian restaurant with a budget-friendly menu for dinner"
+Named Entities: [Italian (Cuisine), budget-friendly (Price), dinner (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "film distribution"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Thrilling"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "hip hop"
+Label: (A). The span is a named entity of type genre

@@ -1,0 +1,11 @@
+1. Sentence: "{{British}} adventurer becomes first person to solo row across the Atlantic."
+Text Span: "British"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+2. Sentence: "Hollywood actress {{Emma Stone}} wins prestigious award for her role in new film."
+Text Span: "Emma Stone"
+Label: (A)
+
+3. Sentence: "Local {{high school student}} wins national science competition."
+Text Span: "high school student"
+Label: (D)

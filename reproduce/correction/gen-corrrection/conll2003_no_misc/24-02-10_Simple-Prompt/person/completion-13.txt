@@ -1,0 +1,8 @@
+1. Text Span: "Australian Prime Minister"
+Label: (C). The span is a named entity but the category is not person. Entity type: organization
+
+2. Text Span: "Julia Child"
+Label: (A)
+
+3. Text Span: "Elon Musk"
+Label: (A)

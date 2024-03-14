@@ -1,0 +1,11 @@
+Query: "what are some of the funniest movies of all time"
+Named Entities: [funniest of all time (Review)]
+[Amusing]
+
+Query: "who directed the movie Inception and what is its genre"
+Named Entities: [Inception (Title), genre (Genre)]
+[Amusing]
+
+Query: "can you recommend a film with the song Eye of the Tiger"
+Named Entities: [Eye of the Tiger (Song)]
+[Amusing]

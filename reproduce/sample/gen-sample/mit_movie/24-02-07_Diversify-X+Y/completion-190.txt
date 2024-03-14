@@ -1,0 +1,8 @@
+1. "Which movie has an amazing on-screen presence by the actor Leonardo DiCaprio and was directed by Quentin Tarantino?"
+Named Entities: [Leonardo DiCaprio (Actor), Quentin Tarantino (Director)]
+
+2. "Can you recommend a movie with incredible acting by Emma Watson and a brilliant director?"
+Named Entities: [Emma Watson (Actor), brilliant (Viewers' Rating), Director]
+
+3. "I'm looking for a film with an amazing on-screen presence by the actress Zendaya and directed by a female director."
+Named Entities: [Zendaya (Actor), female director (Director)]

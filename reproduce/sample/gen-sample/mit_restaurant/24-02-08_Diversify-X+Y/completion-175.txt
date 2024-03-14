@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a cost-efficient lunch spot around here with a closing time after 2 pm"
+   Named Entities: [cost-efficient (Price), closing time after 2 pm (Hours)]
+
+2. Query: "where can I grab a quick lunch near Outback Steakhouse?"
+   Named Entities: [Outback Steakhouse (Restaurant Name), quick lunch (Amenity)]
+
+3. Query: "which restaurants offer lunch specials before their closing time?"
+   Named Entities: [lunch specials (Amenity), closing time (Hours)]

@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), plot (Plot)]
+
+2. "Show me a movie with a character named Jack Dawson."
+Named Entities: [Jack Dawson (Character)]
+
+3. "Who is the director of the film Titanic, and what year was it released?"
+Named Entities: [Titanic (Title), director (Director), year (Year)]

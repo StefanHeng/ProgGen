@@ -1,0 +1,8 @@
+1. Query: "Can I watch Casablanca on any streaming platforms?"
+   Named Entities: [Casablanca (Title)]
+
+2. Query: "Are there any classic musicals available for streaming?"
+   Named Entities: [classic musicals (Genre)]
+
+3. Query: "Which streaming service has the movie starring Audrey Hepburn and directed by Billy Wilder?"
+   Named Entities: [Audrey Hepburn (Actor), Billy Wilder (Director)]

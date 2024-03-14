@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a vibrant musical accompaniment?"
+   Named Entities: [vibrant musical accompaniment (Plot)]
+
+2. Query: "Is Agent Smith in any action films from the 1990s?"
+   Named Entities: [Agent Smith (Character), 1990s (Year)]
+
+3. Query: "What classical composer's music is featured in the rock and roll legend's biopic film?"
+   Named Entities: [classical composer (Genre), rock and roll legend (Character)]

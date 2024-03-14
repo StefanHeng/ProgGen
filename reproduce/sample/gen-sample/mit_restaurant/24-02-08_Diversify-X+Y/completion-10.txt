@@ -1,0 +1,8 @@
+1. "Can you recommend an outstanding fast food restaurant with barbecue options in the mid-range price range?"
+Named Entities: [Outstanding fast food restaurant (Amenity), barbecue (Cuisine), mid-range (Price)]
+
+2. "I'm in the mood for some barbecue fast food, where can I find a mid-range restaurant nearby?"
+Named Entities: [barbecue (Cuisine), mid-range (Price)]
+
+3. "I'm craving some fast food barbecue, do you know any mid-range restaurants with a good selection?"
+Named Entities: [barbecue (Cuisine), mid-range (Price)]

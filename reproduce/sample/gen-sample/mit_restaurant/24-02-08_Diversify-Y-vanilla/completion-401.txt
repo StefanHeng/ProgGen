@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby restaurant that serves authentic Italian cuisine for dinner tonight?"
+   Named Entities: [nearby (Location), authentic Italian cuisine (Cuisine), dinner tonight (Hours)]
+
+2. "What is the average price range for a meal at Topper's Restaurant and Catering?"
+   Named Entities: [Topper's Restaurant and Catering (Restaurant Name), average price range (Price)]
+
+3. "Which restaurants in the area have a high rating for their seafood dishes?"
+   Named Entities: [high rating (Rating), seafood dishes (Dish)]

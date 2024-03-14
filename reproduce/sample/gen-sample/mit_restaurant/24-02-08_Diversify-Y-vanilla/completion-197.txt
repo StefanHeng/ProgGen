@@ -1,0 +1,8 @@
+1. "Where is the closest LongHorn Steakhouse with outdoor seating?"
+Named Entities: [closest (Location), LongHorn Steakhouse (Restaurant Name), outdoor seating (Amenity)]
+
+2. "I'm in the mood for some Mexican cuisine, any good places nearby with a rooftop patio?"
+Named Entities: [Mexican (Cuisine), good (Rating), nearby (Location), rooftop patio (Amenity)]
+
+3. "Can you recommend a restaurant with a prix fixe menu for dinner tonight, maybe around $50 per person?"
+Named Entities: [prix fixe menu (Amenity), dinner tonight (Hours), $50 per person (Price)]

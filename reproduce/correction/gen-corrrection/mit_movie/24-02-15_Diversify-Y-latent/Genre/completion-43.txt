@@ -1,0 +1,8 @@
+1. Text Span: "Independent film era"
+Label: (C). Wrong Type. The correct entity type is Other.
+
+2. Text Span: "film noir"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Punk rock rebellion"
+Label: (C). Wrong Type. The correct entity type is Plot.

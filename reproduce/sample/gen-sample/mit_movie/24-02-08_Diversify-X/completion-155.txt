@@ -1,0 +1,8 @@
+1. Query: "Who directed the classic movie Gone with the Wind and can you show me a trailer for it?"
+Named Entities: [Gone with the Wind (Title), director (Director), trailer (Trailer)]
+
+2. Query: "What songs were featured in the musical film The Sound of Music?"
+Named Entities: [The Sound of Music (Title), musical (Genre), songs (Song)]
+
+3. Query: "Can you tell me about the actress who played Dorothy in The Wizard of Oz and any interesting behind-the-scenes facts?"
+Named Entities: [Dorothy (Character), The Wizard of Oz (Title), actress (Actor), behind-the-scenes (Plot)]

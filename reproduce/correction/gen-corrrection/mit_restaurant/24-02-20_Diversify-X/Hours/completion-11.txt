@@ -1,0 +1,11 @@
+1. Query: "What are the {{hours}} of the nearest burger joint with nut-free choices"
+Text Span: "hours"
+Label: (A). Named Entity of type Hours
+
+2. Query: "where can I find a restaurant with a rooftop for {{dinner}} tonight"
+Text Span: "dinner"
+Label: (A). Named Entity of type Hours
+
+3. Query: "Where can I find a classy restaurant with a chic lounge for {{dinner tonight}}?"
+Text Span: "dinner tonight"
+Label: (A). Named Entity of type Hours

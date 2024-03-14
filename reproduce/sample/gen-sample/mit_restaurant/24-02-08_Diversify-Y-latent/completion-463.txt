@@ -1,0 +1,8 @@
+1. "What are the hours of operation for Taco Bell?"
+   Named Entities: [Taco Bell (Restaurant Name), hours of operation (Hours)]
+
+2. "I'm in the mood for some Mexican cuisine, where can I find a good taco?"
+   Named Entities: [Mexican cuisine (Cuisine), good (Rating), taco (Dish)]
+
+3. "Can you recommend a restaurant with a high rating and affordable prices near Taco Bell?"
+   Named Entities: [high rating (Rating), affordable prices (Price), Taco Bell (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "Nichiren"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "President of the United States"
+Label: (C). The span is a named entity but the category is not person. Entity type: other
+
+3. Text Span: "James Mattis"
+Label: (A). The span is a named entity of type person

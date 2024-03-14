@@ -1,0 +1,8 @@
+Sentence: "The World Health Organization recommends exclusive breastfeeding for the first six months of life."
+Named Entities: [World Health Organization (organization)]
+
+Sentence: "Dr. Smith conducted groundbreaking research on the effects of vitamin D deficiency on bone health."
+Named Entities: [Dr. Smith (person)]
+
+Sentence: "The Mayo Clinic, located in Rochester, Minnesota, is renowned for its comprehensive approach to patient care."
+Named Entities: [Mayo Clinic (organization), Rochester (location), Minnesota (location)]

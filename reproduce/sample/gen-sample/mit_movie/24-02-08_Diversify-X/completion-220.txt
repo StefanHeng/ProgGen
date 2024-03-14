@@ -1,0 +1,8 @@
+1. "What's the viewers' rating for the new Quentin Tarantino movie?"
+Named Entities: [Quentin Tarantino (Director)]
+
+2. "Show me a movie with a high IMDb rating and a plot twist"
+Named Entities: [high IMDb rating (Viewers' Rating), plot twist (Plot)]
+
+3. "Can you recommend a recent action film with a strong female lead and a catchy soundtrack?"
+Named Entities: [action film (Genre), strong female lead (Character), catchy soundtrack (Song)]

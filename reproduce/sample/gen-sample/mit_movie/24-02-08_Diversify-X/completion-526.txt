@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie with a memorable soundtrack that features the song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+2. Query: "Can you provide me with a list of films with scores composed by Hans Zimmer?"
+Named Entities: [Hans Zimmer (Composer)]
+
+3. Query: "I am looking for a movie with a powerful theme song that perfectly complements the storyline. Do you have any suggestions?"
+Named Entities: [powerful theme song (Song)]

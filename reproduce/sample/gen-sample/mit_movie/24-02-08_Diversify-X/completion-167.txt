@@ -1,0 +1,8 @@
+Query: "Can I find the movie 'Casablanca' on any streaming platforms?"
+Named Entities: ['Casablanca' (Title)]
+
+Query: "What are some classic western movies available for streaming?"
+Named Entities: [classic western movies (Genre)]
+
+Query: "Is the director's cut of 'Blade Runner' available on any streaming services?"
+Named Entities: ['Blade Runner' (Title), director's cut (Plot)]

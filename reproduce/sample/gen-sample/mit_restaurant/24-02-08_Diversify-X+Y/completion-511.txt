@@ -1,0 +1,8 @@
+Query: "Can you recommend a deluxe café with outdoor seating?"
+Named Entities: [Deluxe (Amenity), café (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm looking for a deluxe café with a vegan menu, can you help?"
+Named Entities: [Deluxe (Amenity), café (Cuisine), vegan (Dish)]
+
+Query: "Where can I find a deluxe café with live music on weekends?"
+Named Entities: [Deluxe (Amenity), café (Cuisine), live music on weekends (Amenity)]

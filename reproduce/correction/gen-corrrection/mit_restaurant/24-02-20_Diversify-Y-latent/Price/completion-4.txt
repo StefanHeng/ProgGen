@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a restaurant with outdoor seating and a {{moderate}} price range."
+Text Span: "moderate"
+Label: (A). The span is a named entity of type price
+
+2. Query: "I need a restaurant with {{affordable}} French cuisine, any recommendations?"
+Text Span: "affordable"
+Label: (A). The span is a named entity of type price
+
+3. Query: "show me the {{most affordable}} place to get burgers with a high rating"
+Text Span: "most affordable"
+Label: (A). The span is a named entity of type price

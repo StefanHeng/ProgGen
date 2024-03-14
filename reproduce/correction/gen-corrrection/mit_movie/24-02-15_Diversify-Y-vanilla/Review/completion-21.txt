@@ -1,0 +1,8 @@
+1. Text Span: "best science fiction movie"
+Label: (A). The span is a named entity of type review
+
+2. Text Span: "Remarkable acting"
+Label: (A). The span is a named entity of type review
+
+3. Text Span: "greatest"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Viewers' Rating.

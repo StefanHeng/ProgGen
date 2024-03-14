@@ -1,0 +1,11 @@
+1. Query: "What is the plot of The Wizard of Oz and who {{directed}} it?"
+Text Span: "directed"
+Label: (D). Not a Named Entity
+
+2. Query: "Who {{directed}} the movie from 1987 with Michelle Pfeiffer and the song Don't Stop Believin'?"
+Text Span: "directed"
+Label: (D). Not a Named Entity
+
+3. Query: "Can you show me the trailer for the latest film by {{Christopher Nolan}}?"
+Text Span: "Christopher Nolan"
+Label: (A). Director

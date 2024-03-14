@@ -1,0 +1,8 @@
+1. Text Span: "food truck"
+Label: (B). The correct span boundary is "food truck that serves Mediterranean cuisine"
+
+2. Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Text Span: "families"
+Label: (A). Correct Entity Annotation.

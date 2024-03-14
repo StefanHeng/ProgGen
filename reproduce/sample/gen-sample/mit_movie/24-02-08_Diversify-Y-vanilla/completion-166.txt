@@ -1,0 +1,8 @@
+Query: "can you recommend a buddy film that is appropriate for all ages"
+Named Entities: [buddy film (Genre), all ages (MPAA Rating)]
+
+Query: "do you have any promos for NC-17 movies"
+Named Entities: [NC-17 (MPAA Rating), promos (Trailer)]
+
+Query: "can you tell me the most recent movie released with the title unleashed"
+Named Entities: [unleashed (Title)]

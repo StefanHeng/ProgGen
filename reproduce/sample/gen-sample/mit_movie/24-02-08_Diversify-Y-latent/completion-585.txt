@@ -1,0 +1,8 @@
+1. Query: "Could you show me a smooth part of The Dark Knight movie?"
+   Named Entities: [smooth (Plot), The Dark Knight (Title)]
+
+2. Query: "Is Rose DeWitt Bukater in any romantic films that are a must see?"
+   Named Entities: [Rose DeWitt Bukater (Character), romantic (Genre), must see (Viewers' Rating)]
+
+3. Query: "Show me a movie with the song Beetlejuice."
+   Named Entities: [Beetlejuice (Title), song (Song)]

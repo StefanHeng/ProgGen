@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me about the director of that one movie with lots of action scenes?"
+   Named Entities: [action scenes (Plot)]
+
+2. Spoken Query: "I'm looking for a film that has a famous actor and a great soundtrack. Do you have any suggestions?"
+   Named Entities: [famous actor (Actor), great soundtrack (Song)]
+
+3. Spoken Query: "What's the deal with that classic movie everyone talks about? Who directed it?"
+   Named Entities: [classic movie (Title)]

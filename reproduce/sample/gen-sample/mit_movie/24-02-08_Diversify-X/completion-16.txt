@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you tell me about any movie that has won a lot of awards?"
+   Named Entities: [won a lot of awards (Awards and nominations received)]
+
+2. Spoken Query: "I'm curious, which movie has been recognized for its exceptional performances?"
+   Named Entities: [exceptional performances (Awards and nominations received)]
+
+3. Spoken Query: "Are there any movies that have received critical acclaim and recognition?"
+   Named Entities: [critical acclaim and recognition (Awards and nominations received)]

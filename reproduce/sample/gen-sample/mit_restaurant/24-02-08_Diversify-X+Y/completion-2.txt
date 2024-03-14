@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a buffet that serves dim sum station?"
+Named Entities: [buffet (Amenity), dim sum station (Dish)]
+
+Query: "Where is the nearest restaurant with a buffet featuring a dim sum station?"
+Named Entities: [nearest (Location), buffet (Amenity), dim sum station (Dish)]
+
+Query: "I'm craving for a buffet meal, specifically with a dim sum station. Any suggestions?"
+Named Entities: [buffet (Amenity), dim sum station (Dish)]

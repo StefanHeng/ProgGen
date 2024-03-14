@@ -1,0 +1,8 @@
+1. Text Span: "good"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: other
+
+2. Text Span: "highest-grossing"
+Label: (A). The span is a named entity of type viewers' rating
+
+3. Text Span: "tearjerker"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Genre

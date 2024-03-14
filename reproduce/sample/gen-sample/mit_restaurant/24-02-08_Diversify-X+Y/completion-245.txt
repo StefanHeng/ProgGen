@@ -1,0 +1,8 @@
+1. "Can you recommend any hip and trendy restaurants in Nashville for late-night dining?"
+   Named Entities: [Nashville (Location), late-night dining (Amenity)]
+
+2. "Is there a cool spot in Nashville with a late-night menu and a hip atmosphere?"
+   Named Entities: [Nashville (Location), late-night menu (Amenity), hip atmosphere (Amenity)]
+
+3. "I'm looking for a trendy restaurant in Nashville that serves late-night eats, any suggestions?"
+   Named Entities: [Nashville (Location), late-night eats (Amenity)]

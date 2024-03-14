@@ -1,0 +1,11 @@
+1. Sentence: "{{Chianti}} is a red wine produced in the Tuscany region of Italy and is known for its fruity and floral aroma."
+Text Span: "Chianti"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Mount Sinai}} is considered a holy site in Christianity, Islam, and Judaism."
+Text Span: "Mount Sinai"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Agriculture in the {{Nile Delta}} has been a key economic activity for centuries, with the region's fertile soil and proximity to the Nile River providing ideal conditions for growing crops such as rice, cotton, and vegetables."
+Text Span: "Nile Delta"
+Label: (A). The span is a named entity of type location

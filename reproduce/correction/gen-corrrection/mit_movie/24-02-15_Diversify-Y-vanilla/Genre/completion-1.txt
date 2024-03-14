@@ -1,0 +1,8 @@
+1. Text Span: "true crime"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "awe-inducing science fiction"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "science fiction".
+
+3. Text Span: "road"
+Label: (A). The span is a named entity of type genre

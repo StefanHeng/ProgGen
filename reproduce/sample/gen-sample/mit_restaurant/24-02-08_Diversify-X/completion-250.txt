@@ -1,0 +1,8 @@
+Query: "I'm looking for a breakfast spot with a great outdoor dining area"
+Named Entities: [breakfast (Amenity), outdoor dining area (Amenity)]
+
+Query: "which restaurant serves the best eggs benedict in the city?"
+Named Entities: [eggs benedict (Dish), city (Location)]
+
+Query: "I need a breakfast place that opens before 7 am and offers vegan options"
+Named Entities: [breakfast (Amenity), before 7 am (Hours), vegan (Cuisine)]

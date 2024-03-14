@@ -1,0 +1,8 @@
+1. "I'm looking for a place with a good wine cellar and barbecue pit."
+Named Entities: [good (Rating), wine cellar (Amenity), barbecue pit (Amenity)]
+
+2. "Is Chuy's open for lunch today?"
+Named Entities: [Chuy's (Restaurant Name), lunch (Hours)]
+
+3. "I want to make a reservation at Seasons 52 for tonight."
+Named Entities: [Seasons 52 (Restaurant Name), tonight (Hours)]

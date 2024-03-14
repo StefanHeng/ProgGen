@@ -1,0 +1,8 @@
+Query: "Can you recommend a beachfront restaurant with a great brunch menu for this morning?"
+Named Entities: [beachfront (Location), brunch (Amenity), this morning (Hours)]
+
+Query: "I'm looking for a waterfront restaurant that serves a delicious brunch in the morning"
+Named Entities: [waterfront (Location), brunch (Amenity), in the morning (Hours)]
+
+Query: "Where can I find a place by the beach that offers a morning brunch with a beautiful view?"
+Named Entities: [by the beach (Location), morning (Hours), brunch (Amenity), beautiful view (Amenity)]

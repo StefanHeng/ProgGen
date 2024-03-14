@@ -1,0 +1,8 @@
+1. Text Span: "1960s"
+Label: (A). The span is a named entity of type year
+
+2. Text Span: "the 90s"
+Label: (B). The correct span boundary is "90s"
+
+3. Text Span: "90s"
+Label: (A). The span is a named entity of type year

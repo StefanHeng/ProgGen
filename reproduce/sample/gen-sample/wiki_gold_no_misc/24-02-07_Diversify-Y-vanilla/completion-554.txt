@@ -1,0 +1,8 @@
+Sentence: "The company headquarters is located in downtown Chicago."
+Named Entities: [Chicago (location)]
+
+Sentence: "She studied at Harvard University and later worked at the United Nations."
+Named Entities: [Harvard University (organization), United Nations (organization)]
+
+Sentence: "The actor starred in several films directed by Martin Scorsese."
+Named Entities: [Martin Scorsese (person)]

@@ -1,0 +1,8 @@
+1. Text Span: "good lunch menu"
+Label: (B). The correct span boundary is "lunch menu". The correct entity type is Dish.
+
+2. Text Span: "tacos"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "breakfast burritos"
+Label: (A). Correct Entity Annotation.

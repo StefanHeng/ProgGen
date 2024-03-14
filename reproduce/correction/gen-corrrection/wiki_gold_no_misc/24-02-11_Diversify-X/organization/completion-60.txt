@@ -1,0 +1,11 @@
+1. Sentence: "The suspect was apprehended by the local {{police}} after a high-speed chase through the city streets."
+Text Span: "police"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "{{Existentialism}}, a philosophical movement that emphasizes individual freedom and choice, has had a profound impact on modern philosophy and literature."
+Text Span: "Existentialism"
+Label: (A). Correct Entity Annotation.
+
+3. Sentence: "Julia Child was an American chef, author, and television personality who is recognized for bringing French cuisine to the {{American}} public with her debut cookbook, Mastering the Art of French Cooking, and her television programs."
+Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.

@@ -1,0 +1,8 @@
+Sentence: "The Islamic State claims responsibility for the attack on the mosque in Baghdad."
+Named Entities: [Islamic State (organization), Baghdad (location)]
+
+Sentence: "Religious leaders from different denominations condemn the violent actions of the Islamic State."
+Named Entities: [Islamic State (organization)]
+
+Sentence: "The Islamic State announces the destruction of another ancient religious site in Syria."
+Named Entities: [Islamic State (organization), Syria (location)]

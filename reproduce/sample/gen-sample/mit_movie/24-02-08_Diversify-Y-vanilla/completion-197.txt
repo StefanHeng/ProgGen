@@ -1,0 +1,8 @@
+1. "Can you recommend any movies directed by Guillermo del Toro that involve supernatural powers?"
+   Named Entities: [Guillermo del Toro (Director), supernatural powers (Plot)]
+
+2. "Show me the announcement trailer for a bank heist movie set in the 1950s."
+   Named Entities: [announcement trailer (Trailer), bank heist (Plot), 1950s (Year)]
+
+3. "Is Glinda the Good Witch a character in any movies from the 1950s?"
+   Named Entities: [Glinda the Good Witch (Character), 1950s (Year)]

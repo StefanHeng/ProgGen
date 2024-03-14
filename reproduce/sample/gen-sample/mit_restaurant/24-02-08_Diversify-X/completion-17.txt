@@ -1,0 +1,8 @@
+Query: "can you recommend a place for late-night dining with a diverse menu"
+Named Entities: [diverse menu (Amenity), late-night dining (Amenity)]
+
+Query: "what's a good option for late-night eats with outdoor seating"
+Named Entities: [good option (Rating), late-night dining (Amenity), outdoor seating (Amenity)]
+
+Query: "where can I grab some late-night bites for cheap"
+Named Entities: [late-night dining (Amenity), cheap (Price)]

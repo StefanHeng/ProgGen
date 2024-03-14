@@ -1,0 +1,8 @@
+1. "Which movie directed by Steven Spielberg was respected by award voters and considered a lighthearted adventure?"
+Named Entities: [Steven Spielberg (Director), respected by award voters (Viewers' Rating), lighthearted adventure (Genre)]
+
+2. "Can you tell me a family drama movie that received awards and nominations?"
+Named Entities: [family drama (Genre), received awards and nominations (Review)]
+
+3. "I'm looking for a movie similar to Borat that has won awards and nominations."
+Named Entities: [Borat (Title), won awards and nominations (Review)]

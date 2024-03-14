@@ -1,0 +1,8 @@
+1. The fashion house was founded in 1978 by Gianni Versace.
+Named Entities: [Gianni Versace (person)]
+
+2. The company's headquarters are located in Milan, Italy.
+Named Entities: [Milan (location), Italy (location)]
+
+3. In 1997, Gianni Versace was tragically murdered outside his home in Miami Beach, Florida.
+Named Entities: [Gianni Versace (person), Miami Beach (location), Florida (location)]

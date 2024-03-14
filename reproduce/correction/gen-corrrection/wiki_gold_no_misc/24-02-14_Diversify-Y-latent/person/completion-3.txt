@@ -1,0 +1,8 @@
+1. Text Span: "Grace Hopper"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Leonardo da Vinci"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Dr. Maria Lopez"
+Label: (B). The span contains a named person entity but the span boundary is not precise. The correct span boundary is "Maria Lopez".

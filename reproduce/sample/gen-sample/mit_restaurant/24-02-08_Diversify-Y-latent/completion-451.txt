@@ -1,0 +1,8 @@
+1. "I'm craving Shakshuka. Is there a restaurant nearby that serves it?"
+Named Entities: [Shakshuka (Dish)]
+
+2. "What's The Blue Spoon's signature dish? I want to try it."
+Named Entities: [The Blue Spoon (Restaurant Name)]
+
+3. "Where can I find a cozy place with a romantic ambience for dinner tonight?"
+Named Entities: [cozy (Amenity), romantic ambience (Amenity)]

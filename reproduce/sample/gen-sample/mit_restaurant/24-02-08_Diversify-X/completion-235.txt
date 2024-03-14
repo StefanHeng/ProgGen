@@ -1,0 +1,8 @@
+1. "Can you recommend a café with a lounge/bar ambience that offers happy hour specials?"
+Named Entities: [café (Cuisine), lounge/bar (Amenity), happy hour (Amenity)]
+
+2. "I'm looking for a place where I can relax and have some drinks during happy hour. Any suggestions?"
+Named Entities: [happy hour (Amenity)]
+
+3. "Which café in the area has a lounge/bar atmosphere and serves happy hour deals?"
+Named Entities: [café (Cuisine), lounge/bar (Amenity), happy hour (Amenity)]

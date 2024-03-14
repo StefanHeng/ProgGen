@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie with an {{exciting}} treasure hunt plot starring Nicole Kidman?"
+Text Span: "exciting"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Query: "What {{genre}} of movie did Martin Scorsese direct?"
+Text Span: "genre"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "who directed the {{documentary}} film featuring Agnès Varda"
+Text Span: "documentary"
+Label: (A). Correct Entity Annotation.

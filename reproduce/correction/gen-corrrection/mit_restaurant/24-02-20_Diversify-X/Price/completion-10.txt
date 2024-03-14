@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a dairy-free café with {{mid-range}} prices for lunch"
+Text Span: "mid-range"
+Label: (A). The span is a named entity of type price
+
+2. Query: "Which {{upscale}} restaurant offers a buffet dinner option?"
+Text Span: "upscale"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "can you recommend a fine dining restaurant with a brunch menu for a {{40s}} female lawyer"
+Text Span: "40s"
+Label: (D). Not a Named Entity.

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with an energetic music and a 10/10 soundtrack?"
+Named Entities: [energetic music (Song), 10/10 soundtrack (Viewers' Rating)]
+
+2. Query: "I'm interested in a hip-hop rivalry movie that came out in 1973, can you suggest one?"
+Named Entities: [hip-hop rivalry (Plot), 1973 (Year)]
+
+3. Query: "Which movie features the song 'I'm Gonna Love Me Again'?"
+Named Entities: ['I'm Gonna Love Me Again' (Song)]

@@ -1,0 +1,8 @@
+1. "Can you give me a brief preview of the plot for Mr. Incredible?"
+Named Entities: [Mr. Incredible (Title), plot (Plot), preview (Trailer)]
+
+2. "Is Scarlett Johansson starring in any new movie with a synopsis available?"
+Named Entities: [Scarlett Johansson (Actor), synopsis (Plot)]
+
+3. "I'm interested in a movie directed by Stanley Kubrick - maybe something with a synopsis. Do you have any recommendations, perhaps including the song You Never Can Tell?"
+Named Entities: [Stanley Kubrick (Director), You Never Can Tell (Song), synopsis (Plot)]

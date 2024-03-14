@@ -1,0 +1,8 @@
+1. Spoken Query: "Can I watch The Shawshank Redemption on Netflix?"
+   Named Entities: [The Shawshank Redemption (Title), Netflix (Streaming platform)]
+
+2. Spoken Query: "Does the movie Inception have a high viewers' rating and is it available on Amazon Prime?"
+   Named Entities: [Inception (Title), viewers' rating (Viewers' Rating), Amazon Prime (Streaming platform)]
+
+3. Spoken Query: "Is the director Christopher Nolan known for any science fiction films that are currently on Hulu?"
+   Named Entities: [Christopher Nolan (Director), science fiction (Genre), Hulu (Streaming platform)]

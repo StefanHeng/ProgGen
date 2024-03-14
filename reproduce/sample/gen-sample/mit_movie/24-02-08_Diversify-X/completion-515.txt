@@ -1,0 +1,8 @@
+1. Query: "Hey, what's the coolest action movie of all time?"
+   Named Entities: [coolest (Review), action (Genre)]
+
+2. Query: "Tell me about that new superhero movie with the highest ratings."
+   Named Entities: [superhero (Genre), highest ratings (Viewers' Rating)]
+
+3. Query: "Who directed the animated film with the talking animals that everyone's been talking about?"
+   Named Entities: [animated (Genre), talking animals (Plot)]

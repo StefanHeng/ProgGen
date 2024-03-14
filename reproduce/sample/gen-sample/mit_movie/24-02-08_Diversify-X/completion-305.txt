@@ -1,0 +1,8 @@
+1. "Can you tell me the director of the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), director (Director)]
+
+2. "What year did Clint Eastwood star in a western film?"
+Named Entities: [Clint Eastwood (Actor), western (Genre)]
+
+3. "I'm looking for a comedy movie with Steve Martin, can you recommend one?"
+Named Entities: [comedy (Genre), Steve Martin (Actor)]

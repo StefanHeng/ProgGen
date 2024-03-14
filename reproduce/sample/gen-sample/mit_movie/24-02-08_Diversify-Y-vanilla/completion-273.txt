@@ -1,0 +1,8 @@
+1. "Can I get a behind-the-scenes glimpse of the new Star Wars movie directed by George Lucas in 1959?"
+   Named Entities: [Star Wars (Title), George Lucas (Director), 1959 (Year), Behind-the-scenes glimpse (Trailer)]
+
+2. "Show me a movie with a song from U2, released in the 1980s"
+   Named Entities: [U2 (Song), 1980s (Year)]
+
+3. "What is the viewers' rating for the movie directed by Alfred Hitchcock in 1960?"
+   Named Entities: [Alfred Hitchcock (Director), 1960 (Year), viewers' rating (Viewers' Rating)]

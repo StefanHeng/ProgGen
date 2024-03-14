@@ -1,0 +1,8 @@
+1. "What are the dessert hours for TGI Fridays?"
+Named Entities: [dessert hours (Amenity), TGI Fridays (Restaurant Name)]
+
+2. "Where can I find a cozy spot for a late night snack?"
+Named Entities: [cozy spot (Amenity), late night (Hours)]
+
+3. "I'm craving some Mexican food, can you suggest a place with affordable prices?"
+Named Entities: [Mexican food (Cuisine), affordable prices (Price)]

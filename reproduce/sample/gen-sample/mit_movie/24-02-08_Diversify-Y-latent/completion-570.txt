@@ -1,0 +1,8 @@
+Query: "What is the plot of the movie directed by Richard Linklater and rated PG-13?"
+Named Entities: [Richard Linklater (Director), PG-13 (MPAA Rating)]
+
+Query: "Can you recommend a film with the song Let It Go?"
+Named Entities: [Let It Go (Song)]
+
+Query: "Are there any NC-17 movies released in 2020?"
+Named Entities: [NC-17 (MPAA Rating), 2020 (Year)]

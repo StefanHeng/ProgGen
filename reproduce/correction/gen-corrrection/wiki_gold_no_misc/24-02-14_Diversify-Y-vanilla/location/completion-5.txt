@@ -1,0 +1,8 @@
+1. Text Span: "rural communities"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+2. Text Span: "Myanmar"
+Label: (A). The span is a named entity of type location.
+
+3. Text Span: "Bretton Woods Conference"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "Bretton Woods".

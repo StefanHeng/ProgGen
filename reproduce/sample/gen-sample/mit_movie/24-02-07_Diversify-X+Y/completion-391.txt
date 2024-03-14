@@ -1,0 +1,8 @@
+1. Query: "Can you really show me the Circle of Life movie trailer? I find it hard to believe."
+   Named Entities: [Circle of Life (Song), movie trailer (Trailer)]
+
+2. Query: "Are there any jaw-dropping teasers directed by M. Night Shyamalan?"
+   Named Entities: [jaw-dropping (Review), M. Night Shyamalan (Director)]
+
+3. Query: "I doubt there's a Chewbacca movie teaser out there, can you prove me wrong?"
+   Named Entities: [Chewbacca (Character), movie teaser (Trailer)]

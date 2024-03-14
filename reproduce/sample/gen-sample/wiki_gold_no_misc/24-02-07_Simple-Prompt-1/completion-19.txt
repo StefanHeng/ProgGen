@@ -1,0 +1,29 @@
+1. He studied at Harvard University and later joined the World Health Organization as a researcher.
+Named Entities: [Harvard University (organization), World Health Organization (organization)]
+
+2. Mount Everest is the highest mountain in the world, with a peak at 8,848 meters above sea level.
+Named Entities: [Mount Everest (location)]
+
+3. The company, Apple Inc., announced the launch of its latest iPhone model at the annual tech conference.
+Named Entities: [Apple Inc. (organization)]
+
+4. She moved to Paris to pursue her career in fashion design and eventually started her own clothing line.
+Named Entities: [Paris (location)]
+
+5. The Prime Minister of Japan, Shinzo Abe, addressed the nation in a televised speech regarding the economic reforms.
+Named Entities: [Shinzo Abe (person), Japan (location)]
+
+6. The United Nations has declared the current situation a global humanitarian crisis and has pledged support for the affected regions.
+Named Entities: [United Nations (organization)]
+
+7. The Eiffel Tower, located in Paris, France, is a popular tourist attraction and a symbol of the city.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+8. Bill Gates, the co-founder of Microsoft, has dedicated a significant portion of his wealth to philanthropic causes.
+Named Entities: [Bill Gates (person), Microsoft (organization)]
+
+9. The organization, Amnesty International, released a report highlighting human rights abuses in several countries.
+Named Entities: [Amnesty International (organization)]
+
+10. She traveled to New York City for a business conference and stayed at a hotel in Times Square.
+Named Entities: [New York City (location), Times Square (location)]

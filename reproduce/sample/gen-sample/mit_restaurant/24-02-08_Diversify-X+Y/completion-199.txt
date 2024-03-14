@@ -1,0 +1,8 @@
+1. "I'm craving a steak. Can you recommend a café with late-night hours?"
+Named Entities: [café (Amenity), steak (Dish), late-night hours (Hours)]
+
+2. "I'm looking for a café that serves steak. Any recommendations for late-night dining?"
+Named Entities: [café (Amenity), steak (Dish), late-night (Hours)]
+
+3. "Where can I find a café with late-night hours that offers a great steak selection?"
+Named Entities: [café (Amenity), late-night hours (Hours), steak (Dish)]

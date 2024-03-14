@@ -1,0 +1,11 @@
+1. Sentence: "The World Tourism Organization ({{UNWTO}}) is the United Nations agency responsible for the promotion of responsible, sustainable, and universally accessible tourism."
+Text Span: "UNWTO"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "In the 19th century, Paris became the center of the fashion world, with iconic fashion houses like {{Fendi}} and Hermes establishing their presence in the city."
+Text Span: "Fendi"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The {{Innovation Center}} at the University of California, Berkeley, has been a hub for fostering entrepreneurial ideas and startups."
+Text Span: "Innovation Center"
+Label: (A). The span is a named entity of type organization

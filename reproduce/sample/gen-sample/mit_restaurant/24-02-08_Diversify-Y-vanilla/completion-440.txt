@@ -1,0 +1,8 @@
+1. "Can you recommend a good restaurant with outdoor seating in the city center?"
+Named Entities: [good (Rating), outdoor seating (Amenity), city center (Location)]
+
+2. "I'm craving some authentic Dominican cuisine, where can I find a restaurant that serves it?"
+Named Entities: [authentic Dominican (Cuisine)]
+
+3. "What are the operating hours for the Italian restaurant near the city center?"
+Named Entities: [Italian (Cuisine), city center (Location), operating hours (Hours)]

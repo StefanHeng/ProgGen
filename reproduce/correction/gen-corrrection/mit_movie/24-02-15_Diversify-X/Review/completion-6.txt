@@ -1,0 +1,8 @@
+1. Text Span: "great love song"
+Label: (A). The span is a named entity of type review
+
+2. Text Span: "memorable soundtrack"
+Label: (A). The span is a named entity of type review
+
+3. Text Span: "awards"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Genre.

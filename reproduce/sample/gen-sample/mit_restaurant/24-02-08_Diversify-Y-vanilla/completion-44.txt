@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with happy hour specials in the Metropolitan area?"
+Named Entities: [happy hour specials (Amenity), Metropolitan (Location)]
+
+2. "I'm craving some Italian cuisine with a cozy atmosphere, where can I find a good spot?"
+Named Entities: [Italian (Cuisine), cozy atmosphere (Amenity)]
+
+3. "What are the top-rated seafood restaurants with outdoor seating?"
+Named Entities: [top-rated (Rating), seafood (Cuisine), outdoor seating (Amenity)]

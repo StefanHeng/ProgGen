@@ -1,0 +1,100 @@
+1. COVID-19 cases surge in California.
+Named Entities: [California (location)]
+2. Apple announces new iPhone release date.
+Named Entities: [Apple (organization)]
+3. President Biden signs new executive order.
+Named Entities: [Biden (person)]
+4. Tokyo Olympics officially postponed until 2021.
+Named Entities: [Tokyo (location)]
+5. Facebook unveils new privacy features.
+Named Entities: [Facebook (organization)]
+6. Amazon workers protest working conditions.
+Named Entities: [Amazon (organization)]
+7. Angela Merkel reelected as German Chancellor.
+Named Entities: [Angela Merkel (person), German (organization)]
+8. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+9. New York City bans plastic straws.
+Named Entities: [New York City (location)]
+10. Microsoft acquires cybersecurity firm.
+Named Entities: [Microsoft (organization)]
+11. Elon Musk announces plans for Mars colonization.
+Named Entities: [Elon Musk (person), Mars (location)]
+12. Florida declares state of emergency.
+Named Entities: [Florida (location)]
+13. Google faces antitrust investigation.
+Named Entities: [Google (organization)]
+14. Cristiano Ronaldo scores hat-trick in soccer match.
+Named Entities: [Cristiano Ronaldo (person)]
+15. Paris agrees to new climate change initiatives.
+Named Entities: [Paris (location)]
+16. IMF projects global economic slowdown.
+Named Entities: [IMF (organization)]
+17. Jeff Bezos steps down as Amazon CEO.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+18. London experiences record high temperatures.
+Named Entities: [London (location)]
+19. WHO issues new guidelines for pandemic response.
+Named Entities: [WHO (organization)]
+20. Serena Williams wins Wimbledon.
+Named Entities: [Serena Williams (person), Wimbledon (location)]
+21. Facebook to launch new virtual reality headset.
+Named Entities: [Facebook (organization)]
+22. Australia to host international summit.
+Named Entities: [Australia (location)]
+23. TikTok under fire for privacy concerns.
+Named Entities: [TikTok (organization)]
+24. Joe Rogan signs exclusive podcast deal.
+Named Entities: [Joe Rogan (person)]
+25. California wildfires rage on.
+Named Entities: [California (location)]
+26. Pfizer vaccine approved for emergency use.
+Named Entities: [Pfizer (organization)]
+27. London Fashion Week kicks off with new designers.
+Named Entities: [London (location)]
+28. United Nations calls for ceasefire in conflict.
+Named Entities: [United Nations (organization)]
+29. Beyoncé announces new album release date.
+Named Entities: [Beyoncé (person)]
+30. Tokyo to host 2032 Summer Olympics.
+Named Entities: [Tokyo (location)]
+31. Uber introduces new driver safety measures.
+Named Entities: [Uber (organization)]
+32. Las Vegas reopens casinos amidst pandemic.
+Named Entities: [Las Vegas (location)]
+33. NOAA issues hurricane warning for East Coast.
+Named Entities: [NOAA (organization), East Coast (location)]
+34. Tom Hanks named as new UNICEF ambassador.
+Named Entities: [Tom Hanks (person), UNICEF (organization)]
+35. Paris to implement new bike sharing program.
+Named Entities: [Paris (location)]
+36. ISIS claims responsibility for latest terrorist attack.
+Named Entities: [ISIS (organization)]
+37. Taylor Swift releases new single.
+Named Entities: [Taylor Swift (person)]
+38. Los Angeles to invest in affordable housing.
+Named Entities: [Los Angeles (location)]
+39. Johnson & Johnson vaccine shows promising results.
+Named Entities: [Johnson & Johnson (organization)]
+40. Bill Gates donates $1 million to charity.
+Named Entities: [Bill Gates (person)]
+41. Chicago sees spike in violent crime.
+Named Entities: [Chicago (location)]
+42. NASA to launch new satellite for climate research.
+Named Entities: [NASA (organization)]
+43. Meghan Markle and Prince Harry welcome baby girl.
+Named Entities: [Meghan Markle (person), Prince Harry (person)]
+44. Miami to implement new public transportation system.
+Named Entities: [Miami (location)]
+45. Twitter introduces new anti-harassment tools.
+Named Entities: [Twitter (organization)]
+46. Sydney Opera House to hold virtual concerts.
+Named Entities: [Sydney Opera House (location)]
+47. Al-Qaeda leader killed in drone strike.
+Named Entities: [Al-Qaeda (organization)]
+48. Adele to headline music festival.
+Named Entities: [Adele (person)]
+49. San Francisco to ban single-use plastics.
+Named Entities: [San Francisco (location)]
+50. Amazon founder Jeff Bezos goes to space.
+Named Entities: [Amazon (organization), Jeff Bezos (person), Space (location)]

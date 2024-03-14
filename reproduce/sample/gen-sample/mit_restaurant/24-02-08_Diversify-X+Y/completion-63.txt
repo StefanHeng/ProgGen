@@ -1,0 +1,8 @@
+Query: "I'm craving a burger, where can I find a Shake Shack nearby?"
+Named Entities: [burger (Dish), Shake Shack (Restaurant Name), nearby (Location)]
+
+Query: "What's the best item on the menu at Carl's Jr.?"
+Named Entities: [best (Rating), Carl's Jr. (Restaurant Name)]
+
+Query: "What time does Shake Shack close tonight?"
+Named Entities: [close tonight (Hours), Shake Shack (Restaurant Name)]

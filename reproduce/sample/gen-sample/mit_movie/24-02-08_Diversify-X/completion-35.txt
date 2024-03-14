@@ -1,0 +1,8 @@
+Query: "Hey, what's the name of the movie with the cool song 'Eye of the Tiger' in it?"
+Named Entities: ['Eye of the Tiger' (Song)]
+
+Query: "Do you know any good movies with awesome music like 'Bohemian Rhapsody' in them?"
+Named Entities: ['Bohemian Rhapsody' (Song)]
+
+Query: "I'm looking for a film with a killer soundtrack, like 'Purple Rain' or 'Footloose'. Any recommendations?"
+Named Entities: ['Purple Rain' (Song), 'Footloose' (Song)]

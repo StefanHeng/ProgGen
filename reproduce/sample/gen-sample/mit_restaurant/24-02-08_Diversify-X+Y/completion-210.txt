@@ -1,0 +1,8 @@
+1. "Where can I find a nice place for breakfast on Sunday morning?"
+Named Entities: [nice (Rating), breakfast (Amenity), Sunday (Hours)]
+
+2. "Do you know any restaurants with affordable breakfast options for seniors on Sunday?"
+Named Entities: [affordable (Price), breakfast (Amenity), seniors (Amenity), Sunday (Hours)]
+
+3. "I'd like to take my retired mother to a cozy breakfast spot on Sunday, can you recommend any?"
+Named Entities: [cozy (Amenity), breakfast (Amenity), retired (Amenity), Sunday (Hours)]

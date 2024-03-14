@@ -1,0 +1,8 @@
+1. Query: "Hey, did that movie with the amazing soundtrack and great plot win any awards?"
+   Named Entities: [amazing soundtrack (Song), great plot (Plot), Awards and nominations (Review)]
+
+2. Query: "Have you seen that movie with the incredible visual effects and awesome fight scenes? Did it get any nominations?"
+   Named Entities: [incredible visual effects (Plot), awesome fight scenes (Plot), Awards and nominations (Review)]
+
+3. Query: "I'm curious, did the movie with the mind-blowing twist ending and intense storyline win any awards?"
+   Named Entities: [mind-blowing twist ending (Plot), intense storyline (Plot), Awards and nominations (Review)]

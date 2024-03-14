@@ -1,0 +1,5 @@
+1. Text Span: "main cast"
+   Label: (C). Wrong Type. The correct entity type is Actor.
+
+2. Text Span: "Lando Calrissian"
+   Label: (A). The span is a named entity of type character

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which movie features the song 'My Heart Will Go On'?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+2. Query: "Show me a movie with a famous theme song that became a chart-topping hit"
+Named Entities: [famous theme song (Song)]
+
+3. Query: "What film is known for its iconic soundtrack with songs by The Beatles?"
+Named Entities: [The Beatles (Song)]

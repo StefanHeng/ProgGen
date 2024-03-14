@@ -1,0 +1,8 @@
+1. Text Span: "thrilling musical arrangements"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Circle of Life"
+Label: (A). The span is a named entity of type song
+
+3. Text Span: "powerful musical score"
+Label: (C). Wrong Type. The correct entity type is other.

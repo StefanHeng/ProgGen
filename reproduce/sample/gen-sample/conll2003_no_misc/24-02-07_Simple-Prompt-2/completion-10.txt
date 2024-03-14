@@ -1,0 +1,29 @@
+1. The United States announces new sanctions on Russia.
+Named Entities: [United States (location), Russia (location)]
+
+2. CEO of Apple Inc. steps down from his position.
+Named Entities: [Apple Inc. (organization)]
+
+3. Global warming continues to be a concern for scientists.
+Named Entities: []
+
+4. President of France visits Germany for bilateral talks.
+Named Entities: [France (location), Germany (location)]
+
+5. New research shows that coffee consumption may have health benefits.
+Named Entities: []
+
+6. SpaceX launches new satellite into orbit.
+Named Entities: [SpaceX (organization)]
+
+7. Severe flooding reported in several areas of India.
+Named Entities: [India (location)]
+
+8. Tesla announces plans to build new factory in Texas.
+Named Entities: [Tesla (organization), Texas (location)]
+
+9. Hollywood actress wins Oscar for Best Actress.
+Named Entities: [Hollywood (location)]
+
+10. United Nations calls for immediate ceasefire in war-torn region.
+Named Entities: [United Nations (organization)]

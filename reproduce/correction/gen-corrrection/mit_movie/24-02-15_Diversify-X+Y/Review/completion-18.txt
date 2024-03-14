@@ -1,0 +1,8 @@
+1. Text Span: "fair"
+   Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "recognized with prestigious accolades"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "cool"
+   Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "cool trailer".

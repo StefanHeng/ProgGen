@@ -1,0 +1,8 @@
+1. "Can you recommend a rooftop terrace with outdoor seating for dinner?"
+Named Entities: [rooftop terrace (Amenity), outdoor seating (Amenity), dinner (Hours)]
+
+2. "I'm looking for a restaurant with a rooftop terrace that serves dinner with a beautiful view"
+Named Entities: [rooftop terrace (Amenity), dinner (Hours)]
+
+3. "Where can I find a rooftop terrace restaurant with outdoor seating for a nice dinner?"
+Named Entities: [rooftop terrace (Amenity), outdoor seating (Amenity), dinner (Hours)]

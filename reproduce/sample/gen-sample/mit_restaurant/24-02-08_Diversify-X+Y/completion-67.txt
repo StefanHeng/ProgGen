@@ -1,0 +1,8 @@
+Query: "I'm looking for a cozy spot for late-night dining with a romantic atmosphere"
+Named Entities: [cozy (Amenity), late-night dining (Hours), romantic atmosphere (Amenity)]
+
+Query: "Where can I find a place with a late-night menu that serves comfort food in a relaxed setting?"
+Named Entities: [late-night menu (Amenity), comfort food (Cuisine), relaxed setting (Amenity)]
+
+Query: "Can you recommend a restaurant with a late-night happy hour and a chill vibe?"
+Named Entities: [late-night happy hour (Amenity), chill vibe (Amenity)]

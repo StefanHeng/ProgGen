@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a wallet-friendly late night restaurant in Boston?"
+Named Entities: [wallet-friendly late night restaurant (Amenity), Boston (Location)]
+
+2. Query: "What 24/7 restaurant do you suggest for late night eats in the area?"
+Named Entities: [24/7 restaurant (Amenity), late night eats (Amenity)]
+
+3. Query: "Where can I find a good Nighttime Noshery with vegetarian options?"
+Named Entities: [Nighttime Noshery (Restaurant Name), vegetarian (Dish)]

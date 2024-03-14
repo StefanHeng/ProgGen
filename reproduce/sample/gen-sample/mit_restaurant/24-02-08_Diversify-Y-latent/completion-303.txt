@@ -1,0 +1,8 @@
+1. Query: "I'm craving sushi right now, where is the best sushi restaurant close by?"
+Named Entities: [sushi (Cuisine), best (Rating), close by (Location)]
+
+2. Query: "what are the hours of operation for the Thai restaurant in the city center?"
+Named Entities: [Thai (Cuisine), city center (Location), hours of operation (Hours)]
+
+3. Query: "I want to have a fancy dinner tonight, can you recommend a high-end restaurant with a good wine selection?"
+Named Entities: [fancy (Price), high-end (Price), good (Rating), wine selection (Amenity)]

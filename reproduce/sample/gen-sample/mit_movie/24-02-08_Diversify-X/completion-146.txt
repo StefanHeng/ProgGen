@@ -1,0 +1,8 @@
+1. "I'm curious about a movie with a memorable song, maybe something romantic, like 'My Heart Will Go On'. Any recommendations?"
+Named Entities: ['My Heart Will Go On' (Song)]
+
+2. "I heard a fantastic movie with an amazing soundtrack and it's set in the 80s. Do you know which one I'm talking about?"
+Named Entities: [80s (Year)]
+
+3. "I'm trying to find a film with an iconic song that's been featured in many other movies. Any ideas?"
+Named Entities: [iconic song (Song)]

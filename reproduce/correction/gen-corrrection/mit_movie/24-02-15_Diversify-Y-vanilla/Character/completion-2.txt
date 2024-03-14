@@ -1,0 +1,8 @@
+1. Text Span: "main character"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "young ballerina"
+Label: (C). Wrong Type. The correct entity type is Character.
+
+3. Text Span: "compelling characters"
+Label: (C). Wrong Type. The correct entity type is other.

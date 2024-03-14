@@ -1,0 +1,8 @@
+1. "Can you recommend a Chinese restaurant with vegan-friendly options for brunch?"
+   Named Entities: [Chinese (Cuisine), Vegan-friendly (Amenity), brunch (Hours)]
+
+2. "I'm looking for a brunch place with good customer feedback, preferably serving Chinese food."
+   Named Entities: [brunch (Hours), Chinese (Cuisine), good customer feedback (Rating)]
+
+3. "Is there a Chinese restaurant nearby known for their excellent brunch menu and vegan-friendly dishes?"
+   Named Entities: [Chinese (Cuisine), brunch (Hours), vegan-friendly dishes (Amenity), excellent (Rating)]

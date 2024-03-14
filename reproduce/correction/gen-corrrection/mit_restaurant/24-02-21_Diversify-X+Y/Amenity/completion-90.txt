@@ -1,0 +1,8 @@
+1. Text Span: "hip atmosphere"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "happy hours"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "quick bites"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "quick bites".

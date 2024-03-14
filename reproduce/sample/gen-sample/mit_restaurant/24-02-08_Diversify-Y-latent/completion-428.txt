@@ -1,0 +1,8 @@
+Query: "what type of cuisine does The Coffee House offer?"
+Named Entities: [The Coffee House (Restaurant Name), cuisine (Cuisine)]
+
+Query: "I'm looking for a restaurant with outdoor seating. Any suggestions?"
+Named Entities: [outdoor seating (Amenity)]
+
+Query: "can you recommend a dish to try at The Coffee House?"
+Named Entities: [The Coffee House (Restaurant Name), dish (Dish)]

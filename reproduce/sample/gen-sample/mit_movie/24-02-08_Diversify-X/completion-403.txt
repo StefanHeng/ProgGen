@@ -1,0 +1,8 @@
+1. "Can I find the movie The Godfather on any streaming platforms?"
+Named Entities: [The Godfather (Title)]
+
+2. "Is there a movie with an amazing soundtrack available on any streaming platform?"
+Named Entities: [amazing soundtrack (Review)]
+
+3. "Which movie from the 90s can I watch with my family on a streaming service?"
+Named Entities: [90s (Year), family (Viewers' Rating), streaming service (Entity)]

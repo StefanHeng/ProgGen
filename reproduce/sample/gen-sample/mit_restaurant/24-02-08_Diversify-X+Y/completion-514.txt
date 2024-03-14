@@ -1,0 +1,8 @@
+Query: "I'm craving some quick fast food, where can I find a mid-range price option nearby?"
+Named Entities: [fast food (Cuisine), mid-range (Price), nearby (Location)]
+
+Query: "What are the top-rated fast food restaurants with mid-range prices in the area?"
+Named Entities: [fast food (Cuisine), top-rated (Rating), mid-range (Price), area (Location)]
+
+Query: "Can you recommend a fast food place with a good value for meals in the mid-price range?"
+Named Entities: [fast food (Cuisine), good value (Rating), mid-price range (Price)]

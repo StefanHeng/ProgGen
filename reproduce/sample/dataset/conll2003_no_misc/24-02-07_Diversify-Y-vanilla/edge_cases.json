@@ -1,0 +1,1025 @@
+[
+    {
+        "sentence": "Billie Eilish collaborates with famous fashion brand for new clothing line.",
+        "entity_names": [
+            "Billie Eilish",
+            "[fashion brand"
+        ],
+        "filename": "completion-8",
+        "entity_types": [
+            "person)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[fashion brand"
+        ]
+    },
+    {
+        "sentence": "Zurich-based pharmaceutical company announces breakthrough in cancer research.",
+        "entity_names": [
+            "Zurich",
+            "International Red Cross"
+        ],
+        "filename": "completion-13",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "International Red Cross"
+        ]
+    },
+    {
+        "sentence": "The Jakarta Symphony Orchestra will be performing at the grand opening of the new cultural center.",
+        "entity_names": [
+            "Jakarta",
+            "Jakarta Symphony Orchestra"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Jakarta"
+        ]
+    },
+    {
+        "sentence": "President Biden signs executive order to address climate change.",
+        "entity_names": [
+            "President Biden",
+            "Associated Press"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Associated Press"
+        ]
+    },
+    {
+        "sentence": "London police arrest suspect in connection with the recent string of robberies.",
+        "entity_names": [
+            "London",
+            "Associated Press"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Associated Press"
+        ]
+    },
+    {
+        "sentence": "Global stock markets experience sharp decline following trade tensions between China and the US.",
+        "entity_names": [
+            "China",
+            "US",
+            "Associated Press"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Associated Press"
+        ]
+    },
+    {
+        "sentence": "Apple announces record-breaking sales for new iPhone model.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-53",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple announces new line of iPhone models.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-54",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tokyo to host 2021 Summer Olympics despite concerns over COVID-19.",
+        "entity_names": [
+            "Tokyo",
+            "Summer Olympics"
+        ],
+        "filename": "completion-54",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Summer Olympics"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The CEO of Bank of America resigns after financial misconduct allegations.",
+        "entity_names": [
+            "CEO of Bank of America",
+            "Bank of America"
+        ],
+        "filename": "completion-55",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Bank of America"
+        ]
+    },
+    {
+        "sentence": "Local organization to host charity event for homeless population.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with 5G capabilities.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-132",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Local organization provides aid to refugees in war-torn region.",
+        "entities": [
+            "organization, refugees"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new line of iPhones.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhones"
+        ],
+        "filename": "completion-136",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhones"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Cairo Symphony Orchestra to perform at Ankara International Music Festival.",
+        "entity_names": [
+            "Cairo",
+            "Ankara",
+            "Ankara International Music Festival"
+        ],
+        "filename": "completion-147",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Ankara"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces launch of new iPhone model.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-149",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Reykjavik University announces groundbreaking research in renewable energy.",
+        "entity_names": [
+            "Reykjavik University",
+            "renewable energy"
+        ],
+        "filename": "completion-153",
+        "entity_types": [
+            "organization",
+            "topic"
+        ],
+        "entity_names_not_allowed": [
+            "renewable energy"
+        ],
+        "entity_types_not_allowed": [
+            "topic"
+        ]
+    },
+    {
+        "sentence": "Boeing Company announces plans to cut 10,000 jobs.",
+        "entity_names": [
+            "Boeing Company",
+            "International Labour Organization"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "International Labour Organization"
+        ]
+    },
+    {
+        "sentence": "CEO Tim Cook announces new product launch for [Apple Inc.].",
+        "entity_names": [
+            "Tim Cook",
+            "Apple Inc."
+        ],
+        "filename": "completion-180",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Apple Inc."
+        ]
+    },
+    {
+        "sentence": "Stock prices soar following record-breaking quarterly earnings report from [Apple Inc.].",
+        "entity_names": [
+            "Apple Inc."
+        ],
+        "filename": "completion-180",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Apple Inc."
+        ]
+    },
+    {
+        "sentence": "Protesters gather outside [Apple Inc.] headquarters to demand better working conditions.",
+        "entity_names": [
+            "Apple Inc."
+        ],
+        "filename": "completion-180",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Apple Inc."
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple Inc. announces release date for new iPhone.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-191",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces new iPhone launch date.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-204",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Montreal Symphony Orchestra announces new season lineup.",
+        "entity_names": [
+            "Montreal Symphony Orchestra",
+            "Montreal"
+        ],
+        "filename": "completion-209",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Montreal"
+        ]
+    },
+    {
+        "sentence": "The popular subreddit r/aww reaches 10 million subscribers.",
+        "entity_names": [
+            "Reddit",
+            "r/aww"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Reddit"
+        ]
+    },
+    {
+        "sentence": "Apple announces the release of its latest iPhone model.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-226",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Angela Davis gives a speech at the University of California, Berkeley on social justice.",
+        "entity_names": [
+            "Angela Davis",
+            "University of California, Berkeley",
+            "California"
+        ],
+        "filename": "completion-235",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "California"
+        ]
+    },
+    {
+        "sentence": "Montreal Canadiens defeat Toronto Maple Leafs in overtime.",
+        "entity_names": [
+            "Montreal",
+            "[Toronto Maple Leafs"
+        ],
+        "filename": "completion-237",
+        "entity_types": [
+            "location)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[Toronto Maple Leafs"
+        ]
+    },
+    {
+        "sentence": "The mayor of Montreal announces a new public transit plan.",
+        "entity_names": [
+            "Montreal",
+            "[mayor of Montreal"
+        ],
+        "filename": "completion-237",
+        "entity_types": [
+            "location)]",
+            "person"
+        ],
+        "missing_entity_names": [
+            "[mayor of Montreal"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. launches new iPhone model.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Brazilian soccer star scores winning goal in World Cup match.",
+        "entity_names": [
+            "Brazilian",
+            "World Cup"
+        ],
+        "filename": "completion-246",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World Cup"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Sydney Opera House reopens for live performances.",
+        "entity_names": [
+            "Sydney Opera House",
+            "live performances"
+        ],
+        "filename": "completion-258",
+        "entity_types": [
+            "organization",
+            "activity"
+        ],
+        "entity_names_not_allowed": [
+            "live performances"
+        ],
+        "entity_types_not_allowed": [
+            "activity"
+        ]
+    },
+    {
+        "sentence": "Protesters clash with police during Black Lives Matter demonstration in downtown Los Angeles.",
+        "entity_names": [
+            "Black Lives Matter",
+            "[Los Angeles"
+        ],
+        "filename": "completion-275",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Los Angeles"
+        ]
+    },
+    {
+        "sentence": "Black Lives Matter activist delivers powerful speech at civil rights rally in Washington D.C.",
+        "entity_names": [
+            "Black Lives Matter",
+            "[Washington D.C."
+        ],
+        "filename": "completion-275",
+        "entity_types": [
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Washington D.C."
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES RELEASE DATE FOR IPHONE 13.",
+        "entity_names": [
+            "APPLE",
+            "IPHONE 13"
+        ],
+        "filename": "completion-276",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "IPHONE 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "HURRICANE IDA DEVASTATES LOUISIANA COASTLINE.",
+        "entity_names": [
+            "HURRICANE IDA",
+            "LOUISIANA"
+        ],
+        "filename": "completion-276",
+        "entity_types": [
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "HURRICANE IDA"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "New movie starring [Robert Downey Jr.] breaks box office records.",
+        "entity_names": [
+            "Robert Downey Jr."
+        ],
+        "filename": "completion-284",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "sentence": "[Robert Downey Jr.] launches new environmental organization to combat climate change.",
+        "entity_names": [
+            "Robert Downey Jr.",
+            "organization"
+        ],
+        "filename": "completion-284",
+        "entity_types": [
+            "person",
+            "environmental organization"
+        ],
+        "missing_entity_names": [
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "sentence": "Apple reveals new iPhone with enhanced camera features and 5G capabilities",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-286",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "CEO of Apple Inc. announces new product launch date.",
+        "entity_names": [
+            "CEO of Apple Inc.",
+            "Apple Inc."
+        ],
+        "filename": "completion-297",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Apple Inc."
+        ]
+    },
+    {
+        "sentence": "The president of the National Bank of Buenos Aires announces new interest rates.",
+        "entity_names": [
+            "National Bank of Buenos Aires",
+            "Buenos Aires"
+        ],
+        "filename": "completion-304",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Buenos Aires"
+        ]
+    },
+    {
+        "sentence": "Russian opposition leader Alexei Navalny jailed for 30 days.",
+        "entity_names": [
+            "Alexei Navalny",
+            "Russia"
+        ],
+        "filename": "completion-318",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "Russian opposition leader Alexei Navalny hospitalized after suspected poisoning.",
+        "entity_names": [
+            "Alexei Navalny",
+            "Russia"
+        ],
+        "filename": "completion-338",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "Stock prices soar as rumors circulate about potential partnership between [Apple Inc.] and Tesla.",
+        "entity_names": [
+            "Apple Inc.",
+            "Tesla"
+        ],
+        "filename": "completion-345",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Apple Inc."
+        ]
+    },
+    {
+        "sentence": "California judge rules in favor of [Apple Inc.] in patent infringement case.",
+        "entity_names": [
+            "California",
+            "Apple Inc."
+        ],
+        "filename": "completion-345",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Apple Inc."
+        ]
+    },
+    {
+        "sentence": "National Public Radio launches a new podcast series on climate change.",
+        "entity_names": [
+            "National Public Radio",
+            "climate change"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "organization",
+            "topic"
+        ],
+        "entity_names_not_allowed": [
+            "climate change"
+        ],
+        "entity_types_not_allowed": [
+            "topic"
+        ]
+    },
+    {
+        "sentence": "Local organization raises funds for homeless shelters",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "ISIS claims responsibility for bombing at airport in Europe.",
+        "entity_names": [
+            "ISIS",
+            "Europe",
+            "International Air Transport Association"
+        ],
+        "filename": "completion-396",
+        "entity_types": [
+            "organization",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "International Air Transport Association"
+        ]
+    },
+    {
+        "sentence": "The Vienna Philharmonic Orchestra to perform in Delhi next month.",
+        "entity_names": [
+            "Vienna",
+            "Delhi",
+            "Vienna Philharmonic Orchestra"
+        ],
+        "filename": "completion-412",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Vienna"
+        ]
+    },
+    {
+        "sentence": "Local organization hosts annual charity gala to raise funds for homeless shelter.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone release date.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-422",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Local organization hosts fundraiser to support families affected by recent natural disasters.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Apple releases new iPhone with enhanced camera features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-445",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Local organization in Quito organizes charity event for orphaned children.",
+        "entities": [
+            "Quito (location)",
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone model at highly anticipated product launch event.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-469",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "The Seattle Seahawks won their game against the Arizona Cardinals.",
+        "entity_names": [
+            "Seattle",
+            "National Football League"
+        ],
+        "filename": "completion-470",
+        "entity_types": [
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Football League"
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple unveils new iPhone models.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-512",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "President Biden to deliver State of the Union address on Tuesday.",
+        "entity_names": [
+            "President Biden",
+            "State of the Union"
+        ],
+        "filename": "completion-526",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "State of the Union"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "New study shows link between social media use and mental health issues among teenagers.",
+        "entities": [
+            "CNN"
+        ]
+    },
+    {
+        "sentence": "Miami Heat trade for All-Star forward to bolster their roster for the upcoming season.",
+        "entity_names": [
+            "Miami Heat",
+            "Miami"
+        ],
+        "filename": "completion-530",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Miami"
+        ]
+    },
+    {
+        "sentence": "Boston Symphony Orchestra to hold virtual concerts this summer.",
+        "entity_names": [
+            "Boston Symphony Orchestra",
+            "Boston"
+        ],
+        "filename": "completion-539",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Boston"
+        ]
+    },
+    {
+        "sentence": "Martin Luther King Jr. Memorial Foundation holds annual scholarship event.",
+        "entity_names": [
+            "Martin Luther King Jr. Memorial Foundation",
+            "Martin Luther King Jr."
+        ],
+        "filename": "completion-564",
+        "entity_types": [
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Martin Luther King Jr."
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with faster processor and improved camera capabilities.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-572",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Turkish President meets with Greek Prime Minister in Ankara.",
+        "entity_names": [
+            "Turkish President",
+            "Greek Prime Minister",
+            "Ankara",
+            "Athens"
+        ],
+        "filename": "completion-576",
+        "entity_types": [
+            "person",
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Athens"
+        ]
+    },
+    {
+        "sentence": "Global organization holds conference to address climate change concerns.",
+        "entities": [
+            "organization"
+        ]
+    },
+    {
+        "sentence": "Xi Jinping meets with Russian President Vladimir Putin to discuss bilateral cooperation.",
+        "entity_names": [
+            "Xi Jinping",
+            "Vladimir Putin",
+            "Russia"
+        ],
+        "filename": "completion-586",
+        "entity_types": [
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Russia"
+        ]
+    },
+    {
+        "sentence": "National Aeronautics and Space Administration plans to launch a new satellite to monitor climate change.",
+        "entity_names": [
+            "National Aeronautics and Space Administration",
+            "climate change"
+        ],
+        "filename": "completion-594",
+        "entity_types": [
+            "organization",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "climate change"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new line of iPhones with advanced 5G technology at virtual product launch event.",
+        "entities": [
+            "Apple Inc. (organization)",
+            "Bloomberg L.P."
+        ]
+    }
+]

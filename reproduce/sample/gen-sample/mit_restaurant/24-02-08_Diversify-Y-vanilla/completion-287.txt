@@ -1,0 +1,8 @@
+1. "I'm in the mood for some Italian food, where can I find a good pizza place?"
+Named Entities: [Italian (Cuisine), pizza (Dish)]
+
+2. "What's the best sushi restaurant in the area?"
+Named Entities: [sushi (Cuisine)]
+
+3. "I need a restaurant with outdoor seating and a view of the ocean."
+Named Entities: [outdoor seating (Amenity), ocean (Location)]

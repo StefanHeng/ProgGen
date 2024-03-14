@@ -1,0 +1,11 @@
+1. Query: "Could you recommend a movie starring Nicole Kidman with a {{riveting}} plot and the song 'Don't You' in it?"
+Text Span: "riveting"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "Has any movie been recognized with {{prestigious accolades}} in the war drama genre"
+Text Span: "prestigious accolades"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "Show me a movie that is unrated and has an {{exciting}} plot"
+Text Span: "exciting"
+Label: (A). The span is a named entity of type Review

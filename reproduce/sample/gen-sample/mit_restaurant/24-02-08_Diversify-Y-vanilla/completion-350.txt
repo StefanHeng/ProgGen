@@ -1,0 +1,8 @@
+Query: "can you recommend a hidden gem for authentic Italian cuisine with outdoor seating"
+Named Entities: [Hidden gem (Amenity), authentic Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "what's the best place in town for a fancy dinner with a view"
+Named Entities: [best (Rating), fancy (Price), dinner with a view (Amenity)]
+
+Query: "I'm looking for a budget-friendly restaurant with vegan options, any suggestions"
+Named Entities: [budget-friendly (Price), vegan (Cuisine), suggestions (Amenity)]

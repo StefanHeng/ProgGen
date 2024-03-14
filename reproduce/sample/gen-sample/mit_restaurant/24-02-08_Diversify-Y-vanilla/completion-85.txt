@@ -1,0 +1,8 @@
+1. "What are the hours of operation for Cooper's Hawk Winery & Restaurants in the downtown area?"
+Named Entities: [Cooper's Hawk Winery & Restaurants (Restaurant Name), downtown area (Location), hours of operation (Hours)]
+
+2. "I'm in the mood for some Italian cuisine, where can I find a highly rated Italian restaurant nearby?"
+Named Entities: [Italian (Cuisine), highly rated (Rating), nearby (Location)]
+
+3. "Do you know of any restaurants with outdoor seating and a view of the ocean?"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

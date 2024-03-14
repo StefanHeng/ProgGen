@@ -1,0 +1,11 @@
+1. Query: "Can you show me the {{trailer}} for the latest Marvel movie?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+2. Query: "Can you play the {{trailer}} for the latest Mission: Impossible movie?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can I see a {{trailer}} for The Matrix?"
+Text Span: "trailer"
+Label: (A). Correct Entity Annotation.

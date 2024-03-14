@@ -1,0 +1,8 @@
+Query: "Can you recommend a brunch spot with outdoor seating and a good view?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), good view (Amenity)]
+
+Query: "I'm craving some Mexican brunch, where can I find a place with bottomless mimosas?"
+Named Entities: [Mexican (Cuisine), brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "What's the best-rated brunch place in the downtown area for under $20 per person?"
+Named Entities: [brunch (Amenity), downtown area (Location), under $20 per person (Price), best-rated (Rating)]

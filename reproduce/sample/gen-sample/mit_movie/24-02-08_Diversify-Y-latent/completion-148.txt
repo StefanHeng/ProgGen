@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the popular choice movie road trip?"
+Named Entities: [popular choice (Review), road trip (Title)]
+
+2. Query: "Could you recommend a movie directed by John Woo starring Clint Eastwood?"
+Named Entities: [John Woo (Director), Clint Eastwood (Actor)]
+
+3. Query: "Are there any movies with a similar plot to The Terminator released in the same year?"
+Named Entities: [The Terminator (Title), similar plot (Plot), same year (Year)]

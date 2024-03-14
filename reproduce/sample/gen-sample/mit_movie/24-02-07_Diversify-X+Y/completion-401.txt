@@ -1,0 +1,8 @@
+1. "Could you play the trailer for the latest Idris Elba movie?"
+Named Entities: [Idris Elba (Actor), latest (Year), movie trailer (Trailer)]
+
+2. "What genre does the Idris Elba film 'Beasts of No Nation' fall under?"
+Named Entities: [Idris Elba (Actor), Beasts of No Nation (Title)]
+
+3. "Show me a film directed by Guy Ritchie that stars Idris Elba and has a powerful soundtrack"
+Named Entities: [Guy Ritchie (Director), Idris Elba (Actor), powerful soundtrack (Song)]

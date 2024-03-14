@@ -1,0 +1,8 @@
+1. Query: "can you recommend a fine dining restaurant with a brunch menu for a 40s female lawyer"
+Named Entities: [fine dining (Amenity), brunch (Amenity), 40s (Price), female (Price), lawyer (Price)]
+
+2. Query: "what are the top-rated fine dining places for brunch in the area"
+Named Entities: [top-rated (Rating), fine dining (Amenity), brunch (Amenity), area (Location)]
+
+3. Query: "i need reservations at a high-end restaurant with a brunch menu"
+Named Entities: [reservations (Amenity), high-end (Price), brunch (Amenity)]

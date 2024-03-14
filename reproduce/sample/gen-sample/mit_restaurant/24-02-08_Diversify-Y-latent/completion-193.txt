@@ -1,0 +1,8 @@
+Query: "Is there a family-friendly restaurant with a high chair available?"
+Named Entities: [family-friendly (Amenity), high chair available (Amenity)]
+
+Query: "I'm craving a burger, where is the nearest Five Guys?"
+Named Entities: [burger (Dish), nearest (Location), Five Guys (Restaurant Name)]
+
+Query: "Can you recommend a place with a decent rating and affordable prices?"
+Named Entities: [decent (Rating), affordable prices (Price)]

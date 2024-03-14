@@ -1,0 +1,8 @@
+1. Query: "Are there any movies with great cast and crew interviews available?"
+   Named Entities: [cast and crew interviews (Plot), great (Review)]
+
+2. Query: "Can you recommend a film with behind-the-scenes details and great making-of features?"
+   Named Entities: [behind-the-scenes (Plot), making-of (Plot), great (Review)]
+
+3. Query: "Do you have any movies that offer in-depth insights into the production process and amazing cast and crew interviews?"
+   Named Entities: [in-depth insights (Review), production process (Plot), cast and crew interviews (Plot), amazing (Review)]

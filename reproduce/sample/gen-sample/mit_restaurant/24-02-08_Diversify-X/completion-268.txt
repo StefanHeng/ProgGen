@@ -1,0 +1,8 @@
+1. "I'm craving some late-night eats, where can I find a place with a good menu that's open past midnight?"
+Named Entities: [late-night dining (Amenity), open past midnight (Hours)]
+
+2. "I want to grab a bite to eat after 10 p.m., can you recommend a mid-range priced restaurant with a diverse menu?"
+Named Entities: [after 10 p.m. (Hours), mid-range priced (Price), diverse menu (Amenity)]
+
+3. "I need to find a spot for a late-night meal with friends, where's a place with a cozy atmosphere and good food after 11 p.m.?"
+Named Entities: [late-night meal (Amenity), after 11 p.m. (Hours), cozy atmosphere (Amenity)]

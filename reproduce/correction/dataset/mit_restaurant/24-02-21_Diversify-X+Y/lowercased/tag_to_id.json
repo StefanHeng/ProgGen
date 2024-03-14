@@ -1,0 +1,19 @@
+{
+    "O": 0,
+    "B-Restaurant Name": 1,
+    "I-Restaurant Name": 2,
+    "B-Amenity": 3,
+    "I-Amenity": 4,
+    "B-Cuisine": 5,
+    "I-Cuisine": 6,
+    "B-Dish": 7,
+    "I-Dish": 8,
+    "B-Hours": 9,
+    "I-Hours": 10,
+    "B-Location": 11,
+    "I-Location": 12,
+    "B-Price": 13,
+    "I-Price": 14,
+    "B-Rating": 15,
+    "I-Rating": 16
+}

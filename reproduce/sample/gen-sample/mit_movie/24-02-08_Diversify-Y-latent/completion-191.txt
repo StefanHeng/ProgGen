@@ -1,0 +1,8 @@
+1. "Is Robert Downey Jr. starring in any upcoming action movies?"
+Named Entities: [Robert Downey Jr. (Actor), upcoming action movies (Genre)]
+
+2. "Are there any movies about an undercover cop released in 2021?"
+Named Entities: [undercover cop (Plot), 2021 (Year)]
+
+3. "Can you recommend a musical with impressive singing performances like Lady Gaga's?"
+Named Entities: [musical (Genre), singing performances (Review), Lady Gaga (Actor)]

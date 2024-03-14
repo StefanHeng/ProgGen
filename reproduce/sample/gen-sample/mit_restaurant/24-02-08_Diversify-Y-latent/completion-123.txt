@@ -1,0 +1,8 @@
+1. "Can you recommend a highly recommended low-cost sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), nearby (Location), highly recommended (Rating), low-cost (Price)]
+
+2. "I'm craving Italian food, where can I find a highly recommended low-cost pizza place?"
+Named Entities: [Italian (Cuisine), pizza (Dish), highly recommended (Rating), low-cost (Price)]
+
+3. "I need to grab a quick bite, is there a highly recommended low-cost burger joint around here?"
+Named Entities: [burger (Dish), highly recommended (Rating), low-cost (Price)]

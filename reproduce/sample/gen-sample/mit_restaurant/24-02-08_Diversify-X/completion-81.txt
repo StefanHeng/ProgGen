@@ -1,0 +1,8 @@
+Query: "I'm craving some delicious pancakes, where can I find a good brunch spot"
+Named Entities: [delicious (Rating), pancakes (Dish), brunch (Amenity)]
+
+Query: "I need a place for a relaxing Sunday brunch with bottomless mimosas"
+Named Entities: [relaxing (Amenity), Sunday brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "I'm meeting a friend for brunch, is there a nice place with outdoor seating"
+Named Entities: [meeting a friend (Amenity), brunch (Amenity), outdoor seating (Amenity)]

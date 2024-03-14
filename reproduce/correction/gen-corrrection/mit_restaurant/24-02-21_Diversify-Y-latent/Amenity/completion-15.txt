@@ -1,0 +1,11 @@
+1. Query: "Which restaurants offer {{pocket-friendly breakfast places}} on weekdays?"
+Text Span: "pocket-friendly breakfast places"
+Label: (B). The correct span boundary is "pocket-friendly breakfast places". Named Entity of type Amenity.
+
+2. Query: "What's the best {{nighttime noshery}} in the area?"
+Text Span: "nighttime noshery"
+Label: (A). Correct Entity Annotation. Named Entity of type Amenity.
+
+3. Query: "I want to grab some {{dinner}}, but I'm looking for an average priced restaurant. Can you suggest one?"
+Text Span: "dinner"
+Label: (C). Wrong Type. The correct entity type is Hours.

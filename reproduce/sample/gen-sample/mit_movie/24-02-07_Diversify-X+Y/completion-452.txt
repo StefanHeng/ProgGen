@@ -1,0 +1,8 @@
+Query: "Did the movie directed by David Lee win any awards?"
+Named Entities: [David Lee (Director), win any awards (Awards)]
+
+Query: "Are there any nominations for the movie featuring Spock?"
+Named Entities: [Spock (Character), nominations (Awards)]
+
+Query: "I find it hard to believe that the movie with David Lee as the director received any awards"
+Named Entities: [David Lee (Director), received any awards (Awards)]

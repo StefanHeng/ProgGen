@@ -1,0 +1,8 @@
+Query: "What's the best Italian restaurant in the area?"
+Named Entities: [best (Rating), Italian (Cuisine), area (Location)]
+
+Query: "I'm in the mood for some sushi. Are there any good sushi places nearby?"
+Named Entities: [sushi (Cuisine), good (Rating), nearby (Location)]
+
+Query: "Do you know a restaurant with outdoor seating and a view of the water?"
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]

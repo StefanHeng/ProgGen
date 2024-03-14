@@ -1,0 +1,8 @@
+1. Query: "What adventure movie features Charlize Theron as the main character?"
+Named Entities: [Adventure (Genre), Charlize Theron (Actor)]
+
+2. Query: "Can I watch The Scarlet Letter, which is rated as Restricted?"
+Named Entities: [The Scarlet Letter (Title), Restricted (MPAA Rating)]
+
+3. Query: "Is the movie Amadeus worth watching?" 
+Named Entities: [Amadeus (Title)]

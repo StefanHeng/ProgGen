@@ -1,0 +1,8 @@
+1. "New York City Marathon sees record number of participants this year."
+Named Entities: [New York City (location)]
+
+2. "CEO of Apple Inc. announces new product launch date."
+Named Entities: [CEO of Apple Inc. (person), Apple Inc. (organization)]
+
+3. "United Nations report shows increase in global poverty rates."
+Named Entities: [United Nations (organization)]

@@ -1,0 +1,8 @@
+1. Text Span: "cinematography"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "science fiction"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "action"
+Label: (A). Correct Entity Annotation.

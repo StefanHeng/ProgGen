@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of the plot of the movie Inception?"
+Named Entities: [Inception (Title), plot summary (Plot)]
+
+2. "Who directed the science fiction film with time travel that came out in 2014?"
+Named Entities: [science fiction (Genre), time travel (Plot), 2014 (Year)]
+
+3. "Show me a movie with a plot involving a heist and a high viewers' rating"
+Named Entities: [heist (Plot), high viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me about the casting process for the movie When Harry Met Sally"
+Named Entities: [casting process (Plot), When Harry Met Sally (Title)]
+
+Query: "Show me some unseen aspects of the director's cut preview of the new Matthew McConaughey film"
+Named Entities: [unseen aspects (Plot), director's cut preview (Plot), Matthew McConaughey (Actor)]
+
+Query: "I'm interested in the cinematography and behind-the-camera moments in Denzel Washington's latest movie, can you provide some insights"
+Named Entities: [cinematography (Plot), behind-the-camera moments (Plot), Denzel Washington (Actor)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with a high rating?"
+Named Entities: [buffet (Cuisine), high rating (Rating)]
+
+Query: "What buffet restaurant has the best seafood in town?"
+Named Entities: [buffet (Cuisine), best seafood (Dish), town (Location)]
+
+Query: "Is there a buffet restaurant open for dinner until late tonight?"
+Named Entities: [buffet (Cuisine), dinner, late tonight (Hours)]

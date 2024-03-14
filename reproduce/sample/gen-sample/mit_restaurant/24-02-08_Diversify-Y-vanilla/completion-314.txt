@@ -1,0 +1,11 @@
+1. "I'm in the mood for some Tom Yum Soup, where can I find a restaurant with that dish?"
+Named Entities: [Tom Yum Soup (Dish)]
+
+2. "Do you know of any places around here with TV screens to watch the game?"
+Named Entities: [TV screens (Amenity)]
+
+3. "I'm looking for some modest-priced bistros in the area, can you recommend any?"
+Named Entities: [Modest-priced Bistros (Price)]
+
+4. "Call McDonald's and ask about their hours for today."
+Named Entities: [McDonald's (Restaurant Name)]

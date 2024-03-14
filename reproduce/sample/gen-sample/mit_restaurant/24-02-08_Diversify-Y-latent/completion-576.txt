@@ -1,0 +1,8 @@
+1. "Where can I find reasonable Italian restaurants in Barcelona?"
+Named Entities: [reasonable (Price), Italian (Cuisine), Barcelona (Location)]
+
+2. "What are the operating hours of the nearest seafood restaurant?"
+Named Entities: [operating hours (Hours), seafood (Cuisine)]
+
+3. "I'm craving pasta, can you recommend a good place for it?"
+Named Entities: [pasta (Dish), good (Rating)]

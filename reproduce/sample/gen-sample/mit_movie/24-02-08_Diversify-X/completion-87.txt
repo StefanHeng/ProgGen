@@ -1,0 +1,8 @@
+Query: "What is the specific subgenre of horror does the movie Hereditary fall under"
+Named Entities: [Hereditary (Title), horror (Genre), specific subgenre (Review)]
+
+Query: "Can you recommend a crime movie directed by Quentin Tarantino that has a neo-noir style"
+Named Entities: [Quentin Tarantino (Director), crime (Genre), neo-noir (Review)]
+
+Query: "Which science fiction film from the 1980s directed by James Cameron is known for its groundbreaking special effects"
+Named Entities: [1980s (Year), James Cameron (Director), science fiction (Genre), groundbreaking special effects (Review)]

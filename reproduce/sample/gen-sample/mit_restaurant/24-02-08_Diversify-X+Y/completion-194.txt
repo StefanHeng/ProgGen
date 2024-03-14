@@ -1,0 +1,8 @@
+Query: "Can you recommend a low-cost fine dining restaurant for late-night American cuisine?"
+Named Entities: [low-cost (Price), late-night dining (Amenity), fine dining (Amenity), American (Cuisine)]
+
+Query: "I'm looking for a late-night dining option for American cuisine with a fine dining ambience that won't break the bank."
+Named Entities: [late-night dining (Amenity), American (Cuisine), fine dining (Amenity), low-cost (Price)]
+
+Query: "Where can I find an affordable fine dining restaurant offering American late-night dining?"
+Named Entities: [affordable (Price), fine dining (Amenity), American (Cuisine), late-night dining (Amenity)]

@@ -1,0 +1,8 @@
+1. "I'm in the mood for some comfort food, can you recommend a restaurant with a drive-thru?"
+Named Entities: [comfort food (Cuisine), drive-thru (Amenity)]
+
+2. "What's a good spot for brunch that's open before 11am?"
+Named Entities: [brunch (Cuisine), open before 11am (Hours)]
+
+3. "I need to grab a quick meal, where's the nearest fast food place with a drive-thru?"
+Named Entities: [quick meal (Amenity), nearest (Location), fast food (Cuisine), drive-thru (Amenity)]

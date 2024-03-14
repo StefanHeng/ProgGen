@@ -1,0 +1,8 @@
+1. Text Span: "last year"
+Label: (B). The span contains a named year entity but the span boundary is not precise. The correct span boundary is "last year".
+
+2. Text Span: "new release"
+Label: (C). The span is a named entity but the category is not year. The correct entity type is "other".
+
+3. Text Span: "80s"
+Label: (A). The span is a named entity of type year.

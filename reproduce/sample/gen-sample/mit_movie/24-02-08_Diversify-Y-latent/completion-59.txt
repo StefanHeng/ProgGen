@@ -1,0 +1,8 @@
+1. "Can you recommend any highly rated movies from the year [Anne Hathaway] was born?"
+Named Entities: [Anne Hathaway (Actor), highly rated (Viewers' Rating), year (Year)]
+
+2. "Who directed the action movie with [Anne Hathaway] that has a plot about time travel?"
+Named Entities: [Anne Hathaway (Actor), action (Genre), time travel (Plot), director (Director)]
+
+3. "I'm looking for a romance film featuring [Anne Hathaway] and set in the 1950s - do you have any recommendations?"
+Named Entities: [Anne Hathaway (Actor), romance (Genre), 1950s (Year)]

@@ -1,0 +1,8 @@
+1. Query: "Hey, could you show me a sneak peek of M?"
+Named Entities: [M (Title), sneak peek (Trailer)]
+
+2. Query: "Is there a historical drama film that's as good as Girls Just Want to Have Fun?"
+Named Entities: [historical drama (Genre), Girls Just Want to Have Fun (Title)]
+
+3. Query: "Who directed that cool neo-noir film? Was it Denis Villeneuve or James Mangold?"
+Named Entities: [neo-noir (Genre), Denis Villeneuve (Director), James Mangold (Director)]

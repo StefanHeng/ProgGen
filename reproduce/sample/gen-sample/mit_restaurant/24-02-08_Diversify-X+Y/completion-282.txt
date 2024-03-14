@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with an intimate ambience in the downtown Zone?"
+Named Entities: [buffet (Amenity), intimate (Amenity), downtown Zone (Location)]
+
+Query: "I'm looking for a Zone with a buffet restaurant that has an intimate atmosphere, any suggestions?"
+Named Entities: [buffet (Amenity), intimate (Amenity), Zone (Location)]
+
+Query: "Where in the Zone can I find a buffet restaurant with an intimate setting?"
+Named Entities: [buffet (Amenity), intimate (Amenity), Zone (Location)]

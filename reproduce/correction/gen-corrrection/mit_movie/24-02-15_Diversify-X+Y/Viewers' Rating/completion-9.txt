@@ -1,0 +1,8 @@
+1. Text Span: "high audience rating"
+Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "recommend"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Review
+
+3. Text Span: "thought-provoking"
+Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Review

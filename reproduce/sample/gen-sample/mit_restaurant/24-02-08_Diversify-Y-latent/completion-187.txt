@@ -1,0 +1,8 @@
+1. "I'm craving a good carving station, where can I find one that's worth the price?"
+Named Entities: [Carving station (Dish), Worth the price (Price)]
+
+2. "Which restaurant has the best sushi in the area with a high rating?"
+Named Entities: [sushi (Cuisine), best (Rating), high rating (Rating)]
+
+3. "Can you recommend a place for brunch with outdoor seating and a view of the ocean?"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), view of the ocean (Location)]

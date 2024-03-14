@@ -1,0 +1,8 @@
+1. "Can you recommend a good [Japanese] restaurant in the downtown area?"
+Named Entities: [good (Rating), downtown area (Location), Japanese (Cuisine)]
+
+2. "What are the operating hours for [Japanese] Garden Sushi?"
+Named Entities: [Japanese Garden Sushi (Restaurant Name), operating hours (Hours)]
+
+3. "I'm looking for a [Japanese] restaurant with a prix fixe menu for dinner."
+Named Entities: [prix fixe menu (Amenity), dinner (Amenity), Japanese (Cuisine)]

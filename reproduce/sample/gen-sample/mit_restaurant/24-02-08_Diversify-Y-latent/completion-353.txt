@@ -1,0 +1,8 @@
+1. "Can you recommend a thrifty place for authentic Italian pasta near downtown?"
+Named Entities: [thrifty (Price), authentic Italian pasta (Cuisine), downtown (Location)]
+
+2. "What's the best spot for brunch with bottomless mimosas in this area?"
+Named Entities: [best (Rating), brunch (Amenity), bottomless mimosas (Amenity), area (Location)]
+
+3. "I'm craving some spicy Korean BBQ for dinner, where's the nearest place open past 10pm?"
+Named Entities: [spicy Korean BBQ (Cuisine), dinner (Amenity), nearest place (Location), past 10pm (Hours)]

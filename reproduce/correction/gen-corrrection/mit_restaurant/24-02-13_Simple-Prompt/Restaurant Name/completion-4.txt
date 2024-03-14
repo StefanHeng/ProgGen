@@ -1,0 +1,11 @@
+1. Query: "I need a {{24-hour diner}} for late-night cravings."
+Text Span: "24-hour diner"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What time does the {{sushi place}} close?"
+Text Span: "sushi place"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "What are the hours of operation for {{Olive Garden}}?"
+Text Span: "Olive Garden"
+Label: (A). The span is a named entity of type restaurant name

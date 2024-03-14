@@ -1,0 +1,8 @@
+1. "I'm craving a croissant for brunch, where can I find a good spot that's not too pricy?"
+   Named Entities: [croissant (Dish), brunch (Amenity), pricy (Price)]
+
+2. "Do you know any restaurants that offer a great brunch with affordable cost of brunch?"
+   Named Entities: [brunch (Amenity), affordable (Price)]
+
+3. "I'm looking for a place with a nice ambiance for brunch, but not too expensive. Any recommendations?"
+   Named Entities: [brunch (Amenity), expensive (Price)]

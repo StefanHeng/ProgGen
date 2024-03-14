@@ -1,0 +1,8 @@
+1. "I'm looking for a Lebanese restaurant in the upscale price range that serves low-carb brunch"
+   Named Entities: [Lebanese (Cuisine), upscale (Price), low-carb (Dietary Restriction), brunch (Amenity)]
+
+2. "Can you recommend a Lebanese brunch spot with an upscale ambiance?"
+   Named Entities: [Lebanese (Cuisine), upscale (Price), brunch (Amenity)]
+
+3. "Where can I find an upscale Lebanese restaurant offering low-carb brunch options?"
+   Named Entities: [Lebanese (Cuisine), upscale (Price), low-carb (Dietary Restriction), brunch (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a family secret in the plot that was released in 1965?"
+   Named Entities: [family secret (Plot), 1965 (Year)]
+
+2. "What movie from 1965 features a song that became popular in the 1980s?"
+   Named Entities: [1980s (Year)]
+
+3. "I'm looking for a classic film with a family secret revealed in the plot, preferably from the 1960s"
+   Named Entities: [family secret (Plot), 1960s (Year)]

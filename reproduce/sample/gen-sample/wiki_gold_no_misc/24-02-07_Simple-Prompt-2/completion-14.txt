@@ -1,0 +1,29 @@
+1. The Statue of Liberty was a must-see destination for tourists visiting New York City.
+Named Entities: [Statue of Liberty (location), New York City (location)]
+
+2. The International Space Station is a collaborative project involving American, Russian, European, Japanese, and Canadian agencies.
+Named Entities: [International Space Station (organization), American (organization), Russian (organization), European (organization), Japanese (organization), Canadian (organization)]
+
+3. The Mona Lisa, housed in the Louvre Museum, is one of the most famous paintings in the world.
+Named Entities: [Mona Lisa (person), Louvre Museum (organization)]
+
+4. The Great Wall of China stretches for thousands of miles across the country.
+Named Entities: [Great Wall of China (location)]
+
+5. The Beatles were an iconic British rock band that revolutionized the music industry.
+Named Entities: [The Beatles (organization), British (location)]
+
+6. Mount Everest, the highest peak in the world, is a popular destination for adventurous climbers.
+Named Entities: [Mount Everest (location)]
+
+7. The World Health Organization, established in 1948, is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+8. Albert Einstein, known for his theory of relativity, was a renowned physicist and mathematician.
+Named Entities: [Albert Einstein (person)]
+
+9. The Eiffel Tower, located in Paris, is a famous landmark and a symbol of France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+10. Harvard University, founded in 1636, is one of the oldest institutions of higher education in the United States.
+Named Entities: [Harvard University (organization), United States (location)]

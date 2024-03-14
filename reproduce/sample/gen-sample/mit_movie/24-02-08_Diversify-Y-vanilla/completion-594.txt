@@ -1,0 +1,8 @@
+1. Query: "can you recommend a movie from [1989] that is directed by tim burton and features a song by prince"
+Named Entities: [1989 (Year), tim burton (Director), a song by prince (Song)]
+
+2. Query: "what's a popular comedy film from the 2000s with a high viewers' rating"
+Named Entities: [2000s (Year), comedy film (Genre), high viewers' rating (Viewers' Rating)]
+
+3. Query: "show me a thriller movie with leonardo dicaprio and directed by christopher nolan"
+Named Entities: [thriller movie (Genre), leonardo dicaprio (Actor), christopher nolan (Director)]

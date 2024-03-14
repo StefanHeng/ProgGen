@@ -1,0 +1,8 @@
+1. "What Academy Award contender did John Travolta star in?"
+   Named Entities: [Academy Award contender (Review), John Travolta (Actor)]
+
+2. "Could you recommend an Independent Spirit Award recipient from the 1990s?"
+   Named Entities: [Independent Spirit Award recipient (Review), 1990s (Year)]
+
+3. "Show me the Sundance award-winning trailer for a movie starring Sean Penn."
+   Named Entities: [Sundance award-winning trailer (Trailer), Sean Penn (Actor)]

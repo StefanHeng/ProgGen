@@ -1,0 +1,8 @@
+1. "Can you recommend a fast food restaurant with vegetarian options nearby?"
+Named Entities: [fast food (Cuisine), vegetarian (Dish), nearby (Location)]
+
+2. "What are the operating hours for In-N-Out Burger?"
+Named Entities: [In-N-Out Burger (Restaurant Name), operating hours (Hours)]
+
+3. "I'm looking for a budget-friendly fast food place with a high customer rating."
+Named Entities: [budget-friendly (Price), fast food (Cuisine), high customer rating (Rating)]

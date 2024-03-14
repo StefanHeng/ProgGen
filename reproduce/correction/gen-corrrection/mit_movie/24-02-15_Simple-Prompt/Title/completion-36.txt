@@ -1,0 +1,11 @@
+1. Query: "Can you tell me about the character Jack Sparrow in the {{Pirates of the Caribbean}} movies?"
+Text Span: "Pirates of the Caribbean"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: "What is the theme song of the film {{The Lion King}}?"
+Text Span: "The Lion King"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: "Who directed the movie {{Interstellar}}?"
+Text Span: "Interstellar"
+Label: (A). The span is a named entity of type movie title

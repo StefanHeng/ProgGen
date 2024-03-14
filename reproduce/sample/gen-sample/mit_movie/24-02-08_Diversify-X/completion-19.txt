@@ -1,0 +1,8 @@
+1. "I'm curious to know more about the storyline of a recent action movie, could you provide some details?"
+   Named Entities: [action movie (Genre), storyline (Plot)]
+
+2. "I'm looking for a film that has a really intriguing plot, do you have any recommendations?"
+   Named Entities: [intriguing plot (Plot)]
+
+3. "I'm interested in finding out more about a classic movie that has a compelling storyline, can you help me with that?"
+   Named Entities: [classic movie (Title), compelling storyline (Plot)]

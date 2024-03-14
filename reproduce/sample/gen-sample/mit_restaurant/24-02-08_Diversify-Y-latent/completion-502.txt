@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a popular brunch buffet in the area?"
+Named Entities: [popular (Rating), Brunch buffet (Amenity), area (Location)]
+
+Query: "I want to take my wife out for a celebrated dinner, where do you suggest?"
+Named Entities: [celebrated (Rating), wife (Amenity)]
+
+Query: "What's the nearest place with affordable prices for a quick bite to eat?"
+Named Entities: [nearest (Location), affordable prices (Price), quick bite (Amenity)]

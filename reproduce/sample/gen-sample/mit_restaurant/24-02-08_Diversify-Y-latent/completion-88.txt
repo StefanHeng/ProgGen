@@ -1,0 +1,8 @@
+1. "What are the opening hours for the Japanese restaurant downtown?"
+Named Entities: [Japanese (Cuisine), downtown (Location), Opening hours (Hours)]
+
+2. "Do you know any restaurants that serve Japanese cuisine and are open past 11 pm?"
+Named Entities: [Japanese (Cuisine), past 11 pm (Hours)]
+
+3. "I'm looking for a restaurant with a budget of $25 per person, can you recommend me any?"
+Named Entities: [$25 (Price)]

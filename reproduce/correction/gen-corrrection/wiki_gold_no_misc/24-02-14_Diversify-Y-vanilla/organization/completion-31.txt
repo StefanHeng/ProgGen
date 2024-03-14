@@ -1,0 +1,11 @@
+1. Sentence: "The {{American Red Cross}} is one of the largest humanitarian organizations in the United States, providing disaster relief and blood donation services."
+Text Span: "American Red Cross"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The {{Adidas}} Group, a multinational corporation based in Germany, is the largest sportswear manufacturer in Europe and the second largest in the world."
+Text Span: "Adidas"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The Arnold Palmer Invitational is a professional golf tournament on the PGA Tour, played annually at the {{Bay Hill Club and Lodge}} in Orlando, Florida."
+Text Span: "Bay Hill Club and Lodge"
+Label: (A). The span is a named entity of type organization

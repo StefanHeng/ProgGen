@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a play area for kids?"
+Named Entities: [play area for kids (Amenity)]
+
+2. "I'm in the mood for some spaghetti carbonara, where is the best place to get it?"
+Named Entities: [spaghetti carbonara (Dish)]
+
+3. "I have a craving for tacos, where can I find the tastiest ones in the area?"
+Named Entities: [tacos (Dish)]

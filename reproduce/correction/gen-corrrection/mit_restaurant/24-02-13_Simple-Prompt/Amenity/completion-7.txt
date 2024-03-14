@@ -1,0 +1,8 @@
+1. Text Span: "breakfast"
+   Label: (B). The correct span boundary is "classic American breakfast"
+   
+2. Text Span: "pub"
+   Label: (A). The span is a named entity of type Amenity
+
+3. Text Span: "good wine selection"
+   Label: (A). The span is a named entity of type Amenity

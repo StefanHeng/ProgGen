@@ -1,0 +1,8 @@
+Query 1: "Can you recommend a trendy café with vegan options for a late brunch"
+Named Entities: [trendy (Amenity), vegan (Cuisine), late brunch (Hours)]
+
+Query 2: "I'm looking for a hip café with outdoor seating and a good espresso"
+Named Entities: [hip (Amenity), outdoor seating (Amenity), good espresso (Dish)]
+
+Query 3: "Find me a cool urban café with affordable prices and good reviews"
+Named Entities: [cool (Amenity), urban (Amenity), affordable prices (Price), good reviews (Rating)]

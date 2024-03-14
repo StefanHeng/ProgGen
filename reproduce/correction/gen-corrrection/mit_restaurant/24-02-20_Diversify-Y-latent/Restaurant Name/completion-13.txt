@@ -1,0 +1,11 @@
+1. Query: "I'm looking for a cozy and affordable artisanal {{cafe}} with outdoor seating."
+Text Span: "cafe"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Query: "I'm craving some Danish food, where can I find a good {{Danish restaurant}}?"
+Text Span: "Danish restaurant"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "I want to have dinner at {{Red Robin}} tonight, what time does it close?"
+Text Span: "Red Robin"
+Label: (A). Correct Entity Annotation.

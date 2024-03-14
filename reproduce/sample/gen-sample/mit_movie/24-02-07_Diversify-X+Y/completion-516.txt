@@ -1,0 +1,8 @@
+1. "Show me a movie with the original score from Top Gun, I need to know now!"
+   Named Entities: [Top Gun (Title), Original score (Song)]
+
+2. "Is there a movie featuring Will Turner with an iconic soundtrack? Hurry up!"
+   Named Entities: [Will Turner (Character), iconic soundtrack (Song)]
+
+3. "I need a movie like Moana with great music, can you find it quickly?"
+   Named Entities: [Moana (Title), great music (Song)]

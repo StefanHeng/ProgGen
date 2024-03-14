@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a three-star rating?"
+Named Entities: [three-star rating (Viewers' Rating)]
+
+2. "When will the trailer for the 2021 Bond movie be released?"
+Named Entities: [trailer (Trailer), 2021 (Year), Bond (Title)]
+
+3. "What is your favorite 1980s romantic comedy film?"
+Named Entities: [1980s (Year), romantic comedy (Genre)]

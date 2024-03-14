@@ -1,0 +1,8 @@
+1. Text Span: "Athena"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Sherlock Holmes"
+Label: (A). The span is a named entity of type person
+
+3. Text Span: "Frank Lloyd Wright"
+Label: (A). The span is a named entity of type person

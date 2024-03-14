@@ -1,0 +1,8 @@
+1. Query: "Can I see the trailer for the latest James Bond movie?"
+   Named Entities: [James Bond (Character), latest (Year), trailer (Trailer)]
+
+2. Query: "What are the most popular action movie trailers of 2021?"
+   Named Entities: [action (Genre), 2021 (Year), popular (Viewers' Rating), trailers (Trailer)]
+
+3. Query: "Who directed the film with the most intriguing teaser?"
+   Named Entities: [intriguing (Review), teaser (Trailer)]

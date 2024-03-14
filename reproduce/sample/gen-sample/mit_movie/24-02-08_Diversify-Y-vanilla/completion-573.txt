@@ -1,0 +1,14 @@
+1. Query: "Can you recommend a movie with a plot similar to betrayal?"
+   Named Entities: [betrayal (Plot)]
+
+2. Query: "What movie did Peter Jackson direct after The Lord of the Rings trilogy?"
+   Named Entities: [Peter Jackson (Director), The Lord of the Rings (Title)]
+
+3. Query: "Tell me about any movies released in the same year as Casablanca."
+   Named Entities: [Casablanca (Title)]
+
+4. Query: "Show me a trailer featuring Tyrion Lannister from Game of Thrones."
+   Named Entities: [Tyrion Lannister (Character)]
+
+5. Query: "Can you recommend a movie suitable for children with a TV-Y7 rating?"
+   Named Entities: [TV-Y7 (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. Query: "Can you show me a teaser for the new James Bond movie?"
+   Named Entities: [teaser (Trailer), James Bond (Character)]
+
+2. Query: "I want to see a trailer for a horror movie that came out this year."
+   Named Entities: [trailer (Trailer), horror (Genre), this year (Year)]
+
+3. Query: "Are there any teasers for upcoming animated movies?"
+   Named Entities: [teasers (Trailer), animated (Genre), upcoming (Year)]

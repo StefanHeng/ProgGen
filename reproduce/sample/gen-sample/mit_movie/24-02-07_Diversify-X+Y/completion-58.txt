@@ -1,0 +1,8 @@
+1. Query: "Are there any movies with Celtic music in the soundtrack?"
+   Named Entities: [Celtic (Genre)]
+
+2. Query: "Is there a film with Alfred Hitchcock's music that you'd recommend?"
+   Named Entities: [Alfred Hitchcock (Director), recommend (Viewers' Rating)]
+
+3. Query: "Can you show me a movie where Lara Croft sings a song in the soundtrack?"
+   Named Entities: [Lara Croft (Character), sings a song (Song)]

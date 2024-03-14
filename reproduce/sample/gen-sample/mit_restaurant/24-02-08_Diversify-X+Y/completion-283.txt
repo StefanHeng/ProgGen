@@ -1,0 +1,8 @@
+1. "Is there any fast food place with a hip and trendy ambience that is open for after-hours?"
+Named Entities: [fast food (Cuisine), hip and trendy (Amenity), after-hours (Hours)]
+
+2. "Where can I find a fast food joint with a cool and trendy vibe adjacent to a bar?"
+Named Entities: [fast food (Cuisine), cool and trendy (Amenity), adjacent to a bar (Location)]
+
+3. "I'm looking for a hip and trendy fast food spot with after-hours dining options. Any recommendations?"
+Named Entities: [fast food (Cuisine), hip and trendy (Amenity), after-hours (Hours)]

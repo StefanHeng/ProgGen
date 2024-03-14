@@ -1,0 +1,11 @@
+1. Sentence: "The notorious serial killer Jack the Ripper terrorized the {{Whitechapel}} district of London in the late 1800s, committing a series of gruesome murders that left the entire city in fear."
+Text Span: "Whitechapel"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{Walden Pond}}, described by Henry David Thoreau in his book Walden, is a prominent symbol of transcendentalist literature."
+Text Span: "Walden Pond"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The {{United Nations Headquarters}} is located in New York City, serving as the official headquarters of the United Nations since its completion in 1952."
+Text Span: "United Nations Headquarters"
+Label: (A). The span is a named entity of type location

@@ -1,0 +1,8 @@
+1. "Hey, I'm dying to see the teaser for the new Christopher Nolan movie, could you please show me a snippet?"
+Named Entities: [teaser (Trailer), Christopher Nolan (Director)]
+
+2. "I'm so pumped for the upcoming Marvel movie, can you hook me up with a glimpse of the trailer?"
+Named Entities: [Marvel (Title), trailer (Trailer)]
+
+3. "I'm really hyped for the next Star Wars film, can you show me a sneak peek of the teaser?"
+Named Entities: [Star Wars (Title), sneak peek (Trailer)]

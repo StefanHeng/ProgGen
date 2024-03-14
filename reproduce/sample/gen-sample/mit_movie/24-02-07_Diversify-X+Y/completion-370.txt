@@ -1,0 +1,8 @@
+1. Query: "Can I watch the trailer for a movie full of surprises?"
+Named Entities: [trailer (Trailer), full of surprises (Plot)]
+
+2. Query: "Is there a terrible movie directed by Samuel L. Jackson?"
+Named Entities: [terrible (Review), Samuel L. Jackson (Director)]
+
+3. Query: "I'm looking for a movie with the song 'We Will Rock You' that came out in 2001. Can you show me a teaser?"
+Named Entities: ['We Will Rock You' (Song), 2001 (Year), teaser (Trailer)]

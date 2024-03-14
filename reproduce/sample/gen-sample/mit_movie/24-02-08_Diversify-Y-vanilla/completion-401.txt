@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a good satire movie?"
+Named Entities: [satire (Genre)]
+
+2. Query: "Is the movie 'Apocalypse Now' overhyped?"
+Named Entities: [Apocalypse Now (Title), overhyped (Review)]
+
+3. Query: "Which director is known for their work in dystopian films, like 'Children of Men'?"
+Named Entities: [dystopian (Genre), Children of Men (Title)]

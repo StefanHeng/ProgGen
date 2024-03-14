@@ -1,0 +1,8 @@
+1. Query: "Can you show me the trailer for the latest romantic comedy film?"
+Named Entities: [romantic comedy (Genre), latest (Year), trailer (Trailer)]
+
+2. Query: "What movie has a heartwarming song that I can listen to?"
+Named Entities: [heartwarming (Review), song (Song)]
+
+3. Query: "Who directed the action movie that came out in 1999?"
+Named Entities: [action (Genre), 1999 (Year), director (Director)]

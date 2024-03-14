@@ -1,0 +1,8 @@
+1. "What genre is the movie Pacific Rim?"
+Named Entities: [Pacific Rim (Title)]
+
+2. "Can you recommend a mystery film from the 1975-1985 period?"
+Named Entities: [1975-1985 (Year), Mystery (Genre)]
+
+3. "Who was the director behind-the-camera for the movie featuring Jack Dawson as a character?"
+Named Entities: [Behind-the-camera (Director), Jack Dawson (Character)]

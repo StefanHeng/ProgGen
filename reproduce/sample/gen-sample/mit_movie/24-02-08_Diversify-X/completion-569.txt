@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director and the behind-the-scenes secrets of the movie Inception?"
+   Named Entities: [Inception (Title), director (Director), behind-the-scenes secrets (Plot)]
+
+2. Query: "What are the best rated movies of 2020, and can you share any interesting making-of stories about them?"
+   Named Entities: [2020 (Year), best rated movies (Viewers' Rating), making-of stories (Plot)]
+
+3. Query: "I'm in the mood for a classic film. Could you recommend a highly acclaimed black and white movie from the 1950s and share some trivia about the director?"
+   Named Entities: [1950s (Year), black and white movie (Genre), highly acclaimed (Viewers' Rating), director (Director)]

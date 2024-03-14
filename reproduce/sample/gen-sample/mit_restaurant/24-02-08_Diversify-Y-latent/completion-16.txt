@@ -1,0 +1,8 @@
+1. "Can you suggest a restaurant with a kids menu and outdoor seating?"
+Named Entities: [kids menu (Amenity), outdoor seating (Amenity)]
+
+2. "I'm looking for a seafood restaurant with a price range of $20-30 per person."
+Named Entities: [seafood (Cuisine), $20-30 per person (Price)]
+
+3. "What are the top-rated Italian restaurants in the area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine)]

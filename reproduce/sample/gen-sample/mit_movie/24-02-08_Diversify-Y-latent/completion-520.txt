@@ -1,0 +1,8 @@
+Query: "can you show me some footage from the latest James Bond movie"
+Named Entities: [some footage (Footage), James Bond (Character)]
+
+Query: "what is the best movie directed by Christopher Nolan"
+Named Entities: [best (Viewers' Rating), Christopher Nolan (Director)]
+
+Query: "can you recommend a film with a high viewers' rating and an intense plot"
+Named Entities: [high viewers' rating (Viewers' Rating), intense (Plot)]

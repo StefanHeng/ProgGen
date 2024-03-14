@@ -1,0 +1,11 @@
+1. Sentence: "The company was founded in {{1998}} and is headquartered in San Francisco, California."
+Text Span: "1998"
+Label: (D). The span is not a named entity
+
+2. Sentence: "The University of Cape Town is a public research university located in the suburb of Rondebosch in {{Cape Town}}, South Africa."
+Text Span: "Cape Town"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "In 2017, Emmanuel Macron won the {{French}} presidential election, becoming the youngest president in the country's history."
+Text Span: "French"
+Label: (C). The span is a named entity but the category is not location, the correct entity type is other.

@@ -1,0 +1,8 @@
+1. "I'm looking for a rustic and charming restaurant that serves fast food options and has a gluten-free menu."
+Named Entities: [rustic and charming (Amenity), fast food (Cuisine), gluten-free menu (Amenity)]
+
+2. "Where can I find a fast food restaurant with a rustic and charming ambience that serves Thai dishes?"
+Named Entities: [fast food (Cuisine), rustic and charming (Amenity), Thai (Cuisine)]
+
+3. "I need to grab a quick bite at a restaurant known for its bad service, but with a rustic and charming vibe."
+Named Entities: [bad (Rating), rustic and charming (Amenity)]

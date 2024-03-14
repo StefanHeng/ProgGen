@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-rated movie from the 1990s with a thought-provoking plot?"
+   Named Entities: [highly-rated (Viewers' Rating), 1990s (Year), thought-provoking (Plot)]
+
+2. "Who directed the classic film with a stellar performance by Meryl Streep?"
+   Named Entities: [classic film (Title), Meryl Streep (Actor)]
+
+3. "Could you suggest a family-friendly movie with a catchy soundtrack?"
+   Named Entities: [family-friendly (MPAA Rating), catchy soundtrack (Song)]

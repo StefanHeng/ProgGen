@@ -1,0 +1,8 @@
+1. Query: "I'm craving a juicy steak for dinner. Can you recommend any good steakhouses in the area?"
+Named Entities: [juicy steak (Dish), steakhouses (Cuisine), the area (Location)]
+
+2. Query: "What are the operating hours for Morton's The Steakhouse on Friday?"
+Named Entities: [Morton's The Steakhouse (Restaurant Name), Friday (Hours)]
+
+3. Query: "I need a restaurant with a romantic atmosphere for a special occasion. Can you suggest any high-rated places?"
+Named Entities: [romantic atmosphere (Amenity), high-rated (Rating)]

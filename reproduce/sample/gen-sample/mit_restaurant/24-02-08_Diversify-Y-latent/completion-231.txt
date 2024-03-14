@@ -1,0 +1,8 @@
+1. "I'm in the mood for some authentic Michelin-starred dining, where can I find a top-rated restaurant?"
+Named Entities: [Michelin (Rating)]
+
+2. "I'm craving some spicy Mexican cuisine, can you recommend a good spot for tacos?"
+Named Entities: [Mexican (Cuisine)]
+
+3. "I need to grab a quick bite on a budget, can you suggest a place with affordable dishes under 20 dollars?"
+Named Entities: [affordable (Price)]

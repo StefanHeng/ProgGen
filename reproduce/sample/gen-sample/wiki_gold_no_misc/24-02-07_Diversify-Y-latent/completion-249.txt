@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+Sentence: "The World Health Organization is a specialized agency of the United Nations responsible for international public health."
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+Sentence: "In 2016, Elon Musk suggested that a Mars colony might be established by 2025."
+Named Entities: [Elon Musk (person), Mars (location)]

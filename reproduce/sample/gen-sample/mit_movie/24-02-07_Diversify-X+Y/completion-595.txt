@@ -1,0 +1,8 @@
+1. Spoken Query: "Can I get an advance look at the movie directed by Charlie Chaplin in 2013?"
+   Named Entities: [advance look (Trailer), Charlie Chaplin (Director), 2013 (Year)]
+
+2. Spoken Query: "Which movie from 2013 has a scene with Charlie Chaplin as a character?"
+   Named Entities: [scene (Plot), Charlie Chaplin (Character), 2013 (Year)]
+
+3. Spoken Query: "Is there a movie from 2013 with a song that references Charlie Chaplin?"
+   Named Entities: [song (Song), Charlie Chaplin (Actor), 2013 (Year)]

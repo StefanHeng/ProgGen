@@ -1,0 +1,8 @@
+1. Text Span: "Awards and nominations"
+   Label: (C). The correct entity type is Genre.
+
+2. Text Span: "masterpiece"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "great reviews and ratings"
+   Label: (B). The correct span boundary is "great reviews".

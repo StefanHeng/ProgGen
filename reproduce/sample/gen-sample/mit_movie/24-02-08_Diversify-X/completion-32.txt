@@ -1,0 +1,8 @@
+1. Spoken Query: "Are there any G-rated animated movies playing today?"
+   Named Entities: [G-rated (MPAA Rating), animated (Genre)]
+
+2. Spoken Query: "What family-friendly movies are showing this weekend?"
+   Named Entities: [family-friendly (Viewers' Rating), weekend (Year)]
+
+3. Spoken Query: "Can we watch a fantasy movie suitable for kids this evening?"
+   Named Entities: [fantasy (Genre), kids (Viewers' Rating), evening (Time)]

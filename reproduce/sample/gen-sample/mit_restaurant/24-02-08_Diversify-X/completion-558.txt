@@ -1,0 +1,8 @@
+Query: "What restaurants offer a good selection of vegetarian dishes for lunch"
+Named Entities: [vegetarian (Cuisine), lunch (Amenity)]
+
+Query: "I'm looking for a place with outdoor seating that serves tacos for lunch"
+Named Entities: [outdoor seating (Amenity), tacos (Dish), lunch (Amenity)]
+
+Query: "Can you recommend a restaurant with a high rating and affordable prices for lunch"
+Named Entities: [high rating (Rating), affordable prices (Price), lunch (Amenity)]

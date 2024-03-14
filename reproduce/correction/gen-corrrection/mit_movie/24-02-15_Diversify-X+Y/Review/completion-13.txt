@@ -1,0 +1,11 @@
+1. Query: "Could you recommend a {{highly praised}} romantic movie with Samuel L. Jackson in it that I can watch on a streaming platform?"
+Text Span: "highly praised"
+Label: (A). Named Entity of type Review
+
+2. Query: "Can you recommend a {{well-executed}} movie directed by Jordan Peele with an impeccable plot?"
+Text Span: "well-executed"
+Label: (A). Named Entity of type Review
+
+3. Query: "I'm looking for a film with an {{emotional original score}} that perfectly complements the storyline."
+Text Span: "emotional original score"
+Label: (A). Named Entity of type Review

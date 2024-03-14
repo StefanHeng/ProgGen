@@ -1,0 +1,8 @@
+1. "I'm craving a burger, where can I find a good one near [Five Guys]?"
+Named Entities: [burger (Cuisine), [Five Guys] (Restaurant Name)]
+
+2. "What are the operating [hours] for [Five Guys]?"
+Named Entities: [hours (Hours), [Five Guys] (Restaurant Name)]
+
+3. "Recommend a restaurant with a high [rating] close to [Five Guys]."
+Named Entities: [high (Rating), [Five Guys] (Restaurant Name) ]

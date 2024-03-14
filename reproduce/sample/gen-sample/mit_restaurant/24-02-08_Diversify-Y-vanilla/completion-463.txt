@@ -1,0 +1,8 @@
+1. "I'm craving some Fettuccine alfredo, can you recommend a place that serves it?"
+Named Entities: [Fettuccine alfredo (Dish)]
+
+2. "I need a pick-me-up, take me to the nearest Cafe Mocha spot"
+Named Entities: [nearest (Location), Cafe Mocha (Dish)]
+
+3. "I want to find a restaurant with a good rating offering Italian cuisine"
+Named Entities: [good (Rating), Italian (Cuisine)]

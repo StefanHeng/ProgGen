@@ -1,0 +1,8 @@
+Query: "I'm craving some Tandoori chicken in Downtown, can you recommend a restaurant for that?"
+Named Entities: [Tandoori chicken (Dish), Downtown (Location)]
+
+Query: "Is there a 24-hour diner with a good rating in the area?"
+Named Entities: [24-hour (Hours), good (Rating)]
+
+Query: "Where can I find a budget-friendly place to eat with outdoor seating?"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity)]

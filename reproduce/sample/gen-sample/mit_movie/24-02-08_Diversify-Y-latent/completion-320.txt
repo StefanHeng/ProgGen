@@ -1,0 +1,8 @@
+1. Query: "Can you show me a movie trailer featuring Princess Leia?"
+   Named Entities: [Princess Leia (Character), movie trailer (Trailer)]
+
+2. Query: "Are there any comedy movies with the song A Whole New World in them?"
+   Named Entities: [comedy (Genre), A Whole New World (Song)]
+
+3. Query: "Can you recommend a music movie with a TV spot featuring Gandalf?"
+   Named Entities: [music (Genre), TV spot (Trailer), Gandalf (Character)]

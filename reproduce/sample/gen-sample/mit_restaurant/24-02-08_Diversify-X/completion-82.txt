@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck with outdoor seating for dinner tonight?"
+Named Entities: [food truck (Cuisine), outdoor seating (Amenity), dinner (Hours), tonight (Hours)]
+
+2. "I'm craving street tacos from a food truck with a nice patio, do you know of any nearby?"
+Named Entities: [street tacos (Dish), food truck (Cuisine), nice patio (Amenity), nearby (Location)]
+
+3. "Where can I find a food truck with a picnic area for lunch?"
+Named Entities: [food truck (Cuisine), picnic area (Amenity), lunch (Hours)]

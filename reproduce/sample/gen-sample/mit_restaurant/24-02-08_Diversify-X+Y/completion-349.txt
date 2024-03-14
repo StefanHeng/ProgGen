@@ -1,0 +1,8 @@
+1. "I'm looking for a buffet restaurant with halal options and affordable prices."
+Named Entities: [buffet (Amenity), halal (Cuisine), affordable (Price)]
+
+2. "Can you recommend a halal-friendly buffet restaurant with reasonable prices?"
+Named Entities: [halal (Cuisine), buffet (Amenity), reasonable (Price)]
+
+3. "Where can I find an affordable buffet restaurant that serves halal food?"
+Named Entities: [affordable (Price), buffet (Amenity), halal (Cuisine)]

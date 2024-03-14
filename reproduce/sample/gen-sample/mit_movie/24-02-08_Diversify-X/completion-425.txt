@@ -1,0 +1,8 @@
+Query: "Has the movie La La Land won any awards?"
+Named Entities: [La La Land (Title), awards (Genre)]
+
+Query: "What nominations did the movie The Shape of Water receive?"
+Named Entities: [The Shape of Water (Title), nominations (Plot)]
+
+Query: "Which director has won the most Academy Awards?"
+Named Entities: [Academy Awards (Award), director (Director)]

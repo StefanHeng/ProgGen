@@ -1,0 +1,55 @@
+{
+    "examples": [
+        {
+            "sentence": "is there any place around here that has a good menu for happy hour",
+            "entity_names": [
+                "good",
+                "happy hour"
+            ],
+            "entity_types": [
+                "Rating",
+                "Amenity"
+            ]
+        },
+        {
+            "sentence": "call mcdonalds",
+            "entity_names": [
+                "mcdonalds"
+            ],
+            "entity_types": [
+                "Restaurant Name"
+            ]
+        },
+        {
+            "sentence": "find us a place to eat for under 10 dollars a plate",
+            "entity_names": [
+                "under 10 dollars a plate"
+            ],
+            "entity_types": [
+                "Price"
+            ]
+        },
+        {
+            "sentence": "im thirsty take me to the closest slurpee",
+            "entity_names": [
+                "closest",
+                "slurpee"
+            ],
+            "entity_types": [
+                "Location",
+                "Dish"
+            ]
+        },
+        {
+            "sentence": "where can i get afghan cuisine before 9 a m",
+            "entity_names": [
+                "afghan",
+                "before 9 a m"
+            ],
+            "entity_types": [
+                "Cuisine",
+                "Hours"
+            ]
+        }
+    ]
+}

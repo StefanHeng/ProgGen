@@ -1,0 +1,8 @@
+1. The company was founded by John Smith and Jane Doe in 2005.
+Named Entities: [John Smith (person), Jane Doe (person)]
+
+2. The Eiffel Tower is located in the 7th arrondissement of Paris, France.
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+3. Harvard University is one of the oldest higher education institutions in the United States.
+Named Entities: [Harvard University (organization), United States (location)]

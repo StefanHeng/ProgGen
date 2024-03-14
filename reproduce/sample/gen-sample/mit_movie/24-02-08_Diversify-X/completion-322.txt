@@ -1,0 +1,8 @@
+Query: "I heard there's a popular movie with a great soundtrack, is it available to stream anywhere?"
+Named Entities: [popular movie (Title), great soundtrack (Song), available to stream (Review)]
+
+Query: "I'm interested in a classic film from the 1950s, are there any well-rated options to watch online?"
+Named Entities: [classic film (Genre), 1950s (Year), well-rated options (Viewers' Rating), watch online (Review)]
+
+Query: "I'm looking for a movie with a compelling plot and strong performances, is it possible to find such a film on a streaming platform?"
+Named Entities: [compelling plot (Plot), strong performances (Review), streaming platform (Title)]

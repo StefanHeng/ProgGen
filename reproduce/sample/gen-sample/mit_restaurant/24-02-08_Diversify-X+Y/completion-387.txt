@@ -1,0 +1,8 @@
+Query: "What fast food restaurants are open past midnight in the downtown area"
+Named Entities: [fast food (Cuisine), past midnight (Hours), downtown (Location)]
+
+Query: "I'm craving some cheap burgers, where can I get a good deal"
+Named Entities: [cheap (Price), burgers (Dish)]
+
+Query: "Which fast food place has the best reviews in the city"
+Named Entities: [best (Rating), city (Location)]

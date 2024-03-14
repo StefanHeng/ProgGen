@@ -1,0 +1,8 @@
+1. "Can you recommend any romantic comedy movies with a strong female lead?"
+Named Entities: [romantic comedy (Genre), strong female lead (Character)]
+
+2. "I'm in the mood for a classic musical, preferably from the 1950s or 1960s."
+Named Entities: [classic musical (Genre), 1950s or 1960s (Year)]
+
+3. "I'm looking for a heartfelt drama set in a small town, something like Steel Magnolias."
+Named Entities: [heartfelt drama (Genre), small town (Plot), Steel Magnolias (Title)]

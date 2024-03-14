@@ -1,0 +1,8 @@
+Query: "I'm looking for a cozy café with outdoor seating and good coffee"
+Named Entities: [cozy (Amenity), café (Cuisine), outdoor seating (Amenity), good coffee (Dish)]
+
+Query: "I need to find a café that serves breakfast all day and is located downtown"
+Named Entities: [breakfast all day (Hours), café (Cuisine), downtown (Location)]
+
+Query: "Can you recommend a café with vegan options and a relaxed atmosphere?"
+Named Entities: [vegan options (Cuisine), relaxed atmosphere (Amenity), café (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with late-night dining options for under $15 per person?"
+Named Entities: [late-night dining (Amenity), under $15 per person (Price)]
+
+2. "I'm looking for a place to grab a bite after midnight, preferably with a diverse menu. Any suggestions?"
+Named Entities: [after midnight (Hours), diverse menu (Amenity)]
+
+3. "I need to find a budget-friendly restaurant open late. Any ideas?"
+Named Entities: [budget-friendly (Price), open late (Hours)]

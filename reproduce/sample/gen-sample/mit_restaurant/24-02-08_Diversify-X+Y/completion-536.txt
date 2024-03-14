@@ -1,0 +1,8 @@
+Query: "where can I find a brunch place with gluten-free options"
+Named Entities: [brunch (Amenity), gluten-free options (Amenity)]
+
+Query: "I'm in the mood for a brunch spot, how about Spago"
+Named Entities: [brunch (Amenity), Spago (Restaurant Name)]
+
+Query: "which restaurant in the area offers gluten-free options for brunch"
+Named Entities: [gluten-free options (Amenity), brunch (Amenity)]

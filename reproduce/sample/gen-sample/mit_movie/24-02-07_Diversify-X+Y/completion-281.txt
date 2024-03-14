@@ -1,0 +1,8 @@
+1. "Can you recommend a hip hop movie with an amazing soundtrack from a film directed by Edgar Wright in the last decade?"
+Named Entities: [hip hop (Genre), amazing soundtrack (Song), Edgar Wright (Director), 2010-2020 (Year)]
+
+2. "I'm looking for a movie with an outstanding hip hop soundtrack, can you suggest me a film with an F rating?"
+Named Entities: [hip hop (Genre), outstanding soundtrack (Song), F (MPAA Rating)]
+
+3. "Show me a movie with a hip hop theme and great music that was released between 2010-2020."
+Named Entities: [hip hop (Genre), great music (Song), 2010-2020 (Year)]

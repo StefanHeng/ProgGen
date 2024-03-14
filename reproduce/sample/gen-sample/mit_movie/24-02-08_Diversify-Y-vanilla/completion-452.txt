@@ -1,0 +1,8 @@
+1. "Can you show me the official preview for the new movie directed by Roman Polanski?"
+Named Entities: [Official preview (Trailer), Roman Polanski (Director)]
+
+2. "I'm looking for an action-packed clip showcase from a movie starring My Girl. Do you have any recommendations?"
+Named Entities: [Action-packed (Genre), Clip showcase (Trailer), My Girl (Title)]
+
+3. "What is the viewers' rating of the historical film directed by Roman Polanski?"
+Named Entities: [historical (Genre), Roman Polanski (Director), viewers' rating (Viewers' Rating)]

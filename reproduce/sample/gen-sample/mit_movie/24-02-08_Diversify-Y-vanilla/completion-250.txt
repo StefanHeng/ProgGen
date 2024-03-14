@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie directed by Werner Herzog with stellar performances?"
+Named Entities: [Werner Herzog (Director), Stellar performances (Review)]
+
+2. Query: "I'm looking for a movie with powerful emotions that has a viewers' rating of 4 out of 5 stars."
+Named Entities: [Powerful emotions (Review), 4 out of 5 stars (Viewers' Rating)]
+
+3. Query: "Could you suggest a supernatural film similar to Doctor Strange?"
+Named Entities: [Supernatural (Genre), Doctor Strange (Title)]

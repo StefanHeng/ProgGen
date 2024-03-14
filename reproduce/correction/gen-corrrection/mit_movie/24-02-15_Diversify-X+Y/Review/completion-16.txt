@@ -1,0 +1,8 @@
+1. Text Span: "review"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "perfect soundtrack"
+   Label: (A). Named Entity of type Review
+
+3. Text Span: "received numerous nominations"
+   Label: (A). Named Entity of type Review

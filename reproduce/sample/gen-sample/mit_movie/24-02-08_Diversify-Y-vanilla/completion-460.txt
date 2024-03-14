@@ -1,0 +1,8 @@
+1. Query: "Could you show me the trailer for the new Universal movie that comes out in 2023?"
+   Named Entities: [trailer (Trailer), Universal (Title), 2023 (Year)]
+
+2. Query: "What movie has the song 'Let It Go' from Frozen?"
+   Named Entities: ['Let It Go' (Song), Frozen (Title)]
+
+3. Query: "Who directed the top-rated movies of 2023?"
+   Named Entities: [2023 (Year), top-rated (Viewers' Rating)]

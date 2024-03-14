@@ -1,0 +1,11 @@
+1. Query: "Who is the main actor in the movie {{Gladiator}}?"
+Text Span: "Gladiator"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: "Is there a specific song in {{Dirty Dancing}}?"
+Text Span: "Dirty Dancing"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: "Who directed the {{lord of the rings}} trilogy"
+Text Span: "lord of the rings"
+Label: (C). The span is a named entity but the category is not movie title. The correct entity type is Title.

@@ -1,0 +1,8 @@
+1. Query: "What movie features the song 'I Will Always Love You' and has an official trailer?"
+Named Entities: ['I Will Always Love You' (Song), Official trailer]
+
+2. Query: "Can you recommend a comedy film from 2005 with world domination as the plot?"
+Named Entities: [2005 (Year), world domination (Plot)]
+
+3. Query: "Who directed the action movie with the title 'Die Hard' and a viewers' rating of 5 stars?"
+Named Entities: [Die Hard (Title), 5 stars (Viewers' Rating), Director]

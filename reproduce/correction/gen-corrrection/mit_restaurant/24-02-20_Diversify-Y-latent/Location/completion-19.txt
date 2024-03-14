@@ -1,0 +1,8 @@
+1. Text Span: "ocean"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "nearest"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "in the area"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "in the area".

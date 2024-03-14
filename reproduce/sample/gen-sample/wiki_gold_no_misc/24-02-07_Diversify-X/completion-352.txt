@@ -1,0 +1,8 @@
+Sentence: "The United States Department of Defense is the executive department of the United States government responsible for coordinating and supervising all agencies and functions of the government directly related to national security and the United States Armed Forces."
+Named Entities: [United States Department of Defense (organization), United States (location), United States Armed Forces (organization)]
+
+Sentence: "The Battle of Gettysburg was fought July 1–3, 1863, in and around the town of Gettysburg, Pennsylvania, by Union and Confederate forces during the American Civil War."
+Named Entities: [Battle of Gettysburg (location), Pennsylvania (location), Union (organization), Confederate (organization), American Civil War (event)]
+
+Sentence: "The Military World Games is a multi-sport event for military sportspeople, organized by the International Military Sports Council (CISM)."
+Named Entities: [Military World Games (event), International Military Sports Council (organization), CISM (organization)]

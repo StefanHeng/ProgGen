@@ -1,0 +1,8 @@
+1. Text Span: "Audrey Hepburn"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Mary, the mother of Jesus"
+Label: (B). The span contains a named person entity but the span boundary is not precise. The correct span boundary is "Mary"
+
+3. Text Span: "John Doe"
+Label: (A). The span is a named entity of type person

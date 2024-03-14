@@ -1,0 +1,8 @@
+1. Query: "Has the movie released between 1956-1957 that is rated TV-MA, directed by Dwayne Johnson, been successful in the awards circuit?"
+Named Entities: [1956-1957 (Year), TV-MA (MPAA Rating), Dwayne Johnson (Director), Successful in the awards circuit (Review)]
+
+2. Query: "Which movie from the year 2000 received the most nominations and awards?"
+Named Entities: [2000 (Year), nominations and awards (Review)]
+
+3. Query: "Can you tell me about any highly acclaimed movies from the past decade, particularly those that have won awards?"
+Named Entities: [past decade (Year), won awards (Review)]

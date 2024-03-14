@@ -1,0 +1,8 @@
+1. "What are the hours of operation for the Italian Restaurant on 5th street?"
+Named Entities: [Italian Restaurant (Restaurant Name), 5th street (Location), hours of operation (Hours)]
+
+2. "I'm looking for a Korean BBQ place with a 5-star rating."
+Named Entities: [Korean BBQ (Cuisine), 5-star (Rating)]
+
+3. "Can you recommend a seafood restaurant with a waterfront view and outdoor seating area?"
+Named Entities: [seafood restaurant (Cuisine), waterfront (Amenity), outdoor seating area (Amenity)]

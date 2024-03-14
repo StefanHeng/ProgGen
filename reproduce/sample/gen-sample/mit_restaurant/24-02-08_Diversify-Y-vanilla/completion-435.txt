@@ -1,0 +1,8 @@
+Query: "Can you recommend a well-respected Italian restaurant with outdoor seating?"
+Named Entities: [well-respected (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm looking for a well-respected seafood restaurant open past 10 pm."
+Named Entities: [well-respected (Rating), seafood (Cuisine), past 10 pm (Hours)]
+
+Query: "Where can I find a well-respected Mexican restaurant with a prix fixe menu?"
+Named Entities: [well-respected (Rating), Mexican (Cuisine), prix fixe menu (Price)]

@@ -1,0 +1,8 @@
+Query: "Where is a casual restaurant with live music in Locale that serves breakfast"
+Named Entities: [Locale (Location), casual (Amenity), live music (Amenity), breakfast (Cuisine)]
+
+Query: "I'm looking for a breakfast spot with live music near Locale that isn't too costly"
+Named Entities: [breakfast (Cuisine), live music (Amenity), Locale (Location), isn't too costly (Price)]
+
+Query: "Can you recommend a breakfast place with live music around here like The Toasted Table"
+Named Entities: [breakfast (Cuisine), live music (Amenity), The Toasted Table (Restaurant Name)]

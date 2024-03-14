@@ -1,0 +1,8 @@
+1. Query: "What movie features the song Old Time Rock and Roll?"
+Named Entities: [Old Time Rock and Roll (Song)]
+
+2. Query: "Can you give me an excerpt from the movie Vertigo?"
+Named Entities: [Excerpt, Vertigo (Title)]
+
+3. Query: "What is the 4.2-star rating family drama that was released yesterday?"
+Named Entities: [4.2-star rating (Viewers' Rating), yesterday (Year), family drama (Genre)]

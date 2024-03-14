@@ -1,0 +1,8 @@
+1. Text Span: "MPAA rating"
+   Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "G"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "fair-rated"
+   Label: (C). Wrong Type. The correct entity type is other.

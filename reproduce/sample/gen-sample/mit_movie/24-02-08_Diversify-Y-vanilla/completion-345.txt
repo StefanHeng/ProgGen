@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with the perfect balance of humor and drama?"
+Named Entities: [perfect balance of humor and drama (Review)]
+
+2. "Is there a movie suitable for children and adults that came out in the 1964s?"
+Named Entities: [suitable for children and adults (MPAA Rating), 1964s (Year)]
+
+3. "What genre is the movie S, and is it considered cheesy?"
+Named Entities: [S (Title), cheesy (Review)]

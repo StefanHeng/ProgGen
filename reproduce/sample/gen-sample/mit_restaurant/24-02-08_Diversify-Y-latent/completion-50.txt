@@ -1,0 +1,8 @@
+1. "I'm craving sushi, can you recommend a good sushi restaurant in [Tokyo]?"
+Named Entities: [sushi (Cuisine), [Tokyo] (Location)]
+
+2. "I need a reservation for a fine dining restaurant with a 5-star rating in [Tokyo]."
+Named Entities: [fine dining (Amenity), 5-star (Rating), [Tokyo] (Location)]
+
+3. "What are the operating hours for the Italian restaurant near my hotel in [Tokyo]?"
+Named Entities: [Italian (Cuisine), [Tokyo] (Location)]

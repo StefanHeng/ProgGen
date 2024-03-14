@@ -1,0 +1,8 @@
+1. Query: "What is the plot of the movie where Sandra Bullock plays a high school student like Cher Horowitz in the film Fame"
+   Named Entities: [Sandra Bullock (Actor), Cher Horowitz (Character), Fame (Title)]
+
+2. Query: "Is C-3PO in any of the Star Wars movies directed by George Lucas"
+   Named Entities: [C-3PO (Character), Star Wars (Title), George Lucas (Director)]
+
+3. Query: "Can you recommend a romantic comedy from the 1990s with Cher Horowitz and Sandra Bullock"
+   Named Entities: [romantic comedy (Genre), 1990s (Year), Cher Horowitz (Character), Sandra Bullock (Actor)]

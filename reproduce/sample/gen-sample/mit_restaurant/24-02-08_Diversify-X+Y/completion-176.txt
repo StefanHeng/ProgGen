@@ -1,0 +1,8 @@
+Query: "Can you recommend an exemplary fine dining restaurant with a vegan menu?"
+Named Entities: [exemplary (Rating), fine dining (Amenity), vegan (Cuisine)]
+
+Query: "What are the hours of operation for an exemplary fine dining French restaurant nearby?"
+Named Entities: [exemplary (Rating), fine dining (Amenity), French (Cuisine)]
+
+Query: "I'm looking for an exemplary fine dining seafood restaurant with outdoor seating and a view."
+Named Entities: [exemplary (Rating), fine dining (Amenity), seafood (Cuisine), outdoor seating (Amenity)]

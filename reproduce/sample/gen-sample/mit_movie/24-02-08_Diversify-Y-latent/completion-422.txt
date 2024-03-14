@@ -1,0 +1,8 @@
+1. "What movie has a 4/10 rating and stars Tom Hanks"
+Named Entities: [4/10 rating (Viewers' Rating), Tom Hanks (Actor)]
+
+2. "Can I get a sneak peek of the film featuring Aldo Raine"
+Named Entities: [sneak peek (Trailer), Aldo Raine (Character)]
+
+3. "Is there an NR movie by a famous director"
+Named Entities: [NR (MPAA Rating)]

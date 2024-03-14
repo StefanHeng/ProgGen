@@ -1,0 +1,8 @@
+Query: "Can you recommend a fast-casual food truck with vegan options?"
+Named Entities: [fast-casual (Amenity), food truck (Restaurant Name), vegan options (Cuisine)]
+
+Query: "I'm craving some street food, where can I find a food truck with a diverse menu?"
+Named Entities: [street food (Cuisine), food truck (Restaurant Name)]
+
+Query: "What food truck near me serves good quality fusion cuisine at a reasonable price?"
+Named Entities: [fusion cuisine (Cuisine), food truck (Restaurant Name), reasonable price (Price)]

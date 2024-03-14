@@ -1,0 +1,8 @@
+Query: "Can you show me the trailer for the movie Jai Ho?"
+Named Entities: [Jai Ho (Title), trailer (Trailer)]
+
+Query: "What is Brie Larson's highest rated movie?"
+Named Entities: [Brie Larson (Actor), highest rated (Viewers' Rating)]
+
+Query: "Is Adam Sandler in any NR rated comedies?"
+Named Entities: [Adam Sandler (Actor), NR (MPAA Rating), comedies (Genre)]

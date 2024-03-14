@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie similar to Bridget Jones's Diary that came out in the past year?"
+Named Entities: [Bridget Jones's Diary (Title)]
+
+2. Query: "Is there a Star Wars film with a terrible plot that I should avoid?"
+Named Entities: [Star Wars (Title), terrible (Review)]
+
+3. Query: "Did the movie Born to Run, featuring the song of the same name, receive positive viewers' ratings?"
+Named Entities: [Born to Run (Title), the song of the same name (Song), positive (Viewers' Rating)]

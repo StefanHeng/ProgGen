@@ -1,0 +1,8 @@
+1. Text Span: "nominations"
+   Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Text Span: "One-star review"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "perfectly cast"
+   Label: (A). Correct Entity Annotation.

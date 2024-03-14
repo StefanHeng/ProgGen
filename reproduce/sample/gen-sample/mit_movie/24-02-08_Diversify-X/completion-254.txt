@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the behind-the-scenes details of the movie Jaws, directed by Steven Spielberg?"
+   Named Entities: [Jaws (Title), Steven Spielberg (Director), behind-the-scenes details (Plot)]
+
+2. Query: "I'm curious about the making-of process of The Godfather. Can you provide some insights?"
+   Named Entities: [The Godfather (Title), making-of process (Plot)]
+
+3. Query: "What's the story behind the making of the movie Apocalypse Now, directed by Francis Ford Coppola?"
+   Named Entities: [Apocalypse Now (Title), Francis Ford Coppola (Director), making-of process (Plot)]

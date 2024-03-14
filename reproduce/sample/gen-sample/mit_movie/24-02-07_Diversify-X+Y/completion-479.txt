@@ -1,0 +1,8 @@
+1. "Can you tell me the names of all the Coen Brothers movies released in 2020?"
+Named Entities: [Coen Brothers (Director), 2020 (Year)]
+
+2. "Who played Hermione Granger in the movie adaptation of the book series?"
+Named Entities: [Hermione Granger (Character)]
+
+3. "Are there any G or GP-rated movies featuring Beyoncé in a leading role?"
+Named Entities: [Beyoncé (Actor), G (MPAA Rating), GP (MPAA Rating)]

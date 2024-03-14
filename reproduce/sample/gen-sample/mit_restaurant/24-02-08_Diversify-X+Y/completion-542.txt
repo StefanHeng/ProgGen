@@ -1,0 +1,8 @@
+1. "Can you recommend a clean food truck with falafel in a mid-range price range?"
+Named Entities: [clean (Amenity), food truck (Amenity), falafel (Dish), mid-range (Price)]
+
+2. "I'm looking for a food truck with clean restrooms serving mid-range priced falafel dishes."
+Named Entities: [clean restrooms (Amenity), food truck (Amenity), mid-range (Price), falafel (Dish)]
+
+3. "Where can I find a mid-range food truck with falafel and clean restrooms nearby?"
+Named Entities: [mid-range (Price), food truck (Amenity), falafel (Dish), clean restrooms (Amenity)]

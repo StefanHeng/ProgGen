@@ -1,0 +1,8 @@
+Query: "Are there any restaurants nearby that offer late-night dining and free parking"
+Named Entities: [late-night dining (Amenity), nearby (Location), free parking (Amenity)]
+
+Query: "I'm looking for a place with late-night dining and free parking, maybe American cuisine"
+Named Entities: [late-night dining (Amenity), free parking (Amenity), American cuisine (Cuisine)]
+
+Query: "Where can I find a restaurant with late-night dining and free parking, and maybe a good rating"
+Named Entities: [late-night dining (Amenity), free parking (Amenity), good rating (Rating)]

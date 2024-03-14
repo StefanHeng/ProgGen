@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly place with outdoor seating and vegan options for lunch?"
+Named Entities: [budget-friendly (Price), outdoor seating (Amenity), vegan (Cuisine), lunch (Meal Category)]
+
+2. "I'm looking for a lunch spot with a good salad bar, open until 3 pm."
+Named Entities: [salad bar (Dish), open until 3 pm (Hours), lunch (Meal Category)]
+
+3. "Where can I grab a quick bite for lunch that serves good Korean food, but not too expensive?"
+Named Entities: [quick bite (Amenity), Korean (Cuisine), not too expensive (Price), lunch (Meal Category)]

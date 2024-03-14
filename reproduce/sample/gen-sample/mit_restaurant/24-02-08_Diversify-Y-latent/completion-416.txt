@@ -1,0 +1,8 @@
+Query: "I'm craving some breakfast tacos, where can I find a place that serves them?"
+Named Entities: [Breakfast tacos (Dish)]
+
+Query: "I want to try a new cuisine, do you know of any Ethiopian restaurants nearby?"
+Named Entities: [Ethiopian (Cuisine), nearby (Location)]
+
+Query: "I need to book a table for 4 at a restaurant with a 4-star rating, can you help me with that?"
+Named Entities: [4 (Rating)]

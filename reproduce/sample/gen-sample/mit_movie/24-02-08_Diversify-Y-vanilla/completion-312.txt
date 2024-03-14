@@ -1,0 +1,8 @@
+1. Query: "What is the highest-rated comedy movie starring Dwayne Johnson?"
+Named Entities: [highest-rated (Viewers' Rating), comedy (Genre), Dwayne Johnson (Actor)]
+
+2. Query: "Show me the trailer for the latest action movie featuring Dwayne Johnson"
+Named Entities: [trailer (Trailer), action (Genre), Dwayne Johnson (Actor)]
+
+3. Query: "Who directed the adventure film with Dwayne Johnson and what year was it released?"
+Named Entities: [directed (Director), adventure (Genre), Dwayne Johnson (Actor), year (Year)]

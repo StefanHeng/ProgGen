@@ -1,0 +1,8 @@
+Query: "Is the movie Bullitt, starring Steve McQueen, based on a true crime story with authentic dialogue?"
+Named Entities: [Bullitt (Title), Steve McQueen (Actor), True crime (Genre), Authentic dialogue (Plot)]
+
+Query: "Show me a film from the 1970s with a view rating of F"
+Named Entities: [1970s (Year), F (Viewers' Rating)]
+
+Query: "Can you recommend a movie that features the song Don't You (Forget About Me)?" 
+Named Entities: [Don't You (Forget About Me) (Song)]

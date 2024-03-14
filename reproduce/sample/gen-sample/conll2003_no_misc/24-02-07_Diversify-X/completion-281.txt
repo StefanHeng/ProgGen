@@ -1,0 +1,8 @@
+Sentence: "Tom Brady signs two-year contract with Tampa Bay Buccaneers." 
+Named Entities: [Tom Brady (person), Tampa Bay Buccaneers (organization)]
+
+Sentence: "Serena Williams advances to quarterfinals of Wimbledon."
+Named Entities: [Serena Williams (person), Wimbledon (location)]
+
+Sentence: "Manchester City defeats Liverpool in Premier League showdown."
+Named Entities: [Manchester City (organization), Liverpool (location), Premier League (organization)]

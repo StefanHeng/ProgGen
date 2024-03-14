@@ -1,0 +1,8 @@
+1. "Can you recommend a barbecue restaurant with a good rating in the downtown area?"
+   Named Entities: [barbecue (Cuisine), good (Rating), downtown area (Location)]
+
+2. "What are the hours of operation for the nearest barbecue joint?"
+   Named Entities: [barbecue (Cuisine), nearest (Location), hours of operation (Hours)]
+
+3. "I'm looking for a reasonably priced barbecue spot with outdoor seating, do you have any suggestions?"
+   Named Entities: [reasonably priced (Price), barbecue (Cuisine), outdoor seating (Amenity)]

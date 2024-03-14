@@ -1,0 +1,8 @@
+1. "Can you recommend a top-rated E-rated zombie outbreak movie from the 2000s?"
+Named Entities: [E-rated (MPAA Rating), zombie outbreak (Plot), 2000s (Year)]
+
+2. "I'm looking for a movie featuring the song 'My Heart Will Go On' from the Titanic soundtrack, can you find it for me?"
+Named Entities: [My Heart Will Go On (Song), Titanic (Title)]
+
+3. "Who directed the movie Titanic and what genre does it belong to?"
+Named Entities: [Titanic (Title), James Cameron (Director), Romance (Genre)]

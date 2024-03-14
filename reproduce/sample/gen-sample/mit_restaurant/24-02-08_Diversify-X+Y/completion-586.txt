@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants for late-night dining that serve risotto"
+Named Entities: [late-night dining (Amenity), risotto (Dish)]
+
+Query: "What are some restaurants open for late-night dining with a good risotto dish"
+Named Entities: [late-night dining (Amenity), risotto (Dish)]
+
+Query: "I'm looking for a place with a diverse late-night dining menu, particularly with risotto"
+Named Entities: [late-night dining (Amenity), risotto (Dish)]

@@ -1,0 +1,8 @@
+1. Text Span: "Uttar Pradesh"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "2019"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Soviet Union"
+Label: (A). The span is a named entity of type location

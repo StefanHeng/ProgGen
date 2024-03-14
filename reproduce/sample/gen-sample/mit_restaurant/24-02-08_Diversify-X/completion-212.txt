@@ -1,0 +1,8 @@
+Query: "can you recommend a buffet restaurant with special discounts for dinner"
+Named Entities: [buffet (Cuisine), special discounts (Amenity), dinner (Hours)]
+
+Query: "which restaurant has a buffet with discounts for lunch"
+Named Entities: [buffet (Cuisine), discounts (Amenity), lunch (Hours)]
+
+Query: "I'm looking for a buffet place with special offers for brunch"
+Named Entities: [buffet (Cuisine), special offers (Amenity), brunch (Hours)]

@@ -1,0 +1,149 @@
+1. "Apple announces new iPhone 13 launch date."
+Named Entities: [Apple (organization)]
+
+2. "Prime Minister Johnson meets with French President Macron."
+Named Entities: [Johnson (person), Macron (person)]
+
+3. "Hurricane hits Florida, causing widespread damage."
+Named Entities: [Florida (location)]
+
+4. "Amazon faces lawsuit over worker conditions."
+Named Entities: [Amazon (organization)]
+
+5. "Elon Musk plans to visit SpaceX headquarters."
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+6. "New York City imposes vaccine mandate for indoor activities."
+Named Entities: [New York City (location)]
+
+7. "President Biden unveils new infrastructure plan."
+Named Entities: [Biden (person)]
+
+8. "COVID-19 cases surge in California."
+Named Entities: [California (location)]
+
+9. "Facebook to launch new virtual reality headset."
+Named Entities: [Facebook (organization)]
+
+10. "Tiger Woods returns to golf after injury."
+Named Entities: [Tiger Woods (person)]
+
+11. "United Nations adopts resolution on climate change."
+Named Entities: [United Nations (organization)]
+
+12. "Wildfires continue to ravage Australian countryside."
+Named Entities: [Australian (location)]
+
+13. "CEO of Microsoft steps down after 20 years."
+Named Entities: [Microsoft (organization)]
+
+14. "German Chancellor Merkel wins reelection."
+Named Entities: [Merkel (person)]
+
+15. "Tokyo Olympics conclude after two-week event."
+Named Entities: [Tokyo (location)]
+
+16. "Tesla announces record-breaking quarterly profits."
+Named Entities: [Tesla (organization)]
+
+17. "Los Angeles Lakers sign new star player."
+Named Entities: [Los Angeles (location)]
+
+18. "Russian President Putin meets with Chinese leader Xi."
+Named Entities: [Putin (person), Xi (person)]
+
+19. "NASA launches new rover to explore Mars."
+Named Entities: [NASA (organization), Mars (location)]
+
+20. "Pfizer seeks approval for COVID-19 vaccine booster."
+Named Entities: [Pfizer (organization)]
+
+21. "London experiences heavy flooding after rainstorm."
+Named Entities: [London (location)]
+
+22. "Goldman Sachs CEO testifies before Congress."
+Named Entities: [Goldman Sachs (organization)]
+
+23. "Syrian refugees stranded at border."
+Named Entities: [Syrian (location)]
+
+24. "Famous chef opens new restaurant in Paris."
+Named Entities: [Paris (location)]
+
+25. "Federal Reserve announces interest rate hike."
+Named Entities: [Federal Reserve (organization)]
+
+26. "Canadian Prime Minister Trudeau faces backlash over pipeline decision."
+Named Entities: [Trudeau (person), Canadian (location)]
+
+27. "Oil prices soar amid global supply chain issues."
+Named Entities: []
+
+28. "Supreme Court rules in favor of LGBTQ+ rights."
+Named Entities: [Supreme Court (organization)]
+
+29. "Mumbai hit by massive power outage."
+Named Entities: [Mumbai (location)]
+
+30. "Anti-government protests erupt in Hong Kong."
+Named Entities: [Hong Kong (location)]
+
+31. "CEO of Amazon donates millions to charity."
+Named Entities: [Amazon (organization)]
+
+32. "Violent clashes between police and protesters in Barcelona."
+Named Entities: [Barcelona (location)]
+
+33. "New study shows link between air pollution and health problems."
+Named Entities: []
+
+34. "United Nations peacekeepers deployed to conflict zone in Africa."
+Named Entities: [United Nations (organization), Africa (location)]
+
+35. "Egyptian archaeologists discover ancient tombs."
+Named Entities: [Egyptian (location)]
+
+36. "Google unveils new AI technology for healthcare."
+Named Entities: [Google (organization)]
+
+37. "FBI warns of potential cyberattack on U.S. infrastructure."
+Named Entities: [FBI (organization), U.S. (location)]
+
+38. "Italy imposes new COVID-19 restrictions."
+Named Entities: [Italy (location)]
+
+39. "Starbucks announces plan to phase out plastic straws."
+Named Entities: [Starbucks (organization)]
+
+40. "Violence erupts in Ukraine-Russia border region."
+Named Entities: [Ukraine (location), Russia (location)]
+
+41. "Japan to host 2021 Summer Olympics."
+Named Entities: [Japan (location)]
+
+42. "New study finds link between sugary drinks and obesity."
+Named Entities: []
+
+43. "Hollywood actress files lawsuit against tabloid magazine."
+Named Entities: [Hollywood (location)]
+
+44. "U.N. Secretary-General calls for global ceasefire."
+Named Entities: [U.N. Secretary-General (organization)]
+
+45. "Thousands evacuated as volcano erupts in Indonesia."
+Named Entities: [Indonesia (location)]
+
+46. "Twitter suspends accounts linked to misinformation."
+Named Entities: [Twitter (organization)]
+
+47. "Germany announces new climate action plan."
+Named Entities: [Germany (location)]
+
+48. "Warren Buffett donates billions to charity."
+Named Entities: [Warren Buffett (person)]
+
+49. "South Korea reports record high daily COVID-19 cases."
+Named Entities: [South Korea (location)]
+
+50. "Paris Agreement anniversary marked with climate rallies worldwide."
+Named Entities: [Paris Agreement (organization)]

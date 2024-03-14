@@ -1,0 +1,8 @@
+1. "Tell me the movie that won the most Oscars in the 90s"
+   Named Entities: [Oscars (Award), 90s (Year)]
+
+2. "I need to know which film was nominated for Best Picture, hurry up"
+   Named Entities: [Best Picture (Award)]
+
+3. "What movie was the winner of the Cannes Film Festival in the past 5 years"
+   Named Entities: [Cannes Film Festival (Award), past 5 years (Year)]

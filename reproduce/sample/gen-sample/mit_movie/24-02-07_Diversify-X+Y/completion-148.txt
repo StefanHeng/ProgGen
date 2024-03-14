@@ -1,0 +1,8 @@
+1. Query: "I'm looking for a movie trailer that showcases survival in a unique way"
+Named Entities: [survival (Plot)]
+
+2. Query: "Show me a teaser for a film directed by Todd Haynes that will blow me away"
+Named Entities: [Todd Haynes (Director)]
+
+3. Query: "Hello, I need to see a movie trailer featuring Drax that will leave me speechless"
+Named Entities: [Drax (Character)]

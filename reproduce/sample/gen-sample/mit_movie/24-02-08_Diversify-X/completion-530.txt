@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the movie 'The Sound of Music' and any interesting behind-the-scenes stories about its filming?"
+Named Entities: ['The Sound of Music' (Title), director (Director), behind-the-scenes stories (Plot)]
+
+2. Query: "I'm interested in finding a classic movie from the 1950s known for its breathtaking scenery. Do you have any recommendations?"
+Named Entities: [1950s (Year), breathtaking scenery (Plot)]
+
+3. Query: "What's the name of the film that won the Academy Award for Best Picture in the 1960s, and can you share any trivia about the filming process?"
+Named Entities: [Academy Award for Best Picture (Award), 1960s (Year), trivia (Plot)]

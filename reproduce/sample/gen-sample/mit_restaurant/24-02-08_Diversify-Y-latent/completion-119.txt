@@ -1,0 +1,8 @@
+1. "Can you recommend a highly recommended brunch restaurant in the area that serves delicious cinnamon rolls?"
+Named Entities: [Highly recommended brunch restaurants (Rating), cinnamon rolls (Dish)]
+
+2. "I'm craving some cinnamon rolls, can you direct me to the nearest place that serves them?"
+Named Entities: [nearest (Location), cinnamon rolls (Dish)]
+
+3. "I need to find a place for breakfast that offers cinnamon rolls and is open before 9 am."
+Named Entities: [breakfast (Cuisine), cinnamon rolls (Dish), before 9 am (Hours)]

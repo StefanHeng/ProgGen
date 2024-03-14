@@ -1,0 +1,8 @@
+1. "Can you recommend a suspense movie suitable for all ages?"
+Named Entities: [Suspense (Genre), All Ages (MPAA Rating)]
+
+2. "I want to watch a movie similar to Parasite, can you suggest any?"
+Named Entities: [Parasite (Title)]
+
+3. "Which movie from the 90s has the song 'My Heart Will Go On' and is highly rated by viewers?"
+Named Entities: [My Heart Will Go On (Song), 90s (Year), highly rated by viewers (Viewers' Rating)]

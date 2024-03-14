@@ -1,0 +1,8 @@
+Query: "Where can I find a nice breakfast spot at Sunrise Diner?"
+Named Entities: [breakfast (Amenity), Sunrise Diner (Restaurant Name)]
+
+Query: "What time does Beachside Breakfast open for breakfast?"
+Named Entities: [breakfast (Amenity), Beachside Breakfast (Restaurant Name)]
+
+Query: "I'm craving some pancakes, is there a place nearby that serves breakfast besides Sunrise Diner?"
+Named Entities: [pancakes (Dish), breakfast (Amenity), nearby (Location), Sunrise Diner (Restaurant Name)]

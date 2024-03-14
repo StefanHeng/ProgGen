@@ -1,0 +1,8 @@
+1. "Can you recommend a rustic restaurant with a good lunch menu in the downtown area?"
+Named Entities: [rustic (Amenity), lunch (Amenity), downtown area (Location)]
+
+2. "I'm in the mood for a rustic lunch spot with outdoor seating, any suggestions?"
+Named Entities: [rustic (Amenity), lunch (Amenity), outdoor seating (Amenity)]
+
+3. "Is there a charming place for a rustic lunch nearby with a reasonable price range?"
+Named Entities: [rustic (Amenity), lunch (Amenity), reasonable price range (Price)]

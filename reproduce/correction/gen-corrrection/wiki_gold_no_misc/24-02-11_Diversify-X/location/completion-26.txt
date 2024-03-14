@@ -1,0 +1,8 @@
+1. Text Span: "Pentagon"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "world"
+Label: (D). The span is not a named entity
+
+3. Text Span: "Mars"
+Label: (A). The span is a named entity of type location

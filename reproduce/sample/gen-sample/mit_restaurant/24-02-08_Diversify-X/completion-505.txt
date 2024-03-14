@@ -1,0 +1,8 @@
+Query: "where is the nearest food truck serving tacos"
+Named Entities: [nearest (Location), food truck (Amenity), tacos (Dish)]
+
+Query: "can you recommend a highly-rated food truck for late-night dining"
+Named Entities: [highly-rated (Rating), food truck (Amenity), late-night (Hours)]
+
+Query: "which food truck offers vegetarian options within 5 miles of downtown"
+Named Entities: [vegetarian (Cuisine), within 5 miles (Location), downtown (Location), food truck (Amenity)]

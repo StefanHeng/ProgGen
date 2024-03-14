@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants with Syrian cuisine for dinner tonight?"
+   Named Entities: [Syrian (Cuisine), dinner tonight (Hours)]
+
+2. "I'm looking for a restaurant with a patio for outdoor dining in the city center."
+   Named Entities: [patio (Amenity), outdoor dining (Amenity), city center (Location)]
+
+3. "What's a highly-rated seafood restaurant with reasonable prices near the beach?"
+   Named Entities: [highly-rated (Rating), seafood (Cuisine), reasonable prices (Price), near the beach (Location)]

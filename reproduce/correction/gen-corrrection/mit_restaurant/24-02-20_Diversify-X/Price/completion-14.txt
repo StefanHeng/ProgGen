@@ -1,0 +1,11 @@
+1. Query: "I'm craving some fast food, where can I find a {{mid-range}} priced burger joint?"
+Text Span: "mid-range"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Query: "Can you recommend a {{high-end}} restaurant with a buffet for a special occasion?"
+Text Span: "high-end"
+Label: (C). Wrong Type. The correct entity type is Amenity.
+
+3. Query: "I'm looking for a {{budget-friendly}} sushi place with a high rating for a quick lunch."
+Text Span: "budget-friendly"
+Label: (C). Wrong Type. The correct entity type is Amenity.

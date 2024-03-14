@@ -1,0 +1,8 @@
+Query: "Could you tell me about the movie with NR rating featuring a powerhouse performance by the leading actress?"
+Named Entities: [NR (MPAA Rating), powerhouse performance (Review), leading actress (Actor)]
+
+Query: "Show me a movie with The Beatles song in it and powerhouse performances by the cast."
+Named Entities: [The Beatles (Song), powerhouse performances (Review)]
+
+Query: "I'm looking for a film with a leading actress's strong performance and a powerful behind-the-scenes crew."
+Named Entities: [leading actress's strong performance (Review)]

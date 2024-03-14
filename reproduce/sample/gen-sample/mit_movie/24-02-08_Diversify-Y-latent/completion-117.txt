@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with cinematic musical arrangements?"
+Named Entities: [Cinematic musical arrangements (Genre)]
+
+2. "What environmental activism film did Guillermo del Toro direct?"
+Named Entities: [environmental activism (Genre), Guillermo del Toro (Director)]
+
+3. "Is 'E' a movie with catchy songs like 'Stayin' Alive'?"
+Named Entities: ['E' (Title), Stayin' Alive (Song)]

@@ -1,0 +1,8 @@
+1. Query: "Hey, what's a heart-pounding action movie from the 1980s that I should watch?"
+   Named Entities: [heart-pounding (Genre), 1980s (Year)]
+
+2. Query: "Do you know any time loop movies that are not too serious, like something Sofia Coppola would direct?"
+   Named Entities: [time loop (Plot), Sofia Coppola (Director), not too serious (Humorous)]
+
+3. Query: "Hey, can you recommend a heart-pounding thriller directed by Joss Whedon?"
+   Named Entities: [heart-pounding (Genre), Joss Whedon (Director)]

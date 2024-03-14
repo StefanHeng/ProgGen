@@ -1,0 +1,8 @@
+1. "Who directed the movie 8 Mile?"
+Named Entities: [8 Mile (Title)]
+
+2. "Can you recommend a movie with groundbreaking cinematography?"
+Named Entities: [groundbreaking cinematography (Review)]
+
+3. "Is Wolverine in any movies directed by James Mangold?"
+Named Entities: [Wolverine (Character), James Mangold (Director)]

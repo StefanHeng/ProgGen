@@ -1,0 +1,8 @@
+1. Text Span: "E"
+Label: (D). Not a Named Entity.
+
+2. Text Span: "Tarzan"
+Label: (A). The span is a named entity of type title
+
+3. Text Span: "A Clockwork Orange"
+Label: (A). The span is a named entity of type title

@@ -1,0 +1,10 @@
+Synthetic Spoken Queries:
+
+1. "What's the best place to get Italian food with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+2. "I'm craving pizza, is there a pizzeria nearby with a rating of 4 stars or higher?"
+Named Entities: [pizza (Dish), 4 stars or higher (Rating)]
+
+3. "I'm looking for a restaurant that serves brunch on weekends and is located in the downtown area."
+Named Entities: [brunch (Amenity), weekends (Hours), downtown area (Location)]

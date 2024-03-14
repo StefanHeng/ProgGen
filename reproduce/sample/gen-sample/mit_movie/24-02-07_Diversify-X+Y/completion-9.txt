@@ -1,0 +1,8 @@
+1. "Can you show me a teaser for the new science fiction movie with a solid performance by the lead actor?"
+Named Entities: [teaser (Trailer), science fiction (Genre), solid performance (Review)]
+
+2. "I'm looking for a movie trailer for a science fiction film that has received solid performance reviews. Can you help?"
+Named Entities: [trailer (Trailer), science fiction (Genre), solid performance (Review)]
+
+3. "Could you recommend a science fiction movie with a solid performance from the main actor and show me a clip from the trailer?"
+Named Entities: [science fiction (Genre), solid performance (Review), clip (Trailer)]

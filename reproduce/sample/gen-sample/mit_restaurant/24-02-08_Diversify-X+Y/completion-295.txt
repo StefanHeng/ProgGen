@@ -1,0 +1,8 @@
+1. "Can you recommend a Korean restaurant with good ratings for dinner on Thursday evening?"
+Named Entities: [Korean (Cuisine), good (Rating), Thursday (Hours)]
+
+2. "Where can I find a place serving Ramen dishes for dinner tonight?"
+Named Entities: [Ramen (Dish), tonight (Hours)]
+
+3. "What's the best Korean restaurant in the area for dinner under $20 per plate?"
+Named Entities: [Korean (Cuisine), under $20 per plate (Price)]

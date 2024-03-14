@@ -1,0 +1,8 @@
+1. Text Span: "fantastic"
+Label: (C). The span is a named entity but the category is not rating. Entity Type: other
+
+2. Text Span: "good"
+Label: (C). The span is a named entity but the category is not rating. Entity Type: other
+
+3. Text Span: "good rating"
+Label: (A). The span is a named entity of type rating

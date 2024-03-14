@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a nice ambiance and outdoor seating for dinner?"
+Named Entities: [nice ambiance (Amenity), outdoor seating (Amenity), dinner (Hours)]
+
+2. "I'm craving some sushi, can you suggest a place with good ratings and reasonable prices for dinner?"
+Named Entities: [sushi (Cuisine), good ratings (Rating), reasonable prices (Price), dinner (Hours)]
+
+3. "Please find a steakhouse with a cozy atmosphere and a location near the city center for dinner tonight."
+Named Entities: [steakhouse (Cuisine), cozy atmosphere (Amenity), city center (Location), dinner (Hours)]

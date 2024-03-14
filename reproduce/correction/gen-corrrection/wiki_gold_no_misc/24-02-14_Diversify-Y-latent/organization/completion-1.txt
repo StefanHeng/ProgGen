@@ -1,0 +1,11 @@
+1. Sentence: "{{The American Psychological Association}} headquarters in Washington, D.C. publishes the Diagnostic and Statistical Manual of Mental Disorders."
+Text Span: "The American Psychological Association"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "{{The Last Supper}}, a mural by Leonardo da Vinci, is located in the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy."
+Text Span: "The Last Supper"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: 'Geertz's theoretical framework, focused on the concepts of "{{thick description}}" and "interpretive anthropology", has had a lasting impact on the field of anthropology.'
+Text Span: "thick description"
+Label: (C). The span is a named entity but the category is not organization. The correct entity type is other.

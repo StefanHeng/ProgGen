@@ -1,0 +1,8 @@
+Query: "What are the hours for Olive Garden?"
+Named Entities: [Olive Garden (Restaurant Name), hours (Hours)]
+
+Query: "I'm craving sushi, can you recommend a good sushi restaurant?"
+Named Entities: [sushi (Cuisine), good (Rating), sushi restaurant (Restaurant Name)]
+
+Query: "Where can I find a high-end steakhouse in the downtown area?"
+Named Entities: [high-end (Price), steakhouse (Cuisine), downtown area (Location)]

@@ -1,0 +1,11 @@
+1. Sentence: '{{Malcolm McLean}}, an American businessman, is widely recognized as the "father of containerization" for his pioneering work in developing intermodal shipping containers.'
+Text Span: "Malcolm McLean"
+Label: (A). The span is a named entity of type person
+
+2. Sentence: "{{Persephone}} was a key figure in ancient Greek mythology and was associated with the underworld and the changing of seasons."
+Text Span: "Persephone"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.
+
+3. Sentence: "{{Oprah Winfrey}} founded her own production company, Harpo Productions, and also launched the Oprah Winfrey Network (OWN) in 2011."
+Text Span: "Oprah Winfrey"
+Label: (A). The span is a named entity of type person

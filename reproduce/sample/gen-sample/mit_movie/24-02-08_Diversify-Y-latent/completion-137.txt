@@ -1,0 +1,8 @@
+1. "Can you show me the highlight reel of the new James Cameron movie?"
+   Named Entities: [highlight reel (Trailer), James Cameron (Director)]
+
+2. "Which movie features the song 'Flashdance... What a Feeling'?"
+   Named Entities: [Flashdance... What a Feeling (Song)]
+
+3. "Who directed the movie The Princess Bride starring Woody Allen?"
+   Named Entities: [The Princess Bride (Title), Woody Allen (Actor)]

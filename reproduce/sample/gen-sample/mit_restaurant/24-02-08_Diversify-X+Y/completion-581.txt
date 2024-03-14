@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with upscale price range for a special occasion?"
+Named Entities: [fine dining (Amenity), upscale (Price)]
+
+2. "What are the top-rated upscale restaurants offering fine dining experience in the area?"
+Named Entities: [top-rated (Rating), upscale (Price), fine dining (Amenity)]
+
+3. "I'm looking for a high-end restaurant with a diverse menu for a formal dinner event."
+Named Entities: [high-end (Price), diverse menu (Amenity), formal dinner event (Amenity)]

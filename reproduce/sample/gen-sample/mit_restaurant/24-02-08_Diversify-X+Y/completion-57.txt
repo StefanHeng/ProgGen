@@ -1,0 +1,8 @@
+1. "Where can I find a fast food restaurant with a play area for kids?"
+Named Entities: [fast food (Cuisine), play area (Amenity)]
+
+2. "Do you know any fast food places with happy hour specials?"
+Named Entities: [fast food (Cuisine), happy hour specials (Amenity)]
+
+3. "I'm craving fast food, but I don't want to go to a restaurant with bad reviews."
+Named Entities: [fast food (Cuisine), bad (Rating)]

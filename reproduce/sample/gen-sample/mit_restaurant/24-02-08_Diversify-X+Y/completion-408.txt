@@ -1,0 +1,8 @@
+Query: "I'm craving some sweets, where can I find a budget-friendly gourmet buffet restaurant"
+Named Entities: [sweets (Dish), budget-friendly (Price), gourmet buffet (Amenity)]
+
+Query: "which restaurant in the area offers a budget-friendly gourmet buffet for dinner"
+Named Entities: [budget-friendly (Price), gourmet buffet (Amenity), dinner (Hours)]
+
+Query: "can you recommend a buffet restaurant with gourmet options that won't break the bank"
+Named Entities: [buffet (Amenity), gourmet (Cuisine), budget-friendly (Price)]

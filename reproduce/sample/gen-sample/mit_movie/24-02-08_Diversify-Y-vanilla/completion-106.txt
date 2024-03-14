@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with Kerry Washington in a leading role?"
+   Named Entities: [Kerry Washington (Actor)]
+   
+2. Query: "What famous book was turned into a movie starring Angelina Jolie?"
+   Named Entities: [Angelina Jolie (Actor)]
+
+3. Query: "Show me a Trailer excerpt for a popular Martial Arts film"
+   Named Entities: [Martial Arts (Genre), Trailer excerpt (Trailer)]

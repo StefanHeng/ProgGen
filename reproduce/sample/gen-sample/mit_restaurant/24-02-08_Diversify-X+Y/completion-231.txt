@@ -1,0 +1,8 @@
+Query: "Which quirky and eccentric restaurant serves the best bagels for brunch"
+Named Entities: [Bagel Bistro (Restaurant Name), brunch (Amenity), quirky and eccentric (Amenity), bagels (Dish)]
+
+Query: "I'm craving a unique brunch experience, can you suggest a restaurant with a quirky ambience"
+Named Entities: [brunch (Amenity), quirky ambience (Amenity)]
+
+Query: "Where can I find a fun and offbeat place for brunch, like The Brunch Barn"
+Named Entities: [The Brunch Barn (Restaurant Name), brunch (Amenity), fun (Amenity), offbeat (Amenity)]

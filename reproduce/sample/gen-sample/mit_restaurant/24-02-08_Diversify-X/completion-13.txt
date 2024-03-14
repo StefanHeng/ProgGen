@@ -1,0 +1,8 @@
+Query: "Where is the closest place for a brunch with outdoor seating"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), closest (Location)]
+
+Query: "Do you know of any French restaurant with brunch options before ten in the morning"
+Named Entities: [French (Cuisine), brunch (Amenity), before ten in the morning (Hours)]
+
+Query: "Can you recommend a brunch spot with bottomless mimosas"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity)]

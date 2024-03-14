@@ -1,0 +1,8 @@
+Query: "can you recommend a food truck with vegan options nearby"
+Named Entities: [food truck (Amenity), vegan options (Cuisine), nearby (Location)]
+
+Query: "what are the operating hours of the taco food truck in the downtown area"
+Named Entities: [taco food truck (Restaurant Name), downtown area (Location), operating hours (Hours)]
+
+Query: "show me the highest-rated food truck with affordable prices for dinner"
+Named Entities: [highest-rated (Rating), food truck (Amenity), affordable prices (Price), dinner (Amenity)]

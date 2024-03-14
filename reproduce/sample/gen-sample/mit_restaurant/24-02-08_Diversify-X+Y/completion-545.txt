@@ -1,0 +1,8 @@
+Query: "Can you recommend any top-rated late-night eateries in this area?"
+Named Entities: [top-rated (Rating), late-night (Amenity), area (Location)]
+
+Query: "I'm looking for some moonlit munchies. Is there a fancy restaurant nearby?"
+Named Entities: [moonlit munchies (Amenity), fancy (Price), nearby (Location)]
+
+Query: "Where can I find a high-end restaurant for late-night dining in close proximity?"
+Named Entities: [high-end (Price), late-night dining (Amenity), close proximity (Location)]

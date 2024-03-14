@@ -1,0 +1,8 @@
+1. Query: "I need to find a restaurant with gluten-free options for late-night dining"
+   Named Entities: [gluten-free (Cuisine), late-night dining (Amenity)]
+
+2. Query: "Can you recommend a place with a good rating that serves gluten-free food late at night?"
+   Named Entities: [good rating (Rating), gluten-free (Cuisine), late-night dining (Amenity)]
+
+3. Query: "Where is the nearest restaurant with a gluten-free menu that's open late?"
+   Named Entities: [gluten-free (Cuisine), open late (Hours), nearest (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "brunch"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "late-night dining"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "30-year-old female stay-at-home parent"
+Label: (C). Wrong Type. The correct entity type is other.

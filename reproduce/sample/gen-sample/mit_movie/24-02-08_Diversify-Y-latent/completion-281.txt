@@ -1,0 +1,8 @@
+1. Query: "What is the genre of the movie directed by Pedro Almodóvar, starring Daniel Radcliffe and Kate Winslet?"
+Named Entities: [Pedro Almodóvar (Director), Daniel Radcliffe (Actor), Kate Winslet (Actor)]
+
+2. Query: "Is the movie Footloose a must watch for everyone?"
+Named Entities: [Footloose (Title), must watch (Viewers' Rating)]
+
+3. Query: "Can you recommend a film with the song My Way in it?"
+Named Entities: [My Way (Song)]

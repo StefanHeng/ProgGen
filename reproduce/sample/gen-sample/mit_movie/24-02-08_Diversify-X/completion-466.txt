@@ -1,0 +1,8 @@
+Query: "Yo, where can I catch the latest Avengers flick?"
+Named Entities: [Avengers (Title)]
+
+Query: "Hey, is there a dope action movie playing at the theaters this weekend?"
+Named Entities: [action (Genre)]
+
+Query: "Yo, I'm tryna see a scary movie tonight, what's playing?"
+Named Entities: [scary (Genre)]

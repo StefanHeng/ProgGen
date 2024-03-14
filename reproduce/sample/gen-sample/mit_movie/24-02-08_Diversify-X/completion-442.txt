@@ -1,0 +1,8 @@
+1. Query: "what are some classic adventure movies like Indiana Jones"
+Named Entities: [classic adventure (Genre), Indiana Jones (Title)]
+
+2. Query: "can you recommend a romantic comedy similar to When Harry Met Sally"
+Named Entities: [romantic comedy (Genre), When Harry Met Sally (Title)]
+
+3. Query: "which crime thriller movies are worth watching"
+Named Entities: [crime thriller (Genre)]

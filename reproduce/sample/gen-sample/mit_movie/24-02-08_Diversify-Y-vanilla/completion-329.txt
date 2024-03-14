@@ -1,0 +1,8 @@
+1. "I want to watch a movie with a mind-bending plot."
+Named Entities: [mind-bending plot (Plot)]
+
+2. "What is the viewers' rating for the film directed by Niki Caro?"
+Named Entities: [Niki Caro (Director)]
+
+3. "Show me a movie with a 4.6 stars rating and directed by Karyn Kusama."
+Named Entities: [4.6 stars (Viewers' Rating), Karyn Kusama (Director)]

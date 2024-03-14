@@ -1,0 +1,8 @@
+1. Query: "Can I watch a trailer for the movie starring Rooney Mara with a Gothic theme and a decent rating"
+Named Entities: [Rooney Mara (Actor), Gothic (Genre), Decent rating (Viewers' Rating), trailer (Trailer)]
+
+2. Query: "Is there a movie with an NC-17 rating and a TV-G rating directed by Martin Scorsese"
+Named Entities: [NC-17 (MPAA Rating), TV-G (MPAA Rating), Martin Scorsese (Director)]
+
+3. Query: "What are the best movies released in the 1990s with a strong female lead"
+Named Entities: [1990s (Year), strong female lead (Character)]

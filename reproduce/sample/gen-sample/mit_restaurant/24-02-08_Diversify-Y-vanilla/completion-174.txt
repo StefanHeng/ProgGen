@@ -1,0 +1,8 @@
+Query: "Where can I find a restaurant for pickup around here that serves sushi"
+Named Entities: [pickup (Amenity), around here (Location), sushi (Cuisine)]
+
+Query: "What's a restaurant with a high rating and a good outdoor seating area for pickup time?"
+Named Entities: [high rating (Rating), good outdoor seating area (Amenity), pickup time (Amenity)]
+
+Query: "I need a restaurant with authentic Italian cuisine for pickup in the next hour"
+Named Entities: [authentic Italian cuisine (Cuisine), pickup (Amenity), next hour (Hours)]

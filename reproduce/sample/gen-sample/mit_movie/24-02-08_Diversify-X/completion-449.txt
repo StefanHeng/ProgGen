@@ -1,0 +1,8 @@
+Query: "I heard that there is a new movie out with a title track that everyone is talking about. Can you tell me which streaming platform has it?"
+Named Entities: [title track (Song)]
+
+Query: "I'm looking for a film from the 90s with a very intense plot. Do you know if it's available on any streaming platforms?"
+Named Entities: [90s (Year), intense plot (Plot)]
+
+Query: "I'm interested in a classic movie directed by a well-known director. Can you check if it's on any streaming platforms?"
+Named Entities: [classic movie (Genre), well-known director (Director)]

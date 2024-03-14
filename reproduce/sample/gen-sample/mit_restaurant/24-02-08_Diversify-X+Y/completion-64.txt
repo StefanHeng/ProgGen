@@ -1,0 +1,8 @@
+1. "recommend a fine dining restaurant with a prix fixe menu"
+Named Entities: [fine dining (Amenity), prix fixe menu (Price)]
+
+2. "I'm craving some upscale Italian cuisine, what are my options?"
+Named Entities: [upscale (Rating), Italian cuisine (Cuisine)]
+
+3. "can you make a reservation at a high-end steakhouse for tonight?"
+Named Entities: [high-end (Rating), steakhouse (Cuisine), tonight (Hours)]

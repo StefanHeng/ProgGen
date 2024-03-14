@@ -1,0 +1,8 @@
+1. Spoken Query: "Are there any movies that have won an Oscar for Best Picture?"
+   Named Entities: [Oscar for Best Picture (Awards and nominations)]
+
+2. Spoken Query: "Which film has received the most nominations at the Golden Globe Awards?"
+   Named Entities: [Golden Globe Awards (Awards and nominations)] 
+
+3. Spoken Query: "Can you recommend a movie that has won multiple BAFTA awards?"
+   Named Entities: [BAFTA awards (Awards and nominations)]

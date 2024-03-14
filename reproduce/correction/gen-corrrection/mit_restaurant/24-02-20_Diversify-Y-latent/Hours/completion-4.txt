@@ -1,0 +1,11 @@
+1. Query: "What time does McDonald's open for {{breakfast}}?"
+Text Span: "breakfast"
+Label: (A). Correct Entity Annotation
+
+2. Query: "Can you recommend a restaurant name in the area that offers a casual dining experience and is open {{late at night}}?"
+Text Span: "late at night"
+Label: (A). Correct Entity Annotation
+
+3. Query: "what are the {{operating hours}} for the Italian restaurant that serves Spaghetti Carbonara"
+Text Span: "operating hours"
+Label: (A). Correct Entity Annotation

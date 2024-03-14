@@ -1,0 +1,8 @@
+Query: "Can you recommend a michelin-starred restaurant for brunch tomorrow"
+Named Entities: [michelin-starred (Rating), brunch (Amenity), tomorrow (Hours)]
+
+Query: "Where can I find a good brunch spot with outdoor seating"
+Named Entities: [good (Rating), brunch (Amenity), outdoor seating (Amenity)]
+
+Query: "I'm craving some authentic Mexican cuisine, where's the nearest place with outdoor seating"
+Named Entities: [authentic Mexican (Cuisine), nearest (Location), outdoor seating (Amenity)]

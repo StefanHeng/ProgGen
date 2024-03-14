@@ -1,0 +1,8 @@
+1. Query: "What genre does the movie Super 8 belong to?"
+   Named Entities: [Super 8 (Title)]
+
+2. Query: "Is there a featurette available for Emma Stone's latest movie?"
+   Named Entities: [featurette (Trailer), Emma Stone (Actor)]
+
+3. Query: "Who directed the film Star Wars: The Force Awakens?"
+   Named Entities: [Star Wars: The Force Awakens (Title), J.J. Abrams (Director)]

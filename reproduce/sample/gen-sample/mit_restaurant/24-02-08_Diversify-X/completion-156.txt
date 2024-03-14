@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with a diverse lunch menu, not too expensive though."
+Named Entities: [diverse (Amenity), lunch (Amenity), not too expensive (Price)]
+
+Query: "I want to find a mid-range restaurant with outdoor seating for lunch."
+Named Entities: [mid-range (Price), outdoor seating (Amenity), lunch (Amenity)]
+
+Query: "Can you recommend a spot with a good lunch special that's not too pricey?"
+Named Entities: [good (Rating), lunch special (Amenity), not too pricey (Price)]

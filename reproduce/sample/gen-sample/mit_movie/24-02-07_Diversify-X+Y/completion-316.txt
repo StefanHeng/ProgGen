@@ -1,0 +1,8 @@
+1. Query: "Is the movie Terminator 2 available for streaming anywhere?"
+   Named Entities: [Terminator 2 (Title)]
+
+2. Query: "Can I really find any classic movies from the 1993-1996 era on a streaming platform?"
+   Named Entities: [1993-1996 (Year), Classic (Genre)]
+
+3. Query: "Are there any mafia family films that are actually worth watching on any streaming service?"
+   Named Entities: [mafia family (Genre)]

@@ -1,0 +1,8 @@
+1. "Can you recommend any five-course restaurants nearby for early bird hours"
+   Named Entities: [five-course (Cuisine), nearby (Location), early bird hours (Hours)]
+
+2. "I'm craving Italian cuisine, can you suggest a restaurant with a good rating?"
+   Named Entities: [Italian (Cuisine), good rating (Rating)]
+
+3. "What are the prices like at the new sushi place downtown?"
+   Named Entities: [new sushi place (Restaurant Name), downtown (Location), prices (Price)]

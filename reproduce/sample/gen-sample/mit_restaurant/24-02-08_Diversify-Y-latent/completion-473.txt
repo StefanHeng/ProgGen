@@ -1,0 +1,8 @@
+Query: "what type of cuisine does Spice Island Grill serve"
+Named Entities: [Spice Island Grill (Restaurant Name), cuisine (Cuisine)]
+
+Query: "show me the restaurant with the highest rating in the area"
+Named Entities: [highest rating (Rating), area (Location)]
+
+Query: "what time does Spice Island Grill close on Sundays"
+Named Entities: [Spice Island Grill (Restaurant Name), close on Sundays (Hours)]

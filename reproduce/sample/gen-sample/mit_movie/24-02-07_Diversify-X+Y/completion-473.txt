@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a superhero movie with great reviews and ratings?"
+Named Entities: [superhero (Genre), great reviews and ratings (Review)]
+
+2. Query: "I'm interested in finding a movie about an environmental disaster that has received positive feedback. Any suggestions?"
+Named Entities: [environmental disaster (Plot), positive feedback (Review)]
+
+3. Query: "What are some highly-rated movies featuring superheroes that I should consider watching?"
+Named Entities: [highly-rated (Viewers' Rating), superheroes (Genre)]

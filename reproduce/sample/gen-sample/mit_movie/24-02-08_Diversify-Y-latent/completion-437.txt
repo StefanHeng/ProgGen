@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with music by James Horner?"
+Named Entities: [James Horner (Song)]
+
+2. Query: "Did Amy Adams star in any romantic films directed by Barry Jenkins?"
+Named Entities: [Amy Adams (Actor), romantic (Genre), Barry Jenkins (Director)]
+
+3. Query: "What year was the movie Titanic released and which famous song is associated with it?"
+Named Entities: [Titanic (Title), My Heart Will Go On (Song)]

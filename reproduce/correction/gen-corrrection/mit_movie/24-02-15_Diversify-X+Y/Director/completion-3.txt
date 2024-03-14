@@ -1,0 +1,11 @@
+1. Query: "Do you know which movies {{Jane Campion}} directed that has a heist in it?"
+Text Span: "Jane Campion"
+Label: (A). The span is a named entity of type director
+
+2. Query: "Once showtimes for {{Steven Spielberg}}'s adventure movie playing at the cinema?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+3. Query: "I'm searching for a gripping film directed by {{Taika Waititi}}. Can you recommend something brilliant?"
+Text Span: "Taika Waititi"
+Label: (A). The span is a named entity of type director

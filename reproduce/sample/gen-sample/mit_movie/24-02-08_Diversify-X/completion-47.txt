@@ -1,0 +1,8 @@
+1. "What children's movies are in the fantasy genre?"
+Named Entities: [children's movies (Viewers' Rating), fantasy (Genre)]
+
+2. "Can you recommend a family-friendly movie in the animated musical genre?"
+Named Entities: [family-friendly (Viewers' Rating), animated musical (Genre)]
+
+3. "What animated films can you suggest that fall under the adventure genre?"
+Named Entities: [animated films (Viewers' Rating), adventure (Genre)]

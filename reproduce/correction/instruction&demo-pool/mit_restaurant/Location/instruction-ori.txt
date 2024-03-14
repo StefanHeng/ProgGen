@@ -1,0 +1,5 @@
+// A named location entity refers to the geographical location or relative proximity of the restaurant. Proximity adjectives such as "nearest" and "closest" are also named location entities.
+
+A named location entity refers to the geographical location or relative proximity of the restaurant. Proximity descriptors such as "nearest", "nearby", "closest" and "local" are also named location entities.
+Longer proximity descriptors such as "adjacent to a bar" are also named location entities.
+A named location entity should include all relevant terms such as "in this city" as opposed to "city".

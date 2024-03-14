@@ -1,0 +1,8 @@
+1. "Find a cozy and intimate restaurant that serves late-night dining in the area."
+   Named Entities: [late-night dining (Amenity), cozy and intimate (Amenity)]
+
+2. "I'm craving some late-night comfort food, is there a place nearby that fits the bill?"
+   Named Entities: [late-night (Hours), comfort food (Cuisine), nearby (Location)]
+
+3. "I'd like to book a table at a restaurant with a late-night menu and a cozy atmosphere."
+   Named Entities: [late-night menu (Amenity), cozy atmosphere (Amenity)]

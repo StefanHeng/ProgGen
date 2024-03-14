@@ -1,0 +1,8 @@
+1. "Are there any screenings of fantasy movies with phenomenal ratings happening in my area this weekend?"
+Named Entities: [Screenings (Title), Fantasy (Genre), Phenomenal ratings (Viewers' Rating)]
+
+2. "Could you recommend a movie similar to Captain America but with a different director?"
+Named Entities: [Captain America (Title), Director (Director)]
+
+3. "Which movie that starts with the letter 'A' has the highest viewers' rating?"
+Named Entities: [A (Title), highest viewers' rating (Viewers' Rating)]

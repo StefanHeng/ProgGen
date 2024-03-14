@@ -1,0 +1,8 @@
+1. "What's the best restaurant in Mountainside for Jambalaya?"
+Named Entities: [Mountainside (Location), Jambalaya (Dish)]
+
+2. "Can you recommend a place with a diverse menu and outdoor seating?"
+Named Entities: [diverse menu (Amenity), outdoor seating (Amenity)]
+
+3. "I'm looking for a restaurant with a 5-star rating and affordable prices."
+Named Entities: [5-star (Rating), affordable prices (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with the best poutine in town?"
+   Named Entities: [best (Rating), poutine (Dish)]
+
+2. "What are the operating hours for the Italian restaurant near the park?"
+   Named Entities: [Italian (Cuisine), near the park (Location), operating hours (Hours)]
+
+3. "I'm looking for a family-friendly restaurant with affordable prices for dinner tonight."
+   Named Entities: [family-friendly (Amenity), affordable prices (Price), dinner tonight (Hours)]

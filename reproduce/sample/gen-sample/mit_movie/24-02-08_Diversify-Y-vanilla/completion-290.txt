@@ -1,0 +1,8 @@
+Query: "could you show me an extended trailer for any John Ford films"
+Named Entities: [extended trailer (Trailer), John Ford (Director)]
+
+Query: "what's a slapstick comedy movie directed by Clint Eastwood"
+Named Entities: [slapstick (Genre), Clint Eastwood (Director)]
+
+Query: "is 12 Years a Slave available to watch with a higher than PG rating"
+Named Entities: [12 Years a Slave (Title), higher than PG (MPAA Rating)]

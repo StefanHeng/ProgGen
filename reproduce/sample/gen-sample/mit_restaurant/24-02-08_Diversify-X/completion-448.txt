@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with vegetarian options near my high school?"
+Named Entities: [buffet (Amenity), vegetarian (Cuisine), high school (Location)]
+
+Query: "I'm a high school girl looking for a buffet place with a fun atmosphere and affordable prices, where do you suggest I go?"
+Named Entities: [buffet (Amenity), high school girl (Demographic), fun atmosphere (Amenity), affordable prices (Price)]
+
+Query: "Which buffet restaurant has the best desserts for teenagers like me?"
+Named Entities: [buffet (Amenity), best desserts (Dish), teenagers (Demographic)]

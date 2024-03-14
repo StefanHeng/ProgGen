@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of any cult zombie movies that Tom Hanks has starred in?"
+Named Entities: [cult (Genre), zombie (Plot), Tom Hanks (Actor)]
+
+2. "I'm looking for a deep sea adventure film with a G rating. Do you have any suggestions, particularly any that includes the song 'You Can't Hurry Love'?"
+Named Entities: [deep sea adventure (Plot), G (MPAA Rating), You Can't Hurry Love (Song)]
+
+3. "I heard that Leonardo DiCaprio starred in an amazing movie. Could you provide me with a synopsis of that film?"
+Named Entities: [Leonardo DiCaprio (Actor)]

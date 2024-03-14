@@ -1,0 +1,8 @@
+Query: "which food truck has the best tacos in the area"
+Named Entities: [best (Rating), tacos (Dish), food truck (Amenity), area (Location)]
+
+Query: "what time does the nearest food truck open for breakfast"
+Named Entities: [nearest (Location), food truck (Amenity), breakfast (Hours)]
+
+Query: "can you recommend a food truck with affordable options for lunch"
+Named Entities: [recommend (Rating), food truck (Amenity), affordable options (Price), lunch (Hours) ]

@@ -1,0 +1,8 @@
+1. Text Span: "Macedonian"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "The Delta"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Acropolis of Athens"
+Label: (A). The span is a named entity of type location

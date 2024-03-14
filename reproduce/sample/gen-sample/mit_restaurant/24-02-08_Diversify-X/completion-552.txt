@@ -1,0 +1,8 @@
+Query 1: "Can you suggest a budget-friendly restaurant with a good rating for dinner tonight?"
+Named Entities: [budget-friendly (Price), good (Rating), dinner (Amenity)]
+
+Query 2: "Find me a dinner place with vegetarian options and is located downtown"
+Named Entities: [vegetarian (Cuisine), downtown (Location), dinner (Amenity)]
+
+Query 3: "Is there any restaurant nearby with outdoor seating for dinner?"
+Named Entities: [outdoor seating (Amenity), nearby (Location), dinner (Amenity)]

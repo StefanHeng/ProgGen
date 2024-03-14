@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants with handicap accessibility in the area, especially near Le Bernardin?"
+Named Entities: [handicap accessibility (Amenity), Le Bernardin (Restaurant Name)]
+
+2. "I'm in the mood for some authentic Italian cuisine, can you recommend a restaurant with a high rating?"
+Named Entities: [authentic Italian (Cuisine), high rating (Rating)]
+
+3. "What are the operating hours for the burger joint downtown?"
+Named Entities: [burger joint (Restaurant Name), downtown (Location), operating hours (Hours)]

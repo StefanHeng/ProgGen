@@ -1,0 +1,8 @@
+Sentence: "The construction of the new subway system will greatly improve transportation in the city."
+Named Entities: [subway system (location), city (location)]
+
+Sentence: "The International Air Transport Association (IATA) is the trade association for the world’s airlines, representing about 290 airlines or 82% of total air traffic."
+Named Entities: [International Air Transport Association (organization)]
+
+Sentence: "Sheila was appointed as the new director of the Department of Transportation."
+Named Entities: [Sheila (person), Department of Transportation (organization)]

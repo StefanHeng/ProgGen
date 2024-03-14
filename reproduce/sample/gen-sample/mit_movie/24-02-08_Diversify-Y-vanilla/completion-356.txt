@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie featuring the song Blue Suede Shoes?"
+Named Entities: [Blue Suede Shoes (Song)]
+
+2. Query: "Can you show me a film teaser for the new James Cameron movie?"
+Named Entities: [new James Cameron (Director), Film teaser (Trailer)]
+
+3. Query: "What year did the movie Titanic, directed by James Cameron, come out?"
+Named Entities: [Titanic (Title), James Cameron (Director)]

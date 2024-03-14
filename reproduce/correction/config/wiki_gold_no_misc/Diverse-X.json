@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "dataset_name": "wiki-gold-no-misc",
+        "source_dataset_dir_name": "24-02-11_NER-Dataset_{fmt=n-p2,#l=3,dc=T}_add-super-idx",
+        "diversity_variant": "Diverse-X"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Names of mythological figures such as \"Zeus\" and \"Athena\" are not relevant named entities. General reference to a person such as \"CEO\" are also not named entities. A named person entity should not have any starting titles such as \"Dr.\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.",
+                    "entity_span": "Harper Lee",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.",
+                    "entity_span": "Dr. James E. Webb",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "James E. Webb",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The ancient Greek myth of Orpheus and Eurydice has been retold in countless plays, operas, and films.",
+                    "entity_span": "Eurydice",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. General reference to a location such as \"city\" and \"business park\" is not a named entity. Demonyms such as \"French\", \"American\", \"African\" and \"Western\" are also not relevant named entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "The Mississippi River runs through several states in the United States, including Minnesota, Wisconsin, and Louisiana.",
+                    "entity_span": "United States",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Dr. Jonas Salk, an American virologist, developed the first successful polio vaccine in 1955.",
+                    "entity_span": "American",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Landmark projects such as \"Artemis program\" and \"Apollo 11\" are not relevant named entities. Demonyms such as \"Chinese\", \"French\" and \"American\" are also not relevant named entities. Awards such as \"Academy Award\" and \"Grammy Award\" are not relevant named entities. Festivals such as \"Cannes Film Festival\" are also not relevant named entities. Subjects such as \"literature\" and \"western philosophy\" are not relevant named entities. Concepts such as \"Fibonacci sequence\" and \"Higher education\" are also not relevant named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "The World Health Organization is a specialized agency of the United Nations responsible for international public health.",
+                    "entity_span": "United Nations",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Aretha Franklin, also known as the \"Queen of Soul\", was an American singer, songwriter, and pianist.",
+                    "entity_span": "American",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "The Fashion industry plays a significant role in shaping global trends and consumer preferences.",
+                    "entity_span": "Fashion industry",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The concept of online education has gained popularity in recent years, with many universities and organizations offering virtual courses and degrees.",
+                    "entity_span": "online education",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "The director, Steven Spielberg, won an Academy Award for Best Director for his work on the film.",
+                    "entity_span": "Academy Award",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "educational psychology is a field of study that focuses on understanding how individuals learn and develop in educational settings.",
+                    "entity_span": "educational psychology",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

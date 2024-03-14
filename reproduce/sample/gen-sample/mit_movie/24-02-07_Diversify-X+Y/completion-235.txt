@@ -1,0 +1,8 @@
+1. "Could you provide me with the complex narrative of the movie Arrival directed by Denis Villeneuve?"
+   Named Entities: [Arrival (Title), complex narrative (Plot), Denis Villeneuve (Director)]
+
+2. "Do you have any information about the plot summary for the film directed by Ridley Scott, Gladiator, which is rated GP?"
+   Named Entities: [Gladiator (Title), plot summary (Plot), Ridley Scott (Director), GP (MPAA Rating)]
+
+3. "I'm interested in a well-crafted movie synopsis. Can you provide me with the synopsis for a film that features the song 'We Will Rock You' in the TV spot?"
+   Named Entities: [well-crafted (Viewers' Rating), We Will Rock You (Song), TV spot (Trailer)]

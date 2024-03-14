@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a 10/10 rating?"
+Named Entities: [10/10 rating (Viewers' Rating)]
+
+2. "Who directed the latest movie featuring Finn as the main character?"
+Named Entities: [Finn (Character)]
+
+3. "Show me a trailer for a film where the protagonist is a private investigator."
+Named Entities: [private investigator (Character)]

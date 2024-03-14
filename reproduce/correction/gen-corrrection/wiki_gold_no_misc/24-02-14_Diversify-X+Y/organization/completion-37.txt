@@ -1,0 +1,8 @@
+1. Text Span: "sociology"
+Label: (C). Wrong Type. The correct entity type is organization.
+
+2. Text Span: "air travel"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "British Film Institute"
+Label: (A). The span is a named entity of type organization

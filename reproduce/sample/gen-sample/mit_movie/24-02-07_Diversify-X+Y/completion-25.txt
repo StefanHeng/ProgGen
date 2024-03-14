@@ -1,0 +1,8 @@
+1. Query: "I'm feeling quite down. Can you recommend a movie with haunting melodies in its soundtrack?"
+Named Entities: [haunting melodies (Song)]
+
+2. Query: "I need something to cheer me up. How about a movie with an uplifting soundtrack, like Over the Rainbow from The Wizard of Oz?"
+Named Entities: [Over the Rainbow (Song), The Wizard of Oz (Title)]
+
+3. Query: "I'm interested in a Civil War movie with a captivating score. Do you have any recommendations?"
+Named Entities: [Civil War (Plot), Lackluster score (Review)]

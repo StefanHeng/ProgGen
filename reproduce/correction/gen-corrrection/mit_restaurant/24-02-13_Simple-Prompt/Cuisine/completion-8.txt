@@ -1,0 +1,8 @@
+1. Text Span: "sushi"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "burger joint"
+Label: (A). The span is a named entity of type cuisine
+
+3. Text Span: "vegetarian"
+Label: (A). The span is a named entity of type cuisine

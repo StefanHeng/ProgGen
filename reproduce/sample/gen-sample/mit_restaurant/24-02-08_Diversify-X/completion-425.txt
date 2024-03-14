@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a vegetarian menu for tonight?"
+Named Entities: [fine dining (Amenity), vegetarian (Cuisine)]
+
+Query: "What are the hours for a high-end vegetarian restaurant nearby?"
+Named Entities: [high-end (Price), vegetarian (Cuisine), nearby (Location), hours (Hours)]
+
+Query: "I need a reservation for a luxury restaurant serving vegetarian dishes."
+Named Entities: [reservation (Amenity), luxury (Price), vegetarian (Cuisine)]

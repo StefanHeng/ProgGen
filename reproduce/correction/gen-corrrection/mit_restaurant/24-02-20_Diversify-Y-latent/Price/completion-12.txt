@@ -1,0 +1,8 @@
+1. Text Span: "$15"
+   Label: (A). The span is a named entity of type price
+
+2. Text Span: "reasonable price"
+   Label: (B). The span contains a named price entity but the span boundary is not precise. The correct span boundary is "reasonable".
+
+3. Text Span: "reasonable price"
+   Label: (B). The span contains a named price entity but the span boundary is not precise. The correct span boundary is "reasonable".

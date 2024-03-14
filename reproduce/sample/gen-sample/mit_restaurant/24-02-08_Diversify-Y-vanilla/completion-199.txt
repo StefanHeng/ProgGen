@@ -1,0 +1,8 @@
+Query: "Where can I find the best Margherita Pizza in town?"
+Named Entities: [Best in town (Rating), Margherita Pizza (Dish)]
+
+Query: "Can you recommend a restaurant that serves P.F. Chang's cuisine?"
+Named Entities: [P.F. Chang's (Restaurant Name), cuisine (Cuisine)]
+
+Query: "What are the hours of the restaurant that offers Margherita Pizza?"
+Named Entities: [hours (Hours), Margherita Pizza (Dish)]

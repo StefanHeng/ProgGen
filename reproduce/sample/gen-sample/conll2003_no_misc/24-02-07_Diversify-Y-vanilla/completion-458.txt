@@ -1,0 +1,8 @@
+1. "Apple Inc. announces launch of new iPhone 13."
+Named Entities: [Apple Inc. (organization)]
+
+2. "President Biden signs infrastructure bill into law."
+Named Entities: [President Biden (person)]
+
+3. "Hurricane Ida causes widespread damage in Louisiana and Mississippi."
+Named Entities: [Hurricane Ida (person), Louisiana (location), Mississippi (location)]

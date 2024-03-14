@@ -1,0 +1,8 @@
+Query: "What is the best dish at [The Melting Pot]?"
+Named Entities: [The Melting Pot (Restaurant Name)]
+
+Query: "I'm looking for a [cuisine] restaurant with outdoor seating"
+Named Entities: [cuisine (Cuisine)]
+
+Query: "Can you recommend a [price] restaurant with a high rating?"
+Named Entities: [price (Price)]

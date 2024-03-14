@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood restaurant in Miami with outdoor seating?"
+Named Entities: [seafood (Cuisine), Miami (Location), outdoor seating (Amenity)]
+
+2. "I'm looking for a trendy brunch spot near downtown that serves a killer avocado toast."
+Named Entities: [trendy (Rating), brunch (Amenity), downtown (Location), avocado toast (Dish)]
+
+3. "What are the hours of operation for Spago restaurant in Beverly Hills?"
+Named Entities: [Spago (Restaurant Name), Beverly Hills (Location), hours of operation (Hours)]

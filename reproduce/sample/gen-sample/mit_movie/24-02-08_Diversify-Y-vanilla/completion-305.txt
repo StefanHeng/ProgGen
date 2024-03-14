@@ -1,0 +1,8 @@
+1. "Can you find me a modern-day fairy tale movie?"
+Named Entities: [modern-day fairy tale (Genre)]
+
+2. "What is the viewers' rating for Raging Bull?"
+Named Entities: [viewers' rating (Viewers' Rating), Raging Bull (Title)]
+
+3. "Show me the trailer for a movie based on a historical event starring Mark Rylance."
+Named Entities: [trailer (Trailer), historical event (Plot), Mark Rylance (Actor)]

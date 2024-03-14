@@ -1,0 +1,8 @@
+1. "Can you tell me about the making-of the film Titanic"
+   Named Entities: [Titanic (Title), making-of details]
+
+2. "I always feel so sad thinking about how Heath Ledger's performance as the Joker in The Dark Knight came to be. Can you share some behind-the-scenes information about it?"
+   Named Entities: [Heath Ledger (Actor), The Dark Knight (Title), behind-the-scenes information]
+
+3. "I'm feeling down and could use a good cry. Do you have any information about the making-of the movie Schindler's List?"
+   Named Entities: [Schindler's List (Title), making-of details]

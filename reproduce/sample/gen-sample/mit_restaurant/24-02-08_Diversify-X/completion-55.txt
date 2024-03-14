@@ -1,0 +1,8 @@
+Query: "recommend a lounge or bar with a good lunch menu"
+Named Entities: [lounge or bar (Amenity), lunch (Cuisine)]
+
+Query: "what are the best places for lunch at a lounge in the area"
+Named Entities: [lunch (Cuisine), lounge (Amenity)]
+
+Query: "find a bar with a diverse lunch selection"
+Named Entities: [diverse (Price), lunch (Cuisine), bar (Amenity)]

@@ -1,0 +1,8 @@
+1. Text Span: "breakfast sandwiches"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "delicious pho soup"
+Label: (A). The span is a named entity of type dish
+
+3. Text Span: "specialty coffee"
+Label: (A). The span is a named entity of type dish

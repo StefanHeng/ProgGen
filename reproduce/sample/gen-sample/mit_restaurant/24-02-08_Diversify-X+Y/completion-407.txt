@@ -1,0 +1,8 @@
+1. "What is the Gault Millau rating for the top fine dining restaurants serving fusion cuisine in New York City?"
+Named Entities: [Gault Millau Rating (Rating), fine dining (Amenity), fusion cuisine (Cuisine), New York City (Location)]
+
+2. "Can you recommend a fine dining restaurant with a high Gault Millau rating that offers fusion cuisine in Paris?"
+Named Entities: [fine dining (Amenity), Gault Millau rating (Rating), fusion cuisine (Cuisine), Paris (Location)]
+
+3. "I'm looking for a reservation at a fine dining establishment known for its exceptional fusion cuisine and high Gault Millau rating. Can you help me find one?"
+Named Entities: [fine dining (Amenity), fusion cuisine (Cuisine), high Gault Millau rating (Rating)]

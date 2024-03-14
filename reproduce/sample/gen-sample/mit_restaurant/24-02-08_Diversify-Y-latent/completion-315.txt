@@ -1,0 +1,8 @@
+Synthetic Query: "I'm craving some authentic Italian food, where can I find a good place?"
+Named Entities: [authentic Italian (Cuisine), good (Rating)]
+
+Synthetic Query: "What are the hours for the BBQ restaurant nearby?"
+Named Entities: [BBQ restaurant (Restaurant Name), nearby (Location), hours (Hours)]
+
+Synthetic Query: "I'm in the mood for sushi, any recommendations for a reasonably priced spot?"
+Named Entities: [sushi (Cuisine), reasonably priced (Price)]

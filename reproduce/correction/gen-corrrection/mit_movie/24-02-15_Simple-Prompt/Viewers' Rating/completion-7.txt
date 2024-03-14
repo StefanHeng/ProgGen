@@ -1,0 +1,11 @@
+1. Query: "What's the title of the movie that won the {{Academy Award for Best Animated Feature}} in 2020"
+Text Span: "Academy Award for Best Animated Feature"
+Label: (C). Named Entity, Category: Award
+
+2. Query: "What is the {{best}} action movie directed by James Cameron"
+Text Span: "best"
+Label: (A). Named Entity of type Viewers' Rating
+
+3. Query: "What is the {{viewers' rating}} for movie Forrest Gump?"
+Text Span: "viewers' rating"
+Label: (D). Not a Named Entity.

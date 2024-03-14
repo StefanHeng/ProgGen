@@ -1,0 +1,8 @@
+1. Text Span: "IMDB rating"
+Label: (D). Not a Named Entity
+
+2. Text Span: "viewers' rating"
+Label: (D). Not a Named Entity
+
+3. Text Span: "best"
+Label: (A). Correct Entity Annotation

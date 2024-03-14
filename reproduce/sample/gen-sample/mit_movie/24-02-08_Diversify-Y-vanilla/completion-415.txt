@@ -1,0 +1,8 @@
+1. "I want to watch a biographical film from 1957, maybe about the loss of memory."
+Named Entities: [1957 (Year), biographical (Genre), loss of memory (Plot)]
+
+2. "Can you find me an independent movie with an Excerpt of Leonardo DiCaprio?"
+Named Entities: [independent (Genre), Excerpt (Plot), Leonardo DiCaprio (Actor)]
+
+3. "I'm looking for a movie with a character named Rey and a strong viewers' rating."
+Named Entities: [Rey (Character), strong viewers' rating (Viewers' Rating)]

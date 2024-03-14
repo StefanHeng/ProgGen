@@ -1,0 +1,8 @@
+Query: "where can I find a highly-rated Italian restaurant for dinner tonight"
+Named Entities: [highly-rated (Rating), Italian (Cuisine), tonight (Hours)]
+
+Query: "recommend a place with outdoor seating and a view of the river for brunch"
+Named Entities: [outdoor seating (Amenity), view of the river (Amenity), brunch (Amenity)]
+
+Query: "I want to take my Yelp Elite friends to a top-rated sushi spot in the city"
+Named Entities: [Yelp Elite (Amenity), top-rated (Rating), sushi (Cuisine), city (Location)]

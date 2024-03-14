@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with compelling storytelling that has received high viewers' ratings?"
+Named Entities: [compelling storytelling (Plot), high viewers' ratings (Viewers' Rating)]
+
+2. "Show me a trailer clip for a film with a mercenary mission as the main plot."
+Named Entities: [trailer clip (Trailer), mercenary mission (Plot)]
+
+3. "What are the highlights of the latest thriller movie directed by Christopher Nolan?"
+Named Entities: [highlights (Review), thriller (Genre), Christopher Nolan (Director)]

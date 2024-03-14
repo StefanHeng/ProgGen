@@ -1,0 +1,8 @@
+1. "Can you recommend a hip and trendy restaurant with late-night dining options?"
+   Named Entities: [late-night dining (Amenity), hip and trendy (Amenity)]
+
+2. "I'm looking for a place with a cool vibe and late-night dining, any suggestions?"
+   Named Entities: [cool vibe (Amenity), late-night dining (Amenity)]
+
+3. "Where can I find a trendy spot for late-night dining?"
+   Named Entities: [trendy spot (Amenity), late-night dining (Amenity)]

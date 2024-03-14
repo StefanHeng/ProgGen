@@ -1,0 +1,8 @@
+1. "Can you recommend a musical with epic musical compositions by David O. Russell?"
+Named Entities: [musical (Genre), epic musical compositions (Theme song), David O. Russell (Director)]
+
+2. "Show me a movie where Olaf sings the theme song."
+Named Entities: [Olaf (Character), theme song (Song)]
+
+3. "What is the best musical directed by David O. Russell?"
+Named Entities: [musical (Genre), David O. Russell (Director)]

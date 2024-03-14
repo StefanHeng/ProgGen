@@ -1,0 +1,8 @@
+Query: "can you play a teaser for the new Ewan McGregor movie"
+Named Entities: [teaser (Trailer), Ewan McGregor (Actor)]
+
+Query: "what movie features the song Stairway to Heaven"
+Named Entities: [Stairway to Heaven (Song)]
+
+Query: "show me a comedy movie with Adam Sandler and also a romantic film like Dirty Dancing"
+Named Entities: [comedy (Genre), Adam Sandler (Actor), romantic (Genre), Dirty Dancing (Title)]

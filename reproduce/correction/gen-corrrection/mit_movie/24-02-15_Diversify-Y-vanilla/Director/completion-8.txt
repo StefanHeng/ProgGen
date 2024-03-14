@@ -1,0 +1,11 @@
+1. Query: "What is the top film directed by {{Steven Spielberg}} that is suitable for all ages, such as TV-G?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+2. Query: "What reflective movie directed by {{Christopher Nolan}} has the song Time by Hans Zimmer?"
+Text Span: "Christopher Nolan"
+Label: (A). The span is a named entity of type director
+
+3. Query: "what are the most popular films directed by {{Quentin Tarantino}}"
+Text Span: "Quentin Tarantino"
+Label: (A). The span is a named entity of type director

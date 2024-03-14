@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with late-night dining that serves sushi?"
+Named Entities: [late-night dining (Amenity), sushi (Cuisine)]
+
+2. "I'm craving some late-night Chinese food, can you recommend any places with student discounts?"
+Named Entities: [late-night dining (Amenity), Chinese (Cuisine), student discounts (Price)]
+
+3. "I want to grab a burger after the school dance, where's a good spot that's open past midnight?"
+Named Entities: [burger (Dish), past midnight (Hours)]

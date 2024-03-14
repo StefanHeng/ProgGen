@@ -1,0 +1,8 @@
+Query: "Can you tell me the viewers' rating for The Joker movie?"
+Named Entities: [The Joker (Title), viewers' rating (Viewers' Rating)]
+
+Query: "I'm curious about the reviews for Can't Help Falling in Love - can you provide any information?"
+Named Entities: [Can't Help Falling in Love (Title), reviews (Review)]
+
+Query: "What year was Toy Story 3 released in?"
+Named Entities: [Toy Story 3 (Title), released in (Year)]

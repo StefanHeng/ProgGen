@@ -1,0 +1,8 @@
+1. Query: "Where can I find tickets for the new James Bond movie in theaters"
+Named Entities: [James Bond (Title)]
+
+2. Query: "I need to know the showtimes for the latest Avengers film right now"
+Named Entities: [Avengers (Title)]
+
+3. Query: "What's the fastest way to get tickets for the upcoming Star Wars movie"
+Named Entities: [Star Wars (Title)]

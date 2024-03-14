@@ -1,0 +1,29 @@
+1. The Mona Lisa is located in the Louvre Museum in Paris, France.
+Named Entities: [Mona Lisa (location), Louvre Museum (organization), Paris (location), France (location)]
+
+2. John F. Kennedy served as the 35th President of the United States from 1961 until his assassination in 1963.
+Named Entities: [John F. Kennedy (person), United States (location)]
+
+3. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+4. Maya Angelou was an American poet, memoirist, and civil rights activist.
+Named Entities: [Maya Angelou (person), American (location)]
+
+5. The Amazon Rainforest spans over nine countries in South America.
+Named Entities: [Amazon Rainforest (location), South America (location)]
+
+6. Beyoncé Knowles-Carter is an American singer, songwriter, and actress.
+Named Entities: [Beyoncé Knowles-Carter (person), American (location)]
+
+7. NASA, or the National Aeronautics and Space Administration, is responsible for the United States government's civilian space program and for aeronautics and aerospace research.
+Named Entities: [NASA (organization), National Aeronautics and Space Administration (organization), United States (location)]
+
+8. Romeo and Juliet is a tragedy written by William Shakespeare concerning two young star-crossed lovers.
+Named Entities: [Romeo and Juliet (person), William Shakespeare (person)]
+
+9. The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching over 2,300 kilometers.
+Named Entities: [Great Barrier Reef (location)]
+
+10. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), English (location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a complicated sci-fi movie from 1978 directed by George Lucas?"
+   Named Entities: [complicated (Viewers' Rating), 1978 (Year), George Lucas (Director)]
+
+2. "Which movie features a song by George Michael and is rated R?"
+   Named Entities: [George Michael (Song), R (MPAA Rating)]
+
+3. "Show me a movie where Sigourney Weaver plays a strong, independent character."
+   Named Entities: [Sigourney Weaver (Actor), strong, independent (Character)]

@@ -1,0 +1,8 @@
+1. "I'm craving sushi, where is the best Japanese restaurant for dinner?"
+Named Entities: [sushi (Dish), best (Rating), Japanese (Cuisine), dinner (Amenity)]
+
+2. "What is a good Mexican place for dinner that is open past 9 pm?"
+Named Entities: [good (Rating), Mexican (Cuisine), past 9 pm (Hours), dinner (Amenity)]
+
+3. "I need a restaurant with outdoor seating and a view for dinner tonight."
+Named Entities: [outdoor seating (Amenity), view (Amenity), dinner (Amenity) ]

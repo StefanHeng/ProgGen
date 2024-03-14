@@ -1,0 +1,8 @@
+1. "I'm looking for a dairy-free buffet restaurant with a good rating"
+   Named Entities: [dairy-free (Amenity), buffet (Cuisine), good (Rating)]
+
+2. "Which buffet places nearby can accommodate dairy-free options?"
+   Named Entities: [dairy-free (Amenity), buffet (Cuisine), nearby (Location)]
+
+3. "What are the hours of operation for dairy-free buffet restaurants in the area?"
+   Named Entities: [dairy-free (Amenity), buffet (Cuisine), hours of operation (Hours)]

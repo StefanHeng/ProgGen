@@ -1,0 +1,8 @@
+1. "I'm in the mood for some fast food, where can I find a restaurant with an expensive price range?"
+Named Entities: [fast food (Cuisine), expensive (Price)]
+
+2. "Which expensive fast food restaurants are open past 10 pm?"
+Named Entities: [fast food (Cuisine), expensive (Price), past 10 pm (Hours)]
+
+3. "Can you recommend a high-end fast food joint with good ratings?"
+Named Entities: [high-end (Price), fast food (Cuisine), good (Rating)]

@@ -1,0 +1,8 @@
+1. Spoken movie query: "Can you tell me the Awards and nominations received for the romantic comedy genre film The Silence of the Lambs?"
+   Named Entities: [The Silence of the Lambs (Title), Romantic comedy (Genre), Awards and nominations (Review)]
+
+2. Spoken movie query: "I'm looking for the pickiest heist movie that has won a Golden Globe. Can you help me with that?"
+   Named Entities: [picketiest (Viewers' Rating), Heist (Genre), Golden Globe winner (Award)]
+
+3. Spoken movie query: "What are the Awards and nominations received for the Golden Globe winner in the romantic comedy genre?"
+   Named Entities: [Golden Globe winner (Award), Romantic comedy (Genre), Awards and nominations (Review)]

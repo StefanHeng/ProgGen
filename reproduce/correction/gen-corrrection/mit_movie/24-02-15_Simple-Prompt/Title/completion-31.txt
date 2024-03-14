@@ -1,0 +1,11 @@
+1. Query: "What year did the movie {{Titanic}} come out?"
+Text Span: "Titanic"
+Label: (A). The span is a named entity of type movie title
+
+2. Query: 'Is "{{The Incredibles}}" suitable for children?'
+Text Span: "The Incredibles"
+Label: (A). The span is a named entity of type movie title
+
+3. Query: "What is the viewers' rating for the movie {{Casablanca}}?"
+Text Span: "Casablanca"
+Label: (A). The span is a named entity of type movie title

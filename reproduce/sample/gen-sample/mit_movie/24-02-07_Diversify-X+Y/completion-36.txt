@@ -1,0 +1,8 @@
+1. "Can you show me the motion picture teaser for the movie Aquaman?"
+Named Entities: [Aquaman (Title), Motion picture teaser (Trailer)]
+
+2. "Do you have any trailers for Cyberpunk films released between 2010-2015?"
+Named Entities: [Cyberpunk (Genre), 2010-2015 (Year), trailers (Trailer)]
+
+3. "What's the viewers' rating for the movie that got a terrible 1/5?"
+Named Entities: [terrible 1/5 (Viewers' Rating)]

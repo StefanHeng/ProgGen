@@ -1,0 +1,8 @@
+1. "Can you recommend a café with waterfront views for breakfast?"
+Named Entities: [café (Cuisine), waterfront views (Amenity), breakfast (Hours)]
+
+2. "I'm looking for a waterfront café with outdoor seating for lunch."
+Named Entities: [waterfront (Location), café (Cuisine), outdoor seating (Amenity), lunch (Hours)]
+
+3. "Do you know of any cafés by the waterfront with a good happy hour menu?"
+Named Entities: [café (Cuisine), waterfront (Location), good (Rating), happy hour (Amenity)]

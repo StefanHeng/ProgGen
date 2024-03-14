@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a classic western movie with lots of action?"
+Named Entities: [classic western (Genre), lots of action (Plot)]
+
+2. Query: "What is the best romantic comedy film from the 1950s?"
+Named Entities: [romantic comedy (Genre), 1950s (Year)]
+
+3. Query: "Are there any family-friendly animated movies with talking animals?"
+Named Entities: [family-friendly (Viewers' Rating), animated (Genre), talking animals (Plot)]

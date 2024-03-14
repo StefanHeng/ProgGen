@@ -1,0 +1,8 @@
+1. "Could you please show me the trailer for the latest Joker movie starring Joaquin Phoenix?"
+Named Entities: [trailer (Trailer), Joker (Title), Joaquin Phoenix (Actor)]
+
+2. "I'm interested in watching a teaser for the upcoming Daniel Craig James Bond film, can you provide that?"
+Named Entities: [teaser (Trailer), Daniel Craig (Actor), James Bond (Character)]
+
+3. "I heard Salma Hayek is in a new movie, could you show me a sneak peek of it?"
+Named Entities: [sneak peek (Trailer), Salma Hayek (Actor)]

@@ -1,0 +1,8 @@
+1. Query: "Can you show me the teaser trailer for the new James Bond movie that came out in 2021?"
+Named Entities: [teaser trailer (Trailer), James Bond (Character), 2021 (Year)]
+
+2. Query: "What are some of the most powerful and impactful movies of the 21st century according to AA?"
+Named Entities: [powerful (Review), impactful (Review), 21st century (Year), AA (Review)]
+
+3. Query: "Could you recommend an exciting and thrilling action film directed by Christopher Nolan?"
+Named Entities: [exciting (Review), thrilling (Review), action film (Genre), Christopher Nolan (Director)]

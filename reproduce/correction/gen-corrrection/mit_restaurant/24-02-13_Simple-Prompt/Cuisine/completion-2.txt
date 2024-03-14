@@ -1,0 +1,8 @@
+1. Text Span: "Korean barbecue"
+Label: (A). The span is a named entity of type cuisine
+
+2. Text Span: "burger"
+Label: (A). The span is a named entity of type cuisine
+
+3. Text Span: "sushi restaurant"
+Label: (B). Wrong Boundary. The correct span boundary is "sushi"

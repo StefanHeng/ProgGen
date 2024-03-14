@@ -1,0 +1,8 @@
+1. Text Span: "Featurette"
+Label: (C). The span is a named entity but the category is not trailer. Correct Entity Type: Other
+
+2. Text Span: "official trailer"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Exclusive footage"
+Label: (B). Wrong Boundary. The correct span boundary is "footage".

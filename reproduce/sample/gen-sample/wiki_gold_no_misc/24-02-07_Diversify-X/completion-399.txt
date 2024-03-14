@@ -1,0 +1,8 @@
+Sentence: "The United States Army is the largest branch of the military."
+Named Entities: [United States Army (organization)]
+
+Sentence: "The Battle of Gettysburg was a significant turning point in the American Civil War."
+Named Entities: [Battle of Gettysburg (location), American Civil War (organization)]
+
+Sentence: "The Navy SEALs are the elite special operations force of the United States Navy."
+Named Entities: [Navy SEALs (organization), United States Navy (organization)]

@@ -1,0 +1,8 @@
+1. "Can you provide a film preview for the movie that came out in 1979?"
+Named Entities: [Film preview (Trailer), 1979 (Year)]
+
+2. "What can you tell me about the new movie Fierce, especially the teaser preview?"
+Named Entities: [Fierce (Title), Teaser preview (Trailer)]
+
+3. "Is No Country for Old Men considered a classic film?"
+Named Entities: [No Country for Old Men (Title)]

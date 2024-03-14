@@ -1,0 +1,8 @@
+Sentence: "Elton John announces new tour dates including a show at The Fillmore in Moscow."
+Named Entities: [Elton John (person), The Fillmore (location), Moscow (location)]
+
+Sentence: "Russian government invests in new music education program to support emerging talents."
+Named Entities: [Russian government (organization)]
+
+Sentence: "Iconic rock band to hold first ever concert in Moscow, Russia."
+Named Entities: [Moscow (location), Russia (location)]

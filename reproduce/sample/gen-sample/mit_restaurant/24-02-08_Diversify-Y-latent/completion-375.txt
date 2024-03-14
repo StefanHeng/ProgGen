@@ -1,0 +1,8 @@
+1. "Can you recommend any restaurants nearby that have a great selection of sandwiches"
+Named Entities: [great selection (Amenity), sandwiches (Dish)]
+
+2. "I'm looking for a restaurant featured on Thrillist with a high rating and a reasonable price"
+Named Entities: [Thrillist (Amenity), high rating (Rating), reasonable price (Price)]
+
+3. "What time does the Italian restaurant in downtown open for lunch"
+Named Entities: [Italian (Cuisine), downtown (Location), lunch (Hours)]

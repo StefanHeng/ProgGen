@@ -1,0 +1,8 @@
+1. "What food trucks in Denver have a high rating for their cuisine?"
+   Named Entities: [food truck (Amenity), Denver (Location), high rating (Rating), cuisine (Cuisine)]
+
+2. "Where can I find a food truck in Denver that serves Mexican dishes after 8 pm?"
+   Named Entities: [food truck (Amenity), Denver (Location), Mexican dishes (Cuisine), after 8 pm (Hours)]
+
+3. "I'm looking for a budget-friendly food truck in Denver, which spot do you recommend?"
+   Named Entities: [budget-friendly (Price), food truck (Amenity), Denver (Location)]

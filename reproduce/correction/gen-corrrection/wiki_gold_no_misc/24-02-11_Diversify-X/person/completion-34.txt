@@ -1,0 +1,8 @@
+1. Text Span: "Wright brothers"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "Freyja"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "Pythagoras"
+Label: (A). The span is a named entity of type person

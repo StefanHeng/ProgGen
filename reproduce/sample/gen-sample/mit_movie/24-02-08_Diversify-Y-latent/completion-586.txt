@@ -1,0 +1,8 @@
+1. Query: "Can you suggest any upcoming environmental disaster movies starring Chris Hemsworth?"
+   Named Entities: [upcoming (Year), environmental disaster (Genre), Chris Hemsworth (Actor)]
+
+2. Query: "Tell me about the plot of Thor: Ragnarok"
+   Named Entities: [Thor: Ragnarok (Title), plot (Plot)]
+
+3. Query: "Which movies feature characters from Norse mythology?"
+   Named Entities: [Norse mythology (Genre), characters (Character)]

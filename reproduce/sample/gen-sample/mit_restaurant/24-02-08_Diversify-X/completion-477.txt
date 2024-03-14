@@ -1,0 +1,8 @@
+1. "Can you recommend any fine dining restaurants with a fast-casual ambience near me"
+Named Entities: [fine dining (Price), fast-casual (Amenity), near me (Location)]
+
+2. "I'm looking for a high-end restaurant with a quick-service atmosphere"
+Named Entities: [high-end (Price), quick-service (Amenity)]
+
+3. "What are some upscale dining options that also offer fast-casual service"
+Named Entities: [upscale (Price), fast-casual (Amenity)]

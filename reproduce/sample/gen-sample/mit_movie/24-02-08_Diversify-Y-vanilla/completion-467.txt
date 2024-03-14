@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with the song Sweet Child O’ Mine in it?"
+Named Entities: [Sweet Child O’ Mine (Song)]
+
+2. "Could you show me a trailer of the film Alien directed by Ridley Scott?"
+Named Entities: [Alien (Title), Ridley Scott (Director)]
+
+3. "What is a good movie that depicts a bitter rivalry between two characters?"
+Named Entities: [bitter rivalry (Plot)]

@@ -1,0 +1,8 @@
+Query: "Is there any place around here with outdoor seating close by?"
+Named Entities: [outdoor seating (Amenity), close by (Location)]
+
+Query: "What is the best Italian restaurant in the area for dinner tonight?"
+Named Entities: [Italian (Cuisine), dinner tonight (Hours), best (Rating), area (Location)]
+
+Query: "I'm craving sushi, where can I find a place with a sushi bar close by?"
+Named Entities: [sushi (Cuisine), sushi bar (Amenity), close by (Location)]

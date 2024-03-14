@@ -1,0 +1,8 @@
+Query: "I'm hungry, where can I grab some good fast food with live music tonight?"
+Named Entities: [good (Rating), fast food (Cuisine), tonight (Hours), live music (Amenity)]
+
+Query: "What's the nearest fast food joint with live music and a rating of at least 4 stars?"
+Named Entities: [nearest (Location), fast food (Cuisine), at least 4 stars (Rating), live music (Amenity)]
+
+Query: "I'm looking for a fast food spot with live music and affordable prices, can you help me find one?"
+Named Entities: [fast food (Cuisine), live music (Amenity), affordable prices (Price)]

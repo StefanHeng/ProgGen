@@ -1,0 +1,149 @@
+1. Which movie did Steven Spielberg direct in 1993?
+Named Entities: [Steven Spielberg (Director), 1993 (Year)]
+
+2. Can you recommend a good horror film from the 1980s?
+Named Entities: [horror (Genre), 1980s (Year)]
+
+3. I want to watch a movie starring Meryl Streep, can you suggest one?
+Named Entities: [Meryl Streep (Actor)]
+
+4. Show me some action movies from the 2000s.
+Named Entities: [action (Genre), 2000s (Year)]
+
+5. What is the plot of The Godfather Part II?
+Named Entities: [The Godfather Part II (Title), Plot]
+
+6. Is The Shawshank Redemption film suitable for kids?
+Named Entities: [The Shawshank Redemption (Title), MPAA Rating]
+
+7. Can you tell me about the movie directed by Quentin Tarantino with Uma Thurman as the lead?
+Named Entities: [Quentin Tarantino (Director), Uma Thurman (Actor)]
+
+8. I need information about the new documentary about climate change.
+Named Entities: [climate change (Genre)]
+
+9. Who composed the music for the movie Inception?
+Named Entities: [Inception (Title)]
+
+10. What are the reviews for Parasite?
+Named Entities: [Parasite (Title), Review]
+
+11. Please show me a line from the trailer of The Matrix.
+Named Entities: [The Matrix (Title), Trailer]
+
+12. What is the highest-grossing film of all time?
+Named Entities: [highest-grossing (Viewers' Rating)]
+
+13. What is your favorite romance film from the 1990s?
+Named Entities: [romance (Genre), 1990s (Year)]
+
+14. What character did Heath Ledger play in The Dark Knight?
+Named Entities: [Heath Ledger (Actor), The Dark Knight (Title), Character]
+
+15. Can you suggest a good classic movie from the 1960s?
+Named Entities: [classic (Viewers' Rating), 1960s (Year)]
+
+16. Which actress starred in the movie The Iron Lady?
+Named Entities: [The Iron Lady (Title), Actress]
+
+17. Who directed the science fiction film Blade Runner?
+Named Entities: [science fiction (Genre), Blade Runner (Title), Director]
+
+18. I want to watch an Alfred Hitchcock film, can you recommend one?
+Named Entities: [Alfred Hitchcock (Director)]
+
+19. Are there any musicals with Judy Garland?
+Named Entities: [Judy Garland (Actor), musicals (Genre)]
+
+20. Tell me about the film with the song "Eye of the Tiger."
+Named Entities: ["Eye of the Tiger" (Song)]
+
+21. What year was The Sound of Music released?
+Named Entities: [The Sound of Music (Title), Year]
+
+22. Is The Exorcist a good horror film?
+Named Entities: [The Exorcist (Title), horror (Genre), good (Viewers' Rating)]
+
+23. I'd like to watch a highly-rated comedy, can you recommend one?
+Named Entities: [comedy (Genre), highly-rated (Viewers' Rating)]
+
+24. Who played the lead in the romantic movie Titanic?
+Named Entities: [romantic (Genre), Titanic (Title), Lead Actor]
+
+25. Can you describe the film directed by Christopher Nolan with Leonardo DiCaprio in it?
+Named Entities: [Christopher Nolan (Director), Leonardo DiCaprio (Actor)]
+
+26. What is the rated R movie with the highest viewership in the 2010s?
+Named Entities: [rated R (MPAA Rating), 2010s (Year), highest viewership (Viewers' Rating)]
+
+27. I want to watch a biographical film about a famous musician from the 1970s, any suggestions?
+Named Entities: [biographical (Genre), 1970s (Year)]
+
+28. Show me a scene from The Silence of the Lambs.
+Named Entities: [The Silence of the Lambs (Title), Scene]
+
+29. What are some highly-rated films directed by female directors?
+Named Entities: [highly-rated (Viewers' Rating), female directors (Director)]
+
+30. What character did Daniel Radcliffe play in the Harry Potter series?
+Named Entities: [Daniel Radcliffe (Actor), Harry Potter (Title), Character]
+
+31. Can you provide a summary of the movie Psycho directed by Alfred Hitchcock?
+Named Entities: [Psycho (Title), Alfred Hitchcock (Director), Plot]
+
+32. I want to watch a film with a strong female lead, any suggestions?
+Named Entities: [strong female lead (Character)]
+
+33. Are there any good movies from the 1950s in the crime genre?
+Named Entities: [1950s (Year), crime (Genre), good (Viewers' Rating)]
+
+34. What is the best superhero movie of all time?
+Named Entities: [best (Viewers' Rating), superhero (Genre)]
+
+35. Can you recommend a good mystery film from the 2000s?
+Named Entities: [mystery (Genre), 2000s (Year)]
+
+36. What movie was rated PG-13 and directed by James Cameron?
+Named Entities: [PG-13 (MPAA Rating), James Cameron (Director)]
+
+37. I want to watch a classic film noir, any suggestions?
+Named Entities: [classic (Viewers' Rating), film noir (Genre)]
+
+38. Who played the lead role in the western film Unforgiven?
+Named Entities: [western (Genre), Unforgiven (Title), Lead Actor]
+
+39. Can you tell me the plot of the animated movie Finding Nemo?
+Named Entities: [animated (Genre), Finding Nemo (Title), Plot]
+
+40. What is the viewers' rating for the movie Casablanca?
+Named Entities: [Casablanca (Title), viewers' rating (Viewers' Rating)]
+
+41. Please show me a clip of the song "Let It Go" from the movie Frozen.
+Named Entities: ["Let It Go" (Song), Frozen (Title), Clip]
+
+42. What year was the movie E.T. the Extra-Terrestrial released?
+Named Entities: [E.T. the Extra-Terrestrial (Title), Year]
+
+43. I want to watch a movie that won multiple Academy Awards, can you recommend one?
+Named Entities: [won multiple Academy Awards]
+
+44. Are there any films with Humphrey Bogart and Lauren Bacall together?
+Named Entities: [Humphrey Bogart (Actor), Lauren Bacall (Actor)]
+
+45. What is the highest-grossing romantic film of the 1990s?
+Named Entities: [highest-grossing (Viewers' Rating), romantic (Genre), 1990s (Year)]
+
+46. Please provide a review for the film The Social Network.
+Named Entities: [The Social Network (Title), Review]
+
+47. I want to watch a movie that features a strong ensemble cast, any suggestions?
+Named Entities: [strong ensemble cast]
+
+48. What action film did Ridley Scott direct in the 1980s?
+Named Entities: [action (Genre), Ridley Scott (Director), 1980s (Year)]
+
+49. Can you recommend a good drama from the 1970s?
+Named Entities: [drama (Genre), 1970s (Year)]
+
+50. What character did Johnny Depp play in the Pirates of the Caribbean series?
+Named Entities: [Johnny Depp (Actor), Pirates of the Caribbean (Title), Character]

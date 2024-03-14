@@ -1,0 +1,8 @@
+1. "I'm looking for a formal restaurant that serves biscuits and gravy for breakfast"
+   Named Entities: [formal (Amenity), biscuits and gravy (Dish), breakfast (Meal Category)]
+
+2. "Can you recommend a place with a formal ambience where I can eat biscuits and gravy in the morning?"
+   Named Entities: [formal (Amenity), biscuits and gravy (Dish), morning (Hours)]
+
+3. "I need to find a breakfast spot with a formal setting that offers biscuits and gravy"
+   Named Entities: [breakfast (Meal Category), formal (Amenity), biscuits and gravy (Dish)]

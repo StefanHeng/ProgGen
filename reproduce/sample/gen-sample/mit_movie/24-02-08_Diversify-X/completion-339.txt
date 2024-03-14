@@ -1,0 +1,8 @@
+1. Query: "What are some highly-rated romantic movies from the 1950s?"
+   Named Entities: [romantic (Genre), 1950s (Year), highly-rated (Viewers' Rating)]
+
+2. Query: "Can you recommend a comedy film directed by Nancy Meyers?"
+   Named Entities: [comedy (Genre), Nancy Meyers (Director)]
+
+3. Query: "Show me the trailer for the latest Meryl Streep movie"
+   Named Entities: [latest (Year), Meryl Streep (Actor), trailer (Trailer)]

@@ -1,0 +1,8 @@
+1. Query: "Who directed the action thriller film with the highest viewers' rating?"
+Named Entities: [action thriller (Genre), highest viewers' rating (Viewers' Rating)]
+
+2. Query: "Can you tell me which movie from the 90s has Denzel Washington as the lead actor?"
+Named Entities: [90s (Year), Denzel Washington (Actor)]
+
+3. Query: "I'm looking for a fantasy movie directed by a female director, can you recommend one?"
+Named Entities: [fantasy (Genre), female director (Director)]

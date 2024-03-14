@@ -1,0 +1,8 @@
+Query: "Can you recommend any gluten-free options at the food truck park?"
+Named Entities: [Gluten-free (Amenity), food truck park (Location)]
+
+Query: "What gluten-free dishes are available at the food truck event tonight?"
+Named Entities: [Gluten-free (Amenity), food truck event (Location), tonight (Hours)]
+
+Query: "I need to find a gluten-free food truck with high ratings for lunch."
+Named Entities: [Gluten-free (Amenity), food truck (Restaurant Name), high ratings (Rating), lunch (Hours)]

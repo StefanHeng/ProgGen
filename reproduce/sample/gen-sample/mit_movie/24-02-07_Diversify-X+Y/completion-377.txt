@@ -1,0 +1,8 @@
+1. "Can you tell me the plot of a multilayered science fiction movie with a G rating?"
+Named Entities: [multilayered (Plot), G (MPAA Rating), science fiction (Genre)]
+
+2. "I'm in the mood for an adventurous film with a complex storyline, could you recommend one from the 90s?"
+Named Entities: [adventurous (Viewers' Rating), complex storyline (Plot), 90s (Year)]
+
+3. "I'm looking for a mind-bending movie with a G rating, what can you suggest?"
+Named Entities: [mind-bending (Plot), G (MPAA Rating)]

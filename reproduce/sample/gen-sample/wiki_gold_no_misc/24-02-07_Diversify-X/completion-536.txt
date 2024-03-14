@@ -1,0 +1,8 @@
+Sentence: "The Beatles were an English rock band formed in Liverpool in 1960."
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+Sentence: "Her debut album, The Fame, was a critical and commercial success that produced global chart-topping singles such as 'Just Dance' and 'Poker Face'."
+Named Entities: []
+
+Sentence: "The Grammy Awards are awarded annually by the National Academy of Recording Arts and Sciences."
+Named Entities: [Grammy Awards (organization), National Academy of Recording Arts and Sciences (organization)]

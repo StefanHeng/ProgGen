@@ -1,0 +1,8 @@
+1. Text Span: "horror"
+Label: (A). The span is a named entity of type movie genre
+
+2. Text Span: "dramatic performances"
+Label: (C). Wrong Type. The correct entity type is Plot.
+
+3. Text Span: "spy"
+Label: (A). The span is a named entity of type movie genre

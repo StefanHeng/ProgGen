@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with delicious Mexican cuisine and good value for money"
+Named Entities: [Mexican cuisine (Cuisine), Value for money (Price)]
+
+Query: "What are the operating hours for the French Bistro downtown?"
+Named Entities: [French Bistro (Restaurant Name), downtown (Location)]
+
+Query: "I'm craving some authentic Italian pizza, do you know any places with high ratings?"
+Named Entities: [Italian (Cuisine), pizza (Dish), high ratings (Rating)]

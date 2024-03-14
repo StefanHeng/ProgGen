@@ -1,0 +1,8 @@
+1. Query: "Can I watch the trailer for the latest James Bond movie?"
+   Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. Query: "What movie from the 80s has the best soundtrack?"
+   Named Entities: [80s (Year), best soundtrack (Review)]
+
+3. Query: "Who directed the science fiction film that won best picture in the 90s?"
+   Named Entities: [science fiction (Genre), best picture (Review), 90s (Year)]

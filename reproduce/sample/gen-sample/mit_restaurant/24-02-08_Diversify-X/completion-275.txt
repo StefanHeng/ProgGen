@@ -1,0 +1,8 @@
+Query: "what's a good spot for breakfast before 8 am"
+Named Entities: [good (Rating), breakfast (Amenity), before 8 am (Hours)]
+
+Query: "any recommendations for a breakfast place with outdoor seating"
+Named Entities: [breakfast (Amenity), outdoor seating (Amenity)]
+
+Query: "where can I find a cheap breakfast spot nearby"
+Named Entities: [cheap (Price), breakfast (Amenity), nearby (Location)]

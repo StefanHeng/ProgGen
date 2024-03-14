@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a highly-rated movie directed by Christopher Nolan?"
+Named Entities: [highly-rated (Viewers' Rating), Christopher Nolan (Director)]
+
+2. Query: "What is the plot of the movie Inception?"
+Named Entities: [Inception (Title), the plot (Plot)]
+
+3. Query: "Show me a trailer for any action movie released in the past year."
+Named Entities: [action (Genre), past year (Year), trailer (Trailer)]

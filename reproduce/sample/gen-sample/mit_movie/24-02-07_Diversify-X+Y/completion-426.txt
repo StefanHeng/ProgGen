@@ -1,0 +1,8 @@
+1. Query: "Can I watch any Anne Hathaway movies on Netflix, like a psychological thriller or an award-winning film?"
+   Named Entities: [Anne Hathaway (Actor), Netflix (Streaming platform), psychological thriller (Genre), award-winning (Viewers' Rating)]
+
+2. Query: "Are there any Dreamgirls movies available to stream for free for a pre-teen girl like me?"
+   Named Entities: [Dreamgirls (Title), stream for free (Streaming platform), pre-teen girl (User demographic)]
+
+3. Query: "What is a good movie from 2010 that I can watch with my family, maybe something with Anne Hathaway in it?"
+   Named Entities: [2010 (Year), Anne Hathaway (Actor), family (User demographic)]

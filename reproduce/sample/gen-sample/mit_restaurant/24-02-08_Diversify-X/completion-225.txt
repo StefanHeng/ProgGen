@@ -1,0 +1,8 @@
+Query: "show me a late-night dining spot with a good beer selection"
+Named Entities: [late-night dining (Amenity), good beer selection (Amenity)]
+
+Query: "where can I find a restaurant with pizza and pasta after midnight"
+Named Entities: [pizza (Dish), pasta (Dish), after midnight (Hours)]
+
+Query: "I want to grab a bite at a 24-hour diner"
+Named Entities: [24-hour (Hours), diner (Amenity)]

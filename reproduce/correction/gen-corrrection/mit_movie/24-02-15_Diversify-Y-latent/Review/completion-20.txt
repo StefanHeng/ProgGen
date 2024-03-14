@@ -1,0 +1,11 @@
+1. Query: "Show me a film released in 2003 that is considered {{engaging}}"
+Text Span: "engaging"
+Label: (A). Named Entity of type Review
+
+2. Query: "Can you recommend me a {{Palme d'Or winner}} that was released in the 90s?"
+Text Span: "Palme d'Or winner"
+Label: (C). Named Entity but the category is not review. The correct entity type is Award.
+
+3. Query: "what is the {{highest Viewers' Rating}} comedy film from the 1990s"
+Text Span: "highest Viewers' Rating"
+Label: (C). Named Entity but the category is not review. The correct entity type is Viewers' Rating.

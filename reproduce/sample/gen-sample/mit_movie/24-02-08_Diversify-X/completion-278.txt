@@ -1,0 +1,8 @@
+Query: "Hey, who directed that awesome action movie with Tom Hardy and Charlize Theron?"
+Named Entities: [Tom Hardy (Actor), Charlize Theron (Actor), action (Genre)]
+
+Query: "What's the name of that one movie where Leonardo DiCaprio gets mauled by a bear?"
+Named Entities: [Leonardo DiCaprio (Actor)]
+
+Query: "Can you recommend any good sci-fi movies with Sigourney Weaver?"
+Named Entities: [sci-fi (Genre), Sigourney Weaver (Actor)]

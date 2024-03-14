@@ -1,0 +1,8 @@
+Query: "Hey, what's that movie where Tom Hanks plays a cop in a big city?"
+Named Entities: [Tom Hanks (Actor), cop in a big city (Plot)]
+
+Query: "Can you recommend a horror movie with some supernatural elements?"
+Named Entities: [horror (Genre), supernatural elements (Plot)]
+
+Query: "Yo, who directed that awesome sci-fi flick with the time-travel storyline?"
+Named Entities: [sci-fi (Genre), time-travel storyline (Plot)]

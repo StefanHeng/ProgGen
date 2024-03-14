@@ -1,0 +1,149 @@
+1. "Can you recommend any horror movies with a high viewers' rating?"
+Named Entities: [horror (Genre), high viewers' rating (Review)]
+
+2. "Who directed the film Life of Pi?"
+Named Entities: [Life of Pi (Title)]
+
+3. "Show me the trailer for the movie Mission Impossible: Fallout"
+Named Entities: [Mission Impossible: Fallout (Title), trailer (Trailer)]
+
+4. "What is the song featured in the movie A Star is Born?"
+Named Entities: [A Star is Born (Title), song (Song)]
+
+5. "Give me a list of recent comedy movies"
+Named Entities: [comedy (Genre)]
+
+6. "What is the plot of the film Inception?"
+Named Entities: [Inception (Title), plot (Plot)]
+
+7. "Is the movie Pulp Fiction suitable for children?"
+Named Entities: [Pulp Fiction (Title), suitable for children (MPAA Rating)]
+
+8. "Who are the main actors in The Lord of the Rings trilogy?"
+Named Entities: [The Lord of the Rings (Title), main actors (Actor)]
+
+9. "What year did the movie Titanic come out?"
+Named Entities: [Titanic (Title), year (Year)]
+
+10. "Can you recommend a movie with a strong female lead?"
+Named Entities: [strong female lead (Character)]
+
+11. "I want to find a romantic movie to watch tonight"
+Named Entities: [romantic (Genre)]
+
+12. "What is your favorite action movie from the 90s?"
+Named Entities: [action (Genre), 90s (Year)]
+
+13. "What is the viewers' rating for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewers' rating (Review)]
+
+14. "Can you show me the review for the film Parasite?"
+Named Entities: [Parasite (Title), review (Review)]
+
+15. "Is The Godfather a classic?"
+Named Entities: [The Godfather (Title), classic (Review)]
+
+16. "Who is the director of the movie The Matrix?"
+Named Entities: [The Matrix (Title), director (Director)]
+
+17. "I want to watch a thriller movie. Any suggestions?"
+Named Entities: [thriller (Genre)]
+
+18. "What is the MPAA rating for the movie Jaws?"
+Named Entities: [Jaws (Title), MPAA rating (MPAA Rating)]
+
+19. "Can you find me a list of family-friendly movies to watch with kids?"
+Named Entities: [family-friendly (Genre)]
+
+20. "What are some iconic quotes from the movie Forrest Gump?"
+Named Entities: [Forrest Gump (Title)]
+
+21. "Is the film The Dark Knight suitable for teenagers?"
+Named Entities: [The Dark Knight (Title), suitable for teenagers (MPAA Rating)]
+
+22. "Show me a list of movies that won the Best Picture Oscar"
+Named Entities: [Best Picture Oscar (Review)]
+
+23. "Give me some information about the director James Cameron"
+Named Entities: [James Cameron (Director)]
+
+24. "Can you recommend a feel-good movie with a happy ending?"
+Named Entities: [feel-good (Genre), happy ending (Plot)]
+
+25. "What is your favorite science fiction movie?"
+Named Entities: [science fiction (Genre)]
+
+26. "Is there a movie with Tom Hanks that has a historical setting?"
+Named Entities: [Tom Hanks (Actor), historical (Genre)]
+
+27. "Who directed the film Black Panther?"
+Named Entities: [Black Panther (Title)]
+
+28. "What is the viewers' rating for the movie The Green Mile?"
+Named Entities: [The Green Mile (Title), viewers' rating (Review)]
+
+29. "I want to watch a movie with strong female characters. Any suggestions?"
+Named Entities: [strong female characters (Character)]
+
+30. "What is the song featured in the movie Moana?"
+Named Entities: [Moana (Title), song (Song)]
+
+31. "Can you show me the trailer for the movie Interstellar?"
+Named Entities: [Interstellar (Title), trailer (Trailer)]
+
+32. "What type of movie genre is the film The Godfather?"
+Named Entities: [The Godfather (Title), genre (Genre)]
+
+33. "Is the movie The Silence of the Lambs suitable for someone who doesn't like horror?"
+Named Entities: [The Silence of the Lambs (Title), doesn't like horror (MPAA Rating)]
+
+34. "What year did the movie Inglourious Basterds come out?"
+Named Entities: [Inglourious Basterds (Title), year (Year)]
+
+35. "Who are the main actors in the movie The Avengers?"
+Named Entities: [The Avengers (Title), main actors (Actor)]
+
+36. "Can you suggest a good movie with a twist ending?"
+Named Entities: [twist ending (Plot)]
+
+37. "What is the MPAA rating for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), MPAA rating (MPAA Rating)]
+
+38. "Can you show me the review for the film The Social Network?"
+Named Entities: [The Social Network (Title), review (Review)]
+
+39. "Is the movie Blade Runner 2049 a classic?"
+Named Entities: [Blade Runner 2049 (Title), classic (Review)]
+
+40. "Who is the director of the movie The Lord of the Rings: The Fellowship of the Ring?"
+Named Entities: [The Lord of the Rings: The Fellowship of the Ring (Title), director (Director)]
+
+41. "I want to watch a mystery movie. Any suggestions?"
+Named Entities: [mystery (Genre)]
+
+42. "What is the MPAA rating for the movie Silence of the Lambs?"
+Named Entities: [Silence of the Lambs (Title), MPAA rating (MPAA Rating)]
+
+43. "Can you find me a list of superhero movies to watch?"
+Named Entities: [superhero (Genre)]
+
+44. "What are some iconic quotes from the movie The Princess Bride?"
+Named Entities: [The Princess Bride (Title)]
+
+45. "Is the film The Revenant suitable for children?"
+Named Entities: [The Revenant (Title), suitable for children (MPAA Rating)]
+
+46. "Show me a list of movies that won the Best Animated Feature Oscar"
+Named Entities: [Best Animated Feature Oscar (Review)]
+
+47. "Give me some information about the director Quentin Tarantino"
+Named Entities: [Quentin Tarantino (Director)]
+
+48. "Can you recommend a coming-of-age movie with a heartfelt plot?"
+Named Entities: [coming-of-age (Genre), heartfelt plot (Plot)]
+
+49. "What is your favorite fantasy movie?"
+Named Entities: [fantasy (Genre)]
+
+50. "Is there a movie with Meryl Streep that has a historical setting?"
+Named Entities: [Meryl Streep (Actor), historical (Genre)]

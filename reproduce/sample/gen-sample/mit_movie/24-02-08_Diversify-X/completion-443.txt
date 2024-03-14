@@ -1,0 +1,8 @@
+1. "What is the main genre of the movie The Dark Knight and what specific subgenre does it belong to?"
+Named Entities: [The Dark Knight (Title), main genre (Genre), specific subgenre (Genre)]
+
+2. "Can you recommend a highly-rated comedy film from the 1980s that has an outstanding plot?"
+Named Entities: [comedy film (Genre), 1980s (Year), outstanding plot (Plot)]
+
+3. "I'm interested in watching a science fiction movie with a focus on time travel. Are there any recent ones with good viewer ratings?"
+Named Entities: [science fiction movie (Genre), time travel (Plot), recent ones (Year), good viewer ratings (Viewers' Rating)]

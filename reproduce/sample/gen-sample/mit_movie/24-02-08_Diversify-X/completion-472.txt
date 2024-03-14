@@ -1,0 +1,8 @@
+1. "I'm not sure if this movie won any awards, but did the film Inception receive any nominations?"
+Named Entities: [Inception (Title), nominations (Awards)]
+
+2. "I'm not entirely certain, but I heard that the actor Leonardo DiCaprio was outstanding in the movie Titanic. Did he win any awards for his performance?"
+Named Entities: [Leonardo DiCaprio (Actor), Titanic (Title), awards (Awards)]
+
+3. "I'm not 100% sure, but I think the film La La Land was highly praised. Can you tell me if it received any awards or nominations?"
+Named Entities: [La La Land (Title), awards (Awards), nominations (Awards)]

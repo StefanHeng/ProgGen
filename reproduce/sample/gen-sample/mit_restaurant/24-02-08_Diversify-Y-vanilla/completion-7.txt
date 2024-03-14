@@ -1,0 +1,8 @@
+Query: "I'm craving some honey walnut shrimp, where can I find a restaurant that serves it?"
+Named Entities: [honey walnut shrimp (Dish)]
+
+Query: "What's the best Japanese restaurant in the area with a high rating?"
+Named Entities: [Japanese (Cuisine), best (Rating)]
+
+Query: "I need a family-friendly restaurant with outdoor seating that's open late"
+Named Entities: [family-friendly (Amenity), outdoor seating (Amenity), open late (Hours)]

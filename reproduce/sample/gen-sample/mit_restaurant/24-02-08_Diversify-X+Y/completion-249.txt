@@ -1,0 +1,8 @@
+Query: "What's a good spot for lunch delivery near the office?"
+Named Entities: [lunch (Amenity), delivery (Amenity), Near the office (Location)]
+
+Query: "I'm craving Italian food for lunch near the office, any recommendations?"
+Named Entities: [Italian (Cuisine), lunch (Amenity), Near the office (Location)]
+
+Query: "Is there a place with quick delivery service for lunch near the office?"
+Named Entities: [quick (Amenity), delivery (Amenity), lunch (Amenity), Near the office (Location)]

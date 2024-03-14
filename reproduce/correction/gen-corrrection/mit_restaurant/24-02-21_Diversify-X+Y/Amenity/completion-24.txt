@@ -1,0 +1,11 @@
+1. Query: "Can you recommend any restaurants in the vicinity with a vegetarian {{buffet}} for lunchtime?"
+Text Span: "buffet"
+Label: (A). The span is a named entity of type amenity
+
+2. Query: "I'm looking for a restaurant with a tasting menu for breakfast with {{Free Wi-Fi}}"
+Text Span: "Free Wi-Fi"
+Label: (A). The span is a named entity of type amenity
+
+3. Query: "I'm looking for a high-end restaurant with a diverse menu for a {{formal dinner event}}."
+Text Span: "formal dinner event"
+Label: (A). The span is a named entity of type amenity

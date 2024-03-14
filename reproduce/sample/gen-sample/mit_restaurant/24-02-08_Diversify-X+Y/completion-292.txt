@@ -1,0 +1,8 @@
+Query: "Can you recommend a budget-friendly restaurant in Austin with a low-carb brunch menu?"
+Named Entities: [budget-friendly (Price), Austin (Location), low-carb (Cuisine), brunch (Amenity)]
+
+Query: "I'm looking for a place in Austin where I can have a low-carb brunch without breaking the bank, any suggestions?"
+Named Entities: [low-carb (Cuisine), brunch (Amenity), Austin (Location), breaking the bank (Price)]
+
+Query: "Where can I find a budget-friendly restaurant in Austin with a low-carb brunch menu?"
+Named Entities: [budget-friendly (Price), Austin (Location), low-carb (Cuisine), brunch (Amenity)]

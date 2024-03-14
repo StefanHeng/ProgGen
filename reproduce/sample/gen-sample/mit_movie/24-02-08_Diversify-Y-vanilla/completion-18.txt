@@ -1,0 +1,8 @@
+1. "Can you recommend a frightening movie directed by Martin Scorsese?"
+Named Entities: [frightening (Genre), Martin Scorsese (Director)]
+
+2. "Show me a coming-of-age journey film with a high viewers' rating"
+Named Entities: [coming-of-age journey (Genre), high (Viewers' Rating)]
+
+3. "Is there a true crime movie featuring Martin Scorsese as the director?"
+Named Entities: [true crime (Genre), Martin Scorsese (Director)]

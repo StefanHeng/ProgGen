@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant with a Michelin star rating?"
+Named Entities: [fine dining (Amenity), Michelin star (Rating)]
+
+Query: "I'm looking for a high-end restaurant with a tasting menu in the area"
+Named Entities: [high-end (Price), tasting menu (Amenity), area (Location)]
+
+Query: "What are the top-rated upscale restaurants in the city?"
+Named Entities: [top-rated (Rating), upscale (Amenity), city (Location)]

@@ -1,0 +1,8 @@
+Query: "can you recommend a Haitian restaurant with good ratings"
+Named Entities: [Haitian (Cuisine), good ratings (Rating)]
+
+Query: "where can I find Syrian cuisine in the downtown area"
+Named Entities: [Syrian (Cuisine), downtown area (Location)]
+
+Query: "I'm in the mood for some spicy dishes, any restaurants with a variety of spicy options"
+Named Entities: [spicy dishes (Dish), variety of spicy options (Amenity)]

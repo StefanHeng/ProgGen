@@ -1,0 +1,8 @@
+Query: "Can you recommend a café with vegan options for breakfast"
+Named Entities: [vegan (Cuisine), breakfast (Hours), café (Amenity)]
+
+Query: "I'm looking for a cozy café with outdoor seating and a good brunch menu"
+Named Entities: [cozy (Amenity), outdoor seating (Amenity), brunch (Dish), café (Amenity)]
+
+Query: "Where can I find a café with free wifi and a relaxed atmosphere for a light lunch"
+Named Entities: [free wifi (Amenity), relaxed atmosphere (Amenity), light lunch (Price), café (Amenity)]

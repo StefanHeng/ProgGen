@@ -1,0 +1,8 @@
+1. Query: "What movie features a western showdown and is considered a must-see?"
+   Named Entities: [western showdown (Plot), must see (Viewers' Rating)]
+
+2. Query: "Show me a movie with the song Circle of Life"
+   Named Entities: [Circle of Life (Song)]
+
+3. Query: "Is there a war movie from the 1960s that is unrated?"
+   Named Entities: [war (Genre), 1960s (Year), unrated (MPAA Rating)]

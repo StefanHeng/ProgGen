@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with halal options for dinner tonight?"
+Named Entities: [fine dining (Amenity), halal (Cuisine), dinner tonight (Hours)]
+
+2. "I'm looking for a fancy restaurant with halal dishes in the area, what are my options?"
+Named Entities: [fancy (Rating), halal (Cuisine), in the area (Location)]
+
+3. "I need a reservation at a high-end halal restaurant with a good wine selection, can you assist with that?"
+Named Entities: [high-end (Price), halal (Cuisine), good wine selection (Amenity)]

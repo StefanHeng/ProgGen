@@ -1,0 +1,8 @@
+1. "What movie showings are playing Somewhere Over the Rainbow?"
+Named Entities: [Somewhere Over the Rainbow (Song), movie showings (Title)]
+
+2. "Have you seen the new movie featuring Buzz Lightyear? What genre is it?"
+Named Entities: [Buzz Lightyear (Character), new movie (Title), genre (Genre)]
+
+3. "When was E.T. the Extra-Terrestrial released and who directed it?"
+Named Entities: [E.T. the Extra-Terrestrial (Title), released (Year), directed (Director)]

@@ -1,0 +1,8 @@
+1. "can you recommend a budget-friendly restaurant with a buffet option"
+Named Entities: [budget-friendly (Price), buffet (Amenity)]
+
+2. "which restaurant around here offers a budget-friendly buffet for dinner"
+Named Entities: [budget-friendly (Price), buffet (Amenity), dinner (Hours)]
+
+3. "find me a place with a buffet and affordable prices"
+Named Entities: [buffet (Amenity), affordable prices (Price)]

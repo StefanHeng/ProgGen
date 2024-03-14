@@ -1,0 +1,8 @@
+1. The company was founded in 1911 as the Computing-Tabulating-Recording Company and renamed "International Business Machines" in 1924.
+Named Entities: [IBM (organization)]
+
+2. She joined IBM as a software engineer after graduating from Stanford University.
+Named Entities: [IBM (organization), Stanford University (organization)]
+
+3. IBM's headquarters are located in Armonk, New York.
+Named Entities: [IBM (organization), Armonk (location), New York (location)]

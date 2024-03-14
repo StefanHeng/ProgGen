@@ -1,0 +1,8 @@
+1. Text Span: "nearest diner"
+Label: (A). The span is a named entity of type location
+
+2. Text Span: "around here"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "the city"
+Label: (B). Wrong Boundary. The correct span boundary is "in the city"

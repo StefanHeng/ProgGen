@@ -1,0 +1,8 @@
+1. Query: "Where can I find some discounted barbecue options in the area?"
+   Named Entities: [discounted (Amenity), barbecue (Cuisine), area (Location)]
+
+2. Query: "Do you know any reliable restaurants that serve Five Guys burgers?"
+   Named Entities: [reliable (Rating), Five Guys (Restaurant Name), burgers (Dish)]
+
+3. Query: "Is there a barbecue joint with a good menu for happy hour?"
+   Named Entities: [barbecue (Cuisine), good (Rating), happy hour (Amenity)]

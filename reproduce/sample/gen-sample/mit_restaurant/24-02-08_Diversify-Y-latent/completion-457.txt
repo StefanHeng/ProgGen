@@ -1,0 +1,8 @@
+1. "Where can I find a cheap brunch place in town for Saturday morning?"
+   Named Entities: [cheap (Price), brunch (Cuisine), town (Location), Saturday (Day)]
+
+2. "I'm craving sushi, is there a highly rated sushi restaurant nearby?"
+   Named Entities: [sushi (Cuisine), highly rated (Rating), nearby (Location)]
+
+3. "Can you recommend a steakhouse with outdoor seating and live music for Saturday night?"
+   Named Entities: [steakhouse (Cuisine), outdoor seating (Amenity), live music (Amenity), Saturday night (Day)]

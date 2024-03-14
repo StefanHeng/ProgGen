@@ -1,0 +1,8 @@
+1. "I can't decide if I want to watch an educational movie about the making of a film featuring Hugh Jackman. Can you recommend anything?"
+Named Entities: [educational (Genre), Hugh Jackman (Actor)]
+
+2. "I'm not sure if I'm in the mood for a documentary about Michael Mann's directing process. Can you suggest something else?"
+Named Entities: [Michael Mann (Director), documentary (Genre)]
+
+3. "I'm feeling unsure about what to watch tonight. Do you have any recommendations for a movie with poor behind-the-scenes gossip?"
+Named Entities: [poor (Plot)]

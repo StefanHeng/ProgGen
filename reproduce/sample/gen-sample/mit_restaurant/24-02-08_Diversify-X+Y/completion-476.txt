@@ -1,0 +1,8 @@
+Query: "Can you recommend a quiet and peaceful Thai restaurant for dinner?"
+Named Entities: [quiet and peaceful (Amenity), Thai (Cuisine)]
+
+Query: "I'm craving a low-carb dinner, any suggestions for a restaurant with Margherita pizza?"
+Named Entities: [low-carb (Dietary restriction), Margherita pizza (Dish)]
+
+Query: "I'm in the mood for Vietnamese cuisine tonight, where can I find a peaceful restaurant for dinner?"
+Named Entities: [peaceful (Amenity), Vietnamese (Cuisine)]

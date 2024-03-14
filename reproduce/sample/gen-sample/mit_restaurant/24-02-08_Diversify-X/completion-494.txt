@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with good late-night dining options?"
+Named Entities: [good (Rating), late-night dining (Amenity)]
+
+Query: "I'm looking for a place with affordable late-night dining, maybe some pizza or burgers"
+Named Entities: [affordable (Price), late-night dining (Amenity), pizza (Dish), burgers (Dish)]
+
+Query: "Where can I find late-night dining that serves Mexican food after midnight?"
+Named Entities: [late-night dining (Amenity), Mexican (Cuisine), after midnight (Hours)]

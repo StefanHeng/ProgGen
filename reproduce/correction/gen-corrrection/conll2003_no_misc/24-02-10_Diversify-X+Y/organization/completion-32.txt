@@ -1,0 +1,8 @@
+1. Text Span: "National Geographic Society"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "University of Sao Paulo"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Obama"
+Label: (C). The span is a named entity but the category is not organization. Entity type: person

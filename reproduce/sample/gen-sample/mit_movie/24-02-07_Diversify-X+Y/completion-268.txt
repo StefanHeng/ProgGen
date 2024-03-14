@@ -1,0 +1,8 @@
+1. Query: "Who was the set designer for the latest Vin Diesel movie release"
+Named Entities: [set designer (Character), Vin Diesel (Actor)]
+
+2. Query: "Can you give me an advance look at the upcoming movie featuring Justin Timberlake"
+Named Entities: [advance look (Trailer), Justin Timberlake (Actor)]
+
+3. Query: "What movie did Vin Diesel star in as the lead role and who was the director"
+Named Entities: [Vin Diesel (Actor), director (Director)]

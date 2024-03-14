@@ -1,0 +1,8 @@
+1. Text Span: "close tonight"
+Label: (A). Correct Entity Annotation.
+
+2. Text Span: "24-hour diner"
+Label: (B). Wrong Boundary. The correct span boundary is "24-hour".
+
+3. Text Span: "Friday"
+Label: (A). Correct Entity Annotation.

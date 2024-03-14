@@ -1,0 +1,8 @@
+1. "Can you recommend a rustic restaurant with a good breakfast menu?"
+Named Entities: [rustic (Amenity), breakfast (Meal category)]
+
+2. "I'm craving some pancakes. Is there a diner nearby with a rustic ambience?"
+Named Entities: [pancakes (Dish), diner (Restaurant Name), rustic (Amenity)]
+
+3. "Where can I find a cozy spot for breakfast with a countryside feel?"
+Named Entities: [cozy (Amenity), breakfast (Meal category), countryside (Location)]

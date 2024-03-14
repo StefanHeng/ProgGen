@@ -1,0 +1,8 @@
+1. "I'm craving some good fried chicken, where's the nearest restaurant with a takeout window?"
+   Named Entities: [good (Rating), nearest (Location), takeout window (Amenity), fried chicken (Dish)]
+
+2. "What's a great place in Portland to grab some dinner for under 20 dollars?"
+   Named Entities: [Portland (Location), under 20 dollars (Price)]
+
+3. "I want to try some Afghan cuisine, can you recommend a restaurant with a good rating that opens before 10 am?"
+   Named Entities: [Afghan (Cuisine), good rating (Rating), before 10 am (Hours)]

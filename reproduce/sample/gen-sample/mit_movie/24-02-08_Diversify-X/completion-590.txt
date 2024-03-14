@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a memorable soundtrack featuring the song "Eye of the Tiger"?
+Named Entities: [Eye of the Tiger (Song)]
+
+Query: "Show me a list of movies from the 80s with iconic song soundtracks."
+Named Entities: [80s (Year), iconic song soundtracks (Song)]
+
+Query: "Are there any must-see movies known for their famous musical scores or theme songs?"
+Named Entities: [must-see (Viewers' Rating), famous musical scores (Song)]

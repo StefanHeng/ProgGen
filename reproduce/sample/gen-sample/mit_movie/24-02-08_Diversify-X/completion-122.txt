@@ -1,0 +1,8 @@
+Query: "can you tell me the showtimes for the latest James Bond movie?"
+Named Entities: [James Bond (Title)]
+
+Query: "is there a movie theater nearby playing the new action film?"
+Named Entities: [action film (Genre)]
+
+Query: "what movie is currently showing with a soundtrack by Hans Zimmer?"
+Named Entities: [Hans Zimmer (Composer)]

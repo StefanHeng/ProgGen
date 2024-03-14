@@ -1,0 +1,11 @@
+1. Sentence: "The {{International Paralympic Committee}} is responsible for organizing the Summer and Winter Paralympic Games."
+Text Span: "International Paralympic Committee"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The company announced plans to open new {{Starbucks}} Reserve Roasteries in Milan and New York City."
+Text Span: "Starbucks"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "In 2015, Serena Williams won the Australian Open, the French Open, and {{Wimbledon}}, becoming the oldest woman to win a Grand Slam singles title in the Open Era."
+Text Span: "Wimbledon"
+Label: (A). The span is a named entity of type organization

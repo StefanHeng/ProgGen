@@ -1,0 +1,8 @@
+1. Text Span: "theme song"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "My Heart Will Go On"
+   Label: (A). The span is a named entity of type song
+
+3. Text Span: "Eye of the Tiger"
+   Label: (A). The span is a named entity of type song

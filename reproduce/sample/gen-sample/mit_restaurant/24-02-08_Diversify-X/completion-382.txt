@@ -1,0 +1,8 @@
+Query: "Do you know any trendy breakfast spots in the area?"
+Named Entities: [breakfast (Cuisine), trendy (Amenity), area (Location)]
+
+Query: "What are the top-rated breakfast places with a trendy vibe?"
+Named Entities: [breakfast (Cuisine), top-rated (Rating), trendy (Amenity)]
+
+Query: "I'm looking for a hip breakfast joint with good reviews, maybe with outdoor seating?"
+Named Entities: [breakfast (Cuisine), hip (Amenity), good reviews (Rating), outdoor seating (Amenity)]

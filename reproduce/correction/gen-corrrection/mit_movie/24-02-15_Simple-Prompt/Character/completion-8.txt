@@ -1,0 +1,8 @@
+1. Text Span: "lead role"
+   Label: (D). Not a Named Entity
+
+2. Text Span: "strong female lead"
+   Label: (C). The span is a named entity but the category is not character. Entity Type: Character
+
+3. Text Span: "main antagonist"
+   Label: (A). The span is a named entity of type character

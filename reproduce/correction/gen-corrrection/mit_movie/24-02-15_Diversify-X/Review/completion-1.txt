@@ -1,0 +1,11 @@
+1. Query: "What are some {{highly-rated}} movies from the 80s that are suitable for family viewing?"
+Text Span: "highly-rated"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Can you recommend a highly-rated movie with a gripping plot and {{stunning visuals}}?"
+Text Span: "stunning visuals"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend any classic movies with a {{catchy}} song in the teaser?"
+Text Span: "catchy"
+Label: (C). Wrong Type. The correct entity type is Song.

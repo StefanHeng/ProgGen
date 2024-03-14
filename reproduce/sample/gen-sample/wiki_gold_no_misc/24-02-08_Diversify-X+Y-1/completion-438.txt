@@ -1,0 +1,8 @@
+Sentence: "The Federal Reserve, commonly referred to as the Fed, plays a crucial role in regulating the nation's monetary policy and overseeing the banking system."
+Named Entities: [Federal Reserve (organization)]
+
+Sentence: "Keynesian economics, named after economist John Maynard Keynes, advocates for government intervention in the economy to stimulate demand during times of recession."
+Named Entities: [Keynesian economics (organization), John Maynard Keynes (person)]
+
+Sentence: "The World Bank, headquartered in Washington D.C., provides financial and technical assistance to developing countries for development projects."
+Named Entities: [World Bank (organization), Washington D.C. (location)]

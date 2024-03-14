@@ -1,0 +1,8 @@
+Query: "I'm looking for a hip and trendy breakfast spot in the area"
+Named Entities: [breakfast (Amenity), hip and trendy (Amenity), area (Location)]
+
+Query: "what's a cool place to grab breakfast around here"
+Named Entities: [cool (Amenity), breakfast (Amenity), around here (Location)]
+
+Query: "show me a trendy brunch place with a good vibe"
+Named Entities: [brunch (Amenity), trendy (Amenity), good vibe (Amenity)]

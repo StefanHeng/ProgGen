@@ -1,0 +1,8 @@
+1. "Can you provide me with the trailer for the 1966 Spider-Man film with a PG-13 rating?"
+Named Entities: [trailer (Trailer), 1966 (Year), Spider-Man (Title), PG-13 (MPAA Rating)]
+
+2. "Do you have any teasers for the Rated X movie released in 1972?"
+Named Entities: [teasers (Trailer), Rated X (MPAA Rating), 1972 (Year)]
+
+3. "Could you show me some parts of the new PG-13 action movie from 1995?"
+Named Entities: [some parts (Trailer), PG-13 (MPAA Rating), 1995 (Year)]

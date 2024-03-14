@@ -1,0 +1,8 @@
+Query: "Who directed the movie Inception?"
+Named Entities: [Inception (Title), directed (Director)]
+
+Query: "Can you tell me which movies Tom Hanks starred in during the 1990s?"
+Named Entities: [Tom Hanks (Actor), 1990s (Year)]
+
+Query: "What is the viewer rating for the movie The Shawshank Redemption?"
+Named Entities: [The Shawshank Redemption (Title), viewer rating (Viewers' Rating)]

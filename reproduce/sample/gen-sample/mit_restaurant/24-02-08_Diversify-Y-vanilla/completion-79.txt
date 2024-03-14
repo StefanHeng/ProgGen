@@ -1,0 +1,8 @@
+1. Query: "where can I find a restaurant that serves afternoon tea?"
+Named Entities: [afternoon tea (Amenity)]
+
+2. Query: "I'm craving some brisket for dinner, can you recommend a place?"
+Named Entities: [brisket (Dish), dinner (Hours)]
+
+3. Query: "what's the best restaurant nearby for afternoon tea?"
+Named Entities: [best (Rating), nearby (Location), afternoon tea (Amenity)]

@@ -1,0 +1,8 @@
+Query: "I'm craving a good burger and fries, where's the nearest fast food joint?"
+Named Entities: [burger and fries (Dish), nearest (Location), fast food (Cuisine)]
+
+Query: "what's a popular fast food spot in the area with a drive-thru?"
+Named Entities: [popular (Rating), fast food (Cuisine), drive-thru (Amenity)]
+
+Query: "can you recommend a budget-friendly fast food place for a quick meal?"
+Named Entities: [budget-friendly (Price), fast food (Cuisine), quick meal (Amenity)]

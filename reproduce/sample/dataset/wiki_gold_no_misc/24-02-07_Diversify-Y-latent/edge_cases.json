@@ -1,0 +1,1227 @@
+[
+    {
+        "sentence": "Ludwig van Beethoven was a German composer and pianist.",
+        "entity_names": [
+            "Ludwig van Beethoven",
+            "Germany"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "She co-founded The Huffington Post and is the founder and CEO of Thrive Global.",
+        "entity_names": [
+            "Arianna Huffington",
+            "The Huffington Post",
+            "Thrive Global"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "person",
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Arianna Huffington"
+        ]
+    },
+    {
+        "sentence": "The region is famous for its Cabernet Sauvignon, Merlot, Zinfandel, and Chardonnay wines.",
+        "entity_names": [
+            "Napa Valley"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Napa Valley"
+        ]
+    },
+    {
+        "sentence": "The ch\u00e2teau is currently owned by a non-profit organization dedicated to preserving its historical significance.",
+        "entity_names": [
+            "Ch\u00e2teau de La Napoule"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Ch\u00e2teau de La Napoule"
+        ]
+    },
+    {
+        "sentence": "His research on the Balinese cockfight shed light on the cultural significance of ritualized violence in traditional societies.",
+        "entity_names": [
+            "Balinese",
+            "Clifford Geertz"
+        ],
+        "filename": "completion-20",
+        "entity_types": [
+            "location",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Clifford Geertz"
+        ]
+    },
+    {
+        "sentence": "Apple CEO Tim Cook announced the company's plans to be listed on the Tokyo Stock Exchange.",
+        "entity_names": [
+            "Tim Cook",
+            "Tokyo Stock Exchange",
+            "Japan"
+        ],
+        "filename": "completion-23",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "The University of Chicago, located in the city with the same name, is a renowned educational institution.",
+        "entity_names": [
+            "University of Chicago",
+            "Chicago"
+        ],
+        "filename": "completion-23",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Chicago"
+        ]
+    },
+    {
+        "sentence": "The company was founded in 1911 as the Computing-Tabulating-Recording Company and renamed \"International Business Machines\" in 1924.",
+        "entity_names": [
+            "IBM"
+        ],
+        "filename": "completion-29",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "IBM"
+        ]
+    },
+    {
+        "sentence": "The Melbourne Cricket Ground (MCG) is the largest stadium in the Southern Hemisphere.",
+        "entity_names": [
+            "Melbourne",
+            "Australia",
+            "Melbourne Cricket Ground"
+        ],
+        "filename": "completion-39",
+        "entity_types": [
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "David Hilbert, a renowned mathematician, made significant contributions to the field of geometry and is best known for his work on invariant theory and mathematical logic.",
+        "entity_names": [
+            "David Hilbert",
+            "Institute of Mathematics and its Applications"
+        ],
+        "filename": "completion-48",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Institute of Mathematics and its Applications"
+        ]
+    },
+    {
+        "sentence": "The Detroit Institute of Arts is known for its Diego Rivera murals.",
+        "entity_names": [
+            "Detroit",
+            "Diego Rivera",
+            "Detroit Institute of Arts"
+        ],
+        "filename": "completion-49",
+        "entity_types": [
+            "location",
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Detroit"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was a turning point in the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-54",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-60",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Rio de Janeiro Carnival is an annual festival held before Lent.",
+        "entity_names": [
+            "Rio de Janeiro",
+            "Carnival"
+        ],
+        "filename": "completion-75",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Carnival"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "A team from the Easter Island Statue Project recently uncovered scorch marks near the base of the statues, leading to speculation that the massive structures were intentionally set on fire.",
+        "entity_names": [
+            "Easter Island Statue Project",
+            "Easter Island"
+        ],
+        "filename": "completion-77",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Easter Island"
+        ]
+    },
+    {
+        "sentence": "Audie Murphy was the most decorated American combat soldier of World War II.",
+        "entity_names": [
+            "Audie Murphy",
+            "World War II"
+        ],
+        "filename": "completion-84",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Battle of Ramree Island was fought in January and February 1945, during World War II on Ramree Island, off the Burma coast.",
+        "entity_names": [
+            "Battle of Ramree Island",
+            "World War II",
+            "Ramree Island",
+            "Burma"
+        ],
+        "filename": "completion-84",
+        "entity_types": [
+            "event",
+            "event",
+            "location",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Battle of Ramree Island",
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Merce Cunningham Trust continues to preserve and promote his work.",
+        "entity_names": [
+            "Merce Cunningham Trust",
+            "Merce Cunningham"
+        ],
+        "filename": "completion-93",
+        "entity_types": [
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Merce Cunningham"
+        ]
+    },
+    {
+        "sentence": "The Merce Cunningham Dance Company toured internationally for nearly fifty years.",
+        "entity_names": [
+            "Merce Cunningham Dance Company",
+            "Merce Cunningham"
+        ],
+        "filename": "completion-93",
+        "entity_types": [
+            "organization",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Merce Cunningham"
+        ]
+    },
+    {
+        "sentence": "The Sichuan hot pot is known for its spicy and flavorful broth.",
+        "entity_names": [
+            "Sichuan",
+            "China"
+        ],
+        "filename": "completion-108",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Anthony Bourdain was an American celebrity chef, author, and travel documentarian.",
+        "entity_names": [
+            "Anthony Bourdain",
+            "America"
+        ],
+        "filename": "completion-111",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "America"
+        ]
+    },
+    {
+        "sentence": "The United Nations is an international organization founded in 1945 after the Second World War.",
+        "entity_names": [
+            "United Nations",
+            "Second World War"
+        ],
+        "filename": "completion-127",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Second World War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "After graduating from Harvard University, Jane Smith joined the World Health Organization to work on global health initiatives.",
+        "entity_names": [
+            "Harvard University",
+            "Jane Smith",
+            "World Health Organization",
+            "global health"
+        ],
+        "filename": "completion-141",
+        "entity_types": [
+            "location",
+            "person",
+            "organization",
+            "concept"
+        ],
+        "entity_names_not_allowed": [
+            "global health"
+        ],
+        "entity_types_not_allowed": [
+            "concept"
+        ]
+    },
+    {
+        "sentence": "The Yale University Department of Psychology conducted a study on the long-term effects of childhood trauma on mental health.",
+        "entity_names": [
+            "Yale University Department of Psychology",
+            "Mental Health Foundation"
+        ],
+        "filename": "completion-154",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Mental Health Foundation"
+        ]
+    },
+    {
+        "sentence": "The Mona Lisa is widely considered to be the most famous painting in the world.",
+        "entity_names": [
+            "Mona Lisa"
+        ],
+        "filename": "completion-155",
+        "entity_types": [
+            "artwork"
+        ],
+        "entity_names_not_allowed": [
+            "Mona Lisa"
+        ],
+        "entity_types_not_allowed": [
+            "artwork"
+        ]
+    },
+    {
+        "sentence": "The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by Italian artist Leonardo da Vinci.",
+        "entity_names": [
+            "Mona Lisa",
+            "Leonardo da Vinci",
+            "Italy"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "The theory proposes a multitude of practices that are carried out differently depending on the domain in which they are performed.",
+        "entity_names": [
+            "Pierre Bourdieu"
+        ],
+        "filename": "completion-189",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Pierre Bourdieu"
+        ]
+    },
+    {
+        "sentence": "The organization collaborates with researchers, policymakers, and advocates to provide evidence-based research on education reform.",
+        "entity_names": [
+            "National Education Policy Center"
+        ],
+        "filename": "completion-212",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Education Policy Center"
+        ]
+    },
+    {
+        "sentence": "The Boston Tea Party was a key event in the lead-up to the American Revolution.",
+        "entity_names": [
+            "Boston Tea Party",
+            "American Revolution"
+        ],
+        "filename": "completion-232",
+        "entity_types": [
+            "event",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Boston Tea Party",
+            "American Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "In 2003, Aileen Wuornos was the subject of the film Monster, for which Charlize Theron won the Academy Award for Best Actress at the 76th Academy Awards.",
+        "entity_names": [
+            "Aileen Wuornos",
+            "Monster",
+            "Charlize Theron",
+            "Academy Award"
+        ],
+        "filename": "completion-234",
+        "entity_types": [
+            "person",
+            "film",
+            "person",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "Monster"
+        ],
+        "entity_types_not_allowed": [
+            "film"
+        ]
+    },
+    {
+        "sentence": "Marshall McLuhan was a Canadian philosopher and intellectual.",
+        "entity_names": [
+            "Marshall McLuhan",
+            "Canada"
+        ],
+        "filename": "completion-238",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Canada"
+        ]
+    },
+    {
+        "sentence": "In 2015, Ukrainian wrestler Oleksandr Kvyatkovskyi won the gold medal in the 74kg weight category at the European Championships in Tbilisi, Georgia.",
+        "entity_names": [
+            "Oleksandr Kvyatkovskyi",
+            "European Championships",
+            "Tbilisi",
+            "Georgia",
+            "Ukraine"
+        ],
+        "filename": "completion-269",
+        "entity_types": [
+            "person",
+            "organization",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Ukraine"
+        ]
+    },
+    {
+        "sentence": "Vasco da Gama was a Portuguese explorer and the first European to reach India by sea.",
+        "entity_names": [
+            "Vasco da Gama",
+            "Portugal",
+            "India"
+        ],
+        "filename": "completion-278",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Portugal"
+        ]
+    },
+    {
+        "sentence": "She has been a vocal advocate for environmental conservation and has worked with various organizations to promote sustainable practices.",
+        "entities": [
+            "organizations"
+        ]
+    },
+    {
+        "sentence": "The two organizations collaborated on a research project to study the impact of climate change on glacier retreat in the North American Arctic region.",
+        "entity_names": [
+            "United States Geological Survey",
+            "North American Arctic"
+        ],
+        "filename": "completion-280",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States Geological Survey"
+        ]
+    },
+    {
+        "sentence": "The company Apple Inc. is widely known for its innovative technology products, including the iPhone and Mac computers.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone",
+            "Mac"
+        ],
+        "filename": "completion-287",
+        "entity_types": [
+            "organization",
+            "product",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone",
+            "Mac"
+        ],
+        "entity_types_not_allowed": [
+            "product",
+            "product"
+        ]
+    },
+    {
+        "sentence": "She launched her own fashion house in 2001, with a collection showcased during London Fashion Week.",
+        "entity_names": [
+            "London Fashion Week"
+        ],
+        "filename": "completion-297",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "London Fashion Week"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Eiffel Tower was constructed as the entrance to the 1889 World's Fair.",
+        "entity_names": [
+            "Eiffel Tower",
+            "World's Fair"
+        ],
+        "filename": "completion-298",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World's Fair"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Mona Lisa is widely known for her enigmatic smile.",
+        "entity_names": [
+            "Mona Lisa"
+        ],
+        "filename": "completion-298",
+        "entity_types": [
+            "artwork"
+        ],
+        "entity_names_not_allowed": [
+            "Mona Lisa"
+        ],
+        "entity_types_not_allowed": [
+            "artwork"
+        ]
+    },
+    {
+        "sentence": "Her most famous work, I Know Why the Caged Bird Sings, is an autobiography that has garnered widespread critical acclaim.",
+        "entity_names": [
+            "Maya Angelou"
+        ],
+        "filename": "completion-303",
+        "entity_types": [
+            "person"
+        ],
+        "missing_entity_names": [
+            "Maya Angelou"
+        ]
+    },
+    {
+        "sentence": "Bangalore is known for its pleasant climate, aerospace, and defense industries, and numerous public-sector industries such as Hindustan Aeronautics Limited, National Aerospace Laboratories, and Bharat Electronics Limited.",
+        "entity_names": [
+            "Bangalore",
+            "[Hindustan Aeronautics Limited",
+            "[National Aerospace Laboratories",
+            "[Bharat Electronics Limited"
+        ],
+        "filename": "completion-304",
+        "entity_types": [
+            "location)]",
+            "organization)]",
+            "organization)]",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "[Hindustan Aeronautics Limited",
+            "[National Aerospace Laboratories",
+            "[Bharat Electronics Limited"
+        ]
+    },
+    {
+        "sentence": "The government of Karnataka and the Ministry of Railways have both proposed plans for a metro system to ease traffic congestion [Bangalore].",
+        "entity_names": [
+            "Karnataka",
+            "[Ministry of Railways",
+            "[Bangalore"
+        ],
+        "filename": "completion-304",
+        "entity_types": [
+            "location)]",
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Ministry of Railways"
+        ]
+    },
+    {
+        "sentence": "Bangalore is home to many educational and research institutions, such as the Indian Institute of Science, Indian Institute of Management, and National Institute of Fashion Technology.",
+        "entity_names": [
+            "Indian Institute of Science",
+            "[Indian Institute of Management",
+            "[National Institute of Fashion Technology",
+            "[Bangalore"
+        ],
+        "filename": "completion-304",
+        "entity_types": [
+            "organization)]",
+            "organization)]",
+            "organization)]",
+            "location"
+        ],
+        "missing_entity_names": [
+            "[Indian Institute of Management",
+            "[National Institute of Fashion Technology",
+            "[Bangalore"
+        ]
+    },
+    {
+        "sentence": "The Chrysler Building is an iconic skyscraper located in New York City.",
+        "entity_names": [
+            "Chrysler Building",
+            "United States"
+        ],
+        "filename": "completion-322",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The Sumerians were one of the earliest civilizations in Mesopotamia.",
+        "entity_names": [
+            "Sumer",
+            "Mesopotamia"
+        ],
+        "filename": "completion-324",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Sumer"
+        ]
+    },
+    {
+        "sentence": "The construction of The Eiffel Tower was completed in 1889, in time for the 1889 World's Fair held in Paris to celebrate the 100th anniversary of the French Revolution.",
+        "entity_names": [
+            "Eiffel Tower",
+            "Paris",
+            "1889 World's Fair",
+            "French Revolution"
+        ],
+        "filename": "completion-325",
+        "entity_types": [
+            "location",
+            "location",
+            "event",
+            "event"
+        ],
+        "reordered_entity_names": [
+            "Eiffel Tower",
+            "1889 World's Fair",
+            "Paris",
+            "French Revolution"
+        ],
+        "reordered_entity_types": [
+            "location",
+            "event",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "1889 World's Fair",
+            "French Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "She became the first person to successfully climb Mount Everest without the use of supplemental oxygen.",
+        "entity_names": [
+            "Mount Everest",
+            "Andromeda Galaxy"
+        ],
+        "filename": "completion-360",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Andromeda Galaxy"
+        ]
+    },
+    {
+        "sentence": "The Bill & Melinda Gates Foundation, founded by Bill and Melinda Gates, is a private foundation in Seattle, Washington.",
+        "entity_names": [
+            "Bill & Melinda Gates Foundation",
+            "Bill Gates",
+            "Melinda Gates",
+            "Seattle",
+            "Washington"
+        ],
+        "filename": "completion-362",
+        "entity_types": [
+            "organization",
+            "person",
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Bill Gates"
+        ]
+    },
+    {
+        "sentence": "Blue Origin is an American privately funded aerospace manufacturer and sub-orbital spaceflight services company.",
+        "entities": [
+            "Blue Origin (organization)",
+            "American"
+        ]
+    },
+    {
+        "sentence": "Albert Einstein, a German-born theoretical physicist, developed the theory of relativity, one of the two pillars of modern physics.",
+        "entity_names": [
+            "Albert Einstein",
+            "Germany"
+        ],
+        "filename": "completion-373",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-379",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-380",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "She is a renowned pastry chef who has won numerous awards for her delectable desserts.",
+        "entity_names": [
+            "pastry chef",
+            "Women Chefs & Restaurateurs"
+        ],
+        "filename": "completion-383",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Women Chefs & Restaurateurs"
+        ]
+    },
+    {
+        "sentence": "Bollywood is the center of the globally-influential Indian film industry, and Mumbai is the birthplace of the Indian film industry.",
+        "entity_names": [
+            "Bollywood",
+            "Mumbai",
+            "India"
+        ],
+        "filename": "completion-392",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-394",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "He was appointed as the United States Secretary of Veterans Affairs in 2009.",
+        "entity_names": [
+            "Eric Shinseki",
+            "United States"
+        ],
+        "filename": "completion-400",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Eric Shinseki"
+        ]
+    },
+    {
+        "sentence": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers.",
+        "entity_names": [
+            "Great Barrier Reef",
+            "Australia"
+        ],
+        "filename": "completion-403",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    },
+    {
+        "sentence": "The construction of Grand Central Terminal began in 1903 and was completed in 1913.",
+        "entity_names": [
+            "Grand Central Terminal",
+            "New York City",
+            "United States"
+        ],
+        "filename": "completion-410",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "New York City",
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Dubai is known for its luxury shopping, ultramodern architecture, and lively nightlife scene.",
+        "entity_names": [
+            "Dubai",
+            "United Arab Emirates"
+        ],
+        "filename": "completion-414",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United Arab Emirates"
+        ]
+    },
+    {
+        "sentence": "Tuscany is known for its beautiful landscapes, rich history, and artistic legacy.",
+        "entity_names": [
+            "Tuscany",
+            "Italy"
+        ],
+        "filename": "completion-445",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.",
+        "entity_names": [
+            "Marie Curie",
+            "Poland",
+            "French"
+        ],
+        "filename": "completion-459",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Poland"
+        ]
+    },
+    {
+        "sentence": "The Tokyo District Court ruled in favor of the plaintiff, awarding them a substantial amount of compensation.",
+        "entity_names": [
+            "Tokyo District Court",
+            "Japan"
+        ],
+        "filename": "completion-460",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Japan"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "1960"
+        ],
+        "filename": "completion-480",
+        "entity_types": [
+            "organization",
+            "location",
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "1960"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "Silicon Valley in California is known for its concentration of technology companies and startups.",
+        "entity_names": [
+            "Silicon Valley",
+            "California",
+            "United States"
+        ],
+        "filename": "completion-489",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The NBA is the major professional basketball league in North America.",
+        "entity_names": [
+            "National Basketball Association",
+            "North America"
+        ],
+        "filename": "completion-500",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "National Basketball Association"
+        ]
+    },
+    {
+        "sentence": "The London Stock Exchange is one of the world's oldest stock exchanges.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-504",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "Clara Barton, the founder of the American Red Cross, was a pioneering nurse who provided aid to soldiers during the Civil War.",
+        "entity_names": [
+            "Clara Barton",
+            "American Red Cross",
+            "Civil War"
+        ],
+        "filename": "completion-506",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The story of her journey has been widely celebrated and she is remembered as a significant figure in American history.",
+        "entity_names": [
+            "Sacagawea",
+            "American"
+        ],
+        "filename": "completion-519",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Sacagawea"
+        ]
+    },
+    {
+        "sentence": "The organization provides a wide range of educational and promotional activities.",
+        "entity_names": [
+            "National Public Radio"
+        ],
+        "filename": "completion-527",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "National Public Radio"
+        ]
+    },
+    {
+        "sentence": "The Eiffel Tower was completed in 1889 and was originally intended as a temporary structure for the 1889 World's Fair in Paris.",
+        "entity_names": [
+            "Eiffel Tower",
+            "World's Fair",
+            "Paris"
+        ],
+        "filename": "completion-563",
+        "entity_types": [
+            "location",
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "World's Fair"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "She became the first woman to win a Nobel Prize when she was awarded the Nobel Prize in Physics in 1903.",
+        "entity_names": [
+            "Nobel Prize",
+            "Physics"
+        ],
+        "filename": "completion-563",
+        "entity_types": [
+            "organization",
+            "field"
+        ],
+        "entity_names_after_add": [
+            "Nobel Prize",
+            "Nobel Prize",
+            "Physics"
+        ],
+        "entity_types_after_add": [
+            "organization",
+            "organization",
+            "field"
+        ],
+        "entity_names_not_allowed": [
+            "Physics"
+        ],
+        "entity_types_not_allowed": [
+            "field"
+        ]
+    },
+    {
+        "sentence": "The Mumbai Indians are one of the most successful teams in the history of the Indian Premier League.",
+        "entity_names": [
+            "Mumbai Indians",
+            "Indian Premier League",
+            "Mumbai",
+            "India"
+        ],
+        "filename": "completion-565",
+        "entity_types": [
+            "organization",
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "Melbourne is the coastal capital of the southeastern Australian state of Victoria.",
+        "entity_names": [
+            "Melbourne",
+            "Australia"
+        ],
+        "filename": "completion-586",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Australia"
+        ]
+    }
+]

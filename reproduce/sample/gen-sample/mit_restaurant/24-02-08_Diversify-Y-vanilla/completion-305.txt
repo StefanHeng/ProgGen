@@ -1,0 +1,11 @@
+1. "Are there any restaurants with high chairs available for young children?"
+
+Named Entities: [high chairs (Amenity)]
+
+2. "I'm craving some ceviche, can you recommend a place nearby?"
+
+Named Entities: [ceviche (Dish), nearby (Location)]
+
+3. "Where can I find a restaurant with good deals during off-peak hours?"
+
+Named Entities: [off-peak hours (Hours), good deals (Price)]

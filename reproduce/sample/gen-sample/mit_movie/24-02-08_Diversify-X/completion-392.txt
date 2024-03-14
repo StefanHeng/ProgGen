@@ -1,0 +1,8 @@
+Query: "Can you tell me the showtimes for the movie A Star is Born?"
+Named Entities: [A Star is Born (Title)]
+
+Query: "Is there a movie theater nearby showing the film The Bridges of Madison County?"
+Named Entities: [The Bridges of Madison County (Title)]
+
+Query: "Are there any romance movies playing this weekend that are rated PG-13?"
+Named Entities: [romance (Genre), PG-13 (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for The Bodyguard movie?"
+Named Entities: [The Bodyguard (Title)]
+
+2. Query: "Can you recommend a movie directed by Martin Scorsese?"
+Named Entities: [Martin Scorsese (Director)]
+
+3. Query: "Have there been any movies released in 1950?"
+Named Entities: [1950 (Year)]

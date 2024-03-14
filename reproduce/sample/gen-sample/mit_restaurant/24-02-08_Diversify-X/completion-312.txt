@@ -1,0 +1,8 @@
+1. Query: "can you recommend any upscale Italian restaurants in the downtown area"
+   Named Entities: [upscale (Price), Italian (Cuisine), downtown area (Location)]
+
+2. Query: "where can I find a fine dining steakhouse with a cozy atmosphere and good wine selection"
+   Named Entities: [fine dining (Amenity), steakhouse (Cuisine), cozy atmosphere (Amenity), good wine selection (Amenity)]
+
+3. Query: "what are the top-rated French restaurants with elegant decor and a prix fixe menu"
+   Named Entities: [top-rated (Rating), French (Cuisine), elegant decor (Amenity), prix fixe menu (Price)]

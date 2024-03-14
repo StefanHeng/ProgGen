@@ -1,0 +1,8 @@
+1. Text Span: "good cup of coffee"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "fast food"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "romantic"
+Label: (A). The span is a named entity of type amenity

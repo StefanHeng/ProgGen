@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the director of the movie Lawrence of Arabia?"
+Named Entities: [Lawrence of Arabia (Title), director (Director)]
+
+2. Query: "I'm a fan of Robert De Niro, can you recommend a movie he starred in?"
+Named Entities: [Robert De Niro (Actor)]
+
+3. Query: "What is the viewers' rating for the film The Godfather?"
+Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]

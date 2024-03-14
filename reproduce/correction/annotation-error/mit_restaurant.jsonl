@@ -1,0 +1,12 @@
+{"sentence": "What are the hours of operation for the steakhouse downtown?", "span": "steakhouse", "entity_type": "Restaurant Name"}
+{"sentence": "Recommend a family-friendly diner that serves breakfast all day.", "span": "breakfast", "entity_type": "Amenity"}
+{"sentence": "Where is the closest cafe for a good Cafe Mocha?", "span": "cafe", "entity_type": "Amenity"}
+{"sentence": "What time does the Italian restaurant on Main Street close tonight?", "span": "Italian restaurant", "entity_type": "Cuisine"}
+{"sentence": "Is there a 24-hour restaurant nearby that offers a breakfast buffet?", "span": "breakfast", "entity_type": "Cuisine"}
+{"sentence": "I'm craving some fast food, where can I find a good burger joint?", "span": "burger joint", "entity_type": "Dish"}
+{"sentence": "I want to try a new seafood dish, any suggestions?", "span": "dish", "entity_type": "Dish"}
+{"sentence": "What are the operating hours for the BBQ food truck on 5th Avenue?", "span": "operating hours", "entity_type": "Hours"}
+{"sentence": "I'm looking for a well-recommended seafood restaurant in this area.", "span": "area", "entity_type": "Location"}
+{"sentence": "Which restaurant in this area serves Italian cuisine at a reasonable price?", "span": "reasonable price", "entity_type": "Price"}
+{"sentence": "What is the price range for italian restaurants in this area?", "span": "price range", "entity_type": "Price"}
+{"sentence": "I'm looking for a high-end restaurant with a 5-star rating and a location in downtown Manhattan", "span": "5-star", "entity_type": "Rating"}

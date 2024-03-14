@@ -1,0 +1,8 @@
+1. Text Span: "San people"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "TWA Flight Center"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "Aztec"
+Label: (C). Wrong Type. The correct entity type is other.

@@ -1,0 +1,8 @@
+1. "What are the opening hours of Shake Shack in downtown area?"
+Named Entities: [Shake Shack (Restaurant Name), downtown area (Location), opening hours (Hours)]
+
+2. "I'm in the mood for some Italian food, can you recommend a high-rated restaurant?"
+Named Entities: [Italian food (Cuisine), high-rated (Rating)]
+
+3. "I want to find a restaurant with outdoor seating and a view of the ocean for a special occasion."
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity), special occasion (Amenity)]

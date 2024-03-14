@@ -1,0 +1,11 @@
+1. Sentence: "IDEO is a design and consulting firm known for developing the first computer mouse for {{Apple}} and the Palm V."
+Text Span: "Apple"
+Label: (A). The span is a named entity of type organization
+
+2. Sentence: "The {{United Nations International Children's Emergency Fund}} (UNICEF) is a United Nations agency responsible for providing humanitarian and developmental aid to children worldwide."
+Text Span: "United Nations International Children's Emergency Fund"
+Label: (A). The span is a named entity of type organization
+
+3. Sentence: "The United Nations Educational, Scientific and Cultural Organization ({{UNESCO}}) designated the historic center of Siena as a World Heritage Site."
+Text Span: "UNESCO"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+1. Text Span: "Tiger Woods"
+Label: (A)
+
+2. Text Span: "Michael Phelps"
+Label: (A)
+
+3. Text Span: "President Biden"
+Label: (B). The correct span boundary is "Biden".

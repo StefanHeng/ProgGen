@@ -1,0 +1,10 @@
+Sure, here are some queries:
+
+Query 1: "Hey, can you show me a charming clip from The Grand Budapest Hotel?"
+Named Entities: [charming (Review), clip (Trailer), The Grand Budapest Hotel (Title)]
+
+Query 2: "What's your rating for the movie that presents a moral dilemma? I'm looking for something with a 6/10 rating."
+Named Entities: [moral dilemma (Plot), 6/10 rating (Viewers' Rating)]
+
+Query 3: "I'm searching for a gripping film directed by Taika Waititi. Can you recommend something brilliant?"
+Named Entities: [gripping (Review), brilliant (Review), Taika Waititi (Director)]

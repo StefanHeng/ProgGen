@@ -1,0 +1,8 @@
+1. Query: "Hey, can you tell me about any PG-13 movies from the late 80s to early 90s that have a behind-the-scenes look at the sports industry?"
+Named Entities: [PG-13 (MPAA Rating), late 80s to early 90s (Year), sports (Genre), behind-the-scenes (Plot)]
+
+2. Query: "I'm in the mood for something happy and light-hearted. Can you recommend a B movie that goes behind-the-scenes of a feel-good story?"
+Named Entities: [happy (Viewers' Rating), B movie (Title), behind-the-scenes (Plot)]
+
+3. Query: "Do you know of any films that give a well-deserved look at the making-of process? Maybe something from the sports genre with a PG-13 rating?"
+Named Entities: [well-deserved (Review), sports (Genre), PG-13 (MPAA Rating), making-of (Plot)]

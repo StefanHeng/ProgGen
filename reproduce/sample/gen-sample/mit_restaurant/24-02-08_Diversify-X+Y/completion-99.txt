@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, where can I find a Carl's Jr. around here"
+Named Entities: [fast food (Cuisine), Carl's Jr. (Restaurant Name)]
+
+Query: "I need a quick bite, is there a fast food place with a self-serve beverage station nearby"
+Named Entities: [fast food (Cuisine), self-serve beverage station (Amenity)]
+
+Query: "I want to grab a quick meal, where's the nearest Carl's Jr. with affordable combos"
+Named Entities: [quick meal (Amenity), Carl's Jr. (Restaurant Name), affordable (Price)]

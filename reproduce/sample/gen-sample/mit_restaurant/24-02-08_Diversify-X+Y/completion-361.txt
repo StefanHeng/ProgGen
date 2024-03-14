@@ -1,0 +1,8 @@
+1. "I'm craving a late-night meal with a fast-casual vibe, where can I find some Texas Roadhouse around here?"
+Named Entities: [late-night dining (Amenity), fast-casual (Amenity), Texas Roadhouse (Restaurant Name)]
+
+2. "I need to grab some late-night food, do you know if there's a fast-casual spot like P.F. Chang's nearby?"
+Named Entities: [late-night dining (Amenity), fast-casual (Amenity), P.F. Chang's (Restaurant Name)]
+
+3. "I'm hungry and looking for a place for late-night dining. Any recommendations for a fast-casual restaurant like Texas Roadhouse?"
+Named Entities: [late-night dining (Amenity), fast-casual (Amenity), Texas Roadhouse (Restaurant Name)]

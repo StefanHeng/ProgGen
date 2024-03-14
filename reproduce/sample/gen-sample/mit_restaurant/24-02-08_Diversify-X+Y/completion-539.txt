@@ -1,0 +1,8 @@
+Query: "Could you recommend an upscale buffet with operating hours past 9pm?"
+Named Entities: [buffet (Cuisine), upscale (Price), past 9pm (Hours)]
+
+Query: "I'm looking for an inexpensive buffet restaurant with late-night opening hours."
+Named Entities: [buffet (Cuisine), inexpensive (Price), late-night (Hours)]
+
+Query: "Where can I find a buffet place with extended operating hours and an upscale price range?"
+Named Entities: [buffet (Cuisine), extended operating hours (Hours), upscale (Price)]

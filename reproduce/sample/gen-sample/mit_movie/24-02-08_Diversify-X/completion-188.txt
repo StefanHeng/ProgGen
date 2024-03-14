@@ -1,0 +1,8 @@
+1. Query: "Hey, can you tell me who directed that awesome sci-fi movie with the killer soundtrack?"
+Named Entities: [sci-fi (Genre), killer soundtrack (Song)]
+
+2. Query: "I heard there's a new action movie coming out soon, who's starring in it and what's the plot like?"
+Named Entities: [action (Genre)]
+
+3. Query: "I need some recommendations for feel-good movies from the 90s, any ideas?"
+Named Entities: [feel-good (Genre), 90s (Year)]

@@ -1,0 +1,8 @@
+1. "I'm craving some authentic Italian cuisine. Is there a highly rated Italian restaurant nearby?"
+Named Entities: [Italian (Cuisine), highly rated (Rating), nearby (Location)]
+
+2. "What are the opening hours for The Cheesecake Factory on Friday?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), Friday (Hours)]
+
+3. "I'm looking for a vegetarian-friendly place with outdoor seating and a reasonable price range. Any suggestions?"
+Named Entities: [vegetarian-friendly (Amenity), outdoor seating (Amenity), reasonable price range (Price)]

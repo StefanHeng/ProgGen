@@ -1,0 +1,8 @@
+Sentence: "Yuri Gagarin became the first human to journey into outer space when his Vostok spacecraft completed an orbit of the Earth on 12 April 1961."
+Named Entities: [Yuri Gagarin (person), Earth (location)]
+
+Sentence: "NASA's Apollo program, which sent astronauts to the moon, was a significant milestone in space exploration."
+Named Entities: [NASA (organization)]
+
+Sentence: "The International Space Station, a joint project involving multiple countries, serves as a research laboratory and observatory in low Earth orbit."
+Named Entities: [International Space Station (organization), Earth (location)]

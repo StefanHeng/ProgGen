@@ -1,0 +1,8 @@
+Query: "Where can I find a restaurant with a good Friday night special?"
+Named Entities: [good (Rating), Friday (Location)]
+
+Query: "Which restaurants in this area offer Friday night seafood specials?"
+Named Entities: [Friday (Location), seafood (Cuisine)]
+
+Query: "Can you recommend a restaurant with live music for Friday night dinner?"
+Named Entities: [live music (Amenity), Friday (Location)]

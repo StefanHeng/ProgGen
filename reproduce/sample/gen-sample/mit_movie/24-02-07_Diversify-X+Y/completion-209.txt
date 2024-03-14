@@ -1,0 +1,8 @@
+1. "Can I get tickets for a movie with Jessica Chastain?"
+Named Entities: [Jessica Chastain (Actor)]
+
+2. "Is there a movie showing with genuinely hilarious comedy?"
+Named Entities: [genuinely hilarious (Review)]
+
+3. "When can I watch The Terminator or The Queen's Gambit?"
+Named Entities: [The Terminator (Title), The Queen's Gambit (Title)]

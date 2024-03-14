@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some fast food, where can I get Domino's Pizza?"
+Named Entities: [fast food (Cuisine), Domino's Pizza (Restaurant Name)]
+
+Query: "I want to grab a quick bite that's not too pricy, can you locate a fast food place for me?"
+Named Entities: [quick bite (Amenity), pricy (Price), locate (Location), fast food (Cuisine)]
+
+Query: "What's the price range at the nearest fast food joint?"
+Named Entities: [price range (Price), nearest (Location), fast food (Cuisine)]

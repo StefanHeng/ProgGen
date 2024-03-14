@@ -1,0 +1,8 @@
+1. "Have you seen any movies directed by Patty Jenkins?"
+Named Entities: [Patty Jenkins (Director)]
+
+2. "Is the movie Catwoman considered unmissable by viewers?"
+Named Entities: [Catwoman (Title), unmissable (Viewers' Rating)]
+
+3. "Can I get an extended look at the preview for Shrek?"
+Named Entities: [extended look (Trailer), Shrek (Title), Preview (Trailer)]

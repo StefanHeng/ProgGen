@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie with a forbidden love theme that has an {{Appalling}} rating?"
+Text Span: "Appalling"
+Label: (A). The span is a named entity of type review
+
+2. Query: "I'm looking for a movie with {{great reviews}} and ratings, perhaps involving footage from 1998. Can you help me with that?"
+Text Span: "great reviews"
+Label: (A). The span is a named entity of type review
+
+3. Query: "I'm feeling optimistic, can you tell me if any animated movies directed by Danielle Taylor have received any {{awards or nominations}}?"
+Text Span: "awards or nominations"
+Label: (D). Not a Named Entity.

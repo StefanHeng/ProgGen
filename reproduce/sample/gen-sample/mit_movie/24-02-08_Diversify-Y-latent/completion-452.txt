@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a masterful movie from 2006?"
+   Named Entities: [masterful (Viewers' Rating), 2006 (Year)]
+
+2. Query: "What is the plot of the 2006 movie directed by Martin Scorsese?"
+   Named Entities: [2006 (Year), Martin Scorsese (Director)]
+
+3. Query: "Show me a trailer for the action movie that came out in 2006 and features Jason Statham."
+   Named Entities: [action (Genre), 2006 (Year), Jason Statham (Actor)]

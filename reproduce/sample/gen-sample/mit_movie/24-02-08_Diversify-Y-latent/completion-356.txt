@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with some intriguing plot twists?"
+Named Entities: [intriguing plot twists (Plot)]
+
+2. "Could you provide me with the cinema listings for J.J. Abrams' latest film?"
+Named Entities: [cinema listings (Title), J.J. Abrams (Director)]
+
+3. "I'm looking for a movie with show-stopping performances, perhaps something like Hairspray or a film featuring Elizabeth Bennet."
+Named Entities: [show-stopping performances (Review), Hairspray (Title), Elizabeth Bennet (Character)]

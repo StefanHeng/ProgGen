@@ -1,0 +1,8 @@
+1. "What are the hours of [Café Bella]?"
+Named Entities: [Café Bella (Restaurant Name), hours (Hours)]
+
+2. "I'm in the mood for some Italian cuisine, where can I find [Café Bella]?"
+Named Entities: [Italian (Cuisine), Café Bella (Restaurant Name)]
+
+3. "Can you recommend a restaurant with a high rating and outdoor seating near [Café Bella]?"
+Named Entities: [high rating (Rating), outdoor seating (Amenity), Café Bella (Location)]

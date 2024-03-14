@@ -1,0 +1,8 @@
+1. Text Span: "Breakfast inexpensive"
+   Label: (C). Wrong Type. The correct entity type is Amenity.
+
+2. Text Span: "prix fixe menu"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "affordable"
+   Label: (A). Correct Entity Annotation.

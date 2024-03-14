@@ -1,0 +1,8 @@
+Query: "Can you recommend a comedy movie with a touch of emotional rollercoaster?"
+Named Entities: [Comedy (Genre), emotional rollercoaster (Genre)]
+
+Query: "I'm interested in a musical film, preferably with Timothee Chalamet as one of the main actors."
+Named Entities: [Musical (Genre), Timothee Chalamet (Actor)]
+
+Query: "Do you have any recommendations for a movie directed by Zack Snyder that falls under a subgenre of action?"
+Named Entities: [Zack Snyder (Director), action (Subgenre)]

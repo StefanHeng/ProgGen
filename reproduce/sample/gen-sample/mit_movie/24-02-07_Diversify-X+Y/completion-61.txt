@@ -1,0 +1,8 @@
+Query: "Hey, can you tell me something about the movie 8 Mile?"
+Named Entities: [8 Mile (Title)]
+
+Query: "I heard about a movie rated 1.5 out of X, what is it about?"
+Named Entities: [1.5 (Viewers' Rating), X (MPAA Rating)]
+
+Query: "Have you heard of that spellbinding movie people are raving about?"
+Named Entities: [spellbinding (Review)]

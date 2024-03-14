@@ -1,0 +1,8 @@
+1. Text Span: "CEO of Amazon"
+Label: (C). The span is a named entity but the category is not person. Entity type: organization
+
+2. Text Span: "Biden"
+Label: (A)
+
+3. Text Span: "Johnson"
+Label: (A)

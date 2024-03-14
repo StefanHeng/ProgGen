@@ -1,0 +1,8 @@
+Query: "Can you play the trailer for the new Wonder Woman movie?"
+Named Entities: [Wonder Woman (Title), trailer (Trailer)]
+
+Query: "I'm looking for an action-packed movie released in the 90s with Will Smith."
+Named Entities: [action-packed (Genre), 90s (Year), Will Smith (Actor)]
+
+Query: "Is Kylo Ren in any comedy films?"
+Named Entities: [Kylo Ren (Character), comedy (Genre)]

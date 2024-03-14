@@ -1,0 +1,8 @@
+1. "I'm in the mood for some BBQ for lunch, where can I find a good spot nearby?"
+   Named Entities: [BBQ (Cuisine), lunch (Hours), nearby (Location)]
+
+2. "Can you recommend a restaurant with a great BBQ menu for a midday meal?"
+   Named Entities: [BBQ (Cuisine), great (Rating), midday (Hours)]
+
+3. "I want to grab some BBQ for lunch, do you know any places with reasonable prices?"
+   Named Entities: [BBQ (Cuisine), lunch (Hours), reasonable prices (Price)]

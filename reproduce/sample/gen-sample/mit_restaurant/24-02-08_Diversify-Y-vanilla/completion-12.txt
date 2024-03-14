@@ -1,0 +1,8 @@
+Query: "Can you recommend any Italian restaurants with outdoor seating?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "What is the price range for sushi restaurants in this area?"
+Named Entities: [sushi (Cuisine), price range (Price), area (Location)]
+
+Query: "I want to try the best burger in town, where should I go?"
+Named Entities: [best (Rating), burger (Dish), town (Location)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a waterfront restaurant with a Michelin-starred buffet?"
+Named Entities: [waterfront (Amenity), Michelin-starred (Rating), buffet (Amenity)]
+
+Query: "I'm looking for a seafood bar with a Twilight Buffet, any suggestions?"
+Named Entities: [seafood bar (Amenity), Twilight Buffet (Amenity)]
+
+Query: "Where can I find a waterfront restaurant offering a buffet for a 50-year-old male doctor?"
+Named Entities: [waterfront (Amenity), buffet (Amenity), 50-year-old male doctor (demographic)]

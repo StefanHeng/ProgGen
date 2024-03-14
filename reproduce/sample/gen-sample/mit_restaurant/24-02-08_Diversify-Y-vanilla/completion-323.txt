@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with a great view in Prague?"
+   Named Entities: [great view (Amenity), Prague (Location)]
+
+2. Query: "I'm looking for a restaurant close by with Thai cuisine and vegetarian options."
+   Named Entities: [close by (Location), Thai (Cuisine), vegetarian (Dish)]
+   
+3. Query: "What's the best seafood restaurant in Prague for a special occasion dinner?"
+   Named Entities: [best (Rating), seafood (Cuisine), special occasion (Amenity), Prague (Location)]

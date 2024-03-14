@@ -1,0 +1,11 @@
+1. Query: "Are there any streaming platforms where I can watch the movie {{Inception}}?"
+Text Span: "Inception"
+Label: (A). The span is a named entity of type title
+
+2. Query: 'Who directed the classic film "{{Casablanca}}"?'
+Text Span: "Casablanca"
+Label: (A). The span is a named entity of type title
+
+3. Query: "Could you provide a summary of the plot for the film {{Inception}} directed by Christopher Nolan?"
+Text Span: "Inception"
+Label: (A). The span is a named entity of type title

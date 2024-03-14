@@ -1,0 +1,8 @@
+1. Text Span: "Julia Child"
+Label: (A). The span is a named entity of type person
+
+2. Text Span: "suspect"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.
+
+3. Text Span: "Ragnarok"
+Label: (C). The span is a named entity but the category is not person. The correct entity type is other.

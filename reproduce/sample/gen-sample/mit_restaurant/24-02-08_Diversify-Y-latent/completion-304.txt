@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants in the entertainment district with outdoor seating?"
+Named Entities: [entertainment district (Location), outdoor seating (Amenity)]
+
+Query: "I'm looking for a family-friendly restaurant with a playground nearby in the entertainment district."
+Named Entities: [family-friendly (Amenity), playground (Amenity), entertainment district (Location)]
+
+Query: "What are some affordable options for Italian cuisine in the entertainment district?"
+Named Entities: [affordable (Price), Italian cuisine (Cuisine), entertainment district (Location)]

@@ -1,0 +1,8 @@
+1. "I need to know the name of the closing credits song in that power struggle movie set in the 1760s, hurry up!"
+Named Entities: [closing credits song (Song), power struggle (Plot), 1760s (Year)]
+
+2. "Can you tell me the soundtrack of the film about a journey to self-discovery that's not rated? I don't have all day!"
+Named Entities: [soundtrack (Song), journey to self-discovery (Plot), not rated (MPAA Rating)]
+
+3. "I'm looking for the movie with the song 'Scar' in it, come on, I'm in a hurry!"
+Named Entities: [song 'Scar' (Song)]

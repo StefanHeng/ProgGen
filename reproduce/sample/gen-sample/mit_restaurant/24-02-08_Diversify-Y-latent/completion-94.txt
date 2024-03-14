@@ -1,0 +1,8 @@
+Query: "Can you recommend a good seafood restaurant in Boston?"
+Named Entities: [seafood (Cuisine), Boston (Location)]
+
+Query: "I'm looking for a restaurant with outdoor seating in Boston, any suggestions?"
+Named Entities: [outdoor seating (Amenity), Boston (Location)]
+
+Query: "What are the top-rated Italian restaurants near Boston Common Park?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), Boston Common Park (Location)]

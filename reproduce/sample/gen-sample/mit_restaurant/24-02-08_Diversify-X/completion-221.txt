@@ -1,0 +1,8 @@
+Query: "What are the top-rated fine dining restaurants in the city?"
+Named Entities: [fine dining (Amenity), top-rated (Rating)]
+
+Query: "I'm looking for an upscale restaurant with French cuisine"
+Named Entities: [upscale (Amenity), French cuisine (Cuisine)]
+
+Query: "Is there a high-end restaurant with a dress code for dinner tonight?"
+Named Entities: [high-end (Price), dress code (Amenity)]

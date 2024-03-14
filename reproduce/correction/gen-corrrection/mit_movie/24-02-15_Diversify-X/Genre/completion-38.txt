@@ -1,0 +1,8 @@
+1. Text Span: "mystery"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "classic rock hits"
+Label: (C). The span is a named entity but the category is not genre. Entity Type: Song
+
+3. Text Span: "classic musical"
+Label: (A). The span is a named entity of type genre

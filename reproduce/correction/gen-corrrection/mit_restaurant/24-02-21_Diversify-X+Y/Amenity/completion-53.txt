@@ -1,0 +1,8 @@
+1. Text Span: "Five-star lunch places"
+Label: (B). The correct span boundary is "Five-star lunch places" 
+
+2. Text Span: "outdoor patio"
+Label: (A). The span is a named entity of type amenity
+
+3. Text Span: "outdoor seating"
+Label: (A). The span is a named entity of type amenity

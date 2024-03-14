@@ -1,0 +1,8 @@
+Query: "Can you recommend any fantasy movies starring Johnny Depp?"
+Named Entities: [fantasy (Genre), Johnny Depp (Actor)]
+
+Query: "I'm interested in watching a movie with a featurette about Queen. Do you have any suggestions?"
+Named Entities: [featurette (Plot), Queen (Character)]
+
+Query: "Which movie features a character named Leonard 'Bones' McCoy?"
+Named Entities: [Leonard "Bones" McCoy (Character)]

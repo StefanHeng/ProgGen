@@ -1,0 +1,8 @@
+1. "What restaurants are known for their excellent seafood dishes?"
+   Named Entities: [excellent (Rating), seafood dishes (Dish)]
+
+2. "I'm looking for a restaurant in the downtown area with outdoor seating and a view of the river."
+   Named Entities: [downtown area (Location), outdoor seating (Amenity), view of the river (Amenity)]
+
+3. "Do you know of any Italian restaurants that offer a prix fixe menu for dinner?"
+   Named Entities: [Italian (Cuisine), prix fixe menu (Price) , dinner (Hours)] [Last serving]

@@ -1,0 +1,8 @@
+Query: "recommend a café with outdoor seating"
+Named Entities: [café (Cuisine), outdoor seating (Amenity)]
+
+Query: "which café in the downtown area has the highest rating"
+Named Entities: [café (Cuisine), downtown area (Location), highest rating (Rating)]
+
+Query: "what are the opening hours of the café that serves vegan dishes"
+Named Entities: [café (Cuisine), vegan (Dish), opening hours (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "Can I stream The Lion King with closed captioning?"
+Named Entities: [The Lion King (Title), G (MPAA Rating), Stream with closed captioning]
+
+2. Query: "Do you have an extended trailer for Shrek?"
+Named Entities: [Extended trailer, Shrek (Title)]
+
+3. Query: "Has Daniel Radcliffe starred in any suspenseful films?"
+Named Entities: [Daniel Radcliffe (Actor), suspenseful (Genre)]

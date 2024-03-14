@@ -1,0 +1,8 @@
+1. Text Span: "1993-1996"
+   Label: (A). The span is a named entity of type year
+
+2. Text Span: "most recent"
+   Label: (C). The span is a named entity but the category is not year. Entity Type: other
+
+3. Text Span: "1998-2004"
+   Label: (A). The span is a named entity of type year

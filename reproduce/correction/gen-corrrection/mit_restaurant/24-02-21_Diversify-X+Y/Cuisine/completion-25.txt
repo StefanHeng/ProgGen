@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a lunch spot in Dubai with a {{diverse}} menu and outdoor seating?"
+Text Span: "diverse"
+Label: (D). The span is not a named entity
+
+2. Query: "Where can I find a {{fine dining}} restaurant known for its quirky and eccentric ambience and also listed in the San Pellegrino Top 50 rankings?"
+Text Span: "fine dining"
+Label: (A). The span is a named entity of type cuisine
+
+3. Query: "Can you recommend a place with great deals for {{breakfast}} and excellent scones?"
+Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.

@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with an amazing soundtrack that will make me want to go on an adventure?"
+Named Entities: [amazing soundtrack (Song), adventure (Genre)]
+
+2. Query: "I'm looking for a film with a catchy theme song that will get me in the mood for an exciting journey. Do you have any recommendations?"
+Named Entities: [catchy theme song (Song), exciting journey (Plot)]
+
+3. Query: "I'm interested in a movie that features an epic soundtrack, preferably in the adventure or fantasy genre. Any suggestions?"
+Named Entities: [epic soundtrack (Song), adventure (Genre), fantasy (Genre)]

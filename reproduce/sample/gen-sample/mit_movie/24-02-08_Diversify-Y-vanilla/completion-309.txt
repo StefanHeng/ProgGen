@@ -1,0 +1,8 @@
+1. "What is the rating for the movie Marriage Story starring Scarlett Johansson?"
+Named Entities: [Marriage Story (Title), Scarlett Johansson (Actor)]
+
+2. "Can you recommend a good thriller movie directed by David Fincher?"
+Named Entities: [thriller (Genre), David Fincher (Director)]
+
+3. "I heard that M is a classic film, can you tell me the year it was released?"
+Named Entities: [M (Title)]

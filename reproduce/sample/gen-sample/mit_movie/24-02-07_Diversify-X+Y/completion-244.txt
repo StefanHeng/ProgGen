@@ -1,0 +1,8 @@
+1. Query: "Hi, can you tell me the showtimes for the movie 'Fiona'?"
+Named Entities: ['Fiona' (Title)]
+
+2. Query: "I'm interested in watching a war drama from 2011, can you check if 'X' is playing anywhere nearby?"
+Named Entities: [2011 (Year), 'X' (Title), War drama (Genre)]
+
+3. Query: "Do you have any information on where I can watch the movie directed by David Fincher?"
+Named Entities: [David Fincher (Director)]

@@ -1,0 +1,11 @@
+1. Query: "I am craving a buffet meal from {{Eleven Madison Park}}. Can you help me find a restaurant that offers delivery service?"
+Text Span: "Eleven Madison Park"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "Can you recommend any brunch places {{similar to Sunny Side Cafe}}?"
+Text Span: "Sunny Side Cafe"
+Label: (A). The span is a named entity of type restaurant name
+
+3. Query: "Where can I find a French {{patisserie}} that serves brunch until noon"
+Text Span: "patisserie"
+Label: (C). The span is a named entity but the category is not restaurant name [Cuisine]

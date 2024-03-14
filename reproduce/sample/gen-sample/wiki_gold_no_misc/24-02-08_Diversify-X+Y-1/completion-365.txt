@@ -1,0 +1,8 @@
+Sentence: "Justin Trudeau is the current Prime Minister of Canada, having been in office since 2015."
+Named Entities: [Justin Trudeau (person), Canada (location)]
+
+Sentence: "Canberra is the capital city of Australia and serves as the seat of the Australian government."
+Named Entities: [Canberra (location), Australia (location), Australian government (organization)]
+
+Sentence: "According to Human Rights Watch, there have been multiple reports of human rights violations in the region."
+Named Entities: [Human Rights Watch (organization)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with the song Mrs. Robinson?"
+Named Entities: [Mrs. Robinson (Song)]
+
+Query: "Show me a heist movie from the 90s."
+Named Entities: [heist (Genre), 90s (Year)]
+
+Query: "What is the best superhero origin film in recent years?"
+Named Entities: [superhero origin (Plot)]

@@ -1,0 +1,11 @@
+1. Sentence: "Nicolaus Copernicus proposed a heliocentric model of the solar system, with the {{Sun}} at the center and the Earth and other planets orbiting around it."
+Text Span: "Sun"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "Nigella Lawson is a well-known {{British}} food writer and television presenter who has authored several bestselling cookery books."
+Text Span: "British"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is other.
+
+3. Sentence: "The United Nations Environmental Programme has been working on environmental protection along {{The Nile River}}, while various local organizations have focused on specific conservation projects."
+Text Span: "The Nile River"
+Label: (A). The span is a named entity of type location

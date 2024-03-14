@@ -1,0 +1,8 @@
+Query: "show me the nearest café with outdoor seating"
+Named Entities: [nearest (Location), café (Cuisine), outdoor seating (Amenity)]
+
+Query: "what cafés in the area have a rating above 4 stars"
+Named Entities: [area (Location), cafés (Cuisine), above 4 stars (Rating)]
+
+Query: "which café serves brunch on weekends"
+Named Entities: [café (Cuisine), brunch (Amenity), weekends (Hours)]

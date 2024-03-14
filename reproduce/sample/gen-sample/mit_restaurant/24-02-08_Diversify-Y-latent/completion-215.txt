@@ -1,0 +1,8 @@
+Query: "Can you recommend a sushi restaurant with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]
+
+Query: "I'm looking for a bakery that opens early and serves croissants."
+Named Entities: [bakery (Amenity), early (Hours), croissants (Dish)]
+
+Query: "I want to find a Mexican restaurant with a high rating and affordable prices."
+Named Entities: [Mexican (Cuisine), high rating (Rating), affordable prices (Price)]

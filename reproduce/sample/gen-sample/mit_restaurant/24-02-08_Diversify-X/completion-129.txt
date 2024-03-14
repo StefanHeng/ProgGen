@@ -1,0 +1,8 @@
+1. "Can you recommend a trendy café with vegetarian options?"
+Named Entities: [trendy (Amenity), vegetarian (Cuisine)]
+
+2. "What are the operating hours of the nearest café with outdoor seating?"
+Named Entities: [nearest (Location), outdoor seating (Amenity)]
+
+3. "I'm looking for a hip café with live music and a cozy atmosphere."
+Named Entities: [hip (Amenity), live music (Amenity), cozy (Amenity)]

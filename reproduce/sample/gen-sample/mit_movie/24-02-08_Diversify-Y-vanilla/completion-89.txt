@@ -1,0 +1,8 @@
+1. Query: "What is the genre of The 40-Year-Old Virgin movie"
+Named Entities: [The 40-Year-Old Virgin (Title)]
+
+2. Query: "Could you recommend a movie with a TV-G rating"
+Named Entities: [TV-G (MPAA Rating)]
+
+3. Query: "Is Let's Get It On featured in any romantic comedy movies"
+Named Entities: [Let's Get It On (Song), romantic comedy (Genre)]

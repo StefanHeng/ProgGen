@@ -1,0 +1,8 @@
+Query: "I'm bored, can you recommend an entertaining movie like Black Swan?"
+Named Entities: [entertaining (Viewers' Rating), Black Swan (Title)]
+
+Query: "I need something to watch, how about a fantastic movie in the horror genre?"
+Named Entities: [fantastic (Viewers' Rating), horror (Genre)]
+
+Query: "What's a great movie to watch when you're bored, something in the same genre as Black Swan?"
+Named Entities: [great (Review), bored (Viewers' Rating), Black Swan (Title), Genre]

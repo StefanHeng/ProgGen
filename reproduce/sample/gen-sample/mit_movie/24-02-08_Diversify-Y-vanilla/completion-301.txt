@@ -1,0 +1,8 @@
+1. "Can you recommend any enthralling movies directed by Steven Spielberg?"
+Named Entities: [enthralling (Viewers' Rating), Steven Spielberg (Director)]
+
+2. "What are some good movies from the year 2000 that are not rated?"
+Named Entities: [2000 (Year), Not Rated (MPAA Rating)]
+
+3. "Who directed the film 'Whale Rider' that received a rating of 6 out of 10?"
+Named Entities: [Whale Rider (Title), 6 out of 10 (Viewers' Rating), Niki Caro (Director)]

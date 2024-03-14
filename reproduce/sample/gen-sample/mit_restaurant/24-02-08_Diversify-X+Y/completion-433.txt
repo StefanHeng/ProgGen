@@ -1,0 +1,8 @@
+1. "Do you know of any fine dining establishments in the North area with a lounge/bar ambience?"
+Named Entities: [North (Location), fine dining (Price), lounge/bar (Amenity)]
+
+2. "Where can I find a restaurant serving Chateaubriand in a lounge/bar setting?"
+Named Entities: [Chateaubriand (Dish), lounge/bar (Amenity)]
+
+3. "I'm looking for a fine dining place with Latin American cuisine. Any suggestions?"
+Named Entities: [fine dining (Price), Latin American cuisine (Cuisine)]

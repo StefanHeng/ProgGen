@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie featuring Al Pacino that showcases his {{acting highlights}}?"
+Text Span: "acting highlights"
+Label: (A). The span is a named entity of type review
+
+2. Query: "Can you recommend any movies with {{Astonishing visuals}}?"
+Text Span: "Astonishing visuals"
+Label: (A). The span is a named entity of type review
+
+3. Query: "What is the {{best movie}} with Captain Kirk as a character?"
+Text Span: "best movie"
+Label: (A). The span is a named entity of type review

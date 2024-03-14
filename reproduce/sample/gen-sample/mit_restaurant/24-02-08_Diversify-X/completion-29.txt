@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a good patio for lunch?"
+Named Entities: [good (Rating), patio (Amenity), lunch (Amenity)]
+
+2. "I'm craving some Mexican food, where can I find a place that serves lunch specials?"
+Named Entities: [Mexican (Cuisine), lunch specials (Amenity)]
+
+3. "What are some affordable lunch options near the office?"
+Named Entities: [affordable (Price), lunch (Amenity), office (Location)]

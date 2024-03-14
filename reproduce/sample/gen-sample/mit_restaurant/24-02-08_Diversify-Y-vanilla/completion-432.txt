@@ -1,0 +1,8 @@
+Query: "What's the highest-rated French restaurant in the city"
+Named Entities: [highest-rated (Rating), French (Cuisine), city (Location)]
+
+Query: "Do you know any Italian restaurants that serve creme brulee for dessert"
+Named Entities: [Italian (Cuisine), creme brulee (Dish)]
+
+Query: "Can you recommend a place with outdoor seating and a waterfront view for dinner tonight"
+Named Entities: [outdoor seating (Amenity), waterfront view (Amenity), dinner tonight (Hours)]

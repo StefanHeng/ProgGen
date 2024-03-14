@@ -1,0 +1,8 @@
+1. Text Span: "dramatic role"
+   Label: (C). Wrong Type. The correct entity type is Actor.
+
+2. Text Span: "psycho-thriller"
+   Label: (A). Correct Entity Annotation.
+
+3. Text Span: "genre"
+   Label: (C). Wrong Type. The correct entity type is Plot.

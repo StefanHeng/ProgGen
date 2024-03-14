@@ -1,0 +1,8 @@
+1. Query: "What compelling movie did Tom Cruise act in?"
+   Named Entities: [Tom Cruise (Actor), compelling (Review)]
+
+2. Query: "Can you recommend a Tom Cruise movie from the action genre?"
+   Named Entities: [Tom Cruise (Actor), action (Genre)]
+
+3. Query: "Show me a trailer for the latest movie with Tom Cruise as the lead actor."
+   Named Entities: [Tom Cruise (Actor), latest (Year), trailer (Trailer)]

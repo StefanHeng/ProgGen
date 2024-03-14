@@ -1,0 +1,8 @@
+1. "What mockumentary films were released in 1978?"
+   Named Entities: [mockumentary (Genre), 1978 (Year)]
+
+2. "Are there any upcoming movies in 2025 starring Julia Louis-Dreyfus?"
+   Named Entities: [2025 (Year), Julia Louis-Dreyfus (Actor)]
+
+3. "Can you recommend a popular title directed by Steven Spielberg in the 80s?" 
+   Named Entities: [Steven Spielberg (Director), 80s (Year)]

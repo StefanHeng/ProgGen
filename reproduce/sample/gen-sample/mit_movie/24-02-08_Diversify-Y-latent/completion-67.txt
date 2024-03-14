@@ -1,0 +1,8 @@
+1. Query: "What genre of movies does Director Krennic typically work on"
+Named Entities: [Director Krennic (Director)]
+
+2. Query: "Can you recommend a good PG-13 movie from the 1990s"
+Named Entities: [PG-13 (MPAA Rating), 1990s (Year)]
+
+3. Query: "Which movie featuring Director Krennic has the highest viewers' rating"
+Named Entities: [Director Krennic (Director), highest viewers' rating (Viewers' Rating)]

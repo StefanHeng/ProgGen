@@ -1,0 +1,8 @@
+1. Query: "Who directed the making of the Avengers: Endgame film and can you show me a behind-the-scenes clip?"
+   Named Entities: [Avengers: Endgame (Title), behind-the-scenes (Plot), Director]
+
+2. Query: "Are there any action movies from the 1990s with a high viewers' rating and can you show me the making-of of the best one?"
+   Named Entities: [action (Genre), 1990s (Year), high viewers' rating (Viewers' Rating), making-of (Plot)]
+
+3. Query: "I want to watch a comedy film from the 2000s, can you recommend one with funny bloopers and outtakes?"
+   Named Entities: [comedy (Genre), 2000s (Year), funny bloopers and outtakes (Plot)]

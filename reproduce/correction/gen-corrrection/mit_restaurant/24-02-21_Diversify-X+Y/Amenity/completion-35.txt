@@ -1,0 +1,8 @@
+1. Text Span: "great options for vegetarians"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "high school"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "brunch"
+Label: (A). The span is a named entity of type amenity

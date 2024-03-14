@@ -1,0 +1,11 @@
+1. Query: "What are the {{hours}} of the nearest restaurant that serves Shawarma?"
+Text Span: "hours"
+Label: (A). The span is a named entity of type hours
+
+2. Query: "What are the best Italian restaurants in the area that are open {{late on weekends}}?"
+Text Span: "late on weekends"
+Label: (A). The span is a named entity of type hours
+
+3. Query: "what are the {{operating hours}} of the nearest sushi bar?"
+Text Span: "operating hours"
+Label: (A). The span is a named entity of type hours

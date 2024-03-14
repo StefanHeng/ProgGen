@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly café with Turkish cuisine nearby?"
+   Named Entities: [budget-friendly (Price), café (Amenity), Turkish (Cuisine)]
+
+2. "I'm craving Turkish food, do you know any cafes with affordable prices?"
+   Named Entities: [Turkish (Cuisine), cafes (Amenity), affordable prices (Price)]
+
+3. "Where can I find a café with Turkish dishes that won't break the bank?"
+   Named Entities: [café (Amenity), Turkish dishes (Cuisine), won't break the bank (Price)]

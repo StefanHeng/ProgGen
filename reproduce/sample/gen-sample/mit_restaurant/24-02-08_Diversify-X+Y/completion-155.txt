@@ -1,0 +1,8 @@
+1. "I'm looking for a trendy spot with wheelchair accessibility for a chic breakfast downtown"
+Named Entities: [trendy (Amenity), wheelchair accessibility (Amenity), chic (Amenity), breakfast (Meal), downtown (Location)]
+
+2. "Where can I find a hip restaurant with wheelchair accessibility for breakfast near my retail job?"
+Named Entities: [hip (Amenity), wheelchair accessibility (Amenity), breakfast (Meal), retail job (Location)]
+
+3. "Can you recommend a cool place with wheelchair accessibility for a modern breakfast in this area?"
+Named Entities: [cool (Amenity), wheelchair accessibility (Amenity), modern (Amenity), breakfast (Meal), this area (Location)]

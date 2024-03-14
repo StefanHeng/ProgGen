@@ -1,0 +1,8 @@
+1. "Could you tell me the genre of the movie featuring the song You Never Can Tell?"
+Named Entities: [You Never Can Tell (Song)]
+
+2. "I'm interested in a film starring Eddie Redmayne, what is the year of that movie?"
+Named Entities: [Eddie Redmayne (Actor)]
+
+3. "Show me the trailer for a movie with the character named Indiana Jones"
+Named Entities: [Indiana Jones (Character), the trailer (Trailer)]

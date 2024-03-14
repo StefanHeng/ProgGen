@@ -1,0 +1,8 @@
+1. "Hey, can I watch a movie like The Dark Knight on Netflix tonight?"
+   Named Entities: [The Dark Knight (Title), Netflix (Streaming platform)]
+
+2. "Show me a good action movie from the 90s, preferably on Hulu."
+   Named Entities: [action (Genre), 90s (Year), Hulu (Streaming platform)]
+
+3. "Do you know where I can find a classic film like Casablanca on any streaming service?"
+   Named Entities: [Casablanca (Title), classic (Genre), streaming service (Streaming platform)]

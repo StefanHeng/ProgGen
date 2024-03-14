@@ -1,0 +1,8 @@
+1. "What are the hours of operation for Del Taco on Main Street?"
+Named Entities: [Del Taco (Restaurant Name), Main Street (Location), hours of operation (Hours)]
+
+2. "Can you recommend a restaurant nearby that serves vegetarian dishes?"
+Named Entities: [vegetarian (Cuisine), nearby (Location)]
+
+3. "I'm looking for a restaurant with a high rating and affordable prices. Do you know any places like that?"
+Named Entities: [high rating (Rating), affordable prices (Price)]

@@ -1,0 +1,8 @@
+1. "I'm looking for a food truck serving delicious ice cream desserts"
+Named Entities: [food truck (Amenity), ice cream desserts (Dish)]
+
+2. "Can you recommend a food truck with affordable prices for ice cream treats?"
+Named Entities: [food truck (Amenity), affordable prices (Price), ice cream treats (Dish)]
+
+3. "What are the operating hours for The Ice Cream Truck food truck?"
+Named Entities: [The Ice Cream Truck (Restaurant Name), operating hours (Hours)]

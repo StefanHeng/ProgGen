@@ -1,0 +1,9 @@
+1. Text Span: "Chris Pine"
+Label: (A). The span is a named entity of type actor
+
+2. Text Span: "Zendaya and Tom Holland"
+Label: (B). The span contains a named actor entity but the span boundary is not precise. 
+Correct span boundary: "Zendaya and Tom Holland" should be "Zendaya" and "Tom Holland"
+
+3. Text Span: "Mila Kunis"
+Label: (A). The span is a named entity of type actor

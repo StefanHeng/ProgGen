@@ -1,0 +1,8 @@
+1. Text Span: "town"
+Label: (B). Wrong Boundary. The correct span boundary is "in this town".
+
+2. Text Span: "city"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "nearby"
+Label: (A). Correct Entity Annotation.

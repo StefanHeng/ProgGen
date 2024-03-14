@@ -1,0 +1,8 @@
+Query: "is the movie Forrest Gump available on any streaming platforms"
+Named Entities: [Forrest Gump (Title), streaming platforms]
+
+Query: "what is the highest rated movie of 2020 and can I watch it on Netflix"
+Named Entities: [highest rated (Review), 2020 (Year), Netflix (Streaming platform)]
+
+Query: "show me a list of comedy movies directed by Christopher Guest that I can stream"
+Named Entities: [comedy (Genre), Christopher Guest (Director), stream (Streaming platform)]

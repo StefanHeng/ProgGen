@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with well-crafted characters released in 2007"
+Named Entities: [well-crafted characters (Character), 2007 (Year)]
+
+2. Query: "Is there a movie with Stevie Wonder's song in it?"
+Named Entities: [Stevie Wonder (Actor), song (Song)]
+
+3. Query: "What is the MPAA rating for the movie NC-17?"
+Named Entities: [NC-17 (MPAA Rating)]

@@ -1,0 +1,8 @@
+1. "Is there a movie from 1961 with compelling characters that I should watch?"
+Named Entities: [1961 (Year), compelling characters (Character)]
+
+2. "I'm looking for a film where Natalie Portman plays a lead role."
+Named Entities: [Natalie Portman (Actor)]
+
+3. "Could you recommend a movie with the song 'Dancing Queen' in it?"
+Named Entities: [Dancing Queen (Song)]

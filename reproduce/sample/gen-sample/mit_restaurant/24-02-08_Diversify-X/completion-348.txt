@@ -1,0 +1,8 @@
+1. "Can you recommend a top-rated Italian restaurant with outdoor seating for dinner tonight?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), outdoor seating (Amenity), dinner (Hours)]
+
+2. "I'm looking for a Mexican restaurant with a 4-star rating and a budget-friendly menu for dinner."
+Named Entities: [Mexican (Cuisine), 4-star (Rating), budget-friendly (Price), dinner (Hours)]
+
+3. "Where can I find a seafood restaurant with a waterfront location and a menu under $30 per person for dinner?"
+Named Entities: [seafood (Cuisine), waterfront (Location), under $30 per person (Price), dinner (Hours)]

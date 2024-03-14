@@ -1,0 +1,8 @@
+1. Query: "Could you suggest a movie directed by Denis Villeneuve that stars Jake Gyllenhaal?"
+   Named Entities: [Denis Villeneuve (Director), Jake Gyllenhaal (Actor)]
+
+2. Query: "Do you have any information about a movie with a production diary released between 2018 and 2023?"
+   Named Entities: [Production diary (Plot), 2018-2023 (Year)]
+
+3. Query: "Can you recommend a fair-rated movie from 1987?"
+   Named Entities: [fair-rated (MPAA Rating), 1987 (Year)]

@@ -1,0 +1,8 @@
+Query: "What fine dining restaurants have a prix fixe menu for under $50?"
+Named Entities: [fine dining (Amenity), prix fixe (Amenity), under $50 (Price)]
+
+Query: "I'm looking for a high-end steakhouse with a rating of at least 4 stars."
+Named Entities: [high-end (Price), steakhouse (Cuisine), 4 stars (Rating)]
+
+Query: "Which upscale Italian restaurants are open for dinner past 9 o'clock?"
+Named Entities: [upscale (Price), Italian (Cuisine), dinner past 9 o'clock (Hours) ]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with good food and a nice ambiance, but also value for money?" 
+Named Entities: [good (Rating), value for money (Price)]
+
+2. "I'm craving some Thai food, is there a Thai restaurant near me that is affordable?"
+Named Entities: [Thai (Cuisine), affordable (Price)]
+
+3. "Where can I find a Mexican restaurant with a good happy hour deal?"
+Named Entities: [Mexican (Cuisine), good (Rating), happy hour (Amenity)]

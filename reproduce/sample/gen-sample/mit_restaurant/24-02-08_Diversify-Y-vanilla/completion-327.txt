@@ -1,0 +1,8 @@
+1. "I'm craving Chinese food delivery tonight, what are some options?"
+   Named Entities: [Chinese food (Cuisine), Food delivery (Amenity)]
+
+2. "I'm looking for affordable eats in the downtown area, any recommendations?"
+   Named Entities: [downtown area (Location), Affordable eats (Price)]
+
+3. "What's a good restaurant for seafood with a high rating?"
+   Named Entities: [seafood (Cuisine), high rating (Rating)]

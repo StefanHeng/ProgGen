@@ -1,0 +1,11 @@
+1. Query: "are there any {{reasonable}} places to eat around here"
+Text Span: "reasonable"
+Label: (A). The span is a named entity of type price
+
+2. Query: "Can you recommend any {{upscale}} restaurants with a good wine selection?"
+Text Span: "upscale"
+Label: (A). The span is a named entity of type price
+
+3. Query: "What's a good place for a nice dinner that {{won't break the bank}}?"
+Text Span: "won't break the bank"
+Label: (B). The span contains a named price entity but the span boundary is not precise. The correct span boundary is "won't break the bank".

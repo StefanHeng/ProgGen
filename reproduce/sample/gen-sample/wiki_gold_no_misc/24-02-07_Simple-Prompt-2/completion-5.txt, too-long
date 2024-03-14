@@ -1,0 +1,112 @@
+Generated sentences and named entity annotations:
+
+1. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+
+2. Although the exact dates of the Great Wall's construction are uncertain, it was built as a fortification in the 7th century BC.
+Named Entities: [Great Wall (location)]
+
+3. The Forbidden City served as the home of emperors and their households and was the ceremonial and political center of the Chinese government for almost 500 years.
+Named Entities: [Forbidden City (location), Chinese government (organization)]
+
+4. The capital city of Beijing is rich in history and culture, making it an important city in China.
+Named Entities: [Beijing (location), China (location)]
+
+5. In 1421, the Great Wall of China was the site of a large battle between the Ming Dynasty and the Mongol Empire.
+Named Entities: [Great Wall of China (location), Ming Dynasty (organization), Mongol Empire (organization)]
+
+6. The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China.
+Named Entities: [Terracotta Army (location), Qin Shi Huang (person), Emperor of China (organization)]
+
+7. The Yangtze River, also known as the Chang Jiang, is the longest river in Asia and the third-longest in the world.
+Named Entities: [Yangtze River (location), Chang Jiang (location), Asia (location)]
+
+8. Shanghai is the most populous city in China and serves as a global financial center and transport hub with the world's busiest container port.
+Named Entities: [Shanghai (location), China (location)]
+
+9. The Temple of Heaven is a complex of religious buildings in Beijing, the capital of China.
+Named Entities: [Temple of Heaven (location), Beijing (location), China (location)]
+
+10. The Qing Dynasty was the last imperial dynasty of China, ruling from 1644 to 1912.
+Named Entities: [Qing Dynasty (organization), China (location)]
+
+11. Confucius was a Chinese philosopher and politician of the Spring and Autumn period.
+Named Entities: [Confucius (person), China (location)]
+
+12. The Beijing National Stadium, also known as the "Bird's Nest," is a stadium in Beijing, China.
+Named Entities: [Beijing National Stadium (location), Bird's Nest (location), Beijing (location), China (location)]
+
+13. The Ming Dynasty ruled China for almost 300 years and saw a flourishing of art, literature, and culture.
+Named Entities: [Ming Dynasty (organization), China (location)]
+
+14. The Summer Palace in Beijing, China, is a vast ensemble of lakes, gardens, and palaces in Beijing.
+Named Entities: [Summer Palace (location), Beijing (location), China (location)]
+
+15. Hong Kong is a special administrative region of China and has a highly developed capitalist economy.
+Named Entities: [Hong Kong (location), China (location)]
+
+16. Sun Yat-sen was a Chinese physician, writer, philosopher, calligrapher, and revolutionary.
+Named Entities: [Sun Yat-sen (person), China (location)]
+
+17. The Three Gorges Dam is the world's largest power station in terms of installed capacity and serves as a key power generation resource in China.
+Named Entities: [Three Gorges Dam (location), China (location)]
+
+18. Lhasa is the administrative capital of the Tibet Autonomous Region in the People's Republic of China.
+Named Entities: [Lhasa (location), Tibet Autonomous Region (location), People's Republic of China (organization)]
+
+19. The Potala Palace in Lhasa, Tibet, China, was the chief residence of the Dalai Lama until the 14th Dalai Lama fled to India during the 1959 Tibetan uprising.
+Named Entities: [Potala Palace (location), Lhasa (location), Tibet (location), China (location), Dalai Lama (person), India (location), Tibetan uprising (event)]
+
+20. The Yellow River, also known as Huang He, is the second-longest river in China and is often called the "cradle of Chinese civilization."
+Named Entities: [Yellow River (location), Huang He (location), China (location), Chinese civilization (organization)]
+
+21. The Shaolin Monastery is a Buddhist monastery in Dengfeng County, Henan Province, China.
+Named Entities: [Shaolin Monastery (location), Dengfeng County (location), Henan Province (location), China (location), Buddhist monastery (organization)]
+
+22. The Silk Road was an ancient network of trade routes that connected the East and West and played a significant role in the exchange of goods, culture, and ideas between China and the Roman Empire.
+Named Entities: [Silk Road (location), East (location), West (location), China (location), Roman Empire (location)]
+
+23. The Imperial Palace of the Qing Dynasty in Shenyang, Liaoning Province, China, is one of the UNESCO World Heritage Sites.
+Named Entities: [Imperial Palace (location), Qing Dynasty (organization), Shenyang (location), Liaoning Province (location), China (location), UNESCO World Heritage Sites (organization)]
+
+24. Zeng Guofan was a Chinese statesman, military general, and Confucian scholar during the late Qing Dynasty.
+Named Entities: [Zeng Guofan (person), Chinese (organization), Qing Dynasty (organization)]
+
+25. The Mausoleum of the First Qin Emperor is a collection of funerary art buried with the emperor in 210–209 BCE and is located in Lintong District, Xi'an, Shaanxi province, China.
+Named Entities: [Mausoleum of the First Qin Emperor (location), Xi'an (location), Shaanxi province (location), China (location)]
+
+26. The Zhou Dynasty was the second of China's dynasties and lasted for 790 years, from 1046 to 256 BC.
+Named Entities: [Zhou Dynasty (organization), China's (organization)]
+
+27. The Tang Dynasty is often considered the golden age of Chinese arts and culture, as it saw significant developments in music, dance, painting, poetry, and fashion.
+Named Entities: [Tang Dynasty (organization), Chinese (organization)]
+
+28. Xuanzang was a Chinese Buddhist monk, scholar, traveler, and translator who traveled to India in the 7th century and brought back Buddhist scriptures to China.
+Named Entities: [Xuanzang (person), Chinese (organization), India (location)]
+
+29. The Ming Xiaoling Mausoleum is the mausoleum of Emperor Zhu Yuanzhang, the founding emperor of the Ming Dynasty, and is located on Purple Mountain in Nanjing, China.
+Named Entities: [Ming Xiaoling Mausoleum (location), Emperor Zhu Yuanzhang (person), Ming Dynasty (organization), Purple Mountain (location), Nanjing (location), China (location)]
+
+30. The Mogao Caves, also known as the Thousand Buddha Grottoes, are a system of 500 caves near the town of Dunhuang in Gansu Province, China, that contain some of the finest Buddhist art in the world.
+Named Entities: [Mogao Caves (location), Thousand Buddha Grottoes (location), Dunhuang (location), Gansu Province (location), China (location), Buddhist art (organization)]
+
+31. The Qin Shi Huang Mausoleum is the mausoleum of the first emperor of China, Qin Shi Huang, and is located in the Lintong District of Xi'an, Shaanxi province, China.
+Named Entities: [Qin Shi Huang Mausoleum (location), first emperor of China (organization), Qin Shi Huang (person), Lintong District (location), Xi'an (location), Shaanxi province (location), China (location)]
+
+32. The Taipei 101, formerly known as the Taipei World Financial Center, is a landmark skyscraper located in Xinyi District, Taipei, Taiwan.
+Named Entities: [Taipei 101 (location), Taipei World Financial Center (location), Xinyi District (location), Taipei (location), Taiwan (location)]
+
+33. Ma Ying-jeou is a Taiwanese politician who served as the President of Taiwan from 2008 to 2016 and is also a prominent member of the Kuomintang.
+Named Entities: [Ma Ying-jeou (person), President of Taiwan (organization), Kuomintang (organization)]
+
+34. The National Palace Museum in Taipei, Taiwan, holds one of the largest collections of Chinese art and artifacts in the world, spanning over 8,000 years of history.
+Named Entities: [National Palace Museum (location), Taipei (location), Taiwan (location), Chinese art (organization)]
+
+35. The Kuomintang, also known as the Chinese Nationalist Party, is a major political party in Taiwan and was the ruling party in China until the Chinese Civil War.
+Named Entities: [Kuomintang (organization), Chinese Nationalist Party (organization), Taiwan (location), China (location), Chinese Civil War (event)]
+
+36. The Sun Yat-sen Memorial Hall in Taipei, Taiwan, is a famous memorial building in memory of the Republic of China's national father, Sun Yat-sen.
+Named Entities: [Sun Yat-sen Memorial Hall (location), Taipei (location), Taiwan (location), Republic of China (organization), Sun Yat-sen (person)]
+
+37. The Tibetan Plateau, also known as the "roof of the world," is a vast, elevated area in Central Asia and includes the Qinghai-Tibet Plateau.
+Named Entities: [Tibetan Plateau (location), Qing

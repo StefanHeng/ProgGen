@@ -1,0 +1,11 @@
+1. Query: "What are the {{prices}} like at the new pizza place that just opened?"
+Text Span: "prices"
+Label: (D). Not a Named Entity.
+
+2. Query: "What's the {{price range}} for Italian restaurants in this neighborhood?"
+Text Span: "price range"
+Label: (D). Not a Named Entity.
+
+3. Query: "I want to take my parents out for a nice dinner, any {{upscale}} steakhouse suggestions?"
+Text Span: "upscale"
+Label: (C). Wrong Type. The correct entity type is Amenity.

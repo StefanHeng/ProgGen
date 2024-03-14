@@ -1,0 +1,8 @@
+1. "What is the genre of the movie Inception directed by Christopher Nolan?"
+Named Entities: [Inception (Title), Christopher Nolan (Director)]
+
+2. "Can you recommend a classic comedy film from the 1980s?"
+Named Entities: [classic comedy (Genre), 1980s (Year)]
+
+3. "Show me a thriller movie with Leonardo DiCaprio in the lead role"
+Named Entities: [thriller (Genre), Leonardo DiCaprio (Actor)]

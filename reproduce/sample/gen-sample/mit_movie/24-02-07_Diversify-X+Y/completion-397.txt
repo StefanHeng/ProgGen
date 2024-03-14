@@ -1,0 +1,8 @@
+Query: "Who directed the Wolverine movie?"
+Named Entities: [Wolverine (Character)]
+
+Query: "Is Elton John a part of any movie soundtracks?"
+Named Entities: [Elton John (Actor)]
+
+Query: "Can you tell me which movie Leonard "Bones" McCoy appears in?"
+Named Entities: [Leonard "Bones" McCoy (Character)]

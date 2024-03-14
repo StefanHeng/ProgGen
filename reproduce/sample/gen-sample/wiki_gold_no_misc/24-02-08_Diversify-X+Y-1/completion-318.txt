@@ -1,0 +1,8 @@
+1. "The president delivered a speech at the United Nations General Assembly."
+Named Entities: [president (person), United Nations General Assembly (organization)]
+
+2. "The election results showed a significant shift in voter turnout in the rural areas."
+Named Entities: []
+
+3. "The new law passed by the parliament aims to improve healthcare access for low-income families."
+Named Entities: [parliament (organization)]

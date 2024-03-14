@@ -1,0 +1,8 @@
+1. "Could you recommend a restaurant with a delicious acai bowl for brunch in the downtown area?"
+   Named Entities: [delicious (Rating), acai bowl (Dish), brunch (Amenity), downtown area (Location)]
+
+2. "What are some brunch spots that serve acai bowls and are known for their cozy ambiance?"
+   Named Entities: [acai bowl (Dish), brunch (Amenity), cozy ambiance (Amenity)]
+
+3. "I'm looking for a restaurant that offers healthy options for brunch, particularly acai bowls."
+   Named Entities: [healthy (Price), brunch (Amenity), acai bowl (Dish)]

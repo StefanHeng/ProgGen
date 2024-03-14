@@ -1,0 +1,8 @@
+1. Text Span: "Escape Room"
+   Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "Citizen Kane"
+   Label: (A). The span is a named entity of type movie title
+
+3. Text Span: "Oscars"
+   Label: (C). Wrong Type. The correct entity type is Other.

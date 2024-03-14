@@ -1,0 +1,8 @@
+Query: "can I find the movie The Godfather on Netflix"
+Named Entities: [The Godfather (Title), Netflix (Streaming platform)]
+
+Query: "show me a movie with Clint Eastwood from the 1970s on Amazon Prime"
+Named Entities: [Clint Eastwood (Actor), 1970s (Year), Amazon Prime (Streaming platform)]
+
+Query: "I'm looking for a classic black and white film with Humphrey Bogart on Hulu"
+Named Entities: [classic black and white film (Genre), Humphrey Bogart (Actor), Hulu (Streaming platform)]

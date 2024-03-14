@@ -1,0 +1,8 @@
+1. "I'm looking for a café that offers Vietnamese cuisine and special discounts"
+Named Entities: [café (Amenity), Vietnamese cuisine (Cuisine), special discounts (Amenity)]
+
+2. "What's the closest café with Vietnamese cuisine and special offers?"
+Named Entities: [closest (Location), café (Amenity), Vietnamese cuisine (Cuisine), special offers (Amenity)]
+
+3. "Recommend me a café with a great menu for Vietnamese cuisine and discounts"
+Named Entities: [great (Rating), café (Amenity), Vietnamese cuisine (Cuisine), discounts (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with live music for breakfast?"
+Named Entities: [live music (Amenity), breakfast (Amenity)]
+
+2. "Where can I find a place with quiche on the breakfast menu?"
+Named Entities: [quiche (Dish), breakfast (Amenity)]
+
+3. "I'm looking for a breakfast spot with both live music and quiche. Any suggestions?"
+Named Entities: [live music (Amenity), quiche (Dish), breakfast (Amenity)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a sushi restaurant with outdoor seating for lunch?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity), lunch (Hours)]
+
+2. "I'm looking for a Mexican restaurant with a patio open until 3 pm for lunch."
+Named Entities: [Mexican (Cuisine), patio (Amenity), until 3 pm (Hours), lunch (Hours)]
+
+3. "Which Italian restaurant has a good rating and is within walking distance for lunch?"
+Named Entities: [Italian (Cuisine), good rating (Rating), walking distance (Location), lunch (Hours) ]

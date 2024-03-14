@@ -1,0 +1,8 @@
+Query: "I'm craving some specialty coffee, can you recommend an espresso bar in the area?"
+Named Entities: [specialty coffee (Dish), espresso bar (Amenity), in the area (Location)]
+
+Query: "I want to try something new, where can I find a customer favorite food truck for lunch?"
+Named Entities: [something new (Amenity), customer favorite (Amenity), food truck (Amenity), lunch (Hours)]
+
+Query: "I'm in the mood for some quick bites, is there a popular food truck serving international cuisine nearby?"
+Named Entities: [quick bites (Amenity), popular (Rating), food truck (Amenity), international cuisine (Cuisine), nearby (Location)]

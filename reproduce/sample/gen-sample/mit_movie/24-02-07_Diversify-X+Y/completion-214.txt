@@ -1,0 +1,8 @@
+1. Spoken query: "Can you recommend a Michael Moore documentary with a brilliant plot and intense reviews?"
+   Named Entities: [Michael Moore (Director), brilliant (Review), intense (Review)]
+
+2. Spoken query: "Do you have any nostalgic treasure hunt movies that received great viewers' ratings?"
+   Named Entities: [treasure hunt (Plot), nostalgic (Viewers' Rating)]
+
+3. Spoken query: "I'm in the mood for a nostalgic film with a promotional clip featuring the song Purple Haze. Can you help me find one?"
+   Named Entities: [nostalgic (Viewers' Rating), promotional clip (Trailer), Purple Haze (Song)]

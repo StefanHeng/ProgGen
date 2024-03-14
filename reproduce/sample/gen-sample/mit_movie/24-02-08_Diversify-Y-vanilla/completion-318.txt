@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the movie Love Me Tender?"
+Named Entities: [Love Me Tender (Title), viewers' rating (Viewers' Rating)]
+
+2. "Can you show me the highlight reel for The Great Gatsby?"
+Named Entities: [highlight reel (Trailer), The Great Gatsby (Title)]
+
+3. "Is Morpheus in any movies similar to Stalker?"
+Named Entities: [Morpheus (Character), Stalker (Title)]

@@ -1,0 +1,8 @@
+Query: "Find me a restaurant with outdoor seating in the downtown area"
+Named Entities: [outdoor seating (Amenity), downtown area (Location)]
+
+Query: "What are the Google reviews for the Italian restaurant on Main Street?"
+Named Entities: [Italian restaurant (Cuisine), Main Street (Location), Google reviews (Amenity)]
+
+Query: "I need a place for lunch that serves vegan dishes and is open until 3 pm"
+Named Entities: [lunch (Amenity), vegan dishes (Cuisine), open until 3 pm (Hours)]

@@ -1,0 +1,8 @@
+1. Query: "what are some good movies from 2002 directed by Tim Burton"
+   Named Entities: [2002 (Year), Tim Burton (Director)]
+
+2. Query: "is George Clooney in any crime thriller movies"
+   Named Entities: [George Clooney (Actor), crime thriller (Genre)]
+
+3. Query: "which movies star Jake Gyllenhaal and have a high viewers' rating"
+   Named Entities: [Jake Gyllenhaal (Actor), high viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. Query: "What movie features the song How Far I'll Go"
+Named Entities: [How Far I'll Go (Song)]
+
+2. Query: "Who directed the incredible film J.J. Abrams"
+Named Entities: [Incredible (Title), J.J. Abrams (Director)]
+
+3. Query: "Can you recommend a movie from the 1990s with a high viewers' rating"
+Named Entities: [1990s (Year), high viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me the plot of A Few Good Men"
+Named Entities: [A Few Good Men (Title), Plot (Plot)]
+
+Query: "What are some recent movies from the 2010s with Saoirse Ronan in them"
+Named Entities: [2010s (Year), Saoirse Ronan (Actor)]
+
+Query: "I'm interested in movies directed by Spike Jonze that involve corporate espionage"
+Named Entities: [Spike Jonze (Director), corporate espionage (Plot)]

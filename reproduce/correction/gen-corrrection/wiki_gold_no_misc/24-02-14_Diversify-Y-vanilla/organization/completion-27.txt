@@ -1,0 +1,8 @@
+1. Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Beatles"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Universal Music"
+Label: (A). Correct Entity Annotation.

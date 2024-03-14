@@ -1,0 +1,8 @@
+1. Text Span: "woman"
+Label: (D). Not a Named Entity
+
+2. Text Span: "Dr. Jill Biden"
+Label: (B). Wrong Boundary. The correct span boundary is "Jill Biden".
+
+3. Text Span: "Dr. Drew Pinsky"
+Label: (B). Wrong Boundary. The correct span boundary is "Drew Pinsky".

@@ -1,0 +1,8 @@
+1. Query: "Can you tell me the plot of the movie Frozen?"
+   Named Entities: [Frozen (Title), Plot (Genre)]
+
+2. Query: "What children's movie from the 90s has a princess as the main character?"
+   Named Entities: [90s (Year), princess (Character), children's (Viewers' Rating)]
+
+3. Query: "Is there a family-friendly movie with a talking animal as the main character?"
+   Named Entities: [family-friendly (Viewers' Rating), talking animal (Character)]

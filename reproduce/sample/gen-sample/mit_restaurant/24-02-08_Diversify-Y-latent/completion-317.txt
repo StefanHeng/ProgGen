@@ -1,0 +1,8 @@
+1. Query: "What are the top-rated Italian restaurants in the downtown area?"
+   Named Entities: [top-rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+2. Query: "I'm in the mood for some sushi. Can you recommend a sushi bar with outdoor seating?"
+   Named Entities: [sushi (Cuisine), sushi bar (Amenity), outdoor seating (Amenity)]
+
+3. Query: "I need to make a reservation for a party of 6 at a fine dining restaurant for Saturday at 7 p.m."
+   Named Entities: [reservation (Amenity), party of 6 (Amenity), fine dining (Amenity), Saturday at 7 p.m. (Hours)]

@@ -1,0 +1,139 @@
+1. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+2. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+
+3. The director of the National Institutes of Health is Francis Collins.
+Named Entities: [National Institutes of Health (organization), Francis Collins (person)]
+
+4. Mount Everest, known in Nepali as Sagarmatha and in Tibetan as Chomolungma, is Earth's highest mountain above sea level.
+Named Entities: [Mount Everest (location), Sagarmatha (location), Chomolungma (location), Earth (location)]
+
+5. The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.
+Named Entities: [Mona Lisa (person), Leonardo da Vinci (person), Italy (location)]
+
+6. The University of Oxford is a collegiate research university in Oxford, England.
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+
+7. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person), Germany (location)]
+
+8. The Amazon rainforest, also known in English as Amazonia, is a large tropical rainforest occupying the drainage basin of the Amazon River.
+Named Entities: [Amazon rainforest (location), Amazonia (location), Amazon River (location)]
+
+9. NASA is responsible for the civilian space program, as well as aeronautics and aerospace research.
+Named Entities: [NASA (organization)]
+
+10. The Battle of Gettysburg was fought during the American Civil War in 1863.
+Named Entities: [Battle of Gettysburg (event), American Civil War (event)]
+
+11. The Sahara is a desert located on the African continent.
+Named Entities: [Sahara (location), African (location)]
+
+12. The Mona Lisa is currently located in the Louvre Museum in Paris.
+Named Entities: [Mona Lisa (person), Louvre Museum (organization), Paris (location)]
+
+13. Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.
+Named Entities: [Marie Curie (person), Poland (location), France (location)]
+
+14. The United Nations is an international organization founded in 1945 to promote peace and cooperation.
+Named Entities: [United Nations (organization)]
+
+15. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+Named Entities: [Great Wall of China (location), China (location)]
+
+16. The Statue of Liberty was a gift from the people of France, dedicated on October 28, 1886.
+Named Entities: [Statue of Liberty (location), France (location)]
+
+17. J.K. Rowling is a British author best known for the Harry Potter series.
+Named Entities: [J.K. Rowling (person), Harry Potter (organization), British (location)]
+
+18. The International Space Station is a habitable artificial satellite that serves as a laboratory for scientific research.
+Named Entities: [International Space Station (organization)]
+
+19. The Sydney Opera House is a multi-venue performing arts center in Sydney, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location)]
+
+20. Winston Churchill was a British statesman who served as Prime Minister of the United Kingdom during World War II.
+Named Entities: [Winston Churchill (person), British (location), Prime Minister of the United Kingdom (organization), World War II (event)]
+
+21. The Colosseum is an ancient amphitheater in Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+22. Martin Luther King Jr. was an American Baptist minister and social activist who played a key role in the American civil rights movement.
+Named Entities: [Martin Luther King Jr. (person), American (location), Baptist (organization), American civil rights movement (event)]
+
+23. The Sydney Harbor Bridge is a steel through arch bridge across Sydney Harbour in Australia.
+Named Entities: [Sydney Harbor Bridge (location), Sydney Harbour (location), Australia (location)]
+
+24. Florence Nightingale was an English social reformer and statistician, and the founder of modern nursing.
+Named Entities: [Florence Nightingale (person), English (location)]
+
+25. The Leaning Tower of Pisa is a freestanding bell tower located in the city of Pisa, Italy.
+Named Entities: [Leaning Tower of Pisa (location), Pisa (location), Italy (location)]
+
+26. Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing the first practical telephone.
+Named Entities: [Alexander Graham Bell (person), Scottish (location)]
+
+27. The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Yamuna River (location), Indian (location), Agra (location)]
+
+28. The Panama Canal is an artificial waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+Named Entities: [Panama Canal (location), Panama (location), Atlantic Ocean (location), Pacific Ocean (location)]
+
+29. Galileo Galilei was an Italian astronomer, physicist and engineer, sometimes described as a polymath.
+Named Entities: [Galileo Galilei (person), Italian (location)]
+
+30. The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece.
+Named Entities: [Acropolis of Athens (location), Athens (location), Greece (location)]
+
+31. Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt.
+Named Entities: [Cleopatra VII (person), Ptolemaic Kingdom of Egypt (organization)]
+
+32. The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Queensland, Australia.
+Named Entities: [Great Barrier Reef (location), Coral Sea (location), Queensland (location), Australia (location)]
+
+33. The White House is the official residence and workplace of the President of the United States, located in Washington, D.C.
+Named Entities: [White House (location), President of the United States (organization), Washington, D.C. (location)]
+
+34. William Shakespeare was an English playwright and poet, widely regarded as the greatest writer in the English language.
+Named Entities: [William Shakespeare (person), English (location)]
+
+35. St. Peter's Basilica is a church in Vatican City, an independent city-state enclaved within Rome, Italy.
+Named Entities: [St. Peter's Basilica (location), Vatican City (location), Rome (location), Italy (location)]
+
+36. The Declaration of Independence was adopted by the Continental Congress on July 4, 1776, declaring independence from Great Britain.
+Named Entities: [Declaration of Independence (event), Continental Congress (organization), July 4, 1776 (event), Great Britain (location)]
+
+37. Julius Caesar was a Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.
+Named Entities: [Julius Caesar (person), Roman (location), Roman Republic (organization), Roman Empire (organization)]
+
+38. The Sierra Nevada is a mountain range in the western United States, primarily in the state of California.
+Named Entities: [Sierra Nevada (location), United States (location), California (location)]
+
+39. Leonardo da Vinci was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.
+Named Entities: [Leonardo da Vinci (person), Italian (location)]
+
+40. The Louvre Museum in Paris is the world's largest art museum and a historic monument in France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+41. The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Named Entities: [Berlin Wall (location), Berlin (location)]
+
+42. Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead India to independence from British rule.
+Named Entities: [Mahatma Gandhi (person), Indian (location), India (location), British (location)]
+
+43. The Westminster Abbey is a large, mainly Gothic abbey church in the City of Westminster, London, England.
+Named Entities: [Westminster Abbey (location), City of Westminster (location), London (location), England (location)]
+
+44. Adolf Hitler was a German politician and leader of the Nazi Party, who rose to power as Chancellor of Germany in 1933 and later Führer in 1934.
+Named Entities: [Adolf Hitler (person), German (location), Nazi Party (organization), Chancellor of Germany (organization), Führer (organization)]
+
+45. The Colorado River is one of the principal rivers in the Southwestern United States and northern Mexico.
+Named Entities: [Colorado River (location), Southwestern United States (location), Mexico (location)]
+
+46. Vincent Van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent Van Gogh (person), Dutch (location), Post-Impressionist (organization), Western art (organization)]
+
+47. The Great Wall of China is the collective name of a

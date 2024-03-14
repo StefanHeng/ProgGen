@@ -1,0 +1,10 @@
+3 Synthetic Spoken Queries Related to Movies:
+
+1. "Hey, what movie did Scarlett Johansson star in that received the most awards and nominations?"
+Named Entities: [Scarlett Johansson (Actor), Awards and nominations (Review)]
+
+2. "I'm looking for a movie about corporate corruption that got a perfect score from critics. Any suggestions?"
+Named Entities: [corporate corruption (Plot), perfect score (Viewers' Rating)]
+
+3. "Can you recommend a gangster movie that won multiple awards and nominations? I want to watch something with a lot of recognition."
+Named Entities: [gangster (Genre), multiple awards and nominations (Review)]

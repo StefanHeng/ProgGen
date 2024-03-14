@@ -1,0 +1,8 @@
+1. "What movie directed by Rob Reiner has the best costume and makeup design?"
+Named Entities: [Rob Reiner (Director), Costume and makeup design (Genre)]
+
+2. "Can you recommend a movie with Al Pacino that has a 10/10 viewers' rating?"
+Named Entities: [Al Pacino (Actor), 10/10 rating (Viewers' Rating)]
+
+3. "Which movie features a fight club as part of the plot?"
+Named Entities: [Fight Club (Title)]

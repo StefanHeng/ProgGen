@@ -1,0 +1,8 @@
+1. "I'm craving sushi, where can I find a top-rated sushi restaurant nearby that's open late?"
+Named Entities: [sushi (Cuisine), top-rated (Rating), nearby (Location), open late (Hours)]
+
+2. "Can you recommend a place with outdoor seating and a kids menu?"
+Named Entities: [outdoor seating (Amenity), kids menu (Amenity)]
+
+3. "I need to find a budget-friendly Italian restaurant with a good wine selection"
+Named Entities: [budget-friendly (Price), Italian (Cuisine), good wine selection (Amenity)]

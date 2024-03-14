@@ -1,0 +1,8 @@
+Query: "What are the hours of operation for Rainforest Cafe in this area"
+Named Entities: [Hours of operation (Hours), Rainforest Cafe (Restaurant Name), this area (Location)]
+
+Query: "I'm in the mood for some Scottish cuisine, where can I find a place nearby"
+Named Entities: [Scottish (Cuisine), nearby (Location)]
+
+Query: "I'm looking for a restaurant with a high rating, can you recommend one"
+Named Entities: [high rating (Rating)]

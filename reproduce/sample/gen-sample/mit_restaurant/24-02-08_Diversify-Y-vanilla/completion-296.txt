@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a good value meal deal"
+Named Entities: [good (Rating), Value meal (Amenity)]
+
+2. "where can I find bratwurst in the area"
+Named Entities: [bratwurst (Dish), area (Location)]
+
+3. "I want to have a nice dinner in a garden setting, any suggestions"
+Named Entities: [nice (Rating), garden (Amenity)]

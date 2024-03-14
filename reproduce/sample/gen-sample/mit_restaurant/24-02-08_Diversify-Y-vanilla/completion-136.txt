@@ -1,0 +1,8 @@
+Query: "I'm craving BBQ ribs, where can I find a place that serves them in Vancouver"
+Named Entities: [BBQ ribs (Dish), Vancouver (Location)]
+
+Query: "I want to try Canadian cuisine for dinner, is there a restaurant nearby"
+Named Entities: [Canadian (Cuisine), dinner (Amenity), nearby (Location)]
+
+Query: "What are the best restaurants in town for a meal under 20 dollars"
+Named Entities: [20 dollars (Price), best (Rating), restaurants (Amenity)]

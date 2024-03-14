@@ -1,0 +1,8 @@
+1. Query: "What are the showtimes for the newest superhero movie in theaters right now?"
+   Named Entities: [newest superhero movie (Genre)]
+
+2. Query: "Can I buy tickets for the romantic comedy movie that's getting great reviews?"
+   Named Entities: [romantic comedy movie (Genre), great reviews (Review)]
+
+3. Query: "Are there any action movies directed by Christopher Nolan playing this weekend?"
+   Named Entities: [action movies (Genre), Christopher Nolan (Director), this weekend (Year)]

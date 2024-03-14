@@ -1,0 +1,8 @@
+1. Query: "Can you tell me which movie from 1953 won the most awards and nominations?"
+   Named Entities: [1953 (Year), won the most awards and nominations (Awards and nominations)]
+
+2. Query: "I'm looking for a highly acclaimed movie from 1953 that received a lot of accolades, especially from the Academy. Can you recommend one?"
+   Named Entities: [1953 (Year), highly acclaimed (Awards and nominations), Academy (Awards and nominations)]
+
+3. Query: "I heard that there's a classic movie from 1953 that was approved by almost everyone and received numerous awards. Can you tell me which one it is?"
+   Named Entities: [1953 (Year), approved (Awards and nominations), received numerous awards (Awards and nominations)]

@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris."
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location)]
+
+Sentence: "The company announced a new partnership with the UNICEF to provide clean water to communities in need."
+Named Entities: [UNICEF (organization)]
+
+Sentence: "She won the Nobel Prize in Literature in 2013 for her novels and short stories."
+Named Entities: [Nobel Prize in Literature (organization)]

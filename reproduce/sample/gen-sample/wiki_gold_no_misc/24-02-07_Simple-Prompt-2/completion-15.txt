@@ -1,0 +1,149 @@
+1. The Great Mosque of Kairouan, also called the Mosque of Uqba, is a mosque in Tunisia.
+Named Entities: [Great Mosque of Kairouan (location), Mosque of Uqba (location), Tunisia (location)]
+
+2. She is a member of the Democratic Party.
+Named Entities: [Democratic Party (organization)]
+
+3. The Battle of Gettysburg was fought in 1863 during the American Civil War.
+Named Entities: [Battle of Gettysburg (location), American Civil War (event)]
+
+4. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+5. Marie Curie was a Polish and naturalized-French physicist and chemist.
+Named Entities: [Marie Curie (person), Poland (location), France (location)]
+
+6. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, named after engineer Gustave Eiffel.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location), Gustave Eiffel (person)]
+
+7. The Tokyo Imperial Palace is the primary residence of the Emperor of Japan.
+Named Entities: [ Tokyo Imperial Palace (location), Emperor of Japan (person)]
+
+8. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+9. She won the Nobel Prize in Physics for her discovery of radium and polonium.
+Named Entities: [Nobel Prize in Physics (event)]
+
+10. Mount Everest is the highest mountain in the world, located in the Himalayas.
+Named Entities: [Mount Everest (location), Himalayas (location)]
+
+11. The National Aeronautics and Space Administration (NASA) is an independent agency of the United States federal government responsible for the civilian space program.
+Named Entities: [National Aeronautics and Space Administration (organization), United States (location)]
+
+12. Alexander Hamilton was a Founding Father of the United States and the first Secretary of the Treasury.
+Named Entities: [Alexander Hamilton (person), United States (location)]
+
+13. The University of Oxford is a collegiate research university in Oxford, England.
+Named Entities: [University of Oxford (organization), Oxford (location), England (location)]
+
+14. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along an east-to-west line across the historical northern borders of China.
+Named Entities: [Great Wall of China (location), China (location)]
+
+15. The Louvre is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre (location), Paris (location), France (location)]
+
+16. John F. Kennedy was the 35th President of the United States.
+Named Entities: [John F. Kennedy (person), President of the United States (position)]
+
+17. The British Broadcasting Corporation (BBC) is the public-service broadcaster of the United Kingdom.
+Named Entities: [British Broadcasting Corporation (organization), United Kingdom (location)]
+
+18. He is a member of the Academy of Motion Picture Arts and Sciences.
+Named Entities: [Academy of Motion Picture Arts and Sciences (organization)]
+
+19. The Sahara Desert is the largest hot desert in the world.
+Named Entities: [Sahara Desert (location)]
+
+20. The European Union (EU) is a political and economic union of 27 member states.
+Named Entities: [European Union (organization)]
+
+21. Her novel, To Kill a Mockingbird, won the Pulitzer Prize for Fiction in 1961.
+Named Entities: [Pulitzer Prize for Fiction (event)]
+
+22. The Smithsonian Institution is a group of museums and research centers administered by the United States government.
+Named Entities: [Smithsonian Institution (organization), United States (location)]
+
+23. Isaac Newton was an English mathematician, physicist, and astronomer.
+Named Entities: [Isaac Newton (person), England (location)]
+
+24. The Sydney Opera House is a multi-venue performing arts center in Sydney, Australia.
+Named Entities: [Sydney Opera House (location), Sydney (location), Australia (location)]
+
+25. The Elizabeth Tower, which houses the bell known as Big Ben, is located at the north end of the Palace of Westminster.
+Named Entities: [Elizabeth Tower (location), Big Ben (location), Palace of Westminster (location)]
+
+26. The King James Version of the Bible, also known as the Authorized Version, is an English translation of the Christian Bible for the Church of England.
+Named Entities: [King James Version (religious text), Authorized Version (religious text), Church of England (organization)]
+
+27. The Amazon River in South America is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location), South America (location)]
+
+28. The Nobel Peace Prize is one of the five Nobel Prizes established by the will of Alfred Nobel.
+Named Entities: [Nobel Peace Prize (award), Alfred Nobel (person)]
+
+29. The United Nations Security Council is one of the six principal organs of the United Nations.
+Named Entities: [United Nations Security Council (organization), United Nations (organization)]
+
+30. The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City.
+Named Entities: [Brooklyn Bridge (location), New York City (location)]
+
+31. Maya Angelou was an American poet, memoirist, and civil rights activist.
+Named Entities: [Maya Angelou (person), United States (location)]
+
+32. The Hindu Temple Society of North America is a Hindu temple complex in New York City.
+Named Entities: [Hindu Temple Society of North America (organization), New York City (location)]
+
+33. Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.
+Named Entities: [quantum mechanics (concept), physics (field of study)]
+
+34. Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement.
+Named Entities: [Martin Luther King Jr. (person), American Baptist (organization), civil rights movement (event)]
+
+35. The Tower of London is a historic castle located on the north bank of the River Thames in central London.
+Named Entities: [Tower of London (location), River Thames (location), London (location)]
+
+36. The Bolshoi Theatre is a historic theatre in Moscow, Russia.
+Named Entities: [Bolshoi Theatre (location), Moscow (location), Russia (location)]
+
+37. She visited the Vatican City during her trip to Rome.
+Named Entities: [Vatican City (location), Rome (location)]
+
+38. The American Red Cross is a humanitarian organization that provides emergency assistance and disaster relief in the United States.
+Named Entities: [American Red Cross (organization), United States (location)]
+
+39. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+40. The United States Declaration of Independence was adopted by the Second Continental Congress in 1776.
+Named Entities: [United States Declaration of Independence (document), Second Continental Congress (organization)]
+
+41. Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+Named Entities: [Leonardo da Vinci (person), High Renaissance (event)]
+
+42. The Mississippi River is the second-longest river and chief river of the second-largest drainage system on the North American continent.
+Named Entities: [Mississippi River (location), North American (location)]
+
+43. The Louvre Abu Dhabi is an art and civilization museum in the Persian Gulf region.
+Named Entities: [Louvre Abu Dhabi (location), Persian Gulf (location)]
+
+44. Barack Obama served as the 44th President of the United States from 2009 to 2017.
+Named Entities: [Barack Obama (person), President of the United States (position)]
+
+45. The Colosseum is an oval amphitheatre in the center of the city of Rome, Italy.
+Named Entities: [Colosseum (location), Rome (location), Italy (location)]
+
+46. The Mississippi State Capitol is located in downtown Jackson, Mississippi.
+Named Entities: [Mississippi State Capitol (location), Jackson (location), Mississippi (location)]
+
+47. The British Museum is a public institution dedicated to human history, art, and culture located in London, England.
+Named Entities: [British Museum (organization), London (location), England (location)]
+
+48. The National Football League (NFL) is a professional American football league.
+Named Entities: [National Football League (organization), American football (sport)]
+
+49. She wrote a biography of Queen Elizabeth I of England.
+Named Entities: [Queen Elizabeth I (person), England (location)]
+
+50. The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City.
+Named Entities: [Sistine Chapel (location), Apostolic Palace (location), Pope (person), Vatican City (location)]

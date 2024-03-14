@@ -1,0 +1,8 @@
+1. Text Span: "close tonight"
+Label: (A). Named Entity of type Hours
+
+2. Text Span: "operating hours"
+Label: (D). Not a Named Entity
+
+3. Text Span: "late night hours"
+Label: (A). Named Entity of type Hours

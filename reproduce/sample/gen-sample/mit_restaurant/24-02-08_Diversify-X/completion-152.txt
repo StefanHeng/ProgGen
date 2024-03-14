@@ -1,0 +1,8 @@
+Query: "Can we find a mid-range restaurant with a brunch menu nearby"
+Named Entities: [mid-range (Price), brunch (Amenity), nearby (Location)]
+
+Query: "I'm looking for a brunch place with outdoor seating and a good rating"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), good (Rating)]
+
+Query: "What are some mid-range restaurants that serve brunch in the city center"
+Named Entities: [mid-range (Price), brunch (Amenity), city center (Location)]

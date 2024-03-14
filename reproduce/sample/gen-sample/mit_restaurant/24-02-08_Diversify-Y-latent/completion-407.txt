@@ -1,0 +1,8 @@
+1. Query: "what are the best Italian restaurants in Las Vegas"
+Named Entities: [Italian (Cuisine), Las Vegas (Location)]
+
+2. Query: "show me Mexican restaurants open now in Las Vegas"
+Named Entities: [Mexican (Cuisine), open now (Hours), Las Vegas (Location)]
+
+3. Query: "I want to eat at a seafood restaurant with outdoor seating in Las Vegas"
+Named Entities: [seafood (Cuisine), outdoor seating (Amenity), Las Vegas (Location)]

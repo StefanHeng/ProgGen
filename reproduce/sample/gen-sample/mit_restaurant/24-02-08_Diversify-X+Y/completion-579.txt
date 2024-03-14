@@ -1,0 +1,8 @@
+Query: "Can you recommend a place for lunch near me that has a bar area?"
+Named Entities: [lunch (Amenity), bar area (Amenity)]
+
+Query: "What are the operational timings for IHOP for lunch?"
+Named Entities: [IHOP (Restaurant Name), operational timings (Hours), lunch (Amenity)]
+
+Query: "I'm looking for a restaurant with a good lunch menu, preferably near IHOP."
+Named Entities: [lunch (Amenity), IHOP (Location)]

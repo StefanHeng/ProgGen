@@ -1,0 +1,8 @@
+Query: "Can you recommend any Classy Eateries with a waterfront view?"
+Named Entities: [Classy Eateries (Amenity), waterfront view (Amenity)]
+
+Query: "I am craving some authentic Italian cuisine. Any suggestions for Classy Eateries?"
+Named Entities: [authentic Italian (Cuisine), Classy Eateries (Amenity)]
+
+Query: "What are the top-rated Classy Eateries with outdoor seating in the downtown area?"
+Named Entities: [top-rated (Rating), Classy Eateries (Amenity), outdoor seating (Amenity), downtown area (Location)]

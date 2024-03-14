@@ -1,0 +1,8 @@
+1. "Can you recommend any five-star lunch places with outdoor seating?"
+Named Entities: [Five-star lunch places (Amenity), outdoor seating (Amenity)]
+
+2. "Which restaurant serves gourmet sandwiches for a five-star lunch experience?"
+Named Entities: [Five-star lunch places (Amenity), gourmet sandwiches (Dish)]
+
+3. "I'm looking for a five-star lunch place that offers a prix fixe menu."
+Named Entities: [Five-star lunch places (Amenity), prix fixe menu (Price)]

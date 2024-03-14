@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie with {{Compelling performances}} and a TV-14 rating?"
+Text Span: "Compelling performances"
+Label: (A). Named Entity of type Review
+
+2. Query: "I heard that a movie called American Son with Kerry Washington has {{phenomenal writing}}. Can you tell me more about it?"
+Text Span: "phenomenal writing"
+Label: (A). Named Entity of type Review
+
+3. Query: "Is the film Alfredo Rodriguez directed {{unwatchable or worth seeing}}?"
+Text Span: "unwatchable or worth seeing"
+Label: (B). The span contains a named review entity but the span boundary is not precise. The correct span boundary is "worth seeing".

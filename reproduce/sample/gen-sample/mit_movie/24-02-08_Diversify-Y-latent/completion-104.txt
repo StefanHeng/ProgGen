@@ -1,0 +1,8 @@
+Query: "where can I find a movie preview for a crime thriller"
+Named Entities: [crime (Genre), movie preview (Trailer)]
+
+Query: "recommend a moving drama rated X from 2005"
+Named Entities: [moving (Genre), X (MPAA Rating), 2005 (Year)]
+
+Query: "what is the most spectacular movie of 2010"
+Named Entities: [spectacular (Viewers' Rating), 2010 (Year)]

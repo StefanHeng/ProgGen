@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with moderate pricing near Del Posto"
+Named Entities: [moderate (Price), Del Posto (Restaurant Name)]
+
+2. "What are the hours of operation for the Italian restaurant Del Posto?"
+Named Entities: [Italian (Cuisine), Del Posto (Restaurant Name), hours of operation (Hours)]
+
+3. "Can you recommend a place with high ratings and outdoor seating for brunch?"
+Named Entities: [high ratings (Rating), outdoor seating (Amenity), brunch (Amenity)]

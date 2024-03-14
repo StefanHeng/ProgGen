@@ -1,0 +1,8 @@
+1. Text Span: "General Tso's chicken"
+Label: (A). The span is a named entity of type dish
+
+2. Text Span: "chicken"
+Label: (B). The span contains a named dish entity but the span boundary is not precise. The correct span boundary is "Nando's Peri-Peri".
+
+3. Text Span: "soup"
+Label: (A). The span is a named entity of type dish

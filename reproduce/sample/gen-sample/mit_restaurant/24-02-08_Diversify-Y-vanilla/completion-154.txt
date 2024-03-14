@@ -1,0 +1,8 @@
+Query: "What restaurants near the farmers' market serve organic cuisine?"
+Named Entities: [Farmers' market (Location), organic cuisine (Cuisine)]
+
+Query: "Can you recommend a restaurant with outdoor seating close to the farmers' market?"
+Named Entities: [outdoor seating (Amenity), close to the farmers' market (Location)]
+
+Query: "Which restaurants near the farmers' market have a rating of 4 stars or higher?"
+Named Entities: [Farmers' market (Location), 4 stars or higher (Rating)]

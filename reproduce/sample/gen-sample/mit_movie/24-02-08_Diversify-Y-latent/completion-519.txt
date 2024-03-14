@@ -1,0 +1,8 @@
+Query: "Can you recommend a good movie with a 7/10 rating?"
+Named Entities: [7/10 rating (Viewers' Rating)]
+
+Query: "Are there any must-see historical movies directed by David O. Russell?"
+Named Entities: [Historical (Genre), David O. Russell (Director), must see (Viewers' Rating)]
+
+Query: "What's the latest movie directed by David O. Russell?"
+Named Entities: [David O. Russell (Director)]

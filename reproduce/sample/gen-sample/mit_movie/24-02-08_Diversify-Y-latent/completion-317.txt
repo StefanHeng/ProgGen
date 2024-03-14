@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with a highlight performance by Nicole Kidman?"
+Named Entities: [highlight performance (Review), Nicole Kidman (Actor)]
+
+2. Query: "What is the genre of the movie starring Ryan Reynolds that came out in 2010?"
+Named Entities: [Ryan Reynolds (Actor), 2010 (Year)]
+
+3. Query: "Tell me about the film Moulin Rouge! directed by Baz Luhrmann."
+Named Entities: [Moulin Rouge! (Title), Baz Luhrmann (Director)]

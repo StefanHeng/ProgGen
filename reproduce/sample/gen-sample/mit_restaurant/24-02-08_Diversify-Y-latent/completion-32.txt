@@ -1,0 +1,8 @@
+1. "Can you recommend a nearby Italian restaurant with a patio area?"
+Named Entities: [Italian (Cuisine), patio area (Amenity), nearby (Location)]
+
+2. "What are the opening hours for the seafood restaurant on Main Street?"
+Named Entities: [seafood (Cuisine), opening hours (Hours), Main Street (Location)]
+
+3. "I'm looking for a budget-friendly place to have brunch this weekend. Any suggestions?"
+Named Entities: [budget-friendly (Price), brunch (Amenity), this weekend (Hours)]

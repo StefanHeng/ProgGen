@@ -1,0 +1,4 @@
+A named cuisine entity is a style or type of cooking, such as "diner", "burger", "food truck", "café" and "vegetarian".
+Starting Cuisine adjectives such as "authentic" and "classic" should be a part of the Cuisine entity.
+You should drop trailing "food", "place", "restaurant" and "options" words from named cuisine entities if not necessary.
+Ensure to distinguish named amenity entities from named hours entities. Meal times such as "breakfast", "brunch", "lunch" and "dinner" should be named Hours entities.

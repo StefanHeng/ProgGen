@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a restaurant with the {{Best value}} for dinner tonight?"
+Text Span: "Best value"
+Label: (C). Wrong Type. The correct entity type is Rating.
+
+2. Query: "Can you recommend a restaurant with a prix fixe menu for dinner tonight, maybe around {{$50 per person}}?"
+Text Span: "$50 per person"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "I need to find a budget-friendly spot for dinner, {{under $15 per person}}."
+Text Span: "under $15 per person"
+Label: (A). Correct Entity Annotation.

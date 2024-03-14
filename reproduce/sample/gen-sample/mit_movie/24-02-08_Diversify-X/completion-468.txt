@@ -1,0 +1,8 @@
+1. "Can you please show me a teaser for the new James Bond movie?"
+Named Entities: [teaser (Trailer), James Bond (Character)]
+
+2. "I'm dying to see a preview for the highly anticipated Marvel movie releasing next year. Can you assist with that?"
+Named Entities: [preview (Trailer), Marvel (Genre), next year (Year)]
+
+3. "I heard there's a thrilling new trailer for the upcoming sci-fi film. I cannot wait to watch it!"
+Named Entities: [thrilling (Viewers' Rating), trailer (Trailer), sci-fi (Genre)]

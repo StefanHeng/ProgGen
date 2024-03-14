@@ -1,0 +1,8 @@
+1. "Which fine dining restaurants in the area offer pescatarian options?"
+Named Entities: [fine dining (Amenity), pescatarian (Cuisine)]
+
+2. "I'm looking for a high-end dining experience with seafood options. Any recommendations?"
+Named Entities: [high-end (Price), seafood (Cuisine)]
+
+3. "What are the top-rated fine dining establishments for pescatarian diners?"
+Named Entities: [top-rated (Rating), pescatarian (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a Cuban restaurant with meeting rooms for a business lunch?"
+Named Entities: [Cuban (Cuisine), Meeting rooms (Amenity), business lunch (Amenity)]
+
+2. "I'm looking for a place to eat that serves Cuban cuisine and has a 4-star rating"
+Named Entities: [Cuban (Cuisine), 4-star (Rating)]
+
+3. "What are the hours of the closest Cuban restaurant with meeting rooms for a group dinner?"
+Named Entities: [Cuban (Cuisine), closest (Location), Meeting rooms (Amenity), group dinner (Amenity)]

@@ -1,0 +1,8 @@
+Query: "What is the plot of the movie Hero directed by Zhang Yimou"
+Named Entities: [Hero (Title), Zhang Yimou (Director)]
+
+Query: "Show me a comedy movie from 2010 with a great viewers' rating"
+Named Entities: [2010 (Year), comedy (Genre), great (Viewers' Rating)]
+
+Query: "Who is the main actor in the movie House of Flying Daggers by Zhang Yimou"
+Named Entities: [House of Flying Daggers (Title), Zhang Yimou (Director)]

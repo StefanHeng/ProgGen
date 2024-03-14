@@ -1,0 +1,8 @@
+1. "Which restaurants around here have live music entertainment for late-night dining?"
+   Named Entities: [live music entertainment (Amenity), late-night dining (Hours)]
+
+2. "I'm looking for a Brazilian restaurant with outdoor seating that is open until midnight."
+   Named Entities: [Brazilian (Cuisine), outdoor seating (Amenity), open until midnight (Hours)]
+
+3. "Find me a place like Denny's that offers late-night dining and has outdoor seating."
+   Named Entities: [Denny's (Restaurant Name), late-night dining (Hours), outdoor seating (Amenity)]

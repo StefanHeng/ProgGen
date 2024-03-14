@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with Uma Thurman in a leading role that has a 2-star rating?"
+   Named Entities: [Uma Thurman (Actor), 2-star rating (Viewers' Rating)]
+
+2. Query: "Show me a film featuring Kylo Ren with a high viewers' rating"
+   Named Entities: [Kylo Ren (Character), high viewers' rating (Viewers' Rating)]
+
+3. Query: "What movies from the 90s are directed by Quentin Tarantino and fall under the crime genre?"
+   Named Entities: [Quentin Tarantino (Director), 90s (Year), crime (Genre)]

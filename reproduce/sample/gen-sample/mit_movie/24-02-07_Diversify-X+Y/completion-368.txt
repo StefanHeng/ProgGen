@@ -1,0 +1,11 @@
+1. "I was thinking of checking out a movie tonight, maybe something with Meryl Streep. Any suggestions?"
+
+Named Entities: [Meryl Streep (Actor)]
+
+2. "I'm interested in watching a movie from the late 90s. Any recommendations for something from 1998?"
+
+Named Entities: [1998 (Year)]
+
+3. "I want to see a movie that's a bit different, something with a zombie theme. Any ideas?"
+
+Named Entities: [Zombie (Genre)]

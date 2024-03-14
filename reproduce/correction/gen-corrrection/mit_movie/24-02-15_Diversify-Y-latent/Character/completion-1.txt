@@ -1,0 +1,8 @@
+1. Text Span: "Hermione Granger"
+   Label: (A). The span is a named entity of type character
+
+2. Text Span: "Lara Croft"
+   Label: (A). The span is a named entity of type character
+
+3. Text Span: "Making-of featurette"
+   Label: (C). The span is a named entity but the category is not character. The correct entity type is other.

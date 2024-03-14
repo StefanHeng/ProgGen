@@ -1,0 +1,8 @@
+Sentence: "Cristiano Ronaldo is considered one of the greatest footballers of all time."
+Named Entities: [Cristiano Ronaldo (person)]
+
+Sentence: "Asos is a British online fashion and cosmetic retailer."
+Named Entities: [Asos (organization)]
+
+Sentence: "In 2012, Cristiano Ronaldo scored 46 goals in La Liga, setting a new record for the most goals in a single season."
+Named Entities: [Cristiano Ronaldo (person), La Liga (organization)]

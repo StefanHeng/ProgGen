@@ -1,0 +1,11 @@
+1. Sentence: "General Motors announces partnership with {{Tesla}} for development of electric vehicles."
+Text Span: "Tesla"
+Label: (A)
+
+2. Sentence: "New study finds decline in {{elephant}} populations in African reserves."
+Text Span: "elephant"
+Label: (C) organization
+
+3. Sentence: "{{Apple}} releases new iPhone with innovative 3D display technology."
+Text Span: "Apple"
+Label: (A)

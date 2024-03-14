@@ -1,0 +1,11 @@
+1. Query: "Who directed the {{top-rated}} romantic comedy of the past decade?"
+Text Span: "top-rated"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+2. Query: "Can you tell me which film has received the {{highest viewers' rating}} recently?"
+Text Span: "highest viewers' rating"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.
+
+3. Query: "Can you recommend a movie with an {{awesome soundtrack}} for a girls' night in?"
+Text Span: "awesome soundtrack"
+Label: (A). Correct Entity Annotation.

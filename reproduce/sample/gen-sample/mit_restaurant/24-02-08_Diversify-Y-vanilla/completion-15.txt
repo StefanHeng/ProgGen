@@ -1,0 +1,11 @@
+1. Query: "I'm craving some sushi, where can I find a highly rated sushi restaurant in the area?"
+Named Entities: [sushi (Cuisine), highly rated (Rating)]
+[Value]
+
+2. Query: "What's the best Italian restaurant with outdoor seating and a price range of $20-30 per meal near me?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), $20-30 per meal (Price)]
+[Value]
+
+3. Query: "I need a place that serves breakfast all day and has vegan options, where can I go?"
+Named Entities: [breakfast all day (Hours), vegan options (Cuisine)]
+[Value]

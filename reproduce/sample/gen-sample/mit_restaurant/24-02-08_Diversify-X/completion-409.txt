@@ -1,0 +1,8 @@
+1. "Can you recommend a romantic restaurant with late-night dining and special discounts?"
+Named Entities: [romantic (Amenity), late-night dining (Amenity), special discounts (Amenity)]
+
+2. "I'm looking for a place with late-night dining that offers a romantic atmosphere and special deals."
+Named Entities: [late-night dining (Amenity), romantic (Amenity), special deals (Amenity)]
+
+3. "Which restaurant in the area has late-night dining, a romantic ambience, and special discounts?"
+Named Entities: [late-night dining (Amenity), romantic (Amenity), special discounts (Amenity)]

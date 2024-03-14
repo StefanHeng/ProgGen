@@ -1,0 +1,8 @@
+1. "What movie starred Matt Damon and was directed by Darren Aronofsky between 2012 and 2015?"
+Named Entities: [Matt Damon (Actor), Darren Aronofsky (Director), 2012-2015 (Year)]
+
+2. "Show me a martial arts film that was rated NC-17 and released in 2001."
+Named Entities: [martial arts (Genre), NC-17 (MPAA Rating), 2001 (Year)]
+
+3. "Can you recommend a movie with a great plot and features the song X?"
+Named Entities: [X (Song), great plot (Plot)]

@@ -1,0 +1,8 @@
+1. "Can you tell me about any behind-the-scenes details of movies released between 1963 and 1968?"
+   Named Entities: [1963-1968 (Year)]
+
+2. "Show me some behind-the-scenes footage of Gwyneth Paltrow's films from 2003 to 2008."
+   Named Entities: [Gwyneth Paltrow (Actor), 2003-2008 (Year)]
+
+3. "I'm interested in learning about the making-of process for movies involving Gwyneth Paltrow, can you provide any information?"
+   Named Entities: [Gwyneth Paltrow (Actor)]

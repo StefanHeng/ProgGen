@@ -1,0 +1,8 @@
+Query: "Can you recommend a romantic comedy film from this year that is suitable for any age?"
+Named Entities: [romantic comedy (Genre), this year (Year), suitable for any age (MPAA Rating)]
+
+Query: "Are there any psychological thriller movies with a non-restricted rating?"
+Named Entities: [psychological thriller (Genre), non-restricted (MPAA Rating)]
+
+Query: "I'm interested in watching a movie with a complex plot, is there a psychological drama you would suggest?"
+Named Entities: [complex plot (Plot), psychological drama (Genre)]

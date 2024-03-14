@@ -1,0 +1,3 @@
+A named movie title entity must be the name of a movie.
+You should always drop starting "latest" or "new" and trailing "movie" or "film" words from named movie title entity spans.
+General reference to movies such as "latest film" and "newest movie" are also not named entities.

@@ -1,0 +1,8 @@
+Sentence: "Nestlé is the largest food company in the world, measured by revenues and other metrics, since 2014."
+Named Entities: [Nestlé (organization)]
+
+Sentence: "The company also owns a 60% stake in a joint venture with General Mills, Cereal Partners Worldwide, and 10.066% in L'Oréal, one of the largest cosmetics and beauty companies."
+Named Entities: [General Mills (organization), Cereal Partners Worldwide (organization), L'Oréal (organization)]
+
+Sentence: "Nestlé markets a whole range of products, including baby food, medical food, bottled water, breakfast cereals, coffee and tea, confectionery, dairy products, ice cream, frozen food, pet foods, and snacks."
+Named Entities: [Nestlé (organization)]

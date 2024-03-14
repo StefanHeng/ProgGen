@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some gourmet grub from a food truck, where can I find one nearby?"
+Named Entities: [gourmet grub (Cuisine), food truck (Amenity)]
+
+Query: "What's the highest-rated food truck serving gourmet grub in the area?"
+Named Entities: [highest-rated (Rating), food truck (Amenity), gourmet grub (Cuisine)]
+
+Query: "Can you recommend a food truck with gourmet grub that's open late tonight?"
+Named Entities: [open late tonight (Hours), food truck (Amenity), gourmet grub (Cuisine)]

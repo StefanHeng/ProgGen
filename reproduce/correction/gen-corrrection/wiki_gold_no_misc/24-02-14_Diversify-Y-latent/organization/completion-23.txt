@@ -1,0 +1,8 @@
+1. Text Span: "The Age of Innocence"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Queen of England"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "CST-100 Starliner"
+Label: (A). Correct Entity Annotation.

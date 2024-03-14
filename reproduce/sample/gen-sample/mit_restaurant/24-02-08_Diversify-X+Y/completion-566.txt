@@ -1,0 +1,8 @@
+Query: "Can you recommend a food truck with patio seating for a dine-in meal?"
+Named Entities: [food truck (Restaurant Type), patio seating (Amenity), dine-in (Amenity)]
+
+Query: "I'm looking for a food truck with patio seating that offers dine-in options. Any suggestions?"
+Named Entities: [food truck (Restaurant Type), patio seating (Amenity), dine-in (Amenity)]
+
+Query: "Is there a food truck around here that has patio seating for dine-in meals?"
+Named Entities: [food truck (Restaurant Type), patio seating (Amenity), dine-in (Amenity)]

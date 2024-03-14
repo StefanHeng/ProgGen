@@ -1,0 +1,8 @@
+1. Spoken Query: "I'm looking for unforgettable performances in an anthology movie. Can you find me some options?"
+   Named Entities: [unforgettable performances (Review), anthology (Genre)]
+
+2. Spoken Query: "I want to watch a teen movie that is sublime. Do you have any recommendations?"
+   Named Entities: [teen (Genre), sublime (Viewers' Rating)]
+
+3. Spoken Query: "Are there any movies showing that feature the song 'Everything Is Awesome'?"
+   Named Entities: [everything is awesome (Song)]

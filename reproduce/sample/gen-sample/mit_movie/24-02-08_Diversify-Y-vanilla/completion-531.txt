@@ -1,0 +1,8 @@
+Query: "what is a good movie with the song All You Need is Love"
+Named Entities: [All You Need is Love (Song)]
+
+Query: "can you recommend an inspiring movie with a 9.5/10 rating"
+Named Entities: [inspiring (Genre), 9.5/10 rating (Viewers' Rating)]
+
+Query: "do you know an emotional film released in the 2010s"
+Named Entities: [emotional (Genre), 2010s (Year)]

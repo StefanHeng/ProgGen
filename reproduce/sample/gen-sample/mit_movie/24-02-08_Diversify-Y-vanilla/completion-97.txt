@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with exceptional sound design?"
+Named Entities: [exceptional sound design (Review)]
+
+Query: "I want to watch a romantic movie with Rachel McAdams. Can you suggest one?"
+Named Entities: [Rachel McAdams (Actor), romantic (Genre)]
+
+Query: "What is a movie that is not too predictable and has unconvincing characters?"
+Named Entities: [unconvincing characters (Character)]

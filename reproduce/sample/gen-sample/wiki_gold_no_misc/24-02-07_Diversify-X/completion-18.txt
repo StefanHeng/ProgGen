@@ -1,0 +1,8 @@
+Sentence: "Cognitive psychology is the study of mental processes such as "attention, language use, perception, problem solving, memory, and thinking."
+Named Entities: [Cognitive psychology (organization)]
+
+Sentence: "Sigmund Freud, the father of psychoanalysis, developed a theory of the structure of the mind which involved the id, ego, and superego."
+Named Entities: [Sigmund Freud (person)]
+
+Sentence: "Stanford University's psychology department is renowned for its research in the fields of social psychology and clinical psychology."
+Named Entities: [Stanford University (organization), psychology department (organization)]

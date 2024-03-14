@@ -1,0 +1,8 @@
+1. Query: "Can you provide me with a teaser for the new Ghostbusters movie?"
+Named Entities: [teaser (Trailer), Ghostbusters (Title)]
+
+2. Query: "I'm feeling nostalgic, can you show me a trailer for the original Jurassic Park movie?"
+Named Entities: [trailer (Trailer), Jurassic Park (Title)]
+
+3. Query: "Do you have any teasers for classic 80s action movies?"
+Named Entities: [teasers (Trailer), classic 80s action movies (Genre)]

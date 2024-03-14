@@ -1,0 +1,11 @@
+1. Query: "Who starred in the movie Gladiator besides Russell Crowe and The Fugitive with {{Michelle Williams}}?"
+Text Span: "Michelle Williams"
+Label: (A). The span is a named entity of type actor
+
+2. Query: "I'm interested in learning more about {{Ed Harris}}'s directorial debut. Can you provide information on any behind-the-scenes footage or interviews for Rebellion?"
+Text Span: "Ed Harris"
+Label: (A). The span is a named entity of type actor
+
+3. Query: "Can you tell me who the {{versatile actors}} are in the movie School of Rock?"
+Text Span: "versatile actors"
+Label: (C). The span is a named entity but the category is not actor. Entity Type: Character

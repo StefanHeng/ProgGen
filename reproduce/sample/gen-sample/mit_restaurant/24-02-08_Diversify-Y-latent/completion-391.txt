@@ -1,0 +1,8 @@
+1. "I'm in the mood for seafood, can you recommend a good restaurant for lobster rolls?"
+Named Entities: [seafood (Cuisine), lobster rolls (Dish)]
+
+2. "I want a burger and fries, where's the nearest Shake Shack?"
+Named Entities: [burger and fries (Dish), nearest (Location), Shake Shack (Restaurant Name)]
+
+3. "I need a family-friendly restaurant with a kids menu and good reviews, maybe something like Red Lobster?"
+Named Entities: [family-friendly (Amenity), kids menu (Amenity), good reviews (Rating), Red Lobster (Restaurant Name)]

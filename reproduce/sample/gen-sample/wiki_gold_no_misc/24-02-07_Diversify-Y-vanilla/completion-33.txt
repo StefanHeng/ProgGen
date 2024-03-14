@@ -1,0 +1,8 @@
+1. Microsoft Azure provides a wide range of cognitive services, such as key phrase extraction and language understanding.
+Named Entities: [Microsoft Azure (organization)]
+
+2. Mark Zuckerberg, the CEO of Facebook, has faced challenges from regulatory authorities regarding user privacy and data protection.
+Named Entities: [Mark Zuckerberg (person), Facebook (organization)]
+
+3. The headquarters of Microsoft Azure is located in Redmond, Washington, along with the main Microsoft campus.
+Named Entities: [Microsoft Azure (organization), Redmond (location), Washington (location), Microsoft (organization)]

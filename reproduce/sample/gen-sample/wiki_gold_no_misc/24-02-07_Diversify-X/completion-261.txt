@@ -1,0 +1,8 @@
+1. "The President delivered a powerful speech at the United Nations General Assembly."
+Named Entities: [President (person), United Nations General Assembly (organization)]
+
+2. "The new legislation aims to reduce carbon emissions by 30% in the next five years."
+Named Entities: []
+
+3. "The Prime Minister's visit to the capital city sparked nationwide protests."
+Named Entities: [Prime Minister (person)]

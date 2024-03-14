@@ -1,0 +1,8 @@
+Query: "What is the rating of The Keg Steakhouse + Bar in this area"
+Named Entities: [The Keg Steakhouse + Bar (Restaurant Name), rating (Rating), this area (Location)]
+
+Query: "I'm craving seafood, where can I find a good seafood restaurant nearby"
+Named Entities: [seafood (Cuisine), good (Rating), nearby (Location)]
+
+Query: "Can you tell me the opening hours of The Keg Steakhouse + Bar"
+Named Entities: [The Keg Steakhouse + Bar (Restaurant Name), opening hours (Hours)]

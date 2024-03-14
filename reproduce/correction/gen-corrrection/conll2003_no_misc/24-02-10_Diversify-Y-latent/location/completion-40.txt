@@ -1,0 +1,8 @@
+1. Text Span: "Rohingya refugees"
+Label: (C). The span is a named entity but the category is not location. Entity type: other
+
+2. Text Span: "The Getty Center"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Chicago"
+Label: (A). The span is a named entity of type location

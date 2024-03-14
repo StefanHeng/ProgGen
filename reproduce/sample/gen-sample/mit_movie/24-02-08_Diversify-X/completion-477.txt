@@ -1,0 +1,8 @@
+1. "Who directed the movie Titanic and who starred in it? I need to know now!"
+   Named Entities: [Titanic (Title), directed (Director), starred (Actor)]
+
+2. "What's the highest rated action movie from the 90s? I really need to find something exciting to watch!"
+   Named Entities: [action (Genre), 90s (Year), highest rated (Viewers' Rating)]
+
+3. "Can you tell me the plot of the latest James Bond film and who's playing the villain? I can't wait to find out!"
+   Named Entities: [James Bond (Character), latest (Year), playing the villain (Actor), plot (Plot)]

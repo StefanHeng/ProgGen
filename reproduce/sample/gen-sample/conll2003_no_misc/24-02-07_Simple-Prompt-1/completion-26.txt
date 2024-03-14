@@ -1,0 +1,149 @@
+1. Apple announces new iPhone release date.
+Named Entities: [Apple (organization)]
+
+2. President Biden to meet with G7 leaders in June.
+Named Entities: [Biden (person), G7 (organization)]
+
+3. Wildfires ravage California, thousands evacuated.
+Named Entities: [California (location)]
+
+4. Elon Musk's SpaceX launches new satellite into orbit.
+Named Entities: [Elon Musk (person), SpaceX (organization)]
+
+5. Major earthquake hits Japan, tsunami warning issued.
+Named Entities: [Japan (location)]
+
+6. Amazon faces backlash over labor practices.
+Named Entities: [Amazon (organization)]
+
+7. New study finds link between processed meat and cancer risk.
+Named Entities: []
+
+8. CEO of Tesla predicts surge in electric vehicle sales.
+Named Entities: [Tesla (organization)]
+
+9. Hurricane season expected to be particularly severe this year.
+Named Entities: []
+
+10. Facebook under investigation for antitrust violations.
+Named Entities: [Facebook (organization)]
+
+11. Prime Minister Trudeau visits India to discuss trade agreements.
+Named Entities: [Trudeau (person), India (location)]
+
+12. Hollywood actress arrested for DUI.
+Named Entities: []
+
+13. Google introduces new privacy features for users.
+Named Entities: [Google (organization)]
+
+14. London experiences record high temperatures.
+Named Entities: [London (location)]
+
+15. Former President Obama to release memoir.
+Named Entities: [Obama (person)]
+
+16. South Africa imposes new COVID-19 lockdown measures.
+Named Entities: [South Africa (location)]
+
+17. Pfizer vaccine found to be highly effective in children.
+Named Entities: [Pfizer (organization)]
+
+18. Famous chef opens new restaurant in Paris.
+Named Entities: [Paris (location)]
+
+19. United Nations calls for ceasefire in Yemen.
+Named Entities: [United Nations (organization), Yemen (location)]
+
+20. Kim Kardashian launches new beauty line.
+Named Entities: [Kim Kardashian (person)]
+
+21. Major data breach at Microsoft exposes millions of users' information.
+Named Entities: [Microsoft (organization)]
+
+22. Pope Francis condemns violence in the Middle East.
+Named Entities: [Pope Francis (person), Middle East (location)]
+
+23. New York City to invest in affordable housing initiatives.
+Named Entities: [New York City (location)]
+
+24. CEO of Netflix steps down amid controversy.
+Named Entities: [Netflix (organization)]
+
+25. Russia announces plans for manned mission to Mars.
+Named Entities: [Russia (location), Mars (location)]
+
+26. Prince Harry and Meghan Markle welcome baby daughter.
+Named Entities: [Harry (person), Meghan Markle (person)]
+
+27. Australian wildfires destroy acres of land.
+Named Entities: [Australian (location)]
+
+28. CEO of Disney resigns following accusations of misconduct.
+Named Entities: [Disney (organization)]
+
+29. Italy extends COVID-19 lockdown restrictions.
+Named Entities: [Italy (location)]
+
+30. Jennifer Lopez and Ben Affleck spotted together in public.
+Named Entities: [Jennifer Lopez (person), Ben Affleck (person)]
+
+31. Japan's economy shows signs of recovery after pandemic.
+Named Entities: [Japan (location)]
+
+32. Former CEO of Amazon launches new space exploration company.
+Named Entities: [Amazon (organization)]
+
+33. Paris Hilton launches new clothing line.
+Named Entities: [Paris Hilton (person)]
+
+34. NASA's Perseverance rover discovers evidence of ancient life on Mars.
+Named Entities: [NASA (organization), Perseverance (organization), Mars (location)]
+
+35. Greece declares state of emergency as wildfires rage.
+Named Entities: [Greece (location)]
+
+36. LeBron James to star in new basketball documentary.
+Named Entities: [LeBron James (person)]
+
+37. Chinese government cracks down on cryptocurrency trading.
+Named Entities: [Chinese (location)]
+
+38. Meghan Markle launches new podcast series.
+Named Entities: [Meghan Markle (person)]
+
+39. South Korea to host international peace summit.
+Named Entities: [South Korea (location)]
+
+40. Taylor Swift releases new album.
+Named Entities: [Taylor Swift (person)]
+
+41. United Nations appoints new envoy for climate change.
+Named Entities: [United Nations (organization)]
+
+42. Amazon to invest billions in renewable energy projects.
+Named Entities: [Amazon (organization)]
+
+43. Jeff Bezos steps down as CEO of Amazon.
+Named Entities: [Jeff Bezos (person), Amazon (organization)]
+
+44. Canada announces plans for nationwide infrastructure upgrades.
+Named Entities: [Canada (location)]
+
+45. Elon Musk's SpaceX launches astronauts to International Space Station.
+Named Entities: [Elon Musk (person), SpaceX (organization), International Space Station (location)]
+
+46. UK imposes new travel restrictions amid COVID-19 concerns.
+Named Entities: [UK (location)]
+
+47. Beyoncé releases surprise album.
+Named Entities: [Beyoncé (person)]
+
+48. Germany to phase out coal power by 2038.
+Named Entities: [Germany (location)]
+
+49. Angelina Jolie launches new charity initiative.
+Named Entities: [Angelina Jolie (person)]
+
+50. World Health Organization urges global cooperation in pandemic response.
+Named Entities: [World Health Organization (organization)]

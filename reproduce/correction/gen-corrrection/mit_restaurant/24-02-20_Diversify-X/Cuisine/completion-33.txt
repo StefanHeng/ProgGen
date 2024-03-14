@@ -1,0 +1,11 @@
+1. Query: "Where can I find a {{food truck}} with happy hour specials for takeout"
+Text Span: "food truck"
+Label: (A). Cuisine
+
+2. Query: "I'm looking for a brunch spot with {{vegetarian}} options within walking distance"
+Text Span: "vegetarian"
+Label: (A). Cuisine
+
+3. Query: "I'm looking for a spot serving a delicious brunch with {{low-carb}} options"
+Text Span: "low-carb"
+Label: (B). Wrong Boundary. The correct span boundary is "low-carb options".

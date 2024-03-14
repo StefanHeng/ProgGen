@@ -1,0 +1,8 @@
+Query: "I'm in the mood for some roast beef, where is the nearest place I can find it?"
+Named Entities: [roast beef (Dish), nearest (Location)]
+
+Query: "I want to grab some dinner, but I'm looking for an average priced restaurant. Can you suggest one?"
+Named Entities: [dinner (Amenity), average priced (Price)]
+
+Query: "I'm craving some fried chicken, do you know any restaurants in the area that serve it?"
+Named Entities: [fried chicken (Dish), restaurants (Amenity)]

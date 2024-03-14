@@ -1,0 +1,8 @@
+1. "I'm looking for a fancy restaurant with waterfront views that serves a delicious breakfast"
+Named Entities: [fancy (Amenity), waterfront views (Amenity), breakfast (Meal Category)]
+
+2. "Can you recommend an upscale place with a breakfast menu and a beautiful waterfront location?"
+Named Entities: [upscale (Amenity), breakfast (Meal Category), beautiful waterfront location (Amenity)]
+
+3. "I want to have a luxurious breakfast with a view of the water, can you suggest a restaurant?"
+Named Entities: [luxurious (Amenity), breakfast (Meal Category), view of the water (Amenity)]

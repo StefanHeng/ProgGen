@@ -1,0 +1,8 @@
+1. Text Span: "Kia"
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Taiwanese"
+Label: (D). Not a Named Entity
+
+3. Text Span: "A24 Films"
+Label: (A). The span is a named entity of type organization

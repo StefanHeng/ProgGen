@@ -1,0 +1,8 @@
+1. Text Span: "thriller"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "crime"
+Label: (A). The span is a named entity of type genre
+
+3. Text Span: "upcoming action movies"
+Label: (B). The span contains a named genre entity but the span boundary is not precise. The correct span boundary is "action movies".

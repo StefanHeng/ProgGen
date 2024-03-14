@@ -1,0 +1,8 @@
+1. Text Span: "pizza place"
+Label: (B). Wrong Boundary. The correct span boundary is "pizza".
+
+2. Text Span: "Italian"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "dessert place"
+Label: (B). Wrong Boundary. The correct span boundary is "dessert".

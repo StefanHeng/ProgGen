@@ -1,0 +1,8 @@
+Query: "Where is the nearest steak frites restaurant in the shopping district?"
+Named Entities: [nearest (Location), steak frites (Dish), shopping district (Location)]
+
+Query: "Which restaurants in the shopping district have a happy hour menu?"
+Named Entities: [happy hour (Amenity), shopping district (Location)]
+
+Query: "Do you know any highly-rated restaurants with outdoor seating and a view of the shopping district?"
+Named Entities: [highly-rated (Rating), outdoor seating (Amenity), view of the shopping district (Location)]

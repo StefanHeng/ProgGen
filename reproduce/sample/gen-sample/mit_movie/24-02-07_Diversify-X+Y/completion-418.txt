@@ -1,0 +1,8 @@
+Query: "Could you please provide me with the showtimes and ticket availability for the latest movie featuring Jack Sparrow?"
+Named Entities: [Jack Sparrow (Character)]
+
+Query: "I am interested in seeing a historical drama released in 2001. Do you have any information on the showtimes and ticket availability?"
+Named Entities: [2001 (Year), Historical drama (Genre)]
+
+Query: "I would like to watch a movie related to Hercules. Could you show me the teaser trailer and provide information on showtimes and ticket availability?"
+Named Entities: [Hercules (Character), Teaser trailer (Trailer)]

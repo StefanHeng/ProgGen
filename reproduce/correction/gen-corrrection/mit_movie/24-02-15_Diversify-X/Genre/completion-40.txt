@@ -1,0 +1,8 @@
+1. Text Span: "top-rated comedy film"
+Label: (B). Wrong Boundary. The correct span boundary is "comedy"
+
+2. Text Span: "romance"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "mysterious"
+Label: (A). Correct Entity Annotation.

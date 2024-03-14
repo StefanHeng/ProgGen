@@ -1,0 +1,8 @@
+1. Query: "Hey, what's showing at the theater tonight with Tom Hanks as the main character?"
+Named Entities: [Tom Hanks (Actor)]
+
+2. Query: "Can you recommend a good action movie playing right now?"
+Named Entities: [action (Genre)]
+
+3. Query: "Do you have any tickets available for a comedy film this weekend?"
+Named Entities: [comedy (Genre), weekend (Date)]

@@ -1,0 +1,8 @@
+1. "Do you know of any restaurants around here that offer gluten-free options?"
+Named Entities: [gluten-free options (Amenity)]
+
+2. "I'm looking for a vegan-friendly place. How about The Bean Counter Bistro?"
+Named Entities: [vegan (Amenity), The Bean Counter Bistro (Restaurant Name)]
+
+3. "Where can I find a buffet option near Riverside?"
+Named Entities: [buffet option (Amenity), Riverside (Location)]

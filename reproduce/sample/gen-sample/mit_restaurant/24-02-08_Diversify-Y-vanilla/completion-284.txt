@@ -1,0 +1,8 @@
+1. "Can you recommend any value-conscious restaurants with air conditioning?"
+Named Entities: [value-conscious (Price), air conditioning (Amenity)]
+
+2. "I'm looking for a cheap and cheerful place to eat, do you have any recommendations?"
+Named Entities: [cheap and cheerful (Price)]
+
+3. "Where can I find the best tandoori chicken in town?"
+Named Entities: [tandoori chicken (Dish)]

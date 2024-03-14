@@ -1,0 +1,8 @@
+Query: "Can you recommend a kosher buffet place in the [Close] vicinity?"
+Named Entities: [kosher (Cuisine), buffet (Amenity), [Close] (Location)]
+
+Query: "I'm looking for a buffet restaurant nearby that serves kosher food"
+Named Entities: [buffet (Amenity), kosher (Cuisine), nearby (Location)]
+
+Query: "Where can I find a kosher buffet restaurant that's [Close]?"
+Named Entities: [kosher (Cuisine), buffet (Amenity), [Close] (Location)]

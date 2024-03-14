@@ -1,0 +1,8 @@
+1. "Can you play the trailer for a movie directed by Christopher Nolan in the mid 2000s?"
+Named Entities: [trailer (Trailer), Christopher Nolan (Director), mid 2000s (Year)]
+
+2. "I'm looking for a Tim Burton movie with Rocky Balboa as a character, can you help me find it?"
+Named Entities: [Tim Burton (Director), Rocky Balboa (Character)]
+
+3. "What is the viewers' rating for the movie with the song 'Eye of the Tiger' performed by Survivor?"
+Named Entities: ['Eye of the Tiger' (Song), Survivor (Artist), viewers' rating (Viewers' Rating)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a beachfront restaurant in Dubai with a diverse menu for dinner?"
+   Named Entities: [beachfront (Amenity), Dubai (Location), dinner (Hours)]
+
+2. "Where can I find waterfront dining in Dubai with a good seafood selection for dinner?"
+   Named Entities: [waterfront (Amenity), Dubai (Location), seafood (Cuisine), dinner (Hours)]
+
+3. "I'm looking for a restaurant in Dubai with a romantic beachside setting to have dinner. Any suggestions?"
+   Named Entities: [romantic (Amenity), beachside (Location), Dubai (Location), dinner (Hours)]

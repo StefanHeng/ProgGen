@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with The Independent's top spot for Italian cuisine around here?"
+Named Entities: [The Independent's top spot (Rating), Italian (Cuisine)]
+
+Query: "Where can I find a restaurant in this area that serves delicious sushi?"
+Named Entities: [delicious (Rating), sushi (Dish), this area (Location)]
+
+Query: "I'm craving some authentic Mexican food, where is the best place to get it?"
+Named Entities: [authentic (Rating), Mexican (Cuisine), best place (Amenity)]

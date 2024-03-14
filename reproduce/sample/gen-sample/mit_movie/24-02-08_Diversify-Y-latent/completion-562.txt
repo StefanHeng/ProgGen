@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a space opera movie with an unrated MPAA rating?"
+Named Entities: [space opera (Genre), unrated (MPAA Rating)]
+
+2. Query: "Who directed the space opera film released in 1980 with the title The Empire Strikes Back?"
+Named Entities: [1980 (Year), The Empire Strikes Back (Title), space opera (Genre)]
+
+3. Query: "I'm interested in watching a space opera movie with a character named Captain Kirk. Can you suggest one?"
+Named Entities: [Captain Kirk (Character), space opera (Genre)]

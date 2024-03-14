@@ -1,0 +1,8 @@
+1. "I'm in the mood for some authentic Italian food, any recommendations?"
+Named Entities: [authentic Italian food (Cuisine)]
+
+2. "What time does The Green Tavern close tonight?"
+Named Entities: [The Green Tavern (Restaurant Name), tonight (Hours)]
+
+3. "I'd like to find a place with outdoor seating and a view of the ocean, please."
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

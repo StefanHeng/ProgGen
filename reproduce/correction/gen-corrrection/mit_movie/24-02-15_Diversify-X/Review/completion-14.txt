@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a crime movie directed by Quentin Tarantino that has a {{neo-noir}} style"
+Text Span: "neo-noir"
+Label: (C). Genre
+
+2. Query: "Yo, did that movie with Leo DiCaprio win any sick awards or get any {{nominations}}?"
+Text Span: "nominations"
+Label: (A). Named Entity of type Review
+
+3. Query: "Which movie has the {{most exciting}} teaser of all time?"
+Text Span: "most exciting"
+Label: (A). Named Entity of type Review

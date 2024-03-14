@@ -1,0 +1,8 @@
+Query: "I'm in the mood for a delicious Burger, can you recommend a restaurant with high ratings?"
+Named Entities: [Burger (Dish), high ratings (Rating)]
+
+Query: "I need to find a place that serves affordable Burgers and is open late."
+Named Entities: [affordable (Price), Burgers (Dish), open late (Hours)]
+
+Query: "Where can I get a gourmet Burger around here without breaking the bank?"
+Named Entities: [gourmet Burger (Cuisine), without breaking the bank (Price)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Sofia Coppola that was a pleasant surprise?"
+Named Entities: [Sofia Coppola (Director), Pleasant surprise (Review)]
+
+2. "What is the MPAA rating for the movie M directed by Fritz Lang?"
+Named Entities: [M (Title), Fritz Lang (Director), MPAA Rating]
+
+3. "I'm looking for a movie starring Brad Pitt that was directed by Terrence Malick."
+Named Entities: [Brad Pitt (Actor), Terrence Malick (Director)]

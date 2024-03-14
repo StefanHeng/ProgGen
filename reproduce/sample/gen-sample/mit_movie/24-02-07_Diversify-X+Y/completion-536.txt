@@ -1,0 +1,8 @@
+1. Query: "What movie from the 1660s has a soundtrack featuring Daniel Craig?"
+Named Entities: [1660s (Year), Daniel Craig (Actor), soundtrack (Song)]
+
+2. Query: "Can you recommend a film with a great soundtrack where Daniel Craig plays a major role?"
+Named Entities: [Daniel Craig (Actor), soundtrack (Song)]
+
+3. Query: "Show me a movie with a soundtrack composed in the 1660s and starring Daniel Craig."
+Named Entities: [1660s (Year), Daniel Craig (Actor), soundtrack (Song)]

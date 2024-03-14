@@ -1,0 +1,8 @@
+1. "Can you recommend a cost-effective dining option in New York City with good vegetarian dishes?"
+Named Entities: [New York City (Location), cost-effective dining (Amenity), vegetarian (Cuisine)]
+
+2. "What are the hours for the nearest Italian restaurant in Los Angeles?"
+Named Entities: [Los Angeles (Location), Italian (Cuisine), Hours]
+
+3. "I'm craving sushi, where can I find a highly-rated sushi place in San Francisco?"
+Named Entities: [sushi (Cuisine), highly-rated (Rating), San Francisco (Location)]

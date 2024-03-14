@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with power outlets for me to work at?"
+Named Entities: [Power outlets (Amenity)]
+
+Query: "what are the hours of the nearest sushi restaurant with power outlets?"
+Named Entities: [nearest (Location), sushi (Cuisine), Power outlets (Amenity), hours (Hours)]
+
+Query: "I'm looking for a restaurant with vegan options and power outlets, do you have any suggestions?"
+Named Entities: [vegan options (Cuisine), Power outlets (Amenity)]

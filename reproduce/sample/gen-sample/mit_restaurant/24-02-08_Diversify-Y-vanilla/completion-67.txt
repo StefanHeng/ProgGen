@@ -1,0 +1,10 @@
+Synthetic Spoken Queries:
+
+1. "What are the top-rated Italian restaurants in this area?"
+Named Entities: [top-rated (Rating), Italian (Cuisine), area (Location)]
+
+2. "I want to have sushi for dinner tonight. Can you recommend a good sushi place with outdoor seating?"
+Named Entities: [sushi (Cuisine), good (Rating), outdoor seating (Amenity)]
+
+3. "I'm craving for some authentic tacos. Is there a Mexican restaurant nearby that's affordable?"
+Named Entities: [authentic (Amenity), tacos (Dish), Mexican (Cuisine), nearby (Location), affordable (Price)]

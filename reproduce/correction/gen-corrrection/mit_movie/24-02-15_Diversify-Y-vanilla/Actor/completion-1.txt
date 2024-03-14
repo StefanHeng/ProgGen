@@ -1,0 +1,8 @@
+1. Text Span: "Marion Cotillard"
+Label: (A). The span is a named entity of type actor
+
+2. Text Span: "Brie Larson"
+Label: (A). The span is a named entity of type actor
+
+3. Text Span: "Tyrion Lannister"
+Label: (C). The span is a named entity but the category is not actor (Character)

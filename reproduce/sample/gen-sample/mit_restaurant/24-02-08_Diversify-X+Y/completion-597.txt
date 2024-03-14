@@ -1,0 +1,10 @@
+3 synthetic spoken queries related to restaurants:
+
+Query 1: "Can you recommend a family-friendly restaurant that serves late-night dining?"
+Named Entities: [late-night dining (Amenity), family-friendly (Amenity)]
+
+Query 2: "What are the top-rated restaurants with a late-night dining menu for families?"
+Named Entities: [top-rated (Rating), late-night dining (Amenity), family-friendly (Amenity)]
+
+Query 3: "I'm looking for a place with a diverse menu for late-night dining that is suitable for families."
+Named Entities: [diverse menu (Amenity), late-night dining (Amenity), families (Amenity)]

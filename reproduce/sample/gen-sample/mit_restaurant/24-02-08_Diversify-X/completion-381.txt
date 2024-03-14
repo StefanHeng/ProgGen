@@ -1,0 +1,8 @@
+1. Query: "Do you know any Italian restaurants with outdoor seating and a rating above 4 in this area?"
+   Named Entities: [Italian (Cuisine), outdoor seating (Amenity), above 4 (Rating), this area (Location)]
+
+2. Query: "What are the hours of operation for the Japanese restaurant on 5th avenue?"
+   Named Entities: [Japanese (Cuisine), on 5th avenue (Location)]
+
+3. Query: "Can you recommend a place for a romantic dinner with a tasting menu and a price range of $50-100 per person?"
+   Named Entities: [romantic (Amenity), tasting menu (Amenity), $50-100 (Price)]

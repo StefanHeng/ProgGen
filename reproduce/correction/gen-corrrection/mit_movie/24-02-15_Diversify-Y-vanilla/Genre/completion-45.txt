@@ -1,0 +1,8 @@
+1. Text Span: "Supernatural powers"
+   Label: (C). Wrong Type. The correct entity type is Plot.
+
+2. Text Span: "action movie"
+   Label: (B). Wrong Boundary. The correct span boundary is "action".
+
+3. Text Span: "action"
+   Label: (A). Correct Entity Annotation.

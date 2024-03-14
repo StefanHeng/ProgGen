@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with excellent Escargot?"
+Named Entities: [excellent (Rating), Escargot (Dish)]
+
+2. "What restaurants with an OpenTable rating of 4 stars or above are open past midnight?"
+Named Entities: [OpenTable rating (Rating), past midnight (Hours)]
+
+3. "I'm craving Italian cuisine, where can I find a restaurant with a good selection of pasta dishes?"
+Named Entities: [Italian (Cuisine), good selection of pasta dishes (Dish)]

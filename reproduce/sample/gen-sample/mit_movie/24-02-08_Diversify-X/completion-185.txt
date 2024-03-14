@@ -1,0 +1,8 @@
+Query: "Could you please provide me with the trailer for the latest James Bond film?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+Query: "I would like to see a teaser for the upcoming Marvel superhero movie, if possible."
+Named Entities: [teaser (Trailer), Marvel (Genre)]
+
+Query: "Do you have the trailer for the new Steven Spielberg film?"
+Named Entities: [trailer (Trailer), Steven Spielberg (Director)]

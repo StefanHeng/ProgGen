@@ -1,0 +1,8 @@
+1. "What is the viewers' rating for the latest Star Wars movie directed by J.J. Abrams?"
+Named Entities: [Star Wars (Title), viewers' rating (Viewers' Rating), J.J. Abrams (Director)]
+
+2. "I heard Another Day of Sun is a great song in a movie. Can you show me a film where this song is featured?"
+Named Entities: [Another Day of Sun (Song)]
+
+3. "Is there a movie starring Will Smith and featuring a character named James P. Sullivan that received a high review?"
+Named Entities: [Will Smith (Actor), James P. Sullivan (Character), high review (Review)]

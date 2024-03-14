@@ -1,0 +1,8 @@
+1. Text Span: "African nations"
+Label: (B). The span contains a named location entity but the span boundary is not precise. The correct span boundary is "African nations".
+
+2. Text Span: "government headquarters"
+Label: (C). The span is a named entity but the category is not location. The correct entity type is organization.
+
+3. Text Span: "Cannes Film Festival"
+Label: (A).

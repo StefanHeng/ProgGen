@@ -1,0 +1,10 @@
+
+
+Query: "Is there a streaming platform that offers Time loop movies?"
+Named Entities: [Time loop (Genre)]
+
+Query: "Where can I find the Teaser trailer for the upcoming NC-17 film?"
+Named Entities: [Teaser trailer (Trailer), NC-17 (MPAA Rating)]
+
+Query: "Do any streaming platforms have the Extended trailer for the movie in question?"
+Named Entities: [Extended trailer (Trailer)]

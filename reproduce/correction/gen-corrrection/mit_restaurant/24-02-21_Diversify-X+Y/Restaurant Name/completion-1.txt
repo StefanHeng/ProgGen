@@ -1,0 +1,11 @@
+1. Query: "can you recommend a {{Quarters}} café with mid-range prices?"
+Text Span: "Quarters"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "I need to find a gluten-free {{food truck}} with high ratings for lunch."
+Text Span: "food truck"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+3. Query: "I'm craving some burgers and fries, where can I find a {{Five Guys}} nearby?"
+Text Span: "Five Guys"
+Label: (A). The span is a named entity of type restaurant name

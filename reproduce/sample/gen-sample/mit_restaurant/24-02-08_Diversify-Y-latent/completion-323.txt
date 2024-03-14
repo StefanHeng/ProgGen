@@ -1,0 +1,8 @@
+1. "Show me the highest rated Italian restaurants in the downtown area"
+Named Entities: [highest rated (Rating), Italian (Cuisine), downtown area (Location)]
+
+2. "What time does the steakhouse on Main Street close tonight?"
+Named Entities: [Main Street (Location), steakhouse (Restaurant Name), tonight (Hours)]
+
+3. "I'm looking for a Mexican restaurant with outdoor seating and live music"
+Named Entities: [Mexican (Cuisine), outdoor seating (Amenity), live music (Amenity)]

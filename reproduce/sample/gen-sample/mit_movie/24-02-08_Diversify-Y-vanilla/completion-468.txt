@@ -1,0 +1,8 @@
+1. "Can you play a clip from the 1976 movie Rocky?"
+Named Entities: [clip (Trailer), 1976 (Year), Rocky (Title)]
+
+2. "Which movie has a viewers' rating of 6 out of 10 stars and is rated G?"
+Named Entities: [6 out of 10 stars (Viewers' Rating), G (MPAA Rating)]
+
+3. "Are there any movies directed by Alfred Hitchcock that are not rated?"
+Named Entities: [Alfred Hitchcock (Director), not rated (MPAA Rating)]

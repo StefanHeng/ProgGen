@@ -1,0 +1,10 @@
+Synthetic Spoken Queries:
+
+1. "Can you recommend a restaurant in the downtown area that offers outdoor seating and serves vegan dishes?"
+Named Entities: [downtown area (Location), outdoor seating (Amenity), vegan dishes (Cuisine)]
+
+2. "What are the operating hours of the Italian restaurant near the shopping mall?"
+Named Entities: [Italian restaurant (Cuisine), near the shopping mall (Location), operating hours (Hours)]
+
+3. "I'm looking for a sushi place with high ratings and reasonable prices."
+Named Entities: [sushi place (Cuisine), high ratings (Rating), reasonable prices (Price)]

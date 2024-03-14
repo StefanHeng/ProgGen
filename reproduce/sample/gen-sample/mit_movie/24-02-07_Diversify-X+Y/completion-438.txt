@@ -1,0 +1,8 @@
+1. "Can you tell me about the actors in the PG rated 1986 movie Dracula?"
+Named Entities: [PG (MPAA Rating), 1986 (Year), Dracula (Title)]
+
+2. "I'm curious about the director of the 1986 PG movie Dracula, can you help?"
+Named Entities: [1986 (Year), PG (MPAA Rating), Dracula (Title)]
+
+3. "What can you tell me about the plot of the 1986 Dracula movie with the PG rating?"
+Named Entities: [1986 (Year), PG (MPAA Rating), Dracula (Title)]

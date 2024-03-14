@@ -1,0 +1,8 @@
+1. "What restaurants around here offer takeout options?"
+   Named Entities: [takeout (Amenity)]
+
+2. "I'm in the mood for some KFC, is there one nearby?"
+   Named Entities: [KFC (Restaurant Name)]
+
+3. "Where can I find a good grilled cheese in this area?"
+   Named Entities: [grilled cheese (Dish), area (Location)]

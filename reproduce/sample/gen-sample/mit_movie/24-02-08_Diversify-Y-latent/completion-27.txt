@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for the movie directed by Kathryn Bigelow in 2008?"
+Named Entities: [Kathryn Bigelow (Director), 2008 (Year), viewers' rating (Viewers' Rating)]
+
+2. Query: "Can you recommend a movie with the song from Pitch Perfect?"
+Named Entities: [Pitch Perfect (Title), song (Song)]
+
+3. Query: "Who are the main actors in the movie released in 2008 with the title The Dark Knight?"
+Named Entities: [2008 (Year), The Dark Knight (Title), main actors (Actor)]

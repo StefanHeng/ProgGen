@@ -1,0 +1,8 @@
+1. "Can you recommend a café with a smoking area and wheelchair-accessible entrance for a business meeting?"
+Named Entities: [café (Cuisine), smoking area (Amenity), wheelchair-accessible entrance (Amenity)]
+
+2. "I'm looking for a classy café with a wheelchair-accessible entrance and a great margherita pizza for a group of business professionals in their 50s."
+Named Entities: [café (Cuisine), wheelchair-accessible entrance (Amenity), margherita pizza (Dish), 50s (Age Group), business professionals (Demographic)]
+
+3. "Where can I find an upscale café with a smoking area and wheelchair-accessible entrance, perfect for a business owner in his 50s, for a luxurious dining experience?"
+Named Entities: [café (Cuisine), smoking area (Amenity), wheelchair-accessible entrance (Amenity), business owner (Demographic), 50s (Age Group), expensive (Price)]

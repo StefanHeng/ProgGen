@@ -1,0 +1,8 @@
+1. Text Span: "G"
+Label: (A). The span is a named entity of type mpaa rating
+
+2. Text Span: "awards"
+Label: (C). The span is not a named entity. The correct entity type is Genre.
+
+3. Text Span: "NR rating"
+Label: (D). The span is not a named entity.

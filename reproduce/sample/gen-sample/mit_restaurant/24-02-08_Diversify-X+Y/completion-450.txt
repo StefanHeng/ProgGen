@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with an oceanview buffet?"
+Named Entities: [oceanview buffet (Amenity), critic recommendation (Rating)]
+
+Query: "I'm looking for a restaurant with a tasting menu and an oceanview buffet"
+Named Entities: [tasting menu (Amenity), oceanview buffet (Amenity)]
+
+Query: "Where can I find a critic-recommended restaurant with a buffet offering?"
+Named Entities: [critic recommendation (Rating), buffet (Amenity)]

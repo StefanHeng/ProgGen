@@ -1,0 +1,8 @@
+Query: "who directed the movie Titanic?"
+Named Entities: [Titanic (Title)]
+
+Query: "show me a movie with Tom Hanks as the lead actor"
+Named Entities: [Tom Hanks (Actor)]
+
+Query: "what year did the film Inception come out?"
+Named Entities: [Inception (Title), Year]

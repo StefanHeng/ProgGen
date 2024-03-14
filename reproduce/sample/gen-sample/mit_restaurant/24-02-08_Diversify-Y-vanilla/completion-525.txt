@@ -1,0 +1,8 @@
+Query: "what are the hours for Fogo de Chao"
+Named Entities: [Fogo de Chao (Restaurant Name), hours (Hours)]
+
+Query: "can you recommend a good dish at Fogo de Chao"
+Named Entities: [Fogo de Chao (Restaurant Name), good (Rating), dish (Dish)]
+
+Query: "where is the nearest Fogo de Chao restaurant"
+Named Entities: [nearest (Location), Fogo de Chao (Restaurant Name)]

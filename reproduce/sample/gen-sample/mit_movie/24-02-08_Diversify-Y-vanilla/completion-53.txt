@@ -1,0 +1,8 @@
+1. "I'm looking for a must-see movie with a TV-14 rating."
+Named Entities: [must-see (Viewers' Rating), TV-14 (MPAA Rating)]
+
+2. "Can you recommend any coming attractions with the song All You Need Is Love?"
+Named Entities: [coming attractions (Trailer), All You Need Is Love (Song)]
+
+3. "Do you have any enthralling movies from the 1990s?"
+Named Entities: [enthralling (Review), 1990s (Year)]

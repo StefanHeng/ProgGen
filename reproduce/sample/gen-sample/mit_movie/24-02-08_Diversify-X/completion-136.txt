@@ -1,0 +1,8 @@
+1. "I need to watch a movie tonight, but I don't know what's playing. Can you tell me the showtimes for 'Inception'?"
+Named Entities: ['Inception' (Title)]
+
+2. "I'm running late and I don't want to miss the start of the movie. Please show me the nearest theater with tickets available for 'The Lion King'?"
+Named Entities: ['The Lion King' (Title)]
+
+3. "I have been looking forward to this movie all week, but I can't find any tickets anywhere. Can you help me find tickets for 'Avengers: Endgame'?"
+Named Entities: ['Avengers: Endgame' (Title)]

@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of the plot for a movie with surprising plot twists, featuring an undercover cop?"
+Named Entities: [surprising plot twists (Plot), undercover cop (Character)]
+
+2. "I'm looking for a movie with the song Bohemian Rhapsody by Queen. Can you provide me with a plot summary?"
+Named Entities: [Bohemian Rhapsody (Song)]
+
+3. "I heard Mila Kunis and Leonardo DiCaprio starred in a movie together. Can you tell me the plot of that film, and if it includes the song Don't Want to Miss a Thing?"
+Named Entities: [Mila Kunis (Actor), Leonardo DiCaprio (Actor), Don't Want to Miss a Thing (Song)]

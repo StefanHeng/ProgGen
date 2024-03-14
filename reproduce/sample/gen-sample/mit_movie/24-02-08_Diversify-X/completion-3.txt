@@ -1,0 +1,8 @@
+1. "Can I buy tickets for the latest James Bond movie?"
+Named Entities: [latest James Bond (Title)]
+
+2. "Is there a sci-fi movie with a soundtrack by Hans Zimmer playing at the theater today?"
+Named Entities: [sci-fi (Genre), Hans Zimmer (Song)]
+
+3. "I'm looking for a movie directed by Christopher Nolan and rated R. Do you have any suggestions?"
+Named Entities: [Christopher Nolan (Director), R (MPAA Rating)]

@@ -1,0 +1,8 @@
+Query: "Where can I find a waterfront restaurant with a decadent dinner menu"
+Named Entities: [waterfront (Amenity), decadent (Rating), dinner (Cuisine)]
+
+Query: "I want to splurge on a dinner by the water, any recommendations?"
+Named Entities: [splurge (Price), dinner (Cuisine), water (Location)]
+
+Query: "Do you know of any waterfront restaurants that serve a lavish dinner?"
+Named Entities: [waterfront (Amenity), lavish (Rating), dinner (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Who directed The Godfather Part II and what are the main characters in the movie?"
+Named Entities: [The Godfather Part II (Title), directed (Director), main characters (Character)]
+
+2. "Can you find me the trailer for High School Musical and tell me the actors and actresses in the film?"
+Named Entities: [High School Musical (Title), trailer (Trailer), actors and actresses (Actor)]
+
+3. "I'm looking for movies involving Rachel McAdams. Can you provide me with information about the films she has been in?"
+Named Entities: [Rachel McAdams (Actor), films she has been in (Title)]

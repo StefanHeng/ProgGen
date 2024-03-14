@@ -1,0 +1,11 @@
+1. Query: "What's the viewers' rating for the {{latest}} Quentin Tarantino film"
+Text Span: "latest"
+Label: (D). Not a Named Entity.
+
+2. Query: "What year did the movie Raining Men {{come out}} and what genre is it?"
+Text Span: "come out"
+Label: (D). Not a Named Entity.
+
+3. Query: "Show me a science fiction film released in {{2022}} with Gerard Butler"
+Text Span: "2022"
+Label: (A). The span is a named entity of type year.

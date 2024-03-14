@@ -1,0 +1,8 @@
+Sentence: "Traveling by train allows for a scenic and relaxed journey through the countryside."
+Named Entities: [train (vehicle)]
+
+Sentence: "The Eiffel Tower in Paris, France, is one of the most iconic landmarks in the world."
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+Sentence: "The International Air Transport Association (IATA) is the trade association for the world’s airlines, representing around 290 airlines or 82% of total air traffic."
+Named Entities: [International Air Transport Association (organization)]

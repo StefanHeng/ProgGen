@@ -1,0 +1,3 @@
+A named amenity entity is a feature or service offered by a restaurant. Descriptions on the atmosphere and ambiance of a restaurant such as "fancy", "romantic" and "trendy" are also named amenity entities.
+Ensure to distinguish named amenity entities from named hours entities and named cuisine entities. Meal times such as "breakfast", "brunch", "lunch" and "dinner" should be named Hours entities. A named cuisine entity is a style or type of cooking, such as "diner", "burger", "food truck" and "café".
+Review platforms such as "Yelp", "Time Out" and "Foodies' Choice" are not relevant named entities. Vague restaurant identifiers such as "restaurant" are also not named entities.

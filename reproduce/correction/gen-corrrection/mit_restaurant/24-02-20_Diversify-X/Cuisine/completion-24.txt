@@ -1,0 +1,8 @@
+1. Text Span: "diverse menu"
+   Label: (C). The span is a named entity but the category is not cuisine. The correct entity type is Amenity.
+
+2. Text Span: "fast food"
+   Label: (A). The span is a named entity of type cuisine.
+
+3. Text Span: "café"
+   Label: (A). The span is a named entity of type cuisine.

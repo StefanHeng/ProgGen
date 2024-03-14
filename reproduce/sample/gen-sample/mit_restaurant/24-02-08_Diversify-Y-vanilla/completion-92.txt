@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with outdoor seating for dinner hours"
+Named Entities: [outdoor seating (Amenity), dinner hours (Hours)]
+
+Query: "i'm craving pizza right now, where can I find a good pizzeria nearby"
+Named Entities: [pizza (Cuisine), nearby (Location)]
+
+Query: "what's the average price range for a vegetarian restaurant in this area"
+Named Entities: [vegetarian (Cuisine), average price range (Price), this area (Location)]

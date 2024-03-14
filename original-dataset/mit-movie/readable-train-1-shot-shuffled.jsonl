@@ -1,0 +1,7 @@
+{"sentence": "when did mark joffe direct the bounty hunter film that is rated pg", "entity_names": ["mark joffe", "bounty hunter", "pg"], "entity_types": ["Director", "Plot", "MPAA Rating"]}
+{"sentence": "is cary grant in any historical films that are a must see", "entity_names": ["cary grant", "historical", "must see"], "entity_types": ["Actor", "Genre", "Viewers' Rating"]}
+{"sentence": "could you show me some part of the new indiana jones movie", "entity_names": ["some part", "indiana jones"], "entity_types": ["Trailer", "Character"]}
+{"sentence": "show me a movie with the song a whole new world", "entity_names": ["a whole new world"], "entity_types": ["Song"]}
+{"sentence": "what type of movie genre is the perfect weapon", "entity_names": ["the perfect weapon"], "entity_types": ["Title"]}
+{"sentence": "what movie is considered the funniest of all time", "entity_names": ["funniest of all time"], "entity_types": ["Review"]}
+{"sentence": "how many movies came out in 2004", "entity_names": ["2004"], "entity_types": ["Year"]}

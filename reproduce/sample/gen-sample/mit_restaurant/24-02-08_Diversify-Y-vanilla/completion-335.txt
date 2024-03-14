@@ -1,0 +1,8 @@
+Query: "I'm craving some tofu stir-fry, where can I find a good spot for that?"
+Named Entities: [tofu stir-fry (Dish)]
+
+Query: "What are the hours for Brio Tuscan Grille?"
+Named Entities: [Brio Tuscan Grille (Restaurant Name), hours (Hours)]
+
+Query: "I'm looking for a restaurant with a nice ambience and reasonable prices, maybe some place that offers Italian cuisine like Brio Tuscan Grille."
+Named Entities: [nice ambience (Amenity), reasonable prices (Price), Italian cuisine (Cuisine), Brio Tuscan Grille (Restaurant Name)]

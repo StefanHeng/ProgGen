@@ -1,0 +1,8 @@
+1. "Where can I find the best gyros in town?"
+Named Entities: [best (Rating), gyros (Dish)]
+
+2. "I'm in the mood for some comfort food. Is The Mac and Cheese Mobile still open?"
+Named Entities: [comfort food (Cuisine), The Mac and Cheese Mobile (Restaurant Name)]
+
+3. "What restaurants have outdoor seating and a view of the water?"
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]

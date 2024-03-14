@@ -1,0 +1,8 @@
+1. "I'm so bored, can you recommend a thriller movie directed by Alfred Hitchcock?"
+Named Entities: [thriller (Genre), Alfred Hitchcock (Director)]
+
+2. "I need something to watch, how about a comedy film from the 1990s?"
+Named Entities: [comedy (Genre), 1990s (Year)]
+
+3. "I'm bored out of my mind, show me a classic romance movie featuring Audrey Hepburn."
+Named Entities: [romance (Genre), Audrey Hepburn (Actor)]

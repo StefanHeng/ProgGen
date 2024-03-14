@@ -1,0 +1,8 @@
+1. "Can you recommend an engrossing movie directed by Werner Herzog?"
+Named Entities: [engrossing (Viewers' Rating), Werner Herzog (Director)]
+
+2. "Are there any movies starring Kevin Spacey that are considered a standout in the drama genre?"
+Named Entities: [Kevin Spacey (Actor), a standout (Review), drama (Genre)]
+
+3. "What year was the movie Hulk, featuring the character Woody, released?"
+Named Entities: [Hulk (Title), Woody (Character)]

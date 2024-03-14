@@ -1,0 +1,8 @@
+1. "Can you give me a brief overview of the plot for the movie Inception?"
+Named Entities: [Inception (Title), plot overview (Plot)]
+
+2. "I'm not sure if the trailer for the new James Bond film truly represents the storyline. Can you provide a summary of the plot?"
+Named Entities: [new James Bond film (Title), trailer (Trailer), storyline (Plot)]
+
+3. "I'm hesitant about the reviews for the superhero movie Avengers: Endgame. Can you share a brief synopsis of the plot to help me decide if it's worth watching?"
+Named Entities: [Avengers: Endgame (Title), reviews (Review), plot synopsis (Plot)]

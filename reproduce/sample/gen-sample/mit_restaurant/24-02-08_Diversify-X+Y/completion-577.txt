@@ -1,0 +1,8 @@
+Query: "Can you recommend any restaurants from the Eater 38 list that offer buffet dining?"
+Named Entities: [Eater 38 list (Amenity), buffet (Amenity)]
+
+Query: "I'm looking for a restaurant on the Eater 38 list that serves buffet-style meals. Can you suggest any?"
+Named Entities: [Eater 38 list (Amenity), buffet-style meals (Amenity)]
+
+Query: "Which restaurants on the Eater 38 list have a buffet option available?"
+Named Entities: [Eater 38 list (Amenity), buffet option (Amenity)]

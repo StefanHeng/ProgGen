@@ -1,0 +1,8 @@
+Query: "what's a good spot for brunch with bottomless mimosas"
+Named Entities: [good (Rating), brunch (Amenity), bottomless mimosas (Amenity)]
+
+Query: "where can i find a restaurant with all-you-can-eat pancakes and waffles for brunch"
+Named Entities: [all-you-can-eat pancakes and waffles (Dish), brunch (Amenity)]
+
+Query: "which brunch place has the best outdoor seating area"
+Named Entities: [best (Rating), brunch (Amenity), outdoor seating area (Amenity)]

@@ -1,0 +1,8 @@
+1. Query: "what is the best-rated movie of 1983?"
+Named Entities: [1983 (Year), best-rated (Review)]
+
+2. Query: "do you have any teaser footage for the upcoming avengers film?"
+Named Entities: [teaser footage (Trailer), avengers (Title)]
+
+3. Query: "who is the director of the 2008 action movie that features a chase scene in Paris?"
+Named Entities: [2008 (Year), action (Genre), chase scene in Paris (Plot)]

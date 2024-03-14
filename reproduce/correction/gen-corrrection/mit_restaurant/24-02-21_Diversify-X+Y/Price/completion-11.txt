@@ -1,0 +1,11 @@
+1. Query: "find me a Michelin Guide recommended {{upscale}} food truck nearby"
+Text Span: "upscale"
+Label: (C). The span is a named entity but the category is not price. The correct entity type is Amenity.
+
+2. Query: "where can I have a breakfast tasting menu with {{affordable prices}}"
+Text Span: "affordable prices"
+Label: (A). The span is a named entity of type price.
+
+3. Query: "Is there a Bagel Bistro around here that offers brunch at a {{reasonable price}}?"
+Text Span: "reasonable price"
+Label: (A). The span is a named entity of type price.

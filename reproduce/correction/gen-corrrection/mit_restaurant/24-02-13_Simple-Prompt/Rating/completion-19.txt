@@ -1,0 +1,8 @@
+1. Text Span: "rating"
+   Label: (D). Not a Named Entity.
+
+2. Text Span: "best seafood"
+   Label: (A). The span is a named entity of type rating
+
+3. Text Span: "good"
+   Label: (A). The span is a named entity of type rating

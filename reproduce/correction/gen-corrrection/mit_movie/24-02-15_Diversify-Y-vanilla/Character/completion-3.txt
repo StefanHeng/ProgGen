@@ -1,0 +1,8 @@
+1. Text Span: "Dynamic performances"
+   Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Mr. Incredible"
+   Label: (A). The span is a named entity of type character
+
+3. Text Span: "fierce"
+   Label: (C). Wrong Type. The correct entity type is other.

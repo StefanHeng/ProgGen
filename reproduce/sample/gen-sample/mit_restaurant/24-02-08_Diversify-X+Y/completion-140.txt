@@ -1,0 +1,8 @@
+1. "Can you recommend a food truck with a diverse menu within walking distance of Dollar Diner?"
+Named Entities: [food truck (Amenity), diverse menu (Amenity), Dollar Diner (Restaurant Name), walking distance (Location)]
+
+2. "What are the operating hours for the food truck near Dollar Diner?"
+Named Entities: [food truck (Amenity), Dollar Diner (Restaurant Name), operating hours (Hours)]
+
+3. "I heard there's a popular food truck serving Mexican cuisine near Dollar Diner, can you provide more information?"
+Named Entities: [food truck (Amenity), Mexican cuisine (Cuisine), Dollar Diner (Restaurant Name), popular (Rating)]

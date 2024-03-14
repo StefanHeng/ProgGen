@@ -1,0 +1,8 @@
+Sentence: "The African elephant is the largest living terrestrial animal."
+Named Entities: [African (location)]
+
+Sentence: "The Australian shepherd is a breed of herding dog that is intelligent and versatile."
+Named Entities: [Australian (location)]
+
+Sentence: "The World Wildlife Fund is an international non-governmental organization working on conservation, research, and restoration of the environment."
+Named Entities: [World Wildlife Fund (organization)]

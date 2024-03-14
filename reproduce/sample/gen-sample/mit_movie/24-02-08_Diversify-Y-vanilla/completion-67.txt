@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a mind-blowing movie suitable for all ages that features waterfalls?"
+Named Entities: [mind-blowing (Review), All Ages (MPAA Rating), waterfalls (Plot)]
+
+2. Query: "I'm looking for a movie where Maggie Fitzgerald plays the lead role. Who is the director of that film?"
+Named Entities: [Maggie Fitzgerald (Character), director (Director)]
+
+3. Query: "Show me the trailer of the action movie The Perfect Weapon."
+Named Entities: [The Perfect Weapon (Title), trailer (Trailer), action (Genre)]

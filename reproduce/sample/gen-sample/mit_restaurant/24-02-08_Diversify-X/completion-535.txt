@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with a Michelin star in this area?"
+Named Entities: [fine dining (Amenity), Michelin star (Rating), this area (Location)]
+
+2. "I'm looking for an upscale restaurant with a tasting menu within a 5-mile radius."
+Named Entities: [upscale (Price), tasting menu (Amenity), 5-mile radius (Location)]
+
+3. "What are the top-rated fine dining restaurants with a wine cellar nearby?"
+Named Entities: [top-rated (Rating), fine dining (Amenity), wine cellar (Amenity), nearby (Location)]

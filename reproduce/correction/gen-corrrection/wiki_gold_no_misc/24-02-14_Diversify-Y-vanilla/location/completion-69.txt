@@ -1,0 +1,11 @@
+1. Sentence: "The Berlin Wall divided the city of {{Berlin}} for 28 years, creating two separate countries."
+Text Span: "Berlin"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The company was founded in {{1976}} and is headquartered in Seattle, Washington."
+Text Span: "1976"
+Label: (D). The span is not a named entity
+
+3. Sentence: "Eleanor Roosevelt was an American political figure, diplomat and activist. She served as the First Lady of the United States from March 1933 to April 1945 during her husband President Franklin D. Roosevelt's four terms in office, making her the longest-serving First Lady of the {{United States}}."
+Text Span: "United States"
+Label: (A). The span is a named entity of type location

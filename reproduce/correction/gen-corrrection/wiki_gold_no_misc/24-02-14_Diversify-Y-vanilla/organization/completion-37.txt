@@ -1,0 +1,8 @@
+1. Text Span: "Declaration of Independence"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "Anne Frank Foundation"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "U.S. federal government"
+Label: (A). The span is a named entity of type organization

@@ -1,0 +1,8 @@
+Query: "I'm craving BBQ, can you recommend a good place?"
+Named Entities: [BBQ (Cuisine)]
+
+Query: "What is the address for Chez Panisse?"
+Named Entities: [Chez Panisse (Restaurant Name)]
+
+Query: "I'm looking for a restaurant with a diverse menu, any recommendations?"
+Named Entities: [diverse menu (Amenity)]

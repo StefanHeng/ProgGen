@@ -1,0 +1,8 @@
+1. "Can you recommend a seafood restaurant with a changing table for babies?"
+Named Entities: [seafood (Cuisine), changing table (Amenity)]
+
+2. "What are some affordable places with good ratings that serve seafood?"
+Named Entities: [affordable (Price), good ratings (Rating), seafood (Cuisine)]
+
+3. "Please book a table at the closest restaurant with a seafood menu for dinner tonight?"
+Named Entities: [closest (Location), seafood (Cuisine), dinner tonight (Hours)]

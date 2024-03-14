@@ -1,0 +1,8 @@
+1. Text Span: "past midnight"
+Label: (A). Correct Entity Annotation
+
+2. Text Span: "Afternoon opening"
+Label: (C). The span is a named entity but the category is not hours. The correct entity type is Hours.
+
+3. Text Span: "early"
+Label: (A). Correct Entity Annotation

@@ -1,0 +1,8 @@
+Query: "can you recommend a Mexican restaurant with a patio?"
+Named Entities: [Mexican (Cuisine), patio (Amenity)]
+
+Query: "what are the operating hours of the nearest sushi bar?"
+Named Entities: [nearest (Location), sushi bar (Restaurant Name), operating hours (Hours)]
+
+Query: "I'm craving pizza, where can I find a 24-hour pizzeria?"
+Named Entities: [pizza (Dish), 24-hour (Hours), pizzeria (Restaurant Name)]

@@ -1,0 +1,1293 @@
+[
+    {
+        "sentence": "Apple unveils new iPhone model with enhanced camera features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-3",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES LAUNCH OF NEW iPHONE.",
+        "entity_names": [
+            "APPLE",
+            "iPHONE"
+        ],
+        "filename": "completion-5",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces launch of new iPhone model.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-12",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Megan Rapinoe named as keynote speaker for Women's Equality Day event.",
+        "entity_names": [
+            "Megan Rapinoe",
+            "Women's Equality Day"
+        ],
+        "filename": "completion-44",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Women's Equality Day"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple launches new iPhone model.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-45",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. launches new iPad Pro with 5G technology.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPad Pro"
+        ],
+        "filename": "completion-46",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPad Pro"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with advanced facial recognition technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-48",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tesla reports record-breaking sales in the second quarter.",
+        "entity_names": [
+            "Tesla",
+            "second quarter"
+        ],
+        "filename": "completion-49",
+        "entity_types": [
+            "organization",
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "second quarter"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES LAUNCH OF NEW IPHONE MODEL.",
+        "entity_names": [
+            "APPLE",
+            "IPHONE"
+        ],
+        "filename": "completion-52",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "IPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone model with enhanced camera features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-55",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES RELEASE OF NEW IPHONE 12 PRO.",
+        "entity_names": [
+            "APPLE",
+            "IPHONE 12 PRO"
+        ],
+        "filename": "completion-61",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "IPHONE 12 PRO"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-64",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES LAUNCH OF NEW iPHONE.",
+        "entity_names": [
+            "APPLE",
+            "iPHONE"
+        ],
+        "filename": "completion-87",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone with enhanced camera and battery life.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-94",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone 13 with improved camera and battery life.",
+        "entity_names": [
+            "Apple",
+            "iPhone 13"
+        ],
+        "filename": "completion-138",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces release date for new iPhone 13.",
+        "entity_names": [
+            "Apple",
+            "iPhone 13"
+        ],
+        "filename": "completion-140",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple announces new iPhone release.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-145",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. to release new iPhone model next month.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-147",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tokyo Olympic Games postponed due to COVID-19 pandemic.",
+        "entity_names": [
+            "Tokyo",
+            "COVID-19"
+        ],
+        "filename": "completion-147",
+        "entity_types": [
+            "location",
+            "medical condition"
+        ],
+        "entity_names_not_allowed": [
+            "COVID-19"
+        ],
+        "entity_types_not_allowed": [
+            "medical condition"
+        ]
+    },
+    {
+        "sentence": "Apple announces groundbreaking new chip for next generation of iPhones",
+        "entity_names": [
+            "Apple",
+            "iPhones"
+        ],
+        "filename": "completion-149",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhones"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces the release of the new iPhone model.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-152",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "German Chancellor Angela Merkel announces plans for retirement.",
+        "entity_names": [
+            "Angela Merkel",
+            "Germany"
+        ],
+        "filename": "completion-158",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with enhanced camera and 5G capability.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-162",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "World Health Organization urges countries to increase vaccine distribution to combat the Delta variant.",
+        "entity_names": [
+            "World Health Organization",
+            "Delta"
+        ],
+        "filename": "completion-164",
+        "entity_types": [
+            "organization",
+            "variant"
+        ],
+        "entity_names_not_allowed": [
+            "Delta"
+        ],
+        "entity_types_not_allowed": [
+            "variant"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces the release of the new iPhone 13.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone 13"
+        ],
+        "filename": "completion-170",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces launch of new iPhone model.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-175",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple releases new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-197",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone release.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-200",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces new iPhone launch event.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-214",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple to unveil new iPhone model at upcoming product event.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-217",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone model with enhanced camera features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-218",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-240",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "German Chancellor Angela Merkel calls for more global cooperation on climate change.",
+        "entity_names": [
+            "Angela Merkel",
+            "Germany"
+        ],
+        "filename": "completion-247",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone with revolutionary features.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-250",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple surpasses expectations with record-breaking iPhone sales.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-254",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with enhanced camera technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-260",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple unveils new iPhone with advanced features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-280",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-284",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES NEW IPHONE RELEASE DATE.",
+        "entity_names": [
+            "APPLE",
+            "IPHONE"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "IPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "TOM HANKS TO STAR IN UPCOMING SCI-FI FILM.",
+        "entity_names": [
+            "TOM HANKS",
+            "SCI-FI FILM"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "person",
+            "genre"
+        ],
+        "entity_names_not_allowed": [
+            "SCI-FI FILM"
+        ],
+        "entity_types_not_allowed": [
+            "genre"
+        ]
+    },
+    {
+        "sentence": "TORNADO HITS OKLAHOMA CITY, CAUSED MAJOR DAMAGE.",
+        "entity_names": [
+            "TORNADO",
+            "OKLAHOMA CITY"
+        ],
+        "filename": "completion-291",
+        "entity_types": [
+            "natural disaster",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "TORNADO"
+        ],
+        "entity_types_not_allowed": [
+            "natural disaster"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with advanced camera features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-298",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone with advanced features and technology.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-304",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with improved camera and battery life.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-306",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone with 5G capabilities.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-309",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone release date.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-315",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces record-breaking sales for the latest iPhone model.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-321",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple announces new iPhone with advanced camera features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-329",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple to release new iPhone with 5G capabilities.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-343",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tech giant Apple unveils new iPhone model.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "London to host 2022 World Chess Championship.",
+        "entity_names": [
+            "London",
+            "World Chess Championship"
+        ],
+        "filename": "completion-352",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World Chess Championship"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Queen Elizabeth II celebrates her Platinum Jubilee with special events.",
+        "entity_names": [
+            "Queen Elizabeth II",
+            "Platinum Jubilee"
+        ],
+        "filename": "completion-357",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Platinum Jubilee"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces the release of its latest iPhone model.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-387",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES NEW iPHONE RELEASE DATE.",
+        "entity_names": [
+            "APPLE",
+            "iPHONE"
+        ],
+        "filename": "completion-393",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with advanced facial recognition technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-398",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES NEW IPHONE LAUNCH EVENT.",
+        "entity_names": [
+            "APPLE",
+            "IPHONE"
+        ],
+        "filename": "completion-424",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "IPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Tesla achieves record profits in Q3, surpassing Wall Street expectations.",
+        "entity_names": [
+            "Tesla",
+            "Q3"
+        ],
+        "filename": "completion-451",
+        "entity_types": [
+            "organization",
+            "time"
+        ],
+        "entity_names_not_allowed": [
+            "Q3"
+        ],
+        "entity_types_not_allowed": [
+            "time"
+        ]
+    },
+    {
+        "sentence": "Apple announces launch date for new iPhone.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-457",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils latest iPhone model at annual product launch event.",
+        "entity_names": [
+            "Apple",
+            "iPhone",
+            "event"
+        ],
+        "filename": "completion-476",
+        "entity_types": [
+            "organization",
+            "product",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone with enhanced features.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-485",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-486",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple's new iPhone 13 to be released in September.",
+        "entity_names": [
+            "Apple",
+            "iPhone 13"
+        ],
+        "filename": "completion-495",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone 13"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. unveils new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple Inc",
+            "iPhone"
+        ],
+        "filename": "completion-503",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. introduces new iPhone with advanced camera features",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-514",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple launches new iPhone with advanced features.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-518",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "FDA approves new drug for treating diabetes",
+        "entity_names": [
+            "FDA",
+            "diabetes"
+        ],
+        "filename": "completion-536",
+        "entity_types": [
+            "organization",
+            "medical condition"
+        ],
+        "entity_names_not_allowed": [
+            "diabetes"
+        ],
+        "entity_types_not_allowed": [
+            "medical condition"
+        ]
+    },
+    {
+        "sentence": "Canadian Prime Minister Justin Trudeau to meet with German Chancellor Angela Merkel next week.",
+        "entity_names": [
+            "Justin Trudeau",
+            "Angela Merkel",
+            "Germany"
+        ],
+        "filename": "completion-550",
+        "entity_types": [
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES LAUNCH OF NEW iPHONE.",
+        "entity_names": [
+            "APPLE",
+            "iPHONE"
+        ],
+        "filename": "completion-562",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "APPLE ANNOUNCES LAUNCH OF NEW iPHONE MODEL.",
+        "entity_names": [
+            "APPLE",
+            "iPHONE"
+        ],
+        "filename": "completion-569",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPHONE"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with advanced AI capabilities.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-573",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. announces new iPhone release date.",
+        "entity_names": [
+            "Apple Inc.",
+            "iPhone"
+        ],
+        "filename": "completion-591",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    },
+    {
+        "sentence": "Apple unveils new iPhone with advanced camera technology.",
+        "entity_names": [
+            "Apple",
+            "iPhone"
+        ],
+        "filename": "completion-593",
+        "entity_types": [
+            "organization",
+            "product"
+        ],
+        "entity_names_not_allowed": [
+            "iPhone"
+        ],
+        "entity_types_not_allowed": [
+            "product"
+        ]
+    }
+]

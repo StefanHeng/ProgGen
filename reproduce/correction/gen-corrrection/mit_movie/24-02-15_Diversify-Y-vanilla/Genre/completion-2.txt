@@ -1,0 +1,8 @@
+1. Text Span: "historical"
+Label: (A). The span is a named entity of type genre
+
+2. Text Span: "Children's"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+3. Text Span: "thriller"
+Label: (A). The span is a named entity of type genre

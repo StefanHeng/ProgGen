@@ -1,0 +1,8 @@
+Query: "I'm craving a Margherita Pizza, any recommendations for a café?"
+Named Entities: [Margherita Pizza (Dish), café (Amenity)]
+
+Query: "What's the best café in town for a delicious Margherita Pizza?"
+Named Entities: [Margherita Pizza (Dish), café (Amenity)]
+
+Query: "I don't mind spending a little extra, can you suggest a pricy café with Margherita Pizza on the menu?"
+Named Entities: [pricy (Price), café (Amenity), Margherita Pizza (Dish)]

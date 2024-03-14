@@ -1,0 +1,11 @@
+1. Sentence: "Global organization announces plans for climate change summit in {{Reykjavik}}."
+Text Span: "Reykjavik"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "{{New York City}}'s famous Stonewall Inn celebrates 50th anniversary."
+Text Span: "New York City"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "São Paulo, {{Brazil}} to host international economic summit next month."
+Text Span: "Brazil"
+Label: (A). The span is a named entity of type location

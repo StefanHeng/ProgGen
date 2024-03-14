@@ -1,0 +1,8 @@
+1. "Can you recommend a movie directed by Spike Jonze that has a smooth soundtrack?"
+Named Entities: [Spike Jonze (Director), smooth (Song)]
+
+2. "What is the name of the movie featuring the character Randle McMurphy?"
+Named Entities: [Randle McMurphy (Character)]
+
+3. "Show me a movie from the 90s with a title that includes the word 'smooth'."
+Named Entities: [90s (Year), smooth (Title)]

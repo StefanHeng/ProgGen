@@ -1,0 +1,8 @@
+Query: "I'm looking for a brunch place in the downtown area"
+Named Entities: [brunch (Amenity), downtown area (Location)]
+
+Query: "what are the top-rated brunch spots in the city?"
+Named Entities: [top-rated (Rating), brunch (Amenity), city (Location)]
+
+Query: "which restaurants serve bottomless mimosas for brunch near me?"
+Named Entities: [bottomless mimosas (Amenity), brunch (Amenity), near me (Location)]

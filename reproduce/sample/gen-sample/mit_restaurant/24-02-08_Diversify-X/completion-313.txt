@@ -1,0 +1,8 @@
+1. "What are some fine dining restaurants with a casual ambience in the area?"
+Named Entities: [fine dining (Amenity), casual (Amenity), area (Location)]
+
+2. "Can you recommend a fine dining restaurant with a casual atmosphere and a good wine selection?"
+Named Entities: [fine dining (Amenity), casual (Amenity), good (Rating), wine selection (Amenity)]
+
+3. "I'm looking for a fine dining restaurant with a relaxed vibe and excellent seafood options."
+Named Entities: [fine dining (Amenity), relaxed (Amenity), excellent (Rating), seafood (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Show me a trailer of the latest movie directed by David O. Russell"
+Named Entities: [David O. Russell (Director), latest (Year), trailer (Trailer)]
+
+2. "Is Buzz Lightyear a character in any R-rated films"
+Named Entities: [Buzz Lightyear (Character), R (MPAA Rating)]
+
+3. "Can you recommend a 1986 film with an 18A rating and a great plot"
+Named Entities: [1986 (Year), 18A (MPAA Rating), great plot (Plot)]

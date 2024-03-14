@@ -1,0 +1,11 @@
+1. Sentence: "Marie-Antoine Carême was a {{French}} chef and author."
+Text Span: "French"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Sentence: "The company's headquarters is located in downtown {{Seattle}}, Washington, and it employs over 140,000 people worldwide."
+Text Span: "Seattle"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The Democratic Republic of the Congo's capital, {{Kinshasa}}, is the second largest city in Africa by population."
+Text Span: "Kinshasa"
+Label: (A). The span is a named entity of type location

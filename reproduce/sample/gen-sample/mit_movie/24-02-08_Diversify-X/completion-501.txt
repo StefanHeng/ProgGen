@@ -1,0 +1,8 @@
+Query: "Can I watch Titanic on any streaming platforms?
+Named Entities: [Titanic (Title), streaming platforms (Genre)]
+
+Query: "Which streaming platform has the highest rated action movie from the 1990s?"
+Named Entities: [action movie (Genre), 1990s (Year), highest rated (Viewers' Rating), streaming platform (Genre)]
+
+Query: "Show me a romantic comedy movie available for streaming with Julia Roberts in it"
+Named Entities: [romantic comedy (Genre), Julia Roberts (Actor), streaming (Movie Availability)]

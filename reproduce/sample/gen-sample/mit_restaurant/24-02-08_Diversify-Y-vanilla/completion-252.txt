@@ -1,0 +1,8 @@
+Query: "can you recommend any [Late-night eats] in the area?"
+Named Entities: [Late-night eats (Amenity)]
+
+Query: "I'm craving some [Late-night eats], do you know any places open past midnight?"
+Named Entities: [Late-night eats (Amenity), past midnight (Hours)]
+
+Query: "what's the best spot for [Late-night eats] that won't break the bank?"
+Named Entities: [Late-night eats (Amenity), best (Rating), won't break the bank (Price)]

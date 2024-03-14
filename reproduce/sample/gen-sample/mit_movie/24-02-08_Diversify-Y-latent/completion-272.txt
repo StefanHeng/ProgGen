@@ -1,0 +1,8 @@
+1. Query: "What is a good movie producer for action films?"
+   Named Entities: [action films (Genre), Movie producer (Review)]
+
+2. Query: "Can you recommend a movie with a viewers' rating of 8.5/10 or higher?"
+   Named Entities: [8.5/10 (Viewers' Rating)]
+
+3. Query: "What movie did Lupita Nyong'o star in that exceeded expectations?"
+   Named Entities: [Lupita Nyong'o (Actor), Exceeded expectations (Review)]

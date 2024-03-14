@@ -1,0 +1,8 @@
+Query: "What is the price range at Gramercy Tavern?"
+Named Entities: [Gramercy Tavern (Restaurant Name)]
+
+Query: "Can I make a reservation for Sunday Brunch?"
+Named Entities: [Sunday Brunch (Amenity)]
+
+Query: "Find me a restaurant with French cuisine and outdoor seating"
+Named Entities: [French (Cuisine), outdoor seating (Amenity)]

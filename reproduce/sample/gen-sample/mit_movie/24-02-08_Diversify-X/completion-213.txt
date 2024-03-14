@@ -1,0 +1,8 @@
+1. Query: "Can you show me a behind-the-scenes look at the making of the movie Inception?"
+Named Entities: [behind-the-scenes (Plot), making-of (Plot), Inception (Title)]
+
+2. Query: "Which movie from the 1990s has the most insightful director commentary?"
+Named Entities: [1990s (Year), insightful (Review), director commentary (Plot)]
+
+3. Query: "I'm interested in a film with a compelling featurette about its special effects. Can you recommend one?"
+Named Entities: [compelling (Review), featurette (Plot), special effects (Plot)]

@@ -1,0 +1,8 @@
+Query: "I'm looking for a late-night dining option with outdoor seating, maybe a 3am breakfast spot"
+Named Entities: [late-night dining (Amenity), outdoor seating (Amenity), 3am Breakfast Spot (Restaurant Name)]
+
+Query: "Where can I find a place with outdoor seating for a late-night dining experience?"
+Named Entities: [outdoor seating (Amenity), late-night dining (Amenity)]
+
+Query: "Any suggestions for a restaurant with outdoor seating that serves late-night dining, maybe a Huddle House?"
+Named Entities: [outdoor seating (Amenity), late-night dining (Amenity), Huddle House (Restaurant Name)]

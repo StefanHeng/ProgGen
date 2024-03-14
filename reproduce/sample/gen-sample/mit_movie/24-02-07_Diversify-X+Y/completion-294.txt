@@ -1,0 +1,8 @@
+1. "Can I find the movie 'The Notebook' available on any streaming platform for a Forbidden romance film night?"
+Named Entities: ['The Notebook' (Title), Forbidden romance (Genre)]
+
+2. "I'm looking for the top-rated Forbidden romance films from the 90s, are any available for streaming?"
+Named Entities: [Forbidden romance (Genre), the 90s (Year)]
+
+3. "Which Forbidden romance movie directed by Baz Luhrmann is currently available for streaming?"
+Named Entities: [Forbidden romance (Genre), Baz Luhrmann (Director)]

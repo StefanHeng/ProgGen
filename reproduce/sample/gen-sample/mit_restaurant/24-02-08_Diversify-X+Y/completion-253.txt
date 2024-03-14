@@ -1,0 +1,8 @@
+1. "Can you recommend a late-night dining restaurant with a mid-range price and waterfront views that serves delicious burgers?"
+Named Entities: [late-night dining (Amenity), mid-range (Price), waterfront views (Amenity), burgers (Dish)]
+
+2. "Where can I find a restaurant offering waterfront views and a mid-range price range, specializing in Mediterranean cuisine for late-night dining?"
+Named Entities: [waterfront views (Amenity), mid-range (Price), Mediterranean cuisine (Cuisine), late-night dining (Amenity)]
+
+3. "I'm looking for a late-night dining spot with a mid-range price range and waterfront views, preferably serving Mediterranean dishes. Can you suggest one?"
+Named Entities: [late-night dining (Amenity), mid-range (Price), waterfront views (Amenity), Mediterranean dishes (Cuisine)]

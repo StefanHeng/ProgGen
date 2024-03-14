@@ -1,0 +1,8 @@
+1. Text Span: "big"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "comfort food"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "prix fixe menu"
+Label: (A). Correct Entity Annotation.

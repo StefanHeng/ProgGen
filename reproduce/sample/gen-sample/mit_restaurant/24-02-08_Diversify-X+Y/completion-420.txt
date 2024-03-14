@@ -1,0 +1,8 @@
+Query: "I'm looking for a pet-friendly restaurant with a rustic and charming ambiance for breakfast"
+Named Entities: [Pet-friendly (Amenity), rustic and charming (Amenity), breakfast (Cuisine)]
+
+Query: "What are some pet-friendly breakfast places with a rustic and charming atmosphere?"
+Named Entities: [Pet-friendly (Amenity), rustic and charming (Amenity), breakfast (Cuisine)]
+
+Query: "Can you recommend a cozy, pet-friendly breakfast spot with a rustic feel?"
+Named Entities: [Pet-friendly (Amenity), rustic (Amenity), breakfast (Cuisine)]

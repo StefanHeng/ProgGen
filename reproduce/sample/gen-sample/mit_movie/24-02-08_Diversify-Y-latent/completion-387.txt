@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a must-see horror movie with a G rating from the 1990s?"
+Named Entities: [must-see (Viewers' Rating), horror (Genre), G (MPAA Rating), 1990s (Year)]
+
+2. Query: "Could you show me the trailer for the comedy film The Green Mile?"
+Named Entities: [Trailer (Trailer), The Green Mile (Title), comedy (Genre)]
+
+3. Query: "What type of movie genre is The Green Mile?"
+Named Entities: [The Green Mile (Title)]

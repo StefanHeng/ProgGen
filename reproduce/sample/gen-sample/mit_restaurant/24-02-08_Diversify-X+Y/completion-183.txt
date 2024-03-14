@@ -1,0 +1,8 @@
+1. "I'm craving some pancakes and omelettes for breakfast, can I order delivery from a nearby diner?"
+   Named Entities: [pancakes (Dish), omelettes (Dish), breakfast (Cuisine), delivery (Amenity), nearby (Location)]
+
+2. "What are the breakfast delivery options in the area that offer vegetarian dishes?"
+   Named Entities: [breakfast (Cuisine), delivery (Amenity), vegetarian (Dish), area (Location)]
+
+3. "I want to have a traditional English breakfast delivered to my hotel, where can I find a place that offers this?"
+   Named Entities: [traditional English breakfast (Cuisine), delivery (Amenity), hotel (Location)]

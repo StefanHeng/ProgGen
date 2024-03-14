@@ -1,0 +1,8 @@
+1. Text Span: "Teaser clip"
+Label: (A). The span is a named entity of type trailer
+
+2. Text Span: "teaser"
+Label: (A). The span is a named entity of type trailer
+
+3. Text Span: "footage"
+Label: (D). The span is not a named entity

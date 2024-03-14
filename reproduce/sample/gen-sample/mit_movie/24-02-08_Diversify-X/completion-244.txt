@@ -1,0 +1,8 @@
+Query: "Can you provide information about the director of the movie The Social Network?"
+Named Entities: [The Social Network (Title), director (Director)]
+
+Query: "I am looking for a film with a poignant soundtrack. Can you recommend one?"
+Named Entities: [poignant soundtrack (Song)]
+
+Query: "Which movie from the 90s has the most authentic portrayal of a historical event?"
+Named Entities: [90s (Year), historical event (Plot)]

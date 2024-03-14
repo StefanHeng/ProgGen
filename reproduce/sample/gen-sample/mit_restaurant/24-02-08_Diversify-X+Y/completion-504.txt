@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a cozy and intimate restaurant with a bar that serves lunch?"
+Named Entities: [cozy and intimate (Amenity), bar (Amenity), lunch (Meal category)]
+
+2. Query: "I'm looking for a late-night dining spot with a cozy ambience that serves lunch."
+Named Entities: [late-night dining (Amenity), cozy ambience (Amenity), lunch (Meal category)]
+
+3. Query: "Find me a restaurant with a bar and a cozy atmosphere for a lunch meeting."
+Named Entities: [bar (Amenity), cozy atmosphere (Amenity), lunch (Meal category)]

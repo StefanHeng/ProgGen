@@ -1,0 +1,8 @@
+1. Text Span: "sociological perspective"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Text Span: "common law"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "American"
+Label: (C). Wrong Type. The correct entity type is other.

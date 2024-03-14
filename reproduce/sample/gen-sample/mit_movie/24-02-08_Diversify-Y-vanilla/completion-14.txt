@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with strong LGBTQ+ representation?" 
+   Named Entities: [LGBTQ+ (Genre)]
+
+2. Query: "Show me a trailer for The Terminator film directed by James Cameron." 
+   Named Entities: [trailer (Trailer), The Terminator (Title), James Cameron (Director)]
+
+3. Query: "What year was The Bridge on the River Kwai released?"
+   Named Entities: [The Bridge on the River Kwai (Title)]

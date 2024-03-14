@@ -1,0 +1,8 @@
+1. "Can you recommend a fine dining restaurant with paleo options and private dining?"
+Named Entities: [fine dining (Amenity), paleo (Cuisine), private dining (Amenity)]
+
+2. "I'm looking for a place with private dining that offers paleo dishes for dinner tonight."
+Named Entities: [private dining (Amenity), paleo (Cuisine), dinner tonight (Hours)]
+
+3. "Where can I find a restaurant with a private dining area that serves paleo-friendly dishes?"
+Named Entities: [private dining (Amenity), paleo-friendly (Cuisine)]

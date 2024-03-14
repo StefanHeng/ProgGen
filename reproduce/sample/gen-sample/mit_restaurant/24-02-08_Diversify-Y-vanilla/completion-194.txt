@@ -1,0 +1,8 @@
+Query: "Can you recommend a nearby Italian restaurant with a rating above 4 stars?"
+Named Entities: [nearby (Location), Italian (Cuisine), rating above 4 stars (Rating)]
+
+Query: "What are the opening hours for the Mexican restaurant downtown?"
+Named Entities: [opening hours (Hours), Mexican (Cuisine), downtown (Location)]
+
+Query: "I'm in the mood for sushi, can you find a place with outdoor seating?"
+Named Entities: [sushi (Cuisine), outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can you tell me the plot of any movie that features the song 'I Am a Man of Constant Sorrow'"
+Named Entities: ['I Am a Man of Constant Sorrow' (Song)]
+
+Query: "I'm curious to know the plot synopsis of any R-rated movie released between 1960 and 2020"
+Named Entities: [R (MPAA Rating), 1960-2020 (Year)]
+
+Query: "Could you provide me with a summary of the plot for any Indiana Jones or Predator movie"
+Named Entities: [Indiana Jones (Title), Predator (Title)]

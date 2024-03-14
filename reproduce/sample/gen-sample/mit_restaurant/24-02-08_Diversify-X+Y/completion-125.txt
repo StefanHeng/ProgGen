@@ -1,0 +1,8 @@
+1. "I'm in the mood for some great street food, can you recommend a food truck with private dining and outdoor seating?"
+Named Entities: [food truck (Restaurant Name), private dining (Amenity), Outdoor seating (Amenity)]
+
+2. "I want to try some unique dishes from a food truck with a nice outdoor seating area, do you know of any?"
+Named Entities: [food truck (Restaurant Name), unique dishes (Dish), Outdoor seating (Amenity)]
+
+3. "I'm looking for a food truck that offers private dining and has a cozy outdoor seating space, can you help me find one?"
+Named Entities: [food truck (Restaurant Name), private dining (Amenity), Outdoor seating (Amenity)]

@@ -1,0 +1,8 @@
+Query: "Can I watch the movie Inception on Netflix?"
+Named Entities: [Inception (Title), Netflix (Streaming platform)]
+
+Query: "Are there any highly-rated comedy movies from the 1990s available on Hulu?"
+Named Entities: [comedy (Genre), 1990s (Year), Hulu (Streaming platform), highly-rated (Viewers' Rating)]
+
+Query: "Is there a classic Alfred Hitchcock film with a mystery plot that I can stream on Amazon Prime?"
+Named Entities: [Alfred Hitchcock (Director), mystery (Plot), Amazon Prime (Streaming platform), classic (Viewers' Rating)]

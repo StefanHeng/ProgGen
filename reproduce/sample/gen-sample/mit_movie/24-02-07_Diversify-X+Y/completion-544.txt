@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a surreal genre, preferably a subgenre that is emotionally resonant?"
+Named Entities: [surreal (Genre), emotionally resonant (Subgenre)]
+
+2. "I'm looking for a film that falls under the subgenre of The Avengers, but with a twist of fame. Do you have any suggestions?"
+Named Entities: [The Avengers (Subgenre), fame (Subgenre)]
+
+3. "I'm very picky about the type of movies I watch. Can you suggest a film that combines the elements of fame and emotion, possibly falling under the surreal genre?"
+Named Entities: [fame (Genre), emotion (Genre), surreal (Subgenre)]

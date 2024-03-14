@@ -1,0 +1,8 @@
+Query: "What are the top-rated Italian restaurants in the area"
+Named Entities: [top-rated (Rating), Italian (Cuisine)]
+
+Query: "I'm looking for a restaurant with outdoor seating and vegan options"
+Named Entities: [outdoor seating (Amenity), vegan (Cuisine)]
+
+Query: "Which restaurant is open past midnight for late-night dining"
+Named Entities: [past midnight (Hours), late-night dining (Amenity)]

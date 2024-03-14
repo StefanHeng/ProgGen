@@ -1,0 +1,8 @@
+1. "Can you recommend a highly-rated seafood restaurant in the downtown area"
+Named Entities: [highly-rated (Rating), seafood (Cuisine), downtown area (Location)]
+
+2. "What are the operating hours for the Italian restaurant near the park"
+Named Entities: [operating hours (Hours), Italian (Cuisine), near the park (Location)]
+
+3. "I'm looking for a restaurant with outdoor seating and a view of the ocean"
+Named Entities: [outdoor seating (Amenity), view of the ocean (Amenity)]

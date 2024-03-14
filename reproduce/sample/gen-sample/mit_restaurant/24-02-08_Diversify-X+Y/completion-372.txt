@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with high chairs for kids and a costly dinner menu?"
+Named Entities: [high chairs for kids (Amenity), costly (Price), dinner (Amenity)]
+
+2. "I'm looking for a pricey Korean restaurant for dinner, do you have any suggestions?"
+Named Entities: [pricey (Price), Korean (Cuisine), dinner (Amenity)]
+
+3. "What are the top-rated Korean restaurants with a family-friendly atmosphere for dinner?"
+Named Entities: [top-rated (Rating), Korean (Cuisine), family-friendly (Amenity), dinner (Amenity)]

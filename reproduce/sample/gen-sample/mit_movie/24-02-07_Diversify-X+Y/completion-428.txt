@@ -1,0 +1,8 @@
+1. "Hey, can I watch Jaws on any streaming platform?"
+Named Entities: [Jaws (Title), streaming platform (Genre)]
+
+2. "Is there an Adam Sandler movie that's TV-G on any streaming service?"
+Named Entities: [Adam Sandler (Actor), TV-G (MPAA Rating), streaming service]
+
+3. "Where can I find a funny Adam Sandler movie to watch right now?"
+Named Entities: [Adam Sandler (Actor), funny (Viewers' Rating)]

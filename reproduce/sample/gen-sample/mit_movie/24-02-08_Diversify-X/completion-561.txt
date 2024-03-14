@@ -1,0 +1,8 @@
+1. Query: "Are there any tickets available for the new James Bond movie?"
+Named Entities: [James Bond (Title)]
+
+2. Query: "Can I really trust that the action movie has good reviews?"
+Named Entities: [action (Genre), good reviews (Review)]
+
+3. Query: "Is the theater showing the romantic comedy film this weekend?"
+Named Entities: [romantic comedy (Genre)]

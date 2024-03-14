@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a survival story film with a high viewers' rating?"
+Named Entities: [Survival story (Genre), high viewers' rating (Viewers' Rating)]
+
+2. Query: "What is the secret mission movie directed by Christopher Nolan?"
+Named Entities: [secret mission (Plot), Christopher Nolan (Director)]
+
+3. Query: "Show me a trailer for the new James Bond film with the song Skyfall."
+Named Entities: [new James Bond film (Title), Skyfall (Song)]

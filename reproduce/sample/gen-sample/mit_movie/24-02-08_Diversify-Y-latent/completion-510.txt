@@ -1,0 +1,8 @@
+1. Query: "Can I watch a TV spot for the movie Jurassic Park released in 1993?"
+   Named Entities: [TV spot (Trailer), Jurassic Park (Title), 1993 (Year)]
+
+2. Query: "What movie from 1977 has a 5 stars rating and is considered a highlight of the year?"
+   Named Entities: [1977 (Year), 5 stars (Viewers' Rating)]
+
+3. Query: "Could you recommend a movie with the title The Matrix that falls under the action genre?"
+   Named Entities: [The Matrix (Title), action (Genre)]

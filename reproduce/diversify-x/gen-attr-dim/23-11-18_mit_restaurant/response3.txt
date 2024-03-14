@@ -1,0 +1,33 @@
+Creating diverse spoken queries for a dialog system or conversational agent focused on restaurants involves considering various attributes that people might inquire about. Here's a step-by-step breakdown:
+
+1. **Category**: This includes the type of cuisine (Italian, Chinese, Vegan, etc.) or the style of dining (fast food, fine dining, café, buffet).
+
+2. **Location**: Proximity to the user (e.g., "near me"), specific neighborhoods, or cities.
+
+3. **Price Range**: Queries could be specific to budget levels like cheap eats, mid-range, or high-end restaurants.
+
+4. **Ambiance/Setting**: Some might look for a romantic setting, family-friendly environment, outdoor seating, or a place suitable for business meetings.
+
+5. **Dietary Restrictions**: Options for vegetarians, vegans, gluten-free, halal, kosher, etc.
+
+6. **Meal Time**: Breakfast, brunch, lunch, dinner, or late-night dining options.
+
+7. **Ratings and Reviews**: Interest in highly-rated restaurants or ones recommended by certain guides or websites.
+
+8. **Special Features**: Live music, waterfront views, child-friendly facilities, pet-friendly policies, etc.
+
+9. **Availability**: Looking for restaurants with available reservations or short waiting times.
+
+10. **Health and Safety Measures**: Queries regarding cleanliness, social distancing practices, etc.
+
+11. **Parking and Accessibility**: Queries about available parking, ease of access for people with disabilities, or proximity to public transport.
+
+12. **Special Offers and Events**: Inquiries about happy hours, special discounts, or events like live cooking sessions.
+
+13. **Takeout and Delivery Options**: Queries about restaurants offering these services, particularly relevant in scenarios like lockdowns.
+
+14. **Payment Options**: Preferences for cash-only places, acceptance of credit cards, or digital payment methods.
+
+15. **Languages Spoken**: For non-native speakers, finding restaurants where staff can communicate in a specific language.
+
+By incorporating these attributes into your dialog system, you can create a more comprehensive and user-friendly experience for a wide range of queries related to restaurant searches.

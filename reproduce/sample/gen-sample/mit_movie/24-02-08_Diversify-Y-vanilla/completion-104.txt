@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a superb science fiction movie from 1976?"
+   Named Entities: [Superb (Viewers' Rating), 1976 (Year), Science Fiction (Genre)]
+
+2. Query: "Who directed the superb movie 'The Shawshank Redemption'?" 
+   Named Entities: [The Shawshank Redemption (Title), superb (Viewers' Rating)]
+
+3. Query: "Show me a movie starring Eddie Murphy that involves sacrifice for a greater cause and was released between 1995-1997."
+   Named Entities: [Eddie Murphy (Actor), Sacrifice for a greater cause (Plot), 1995-1997 (Year)]

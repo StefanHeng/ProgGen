@@ -1,0 +1,8 @@
+1. Text Span: "dog-friendly"
+Label: (A). The span is a named entity of type amenity
+
+2. Text Span: "restaurants"
+Label: (C). Wrong Type. The correct entity type is other.
+
+3. Text Span: "recommend"
+Label: (D). Not a Named Entity.

@@ -1,0 +1,8 @@
+Query: "what are some good mystery movies with a twist ending"
+Named Entities: [mystery (Genre), twist ending (Plot)] [Good]
+
+Query: "who is the director of the goodfellas movie"
+Named Entities: [goodfellas (Title), director (Director)] [Good]
+
+Query: "show me a good horror movie from the 1980s"
+Named Entities: [horror (Genre), 1980s (Year)] [Good]

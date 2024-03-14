@@ -1,0 +1,8 @@
+1. "Senator Smith delivers impassioned speech on healthcare reform."
+Named Entities: [Senator Smith (person)]
+
+2. "President Johnson announces new trade deal with European Union."
+Named Entities: [President Johnson (person), European Union (organization)]
+
+3. "Prime Minister Brown meets with leaders from G7 countries to discuss climate change."
+Named Entities: [Prime Minister Brown (person), G7 (organization)]

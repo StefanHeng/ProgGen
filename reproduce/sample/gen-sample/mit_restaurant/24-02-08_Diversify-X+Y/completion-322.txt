@@ -1,0 +1,8 @@
+1. "Where can I find a vegan-friendly restaurant for late-night dining that's affordable"
+Named Entities: [vegan-friendly (Amenity), late-night dining (Amenity), affordable (Price)]
+
+2. "I'm looking for a place with vegan options that's open for late-night dining"
+Named Entities: [vegan options (Cuisine), late-night dining (Amenity)]
+
+3. "Find me a restaurant with vegan dishes that's open late and fits within my budget"
+Named Entities: [vegan dishes (Cuisine), late (Hours), budget (Price)]

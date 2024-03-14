@@ -1,0 +1,8 @@
+Query: "Can you recommend a good restaurant with gaming options in the area?"
+Named Entities: [good (Rating), gaming options (Amenity), area (Location)]
+
+Query: "I'm looking for a restaurant with an otium area, do you know any nearby?"
+Named Entities: [otium area (Amenity), nearby (Location)]
+
+Query: "What are the best restaurants with otium amenities and outdoor seating in this city?"
+Named Entities: [best (Rating), otium amenities (Amenity), outdoor seating (Amenity), this city (Location)]

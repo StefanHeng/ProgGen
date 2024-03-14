@@ -1,0 +1,8 @@
+1. "Can you recommend any five-star late-night establishments in this area?"
+Named Entities: [five-star (Rating), late-night (Amenity), establishments (Amenity), this area (Location)]
+
+2. "I'm looking for highly praised late-night dining venues, preferably serving international cuisine."
+Named Entities: [highly praised (Rating), late-night (Amenity), dining venues (Amenity), international cuisine (Cuisine)]
+
+3. "Do you know any economical late night dining choices with outdoor seating?"
+Named Entities: [economical (Price), late night (Amenity), dining choices (Amenity), outdoor seating (Amenity)]

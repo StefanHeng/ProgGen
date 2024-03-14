@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "dataset_name": "wiki-gold-no-misc",
+        "source_dataset_dir_name": "24-02-14_NER-Dataset_{fmt=n-p2,#l=3,ap={dc=T,de=s}}_add-super-idx",
+        "diversity_variant": "Diverse-X+Y"
+    },
+    "entity_type2correction_info": {
+        "person": {
+            "defn": "A named person entity must be the name of a person. Names of fictional figures in mythology such as \"Zeus\" and \"Apollo\" are not relevant named entities. (Governmental, political or executive) titles such as \"President of the United States\" and \"CEO\" are also not relevant named entities. A named person entity should not have any starting titles such as \"Dr.\" and \"General\".",
+            "name": "person",
+            "name_full": "named person entity",
+            "demos": [
+                {
+                    "sentence": "The novel To Kill a Mockingbird, written by Harper Lee, is a classic of modern American literature.",
+                    "entity_span": "Harper Lee",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Dr. James E. Webb was instrumental in the development and success of the Apollo lunar landing program.",
+                    "entity_span": "Dr. James E. Webb",
+                    "entity_type": null,
+                    "label": "WRONG_SPAN",
+                    "correct_span": "James E. Webb",
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Hera is often depicted as the queen of the gods in Greek mythology, and is the wife and sister of Zeus.",
+                    "entity_span": "Zeus",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "She is a well-known environmental activist and has spoken at numerous international conferences on climate change.",
+                    "entity_span": "environmental activist",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "location": {
+            "defn": "A named location entity must be the name of a location. Locations in mythology such as \"Underworld\" are also named location entities. Demonyms such as \"French\", \"British\", \"American\", \"Chinese\", \"Spanish\" and \"Greek\" are not relevant named entities. General references to a location such as \"city\" and \"business park\" are not named entities.",
+            "name": "location",
+            "name_full": "named location entity",
+            "demos": [
+                {
+                    "sentence": "The Mississippi River runs through several states in the United States, including Minnesota, Wisconsin, and Louisiana.",
+                    "entity_span": "United States",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "Dr. Jonas Salk, an American virologist, developed the first successful polio vaccine in 1955.",
+                    "entity_span": "American",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "The headquarters, located in the heart of Silicon Valley, provides the ideal environment for fostering creativity and collaboration among employees.",
+                    "entity_span": "headquarters",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        },
+        "organization": {
+            "defn": "A named organization entity must be the name of an organization. Demonyms such as \"American\", \"French\", \"Greek\" and \"Norse\" are not relevant named entities. Prestigious awards and rankings such as \"Grammy Award\", \"Nobel Peace Prize\" and \"Billboard 200\" are also not relevant named entities. Space missions such as \"Chandrayaan-1\" and \"V-2 rocket\" are not relevant named entities. Events such as \"Olympic Games\" and \"Cannes Film Festival\" are also not relevant named entities. General references to an organization or organizations such as \"university\" and \"non-profit organization\" are not named entities.",
+            "name": "organization",
+            "name_full": "named organization entity",
+            "demos": [
+                {
+                    "sentence": "The World Health Organization is a specialized agency of the United Nations responsible for international public health.",
+                    "entity_span": "United Nations",
+                    "entity_type": null,
+                    "label": "CORRECT",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                },
+                {
+                    "sentence": "She won the Nobel Prize in Literature in 2013 for her novels and short stories.",
+                    "entity_span": "Nobel Prize in Literature",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "Aretha Franklin, also known as the \"Queen of Soul\", was an American singer, songwriter, and pianist.",
+                    "entity_span": "American",
+                    "entity_type": null,
+                    "label": "WRONG_TYPE",
+                    "correct_span": null,
+                    "correct_type": "other",
+                    "reason": null
+                },
+                {
+                    "sentence": "The company partnered with a local non-profit organization to organize a charity event in Tokyo, Japan.",
+                    "entity_span": "non-profit organization",
+                    "entity_type": null,
+                    "label": "NA",
+                    "correct_span": null,
+                    "correct_type": null,
+                    "reason": null
+                }
+            ]
+        }
+    }
+}

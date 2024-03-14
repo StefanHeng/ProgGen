@@ -1,0 +1,8 @@
+1. "What's a good Mexican restaurant that serves burritos?"
+Named Entities: [Mexican (Cuisine), burritos (Dish)]
+
+2. "Which restaurant has the best burrito in town?"
+Named Entities: [best (Rating), burrito (Dish), town (Location)]
+
+3. "Can you recommend a budget-friendly spot for burritos?"
+Named Entities: [budget-friendly (Price), burritos (Dish)]

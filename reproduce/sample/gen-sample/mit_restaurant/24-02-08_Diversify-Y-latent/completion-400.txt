@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with Coq au Vin on the menu?"
+Named Entities: [Coq au Vin (Dish)]
+
+2. Query: "I'm looking for a restaurant with a good rating and outdoor seating in the downtown area."
+Named Entities: [good (Rating), outdoor seating (Amenity), downtown area (Location)]
+
+3. Query: "What are the operating hours for the Italian restaurant near the beach?"
+Named Entities: [Italian (Cuisine), near the beach (Location), operating hours (Hours)]

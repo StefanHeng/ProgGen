@@ -1,0 +1,8 @@
+1. Spoken Query: "Is the movie 'Where'd You Go, Bernadette' available on any streaming platforms in 2019"
+   Named Entities: ['Where'd You Go, Bernadette' (Title), streaming platforms (Entity Type), 2019 (Year)]
+
+2. Spoken Query: "Are there any chilling movies from 2019 directed by Richard Linklater that I can watch on streaming platforms"
+   Named Entities: [chilling (Genre), 2019 (Year), Richard Linklater (Director), streaming platforms (Entity Type)]
+
+3. Spoken Query: "Can I find any 2019 movies by Richard Linklater to stream that are considered a must-see"
+   Named Entities: [2019 (Year), Richard Linklater (Director), must-see (Viewers' Rating), streaming platforms (Entity Type)]

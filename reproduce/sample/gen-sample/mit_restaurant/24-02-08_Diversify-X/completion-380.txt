@@ -1,0 +1,8 @@
+Query: "I'm looking for a dairy-free café that delivers in the area"
+Named Entities: [dairy-free (Amenity), café (Cuisine), delivers (Amenity), area (Location)]
+
+Query: "What's the highest-rated dairy-free café that offers delivery service"
+Named Entities: [highest-rated (Rating), dairy-free (Amenity), café (Cuisine), delivery service (Amenity)]
+
+Query: "Can you recommend a café with dairy-free options that delivers and has affordable prices"
+Named Entities: [dairy-free (Amenity), café (Cuisine), delivers (Amenity), affordable prices (Price)]

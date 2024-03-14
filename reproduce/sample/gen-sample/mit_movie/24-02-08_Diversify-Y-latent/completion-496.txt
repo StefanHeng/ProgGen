@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a cyberpunk movie that was released in the 1990s?"
+   Named Entities: [cyberpunk (Genre), 1990s (Year)]
+
+2. Query: "I'm looking for a film distribution company that specializes in R-rated movies"
+   Named Entities: [R (MPAA Rating), film distribution (Genre)]
+
+3. Query: "Show me a not rated movie directed by Quentin Tarantino"
+   Named Entities: [not rated (MPAA Rating), Quentin Tarantino (Director)]

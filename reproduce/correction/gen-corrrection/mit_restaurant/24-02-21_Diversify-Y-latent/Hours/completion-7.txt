@@ -1,0 +1,11 @@
+1. Query: "what are the {{hours of operation}} for the sushi place on Main Street"
+Text Span: "hours of operation"
+Label: (C). The span is a named entity but the category is not hours. Correct entity type: Hours
+
+2. Query: "What are the {{operating hours}} for Italian restaurant Scott's Trattoria?"
+Text Span: "operating hours"
+Label: (D). The span is not a named entity
+
+3. Query: "I'm looking for a restaurant that serves Mexican food and opens until {{midnight}} in the Westside area."
+Text Span: "midnight"
+Label: (A). The span is a named entity of type hours

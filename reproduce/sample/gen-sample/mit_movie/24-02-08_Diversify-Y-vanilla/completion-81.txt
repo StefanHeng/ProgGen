@@ -1,0 +1,8 @@
+1. Query: "who directed the film se7en starring morgan freeman"
+Named Entities: [se7en (Title), morgan freeman (Actor)]
+
+2. Query: "can you recommend a movie with the song let it go"
+Named Entities: [let it go (Song)]
+
+3. Query: "what is the viewers' rating for the film shawshank redemption featuring morgan freeman"
+Named Entities: [shawshank redemption (Title), morgan freeman (Actor)]

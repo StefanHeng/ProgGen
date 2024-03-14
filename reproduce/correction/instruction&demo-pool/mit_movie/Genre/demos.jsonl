@@ -1,0 +1,3 @@
+{"sentence": "Who directed the psychological thriller \"Black Swan\"?", "entity_span": "psychological thriller", "label": "CORRECT"}
+{"sentence": "Name a famous [heist] movie from the 2000s", "entity_span": "heist", "label": "WRONG_TYPE", "correct_type": "Plot"}
+{"sentence": "Can you provide a list of musical movies", "entity_span": "musical movies", "label": "WRONG_SPAN", "correct_span": "musical"}

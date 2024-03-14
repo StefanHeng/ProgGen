@@ -1,0 +1,8 @@
+Query: "what are some highly rated movies released between 2008 and 2010"
+Named Entities: [2008-2010 (Year), highly rated (Viewers' Rating)]
+
+Query: "do you have any information about the movie 'Elf' with Zooey Deschanel"
+Named Entities: [Elf (Title), Zooey Deschanel (Actor)]
+
+Query: "can you play the movie promo for the film 'A Beautiful Mind' to see its brilliance"
+Named Entities: [A Beautiful Mind (Title), brilliance (Review), movie promo (Trailer)]

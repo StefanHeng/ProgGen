@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a reasonable cost for a dinner date"
+Named Entities: [reasonable cost (Price), dinner date (Amenity)]
+
+Query: "I'm in the mood for some Brazilian food, where can I find a Texas de Brazil nearby"
+Named Entities: [Brazilian food (Cuisine), Texas de Brazil (Restaurant Name), nearby (Location)]
+
+Query: "What are the hours of operation for Texas de Brazil tomorrow"
+Named Entities: [Texas de Brazil (Restaurant Name), tomorrow (Hours)]

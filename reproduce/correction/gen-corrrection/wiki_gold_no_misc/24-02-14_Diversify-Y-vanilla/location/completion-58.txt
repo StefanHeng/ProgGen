@@ -1,0 +1,11 @@
+1. Sentence: "The company was founded in 2002 and is headquartered in Mountain View, {{California}}."
+Text Span: "California"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "The {{Rocky Mountains}} are known for their diverse wildlife, including elk, grizzly bears, and bighorn sheep."
+Text Span: "Rocky Mountains"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Procter & Gamble is a multinational consumer goods corporation headquartered in {{Cincinnati}}, Ohio."
+Text Span: "Cincinnati"
+Label: (A). The span is a named entity of type location

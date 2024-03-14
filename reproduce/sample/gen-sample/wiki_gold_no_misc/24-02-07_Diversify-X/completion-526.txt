@@ -1,0 +1,8 @@
+Sentence: "The company offers a wide range of travel packages to destinations all around the world."
+Named Entities: [company (organization)]
+
+Sentence: "During his travels, he visited famous landmarks such as the Eiffel Tower and the Great Wall of China."
+Named Entities: [Eiffel Tower (location), Great Wall of China (location)]
+
+Sentence: "Traveling by train allows passengers to enjoy scenic views of the countryside and avoid traffic congestion."
+Named Entities: [train (organization)]

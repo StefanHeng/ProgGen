@@ -1,0 +1,11 @@
+1. Query: "which restaurant serves {{Buffet breakfast}} in the morning"
+Text Span: "Buffet breakfast"
+Label: (B). The span contains a named amenity entity but the span boundary is not precise. The correct span boundary is "Buffet breakfast".
+
+2. Query: "Where can I grab a croissant for {{breakfast}} at a local fast-casual spot?"
+Text Span: "breakfast"
+Label: (C). Wrong Type. The correct entity type is Hours.
+
+3. Query: "What are the operating hours for the nearest café with {{live music}} on weekends?"
+Text Span: "live music"
+Label: (A). The span is a named entity of type amenity

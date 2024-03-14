@@ -1,0 +1,8 @@
+Query: "Can you recommend a high-end restaurant with a romantic atmosphere?"
+Named Entities: [high-end (Price), romantic atmosphere (Amenity)]
+
+Query: "Where can I have an exquisite French cuisine experience for dinner tonight?"
+Named Entities: [exquisite (Rating), French cuisine (Cuisine), dinner tonight (Hours)]
+
+Query: "I'm looking for a fancy restaurant with a Michelin star in the downtown area"
+Named Entities: [fancy (Amenity), Michelin star (Rating), downtown area (Location)]

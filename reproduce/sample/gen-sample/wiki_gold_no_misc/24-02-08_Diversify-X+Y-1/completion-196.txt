@@ -1,0 +1,8 @@
+Sentence: "The United States Department of Defense is the largest employer in the world, with over 2.8 million military and civilian personnel."
+Named Entities: [United States Department of Defense (organization)]
+
+Sentence: "NATO, or the North Atlantic Treaty Organization, is an intergovernmental military alliance between 30 North American and European countries."
+Named Entities: [NATO (organization)]
+
+Sentence: "General James Mattis, former United States Secretary of Defense, emphasized the importance of strategic military alliances in maintaining global security and stability."
+Named Entities: [James Mattis (person), United States (location)]

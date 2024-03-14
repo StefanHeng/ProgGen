@@ -1,0 +1,8 @@
+Query: "Can you tell me if the movie Mean Girls won any awards?"
+Named Entities: [Mean Girls (Title), awards (Review)]
+
+Query: "I'm curious if the film To All the Boys I've Loved Before received any nominations?"
+Named Entities: [To All the Boys I've Loved Before (Title), nominations (Review)]
+
+Query: "Show me a movie directed by Greta Gerwig that has won an Oscar."
+Named Entities: [Greta Gerwig (Director), Oscar (Award)]

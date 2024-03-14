@@ -1,0 +1,8 @@
+Query: "I'm looking for a place with outdoor seating and a good selection from Eater's The National 38"
+Named Entities: [outdoor seating (Amenity), Eater's The National 38 selection]
+
+Query: "which restaurant around here serves authentic Italian pizza"
+Named Entities: [authentic Italian (Cuisine) , pizza (Dish)]
+
+Query: "can you recommend a restaurant with a 4-star rating and a brunch menu"
+Named Entities: [4-star (Rating), brunch menu (Amenity)]

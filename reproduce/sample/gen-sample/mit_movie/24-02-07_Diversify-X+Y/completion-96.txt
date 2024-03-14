@@ -1,0 +1,8 @@
+Query: "I'm looking for a movie with a really twisty plot, something like E or Interstellar"
+Named Entities: [twisty plot (Plot), E (Title), Interstellar (Title)]
+
+Query: "I can't decide what to watch, maybe a movie from 2005 with a well-executed story"
+Named Entities: [2005 (Year), well-executed story (Plot)]
+
+Query: "I'm in the mood for something classic, like The Wizard of Oz, can you suggest a movie with a similar feel?"
+Named Entities: [The Wizard of Oz (Title)]

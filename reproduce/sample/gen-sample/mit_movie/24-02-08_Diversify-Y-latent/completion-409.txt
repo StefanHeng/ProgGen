@@ -1,0 +1,8 @@
+Query: "what are some movies that feature the character Atticus Finch"
+Named Entities: [Atticus Finch (Character)]
+
+Query: "can you recommend a film-noir movie that is nostalgic and was released in 2007"
+Named Entities: [film-noir (Genre), nostalgic (Viewers' Rating), 2007 (Year)]
+
+Query: "show me an extended look at the Captain America movie that is rated NR and suitable for TV-G audiences"
+Named Entities: [extended look (Trailer), Captain America (Character), NR (MPAA Rating), TV-G (MPAA Rating)]

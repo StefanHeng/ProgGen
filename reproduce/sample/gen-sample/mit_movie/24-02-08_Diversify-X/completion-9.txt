@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the special effects in the latest Avengers movie?"
+Named Entities: [Avengers (Title), special effects (Plot)]
+
+2. Query: "Who directed the Transformers movie that came out in 2007?"
+Named Entities: [Transformers (Title), 2007 (Year), directed (Director)]
+
+3. Query: "Show me a trailer for the new Spider-Man movie with Tom Holland."
+Named Entities: [Spider-Man (Title), Tom Holland (Actor), trailer (Trailer)]

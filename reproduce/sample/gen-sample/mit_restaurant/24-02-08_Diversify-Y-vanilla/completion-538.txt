@@ -1,0 +1,8 @@
+Query: "Can you recommend a good Italian restaurant with outdoor seating?"
+Named Entities: [good (Rating), Italian (Cuisine), outdoor seating (Amenity)]
+
+Query: "What are the hours for The Cheesecake Factory in downtown?"
+Named Entities: [The Cheesecake Factory (Restaurant Name), downtown (Location), hours (Hours)]
+
+Query: "I'm craving some sushi, where can I find a place with affordable prices?"
+Named Entities: [sushi (Cuisine), affordable prices (Price)]

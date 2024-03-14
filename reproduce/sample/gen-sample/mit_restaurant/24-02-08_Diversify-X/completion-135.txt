@@ -1,0 +1,8 @@
+1. "Can you recommend a high-end café with a good selection of pastries and desserts"
+Named Entities: [high-end (Price), café (Amenity), pastries and desserts (Dish)]
+
+2. "What's the best high-priced café near the theater district"
+Named Entities: [best (Rating), high-priced (Price), café (Amenity), theater district (Location)]
+
+3. "I'm looking for an upscale café that serves brunch on the weekends"
+Named Entities: [upscale (Price), café (Amenity), brunch (Dish), weekends (Hours)]

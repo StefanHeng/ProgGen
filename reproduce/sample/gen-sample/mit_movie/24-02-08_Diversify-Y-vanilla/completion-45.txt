@@ -1,0 +1,8 @@
+1. "Can you tell me the director of the movie Singin' in the Rain?"
+Named Entities: [Singin' in the Rain (Title)]
+
+2. "I want to see a trailer for the movie Deadpool. Is it rated PG-13?"
+Named Entities: [Deadpool (Title), PG-13 (MPAA Rating), trailer (Trailer)]
+
+3. "What is the plot of the movie that features the song Sweet Child O’ Mine?"
+Named Entities: [Sweet Child O’ Mine (Song)]

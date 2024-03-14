@@ -1,0 +1,8 @@
+1. "What time does Ruth's Chris Steak House close tonight?"
+Named Entities: [Ruth's Chris Steak House (Restaurant Name), tonight (Hours)]
+
+2. "I'm in the mood for some authentic Portuguese food, where can I find a good restaurant?"
+Named Entities: [Portuguese (Cuisine)]
+
+3. "Do you know of any restaurants nearby with a high rating for seafood dishes?"
+Named Entities: [high (Rating), seafood dishes (Dish)]

@@ -1,0 +1,11 @@
+1. Query: "can you recommend a movie with a {{thrilling}} and exciting score"
+Text Span: "thrilling"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "what is considered the {{most divisive}} supernatural movie of the past decade"
+Text Span: "most divisive"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "What's the most action-packed film of all time according to {{viewers}}?"
+Text Span: "viewers"
+Label: (C). Wrong Type. The correct entity type is Viewers' Rating.

@@ -1,0 +1,8 @@
+1. Text Span: "French President Macron"
+Label: (B). The correct span boundary is "President Macron".
+
+2. Text Span: "President Macron"
+Label: (A).
+
+3. Text Span: "Bob Dylan"
+Label: (A).

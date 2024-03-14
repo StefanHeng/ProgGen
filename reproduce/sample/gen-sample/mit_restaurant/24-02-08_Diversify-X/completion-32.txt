@@ -1,0 +1,8 @@
+Query: "Can you recommend a place with a reasonably priced buffet for lunch?"
+Named Entities: [reasonably priced (Price), buffet (Amenity), lunch (Amenity)]
+
+Query: "I'm in the mood for a seafood buffet, where should I go?"
+Named Entities: [seafood (Cuisine), buffet (Amenity)]
+
+Query: "Is there a 24-hour restaurant nearby that offers a breakfast buffet?"
+Named Entities: [24-hour (Hours), breakfast (Cuisine), buffet (Amenity)]

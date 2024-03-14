@@ -1,0 +1,8 @@
+1. Query: "Can you provide information on the making-of documentary for the film The Lord of the Rings: The Fellowship of the Ring?"
+Named Entities: [The Lord of the Rings: The Fellowship of the Ring (Title), making-of documentary (Plot)]
+
+2. Query: "I'm interested in learning about the director's commentary for the movie Inception. Where can I find it?"
+Named Entities: [Inception (Title), director's commentary (Plot)]
+
+3. Query: "Are there any special features or bonus content available for the Blu-ray edition of the film Jurassic Park?"
+Named Entities: [Jurassic Park (Title), special features (Plot), bonus content (Plot), Blu-ray edition (MPAA Rating)]

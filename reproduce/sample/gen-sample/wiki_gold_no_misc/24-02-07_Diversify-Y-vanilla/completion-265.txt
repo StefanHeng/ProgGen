@@ -1,0 +1,8 @@
+Sentence: "The company announced that it will be expanding its operations to several new cities."
+Named Entities: [company (organization)]
+
+Sentence: "She was born and raised in Los Angeles, California."
+Named Entities: [Los Angeles (location), California (location)]
+
+Sentence: "The author's latest novel, published by Random House, has received mixed reviews."
+Named Entities: [Random House (organization)]

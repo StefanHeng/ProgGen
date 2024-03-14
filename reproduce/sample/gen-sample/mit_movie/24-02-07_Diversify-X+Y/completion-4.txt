@@ -1,0 +1,8 @@
+1. "Hey, I heard people really loved the crime spree movie, is it true?"
+Named Entities: [crime spree (Title), loved (Review)]
+
+2. "Have you seen Into the Woods? What's the rating on that one?"
+Named Entities: [Into the Woods (Title), rating (Viewers' Rating)]
+
+3. "Is David O. Russell's new film rated R? What's it about?"
+Named Entities: [David O. Russell (Director), rated R (MPAA Rating)]

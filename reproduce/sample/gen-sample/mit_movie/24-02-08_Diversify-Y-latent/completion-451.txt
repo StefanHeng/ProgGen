@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the movie directed by Lynne Ramsay?"
+Named Entities: [Lynne Ramsay (Director)]
+
+2. Query: "I want to watch The Irishman, can you provide me with the viewers' rating?"
+Named Entities: [The Irishman (Title), viewers' rating (Viewers' Rating)]
+
+3. Query: "Where can I find information about the original Mary Poppins movie?"
+Named Entities: [Mary Poppins (Title)]

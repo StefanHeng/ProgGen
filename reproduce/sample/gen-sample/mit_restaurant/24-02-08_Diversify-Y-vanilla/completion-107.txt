@@ -1,0 +1,8 @@
+Query: "can you recommend any outstanding restaurants in the area"
+Named Entities: [outstanding (Rating), restaurants (Amenity), area (Location)]
+
+Query: "where can I find upscale dining for a special occasion"
+Named Entities: [upscale dining (Amenity), special occasion (Amenity)] 
+
+Query: "what are the opening hours for the finest Japanese restaurant in town"
+Named Entities: [finest Japanese restaurant (Restaurant Name), opening hours (Hours), town (Location)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a Good Food Guide rating?"
+Named Entities: [Good Food Guide rating (Amenity)]
+
+2. "I'm looking for a place that has been included in the San Pellegrino World's 50 Best Restaurants list."
+Named Entities: [San Pellegrino World's 50 Best Restaurants (Amenity)]
+
+3. "I want to have a meal at a restaurant with a Michelin star. Where can I find one?"
+Named Entities: [Michelin star (Amenity)]

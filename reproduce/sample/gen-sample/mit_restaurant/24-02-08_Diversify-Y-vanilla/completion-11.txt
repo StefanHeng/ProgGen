@@ -1,0 +1,8 @@
+Query: "Can you suggest any restaurants near [Dave & Buster's] with a high rating"
+Named Entities: [high (Rating), [Dave & Buster's] (Restaurant Name)]
+
+Query: "I'm craving some burgers, where's the closest place to [Dave & Buster's]"
+Named Entities: [closest (Location), burgers (Cuisine), [Dave & Buster's] (Restaurant Name)]
+
+Query: "Find me a restaurant with outdoor seating and a casual atmosphere near [Dave & Buster's]"
+Named Entities: [outdoor seating (Amenity), casual (Amenity), [Dave & Buster's] (Restaurant Name)]

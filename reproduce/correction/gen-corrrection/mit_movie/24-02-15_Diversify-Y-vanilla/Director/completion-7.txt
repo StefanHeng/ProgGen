@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie with {{Steven Spielberg}} as the director and a strong female character?"
+Text Span: "Steven Spielberg"
+Label: (A). The span is a named entity of type director
+
+2. Query: "what is the viewers' rating for the romantic comedy directed by {{nora ephron}} and released in 1993"
+Text Span: "nora ephron"
+Label: (A). The span is a named entity of type director
+
+3. Query: "Who {{directed}} the film that features the character Jack Dawson?"
+Text Span: "directed"
+Label: (D). Not a Named Entity.

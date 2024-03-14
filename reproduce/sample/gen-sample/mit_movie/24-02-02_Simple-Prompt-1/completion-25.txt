@@ -1,0 +1,44 @@
+1. What is the plot of the movie Inception?
+Named Entities: [Inception (Title), plot (Plot)]
+
+2. Which movies were directed by Christopher Nolan?
+Named Entities: [Christopher Nolan (Director)]
+
+3. Show me a movie with a high viewers' rating.
+Named Entities: [high viewers' rating (Viewers' Rating)]
+
+4. What is the MPAA rating for the film The Dark Knight?
+Named Entities: [The Dark Knight (Title), MPAA rating (MPAA Rating)]
+
+5. Can you recommend a good action movie from the 90s?
+Named Entities: [action (Genre), 90s (Year)]
+
+6. Who plays the character of Harry Potter in the movie series?
+Named Entities: [Harry Potter (Character)]
+
+7. I need a movie that features the song "My Heart Will Go On".
+Named Entities: ["My Heart Will Go On" (Song)]
+
+8. What is your favorite romance movie?
+Named Entities: [romance (Genre)]
+
+9. Show me a movie review for The Shawshank Redemption.
+Named Entities: [The Shawshank Redemption (Title), movie review (Review)]
+
+10. What is the title of the highest-grossing movie of all time?
+Named Entities: [highest-grossing (Viewers' Rating)]
+
+11. Did Tom Hanks appear in any science fiction movies?
+Named Entities: [Tom Hanks (Actor), science fiction (Genre)]
+
+12. Can I watch a trailer for the latest James Bond movie?
+Named Entities: [latest (Year), James Bond (Character), trailer (Trailer)]
+
+13. Which movies directed by Steven Spielberg have won Oscars?
+Named Entities: [Steven Spielberg (Director), Oscars (Viewers' Rating)]
+
+14. What is the viewers' rating for the movie The Godfather?
+Named Entities: [The Godfather (Title), viewers' rating (Viewers' Rating)]
+
+15. I'm looking for a comedy film from the 80s.
+Named Entities: [comedy (Genre), 80s (Year)]

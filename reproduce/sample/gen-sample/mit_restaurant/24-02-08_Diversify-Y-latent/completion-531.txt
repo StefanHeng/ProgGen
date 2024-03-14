@@ -1,0 +1,8 @@
+1. "What are the operating hours for The Mandarin Buffet in the downtown area?"
+Named Entities: [The Mandarin Buffet (Restaurant Name), downtown area (Location), operating hours (Hours)]
+
+2. "I'm in the mood for some sushi, where can I find a good sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), nearby (Location)]
+
+3. "I'm looking for a restaurant that offers a prix fixe menu for dinner under 50 dollars."
+Named Entities: [prix fixe menu (Amenity), under 50 dollars (Price)]

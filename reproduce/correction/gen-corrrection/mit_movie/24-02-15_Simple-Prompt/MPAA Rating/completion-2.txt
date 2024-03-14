@@ -1,0 +1,11 @@
+1. Query: 'Is "Inglourious Basterds" a {{violent}} movie?'
+Text Span: "violent"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Query: "Is The Matrix movie rated {{R}}?"
+Text Span: "R"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Are there any horror movies with a {{PG-13}} rating?"
+Text Span: "PG-13"
+Label: (A). Correct Entity Annotation.

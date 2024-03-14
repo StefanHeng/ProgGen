@@ -1,0 +1,11 @@
+1. Query: "Can you recommend a movie with a {{really high viewers' rating}}?"
+Text Span: "really high viewers' rating"
+Label: (A). Viewers' Rating
+
+2. Query: "What are the {{top-rated}} sci-fi movies released in the past 5 years"
+Text Span: "top-rated"
+Label: (A). Viewers' Rating
+
+3. Query: "can you tell me about the {{highest-rated}} film in terms of viewers' ratings"
+Text Span: "highest-rated"
+Label: (A). Viewers' Rating

@@ -1,0 +1,8 @@
+1. Text Span: "GP-rated"
+Label: (C). The span is not a named entity
+
+2. Text Span: "R"
+Label: (A). The span is a named entity of type mpaa rating
+
+3. Text Span: "not rated"
+Label: (C). The span is not a named entity

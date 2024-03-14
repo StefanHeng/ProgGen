@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant in Paris with a chic urban ambience and paleo options"
+Named Entities: [buffet (Amenity), Paris (Location), urban/chic (Amenity), paleo (Cuisine)]
+
+Query: "I'm looking for a Mediterranean restaurant in Paris with a buffet and a chic urban atmosphere"
+Named Entities: [Mediterranean (Cuisine), Paris (Location), buffet (Amenity), urban/chic (Amenity)]
+
+Query: "Where can I find BBQ ribs in Paris with a chic urban atmosphere and a buffet option for paleo eaters"
+Named Entities: [BBQ ribs (Dish), Paris (Location), urban/chic (Amenity), buffet (Amenity), paleo (Cuisine)]

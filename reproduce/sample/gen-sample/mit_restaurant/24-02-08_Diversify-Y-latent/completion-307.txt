@@ -1,0 +1,8 @@
+1. "Where can I find some lunch bargains in the neighborhood?"
+Named Entities: [lunch bargains (Amenity), neighborhood (Location)]
+
+2. "I'm craving sushi, is there a good Japanese restaurant nearby?"
+Named Entities: [sushi (Dish), Japanese restaurant (Cuisine), nearby (Location)]
+
+3. "What's a highly-rated seafood restaurant with outdoor seating and a view of the ocean?"
+Named Entities: [highly-rated (Rating), seafood restaurant (Cuisine), outdoor seating (Amenity), view of the ocean (Amenity)]

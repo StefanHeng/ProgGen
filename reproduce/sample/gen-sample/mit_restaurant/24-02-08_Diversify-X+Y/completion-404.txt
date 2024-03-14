@@ -1,0 +1,8 @@
+Query: "I'm craving some gluten-free ribs for lunch, can you recommend a restaurant with a mid-range price?"
+Named Entities: [gluten-free (Cuisine), ribs (Dish), mid-range (Price)]
+
+Query: "Where can I find a pet-friendly patio to enjoy lunch at Yard House?"
+Named Entities: [pet-friendly patio (Amenity), Yard House (Restaurant Name)]
+
+Query: "I'm looking for a mid-range restaurant with gluten-free options for lunch. Any suggestions?"
+Named Entities: [mid-range (Price), gluten-free (Cuisine)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a slapstick comedy film from the 1990s?"
+Named Entities: [slapstick (Genre), 1990s (Year)]
+
+2. "I'm really fond of Kathryn Bigelow's work. Can you suggest a movie directed by her with an extended preview?"
+Named Entities: [Kathryn Bigelow (Director), extended preview (Trailer)]
+
+3. "I'd like to watch a movie approved for all ages. How about something from The Godfather series?"
+Named Entities: [The Godfather (Title), Approved (MPAA Rating)]

@@ -1,0 +1,139 @@
+1. The United Nations Global Compact is a non-binding United Nations pact to encourage businesses worldwide to adopt sustainable and socially responsible policies, and to report on their implementation.
+Named Entities: [United Nations Global Compact (organization)]
+
+2. The Taj Mahal is located on the right bank of the Yamuna River in a vast Mughal garden in Agra.
+Named Entities: [Taj Mahal (location), Yamuna River (location), Agra (location), Mughal (organization)]
+
+3. In 1905, the Trans-Siberian Railway was completed, enabling continuous travel by rail from Europe to the Pacific.
+Named Entities: [Trans-Siberian Railway (organization), Europe (location), Pacific (location)]
+
+4. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location)]
+
+5. The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civilian space program.
+Named Entities: [National Aeronautics and Space Administration (organization), U.S. (location)]
+
+6. Florence Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organized care for wounded soldiers.
+Named Entities: [Florence Nightingale (person), Crimean War (location)]
+
+7. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+
+8. Marie Curie was the first woman to win a Nobel Prize, and is the only woman to win the award in two different fields.
+Named Entities: [Marie Curie (person), Nobel Prize (organization)]
+
+9. Germanium is a chemical element with the symbol Ge and atomic number 32.
+Named Entities: [Germanium (location)]
+
+10. Google LLC is an American multinational technology company that specializes in Internet-related services and products.
+Named Entities: [Google LLC (organization), American (location)]
+
+11. Mount Everest, at 8,848 meters, is the world's highest mountain and a particularly desirable peak for mountaineers.
+Named Entities: [Mount Everest (location)]
+
+12. Adolf Hitler was a German politician and leader of the Nazi Party.
+Named Entities: [Adolf Hitler (person), Nazi Party (organization), German (location)]
+
+13. The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers.
+Named Entities: [Great Barrier Reef (location)]
+
+14. The International Monetary Fund is an international organization headquartered in Washington, D.C., consisting of 190 countries working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world.
+Named Entities: [International Monetary Fund (organization), Washington, D.C. (location)]
+
+15. Isaac Newton was an English mathematician, physicist, and astronomer, widely recognized as one of the most influential scientists of all time and a key figure in the scientific revolution.
+Named Entities: [Isaac Newton (person), English (location)]
+
+16. The Amazon River in South America is the largest river by discharge volume of water in the world.
+Named Entities: [Amazon River (location), South America (location)]
+
+17. The Roman Empire, at its height, controlled much of the Mediterranean region, including present-day Italy, Spain, and parts of the Middle East.
+Named Entities: [Roman Empire (organization), Mediterranean (location), Italy (location), Spain (location), Middle East (location)]
+
+18. The United States Declaration of Independence, drafted by Thomas Jefferson, is a document asserting the independence of the thirteen colonies from Great Britain.
+Named Entities: [United States Declaration of Independence (organization), Thomas Jefferson (person), Great Britain (location)]
+
+19. The International Space Station is a modular space station orbiting Earth at an average altitude of 420 kilometers.
+Named Entities: [International Space Station (organization), Earth (location)]
+
+20. William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist.
+Named Entities: [William Shakespeare (person), English (location)]
+
+21. The World Health Organization is a specialized agency of the United Nations responsible for international public health.
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+22. The Sahara Desert is the largest hot desert in the world, stretching across much of North Africa.
+Named Entities: [Sahara Desert (location), North Africa (location)]
+
+23. The European Union is a political and economic union of 27 member states located primarily in Europe.
+Named Entities: [European Union (organization), Europe (location)]
+
+24. The Nile River is the longest river in the world, flowing through northeastern Africa.
+Named Entities: [Nile River (location), Africa (location)]
+
+25. Plato was a philosopher in Classical Greece and the founder of the Academy in Athens, the first institution of higher learning in the Western world.
+Named Entities: [Plato (person), Academy in Athens (organization), Classical Greece (location), Western (location)]
+
+26. The United Nations is an international organization founded in 1945 after World War II to promote peace, security, and international cooperation.
+Named Entities: [United Nations (organization), World War II (organization)]
+
+27. Leonardo da Vinci was an Italian polymath, known for his contributions in the fields of art, science, and engineering.
+Named Entities: [Leonardo da Vinci (person), Italian (location)]
+
+28. The Berlin Wall separated East and West Berlin from 1961 to 1989, dividing the city and symbolizing the ideological divide of the Cold War.
+Named Entities: [Berlin Wall (location), East Berlin (location), West Berlin (location), Cold War (organization)]
+
+29. The Himalayas, a mountain range in Asia, have the highest peaks in the world, including Mount Everest and K2.
+Named Entities: [Himalayas (location), Asia (location), Mount Everest (location), K2 (location)]
+
+30. The Indian Ocean is the third-largest of the world's oceanic divisions, covering 70,560,000 km2.
+Named Entities: [Indian Ocean (location)]
+
+31. Nelson Mandela was a South African anti-apartheid revolutionary and politician who served as President of South Africa from 1994 to 1999.
+Named Entities: [Nelson Mandela (person), South African (location), President of South Africa (organization)]
+
+32. The Bill and Melinda Gates Foundation is a private foundation founded by Microsoft co-founder Bill Gates and his former wife Melinda French Gates.
+Named Entities: [Bill and Melinda Gates Foundation (organization), Microsoft (organization), Bill Gates (person), Melinda French Gates (person)]
+
+33. The Andes are the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+Named Entities: [Andes (location), South America (location)]
+
+34. Charles Darwin's theory of evolution by natural selection is a fundamental concept in modern biology.
+Named Entities: [Charles Darwin (person)]
+
+35. The Statue of Liberty, a symbol of freedom, is located on Liberty Island in New York Harbor.
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location)]
+
+36. The Metropolitan Museum of Art, also known as the Met, is located in New York City and is the largest art museum in the United States.
+Named Entities: [Metropolitan Museum of Art (organization), Met (organization), New York City (location), United States (location)]
+
+37. The World Trade Organization is an intergovernmental organization that regulates international trade, headquartered in Geneva, Switzerland.
+Named Entities: [World Trade Organization (organization), Geneva (location), Switzerland (location)]
+
+38. The Pacific Ocean is the largest and deepest of Earth's oceanic divisions, covering 46% of the planet's water surface area.
+Named Entities: [Pacific Ocean (location), Earth (location)]
+
+39. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, a fundamental concept in physics.
+Named Entities: [Albert Einstein (person), German (location)]
+
+40. The Louvre Museum, located in Paris, France, is the world's largest art museum and a historic monument.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+41. Barack Obama served as the 44th President of the United States from 2009 to 2017.
+Named Entities: [Barack Obama (person), President of the United States (organization)]
+
+42. The Gobi Desert, in northern China and southern Mongolia, is the largest desert in Asia and the fifth-largest in the world.
+Named Entities: [Gobi Desert (location), China (location), Mongolia (location), Asia (location)]
+
+43. The Federal Bureau of Investigation is the domestic intelligence and security service of the United States, and its principal federal law enforcement agency.
+Named Entities: [Federal Bureau of Investigation (organization), United States (location)]
+
+44. The Great Pyramid of Giza, the oldest and largest of the three pyramids in the Giza pyramid complex, is located in Egypt.
+Named Entities: [Great Pyramid of Giza (location), Giza (location), Egypt (location)]
+
+45. William the Conqueror was the first Norman King of England, reigning from 1066 until his death in 1087.
+Named Entities: [William the Conqueror (person), Norman (location), England (location)]
+
+46. The Pantheon, a former Roman temple and now a church, is located in Rome, Italy.
+Named Entities: [Pantheon (location), Rome (location), Italy (location)]
+
+47. Elizabeth I was the Queen of England and Ireland from 1558

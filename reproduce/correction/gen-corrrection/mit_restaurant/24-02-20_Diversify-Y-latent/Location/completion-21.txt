@@ -1,0 +1,11 @@
+1. Query: "What are the top-rated Italian restaurants in this {{area}}?"
+Text Span: "area"
+Label: (B). Wrong Boundary. The correct span boundary is "in this area".
+
+2. Query: "What's a good restaurant {{nearby}} that stays open late and has outdoor seating?"
+Text Span: "nearby"
+Label: (A). Correct Entity Annotation.
+
+3. Query: "Can you recommend a restaurant in the {{community}} that serves delicious pulled pork?"
+Text Span: "community"
+Label: (A). Correct Entity Annotation.

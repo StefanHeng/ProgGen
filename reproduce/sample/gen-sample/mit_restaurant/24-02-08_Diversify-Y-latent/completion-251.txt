@@ -1,0 +1,8 @@
+1. "Where can I find the best huevos rancheros in town?"
+Named Entities: [huevos rancheros (Dish)]
+
+2. "What's the nearest restaurant that serves Rise and Dine breakfast specials?"
+Named Entities: [Rise and Dine (Amenity)]
+
+3. "Recommend a cozy restaurant with a good ambiance and affordable prices for dinner."
+Named Entities: [cozy (Amenity), good (Rating), affordable prices (Price), dinner (Amenity)]

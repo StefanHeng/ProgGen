@@ -1,0 +1,8 @@
+1. "I'm craving some chili cheese fries, where can I find the best ones nearby?"
+Named Entities: [chili cheese fries (Dish), nearby (Location)]
+
+2. "What's the closest Chipotle with good ratings?"
+Named Entities: [Chipotle (Restaurant Name), closest (Location), good ratings (Rating)]
+
+3. "I want to try some authentic Mexican cuisine for a reasonable price, where should I go?"
+Named Entities: [authentic Mexican cuisine (Cuisine), reasonable price (Price) ]

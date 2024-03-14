@@ -1,0 +1,8 @@
+Query: "Can you recommend a good Nicaraguan restaurant in the area?"
+Named Entities: [Nicaraguan (Cuisine), area (Location)]
+
+Query: "What are the opening hours for Chili's?"
+Named Entities: [Chili's (Restaurant Name), opening hours (Hours)]
+
+Query: "I'm looking for a restaurant with a diverse menu and reasonable prices, any suggestions?"
+Named Entities: [diverse (Amenity), reasonable prices (Price)]

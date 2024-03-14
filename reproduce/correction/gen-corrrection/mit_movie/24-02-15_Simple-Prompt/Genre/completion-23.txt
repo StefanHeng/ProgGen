@@ -1,0 +1,8 @@
+1. Text Span: "movie genre"
+Label: (C). Wrong Type. The correct entity type is Genre.
+
+2. Text Span: "psychological thriller"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "sci-fi"
+Label: (A). Correct Entity Annotation.

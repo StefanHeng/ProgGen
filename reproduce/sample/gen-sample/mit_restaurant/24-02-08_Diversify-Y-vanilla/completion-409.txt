@@ -1,0 +1,8 @@
+1. "Can you recommend any Italian restaurants in New York City with a 5-star rating?"
+   Named Entities: [Italian (Cuisine), New York City (Location), 5-star (Rating)]
+
+2. "What are the opening hours for seafood places near Times Square?"
+   Named Entities: [seafood (Cuisine), Times Square (Location), opening hours (Hours)]
+
+3. "I'm craving sushi. Where can I find a good sushi bar in New York City that's affordable?"
+   Named Entities: [sushi (Cuisine), New York City (Location), affordable (Price)]

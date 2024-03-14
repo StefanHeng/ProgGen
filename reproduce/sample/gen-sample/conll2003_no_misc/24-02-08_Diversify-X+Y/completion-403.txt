@@ -1,0 +1,8 @@
+Sentence: "A24 Films wins big at the Academy Awards."
+Named Entities: [A24 Films (organization), Academy Awards (organization)]
+
+Sentence: "Broadway theaters set to reopen with new blockbuster productions."
+Named Entities: [Broadway (location)]
+
+Sentence: "Oprah Winfrey to star in new film produced by A24 Films."
+Named Entities: [Oprah Winfrey (person), A24 Films (organization)]

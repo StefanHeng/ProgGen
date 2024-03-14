@@ -1,0 +1,8 @@
+1. "Can you find a movie with a blues soundtrack directed by Justin Lin?"
+Named Entities: [blues (Genre), Justin Lin (Director)]
+
+2. "I'm looking for a movie with an amazing concert pianist played by Kate Winslet"
+Named Entities: [concert pianist (Character), Kate Winslet (Actor)]
+
+3. "Is there a movie featuring a character named James T. Kirk and a memorable soundtrack?"
+Named Entities: [James T. Kirk (Character)]

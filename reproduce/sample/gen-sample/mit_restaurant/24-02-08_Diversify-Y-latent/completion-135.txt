@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant near Gramercy Tavern with a Michelin star rating?"
+Named Entities: [Gramercy Tavern (Location), Michelin star rating (Rating)]
+
+2. "I'm in the mood for Italian cuisine, can you suggest a restaurant that serves pasta dishes near Gramercy Tavern?"
+Named Entities: [Italian (Cuisine), pasta dishes (Dish), near Gramercy Tavern (Location)]
+
+3. "What are the operating hours of the restaurant closest to Gramercy Tavern?"
+Named Entities: [operating hours (Hours), closest to Gramercy Tavern (Location)]

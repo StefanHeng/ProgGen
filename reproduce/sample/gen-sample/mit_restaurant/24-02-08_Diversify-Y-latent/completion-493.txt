@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with a good rating near me for beef stir-fry?"
+Named Entities: [good (Rating), Near me (Location), beef stir-fry (Dish)]
+
+Query: "I'm looking for a place with outdoor seating and a diverse menu"
+Named Entities: [outdoor seating (Amenity), diverse menu (Cuisine)]
+
+Query: "What are the operating hours for the Italian restaurant on Main Street?"
+Named Entities: [Italian (Cuisine), Main Street (Location), operating hours (Hours)]

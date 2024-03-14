@@ -1,0 +1,8 @@
+Query: "Can you recommend a good action movie that came out in the 1990s"
+Named Entities: [action movie (Genre), 1990s (Year)]
+
+Query: "I'm in the mood for a suspense thriller with a strong female lead, can you suggest one for me"
+Named Entities: [suspense thriller (Genre), strong female lead (Character)]
+
+Query: "What are some classic romantic comedies from the 1980s"
+Named Entities: [romantic comedies (Genre), 1980s (Year)]

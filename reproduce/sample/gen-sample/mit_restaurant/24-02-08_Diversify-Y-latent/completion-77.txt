@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with delicious mussels?"
+Named Entities: [Mussels (Dish)]
+
+Query: "Where is the nearest beverage bar?"
+Named Entities: [nearest (Location), Beverage bar (Amenity)]
+
+Query: "I'm craving some seafood, do you know of any place with a good seafood menu?"
+Named Entities: [seafood (Cuisine)]

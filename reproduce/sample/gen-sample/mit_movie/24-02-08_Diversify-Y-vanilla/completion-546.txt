@@ -1,0 +1,8 @@
+Query: "What is the genre of the film Mad Max: Fury Road?"
+Named Entities: [Mad Max: Fury Road (Title)]
+
+Query: "Can you recommend a gripping movie with an unrated version?"
+Named Entities: [gripping (Review), unrated (MPAA Rating)]
+
+Query: "Show me a teaser video for the 2008 movie Iron Man"
+Named Entities: [teaser video (Trailer), Iron Man (Title), 2008 (Year)]

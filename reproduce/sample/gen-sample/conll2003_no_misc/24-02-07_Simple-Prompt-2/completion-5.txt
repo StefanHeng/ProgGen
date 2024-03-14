@@ -1,0 +1,29 @@
+1. The United Nations has declared a humanitarian crisis in the war-torn country.
+Named Entities: [United Nations (organization)]
+
+2. The CEO of Google, Sundar Pichai, announced their plans to invest in renewable energy.
+Named Entities: [Google (organization), Sundar Pichai (person)]
+
+3. The annual meeting of the World Health Organization will take place in Geneva next month.
+Named Entities: [World Health Organization (organization), Geneva (location)]
+
+4. The Prime Minister of Canada, Justin Trudeau, unveiled a new economic stimulus package.
+Named Entities: [Canada (location), Justin Trudeau (person)]
+
+5. The United States experienced a record-breaking heatwave last week, with temperatures reaching over 100 degrees in some areas.
+Named Entities: [United States (location)]
+
+6. The European Union is implementing new regulations to improve data privacy for its citizens.
+Named Entities: [European Union (organization)]
+
+7. The Mayor of London, Sadiq Khan, announced plans to expand the city's public transportation system.
+Named Entities: [London (location), Sadiq Khan (person)]
+
+8. NASA is preparing for a historic mission to Mars, with plans to send humans to the red planet by 2030.
+Named Entities: [NASA (organization), Mars (location)]
+
+9. The CEO of Microsoft, Satya Nadella, revealed the company's plans for expansion into the healthcare industry.
+Named Entities: [Microsoft (organization), Satya Nadella (person)]
+
+10. The United Nations Climate Change Conference will be held in Glasgow later this year.
+Named Entities: [United Nations (organization), Glasgow (location)]

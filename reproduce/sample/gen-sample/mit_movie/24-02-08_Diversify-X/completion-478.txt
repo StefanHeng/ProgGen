@@ -1,0 +1,8 @@
+1. "Can I buy tickets for the new Spider-Man movie directed by Jon Watts?"
+   Named Entities: [Spider-Man (Title), Jon Watts (Director)]
+
+2. "What's the showtime for the action movie with a high viewers' rating?"
+   Named Entities: [action (Genre), high viewers' rating (Viewers' Rating)]
+
+3. "Do you have any tickets available for the musical film directed by Damien Chazelle?"
+   Named Entities: [musical (Genre), Damien Chazelle (Director)]

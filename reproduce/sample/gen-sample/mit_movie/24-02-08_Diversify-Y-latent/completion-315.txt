@@ -1,0 +1,8 @@
+1. Query: "What crime movies were directed by Christopher Nolan?"
+Named Entities: [crime (Genre), Christopher Nolan (Director)]
+
+2. Query: "Is Pitch Perfect a musical film?"
+Named Entities: [Pitch Perfect (Title), musical (Genre)]
+
+3. Query: "Can you recommend a mind-blowing movie starring Saoirse Ronan?"
+Named Entities: [mind-blowing (Viewers' Rating), Saoirse Ronan (Actor)]

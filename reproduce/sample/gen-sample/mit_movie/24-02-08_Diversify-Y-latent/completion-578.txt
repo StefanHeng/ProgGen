@@ -1,0 +1,8 @@
+1. Query: "What movie genre did the film Back to the Future belong to and who was the director?"
+Named Entities: [Back to the Future (Title), genre (Genre), director (Director)]
+
+2. Query: "Are there any movies with breathtaking performances from the year 2006 that I should watch?"
+Named Entities: [2006 (Year), breathtaking performances (Review)]
+
+3. Query: "Name a movie from 1982 with great screen presence and the name of the producer"
+Named Entities: [1982 (Year), great screen presence (Review), producer (Producer)]

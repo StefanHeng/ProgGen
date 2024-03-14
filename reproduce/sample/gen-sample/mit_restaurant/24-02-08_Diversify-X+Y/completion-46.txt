@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant with an intimate ambience for a brunch date?"
+Named Entities: [intimate (Amenity), brunch (Amenity)]
+
+Query: "I'm looking for an Indian restaurant with a cozy atmosphere for a brunch gathering, do you have any suggestions?"
+Named Entities: [Indian (Cuisine), cozy (Amenity), brunch (Amenity)]
+
+Query: "Where can I find an intimate brunch spot with Indian cuisine nearby?"
+Named Entities: [intimate (Amenity), brunch (Amenity), Indian (Cuisine)]

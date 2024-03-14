@@ -1,0 +1,8 @@
+1. The company was founded in 2009 and has since grown into a multinational corporation.
+Named Entities: [2009 (time), multinational corporation (organization)]
+
+2. After graduating from Harvard University, she joined the United Nations Development Programme.
+Named Entities: [Harvard University (location), United Nations Development Programme (organization)]
+
+3. The artist's famous painting, Mona Lisa, currently hangs in the Louvre Museum in Paris.
+Named Entities: [Mona Lisa (person), Louvre Museum (location), Paris (location)]

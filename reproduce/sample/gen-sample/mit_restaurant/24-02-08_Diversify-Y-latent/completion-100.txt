@@ -1,0 +1,8 @@
+1. "I'm looking for a restaurant with a $15 entree and a beverage station."
+Named Entities: [restaurant (Amenity), $15 (Price), beverage station (Amenity)]
+
+2. "Can you recommend a place with a good rating that serves Italian cuisine?"
+Named Entities: [good rating (Rating), Italian cuisine (Cuisine)]
+
+3. "What are the hours of the closest seafood restaurant?"
+Named Entities: [hours (Hours), closest seafood restaurant (Location)]

@@ -1,0 +1,8 @@
+1. "Where can I find a food truck with drive-thru service at Big Mama's BBQ?"
+Named Entities: [food truck (Amenity), drive-thru (Amenity), Big Mama's BBQ (Restaurant Name)]
+
+2. "I'm in the mood for some delicious burritos from a food truck. Any recommendations?"
+Named Entities: [burritos (Dish), food truck (Amenity)]
+
+3. "As a 50-year-old male doctor, I'm looking for a food truck with drive-thru service. Any suggestions near Big Mama's BBQ?"
+Named Entities: [50-year-old male doctor (none), food truck (Amenity), drive-thru (Amenity), Big Mama's BBQ (Restaurant Name)]

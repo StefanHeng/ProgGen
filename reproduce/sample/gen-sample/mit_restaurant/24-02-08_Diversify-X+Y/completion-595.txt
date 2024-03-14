@@ -1,0 +1,8 @@
+1. "Can you recommend a budget-friendly Italian restaurant with outdoor seating for dinner?"
+Named Entities: [Italian (Cuisine), outdoor seating (Amenity), dinner (Hours), budget-friendly (Price)]
+
+2. "I'm looking for a casual burger joint that's open late for dinner."
+Named Entities: [burger joint (Restaurant Name), open late (Hours), dinner (Hours), casual (Amenity)]
+
+3. "Where can I find a Mexican restaurant with vegetarian options for dinner?"
+Named Entities: [Mexican (Cuisine), vegetarian options (Dish), dinner (Hours), budget-friendly (Price)]

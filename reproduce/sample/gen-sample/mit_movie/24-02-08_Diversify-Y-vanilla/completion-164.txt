@@ -1,0 +1,8 @@
+1. "Can you recommend any movies with Tessa Thompson that address social issues?"
+   Named Entities: [Tessa Thompson (Actor), social issues (Genre)]
+
+2. "What do people think of Tim Burton's latest film? Is it worth watching? I heard it got a 6 out of 10 rating."
+   Named Entities: [Tim Burton (Director), 6 out of 10 (Viewers' Rating)]
+
+3. "I'm looking for a PG-7 rated movie, but I heard the plot was unconvincing. Can you suggest anything?"
+   Named Entities: [PG-7 (MPAA Rating), unconvincing (Plot)]

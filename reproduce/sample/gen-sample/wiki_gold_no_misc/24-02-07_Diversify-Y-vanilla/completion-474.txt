@@ -1,0 +1,8 @@
+Sentence: "The company expanded its operations to Europe in 2010."
+Named Entities: [Europe (location)]
+
+Sentence: "She graduated from Harvard University with a degree in computer science."
+Named Entities: [Harvard University (organization)]
+
+Sentence: "The artist's latest exhibit, held at the Metropolitan Museum of Art, received critical acclaim."
+Named Entities: [Metropolitan Museum of Art (organization)]

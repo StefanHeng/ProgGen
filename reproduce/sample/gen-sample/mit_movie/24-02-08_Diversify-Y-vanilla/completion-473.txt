@@ -1,0 +1,8 @@
+Query: "recommend an exhilarating action movie from the 1990s"
+Named Entities: [exhilarating (Advisory), 1990s (Year), action movie (Genre)]
+
+Query: "tell me about a biographical film about a famous musician"
+Named Entities: [biographical (Advisory), famous musician (Character)]
+
+Query: "what are the top-rated horror movies directed by Wes Craven"
+Named Entities: [top-rated (Viewers' Rating), Wes Craven (Director), horror movies (Genre)]

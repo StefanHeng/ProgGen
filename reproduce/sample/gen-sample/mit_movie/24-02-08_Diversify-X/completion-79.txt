@@ -1,0 +1,8 @@
+1. "Yo, who's the director of that new action flick with all the explosions and stuff?"
+Named Entities: [action flick (Genre), explosions (Plot)]
+
+2. "What's the deal with that movie where the dude from Avengers plays a spy or something?"
+Named Entities: [dude from Avengers (Actor), spy (Character)]
+
+3. "I heard there's a film coming out soon with that badass actress from the last sci-fi movie. What's it called?"
+Named Entities: [badass actress (Actor), sci-fi movie (Genre)]

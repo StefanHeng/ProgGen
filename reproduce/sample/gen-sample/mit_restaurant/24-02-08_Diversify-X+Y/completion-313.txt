@@ -1,0 +1,8 @@
+1. "I'm craving some late-night sushi roll, can you recommend a place?"
+Named Entities: [late-night (Hours), sushi roll (Dish)]
+
+2. "Where can I find a high-end late-night dining spot like The Nightcap Eatery?"
+Named Entities: [high-end (Price), late-night (Hours), The Nightcap Eatery (Restaurant Name)]
+
+3. "I want to treat myself to an expensive late-night meal, any recommendations for upscale late-night dining?"
+Named Entities: [expensive (Price), late-night (Hours)]

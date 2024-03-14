@@ -1,0 +1,8 @@
+1. Query: "What movie has a captivating plot twist and a 9.5/10 rating?"
+Named Entities: [Captivating plot twists (Plot), 9.5/10 rating (Viewers' Rating)]
+
+2. Query: "Could you provide the first look of the new James Bond film?"
+Named Entities: [first look (Trailer), James Bond (Character)]
+
+3. Query: "What reflective movie directed by Christopher Nolan has the song Time by Hans Zimmer?"
+Named Entities: [Reflective (Genre), Time (Song), Christopher Nolan (Director)]

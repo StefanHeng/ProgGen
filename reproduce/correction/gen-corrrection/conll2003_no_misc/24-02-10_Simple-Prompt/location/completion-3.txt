@@ -1,0 +1,11 @@
+1. Sentence: "German Chancellor Angela Merkel meets with {{French}} President Macron."
+Text Span: "French"
+Label: (C), other
+
+2. Sentence: "Hurricane warning issued for {{Florida}} coast."
+Text Span: "Florida"
+Label: (A)
+
+3. Sentence: "Facebook faces antitrust investigation by {{US}} government."
+Text Span: "US"
+Label: (A)

@@ -1,0 +1,8 @@
+1. "Can you tell me about a recent action movie with a thrilling story?"
+   Named Entities: [action movie (Genre), thrilling story (Plot)]
+
+2. "Who directed the romantic comedy that everyone loved last year?"
+   Named Entities: [romantic comedy (Genre), last year (Year)]
+
+3. "I'm interested in a movie with a powerful soundtrack. Can you recommend one?"
+   Named Entities: [powerful soundtrack (Song)]

@@ -1,0 +1,59 @@
+1. Can you recommend a good Italian restaurant in the area?
+Named Entities: [Italian (Cuisine)]
+
+2. What are the hours for the barbecue place downtown?
+Named Entities: [barbecue (Cuisine), downtown (Location), hours (Hours)]
+
+3. I'm looking for a restaurant with outdoor seating and a view of the water.
+Named Entities: [outdoor seating (Amenity), view of the water (Amenity)]
+
+4. Do you know any restaurants that serve vegetarian dishes?
+Named Entities: [vegetarian (Dish)]
+
+5. Any recommendations for a high-rated sushi place nearby?
+Named Entities: [high-rated (Rating), sushi (Cuisine), nearby (Location)]
+
+6. Can I have the phone number for the burger joint on Main Street?
+Named Entities: [burger joint (Restaurant Name), Main Street (Location)]
+
+7. What's the price range for the Mexican restaurant on 5th Avenue?
+Named Entities: [Mexican (Cuisine), 5th Avenue (Location), price range (Price)]
+
+8. I need a reservation for a table of 4 at 7 pm tonight.
+Named Entities: [table of 4 (Amenity), 7 pm (Hours), tonight (Hours)]
+
+9. Where can I find a good brunch spot around here?
+Named Entities: [good (Rating), brunch (Amenity), around here (Location)]
+
+10. What's the best place for a quick bite to eat?
+Named Entities: [best (Rating), quick bite (Amenity)]
+
+11. Are there any Thai restaurants open late in this area?
+Named Entities: [Thai (Cuisine), open late (Hours), this area (Location)]
+
+12. I'm in the mood for some barbecue, where's the closest spot?
+Named Entities: [barbecue (Cuisine), closest (Location)]
+
+13. Can you recommend a restaurant with a kids' menu?
+Named Entities: [kids' menu (Amenity)]
+
+14. I'd like to make a reservation at the French bistro for this Saturday.
+Named Entities: [reservation (Amenity), French bistro (Restaurant Name), this Saturday (Hours)]
+
+15. What's the address of that new seafood place on the waterfront?
+Named Entities: [address (Location), seafood (Cuisine), waterfront (Location)]
+
+16. I'm vegetarian, can you suggest a good vegan restaurant?
+Named Entities: [vegetarian (Dish), good (Rating), vegan (Cuisine)]
+
+17. Is there a Chinese restaurant with delivery service?
+Named Entities: [Chinese (Cuisine), delivery service (Amenity)]
+
+18. I need a place for a business lunch with a private dining room.
+Named Entities: [business lunch (Amenity), private dining room (Amenity)]
+
+19. Where can I find a restaurant with a rooftop bar?
+Named Entities: [rooftop bar (Amenity)]
+
+20. What's the best Italian restaurant in the city?
+Named Entities: [best (Rating), Italian (Cuisine), the city (Location)]

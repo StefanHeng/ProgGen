@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the latest James Bond movie?"
+Named Entities: [James Bond (Title), trailer (Trailer)]
+
+2. "What film did Quentin Tarantino direct that has a very high viewers' rating?"
+Named Entities: [Quentin Tarantino (Director), viewers' rating (Viewers' Rating)]
+
+3. "I'm interested in a romantic comedy released in the 1990s, do you have any recommendations?"
+Named Entities: [romantic comedy (Genre), 1990s (Year)]

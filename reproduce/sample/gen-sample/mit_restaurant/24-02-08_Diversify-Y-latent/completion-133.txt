@@ -1,0 +1,8 @@
+1. "Can you recommend any Michelin-starred restaurants in the area that are close to here?"
+Named Entities: [Michelin-starred (Rating), Close to (Location)]
+
+2. "I'm looking for a reservation at El Celler de Can Roca, do you have any availability?"
+Named Entities: [El Celler de Can Roca (Restaurant Name)]
+
+3. "Is there a place nearby with a good selection of vegetarian dishes?"
+Named Entities: [vegetarian dishes (Dish), nearby (Location)]

@@ -1,0 +1,1881 @@
+[
+    {
+        "sentence": "The Dead Sea is a salt lake bordered by Jordan to the east and Israel and Palestine to the west.",
+        "entities": [
+            "Dead Sea (location)",
+            "Jordan (location)",
+            "Israel (location)",
+            "Palestine ("
+        ],
+        "filename": "completion-1"
+    },
+    {
+        "sentence": "The Taj Mahal is an ivory-white marble mausoleum in the Indian city of Agra.",
+        "entity_names": [
+            "Taj Mahal",
+            "Agra",
+            "India"
+        ],
+        "filename": "completion-2",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "The United Nations, an intergovernmental organization, was established after World War II to promote international cooperation and prevent future conflicts.",
+        "entity_names": [
+            "United Nations",
+            "World War II"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Leonardo da Vinci, an Italian polymath of the Renaissance, is remembered for his contributions to art, science, and anatomy.",
+        "entity_names": [
+            "Leonardo da Vinci",
+            "Renaissance",
+            "Italian"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "event",
+            "location"
+        ],
+        "reordered_entity_names": [
+            "Leonardo da Vinci",
+            "Italian",
+            "Renaissance"
+        ],
+        "reordered_entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Renaissance"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "NASA, the United States space agency, has conducted numerous missions to explore space, including the Apollo moon landing missions.",
+        "entity_names": [
+            "NASA",
+            "United States",
+            "Apollo"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "organization",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Apollo"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "William the Conqueror, the first Norman King of England, led the Norman Conquest of England in 1066 and is known for his strong and effective governance.",
+        "entity_names": [
+            "William the Conqueror",
+            "Norman King of England",
+            "Norman Conquest of England"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Norman Conquest of England"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Winston Churchill, a British statesman, army officer, and writer, served as Prime Minister of the United Kingdom during World War II and again from 1951 to 1955.",
+        "entity_names": [
+            "Winston Churchill",
+            "British",
+            "Prime Minister of the United Kingdom",
+            "World War II"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "location",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Louvre Museum, the world's largest art museum and a historic monument in Paris, France, is home to thousands of works of art, including the Mona Lisa.",
+        "entity_names": [
+            "Louvre Museum",
+            "Paris",
+            "France",
+            "Mona Lisa"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "artwork"
+        ],
+        "entity_names_not_allowed": [
+            "Mona Lisa"
+        ],
+        "entity_types_not_allowed": [
+            "artwork"
+        ]
+    },
+    {
+        "sentence": "Marie Antoinette, the last Queen of France before the French Revolution, is often associated with the phrase \"Let them eat cake\", although there is no evidence that she actually said it.",
+        "entity_names": [
+            "Marie Antoinette",
+            "Queen of France",
+            "French Revolution"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "French Revolution"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Acropolis, an ancient citadel on a rocky outcrop above the city of Athens, Greece, contains several important ancient buildings, the most famous being the Parthenon.",
+        "entity_names": [
+            "Acropolis",
+            "Athens",
+            "Greece",
+            "Parthenon"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "building"
+        ],
+        "entity_names_not_allowed": [
+            "Parthenon"
+        ],
+        "entity_types_not_allowed": [
+            "building"
+        ]
+    },
+    {
+        "sentence": "Franklin D. Roosevelt, the 32nd President of the United States, served for four terms from 1933 to 1945 and led the country through the Great Depression and World War II.",
+        "entity_names": [
+            "Franklin D. Roosevelt",
+            "President of the United States",
+            "Great Depression",
+            "World War II"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "person",
+            "organization",
+            "event",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Great Depression",
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "Machu Picchu, an ancient Inca city in the Andes mountains of Peru, was built in the 15th century and abandoned during the Spanish conquest.",
+        "entity_names": [
+            "Machu Picchu",
+            "Inca",
+            "Andes mountains",
+            "Peru",
+            "Spanish conquest"
+        ],
+        "filename": "completion-4",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Spanish conquest"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra.",
+        "entity_names": [
+            "Taj Mahal",
+            "Yamuna river",
+            "Agra",
+            "India"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "He is the incumbent Governor of New York and leads the New York State Democratic Party.",
+        "entity_names": [
+            "Governor of New York",
+            "New York",
+            "New York State Democratic Party"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "organization",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "New York"
+        ]
+    },
+    {
+        "sentence": "The Roman Empire was the post-Republican period of ancient Rome.",
+        "entity_names": [
+            "Roman Empire",
+            "Rome",
+            "Roman"
+        ],
+        "filename": "completion-14",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Roman"
+        ]
+    },
+    {
+        "sentence": "The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic.",
+        "entity_names": [
+            "Sydney Harbour Bridge",
+            "Sydney",
+            "Sydney Harbour"
+        ],
+        "filename": "completion-14",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Sydney"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "Ludwig van Beethoven was a German composer and pianist whose music is still widely celebrated.",
+        "entity_names": [
+            "Ludwig van Beethoven",
+            "Germany"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Great Wall of China is one of the most famous historical landmarks in the world.",
+        "entity_names": [
+            "Great Wall of China",
+            "China"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Winston Churchill was a British statesman who led the United Kingdom during World War II.",
+        "entity_names": [
+            "Winston Churchill",
+            "United Kingdom",
+            "World War II"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Secretariat of the United Nations oversees the administration of the UN and its various programs.",
+        "entity_names": [
+            "Secretariat of the United Nations",
+            "United Nations"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "United Nations"
+        ]
+    },
+    {
+        "sentence": "The Great Wall of China is a significant historical landmark.",
+        "entity_names": [
+            "Great Wall of China",
+            "China"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "The Acropolis in Athens is a symbol of ancient Greek civilization.",
+        "entity_names": [
+            "Acropolis",
+            "Athens",
+            "Greece"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Greece"
+        ]
+    },
+    {
+        "sentence": "The Nile River is the longest river in the world, flowing through several African countries.",
+        "entity_names": [
+            "Nile River",
+            "Africa"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Africa"
+        ]
+    },
+    {
+        "sentence": "Claude Monet was a prominent French Impressionist painter.",
+        "entity_names": [
+            "Claude Monet",
+            "France"
+        ],
+        "filename": "completion-16",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "France"
+        ]
+    },
+    {
+        "sentence": "The Bill & Melinda Gates Foundation is one of the largest private foundations in the world, founded by Bill and Melinda Gates.",
+        "entity_names": [
+            "Bill & Melinda Gates Foundation",
+            "Bill Gates",
+            "Melinda Gates"
+        ],
+        "filename": "completion-17",
+        "entity_types": [
+            "organization",
+            "person",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Bill Gates"
+        ]
+    },
+    {
+        "sentence": "The Berlin Wall separated East and West Berlin from 1961 to 1989, dividing the city and symbolizing the ideological divide of the Cold War.",
+        "entity_names": [
+            "Berlin Wall",
+            "East Berlin",
+            "West Berlin",
+            "Cold War"
+        ],
+        "filename": "completion-20",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "East Berlin"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.",
+        "entity_names": [
+            "Mona Lisa",
+            "Leonardo da Vinci",
+            "Italy"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.",
+        "entity_names": [
+            "Albert Einstein",
+            "Germany"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was fought during the American Civil War in 1863.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "event",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.",
+        "entity_names": [
+            "Marie Curie",
+            "Poland",
+            "France"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Poland",
+            "France"
+        ]
+    },
+    {
+        "sentence": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.",
+        "entity_names": [
+            "Great Wall of China",
+            "China"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Winston Churchill was a British statesman who served as Prime Minister of the United Kingdom during World War II.",
+        "entity_names": [
+            "Winston Churchill",
+            "British",
+            "Prime Minister of the United Kingdom",
+            "World War II"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "person",
+            "location",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Martin Luther King Jr. was an American Baptist minister and social activist who played a key role in the American civil rights movement.",
+        "entity_names": [
+            "Martin Luther King Jr.",
+            "American",
+            "Baptist",
+            "American civil rights movement"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "person",
+            "location",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American civil rights movement"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776, declaring independence from Great Britain.",
+        "entity_names": [
+            "Declaration of Independence",
+            "Continental Congress",
+            "July 4, 1776",
+            "Great Britain"
+        ],
+        "filename": "completion-21",
+        "entity_types": [
+            "event",
+            "organization",
+            "event",
+            "location"
+        ],
+        "entity_names_not_allowed": [
+            "Declaration of Independence",
+            "July 4, 1776"
+        ],
+        "entity_types_not_allowed": [
+            "event",
+            "event"
+        ]
+    },
+    {
+        "sentence": "Mount Everest is the Earth's highest mountain above sea level.",
+        "entity_names": [
+            "Mont Everest",
+            "Earth"
+        ],
+        "filename": "completion-22",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Mont Everest"
+        ]
+    },
+    {
+        "sentence": "Margaret Thatcher, the first woman to serve as Prime Minister of the United Kingdom, was a controversial but influential political figure.",
+        "entity_names": [
+            "Margaret Thatcher",
+            "Prime Minister of the United Kingdom",
+            "United Kingdom"
+        ],
+        "filename": "completion-26",
+        "entity_types": [
+            "person",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "sentence": "The novel, Sense and Sensibility, was written by English author Jane Austen and was published in 1811.",
+        "entity_names": [
+            "Jane Austen",
+            "England"
+        ],
+        "filename": "completion-27",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-27",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.",
+        "entity_names": [
+            "Great Wall of China",
+            "China"
+        ],
+        "filename": "completion-29",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "The United States Navy is the naval warfare service branch of the United States Armed Forces.",
+        "entity_names": [
+            "United States Navy",
+            "United States",
+            "United States Armed Forces"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "organization",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "The London Stock Exchange is one of the oldest stock exchanges in the world.",
+        "entity_names": [
+            "London Stock Exchange",
+            "London"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "London"
+        ]
+    },
+    {
+        "sentence": "He was sworn in as the President of the United States in 2021.",
+        "entity_names": [
+            "President of the United States",
+            "United States"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Google LLC is an American multinational technology company specializing in Internet-related services and products.",
+        "entity_names": [
+            "Google LLC",
+            "United States"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "He was elected as the Mayor of New York City in 2013.",
+        "entity_names": [
+            "Mayor of New York City",
+            "New York City"
+        ],
+        "filename": "completion-33",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "New York City"
+        ]
+    },
+    {
+        "sentence": "The Great Wall of China is over 13,000 miles long.",
+        "entity_names": [
+            "Great Wall of China",
+            "China"
+        ],
+        "filename": "completion-35",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "The Bill & Melinda Gates Foundation is the largest private foundation in the world, founded by Bill and Melinda Gates.",
+        "entity_names": [
+            "Bill & Melinda Gates Foundation",
+            "Bill Gates",
+            "Melinda Gates"
+        ],
+        "filename": "completion-35",
+        "entity_types": [
+            "organization",
+            "person",
+            "person"
+        ],
+        "missing_entity_names": [
+            "Bill Gates"
+        ]
+    },
+    {
+        "sentence": "The Berlin Wall separated East and West Berlin from 1961 to 1989.",
+        "entity_names": [
+            "Berlin Wall",
+            "East Berlin",
+            "West Berlin"
+        ],
+        "filename": "completion-35",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "East Berlin"
+        ]
+    },
+    {
+        "sentence": "She is the CEO of Facebook.",
+        "entity_names": [
+            "CEO, Facebook"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "CEO, Facebook"
+        ]
+    },
+    {
+        "sentence": "She is the Secretary-General of the United Nations.",
+        "entity_names": [
+            "Secretary-General, United Nations"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Secretary-General, United Nations"
+        ]
+    },
+    {
+        "sentence": "He was the father of modern physics.",
+        "entity_names": [
+            "father, modern physics"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "father, modern physics"
+        ]
+    },
+    {
+        "sentence": "He was the CEO of Microsoft from 2000 to 2014.",
+        "entity_names": [
+            "CEO, Microsoft",
+            "2000",
+            "2014"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "CEO, Microsoft"
+        ]
+    },
+    {
+        "sentence": "He was an influential philosopher in Western civilization.",
+        "entity_names": [
+            "philosopher, Western civilization"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "philosopher, Western civilization"
+        ]
+    },
+    {
+        "sentence": "He is the president of the European Commission.",
+        "entity_names": [
+            "president, European Commission"
+        ],
+        "filename": "completion-36",
+        "entity_types": [
+            "organization"
+        ],
+        "missing_entity_names": [
+            "president, European Commission"
+        ]
+    },
+    {
+        "sentence": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra.",
+        "entity_names": [
+            "Taj Mahal",
+            "Yamuna river",
+            "Agra",
+            "India"
+        ],
+        "filename": "completion-6",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "King George VI ruled the United Kingdom during World War II.",
+        "entity_names": [
+            "King George VI",
+            "United Kingdom",
+            "World War II"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "person",
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The World Health Organization declared COVID-19 a pandemic in March 2020.",
+        "entity_names": [
+            "World Health Organization",
+            "COVID-19"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "COVID-19"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The United Nations was established in 1945 after World War II.",
+        "entity_names": [
+            "United Nations",
+            "World War II"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "World War II"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The Mona Lisa is a famous painting by Leonardo da Vinci.",
+        "entity_names": [
+            "Mona Lisa",
+            "Leonardo da Vinci"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "artwork",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Mona Lisa"
+        ],
+        "entity_types_not_allowed": [
+            "artwork"
+        ]
+    },
+    {
+        "sentence": "Jane Austen was an English novelist known for her works like \"Pride and Prejudice\".",
+        "entity_names": [
+            "Jane Austen",
+            "England"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "Leonardo da Vinci was a polymath known for his paintings like the \"Mona Lisa\".",
+        "entity_names": [
+            "Leonardo da Vinci",
+            "Mona Lisa"
+        ],
+        "filename": "completion-7",
+        "entity_types": [
+            "person",
+            "artwork"
+        ],
+        "entity_names_not_allowed": [
+            "Mona Lisa"
+        ],
+        "entity_types_not_allowed": [
+            "artwork"
+        ]
+    },
+    {
+        "sentence": "The Panama Canal is a key conduit for international maritime trade, connecting the Atlantic and Pacific Oceans.",
+        "entity_names": [
+            "Panama Canal",
+            "Atlantic Ocean",
+            "Pacific Ocean"
+        ],
+        "filename": "completion-10",
+        "entity_types": [
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Atlantic Ocean",
+            "Pacific Ocean"
+        ]
+    },
+    {
+        "sentence": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra.",
+        "entity_names": [
+            "Taj Mahal",
+            "Yamuna River",
+            "Agra",
+            "India"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.",
+        "entity_names": [
+            "Mona Lisa",
+            "Leonardo da Vinci",
+            "Italy"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "He played basketball for the Los Angeles Lakers in the NBA.",
+        "entity_names": [
+            "Los Angeles Lakers",
+            "NBA",
+            "Los Angeles"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "organization",
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Los Angeles"
+        ]
+    },
+    {
+        "sentence": "She earned a PhD in Astrophysics from the University of Cambridge.",
+        "entity_names": [
+            "University of Cambridge",
+            "Cambridge"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Cambridge"
+        ]
+    },
+    {
+        "sentence": "She is an advocate for animal rights and founded the Jane Goodall Institute.",
+        "entity_names": [
+            "Jane Goodall",
+            "Jane Goodall Institute"
+        ],
+        "filename": "completion-11",
+        "entity_types": [
+            "person",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Jane Goodall"
+        ]
+    },
+    {
+        "sentence": "The Battle of Gettysburg was fought in 1863 during the American Civil War.",
+        "entity_names": [
+            "Battle of Gettysburg",
+            "American Civil War"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "location",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "American Civil War"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Marie Curie was a Polish and naturalized-French physicist and chemist.",
+        "entity_names": [
+            "Marie Curie",
+            "Poland",
+            "France"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Poland",
+            "France"
+        ]
+    },
+    {
+        "sentence": "She won the Nobel Prize in Physics for her discovery of radium and polonium.",
+        "entity_names": [
+            "Nobel Prize in Physics"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Nobel Prize in Physics"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "John F. Kennedy was the 35th President of the United States.",
+        "entity_names": [
+            "John F. Kennedy",
+            "President of the United States"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "position"
+        ],
+        "entity_names_not_allowed": [
+            "President of the United States"
+        ],
+        "entity_types_not_allowed": [
+            "position"
+        ]
+    },
+    {
+        "sentence": "Her novel, To Kill a Mockingbird, won the Pulitzer Prize for Fiction in 1961.",
+        "entity_names": [
+            "Pulitzer Prize for Fiction"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "Pulitzer Prize for Fiction"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Isaac Newton was an English mathematician, physicist, and astronomer.",
+        "entity_names": [
+            "Isaac Newton",
+            "England"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The King James Version of the Bible, also known as the Authorized Version, is an English translation of the Christian Bible for the Church of England.",
+        "entity_names": [
+            "King James Version",
+            "Authorized Version",
+            "Church of England"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "religious text",
+            "religious text",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "King James Version",
+            "Authorized Version"
+        ],
+        "entity_types_not_allowed": [
+            "religious text",
+            "religious text"
+        ]
+    },
+    {
+        "sentence": "The Nobel Peace Prize is one of the five Nobel Prizes established by the will of Alfred Nobel.",
+        "entity_names": [
+            "Nobel Peace Prize",
+            "Alfred Nobel"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "award",
+            "person"
+        ],
+        "entity_names_not_allowed": [
+            "Nobel Peace Prize"
+        ],
+        "entity_types_not_allowed": [
+            "award"
+        ]
+    },
+    {
+        "sentence": "Maya Angelou was an American poet, memoirist, and civil rights activist.",
+        "entity_names": [
+            "Maya Angelou",
+            "United States"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.",
+        "entity_names": [
+            "quantum mechanics",
+            "physics"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "concept",
+            "field of study"
+        ],
+        "entity_names_not_allowed": [
+            "quantum mechanics",
+            "physics"
+        ],
+        "entity_types_not_allowed": [
+            "concept",
+            "field of study"
+        ]
+    },
+    {
+        "sentence": "Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement.",
+        "entity_names": [
+            "Martin Luther King Jr.",
+            "American Baptist",
+            "civil rights movement"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "organization",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "civil rights movement"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "The United States Declaration of Independence was adopted by the Second Continental Congress in 1776.",
+        "entity_names": [
+            "United States Declaration of Independence",
+            "Second Continental Congress"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "document",
+            "organization"
+        ],
+        "entity_names_not_allowed": [
+            "United States Declaration of Independence"
+        ],
+        "entity_types_not_allowed": [
+            "document"
+        ]
+    },
+    {
+        "sentence": "Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.",
+        "entity_names": [
+            "Leonardo da Vinci",
+            "High Renaissance"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "event"
+        ],
+        "entity_names_not_allowed": [
+            "High Renaissance"
+        ],
+        "entity_types_not_allowed": [
+            "event"
+        ]
+    },
+    {
+        "sentence": "Barack Obama served as the 44th President of the United States from 2009 to 2017.",
+        "entity_names": [
+            "Barack Obama",
+            "President of the United States"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "person",
+            "position"
+        ],
+        "entity_names_not_allowed": [
+            "President of the United States"
+        ],
+        "entity_types_not_allowed": [
+            "position"
+        ]
+    },
+    {
+        "sentence": "The National Football League (NFL) is a professional American football league.",
+        "entity_names": [
+            "National Football League",
+            "American football"
+        ],
+        "filename": "completion-15",
+        "entity_types": [
+            "organization",
+            "sport"
+        ],
+        "entity_names_not_allowed": [
+            "American football"
+        ],
+        "entity_types_not_allowed": [
+            "sport"
+        ]
+    },
+    {
+        "sentence": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.",
+        "entity_names": [
+            "Albert Einstein",
+            "Germany"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.",
+        "entity_names": [
+            "Great Wall of China",
+            "China"
+        ],
+        "filename": "completion-2",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "China"
+        ]
+    },
+    {
+        "sentence": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.",
+        "entity_names": [
+            "Albert Einstein",
+            "Germany"
+        ],
+        "filename": "completion-3",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+        "entity_names": [
+            "Apple Inc.",
+            "Cupertino",
+            "California",
+            "United States"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Albert Einstein, a German-born theoretical physicist, developed the theory of relativity, one of the two pillars of modern physics.",
+        "entity_names": [
+            "Albert Einstein",
+            "Germany"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Nile is a major north-flowing river in northeastern Africa.",
+        "entity_names": [
+            "Nile River",
+            "Africa"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Nile River"
+        ]
+    },
+    {
+        "sentence": "The Beatles were an English rock band formed in Liverpool in 1960.",
+        "entity_names": [
+            "The Beatles",
+            "Liverpool",
+            "England"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "Google LLC is an American multinational technology company that specializes in Internet-related services and products.",
+        "entity_names": [
+            "Google LLC",
+            "United States"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Harry Potter is a series of seven fantasy novels written by British author J.K. Rowling.",
+        "entity_names": [
+            "Harry Potter",
+            "J.K. Rowling",
+            "Britain"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Britain"
+        ]
+    },
+    {
+        "sentence": "Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington, that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+        "entity_names": [
+            "Amazon.com, Inc.",
+            "Seattle",
+            "Washington",
+            "United States"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Leonardo da Vinci was an Italian polymath of the Renaissance whose areas of interest included invention, drawing, painting, sculpture, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.",
+        "entity_names": [
+            "Leonardo da Vinci",
+            "Italy",
+            "Renaissance"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "The Sahara is the largest hot desert and the third largest desert in the world.",
+        "entity_names": [
+            "Sahara Desert"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "location"
+        ],
+        "missing_entity_names": [
+            "Sahara Desert"
+        ]
+    },
+    {
+        "sentence": "Facebook, Inc. is an American social media conglomerate.",
+        "entity_names": [
+            "Facebook, Inc.",
+            "United States"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Ludwig van Beethoven was a German composer and pianist.",
+        "entity_names": [
+            "Ludwig van Beethoven",
+            "Germany"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Germany"
+        ]
+    },
+    {
+        "sentence": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.",
+        "entity_names": [
+            "Taj Mahal",
+            "Yamuna River",
+            "India",
+            "Agra"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "The Sahara Desert stretches across the African continent covering an area of over 9 million square kilometers.",
+        "entity_names": [
+            "Sahara Desert",
+            "Africa"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Africa"
+        ]
+    },
+    {
+        "sentence": "The Leaning Tower of Pisa, or simply the Tower of Pisa, is the freestanding bell tower of the cathedral of the Italian city of Pisa.",
+        "entity_names": [
+            "Leaning Tower of Pisa",
+            "Tower of Pisa",
+            "Pisa",
+            "Italy"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Italy"
+        ]
+    },
+    {
+        "sentence": "The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.",
+        "entity_names": [
+            "Ganges River",
+            "Asia",
+            "India",
+            "Bangladesh"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "location",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Ganges River"
+        ]
+    },
+    {
+        "sentence": "Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist.",
+        "entity_names": [
+            "Mahatma Gandhi",
+            "India"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "India"
+        ]
+    },
+    {
+        "sentence": "NASA is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and aerospace research.",
+        "entity_names": [
+            "NASA",
+            "United States"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist.",
+        "entity_names": [
+            "William Shakespeare",
+            "England"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location"
+        ],
+        "missing_entity_names": [
+            "England"
+        ]
+    },
+    {
+        "sentence": "The Grand Ole Opry is a weekly American country music stage concert in Nashville, Tennessee.",
+        "entity_names": [
+            "Grand Ole Opry",
+            "Nashville",
+            "Tennessee",
+            "United States"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "organization",
+            "location",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "United States"
+        ]
+    },
+    {
+        "sentence": "Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art.",
+        "entity_names": [
+            "Vincent van Gogh",
+            "Netherlands",
+            "Dutch",
+            "Western art"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location",
+            "organization",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Netherlands"
+        ]
+    },
+    {
+        "sentence": "Winston Churchill was a British statesman, army officer, and writer, who served as Prime Minister of the United Kingdom from 1940 to 1945.",
+        "entity_names": [
+            "Winston Churchill",
+            "Britain",
+            "United Kingdom"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location",
+            "location"
+        ],
+        "missing_entity_names": [
+            "Britain"
+        ]
+    },
+    {
+        "sentence": "Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and theatre designer who is considered one of the greatest and most influential artists of the 20th century.",
+        "entity_names": [
+            "Pablo Picasso",
+            "Spain",
+            "20th century"
+        ],
+        "filename": "completion-1",
+        "entity_types": [
+            "person",
+            "location",
+            "organization"
+        ],
+        "missing_entity_names": [
+            "Spain"
+        ]
+    }
+]

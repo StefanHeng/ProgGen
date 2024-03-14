@@ -1,0 +1,8 @@
+1. "Hey, can you check if there are any showtimes for Mulan this weekend?"
+Named Entities: [Mulan (Title)]
+
+2. "Have you seen the teaser trailer for that terrifying new horror movie?"
+Named Entities: [teaser trailer (Trailer), terrifying (Review)]
+
+3. "Do you know if there are any theaters showing the new Mulan movie?"
+Named Entities: [Mulan (Title)]

@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with outdoor seating in Boston?"
+Named Entities: [outdoor seating (Amenity), Boston (Location)]
+
+2. "Where can I find a seafood restaurant close by?"
+Named Entities: [seafood (Cuisine), Close by (Location)]
+
+3. "What's the price range for Italian restaurants in Boston?"
+Named Entities: [Italian (Cuisine), price range (Price), Boston (Location)]

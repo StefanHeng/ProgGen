@@ -1,0 +1,8 @@
+1. Text Span: 'Fernand Deligny's Monograph "Les arachides et la planète"'
+Label: (A). The span is a named entity of type organization
+
+2. Text Span: "Fir Bolg"
+Label: (A). The span is a named entity of type organization
+
+3. Text Span: "The Metropolis and Mental Life"
+Label: (B). The span contains a named organization entity but the span boundary is not precise. The correct span boundary is "The Metropolis and Mental Life".

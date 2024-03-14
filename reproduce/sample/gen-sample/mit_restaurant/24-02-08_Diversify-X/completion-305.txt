@@ -1,0 +1,8 @@
+Query: "can you recommend a restaurant with outdoor seating for dinner"
+Named Entities: [outdoor seating (Amenity), dinner (Hours)]
+
+Query: "I'm craving sushi, where can I find a good sushi restaurant for dinner"
+Named Entities: [sushi (Cuisine), good (Rating), dinner (Hours)]
+
+Query: "I'm looking for a place with a prix fixe menu for dinner"
+Named Entities: [prix fixe menu (Price), dinner (Hours)]

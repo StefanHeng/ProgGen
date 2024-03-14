@@ -1,0 +1,8 @@
+1. "The annual summit in [Istanbul] brings together world leaders and business executives."
+Named Entities: [Istanbul (location)]
+
+2. "The mayor of [Istanbul] unveils plans for a new public transportation system."
+Named Entities: [Istanbul (location)]
+
+3. "Several large corporations, including Microsoft and Google, are investing in the new tech hub in [Istanbul]."
+Named Entities: [Istanbul (location), Microsoft (organization), Google (organization)]

@@ -1,0 +1,8 @@
+Query: "Can you recommend a buffet restaurant with a waterfront ambience"
+Named Entities: [buffet (Amenity), waterfront (Location)]
+
+Query: "I'm looking for a buffet with a nice view for a 50-year-old male doctor"
+Named Entities: [buffet (Amenity), nice view (Amenity), 50-year-old male doctor (Demographic)]
+
+Query: "Which waterfront buffet restaurant would you suggest for a doctor in his 50s"
+Named Entities: [waterfront (Location), buffet (Amenity), doctor in his 50s (Demographic)]

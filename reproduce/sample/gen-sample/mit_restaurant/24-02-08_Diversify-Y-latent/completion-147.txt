@@ -1,0 +1,8 @@
+Query: "Can you recommend a good Italian restaurant nearby for dinner tonight?"
+Named Entities: [good (Rating), Italian (Cuisine), Nearby (Location), tonight (Hours)]
+
+Query: "I'm craving some breadsticks, can you find me the closest Olive Garden that's open for lunch?"
+Named Entities: [breadsticks (Dish), closest (Location), Olive Garden (Restaurant Name), lunch (Hours)]
+
+Query: "I'm on a budget, please suggest a place with affordable pasta dishes for dinner."
+Named Entities: [budget (Price), affordable (Price), pasta dishes (Dish), dinner (Hours)]

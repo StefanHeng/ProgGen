@@ -1,0 +1,8 @@
+1. "I'm craving some lobster bisque, is there a Panamanian restaurant nearby that offers it?"
+Named Entities: [lobster bisque (Dish), Panamanian (Cuisine)]
+
+2. "I need to find a restaurant with a good rating that serves lobster bisque and is located in the downtown area"
+Named Entities: [good rating (Rating), lobster bisque (Dish), downtown area (Location)]
+
+3. "Can you recommend a restaurant with outdoor seating and a diverse menu, including Panamanian dishes?"
+Named Entities: [outdoor seating (Amenity), diverse menu (Amenity), Panamanian dishes (Cuisine)]

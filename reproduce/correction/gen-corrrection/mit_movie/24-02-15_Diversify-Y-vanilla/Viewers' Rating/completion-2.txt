@@ -1,0 +1,8 @@
+1. Text Span: "must-see"
+   Label: (A). The span is a named entity of type viewers' rating
+
+2. Text Span: "hauntingly beautiful"
+   Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other
+
+3. Text Span: "classic"
+   Label: (C). The span is a named entity but the category is not viewers' rating. Entity Type: Other

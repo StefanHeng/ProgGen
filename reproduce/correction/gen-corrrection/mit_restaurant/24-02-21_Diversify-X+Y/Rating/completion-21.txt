@@ -1,0 +1,8 @@
+1. Text Span: "top-notch"
+   Label: (A). The span is a named entity of type rating
+
+2. Text Span: "decadent"
+   Label: (C). The span is a named entity but the category is not rating. Entity Type: Cuisine
+
+3. Text Span: "authentic"
+   Label: (C). The span is a named entity but the category is not rating. Entity Type: Cuisine

@@ -1,0 +1,8 @@
+Query: "Can you provide me with the director and main actors of the movie The Social Network?"
+Named Entities: [The Social Network (Title), director (Director), main actors (Actor)]
+
+Query: "Could you show me a documentary about the making of the movie Inception?"
+Named Entities: [documentary, making of (Plot), Inception (Title)]
+
+Query: "I am interested in learning about the soundtrack and filming locations of the movie La La Land"
+Named Entities: [soundtrack (Song), filming locations (Plot), La La Land (Title)]

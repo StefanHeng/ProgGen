@@ -1,0 +1,8 @@
+1. "Where can I find vegan dishes near the Eiffel Tower?"
+Named Entities: [vegan dishes (Cuisine), near the Eiffel Tower (Location)]
+
+2. "Which restaurants offer happy hour specials near Times Square?"
+Named Entities: [happy hour (Amenity), near Times Square (Location)]
+
+3. "Recommend a restaurant with a good rating and affordable prices near Central Park."
+Named Entities: [good rating (Rating), affordable prices (Price), near Central Park (Location)]

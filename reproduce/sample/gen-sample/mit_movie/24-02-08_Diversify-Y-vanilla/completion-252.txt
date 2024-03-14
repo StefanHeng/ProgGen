@@ -1,0 +1,8 @@
+1. "I'm interested in a movie that features a quest for treasure, directed by Niki Caro."
+Named Entities: [quest for treasure (Plot), Niki Caro (Director)]
+
+2. "Can you recommend a film released in 1998 with a low viewers' rating of 1 out of 5 stars?"
+Named Entities: [1998 (Year), 1 out of 5 stars (Viewers' Rating)]
+
+3. "Show me an action movie from the 90s that is rated M."
+Named Entities: [90s (Year), M (MPAA Rating)]

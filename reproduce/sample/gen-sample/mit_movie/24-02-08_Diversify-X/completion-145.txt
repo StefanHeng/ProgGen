@@ -1,0 +1,8 @@
+1. "Can you recommend a good sci-fi comedy movie?"
+Named Entities: [sci-fi comedy (Genre)]
+
+2. "I'm in the mood for a classic romance film. Do you have any recommendations?"
+Named Entities: [classic romance (Genre)]
+
+3. "I'm looking for a thriller with elements of mystery. Any suggestions?"
+Named Entities: [thriller (Genre), mystery (Genre)]

@@ -1,0 +1,8 @@
+Query: "I need a brunch spot near my workplace, preferably with a good rating"
+Named Entities: [brunch (Amenity), Bagel Bistro (Restaurant Name), good rating (Rating), workplace (Location)]
+
+Query: "Is there a Bagel Bistro around here that offers brunch at a reasonable price?"
+Named Entities: [Bagel Bistro (Restaurant Name), brunch (Amenity), reasonable price (Price)]
+
+Query: "What's the best dish to try for brunch at Bagel Bistro?"
+Named Entities: [best dish (Dish), brunch (Amenity), Bagel Bistro (Restaurant Name)]

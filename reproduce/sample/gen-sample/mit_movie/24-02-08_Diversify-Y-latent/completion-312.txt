@@ -1,0 +1,8 @@
+1. "Could you recommend a movie with a beautiful orchestral arrangement?"
+Named Entities: [Orchestral arrangement (Song)]
+
+2. "Who directed the new James Bond film, and what is the musical score like?"
+Named Entities: [James Bond (Character), Sam Mendes (Director), Musical score (Plot)]
+
+3. "Can you suggest a movie that is not rated but has a captivating plot?"
+Named Entities: [Not Rated (MPAA Rating), captivating plot (Plot)]

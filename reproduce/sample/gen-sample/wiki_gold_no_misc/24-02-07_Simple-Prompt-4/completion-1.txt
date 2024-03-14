@@ -1,0 +1,100 @@
+1. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China.
+Named Entities: [The Great Wall of China (location), China (location)]
+2. The Grindelwald Glacier is in the Bernese Alps of Switzerland.
+Named Entities: [Grindelwald Glacier (location), Bernese Alps (location), Switzerland (location)]
+3. The British Museum, located in the Bloomsbury area of London, United Kingdom, is a public institution dedicated to human history, art, and culture.
+Named Entities: [British Museum (organization), Bloomsbury (location), London (location), United Kingdom (location)]
+4. Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.
+Named Entities: [Apple Inc. (organization), Cupertino (location), California (location), United States (location)]
+5. Albert Einstein, a German-born theoretical physicist, developed the theory of relativity, one of the two pillars of modern physics.
+Named Entities: [Albert Einstein (person), Germany (location)]
+6. The University of Oxford is a collegiate research university in Oxford, England. 
+Named Entities: [University of Oxford (organization), England (location), Oxford (location)]
+7. The United Nations is an intergovernmental organization established to promote international cooperation. 
+Named Entities: [United Nations (organization)]
+8. The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Named Entities: [Eiffel Tower (location), Champ de Mars (location), Paris (location), France (location)]
+9. The World Health Organization is a specialized agency of the United Nations responsible for international public health. 
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+10. The Nile is a major north-flowing river in northeastern Africa.
+Named Entities: [Nile River (location), Africa (location)]
+11. The Beatles were an English rock band formed in Liverpool in 1960.
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+12. Google LLC is an American multinational technology company that specializes in Internet-related services and products. 
+Named Entities: [Google LLC (organization), United States (location)]
+13. Mount Everest, also known in Nepal as Sagarmatha and in Tibet as Chomolungma, is Earth's highest mountain above sea level. 
+Named Entities: [Mount Everest (location), Nepal (location), Tibet (location), Sagarmatha (location), Chomolungma (location)]
+14. The Louvre Museum is the world's largest art museum and a historic monument in Paris, France.
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+15. Harry Potter is a series of seven fantasy novels written by British author J.K. Rowling.
+Named Entities: [Harry Potter (person), J.K. Rowling (person), Britain (location)]
+16. Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington, that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. 
+Named Entities: [Amazon.com, Inc. (organization), Seattle (location), Washington (location), United States (location)]
+17. Leonardo da Vinci was an Italian polymath of the Renaissance whose areas of interest included invention, drawing, painting, sculpture, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography.
+Named Entities: [Leonardo da Vinci (person), Italy (location), Renaissance (organization)]
+18. The White House is the official residence and workplace of the president of the United States.
+Named Entities: [White House (location), United States (location)]
+19. The Sahara is the largest hot desert and the third largest desert in the world.
+Named Entities: [Sahara Desert (location)]
+20. Facebook, Inc. is an American social media conglomerate.
+Named Entities: [Facebook, Inc. (organization), United States (location)]
+21. The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. 
+Named Entities: [Grand Canyon (location), Colorado River (location), Arizona (location), United States (location)]
+22. Ludwig van Beethoven was a German composer and pianist.
+Named Entities: [Ludwig van Beethoven (person), Germany (location)]
+23. The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching over 2,300 kilometers. 
+Named Entities: [Great Barrier Reef (location)]
+24. The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Yamuna River (location), India (location), Agra (location)]
+25. Barack Obama served as the 44th president of the United States from 2009 to 2017.
+Named Entities: [Barack Obama (person), United States (location)]
+26. The Sahara Desert stretches across the African continent covering an area of over 9 million square kilometers.
+Named Entities: [Sahara Desert (location), Africa (location)]
+27. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. 
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location), United States (location)]
+28. The Amazon Rainforest, also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+Named Entities: [Amazon Rainforest (location), Amazonia (location), Amazon Jungle (location), Amazon Basin (location), South America (location)]
+29. The Leaning Tower of Pisa, or simply the Tower of Pisa, is the freestanding bell tower of the cathedral of the Italian city of Pisa.
+Named Entities: [Leaning Tower of Pisa (location), Tower of Pisa (location), Pisa (location), Italy (location)]
+30. Queen Elizabeth II is the queen of 16 of the 54 member states in the Commonwealth of Nations.
+Named Entities: [Queen Elizabeth II (person), Commonwealth of Nations (organization)]
+31. The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+Named Entities: [Ganges River (location), Asia (location), India (location), Bangladesh (location)]
+32. The Sistine Chapel, located in Vatican City, Italy, is the site of the papal conclave, the process by which a new pope is selected.
+Named Entities: [Sistine Chapel (location), Vatican City (location), Italy (location)]
+33. Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist.
+Named Entities: [Mahatma Gandhi (person), India (location)]
+34. Mount Kilimanjaro is a dormant stratovolcano in Tanzania.
+Named Entities: [Mount Kilimanjaro (location), Tanzania (location)]
+35. NASA is an independent agency of the U.S. federal government responsible for the civilian space program, as well as aeronautics and aerospace research. 
+Named Entities: [NASA (organization), United States (location)]
+36. Saint Peter's Basilica is a church built in the Renaissance style located in Vatican City, the papal enclave that is within the city of Rome. 
+Named Entities: [Saint Peter's Basilica (location), Vatican City (location), Rome (location)]
+37. William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist.
+Named Entities: [William Shakespeare (person), England (location)]
+38. The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.
+Named Entities: [Pacific Ocean (location)]
+39. Nelson Mandela was a South African anti-apartheid revolutionary and political leader who served as president of South Africa from 1994 to 1999.
+Named Entities: [Nelson Mandela (person), South Africa (location)]
+40. The Grand Ole Opry is a weekly American country music stage concert in Nashville, Tennessee.
+Named Entities: [Grand Ole Opry (organization), Nashville (location), Tennessee (location), United States (location)]
+41. The Louvre Abu Dhabi is an art and civilization museum, located in Abu Dhabi, United Arab Emirates.
+Named Entities: [Louvre Abu Dhabi (organization), Abu Dhabi (location), United Arab Emirates (location)]
+42. The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City, spanning the East River between the boroughs of Manhattan and Brooklyn.
+Named Entities: [Brooklyn Bridge (location), New York City (location), East River (location), Manhattan (location), Brooklyn (location)]
+43. Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent van Gogh (person), Netherlands (location), Dutch (organization), Western art (organization)]
+44. Stonehenge is a prehistoric monument in Wiltshire, England, two miles west of Amesbury. 
+Named Entities: [Stonehenge (location), Wiltshire (location), England (location), Amesbury (location)]
+45. The Vatican City is an independent city-state enclaved within Rome, Italy, established with the Lateran Treaty.
+Named Entities: [Vatican City (location), Rome (location), Italy (location), Lateran Treaty (organization)]
+46. Winston Churchill was a British statesman, army officer, and writer, who served as Prime Minister of the United Kingdom from 1940 to 1945.
+Named Entities: [Winston Churchill (person), Britain (location), United Kingdom (location)]
+47. The Sydney Opera House is a multi-venue performing arts center in Sydney, New South Wales, Australia.
+Named Entities: [Sydney Opera House (organization), Sydney (location), New South Wales (location), Australia (location)]
+48. Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and theatre designer who is considered one of the greatest and most influential artists of the 20th century.
+Named Entities: [Pablo Picasso (person), Spain (location), 20th century (organization)]
+49. The Brooklyn Museum is an art museum located in the New York City borough of Brooklyn.
+Named Entities: [Brooklyn Museum (organization), New York City (location), Brooklyn (location)]
+50. The Rosetta Stone is a granodiorite stele, found in 1799, inscribed with three versions of a decree issued at Memphis, Egypt, in 196 BC during the Ptolemaic dynasty on behalf of King Ptolemy V.
+Named Entities: [Rosetta Stone (organization), Memphis (location), Egypt (location), Ptolemaic dynasty (organization), King Ptolemy V (person)]

@@ -1,0 +1,8 @@
+1. Spoken Query: "Can you recommend a heart-wrenching romantic movie from the 1980-2000 period?"
+   Named Entities: [heart-wrenching (Genre), romantic (Subgenre), 1980-2000 (Year)]
+
+2. Spoken Query: "I'm looking for a heart-wrenching drama set in the 1990s, any suggestions?"
+   Named Entities: [heart-wrenching (Genre), drama (Subgenre), 1990s (Year)]
+
+3. Spoken Query: "Show me a heart-wrenching coming-of-age film from the 1980-2000 era, please."
+   Named Entities: [heart-wrenching (Genre), coming-of-age (Subgenre), 1980-2000 (Year)]

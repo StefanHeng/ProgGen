@@ -1,0 +1,8 @@
+1. Query: "recommend a movie with an iconic soundtrack [Music]"
+   Named Entities: [iconic soundtrack (Song)]
+
+2. Query: "what is the top-rated action movie of the 1990s [Music]"
+   Named Entities: [top-rated (Viewers' Rating), action (Genre), 1990s (Year)]
+
+3. Query: "show me a trailer for a classic film directed by alfred hitchcock [Music]"
+   Named Entities: [trailer (Trailer), classic (Viewers' Rating), alfred hitchcock (Director)]

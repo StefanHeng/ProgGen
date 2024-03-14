@@ -1,0 +1,8 @@
+1. "Can you recommend a comedy movie involving time travel with a 9/10 rating?"
+Named Entities: [comedy (Genre), time travel (Plot), 9/10 rating (Viewers' Rating)]
+
+2. "Are there any action movies with John McClane that came out in the 90s?"
+Named Entities: [action (Genre), John McClane (Character), 90s (Year)]
+
+3. "I'm looking for a movie featuring the song Can't Stop the Feeling! What do you recommend?"
+Named Entities: [Can't Stop the Feeling! (Song)]

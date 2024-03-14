@@ -1,0 +1,8 @@
+1. "Can you tell me about the director of The Fighter?"
+   Named Entities: [The Fighter (Title)]
+
+2. "What is the plot of the historical drama Terms of Endearment?"
+   Named Entities: [historical drama (Genre), Terms of Endearment (Title)]
+
+3. "Could you recommend a movie with a scene set at a high school prom directed by Alfonso Cuarón?"
+   Named Entities: [high school prom (Plot), Alfonso Cuarón (Director)]

@@ -1,0 +1,11 @@
+1. Query: "I'm craving a burger, where can I find a good one near {{Five Guys}} ?"
+Text Span: "Five Guys"
+Label: (A). The span is a named entity of type restaurant name
+
+2. Query: "What time does the {{sushi place}} on 5th Avenue close tonight?"
+Text Span: "sushi place"
+Label: (B). The span contains a restaurant name entity but the span boundary is not precise. The correct span boundary is "sushi place on 5th Avenue"
+
+3. Query: "I'm craving avocado toast, is there a {{Bluestone Lane}} in the area?"
+Text Span: "Bluestone Lane"
+Label: (A). The span is a named entity of type restaurant name

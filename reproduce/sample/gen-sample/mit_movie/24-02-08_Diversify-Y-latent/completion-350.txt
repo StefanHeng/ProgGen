@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any movies with an undercover cop?"
+Named Entities: [undercover cop (Character)]
+
+2. Query: "Does the movie Ferris Bueller's Day Off have a G or GP rating?"
+Named Entities: [Ferris Bueller's Day Off (Title), G (MPAA Rating), GP (MPAA Rating)]
+
+3. Query: "Which movie features the song Stayin' Alive?"
+Named Entities: [Stayin' Alive (Song)]

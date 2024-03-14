@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with a great soundtrack featuring love songs from the 80s?"
+   Named Entities: [love songs from the 80s (Song)]
+
+2. "I'm looking for a movie with a beautiful original score composed by a female artist. Any recommendations?"
+   Named Entities: [original score (Song), female artist (Actor)]
+
+3. "Could you suggest a romantic film with a memorable theme song that became popular in the 90s?"
+   Named Entities: [romantic film (Genre), theme song (Song), popular in the 90s (Year)]

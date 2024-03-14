@@ -1,0 +1,8 @@
+1. "Can you tell me which movie won the most awards at the Oscars this year?"
+Named Entities: [Oscars (Award), this year (Year)]
+
+2. "I'm curious to know if the film 'The Shawshank Redemption' has received any prestigious nominations."
+Named Entities: [The Shawshank Redemption (Title), prestigious nominations (Award)]
+
+3. "I'm feeling hopeful that the movie 'La La Land' has won some major accolades. Can you share that with me?"
+Named Entities: [La La Land (Title), major accolades (Award)]

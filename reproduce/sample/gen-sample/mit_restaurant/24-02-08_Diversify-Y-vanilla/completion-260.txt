@@ -1,0 +1,8 @@
+1. "I'm craving Beef Stroganoff, can you recommend a restaurant that serves it?"
+Named Entities: [Beef Stroganoff (Dish)]
+
+2. "I want to have breakfast at Sunset Grill, what time does it open?"
+Named Entities: [Sunset Grill (Restaurant Name), breakfast (Amenity), open (Hours)]
+
+3. "Where can I find a restaurant with outdoor seating and Italian cuisine?"
+Named Entities: [outdoor seating (Amenity), Italian (Cuisine)]

@@ -1,0 +1,8 @@
+1. Text Span: "outstanding soundtrack"
+Label: (C). The span is a named entity but the category is not song. The correct entity type is other.
+
+2. Text Span: "Circle of Life"
+Label: (A). The span is a named entity of type song.
+
+3. Text Span: "My Heart Will Go On"
+Label: (A). The span is a named entity of type song.

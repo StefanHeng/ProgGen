@@ -1,0 +1,8 @@
+1. Query: "Can I find a highly praised movie about forbidden love on any streaming platform?"
+Named Entities: [highly praised (Review), forbidden love (Plot)]
+
+2. Query: "Is there a haunted house movie available to watch on streaming platforms with a high viewers' rating?"
+Named Entities: [haunted house (Plot), high viewers' rating (Viewers' Rating)]
+
+3. Query: "Can you recommend a movie with a theme of forbidden love that is highly praised and available on streaming platforms?"
+Named Entities: [forbidden love (Plot), highly praised (Review), streaming platforms (Title)]

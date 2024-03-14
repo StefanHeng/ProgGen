@@ -1,0 +1,8 @@
+1. Query: "Can you recommend any brunch spots with positive feedback in the area?"
+   Named Entities: [Brunch spots (Amenity), positive feedback (Rating)]
+
+2. Query: "I'm craving some delicious brunch from The Brunch Box, do they have any vegan options?"
+   Named Entities: [brunch (Cuisine), The Brunch Box (Restaurant Name), vegan (Dish)]
+
+3. Query: "What are the operating hours for The Brunch Box on Sundays?"
+   Named Entities: [The Brunch Box (Restaurant Name), operating hours (Hours)]

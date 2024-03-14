@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a great emotional movie starring Benedict Cumberbatch?"
+   Named Entities: [emotional (Genre), Benedict Cumberbatch (Actor)]
+
+2. Query: "Please show me a one-minute trailer for a movie featuring Mushu."
+   Named Entities: [one-minute trailer (Trailer), Mushu (Character)]
+
+3. Query: "What is the viewers' rating for the great movie Mulan?"
+   Named Entities: [great (Viewers' Rating), Mulan (Title)]

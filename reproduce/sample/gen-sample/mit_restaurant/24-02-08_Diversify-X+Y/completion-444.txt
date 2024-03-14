@@ -1,0 +1,8 @@
+Query: "I'm looking for a kosher restaurant with wheelchair accessibility that serves brunch"
+Named Entities: [kosher (Cuisine), wheelchair accessibility (Amenity), brunch (Amenity)]
+
+Query: "where can I find a wheelchair accessible restaurant for brunch that serves kosher food"
+Named Entities: [wheelchair accessible (Amenity), brunch (Amenity), kosher (Cuisine)]
+
+Query: "show me a list of kosher restaurants with wheelchair accessibility for brunch"
+Named Entities: [kosher (Cuisine), wheelchair accessibility (Amenity), brunch (Amenity)]

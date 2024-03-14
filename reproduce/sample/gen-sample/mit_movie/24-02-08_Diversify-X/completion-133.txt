@@ -1,0 +1,8 @@
+1. Spoken Query: "I need to find a movie with the best original song from the 80s, can you help?"
+   Named Entities: [best original song (Song), 80s (Year)]
+   
+2. Spoken Query: "I'm in a rush to find a movie with a killer soundtrack, any recommendations?"
+   Named Entities: [killer soundtrack (Song)]
+
+3. Spoken Query: "I'm dying to watch a movie with the most iconic theme music of all time, what do you suggest?"
+   Named Entities: [most iconic theme music (Song)]

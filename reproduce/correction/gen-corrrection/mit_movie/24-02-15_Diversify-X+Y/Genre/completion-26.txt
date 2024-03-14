@@ -1,0 +1,11 @@
+1. Query: "Can you tell me the {{genre and subgenre}} classification of the movie 'Not Rated'?"
+Text Span: "genre and subgenre"
+Label: (C). Wrong Type. The correct entity type is other.
+
+2. Query: "Do you know if there's a {{spy movie}} called Fiona with good ratings?"
+Text Span: "spy movie"
+Label: (A). The span is a named entity of type movie genre
+
+3. Query: "What is the viewers' rating for the latest {{Sci-fi}} movie released this year?"
+Text Span: "Sci-fi"
+Label: (A). The span is a named entity of type movie genre

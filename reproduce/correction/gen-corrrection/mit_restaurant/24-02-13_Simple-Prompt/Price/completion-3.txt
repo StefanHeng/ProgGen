@@ -1,0 +1,8 @@
+1. Text Span: "price range"
+Label: (D). Not a Named Entity
+
+2. Text Span: "all-you-can-eat"
+Label: (C). Wrong Type. The correct entity type is Amenity
+
+3. Text Span: "prix fixe menu"
+Label: (C). Wrong Type. The correct entity type is Amenity

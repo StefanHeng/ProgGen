@@ -1,0 +1,8 @@
+1. "Where can I find a restaurant with non-GMO options and a waterside view?"
+Named Entities: [non-GMO (Amenity), waterside (Location)]
+
+2. "I'm craving some Yemeni food, can you recommend a place with tofu stir-fry on the menu?"
+Named Entities: [Yemeni (Cuisine), tofu stir-fry (Dish)]
+
+3. "I need a restaurant with no-reservation hours and a price range under 20 dollars"
+Named Entities: [no-reservation hours (Hours), under 20 dollars (Price)]

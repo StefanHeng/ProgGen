@@ -1,0 +1,8 @@
+Query: "Can you recommend a movie with a revenge plot that is very satisfying to watch"
+Named Entities: [revenge plot (Plot), satisfying (Review)]
+
+Query: "I'm looking for a teaser trailer of a movie set in the danger zone"
+Named Entities: [teaser trailer (Trailer), danger zone (Plot)]
+
+Query: "Has there been any recent movies that are a must pass for viewers"
+Named Entities: [must pass (Viewers' Rating)]

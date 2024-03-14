@@ -1,0 +1,8 @@
+Query: "Can you recommend a quirky spot for late-night dining?"
+Named Entities: [quirky (Amenity), late-night dining (Amenity)]
+
+Query: "I'm looking for a place with unusual ambience that serves food after midnight."
+Named Entities: [unusual ambience (Amenity), after midnight (Hours)]
+
+Query: "Find me a restaurant with eccentric decor open past 2 am."
+Named Entities: [eccentric decor (Amenity), past 2 am (Hours)]

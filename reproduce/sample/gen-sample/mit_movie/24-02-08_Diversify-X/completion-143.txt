@@ -1,0 +1,8 @@
+1. "Can you give me a brief summary of the plot for the movie Inception?"
+Named Entities: [Inception (Title), plot summary (Plot)]
+
+2. "Do you really think the new Tarantino movie lives up to the hype? Some people say it's overrated."
+Named Entities: [Tarantino (Director), new (Year), overrated (Review)]
+
+3. "I heard that the latest action film starring Tom Hardy got mixed reviews. What's the story about anyway?"
+Named Entities: [action film (Genre), Tom Hardy (Actor), mixed reviews (Review), story (Plot)]

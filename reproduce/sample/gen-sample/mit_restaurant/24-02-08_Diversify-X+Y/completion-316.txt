@@ -1,0 +1,8 @@
+1. "Can you recommend a late-night dining spot with a good wine selection?"
+Named Entities: [late-night dining (Amenity), good wine selection (Amenity)]
+
+2. "What are the top-rated places for late-night dining in the downtown area?"
+Named Entities: [top-rated (Rating), late-night dining (Amenity), downtown area (Location)]
+
+3. "I'm looking for a late-night dining restaurant with a diverse menu and outdoor seating."
+Named Entities: [late-night dining (Amenity), diverse menu (Amenity), outdoor seating (Amenity)]

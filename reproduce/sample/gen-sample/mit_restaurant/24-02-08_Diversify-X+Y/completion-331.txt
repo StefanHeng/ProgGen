@@ -1,0 +1,8 @@
+Query: "Can you suggest a quiet and peaceful Caribbean restaurant for lunch on Friday in Nashville?"
+Named Entities: [Caribbean (Cuisine), Friday (Hours), Nashville (Location)]
+
+Query: "I'm looking for a peaceful lunch spot with Caribbean food in Nashville that's popular among young adults. Any suggestions?"
+Named Entities: [Caribbean (Cuisine), lunch (Amenity), Nashville (Location), young adult (Price)]
+
+Query: "Where can I find a quiet lunch place serving Caribbean cuisine that's popular with female students in Nashville on Fridays?"
+Named Entities: [Caribbean (Cuisine), lunch (Amenity), Nashville (Location), Friday (Hours), female, student (Price)]

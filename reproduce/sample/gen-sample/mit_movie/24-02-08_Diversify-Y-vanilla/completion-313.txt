@@ -1,0 +1,8 @@
+1. "Can you recommend a movie with Michelle Pfeiffer and came out in 1987, featuring the song Don't Stop Believin'?"
+   Named Entities: [Michelle Pfeiffer (Actor), 1987 (Year), Don't Stop Believin' (Song)]
+
+2. "What is the viewers' rating for the film starring Michelle Pfeiffer that was released in 1987?"
+   Named Entities: [Michelle Pfeiffer (Actor), 1987 (Year), viewers' rating (Viewers' Rating)]
+
+3. "Who directed the movie from 1987 with Michelle Pfeiffer and the song Don't Stop Believin'?"
+   Named Entities: [Michelle Pfeiffer (Actor), 1987 (Year), Don't Stop Believin' (Song), directed (Director)]

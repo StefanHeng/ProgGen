@@ -1,0 +1,8 @@
+Query: "can you recommend a cost-effective late night dining option on Main Street that serves Japanese cuisine"
+Named Entities: [cost-effective late night dining (Amenity), Main Street (Location), Japanese (Cuisine)]
+
+Query: "what are the best options for late night Japanese cuisine on River Road"
+Named Entities: [late night (Hours), Japanese cuisine (Cuisine), River Road (Location)]
+
+Query: "which restaurant on Elm Street offers affordable late night dining with Japanese dishes"
+Named Entities: [affordable (Price), late night dining (Amenity), Elm Street (Location), Japanese dishes (Cuisine)]

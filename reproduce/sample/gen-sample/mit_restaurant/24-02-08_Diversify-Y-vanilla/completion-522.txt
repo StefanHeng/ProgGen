@@ -1,0 +1,8 @@
+1. "I'm craving some sushi. Is there a good sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), nearby (Location)]
+
+2. "What time does the Italian restaurant on Main Street close tonight?"
+Named Entities: [Italian (Cuisine), Main Street (Location), tonight (Hours)]
+
+3. "I'm in the mood for some pizza. Where can I find a place with a high rating?"
+Named Entities: [pizza (Cuisine), high rating (Rating)]

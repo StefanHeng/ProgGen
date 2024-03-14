@@ -1,0 +1,8 @@
+1. "Can you tell me about a movie with a well-cast featuring Hugh Jackman in 2015?"
+Named Entities: [Hugh Jackman (Actor), 2015 (Year), well-cast (Viewers' Rating)]
+
+2. "I'm curious about any movies that Jordan Peele directed with memorable performances by the cast."
+Named Entities: [Jordan Peele (Director), memorable performances (Viewers' Rating)]
+
+3. "Do you have an exclusive look at any films from the past few years that received 4 out of 5 ratings despite a lack of chemistry among the cast?"
+Named Entities: [Exclusive look (Trailer), 4 out of (Viewers' Rating), lack of chemistry among the cast (Review)]

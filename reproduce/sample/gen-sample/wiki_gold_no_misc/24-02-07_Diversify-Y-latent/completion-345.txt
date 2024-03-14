@@ -1,0 +1,8 @@
+Sentence: "The Eiffel Tower is located in Paris, France."
+Named Entities: [Eiffel Tower (location), Paris (location), France (location)]
+
+Sentence: "The company was founded by Elon Musk and his brother Kimbal Musk."
+Named Entities: [Elon Musk (person), Kimbal Musk (person)]
+
+Sentence: "The United Nations is headquartered in New York City."
+Named Entities: [United Nations (organization), New York City (location)]

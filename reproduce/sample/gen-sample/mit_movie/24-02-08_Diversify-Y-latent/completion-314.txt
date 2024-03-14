@@ -1,0 +1,8 @@
+1. Query: "What is the viewers' rating for Dreamgirls?"
+   Named Entities: [Dreamgirls (Title), viewers' rating (Viewers' Rating)]
+
+2. Query: "Can you show me a preview for the new George Lucas movie?"
+   Named Entities: [preview (Trailer), George Lucas (Director)]
+
+3. Query: "How many movies were rated GP in 1980?"
+   Named Entities: [GP (MPAA Rating), 1980 (Year)]

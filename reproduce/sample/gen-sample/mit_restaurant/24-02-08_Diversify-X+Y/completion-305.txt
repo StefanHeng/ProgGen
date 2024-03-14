@@ -1,0 +1,8 @@
+Query: "Can you recommend a fine dining restaurant on the south side with outdoor seating?"
+Named Entities: [fine dining (Price), south side (Location), outdoor seating (Amenity)]
+
+Query: "I'm looking for a fine dining restaurant with valet parking, preferably on the south side."
+Named Entities: [fine dining (Price), valet parking (Amenity), south side (Location)]
+
+Query: "Where can I find a fine dining restaurant with outdoor seating and valet parking, preferably on the south side?"
+Named Entities: [fine dining (Price), outdoor seating (Amenity), valet parking (Amenity), south side (Location)]

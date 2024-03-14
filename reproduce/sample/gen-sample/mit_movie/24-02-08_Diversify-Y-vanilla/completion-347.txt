@@ -1,0 +1,8 @@
+1. "Can you show me the theatrical trailer for the 2008 film that is considered addictive to watch?"
+Named Entities: [theatrical trailer (Trailer), 2008 (Year), addictive (Viewers' Rating)]
+
+2. "What is the plot of the film directed by Christopher Nolan with a view rating of five stars?"
+Named Entities: [Christopher Nolan (Director), five stars (Viewers' Rating)]
+
+3. "What is the MPAA rating of the historical movie starring Tom Hanks?"
+Named Entities: [historical (Genre), MPAA rating (MPAA Rating), Tom Hanks (Actor)]

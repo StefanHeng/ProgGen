@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a Western movie with a PG rating?"
+   Named Entities: [Western (Genre), PG (MPAA Rating)]
+
+2. Query: "What is the viewers' rating for Saving Private Ryan?"
+   Named Entities: [Saving Private Ryan (Title)]
+
+3. Query: "Can you show me a film noir movie with an M rating?"
+   Named Entities: [film noir (Genre), M (MPAA Rating)]

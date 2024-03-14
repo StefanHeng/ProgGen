@@ -1,0 +1,8 @@
+Query: "Where can I find a good place for Bangers and Mash?"
+Named Entities: [good (Rating), Bangers and Mash (Dish)]
+
+Query: "What are some wallet-friendly restaurants nearby?"
+Named Entities: [wallet-friendly (Price), restaurants (Amenity)]
+
+Query: "I'm craving some Texas Roadhouse, where is the closest one?"
+Named Entities: [craving (Amenity), Texas Roadhouse (Restaurant Name), closest (Location)]

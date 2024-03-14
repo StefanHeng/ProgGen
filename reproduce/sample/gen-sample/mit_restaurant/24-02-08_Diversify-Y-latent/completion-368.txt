@@ -1,0 +1,8 @@
+Query: "Can you recommend a restaurant from the Eater 38 list for a special occasion?"
+Named Entities: [Eater 38 list (Amenity), special occasion (Amenity)]
+
+Query: "I'm looking for a Chinese restaurant with a 5-star rating in the downtown area."
+Named Entities: [Chinese (Cuisine), 5-star rating (Rating), downtown area (Location)]
+
+Query: "What are the hours of operation for the Italian restaurant with outdoor seating?"
+Named Entities: [Italian (Cuisine), hours of operation (Hours), outdoor seating (Amenity)]

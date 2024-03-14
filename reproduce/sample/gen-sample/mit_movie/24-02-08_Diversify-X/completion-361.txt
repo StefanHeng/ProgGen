@@ -1,0 +1,8 @@
+1. Query: "Can you recommend me some action thriller movies with a female lead?"
+Named Entities: [action thriller (Genre), female lead (Character)]
+
+2. Query: "I'm in the mood for a mind-bending science fiction film, can you suggest one from the 90s?"
+Named Entities: [mind-bending (Plot), science fiction (Genre), 90s (Year)]
+
+3. Query: "I want to explore some classic film noirs, do you have any recommendations?"
+Named Entities: [classic (Viewers' Rating), film noir (Genre)]

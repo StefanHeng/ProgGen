@@ -1,0 +1,8 @@
+1. Query: "Could you recommend a movie with enchanting music like Purple Haze and directed by Spike Lee?"
+Named Entities: [enchanting music (Song), Purple Haze (Song), Spike Lee (Director)]
+
+2. Query: "Is Margot Robbie in any historical films that are a must see with a GP rating?"
+Named Entities: [Margot Robbie (Actor), historical (Genre), must see (Review), GP (MPAA Rating)]
+
+3. Query: "What is the viewers' rating for the movie Wolverine released in 2017?"
+Named Entities: [Wolverine (Title), 2017 (Year), viewers' rating (Viewers' Rating)]

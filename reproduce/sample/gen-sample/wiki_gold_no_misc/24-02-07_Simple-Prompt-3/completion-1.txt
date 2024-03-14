@@ -1,0 +1,149 @@
+1. The Eiffel Tower was designed by the engineer Gustave Eiffel and his company
+Named Entities: [Gustave Eiffel (person)]
+
+2. The United Nations is an intergovernmental organization that aims to maintain international peace and security
+Named Entities: [United Nations (organization)]
+
+3. Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields.
+Named Entities: [Marie Curie (person)]
+
+4. The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials
+Named Entities: [Great Wall of China (location)]
+
+5. The University of Oxford is a collegiate research university located in Oxford, England
+Named Entities: [University of Oxford (organization), Oxford (location)]
+
+6. Albert Einstein was a German-born theoretical physicist who developed the theory of relativity.
+Named Entities: [Albert Einstein (person), Germany (location)]
+
+7. The World Health Organization is a specialized agency of the United Nations responsible for international public health
+Named Entities: [World Health Organization (organization), United Nations (organization)]
+
+8. The Amazon rainforest, also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America
+Named Entities: [Amazon rainforest (location), Amazon biome (location), South America (location)]
+
+9. Leonardo da Vinci is considered one of the most diversely talented individuals ever to have lived
+Named Entities: [Leonardo da Vinci (person)]
+
+10. The Vatican is an independent city-state enclaved within Rome, Italy
+Named Entities: [Vatican (location), Rome (location), Italy (location)]
+
+11. The Beatles were an English rock band formed in Liverpool in 1960
+Named Entities: [The Beatles (organization), Liverpool (location), England (location)]
+
+12. Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the Civil Rights Movement.
+Named Entities: [Martin Luther King Jr. (person), American (location)]
+
+13. Notre-Dame de Paris, also called Notre-Dame Cathedral, is a historic Catholic cathedral on the eastern half of the Île de la Cité in the fourth arrondissement of Paris
+Named Entities: [Notre-Dame de Paris (location), Notre-Dame Cathedral (organization), Île de la Cité (location), Paris (location)]
+
+14. The Coca-Cola Company is an American multinational corporation and manufacturer, retailer, and marketer of nonalcoholic beverage concentrates and syrups
+Named Entities: [Coca-Cola Company (organization), American (location)]
+
+15. Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, and poet
+Named Entities: [Pablo Picasso (person), Spanish (location)]
+
+16. The Nile is a major north-flowing river in northeastern Africa
+Named Entities: [Nile (location), Africa (location)]
+
+17. The European Union is a political and economic union of 27 member states that are located primarily in Europe
+Named Entities: [European Union (organization), Europe (location)]
+
+18. Winston Churchill was a British statesman, army officer, and writer
+Named Entities: [Winston Churchill (person), British (location)]
+
+19. The Tokyo Tower is a communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan
+Named Entities: [Tokyo Tower (location), Shiba-koen (location), Minato (location), Tokyo (location), Japan (location)]
+
+20. Frida Kahlo was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico
+Named Entities: [Frida Kahlo (person), Mexican (location)]
+
+21. The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City
+Named Entities: [Statue of Liberty (location), Liberty Island (location), New York Harbor (location), New York City (location)]
+
+22. Vincent van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art.
+Named Entities: [Vincent van Gogh (person), Dutch (location)]
+
+23. The Sydney Opera House is a multi-venue performing arts center in Sydney, New South Wales, Australia
+Named Entities: [Sydney Opera House (organization), Sydney (location), New South Wales (location), Australia (location)]
+
+24. The Democratic Party is one of the two major contemporary political parties in the United States
+Named Entities: [Democratic Party (organization), United States (location)]
+
+25. Charles Darwin was an English naturalist, geologist, and biologist known for his contributions to the science of evolution
+Named Entities: [Charles Darwin (person), English (location)]
+
+26. The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna River in the Indian city of Agra.
+Named Entities: [Taj Mahal (location), Yamuna River (location), Indian (location), Agra (location)]
+
+27. Stephen Hawking was an English theoretical physicist, cosmologist, and author
+Named Entities: [Stephen Hawking (person), English (location)]
+
+28. The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza in Egypt
+Named Entities: [Great Pyramid of Giza (location), Giza pyramid complex (location), El Giza (location), Egypt (location)]
+
+29. The British Museum is a public institution dedicated to human history, art, and culture located in the Bloomsbury area of London
+Named Entities: [British Museum (organization), London (location), Bloomsbury (location)]
+
+30. Mahatma Gandhi was the preeminent leader of the Indian independence movement in British-ruled India
+Named Entities: [Mahatma Gandhi (person), Indian (location), British (location)]
+
+31. The Colosseum is the largest ancient amphitheatre ever built, and is situated just east of the Roman Forum in Rome, Italy
+Named Entities: [Colosseum (location), Roman Forum (location), Rome (location), Italy (location)]
+
+32. Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author
+Named Entities: [Isaac Newton (person), English (location)]
+
+33. The Louvre Museum is the world's largest art museum and a historic monument in Paris, France
+Named Entities: [Louvre Museum (organization), Paris (location), France (location)]
+
+34. Galileo Galilei was an Italian astronomer, physicist, and engineer
+Named Entities: [Galileo Galilei (person), Italian (location)]
+
+35. The Panama Canal is a man-made canal in Panama, which connects the Atlantic Ocean to the Pacific Ocean
+Named Entities: [Panama Canal (location), Atlantic Ocean (location), Pacific Ocean (location), Panama (location)]
+
+36. Ernest Hemingway was an American novelist, short story writer, and journalist
+Named Entities: [Ernest Hemingway (person), American (location)]
+
+37. The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989
+Named Entities: [Berlin Wall (location), Berlin (location)]
+
+38. Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer
+Named Entities: [Alexander Graham Bell (person), Scottish (location)]
+
+39. The Forbidden City is a palace complex in central Beijing, China
+Named Entities: [Forbidden City (location), Beijing (location), China (location)]
+
+40. Ludwig van Beethoven was a German composer and pianist
+Named Entities: [Ludwig van Beethoven (person), German (location)]
+
+41. The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district and the North Shore.
+Named Entities: [Sydney Harbour Bridge (location), Sydney Harbour (location), Sydney (location), North Shore (location)]
+
+42. Florence Nightingale was an English social reformer and statistician
+Named Entities: [Florence Nightingale (person), English (location)]
+
+43. The Parthenon is a former temple on the Athenian Acropolis, Greece, dedicated to the goddess Athena
+Named Entities: [Parthenon (location), Acropolis (location), Greece (location), Athena (location)]
+
+44. Edgar Allan Poe was an American writer, editor, and literary critic
+Named Entities: [Edgar Allan Poe (person), American (location)]
+
+45. The Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge
+Named Entities: [Machu Picchu (location), Inca (location), Eastern Cordillera (location), Peru (location)]
+
+46. Albert Schweitzer was a French-German theologian, organist, writer, humanitarian, philosopher, and physician
+Named Entities: [Albert Schweitzer (person), French-German (location)]
+
+47. The White House is the official residence and workplace of the President of the United States
+Named Entities: [White House (location), President of the United States (organization)]
+
+48. Beethoven's symphonies and sonatas became the basis for the large-scale works of later Romantic composers
+Named Entities: [Beethoven (person), Romantic composers (organization)]
+
+49. The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain
+Named Entities: [Alhambra (location), Granada (location), Andalusia (location), Spain (location)]
+
+50. Michelangelo was an Italian sculptor, painter, architect, and poet of the High Renaissance born in the Republic of Florence
+Named Entities: [Michelangelo (person), Italian (location), Republic of Florence (location)]

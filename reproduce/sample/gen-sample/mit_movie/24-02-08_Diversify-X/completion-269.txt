@@ -1,0 +1,8 @@
+1. "Can you tell me about any acclaimed movies in terms of recognition?"
+Named Entities: [acclaimed movies (Title), recognition (Review)]
+
+2. "Is there a film that has won multiple awards and is considered a classic?"
+Named Entities: [multiple awards (Awards), classic (Viewers' Rating)]
+
+3. "What are some highly-decorated movies recognized in the film industry?"
+Named Entities: [highly-decorated movies (Title), recognized (Review)]

@@ -1,0 +1,11 @@
+1. Query: "do you have any {{promos}} for NC-17 movies"
+Text Span: "promos"
+Label: (C). The span is a named entity but the category is not trailer. Entity Type: other
+
+2. Query: "Can I watch the {{Preview trailer}} of the movie Billy Elliot directed by Stephen Daldry"
+Text Span: "Preview trailer"
+Label: (A). The span is a named entity of type trailer
+
+3. Query: "What was the {{first look}} at the next Batman movie directed by Matt Reeves?"
+Text Span: "first look"
+Label: (D). The span is not a named entity

@@ -1,0 +1,8 @@
+1. The city of Osaka is known for its modern architecture and vibrant nightlife.
+Named Entities: [Osaka (location)]
+
+2. The company based in Osaka, Japan, is a leading supplier of electronic components.
+Named Entities: [Osaka (location), Japan (location)]
+
+3. After graduating from Osaka University, she went on to pursue a successful career in biomedical research.
+Named Entities: [Osaka University (organization)]

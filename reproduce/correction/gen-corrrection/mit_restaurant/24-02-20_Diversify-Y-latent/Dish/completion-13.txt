@@ -1,0 +1,8 @@
+1. Text Span: "wide selection of dishes"
+Label: (C). Wrong Type. The correct entity type is Cuisine.
+
+2. Text Span: "avant-garde dishes"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "seafood dishes"
+Label: (A). Correct Entity Annotation.

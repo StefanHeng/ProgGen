@@ -1,0 +1,8 @@
+1. Query: "What movie starring Ryan Reynolds has been described as a standout in the action-comedy genre?"
+   Named Entities: [Ryan Reynolds (Actor), standout (Viewers' Rating), action-comedy (Genre)]
+
+2. Query: "Can you recommend a film with the song Rhythm Nation in it?"
+   Named Entities: [Rhythm Nation (Song)]
+
+3. Query: "Is there a movie about a family inheritance feud that is rated AA?"
+   Named Entities: [family inheritance feud (Plot), AA (MPAA Rating)]

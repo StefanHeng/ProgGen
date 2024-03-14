@@ -1,0 +1,11 @@
+1. Sentence: "Tesla announces plans to build new manufacturing plant in {{Texas}} by 2022."
+Text Span: "Texas"
+Label: (A). The span is a named entity of type location
+
+2. Sentence: "President of {{Mexico}} visits China for trade talks."
+Text Span: "Mexico"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "Prominent singer from Rio de Janeiro, {{Brazil}}, to perform a charity concert for children in need."
+Text Span: "Brazil"
+Label: (A). The span is a named entity of type location

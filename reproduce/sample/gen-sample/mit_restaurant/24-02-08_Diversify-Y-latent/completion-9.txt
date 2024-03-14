@@ -1,0 +1,8 @@
+1. "Can you recommend a terrific café that allows BYOB?"
+Named Entities: [Terrific café (Amenity), BYOB (Amenity)]
+
+2. "What are the restaurant options with vegan dishes and outdoor seating?"
+Named Entities: [vegan (Cuisine), outdoor seating (Amenity)]
+
+3. "Find a place with live music and a 4-star rating for dinner tonight"
+Named Entities: [live music (Amenity), 4-star (Rating), dinner (Amenity)]

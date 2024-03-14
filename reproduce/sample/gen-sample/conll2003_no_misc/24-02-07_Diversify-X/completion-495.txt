@@ -1,0 +1,8 @@
+Sentence: "New airline announces non-stop flights from New York to Tokyo."
+Named Entities: [New York (location), Tokyo (location)]
+
+Sentence: "Tourism industry in Italy sees record number of visitors in 2021."
+Named Entities: [Italy (location)]
+
+Sentence: "Hotel chain to open 10 new properties in Europe next year."
+Named Entities: [Europe (location)]

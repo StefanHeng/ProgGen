@@ -1,0 +1,8 @@
+Query: "I'm looking for a brunch spot with outdoor seating and a good rating"
+Named Entities: [brunch (Amenity), outdoor seating (Amenity), good (Rating)]
+
+Query: "Can you recommend a brunch place with vegetarian options and a trendy atmosphere?"
+Named Entities: [brunch (Amenity), vegetarian options (Cuisine), trendy atmosphere (Amenity)]
+
+Query: "Where can I find a brunch place with bottomless mimosas and within walking distance?"
+Named Entities: [brunch (Amenity), bottomless mimosas (Amenity), walking distance (Location)]

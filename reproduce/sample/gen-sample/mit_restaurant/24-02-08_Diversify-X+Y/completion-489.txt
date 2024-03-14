@@ -1,0 +1,8 @@
+Query: "I'm craving some fast food, where can I find a place with a good selection of sushi rolls?"
+Named Entities: [fast food (Cuisine), sushi rolls (Dish)]
+
+Query: "Do you know of any fast food restaurants that offer chef's specials and also serve sushi rolls?"
+Named Entities: [fast food (Cuisine), chef's specials (Amenity), sushi rolls (Dish)]
+
+Query: "I'm looking for a fast food spot that has sushi rolls on the menu, what's a good place for that?"
+Named Entities: [fast food (Cuisine), sushi rolls (Dish)]

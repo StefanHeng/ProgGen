@@ -1,0 +1,11 @@
+1. Query: "What are some {{unforgettable}} psychological thriller movies?"
+Text Span: "unforgettable"
+Label: (A). The span is a named entity of type Review
+
+2. Query: "recommend a movie with a {{breathtaking}} plot"
+Text Span: "breathtaking"
+Label: (A). The span is a named entity of type Review
+
+3. Query: "What year was the movie The Breakfast Club released and what is its {{viewers' rating}}?"
+Text Span: "viewers' rating"
+Label: (C). The span is a named entity but the category is not review. The correct entity type is Viewers' Rating.

@@ -1,0 +1,8 @@
+1. "Can you show me a teaser for that new action movie?"
+Named Entities: [teaser (Trailer), action (Genre)]
+
+2. "What's the latest movie that everyone's talking about?"
+Named Entities: [latest (Year)]
+
+3. "Tell me about a classic film with a great soundtrack."
+Named Entities: [classic (Viewers' Rating), great soundtrack (Song)]

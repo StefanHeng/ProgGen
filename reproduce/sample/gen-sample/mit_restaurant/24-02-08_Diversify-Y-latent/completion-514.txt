@@ -1,0 +1,8 @@
+Query: "What type of cuisine does Riverside Bistro offer?"
+Named Entities: [Riverside Bistro (Restaurant Name), cuisine (Cuisine)]
+
+Query: "Where is Riverside Bistro located?"
+Named Entities: [Riverside Bistro (Restaurant Name), located (Location)]
+
+Query: "What are the hours of operation for Riverside Bistro?"
+Named Entities: [Riverside Bistro (Restaurant Name), hours of operation (Hours)]

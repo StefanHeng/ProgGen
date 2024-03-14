@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a restaurant with a high rating by food critics?"
+Named Entities: [high rating (Rating), food critics (Amenity)]
+
+2. Query: "I'm craving sushi, where can I find a good sushi restaurant nearby?"
+Named Entities: [sushi (Cuisine), nearby (Location)]
+
+3. Query: "Is there a fine dining restaurant in this area with a prix fixe menu?"
+Named Entities: [fine dining (Amenity), prix fixe menu (Price)]

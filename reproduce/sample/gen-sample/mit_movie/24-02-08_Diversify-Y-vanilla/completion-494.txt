@@ -1,0 +1,8 @@
+1. "Can you show me the teaser poster for the new James Bond movie that came out in 2021?"
+Named Entities: [teaser poster (Trailer), James Bond (Character), 2021 (Year)]
+
+2. "I'm looking for a movie rated AO with the song 'Let It Go' in it."
+Named Entities: [AO (MPAA Rating), Let It Go (Song)]
+
+3. "What emotionally resonant films did Christopher Nolan direct?"
+Named Entities: [emotionally resonant (Review), Christopher Nolan (Director)]

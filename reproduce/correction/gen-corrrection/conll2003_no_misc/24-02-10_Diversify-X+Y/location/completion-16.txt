@@ -1,0 +1,8 @@
+1. Text Span: "elementary school"
+Label: (C). The span is a named entity but the category is not location. Entity type: organization
+
+2. Text Span: "South Korea"
+Label: (A). The span is a named entity of type location
+
+3. Text Span: "Australia"
+Label: (A). The span is a named entity of type location

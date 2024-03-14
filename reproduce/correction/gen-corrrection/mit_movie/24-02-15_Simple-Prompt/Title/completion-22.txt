@@ -1,0 +1,8 @@
+1. Text Span: "Inception"
+Label: (A). The span is a named entity of type movie title
+
+2. Text Span: "The Godfather"
+Label: (A). The span is a named entity of type movie title
+
+3. Text Span: "roman holiday"
+Label: (C). Wrong Type. The correct entity type is Movie Title.

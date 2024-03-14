@@ -1,0 +1,8 @@
+1. Spoken query: "Could you tell me about the soundstage where Jessica Chastain filmed a MA15+ rated movie?"
+   Named Entities: [Jessica Chastain (Actor), MA15+ (MPAA Rating), Soundstage (Plot)]
+
+2. Spoken query: "I'm really curious about the behind-the-scenes of a silent film. Can you show me some part of an unrated movie with Heath Ledger?"
+   Named Entities: [silent film (Genre), unrated (MPAA Rating), Heath Ledger (Actor)]
+
+3. Spoken query: "I'm looking for a solid documentary about the making of movies. Can you recommend a film with a behind-the-scenes focus?"
+   Named Entities: [a solid (Review), documentary (Genre), making of movies (Plot)]

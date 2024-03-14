@@ -1,0 +1,8 @@
+1. "I need a restaurant with conference facilities not far from here"
+Named Entities: [Conference facilities (Amenity), not far (Location)]
+
+2. "What's a good spot for Italian cuisine with a 4-star rating?"
+Named Entities: [Italian (Cuisine), 4-star (Rating)]
+
+3. "Where can I find a place with outdoor seating and a view for under $20 per plate?"
+Named Entities: [outdoor seating (Amenity), under $20 per plate (Price)]

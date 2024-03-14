@@ -1,0 +1,8 @@
+1. "What are the opening hours for Denny's?"
+Named Entities: [Denny's (Restaurant Name), opening hours (Hours)]
+
+2. "Recommend a nearby restaurant with a diverse menu of international cuisines"
+Named Entities: [nearby (Location), diverse menu (Amenity), international cuisines (Cuisine)]
+
+3. "I'm looking for a highly-rated seafood restaurant in the downtown area"
+Named Entities: [highly-rated (Rating), seafood (Cuisine), downtown area (Location)]

@@ -1,0 +1,8 @@
+1. Text Span: "Paris Fashion Week"
+Label: (B). Wrong Boundary. The correct span boundary is "Paris".
+
+2. Text Span: "Mount Olympus"
+Label: (A). Correct Entity Annotation.
+
+3. Text Span: "Australia"
+Label: (A). Correct Entity Annotation.

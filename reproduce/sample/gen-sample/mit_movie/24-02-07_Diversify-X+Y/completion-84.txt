@@ -1,0 +1,8 @@
+1. Query: "Can you tell me about the production diary for the movie North by Northwest?"
+   Named Entities: [North by Northwest (Title), Production diary (Plot)]
+
+2. Query: "Are there any movies about betrayal directed by female directors?"
+   Named Entities: [betrayal (Plot), female directors (Director)]
+
+3. Query: "I'm interested in behind-the-scenes details of movies about female empowerment, can you recommend some?"
+   Named Entities: [female empowerment (Plot)]

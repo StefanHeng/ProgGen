@@ -1,0 +1,10 @@
+
+
+Query: "what is an engrossing movie that was released in the past year"
+Named Entities: [engrossing (Review), past year (Year)]
+
+Query: "do you have any exclusive look at any upcoming Michael Bay film"
+Named Entities: [exclusive look (Trailer), Michael Bay (Director)]
+
+Query: "show me a sneak peek of a movie directed by Edgar Wright"
+Named Entities: [sneak peek (Trailer), Edgar Wright (Director)]

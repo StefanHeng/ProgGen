@@ -1,0 +1,8 @@
+1. "Can you show me the trailer for the latest James Bond movie?"
+Named Entities: [trailer (Trailer), James Bond (Character)]
+
+2. "What are some highly-rated action movies from the 1990s?"
+Named Entities: [highly-rated (Review), action (Genre), 1990s (Year)]
+
+3. "I'm looking for a romantic comedy with a catchy soundtrack. Can you recommend one?"
+Named Entities: [romantic comedy (Genre), catchy soundtrack (Song)]

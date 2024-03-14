@@ -1,0 +1,11 @@
+1. Sentence: "In {{1951}}, the organization was created with the goal of providing humanitarian aid to war-torn Europe."
+Text Span: "1951"
+Label: (D). The span is not a named entity
+
+2. Sentence: "In 2018, the International Whaling Commission officially passed a resolution to create a {{South Atlantic}} Whale Sanctuary."
+Text Span: "South Atlantic"
+Label: (A). The span is a named entity of type location
+
+3. Sentence: "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of {{Athens}} and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon."
+Text Span: "Athens"
+Label: (A). The span is a named entity of type location

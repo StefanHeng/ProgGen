@@ -1,0 +1,8 @@
+1. "Can you recommend a restaurant with a high Infatuation score and a strategic position?"
+Named Entities: [high (Rating - Infatuation score), strategic position (Amenity)]
+
+2. "What's The Diners Club's best choice for a restaurant in this area?"
+Named Entities: [The Diners Club's best choice (Amenity)]
+
+3. "I'm looking for a place with a diverse menu and a strategic position for a business lunch"
+Named Entities: [diverse menu (Amenity), strategic position (Amenity), business lunch (Amenity)]

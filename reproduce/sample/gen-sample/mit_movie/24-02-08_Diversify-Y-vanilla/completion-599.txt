@@ -1,0 +1,8 @@
+1. Query: "Can you recommend a movie with shallow depth of field technique?"
+Named Entities: [shallow depth of field (Plot)]
+
+2. Query: "Did any movie featuring time travel get released in 2013?"
+Named Entities: [time travel (Plot), 2013 (Year)]
+
+3. Query: "What is the name of the movie directed by Zhang Yimou that received a high viewers' rating?"
+Named Entities: [Zhang Yimou (Director), high viewers' rating (Viewers' Rating)]
