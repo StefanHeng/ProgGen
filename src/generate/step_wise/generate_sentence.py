@@ -14,8 +14,8 @@ import random
 from os.path import join as os_join
 from typing import Dict, List, Union, Any, Optional
 
-from stefutil import *
-from src.util import *
+from stefutil import get_logger, pl, Timer
+from src.util import sconfig, pu, patterns, dataset_meta, dataset_name2data_dir, sample_few
 from src.util.ner_example import *
 from src.data_util import *
 from src.generate import *
@@ -114,7 +114,7 @@ class SentenceGenerator(StepWiseGenerator):
             pref_x, pref_y = d_dset['x-decoded-name'], d_dset['y-decoded-name']
             pref_x_ = d_dset['x-name']
 
-            pattern_ets = options2re_options(options=ets)
+            pattern_ets = patterns.options2re_options(options=ets)
             # match e.g. `[Location, Organization]`, `(person, organization)`, `(Amenity and Cuisine)`
             pattern_et_lst = rf'[\[(]{pattern_ets}((,| and) {pattern_ets})*[)\]]'
             # match e.g. `[person, location, organization]`
@@ -127,7 +127,7 @@ class SentenceGenerator(StepWiseGenerator):
             pattern_tag2 = r'\(.{1,30}\)'
             # e.g. `1. `, `Query 1: `
             pattern_enum_prefix = [rf'((?P<idx>\d+)\. )', rf'({pref_x_} (\d+): )', r'\s*-\s*']
-            pattern_enum_prefix = options2re_options(options=pattern_enum_prefix)
+            pattern_enum_prefix = patterns.options2re_options(options=pattern_enum_prefix)
 
             # match annotation row of only type-name pairs
             #   e.g. `   - [Organization: Nature's Beauty, Location: San Francisco]`
@@ -181,7 +181,7 @@ class SentenceGenerator(StepWiseGenerator):
                 re.compile(r'^"(?P<sent>.+?)"$', re.IGNORECASE),  # no enum prefix, at least 1 char
                 re.compile(r'^(?P<sent>.+?)$', re.IGNORECASE),
             ]
-            self.pattern_sent = re_pattern2regex_pattern(pattern=self.pattern_sent)  # 20X faster since too many patterns
+            self.pattern_sent = patterns.re_pattern2regex_pattern(pattern=self.pattern_sent)  # 20X faster since too many patterns
 
             # edge case: assistant prefix, e.g.
             #   Here are the 3 synthetic sentences for news stories:
@@ -194,7 +194,7 @@ class SentenceGenerator(StepWiseGenerator):
             pattern_e_pair = rf'{pattern_ets} [-–] [^?]{{1,30}}'
             pattern_e_pairs = rf'{pattern_ets}: .{{1,30}} [-–] {pattern_ets}: .{{1,30}}'
 
-            pref_x, pref_y = options2re_options(options=pref_x), options2re_options(options=pref_y)
+            pref_x, pref_y = patterns.options2re_options(options=pref_x), patterns.options2re_options(options=pref_y)
             self.pattern_skip = [
                 re.compile(rf'^.*(synthetic|generated|example).*{pref_x}.*$', re.IGNORECASE),
                 re.compile(rf'^.*{pref_x}.*synthetic.*$', re.IGNORECASE),
@@ -217,7 +217,7 @@ class SentenceGenerator(StepWiseGenerator):
 
                 re.compile(rf'^(?P<idx>\d+)\.( )?$', re.IGNORECASE)
             ]
-            self.pattern_skip = re_pattern2regex_pattern(pattern=self.pattern_skip)
+            self.pattern_skip = patterns.re_pattern2regex_pattern(pattern=self.pattern_skip)
 
             # named entities are highlighted in brackets
             #   e.g. [Lionel Messi] wins the prestigious ...
@@ -245,7 +245,7 @@ class SentenceGenerator(StepWiseGenerator):
             if rmv:  # ignore classes in filtering out inline annotations
                 for et in rmv:
                     ets_annot.remove(et)
-            pattern_ets_annot = options2re_options(options=ets_annot)
+            pattern_ets_annot = patterns.options2re_options(options=ets_annot)
             self.pattern_inline_annot = re.compile(rf'([\[(])(?P<et>{pattern_ets_annot})[])]', re.IGNORECASE)
 
             if drop_with_inline_type is None:
@@ -321,7 +321,7 @@ class SentenceGenerator(StepWiseGenerator):
 
     @staticmethod
     def example2demo_str(sample: NerExample) -> str:
-        return enclose_in_quote(sample.sentence)
+        return edit.enclose_in_quote(sample.sentence)
 
     def get_demo_instruction(self, n_demo: int = None):
         assert n_demo is not None and n_demo > 0
@@ -413,7 +413,7 @@ class SentenceGenerator(StepWiseGenerator):
         args = dict(logger=self.logger, init_log={'dataset-name': self.dataset_name, '#example requested': n_list})
         if self.diverse:
             args['log_callback'] = lambda log: self.crc.init_log(logger=self.logger)
-        write_completions(
+        completions.write_completions(
             output_path=output_dir, completion_type=self.completion_type, prompts=prompts, **args, **kwargs
         )
 
@@ -421,7 +421,7 @@ class SentenceGenerator(StepWiseGenerator):
         if self.pattern_skip:
             ret = []
             for sent in sentences:
-                if match(text=sent.strip(), pattern=self.pattern_skip, verbose=True):  # drop sentences that match skip patterns
+                if patterns.match_row(text=sent.strip(), pattern=self.pattern_skip, verbose=True):  # drop sentences that match skip patterns
                     self.ec(msg=f'Skipped sentence: [{pl.i(sent)}]', kind='filtered', args=dict(sentence=sent))
                     continue
                 ret.append(sent)
@@ -443,19 +443,19 @@ class SentenceGenerator(StepWiseGenerator):
             'class-name': self.__class__.__qualname__, 'metadata': self.meta(), 'output-path': output_path,
             'completions-dir-name': completions_dir_name, 'expected-samples-per-completion': n_expect
         }
-        out = process_completions_init(
+        out = completions.process_completions_init(
             completion_base_path=base_path, completions_dir_name=completions_dir_name, output_path=output_path, completion_type='Sentence',
             logger=self.logger, init_log=d_log
         )
-        log_prompt_eg(dir_name=completions_dir_name, base_path=base_path, logger=_logger)
-        self.ec = self.ec or EdgeCases(logger=self.logger)
+        completions.log_prompt_eg(dir_name=completions_dir_name, base_path=base_path, logger=_logger)
+        self.ec = self.ec or prettier.EdgeCases(logger=self.logger)
 
         sents = []
         t = Timer()
         for c in out.iter:
             completion, fnm, p_fnm = c.content, c.filename, c.pretty_filename
             if self.as_passage:
-                if len(find_match(text=completion, pattern=self.pattern_bold, match_whole_words=False)) > 0:
+                if len(patterns.find_match(text=completion, pattern=self.pattern_bold, match_whole_words=False)) > 0:
                     ori = completion
                     # drop the bold-facing by replacing regex matches with the entity name
                     new = self.pattern_bold.sub(r'\g<entity>', completion)
@@ -471,25 +471,24 @@ class SentenceGenerator(StepWiseGenerator):
                         _sents.append(m.group('title').strip())
                         assert m.start() == 0  # by construction
                         completion = completion[m.end():]
-                lines = completion2lines(completion=completion)
+                lines = completions.completion2lines(completion=completion)
                 for ln in lines:
                     from nltk.tokenize import sent_tokenize  # lazy import to save time
                     _sents += self._filter_sentences(sent_tokenize(ln))
             else:
-                lines = completion2lines(completion=completion)
+                lines = completions.completion2lines(completion=completion)
                 lines = self._filter_sentences(sentences=lines)
 
                 for ln in lines:
-                    m = match(text=ln, pattern=self.pattern_sent, verbose=True)
+                    m = patterns.match_row(text=ln, pattern=self.pattern_sent, verbose=True)
                     assert m is not None
-                    sent = m.group('sent').strip()
-                    # sic('before', sent)
+                    sent: str = m.group('sent').strip()
 
-                    if len(find_match(text=sent, pattern=self.pattern_inline_annot)) > 0:
+                    if len(patterns.find_match(text=sent, pattern=self.pattern_inline_annot)) > 0:
                         ori = sent
                         # drop the inline annotation by replacing regex matches w/ empty string
                         new = self.pattern_inline_annot.sub(r'', sent)
-                        new = drop_consecutive_space(text=new)
+                        new = patterns.drop_consecutive_space(text=new)
                         d_log = dict(filename=c.pretty_filename, original=ori, modified=new)
                         if self.drop_with_inline_type:
                             msg = f'Sentence w/ inline entity type annotation dropped w/ {pl.i(d_log)}'
@@ -498,7 +497,7 @@ class SentenceGenerator(StepWiseGenerator):
                         else:
                             self.ec(msg=f'Inline entity type annotation dropped from sentence w/ {pl.i(d_log)}', kind='drop-inline-type')
                             sent = new
-                    sent = drop_brackets_in_sentence(sentence=sent, pattern_emph=self.pattern_emph, ec=self.ec, filename=fnm)
+                    sent = edit.drop_brackets_in_sentence(sentence=sent, pattern_emph=self.pattern_emph, ec=self.ec, filename=fnm)
 
                     # drop starting double quote if it's the only one
                     if sent[0] == '"' and sent.find('"', 1) == -1:
@@ -514,10 +513,10 @@ class SentenceGenerator(StepWiseGenerator):
                 msg = f'Expected {pl.i(n_expect)} samples, but decoded {pl.i(len(_sents))} w/ {pl.i(d_log)}.'
                 self.ec(msg=msg, kind='wrong-sentence-count')
 
-            sents += [drop_enclosing_quotes(s) for s in _sents]
+            sents += [edit.drop_enclosing_quotes(s) for s in _sents]
 
         d_log_count = {'#sentence-extracted': len(sents)}
-        out = de_duplicate_samples(samples=sents, logger=self.logger)
+        out = dataset.de_duplicate_samples(samples=sents, logger=self.logger)
         sents, n_drop = out.samples, out.n_dup_drop
         d_log_count.update({'#duplicate-dropped': n_drop, '#sentence-kept': len(sents)})
         out_fnm = os_join(output_path, 'sentences.json')
@@ -528,6 +527,8 @@ class SentenceGenerator(StepWiseGenerator):
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     from chore.setup2generate_sentence_dir_name import *
 
     # dnm = 'conll2003-no-misc'
@@ -574,7 +575,7 @@ if __name__ == '__main__':
         def get_prompt():
             return sg.get_prompt(n_demo=n_demo_, n_list=n_list_, demo_args=da, with_unlabeled=unlabeled)
         n = 50 if (dc or de) else 5
-        print_prompts(prompt=lambda: get_prompt(), n=n)
+        prettier.print_prompts(prompt=lambda: get_prompt(), n=n)
 
     out_dnm = sg.meta(n_list=n_list_, with_unlabeled=unlabeled, postfix='debug' if debug else None)
     sic(out_dnm)

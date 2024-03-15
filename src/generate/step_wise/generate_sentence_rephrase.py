@@ -5,12 +5,11 @@ For generating rephrased sentences given sentences in the original dataset
 import re
 import json
 from os.path import join as os_join
-from typing import Tuple
+from typing import List, Tuple
 
 from stefutil import *
 from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
+from src.data_util import prettier, completions, dataset, sample_edit as edit
 from src.generate.step_wise.util import *
 
 
@@ -36,7 +35,7 @@ if __name__ == '__main__':
                'They cover diverse named entities that belong to the following entity types:\n'
                '[person, location, organization].\n\n'
                'Please paraphrase the following sentences:\n\n')
-        sents = '\n\n'.join([f'{i}. Sentence: {enclose_in_quote(s)}' for i, s in enumerate(sentences, start=1)])
+        sents = '\n\n'.join([f'{i}. Sentence: {edit.enclose_in_quote(s)}' for i, s in enumerate(sentences, start=1)])
         # ret += f'{sents_}\n\n\n---'
         ret += sents
         return ret
@@ -49,7 +48,7 @@ if __name__ == '__main__':
     def check_prompt():
         prompts = get_prompts()
         # sic(prompts[:10], len(prompts))
-        print_prompts(prompt=prompts[:10])
+        prettier.print_prompts(prompt=prompts[:10])
     # check_prompt()
 
     def write_completion():
@@ -62,7 +61,7 @@ if __name__ == '__main__':
         if debug:
             prompts = prompts[:5]
         d_log = {'dataset-name': dnm, '#example rephrased': n_reph}
-        write_completions(
+        completions.write_completions(
             output_path=output_dir, prompts=prompts, logger=_logger, completion_type='Sentence', init_log=d_log,
             temperature=temp, max_tokens=512  # 3 dc sentences ~120 tokens, 500 tokens for 5 sentences should be well-enough
         )
@@ -83,24 +82,24 @@ if __name__ == '__main__':
         base_path, output_path = out.base_path, out.path
         n_expect = n_reph
         d_log = {'output-path': output_path, 'completions-dir-name': dir_nm, 'expected-samples-per-completion': n_expect}
-        out = process_completions_init(
+        out = completions.process_completions_init(
             completion_base_path=base_path, completions_dir_name=dir_nm, output_path=output_path,
             completion_type='Sentence', logger=_logger, init_log=d_log)
-        log_prompt_eg(dir_name=dir_nm, base_path=base_path, logger=_logger)
-        ec = EdgeCases(logger=_logger)
+        completions.log_prompt_eg(dir_name=dir_nm, base_path=base_path, logger=_logger)
+        ec = prettier.EdgeCases(logger=_logger)
 
         sents = []
         t = Timer()
         for c in out.iter:
             completion = c.content
 
-            _sents = []
-            lines = completion2lines(completion=completion)
+            _sents: List[str] = []
+            lines = completions.completion2lines(completion=completion)
             for ln in lines:
-                if match(text=ln, pattern=pattern_ori) is not None:
+                if patterns.match_row(text=ln, pattern=pattern_ori) is not None:
                     ec(msg=f'Original sentence in completion: [{ln}]', kind='original-sentence')
                     continue
-                m = match(text=ln, pattern=pattern_sent)
+                m = patterns.match_row(text=ln, pattern=pattern_sent)
                 assert m is not None
                 sent = m.group('sent').strip()
                 _sents.append(sent)
@@ -109,10 +108,10 @@ if __name__ == '__main__':
                 d_log = {'filename': c.pretty_filename, '#expect': n_expect, '#got': len(_sents), 'sentences': _sents}
                 msg = f'Expected {pl.i(n_expect)} samples, but decoded {pl.i(len(_sents))} w/ {pl.i(d_log)}.'
                 ec(msg=msg, kind='wrong-sentence-count')
-            sents += [drop_enclosing_quotes(s) for s in _sents]
+            sents += [edit.drop_enclosing_quotes(s) for s in _sents]
 
         d_log_count = {'#sentence-extracted': len(sents)}
-        out = de_duplicate_samples(samples=sents, logger=_logger)
+        out = dataset.de_duplicate_samples(samples=sents, logger=_logger)
         sents, n_drop = out.samples, out.n_dup_drop
         assert n_drop == 0
         d_log_count.update({'#duplicate-dropped': n_drop, '#sentence-kept': len(sents)})

@@ -7,12 +7,12 @@ from typing import Dict, Tuple, List, Union, Any, Callable
 from dataclasses import dataclass, asdict, astuple
 from collections import Counter, defaultdict
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util.prettier import *
-from src.data_util.stats import *
-from src.data_util.logprob import *
+from stefutil import pl, ca, Timer, stem, get_logger, add_file_handler
+from src.util import sconfig, patterns, dataset_name2data_dir
+from src.util.ner_example import NerExample, NerReadableExample, NerBioExample, bio2readable, ner_labels2tag2index
+from src.data_util.prettier import at, atc, sdp, sdpc, EdgeCases
+from src.data_util.stats import NerDatasetStats
+from src.data_util.logprob import log_n_save_samples_w_logprob, log_n_save_triples_w_logprob
 
 
 __all__ = [
@@ -97,14 +97,10 @@ def de_duplicate_samples(
                 # check how many lists are non-empty
                 idx_non_empty = [i for i, x in enumerate(lps) if len(x) > 0]
                 if len(idx_non_empty) > 0:
-                    # sic(lps, len(lps))
                     lps = [lps[i] for i in idx_non_empty]
                     return min(lps, key=lambda x: sum(x) / len(x))
                 else:  # all lists are empty
                     return []
-            # debug_empty = {s: lps for s, lps in s2elp.items() if any(len(x) == 0 for x in lps)}
-            # sic(debug_empty)
-            # sample2entity_logprobs = {s: min(lps, key=lambda x: sum(x) / len(x)) for s, lps in s2elp.items()}
             sample2entity_logprobs = {s: resolve_entity_logprobs(lps) for s, lps in s2elp.items()}
         samples = list(dict.fromkeys(samples))  # drop duplicates and keep original order
     else:
@@ -475,9 +471,6 @@ def finish_ner_processing(
                             # check for substring and not exact match
                             ms = patterns.find_match(text=enm_super, keyword=enm_sub)  # make sure super-string by exact word boundary
                             n_mch = len(ms)
-                            # if n_mch not in [0, 1]:
-                            #     sic(sent, enms)
-                            #     sic(enm_sub, enm_super, ms)
                             # assert n_mch in [0, 1]  # sanity check at most 1 match
                             # surprisingly, the above may not be the case, e.g.
                             #   X: `The Hindu Vishwa Hindu Parishad, or VHP,
@@ -495,15 +488,6 @@ def finish_ner_processing(
                         out_ms = patterns.find_matches(text=sent, keywords=enms, ignore_case=True, search_in_order=True, return_all=False)
                         assert out_ms.success  # sanity check
                         ms_enms = out_ms.matches
-
-                    # if multi_occur and has_sub:  # sanity check these are mutually exclusive, for easy logic
-                    #     assert len(entity_sub2super) == 1 and len(enm2multi_occ_idx) == 1
-                    #     enm_c, enm_sub = list(enm2multi_occ_idx.keys())[0], list(entity_sub2super.keys())[0]
-                    #     if enm_c == enm_sub:
-                    #         sic(sent, enms, ets)
-                    #         sic(enm2multi_occ_idx, entity_sub2super)
-                    #         raise NotImplementedError
-                    #     assert enm_c != enm_sub
 
                     for i, (enm, et, lp) in enumerate(zip(enms, ets, et_lps)):
                         d = dict(sentence=sent, span=enm, entity_type=et, average_logprob=lp)
@@ -659,6 +643,8 @@ def analyze_diff(
     """
     :return: Whether the two examples differ in span and/or type
     """
+    from stefutil import sic
+
     logger = logger or _logger
 
     if ignore_case:
@@ -838,8 +824,6 @@ def compare_samples(
 
         # sanity check same sentence
         if ignore_case:
-            if eg1.sentence.lower() != eg2.sentence.lower():
-                sic(eg1, eg2)
             assert eg1.sentence.lower() == eg2.sentence.lower()
         else:
             assert eg1.sentence == eg2.sentence
@@ -987,17 +971,10 @@ class _Sample2LogprobsDict:
                 lp = lst[idx]
                 assert lp['index'] == idx
                 idxs_entity.append(idxs_entity_[idx])  # in the next iteration of the same span, will be the next index
-
-                # lst_ = deepcopy(lst)
-                # for d in lst_:
-                #     d.pop('index')
-                # # sanity check the dicts should equal each other now
-                # if not all(lst_[0] == d for d in lst_[1:]):
-                #     sic(lst, lst_)
-                # assert all(lst_[0] == d for d in lst_[1:])
             else:
                 idxs_entity += idxs_entity_
         if len(idxs_entity) != len(enms):
+            from stefutil import sic
             sic(sent, enms, ets, idxs_entity, len(idxs_entity))
         assert len(idxs_entity) == len(enms)  # sanity check exactly one match for each entity
         ret_entities = [self.entity_logprobs[i] for i in idxs_entity]
@@ -1108,6 +1085,8 @@ def merge_datasets(
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     # dnm = 'conll2003'
     # dnm = 'conll2003-no-misc'
     # dnm = 'job-desc'
@@ -1118,6 +1097,9 @@ if __name__ == '__main__':
     # dnm = 'ncbi-disease'
 
     def check_write_tag2id():
+        from src.util import pu
+        from src.util.ner_example import DatasetLoader
+
         output_path = os_join(pu.proj_path, 'original-dataset', dnm)
 
         assert dnm in ['conll2003', 'conll2003-no-misc', 'mit-movie']

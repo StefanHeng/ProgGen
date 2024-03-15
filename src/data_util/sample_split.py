@@ -3,7 +3,7 @@ import logging
 from typing import Dict, Tuple, List, Union, Any
 from dataclasses import dataclass
 
-from stefutil import *
+from stefutil import get_logger, pl
 from src.util import patterns
 from src.data_util import completions
 from src.data_util.prettier import EdgeCases
@@ -121,6 +121,7 @@ def split_samples(
             ms_ = patterns.find_match(text=sample, pattern=pattern)
             n_match = len(ms_)
             if n_match > 1:
+                from stefutil import sic
                 sic(completion, sample, ms_)
             assert n_match <= 1
             if n_match == 1:  # edge case: last sample may not be complete, e.g. just reasoning, no annotations

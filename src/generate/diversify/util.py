@@ -6,10 +6,9 @@ from typing import List, Dict, Union, Iterable, Any, Optional
 from dataclasses import dataclass
 from collections import defaultdict
 
-from stefutil import *
-from src.util import *
-from src.util import api
-from src.data_util import *
+from stefutil import pl, get_random_generator
+from src.util import sconfig, patterns, dataset_name2data_dir
+from src.data_util import prettier, completions, split
 
 
 __all__ = [
@@ -231,8 +230,8 @@ class OptionGenerator:
                 assert isinstance(k, str)
                 key2val[k] = enms
 
-        def _get_key2size(k2v: Dict[str, List[str]]) -> Dict[str, int]:
-            ret = {k: len(v) for k, v in k2v.items()}
+        def _get_key2size(k2v: Dict[str, List[str]]) -> Dict[str, Any]:
+            ret: Dict[str, Any] = {k_: len(v) for k_, v in k2v.items()}
             # get average & total
             n = sum(ret.values())
             avg = round(n / len(ret), 1)
@@ -246,5 +245,3 @@ class OptionGenerator:
             # d_sz = {et: len(enms) for et, enms in key2val.items()}
             d_sz = _get_key2size(key2val)
         return ProcessCompletionOutput(output_path=output_path, key2value=key2val, key2size=d_sz)
-
-

@@ -7,13 +7,14 @@ from typing import List
 
 from stefutil import *
 from src.util.ner_example import *
-from src.data_util import NerDatasetStats
+from src.data_util import stats
+
 
 if __name__ == '__main__':
 
     dnm = 'conll2003-no-misc'
     ts = 'test'
-    ds = NerDatasetStats.from_dir_name(dataset_name=dnm, dir_name=ts)
+    ds = stats.NerDatasetStats.from_dir_name(dataset_name=dnm, dir_name=ts)
     egs: List[NerReadableExample] = ds.egs
     # sic(len(egs), egs[:10])
     sents = [eg.sentence for eg in egs]

@@ -3,10 +3,9 @@ For the CoNLL2003 dataset
 """
 
 
-from stefutil import *
-
-
 if __name__ == '__main__':
+    from stefutil import pl, sic
+
     def get_entity_counts():
         """
         Counts number of annotated entities in each dataset split

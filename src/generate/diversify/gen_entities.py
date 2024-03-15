@@ -11,13 +11,12 @@ import json
 import random
 from copy import deepcopy
 from os.path import join as os_join
-from typing import List, Union, Optional, Iterable
+from typing import Dict, List, Union, Optional, Iterable, Any
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
-from src.generate.diversify.util import *
+from stefutil import get_logger, pl, stem, sic, get_random_generator
+from src.util import sconfig
+from src.util.ner_example import NerReadableExample, DatasetLoader
+from src.generate.diversify.util import OptionGenerator, N_List, DIVERSE_ENTITY_DNM, GenSetup
 from src.generate.diversify import Attribute2Categories
 
 
@@ -373,6 +372,7 @@ class EntityGenerator(OptionGenerator):
             ret = f'{pref} {instr}.'
 
             if d is not None and 'explanations' in d:
+                d: Dict[str, Any]
                 expls = d['explanations']
                 if len(expls) > 1:
                     expl = gen.choice(expls)
@@ -516,7 +516,7 @@ class EntityGenerator(OptionGenerator):
 
     def extract_values(self, text: str = None, n_expect: int = None) -> List[str]:
         ms = self._match_values(text=text, pattern=self.pattern_entity, n_expect=n_expect, union_patterns=True)
-        ret = [m.group('entity').strip() for m in ms]
+        ret: List[str] = [m.group('entity').strip() for m in ms]
         ret = [edit.drop_enclosing_quotes(e) for e in ret]
 
         if self.drop_after_comma:
@@ -581,6 +581,8 @@ if __name__ == '__main__':
     pc = EntityGenerator(dataset_name=dnm, entity_types=ets, n_demo=n_demo_, include_demo_ratio=dr, seeded=sd)
 
     def check_prompt():
+        from src.data_util import prettier
+
         gen = get_random_generator(generator=seed)
         dup = 1
         # dup = 5

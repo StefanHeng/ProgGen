@@ -4,8 +4,8 @@ from os.path import join as os_join
 from typing import Dict, List, Tuple, Union, TypeVar, Any
 from dataclasses import dataclass
 
-from stefutil import *
-from src.util._paths import *
+from stefutil import pl, SConfig, PathUtil, ca, get_logger, now, get_random_generator
+from src.util._paths import BASE_PATH, PROJ_DIR, PKG_NM, DSET_DIR, MODEL_DIR
 
 
 __all__ = [

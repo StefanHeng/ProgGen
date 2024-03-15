@@ -12,9 +12,9 @@ from dataclasses import dataclass
 
 import numpy as np
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
+from stefutil import get_logger, to_percent, describe, ca, sic, pl, punc_tokenize, stem
+from src.util import pu, sconfig
+from src.util.ner_example import detokenize, NerReadableExample, bio2readable, NerBioExample
 from src.data_util.prettier import highlight_span_in_sentence, sdpc
 
 
@@ -28,6 +28,8 @@ def get_word_weights(documents: List[str]) -> Dict[str, float]:
     """
     Given a list of documents, get weights of words via TF-IDF
     """
+    from stefutil import TextPreprocessor
+
     lst_toks = TextPreprocessor()(documents)
 
     from sklearn.feature_extraction.text import TfidfVectorizer  # lazy import to save time
@@ -89,6 +91,8 @@ def overlapping_words(
     """
     Given 2 corpus, return the top words appeared based on counts
     """
+    from stefutil import TextPreprocessor
+
     tp = TextPreprocessor(tokenize_scheme='chunk')
     toks_s = sum(tp(source_corpus), start=[])
     toks_t = sum(tp(target_corpus), start=[])

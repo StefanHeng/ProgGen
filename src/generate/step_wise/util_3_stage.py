@@ -6,17 +6,23 @@ Each (sentence, span) sample has corresponding manually-written chain-of-thought
     For both positive and negative samples
 
 Intended for 3-stage generation to boost annotation accuracy
+
+Generate an NER dataset step-wise (3-step)
+1. Generate sentences
+2. Extract entity spans
+3. Categorize entities
 """
+
 
 import random
 import re
 from typing import List, Union
 from dataclasses import dataclass
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
+from stefutil import pl, ca
+from src.util import sconfig
+from src.util.ner_example import NerReadableExample
+from src.data_util import prettier
 
 
 __all__ = [
@@ -399,6 +405,7 @@ class Type2GenType:
             else:
                 m = self.pattern_wrong_generated_entity_type.match(generated_entity_type)
                 if m is None:
+                    from stefutil import sic
                     sic(self.pattern_wrong_generated_entity_type, generated_entity_type)
                 assert m is not None
                 entity_type = m.group('entity_type')
@@ -521,6 +528,8 @@ class Sample2TypeClsTuples:
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     sic.output_width = 256
 
     def check_call():

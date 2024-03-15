@@ -11,10 +11,14 @@ import random
 from os.path import join as os_join
 from typing import List, Dict, Union, Any
 
-from stefutil import *
-from src.util import *
-from src.generate.diversify.util import *
-from src.generate.diversify.attr2cats_dicts import *
+from stefutil import get_logger, pl, ca, sic, now, get
+from src.util import pu, dataset_name2data_dir
+from src.generate.diversify.util import (
+    DIVERSE_DNM, DIVERSE_CONTEXT_DNM, DIVERSE_ENTITY_DNM, ENTITY_KEY, ENTITY_KEY_SEEDED, ENTITY_KEY_MIXED
+)
+from src.generate.diversify.attr2cats_dicts import (
+    conll2003_a2c, mit_movie_a2c, job_stack_a2c, wiki_gold_a2c, mit_restaurant_a2c
+)
 
 
 __all__ = ['Attribute2Categories']

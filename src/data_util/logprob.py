@@ -10,12 +10,10 @@ from collections import defaultdict
 
 import numpy as np
 
-from stefutil import *
-from src.util import *
-from src.util import api
-from src.util import patterns
-from src.util.ner_example import *
-from src.util.sample_formats import *
+from stefutil import get_logger, pl, ca, stem
+from src.util import spans_overlap, api, patterns
+from src.util.ner_example import NerReadableExample
+from src.util.sample_formats import EntityPairTemplate, EntityPairEncloseType
 from src.data_util import sample_edit as edit
 from src.data_util.prettier import EdgeCases, sdpc
 
@@ -65,8 +63,6 @@ def logprob_pair_decode_utf8(prob1: Dict[str, Any], prob2: Dict[str, Any]) -> st
     prob, prob_next = prob1, prob2
     tok = prob['token']
     n_tok = len(tok)
-    if (n_tok, len(prob['bytes'])) not in [(4, 1), (5, 2)]:
-        sic(prob, prob_next)
     assert (n_tok, len(prob['bytes'])) in [(4, 1), (5, 2)]
 
     # sic(prob, prob_next)
@@ -172,6 +168,8 @@ class Span2LogProb:
         :param index_start: If given, search for the span starting from this index
         :param index_end: If given, search for the span ending at this index
         """
+        from stefutil import sic
+
         assert span is not None
         if index_start is not None and index_end is not None:
             assert index_start < index_end
@@ -504,15 +502,9 @@ def ner_sample2logprobs(
     :param entity_sep: expected separator between entity annotations
     :param entity_pair_map: A map between internal, structured (entity name and type) and natural language
     """
+    from stefutil import sic
+
     ner_sample, s2lp = sample, span2logprob
-
-    # span, (sample_s, sample_e) = sample.sample_raw, sample.span  # the entire sample
-    # label_str, label_s = None, None
-    # if lp_kd == '1-stage-sample':
-    #     lp_out = s2lp(span=span, index_start=sample_s, index_end=sample_e)
-    # else:
-    # assert lp_kd == '1-stage-annotations'
-
     span, (sample_s, sample_e) = sample_str, sample_span
     label_start = 'Named Entities'
     assert span.count(label_start) == 1  # sanity check
@@ -750,7 +742,6 @@ def log_n_save_triples_w_logprob(
     logger.info(f'Entity Classifications sorted by log prob: {pl.i(dict_log, indent=3)}', **log_kwargs)
 
     if output_path is not None:
-        # triplets = [dict(sentence=s, span=sp, entity_type=et, average_logprob=lp_) for (s, sp, et, lp_) in triples_w_logprob]
         with open(os_join(output_path, 'logprobs-triple.json'), 'w') as f:
             json.dump(triples_w_logprob, f, indent=2)
         logger.info(f'Classification log probs written to {pl.i(stem(output_path))}', **log_kwargs)

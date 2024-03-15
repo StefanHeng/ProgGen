@@ -23,11 +23,11 @@ from torch.utils.data import default_collate
 from transformers import AutoConfig, AutoModelForTokenClassification, AutoTokenizer, PreTrainedTokenizer
 from tqdm import tqdm
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
-from src.trainer.utils_ner import *
+from stefutil import get_logger, pl, add_file_handler, now, fmt_e, round_f, group_n, punc_tokenize
+from src.util import sconfig, dataset_name2data_dir, dataset_name2model_dir
+from src.util.ner_example import NerReadableExample, NerBioExample
+from src.data_util import prettier, dataset
+from src.trainer.utils_ner import get_tag_to_id, get_chunks, NerChunk
 
 
 logger = get_logger('BERT Uncertain Sample Selector')
@@ -147,7 +147,7 @@ class Tags2Chunks:
         return get_chunks(seq=[self.tag2id[t] for t in tags], tag2id=self.tag2id, sort=True)
 
 
-def bert_pred_chunks2type(pred_chunks: List[NerChunk], ec: EdgeCases = None, **kwargs) -> Union[str, Dict[str, int]]:
+def bert_pred_chunks2type(pred_chunks: List[NerChunk], ec: prettier.EdgeCases = None, **kwargs) -> Union[str, Dict[str, int]]:
     n_pred_chunk = len(pred_chunks)
     if n_pred_chunk == 0:
         return '__NA__'
@@ -371,7 +371,7 @@ def ner_dataset2uncertain_triples(
     #   but here, we can actually look for potential missing LLM false negatives?
     #       Can do this later, ignore for now
     data_path = dataset_name2data_dir(dataset_name=dataset_name, input_dir=dataset_dir_name).path
-    ner_samples = dataset_dir_name2ner_samples(dataset_name=dataset_name, dataset_dir_name=dataset_dir_name).samples
+    ner_samples = dataset.dataset_dir_name2ner_samples(dataset_name=dataset_name, dataset_dir_name=dataset_dir_name).samples
 
     date = now(for_path=True, fmt='short-date')
     output_dir_nm = f'{date}_BERT-Annotation-Confidence'
@@ -447,7 +447,7 @@ def ner_dataset2uncertain_triples(
         lowercase=lowercase)
 
     conf_samples = []  # for each NER sample w/ sample-wise & entity-wise confidence scores
-    ec = EdgeCases(logger=logger)
+    ec = prettier.EdgeCases(logger=logger)
     for samples in it:
         outs = [use(sample=s, include_span_edge=include_span_edge) for s in samples]  # samples are in the Readable format, will convert to the tag-wise BIO format for encoding
         batch = [out.inputs for out in outs]
@@ -660,11 +660,11 @@ def ner_dataset2uncertain_triples(
 
         conf = bert_pred.conf
         # use `logprob` to mirror key name used in LLM logprob ranking
-        pair = CompareSamplePair(sample1=sample_llm, sample2=sample_bert, d_log=dict(logprob=f'{conf:.3e}'))
+        pair = dataset.CompareSamplePair(sample1=sample_llm, sample2=sample_bert, d_log=dict(logprob=f'{conf:.3e}'))
         samples_compare.append((pair, conf))
     samples_compare = sorted(samples_compare, key=lambda x: x[1])  # sort by BERT-predicted confidence
     msg = 'Samples compared w/ & sorted by BERT annotation confidence'
-    compare_samples(
+    dataset.compare_samples(
         samples=[sample for (sample, conf) in samples_compare], allow_no_diff=True, prefix1='LLM', prefix2='BERT',
         logger=logger, verbose=True, msg=msg)
 
@@ -722,7 +722,7 @@ def ner_dataset2uncertain_triples(
 
     triples_w_conf_log_: List[Tuple[str, str, str, float]] = [tuple(d.values()) for d in triples_w_conf]
     # a more compact log on the top-ranking triples for each entity type
-    log_n_save_triples_w_logprob(triples_w_logprob=triples_w_conf_log_, entity_types=entity_types, logger=logger, top_n_log='all')
+    dataset.log_n_save_triples_w_logprob(triples_w_logprob=triples_w_conf_log_, entity_types=entity_types, logger=logger, top_n_log='all')
 
 
 if __name__ == '__main__':

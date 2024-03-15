@@ -6,16 +6,15 @@ from os.path import join as os_join
 from typing import List, Tuple, Dict, Union, Iterable, Any, Optional, Callable
 from dataclasses import dataclass
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.util.sample_formats import *
-from src.util import api as api_util
-from src.data_util import *
+from stefutil import get_logger, pl, ca, get_random_generator
+from src.util import pu, sconfig, dataset_name2data_dir, sample_fmt2original_data_fmt, sample_fmt2data_fmt, dataset_meta, patterns
+from src.util.ner_example import NerExample, NerReadableExample, DatasetLoader
+from src.util.sample_formats import EntityPairTemplate, get_default_entity_sep, get_default_entity_pair_map
+from src.data_util import prettier, completions, dataset, split, edit
 from src.generate.schemas import Dataset2Schema
 from src.generate.sample2reason import Sample2Reasoning
-from src.generate.step_wise.util_3_stage import *
-from src.generate.step_wise.util_entity_correct import *
+from src.generate.step_wise.util_3_stage import Sentence2NegativeSpans, Sentence2SpansReasoning, Sample2TypeClsTuples, Type2GenType
+from src.generate.step_wise.util_entity_correct import EntityCorrectionSample
 
 
 __all__ = [

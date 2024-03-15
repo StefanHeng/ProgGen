@@ -11,11 +11,11 @@ from collections import defaultdict, Counter
 
 from tqdm import tqdm
 
-from stefutil import *
+from stefutil import get_logger, pl, ca, punc_tokenize
 from src.util import patterns
 from src.util import sample_check as check
-from src.util.ner_example import *
-from src.util.sample_formats import *
+from src.util.ner_example import check_single_char_appearance
+from src.util.sample_formats import EntityPairTemplate, EntityPairEncloseType
 from src.data_util.prettier import EdgeCases, sdpc
 
 
@@ -125,6 +125,7 @@ def duplicate_multi_occurring_entities(
     # Assume the entity name has the same type for all occurrences
     en2et = dict(zip(enms, ets))  # since entity names are all distinct, this is well-defined
     if max(c.values()) > allow_limit:
+        from stefutil import sic
         sic(enms, ets, c)
         raise NotImplementedError
 
@@ -161,6 +162,8 @@ def _get_valid_ordering(
     # so if too many entity names
     #   1. for the first `insert_if_more` entities, try all permutations
     #   2. iteratively insert the remaining entities, one by one, and greedily pick the first valid ordering
+    from stefutil import sic
+
     insert_if_more = insert_if_more or 8
     distinct_enm = len(set(entity_names)) == len(entity_names)  # each entity name is distinct
     # check if any duplicate entity name has different entity types
@@ -176,6 +179,7 @@ def _get_valid_ordering(
                 dup_groups[enm].append((entity_types[i] if entity_types is not None else None, i))
         # check if any duplicate entity name has different entity types
         if any(len({et for (et, idx) in lst}) > 1 for lst in dup_groups.values()):
+            from stefutil import sic
             sic(sentence, entity_names, entity_types, dup_groups)
             raise NotImplementedError
 
@@ -307,6 +311,7 @@ def drop_entities_enclosing_puncs(
     hp = [check.has_punc_on_edge(enm) for enm in enms]
     if any(hp.has_quote or hp.has_brackets for hp in hp):
         if dataset_name not in ['conll2003-no-misc', 'wiki-gold-no-misc', 'mit-movie', 'mit-restaurant']:
+            from stefutil import sic
             sic(dataset_name, entity_names)
             raise NotImplementedError
 

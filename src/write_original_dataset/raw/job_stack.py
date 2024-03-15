@@ -5,15 +5,15 @@ From their [homepage](https://github.com/kris927b/JobStack/tree/master/data):
 > In the JobStack paper we create our own data, which can be acquired by contacting us.
 """
 
-import os
-from os.path import join as os_join
-
-from stefutil import *
-from src.util import *
-from src.write_original_dataset.raw.util import *
-
 
 if __name__ == '__main__':
+    import os
+    from os.path import join as os_join
+
+    from stefutil import pl
+    from src.util import pu
+    from src.write_original_dataset.raw.util import load_conll_style, write_dataset, entity_type_dist
+
     dnm = 'job-stack'
     dataset_path = os_join(pu.proj_path, 'original-dataset', dnm)
     os.makedirs(dataset_path, exist_ok=True)

@@ -8,11 +8,11 @@ from typing import Dict, Tuple, List, Union, Any
 from collections import defaultdict, Counter
 from dataclasses import dataclass, asdict
 
-from stefutil import *
-from src.util import *
+from stefutil import get_logger, Timer, pl, get, to_percent
+from src.util import sconfig, dataset_name2data_dir, patterns
 from src.util import sample_check as check
-from src.util.ner_example import *
-from src.data_util import *
+from src.util.ner_example import NerReadableExample
+from src.data_util import prettier, edit
 
 
 __all__ = [
@@ -253,10 +253,6 @@ def log_n_select_uncertain_triples(
 
     triples = sorted(triples, key=lambda x: x[score_key])
     et2n_ch = Counter([x['entity_type'] for x in triples])
-    if set(et2n_ch.keys()) != set(entity_types):
-        sic(et2n_ch.keys(), entity_types)
-        set_1, set_2 = set(et2n_ch.keys()), set(entity_types)
-        sic(set_1 & set_2, set_1 - set_2, set_2 - set_1)
     assert set(et2n_ch.keys()) == set(entity_types)
     n_entity = sum(et2n_ch.values())
     entity_counts = {et: (et2n_ch[et], to_percent(et2n_ch[et] / n_entity, decimal=1)) for et in entity_types}
@@ -488,8 +484,6 @@ def override_w_manual_corrections(
             #         assert have_word_overlap(span1=mc.span, span2=mc.correction)
             # above too complicated, ignore
             if mc.correction_label == LABEL_WRONG_BOUNDARY:
-                if not check.have_word_overlap(span1=mc.span, span2=mc.correction):
-                    sic(mc)
                 assert check.have_word_overlap(span1=mc.span, span2=mc.correction)
 
         assert len(llm_crts) == len(manual_crts)  # sanity check the same #samples

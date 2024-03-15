@@ -6,7 +6,7 @@ import re
 import json
 from typing import List, Tuple, Optional
 
-from stefutil import *
+from stefutil import pl
 
 
 __all__ = [

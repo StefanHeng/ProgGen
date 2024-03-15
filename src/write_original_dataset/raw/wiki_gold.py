@@ -5,14 +5,15 @@ The authors didn't seem to release the dataset
 The most official version seems to be [this](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/wikigold)
 """
 
+
 import os
 from os.path import join as os_join
 from typing import List
 
-from stefutil import *
-from src.util import *
+from stefutil import pl
+from src.util import pu
 from src.util.ner_example import NerBioExample
-from src.write_original_dataset.raw.util import *
+from src.write_original_dataset.raw.util import download_raw_files, write_dataset, entity_type_dist
 
 
 __all__ = ['write']
@@ -56,6 +57,8 @@ def write(dataset_name: str = 'wiki-gold'):
 
 
 if __name__ == '__main__':
+    from src.util import sconfig
+
     dnm = 'wiki-gold'
 
     write(dataset_name=dnm)

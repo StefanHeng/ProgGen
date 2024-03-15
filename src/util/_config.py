@@ -6,9 +6,8 @@ import json
 from os.path import join as os_join
 from typing import Dict, Any
 
-from stefutil import *
-from src.util._paths import *
-from src.util.ner_example import *
+from src.util._paths import BASE_PATH, PROJ_DIR, PKG_NM
+from src.util.ner_example import ner_labels2tags
 
 
 config_dict = {
@@ -113,6 +112,8 @@ for dnm in ['job-desc', 'job-stack']:
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     def run():
         sic.output_width = 256
 

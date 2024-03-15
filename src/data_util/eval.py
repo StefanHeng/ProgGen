@@ -6,7 +6,7 @@ from dataclasses import dataclass
 import pandas as pd
 from nervaluate import Evaluator
 
-from stefutil import *
+from stefutil import pl
 
 
 __all__ = [
@@ -18,6 +18,7 @@ __all__ = [
 def get_token_cls_report(
         trues: List[int], preds: List[int], labels: List[str], ignore_labels: List[str] = None
 ) -> pd.DataFrame:
+    from stefutil import eval_array2report_df
     idx_lbs = list(range(len(labels)))
     args = dict(labels=idx_lbs, target_names=labels, zero_division=0, output_dict=True)
     df, _ = eval_array2report_df(labels=trues, preds=preds, report_args=args, pretty=False)
@@ -109,6 +110,7 @@ def get_entity_cls_report(
     #       > Note there’s a discrepancy here; the strict f1 for WORK_OF_ART is 79.1%, when seqeval gave 80.3%.
     #       This is because seqeval ignores the other types of tags when evaluating at a tag level, but nervaluate includes them.
     if df_se['micro avg'] != df_ne_exact['micro avg']:
+        from stefutil import sic
         sic(df_se, df_ne_exact)
         sic(df_se['micro avg'], df_ne_exact['micro avg'])
     assert df_se['micro avg'] == df_ne_exact['micro avg']

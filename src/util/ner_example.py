@@ -6,7 +6,7 @@ from typing import List, Dict, Tuple, Iterable, Union, Any
 from dataclasses import dataclass
 from collections import Counter, defaultdict
 
-from stefutil import *
+from stefutil import get_logger, pl, ca, punc_tokenize
 from src.util.util_ import *
 from src.util import patterns
 
@@ -139,6 +139,7 @@ def split_text_with_terms(
             labels += ["O" for _ in range(len(split_tokens))]
     assert all(t != '' for t in tokens)  # sanity check
     if _n_tag_added != len(term_list):
+        from stefutil import sic
         sic(_n_tag_added, len(term_list), term_list, terms_n_types, input_text, segments)
     # sanity check all entity names are indeed added; exhausted all terms
     assert _n_tag_added == len(term_list) and len(terms_n_types) == 0
@@ -184,8 +185,8 @@ class NerExample:
 @dataclass(eq=True, frozen=True)
 class NerBioExample(NerExample):
     sentence: str = None
-    tokens: Tuple[str] = None
-    ner_tags: Tuple[str] = None
+    tokens: Tuple[str, ...] = None
+    ner_tags: Tuple[str, ...] = None
 
     @classmethod
     def from_tokens_n_tags(cls, tokens: List[str], tags: List[str]) -> 'NerBioExample':
@@ -711,6 +712,8 @@ class DatasetLoader:
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     sic.output_width = 128
 
     # dnm = 'conll2003'

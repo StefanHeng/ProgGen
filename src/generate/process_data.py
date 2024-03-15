@@ -13,11 +13,13 @@ from typing import List, Tuple, Dict, Union, Any
 from dataclasses import dataclass
 from collections import Counter, defaultdict
 
-from stefutil import *
-from src.util import *
-from src.util import api, patterns, sample_check as check
-from src.util.ner_example import *
-from src.util.sample_formats import *
+from stefutil import get_logger, pl, ca, stem, ordinal, Timer
+from src.util import sconfig, span_pair_overlap, dataset_name2data_dir, sample_fmt2data_fmt, patterns, sample_check as check
+from src.util.ner_example import NerExample, NerReadableExample, NerBioExample, detokenize
+from src.util.sample_formats import (
+    EntityPairTemplate, EntityPairEnclosePair, EntityPairEncloseBoth, TokenMapEnclose,
+    get_default_entity_sep, get_default_entity_pair_map, get_default_token_map
+)
 from src.data_util import *
 from src.data_util.prettier import EdgeCases, sdpc
 
@@ -158,15 +160,12 @@ class Np2Transform:
                     sample_split = [x, f'{y_pref}{y}']
             if len(sample_split) != 2:
                 d_log = dict(sample=sample)
-                sic(sample)
                 self.ec(msg=f'Edge case: failed to split sample w/ {pl.i(d_log)}', kind='sample-split-fail', failed=True)
                 raise NotImplementedError
                 # return ExtractSampleOutput(success=False)
             sent, entities_raw = sample_split
             sent, entities_raw = sent.strip(), entities_raw.strip()
             m_s = patterns.match_row(text=sent, pattern=self.pattern_extract_sent, desc='sentence', **kwargs)
-            if m_s is None:
-                sic(sent, self.pattern_extract_sent)
             assert m_s is not None
             m_e = patterns.match_row(text=entities_raw, pattern=self.pattern_extract_entity, desc='entities', **kwargs)
             if m_e is None:
@@ -388,16 +387,13 @@ class Np2Transform:
             sent_ = edit.drop_puncs_in_sentence(sentence=sent, pattern_emph=self.pattern_emph, ec=self.ec, d_log=d_log, filename=filename)
             if sent != sent_:  # sentence was changed
                 if self.dataset_name not in ['conll2003-no-misc', 'wiki-gold-no-misc', 'mit-movie', 'mit-restaurant']:
+                    from stefutil import sic
                     # TODO: check that no enclosing quote in original dataset sentences
                     sic(sent, sent_)
                     raise NotImplementedError(filename)
                 d['sentence'] = fail_ret.sentence = sent = sent_
         # sanity check entities still in sentence
-        found_out = check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True)
-        if not found_out.all_found:
-            sic(sent, enms, ets)
-            sic(found_out)
-        assert found_out.all_found
+        assert check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True).all_found
 
         def log_overlap_fail(args_: Dict[str, Any] = None):
             kd_ = 'entity-overlap'
@@ -424,6 +420,7 @@ class Np2Transform:
                 assert len(set(enms)) == len(enms)
                 entity_spans = ovl_out.entity_spans
                 if not all(len(spans) == 1 for spans in entity_spans):
+                    from stefutil import sic
                     sic(sent, enms, ets)
                     sic(entity_spans)
                 assert all(len(spans) == 1 for spans in entity_spans)
@@ -455,6 +452,7 @@ class Np2Transform:
                     d_log.update(entity_name_after_overlap_drop=enms, entity_type_after_overlap_drop=ets)
                     d.update(entity_names=enms, entity_types=ets)
                 else:
+                    from stefutil import sic
                     sic(sent, enms, ets)
                     raise NotImplementedError
             log_overlap_fail(args_=args)
@@ -561,8 +559,6 @@ class Np2Transform:
             if not resolve_failure:
                 fail_ret.fail_reason = kd
                 return fail_ret
-        if 'date' in ets:
-            sic(resolve_failure, self.allowed_entity_types, sent, enms, ets)
         d.update(entity_names=tuple(enms), entity_types=tuple(ets) if ets is not None else None)
         return Np2SampleOutP2put(success=True, sample=NerReadableExample(**d), sentence=sent)
 
@@ -1096,6 +1092,8 @@ class Completion2Samples:
             # return BioSample(tokens=toks, tags=tags)
             raise NotImplementedError
         else:
+            from stefutil import sic
+
             assert self.sample_format == 'bio-line'
 
             pairs = sample.split('\n')
@@ -1214,8 +1212,6 @@ class Completion2Samples:
                         lps.append(lp_out.logprob)
                         et_lps.append(lp_out.entity_logprobs)
                 else:  # [`natural-inline`, `natural-inline-v2`]
-                    if not all(en_ in sent for en_ in en):
-                        sic(sent, en, et)
                     assert all(en_ in sent for en_ in en)  # a stricter check by the format construction
                     assert not check.entities_overlapping(sentence=sent, entity_names=en).overlap
                     raise NotImplementedError
@@ -1407,9 +1403,11 @@ class NerDatasetWriter:
                     completion=c_, n_samples=expected_samples_per_completion, filename=fnm, logprobs=c.logprobs,
                     resolve_extraction_failure=resolve_extraction_failure)
                 if len(out.sentences) != out.n_sample_found:
+                    from stefutil import sic
                     sic(out.sentences)
                     raise NotImplementedError
                 if resolve_extraction_failure and out.n_sample_found != expected_samples_per_completion:
+                    from stefutil import sic
                     sic(out.samples)
                     raise NotImplementedError
                 n_sample_found += out.n_sample_found

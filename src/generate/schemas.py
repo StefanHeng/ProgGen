@@ -2,7 +2,7 @@
 Store long strings that serves as part of GPT completion prompt
 """
 
-from stefutil import *
+from stefutil import ca
 
 
 __all__ = [

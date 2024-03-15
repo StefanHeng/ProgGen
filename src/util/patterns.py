@@ -4,7 +4,7 @@ import logging
 from typing import Dict, Tuple, List, Union
 from dataclasses import dataclass
 
-from stefutil import *
+from stefutil import get_logger, pl
 from src.util.util_ import span_pair_overlap
 
 
@@ -311,6 +311,8 @@ def find_non_overlap_matches(
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     def check_match_at_boundary():
         # text = ('South Africa Johannesburg, South Africa - South Africa,'
         #         'The South African government announced on Wednesday that it has identified a new variant of the '

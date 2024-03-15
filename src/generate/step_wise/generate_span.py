@@ -6,10 +6,9 @@ from typing import Dict, List, Tuple, Union, Optional, Any
 from collections import defaultdict, Counter
 from dataclasses import dataclass, asdict, astuple
 
-from stefutil import *
-from src.util import *
+from stefutil import pl, stem, Timer, chain_its
+from src.util import sconfig, patterns, sample_check as check
 from src.data_util import *
-from src.generate import *
 from src.generate.step_wise.generate_from_sentence import FromSentenceGenerator
 
 
@@ -279,10 +278,10 @@ class SpanGenerator(FromSentenceGenerator):
                         sent_gen, entities = m.group('sentence', 'entities')
 
                         # drop potential brackets that highlights entity spans
-                        if len(find_match(text=sent_gen, pattern=self.pattern_emph)) > 0:
+                        if len(patterns.find_match(text=sent_gen, pattern=self.pattern_emph)) > 0:
                             ori_sent_gen = sent_gen
 
-                            emphs = [m.group('et') for m in find_match(text=sent_gen, pattern=self.pattern_emph)]
+                            emphs = [m.group('et') for m in patterns.find_match(text=sent_gen, pattern=self.pattern_emph)]
                             sent_gen = self.pattern_emph.sub(r'\g<et>', sent_gen)
                             d_log = dict(filename=p_fnm, original=ori_sent_gen, modified=sent, emphasized=emphs)
                             msg = f'Entity-enclosing brackets dropped from sentence w/ {pl.i(d_log)}'
@@ -304,12 +303,12 @@ class SpanGenerator(FromSentenceGenerator):
 
                     # relevant edge cases copied over from `Np2Transform`
                     #   Only failure edge case is entity span not found in sentence, other edge cases for logging only
-                    if any(is_none(e) for e in enms):
+                    if any(patterns.is_none(e) for e in enms):
                         self.ec(msg=d_log, kind='none-entity')
-                        d_log['entity-spans'] = enms = [e for e in enms if not is_none(e)]
+                        d_log['entity-spans'] = enms = [e for e in enms if not patterns.is_none(e)]
 
                     # check each entity is found in the original sentence
-                    eis = entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True)
+                    eis = check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True)
                     # entity type may be generated, though not asked for; if so, drop them
                     ms_pair = [self.pattern_entity_pair.match(enm) for enm in enms]
                     if not eis.all_found and all(m is not None for m in ms_pair):  # assume entity type is also generated
@@ -318,16 +317,17 @@ class SpanGenerator(FromSentenceGenerator):
                         self.ec(msg=f'Edge case: entity type generated w/ {pl.fmt(d_log)}', kind=kd)
                         challenging_sents_[kd].append(sent)
 
-                        eis = entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True)
+                        eis = check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True)
 
                     if not eis.all_found:
-                        if any(has_punc_on_edge(enm).has_quote for enm in enms):
+                        if any(check.has_punc_on_edge(enm).has_quote for enm in enms):
                             # TODO: edge case: entity name annotation is enclosed in quotes, but the sentence doesn't have the quotes
-                            if entities_in_sentence(sentence=sent, entity_names=[drop_enclosing_quotes(enm) for enm in enms], ignore_case=True).all_found:
+                            enms = [edit.drop_enclosing_quotes(enm) for enm in enms]
+                            if check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True).all_found:
                                 raise NotImplementedError
 
                         # sanity check the missing entity is not due to a different version of the sentence
-                        assert not entities_in_sentence(sentence=sent_gen, entity_names=enms, ignore_case=True).all_found
+                        assert not check.entities_in_sentence(sentence=sent_gen, entity_names=enms, ignore_case=True).all_found
 
                         d_log['missing_entity_names'] = eis.entities_not_found
                         kd = 'entity-not-found'
@@ -335,7 +335,7 @@ class SpanGenerator(FromSentenceGenerator):
                         challenging_sents_[kd].append(sent)
                         continue
 
-                    ovl_out = entities_overlapping(
+                    ovl_out = check.entities_overlapping(
                         sentence=sent, entity_names=enms, ignore_case=True, search_in_order=False)
                     overlap, ms = ovl_out.overlap, ovl_out.matches
                     # if overlap and len(ms) == len(enms):
@@ -345,11 +345,11 @@ class SpanGenerator(FromSentenceGenerator):
                         self.ec(msg=_msg, kind='entity-overlap')
 
                     ic = True
-                    if entities_differ_in_case_only(entity_names=enms, sentence=sent, ec=self.ec):
+                    if edit.entities_differ_in_case_only(entity_names=enms, sentence=sent, ec=self.ec):
                         ic = False
                         msg = f'Edge case: entity names differ in case only w/ {pl.fmt(d_log)}'
                         self.ec(msg=msg, kind='entity-case-diff')
-                    c = get_non_overlapping_keyword_counts(sentence=sent, keywords=enms, ignore_case=ic)
+                    c = check.get_non_overlapping_keyword_counts(sentence=sent, keywords=enms, ignore_case=ic)
                     if any(c[enm] == 0 for enm in enms):  # some entity names not found in sentence
                         miss_ens = [enm for enm, count in c.items() if count == 0]
                         d_log['missing_entity_names'] = miss_ens
@@ -372,7 +372,7 @@ class SpanGenerator(FromSentenceGenerator):
                         msg = f'Edge case: entity names not distinct w/ {pl.fmt(d_log)}'
                         self.ec(msg=msg, kind='generated-multi-occur-entity')
 
-                    out = drop_entities_enclosing_puncs(
+                    out = edit.drop_entities_enclosing_puncs(
                         entity_names=enms, dataset_name=self.dataset_name, drop=drop_quote, ec=self.ec, d_log=d_log)
                     enms = out.entity_names,
                     if len(out.entity_names_modified) > 0:
@@ -405,9 +405,9 @@ class SpanGenerator(FromSentenceGenerator):
         proc_args = dict(completion_type=self.processed_type, logger=self.logger)
         init_args = {**proc_args.copy(), **dict(completion_base_path=base_path, output_path=output_path, init_log=init_log)}
         if not aggregate:
-            it_ = process_completions_init(completions_dir_name=completions_dir_name, **init_args)
+            it_ = completions.process_completions_init(completions_dir_name=completions_dir_name, **init_args)
             d_log_count['#completions'] = len(it_.filepaths)
-            log_prompt_eg(dir_name=completions_dir_name, base_path=base_path, logger=self.logger)
+            completions.log_prompt_eg(dir_name=completions_dir_name, base_path=base_path, logger=self.logger)
             ret, challenging_sents = process_single(it=it_, sentences_=sentences)
 
             d_log_count['#sample-extracted'] = len(ret)
@@ -418,13 +418,13 @@ class SpanGenerator(FromSentenceGenerator):
             dir_nms = sorted(glob.iglob(os_join(base_path, 'run-*')))
             dir_nms = [stem(dir_nm) for dir_nm in dir_nms]
 
-            process_completions_init(**init_args)
+            completions.process_completions_init(**init_args)
             nm2ret, challenging_sents = dict(), dict()
             d_n_cpl = dict()
             for i, dir_nm in enumerate(dir_nms, start=1):
-                log_prompt_eg(dir_name=dir_nm, base_path=base_path, logger=self.logger)
+                completions.log_prompt_eg(dir_name=dir_nm, base_path=base_path, logger=self.logger)
                 self.logger.info(f'Processing {pl.i(i)}-th run w/ directory {pl.i(dir_nm)}')
-                it_ = iter_completions(dir_name=dir_nm, base_path=base_path, **proc_args)
+                it_ = completions.iter_completions(dir_name=dir_nm, base_path=base_path, **proc_args)
                 d_n_cpl[dir_nm] = len(it_.filepaths)
 
                 sents = sentences[dir_nm]
@@ -441,6 +441,7 @@ class SpanGenerator(FromSentenceGenerator):
             for samp in chain_its(nm2ret.values()):
                 samp: SentenceNSpanSample
                 sent2lst_spans[samp.sentence].append(samp.entity_spans)
+            from stefutil import sic
             sic(sent2lst_spans)
             # TODO: handle challenging sentences merge
             raise NotImplementedError
@@ -465,7 +466,7 @@ class SpanGenerator(FromSentenceGenerator):
         if len(challenging_sents) > 0:
             out_fnm = os_join(output_path, 'challenging-sentences.json')
             # write the challenging sentences to prompt to LLM again, in a different shuffle order
-            log_n_save_challenging_samples(challenging_samples=challenging_sents, sample_kind='sentence', output_path=out_fnm, logger=self.logger)
+            dataset.log_n_save_challenging_samples(challenging_samples=challenging_sents, sample_kind='sentence', output_path=out_fnm, logger=self.logger)
         self.logger.info(self.ec.summary())
         self.logger.info(f'Processed samples w/ {pl.i(d_log_count, indent=1)} in {pl.i(t.end())}')
         return ret

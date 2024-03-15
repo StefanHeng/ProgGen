@@ -11,9 +11,9 @@ os.environ['SU_USE_PLT'] = 'F'
 os.environ['SU_USE_ML'] = 'T'
 os.environ['SU_USE_DL'] = 'T'
 
-from stefutil import *
-from src.trainer.run_ner import *
-from scripts.utils import *
+from stefutil import get_logger, pl
+from src.trainer.run_ner import TrainDummyArgs, run_train
+from scripts.utils import add_argument
 
 
 logger = get_logger(__name__)

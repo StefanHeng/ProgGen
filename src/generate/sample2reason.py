@@ -6,8 +6,8 @@ Intended for chain-of-thought reasoning to boost annotation accuracy
 
 from typing import Union
 
-from stefutil import *
-from src.util.ner_example import *
+from stefutil import ca
+from src.util.ner_example import NerReadableExample
 
 
 __all__ = ['Sample2Reasoning']

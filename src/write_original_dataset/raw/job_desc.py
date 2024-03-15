@@ -10,9 +10,9 @@ from os.path import join as os_join
 from typing import List, Dict, Any
 from dataclasses import dataclass
 
-from stefutil import *
-from src.util.ner_example import *
-from src.write_original_dataset.raw.util import *
+from stefutil import get_logger, pl
+from src.util.ner_example import NerBioExample
+from src.write_original_dataset.raw.util import download_raw_file, write_dataset, entity_type_dist
 
 
 logger = get_logger(__name__)
@@ -43,6 +43,8 @@ def load_csv(path, delim=','):
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     sic.output_width = 128
 
     dnm = 'job-desc'

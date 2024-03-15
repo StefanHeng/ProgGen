@@ -1,10 +1,3 @@
-"""
-Generate an NER dataset step-wise
-1. Generate sentences
-2. Extract entity spans
-3. Categorize entities
-"""
-
 from .util_3_stage import *
 from .util_entity_correct import *
 from .entity_type2info_dict import *

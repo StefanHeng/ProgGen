@@ -7,8 +7,8 @@ import re
 from typing import List, Dict, Tuple
 from dataclasses import dataclass
 
-from stefutil import *
-from src.util.util_ import *
+from stefutil import punc_tokenize
+from src.util.util_ import spans_overlap
 from src.util import patterns
 
 
@@ -163,6 +163,8 @@ def entities_overlapping(
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     def check_overlap():
         from dataclasses import asdict
 

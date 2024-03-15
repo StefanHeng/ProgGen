@@ -9,9 +9,9 @@ import os
 import argparse
 from os.path import join as os_join
 
-from scripts.utils import *
+from scripts.utils import optimize_imports, add_argument, process_args
 optimize_imports()
-from stefutil import *
+from stefutil import get_logger
 from src import write_original_dataset
 from src.util import pu
 from src.util.ner_example import DatasetLoader

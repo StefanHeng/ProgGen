@@ -11,14 +11,14 @@ from typing import Dict, Tuple, List, Union, Iterable, Optional, Any
 from collections import defaultdict
 from dataclasses import dataclass, field, asdict
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.util import api, sample_check as check
-from src.data_util import *
-from src.generate import *
-from src.generate.step_wise.util import *
-from src.generate.step_wise.util_3_stage import *
+from stefutil import get_logger, pl, add_file_handler, group_n, Timer
+from src.util import sconfig, dataset_name2data_dir, patterns, span_pair_overlap
+from src.util.ner_example import NerReadableExample
+from src.util import sample_check as check
+from src.data_util import prettier, completions, logprob, dataset, split, edit
+from src.generate import schemas
+from src.generate.step_wise.util import AnnotationGenerator, load_processed, ProcessedSampleOutput
+from src.generate.step_wise.util_3_stage import MANUAL_DEMO_SAMPLES, NOT_ENTITY_TYPE, OTHER_ENTITY_TYPE
 from src.generate.step_wise.generate_span import SentenceNSpanSample
 
 
@@ -102,6 +102,7 @@ def find_inserted_diff(lst1: List[Any] = None, lst2: List[Any] = None) -> Insert
     assert len(idxs) == n_insert  # sanity check
     long_matched = [elm for i, elm in enumerate(lst_long) if i not in idxs]
     if long_matched != lst_short:
+        from stefutil import sic
         sic(long_matched, lst_short)
     assert long_matched == lst_short  # sanity check
     return InsertDiffOutput(found=True, indices=idxs)
@@ -407,6 +408,8 @@ class TypeGenerator(AnnotationGenerator):
         :param logprobs: whether to extract logprobs from the completions
         :param lowercase: whether to lowercase the samples
         """
+        from stefutil import sic
+
         d_out = dataset_name2data_dir(
             **self.dir_args, output_dir=f'{self.processed_type}-Dataset', output_postfix=output_dir_name, timestamp='short-date')
         output_path, base_path = d_out.path, d_out.base_path
@@ -427,7 +430,7 @@ class TypeGenerator(AnnotationGenerator):
             completions_dir_name=completions_dir_name, completion_type=self.processed_type, logger=self.logger,
             completion_base_path=base_path, output_path=output_path, init_log=init_log, logprobs=logprobs)
         d_log_count = {'#completions': len(it.filepaths), **d_log_samples}
-        prettier.log_prompt_eg(dir_name=completions_dir_name, base_path=base_path, logger=self.logger)
+        completions.log_prompt_eg(dir_name=completions_dir_name, base_path=base_path, logger=self.logger)
         prompt_fnm = os_join(base_path, completions_dir_name, 'prompts.json')  # for mapping labels to the entity types
         with open(prompt_fnm) as f:
             prompts = json.load(f)['prompts']
@@ -688,7 +691,7 @@ class TypeGenerator(AnnotationGenerator):
                         label_strs.append((label_str, label_span_strt, label_span_end))
                     it_lb_str = iter(label_strs)
 
-                has_enum = api.completion_has_enum_prefix(completion=completion)
+                has_enum = completions.completion_has_enum_prefix(completion=completion)
                 if has_enum:  # sanity check sentence group indices are correct
                     ms_idx = patterns.find_non_overlap_matches(pattern=split.pattern_enumerated_index, text=completion, return_matches=True)
                     if not is_last_group:
@@ -866,6 +869,8 @@ class TypeGenerator(AnnotationGenerator):
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     # dnm = 'conll2003-no-misc'
     # dnm = 'wiki-gold-no-misc'
     dnm = 'mit-movie'
@@ -968,6 +973,7 @@ if __name__ == '__main__':
     sic(spans_dir_nm)
 
     def check_prompt():
+        from src.generate.step_wise.util import get_prompt_fn_w_samples
         out = load_processed(
             dataset_name=dnm, dir_name=spans_dir_nm, kind='span', logger=_logger,
             shuffle=shf_s, span_unique_type=gen.get_span_unique_type())

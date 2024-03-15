@@ -9,8 +9,8 @@ from typing import List, Tuple, Dict, Iterable, Union
 
 import pandas as pd
 
-from stefutil import *
-from src.util import *
+from stefutil import get_logger, ca
+from src.util import save_fig
 from src.data_util.stats import NerDatasetStats
 
 
@@ -153,6 +153,8 @@ class Visualizer:
         """
         Visualize embeddings in 2D, 3D space
         """
+        from stefutil import vector_projection_plot
+
         nm2vects = dict()
         for nm, stat in self._iter_stats(include_ori=True):
             nm2vects[nm] = stat.sentence_vectors if self.plot_type == 'sentence' else stat.entity_vectors
@@ -170,6 +172,8 @@ class Visualizer:
 
 
 if __name__ == '__main__':
+    from stefutil import sic
+
     def check_plot():
         dnm = 'conll2003-no-misc'
         tp = 'sentence'

@@ -4,10 +4,10 @@ from typing import List, Tuple, Dict, Union, Any, Optional
 from dataclasses import dataclass
 from collections import defaultdict
 
-from stefutil import *
-from src.util import *
-from src.util.sample_formats import *
-from src.generate.diversify.util import *
+from stefutil import get_logger, get_random_generator, ca, sic, pl
+from src.util import sconfig, sample_single, sample_few
+from src.util.sample_formats import EntityPairTemplate, get_default_entity_sep, get_default_entity_pair_map
+from src.generate.diversify.util import ENTITY_KEY, ENTITY_KEY_SEEDED, ENTITY_KEY_MIXED
 from src.generate.diversify import Attribute2Categories
 
 

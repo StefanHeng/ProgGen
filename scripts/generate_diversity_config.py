@@ -5,11 +5,11 @@ For generating and processing
 """
 
 import argparse
-from scripts.utils import *
+from scripts.utils import optimize_imports, add_argument, process_args, DATASET_NAME2TOPIC_DIM
 optimize_imports()
 
-from stefutil import *
-from src.generate.diversify import *
+from stefutil import get_logger, pl
+from src.generate.diversify import CategoryGenerator, EntityGenerator, Attribute2Categories, ENTITY_KEY_SEEDED
 
 
 logger = get_logger(__name__)

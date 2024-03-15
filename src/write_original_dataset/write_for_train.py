@@ -13,10 +13,10 @@ import random
 from os.path import join as os_join
 from typing import List, Tuple, Union
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util.dataset import *
+from stefutil import pl, get_logger
+from src.util import pu
+from src.util.ner_example import NerExample, DatasetLoader
+from src.data_util.dataset import samples2train_dataset, de_duplicate_ner_samples
 
 
 __all__ = ['write_train', 'write_val', 'write_test']
@@ -142,8 +142,6 @@ def write_test(dataset_name: str = None):
 
 
 if __name__ == '__main__':
-    sic.output_width = 120
-
     # dnm = 'conll2003'
     # dnm = 'conll2003-no-misc'
     # dnm = 'job-desc'

@@ -1,4 +1,4 @@
-from src.generate.diversify.util import *
+from src.generate.diversify.util import ENTITY_KEY, ENTITY_KEY_SEEDED
 
 
 __all__ = ['attribute2categories_dict']

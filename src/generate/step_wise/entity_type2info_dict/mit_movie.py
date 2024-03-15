@@ -1,4 +1,4 @@
-from src.generate.step_wise.entity_type2info_dict.util import *
+from src.generate.step_wise.entity_type2info_dict.util import CORRECT, WRONG_SPAN, WRONG_TYPE, NA
 
 
 __all__ = ['entity_type2info_dict']

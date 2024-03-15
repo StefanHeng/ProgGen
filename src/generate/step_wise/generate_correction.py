@@ -25,15 +25,20 @@ from dataclasses import asdict
 
 from tqdm import tqdm
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.util import patterns, sample_check as check
-from src.data_util import *
+from stefutil import get_logger, pl, ca, add_file_handler, drop_file_handler, group_n, get_random_generator, Timer
+from src.util import sconfig, dataset_name2data_dir, patterns, sample_check as check
+from src.util.ner_example import NerReadableExample
+from src.data_util import dataset, completions, edit
 from src.data_util.prettier import sdpc, atc
 from src.generate.step_wise.util import AnnotationGenerator
-from src.generate.step_wise.util_entity_correct import *
-from src.generate.step_wise.entity_type2info_dict import *
+from src.generate.step_wise.util_entity_correct import (
+    ENTITY_TYPE_OTHER, CORRECTION_DIR_NAME, entity_type2entity_correction_options, UncertainTriplesOutput,
+    load_triples_w_logprob, log_n_select_uncertain_triples,
+    CorrectionLabel, LABEL_CORRECT, LABEL_WRONG_BOUNDARY, LABEL_WRONG_TYPE, LABEL_NOT_NAMED_ENTITY, STR_NOT_NAMED_ENTITY,
+    CorrectionSample, log_correction_samples, log_n_save_corrections, override_w_manual_corrections,
+    ner_sample2corrected_sample
+)
+from src.generate.step_wise.entity_type2info_dict import Type2EntityCorrectionInfo
 
 
 __all__ = ['CorrectionGenerator']
@@ -564,6 +569,8 @@ class CorrectionGenerator(AnnotationGenerator):
 
         TODO: after processed all corrections, for triplets that changed, select similar & un-corrected samples to re-correct
         """
+        from stefutil import sic
+
         if subset_entity_types is not None:
             assert len(subset_entity_types) > 0 and (et in self.entity_types for et in subset_entity_types)  # sanity check
         d_out = dataset_name2data_dir(

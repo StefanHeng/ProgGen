@@ -1,4 +1,6 @@
-from src.generate.diversify.util import *
+from typing import Dict, Any
+
+from src.generate.diversify.util import ENTITY_KEY, ENTITY_KEY_SEEDED, ENTITY_TYPE_DEFAULT
 
 
 __all__ = ['attribute2categories_dict']
@@ -191,6 +193,7 @@ attribute2categories_dict = {
 
 
 for attr, d in attribute2categories_dict.items():
+    d: Dict[str, Any]
     if attr not in [ENTITY_KEY, ENTITY_KEY_SEEDED]:
         d.update(kind='categorical', seed_category=None, from_file=True)
 

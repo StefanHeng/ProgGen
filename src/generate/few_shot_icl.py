@@ -7,16 +7,15 @@ Directly generate an annotation for a single sentence input, given a few demo an
 """
 
 import json
-import random
 from os.path import join as os_join
 from typing import Dict, List, Union, Any
 from dataclasses import asdict
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
-from src.generate.step_wise import *
+from stefutil import get_logger, pl, ca, add_file_handler, to_percent, get_random_generator
+from src.util import pu, patterns, sconfig, dataset_name2data_dir
+from src.util.ner_example import NerReadableExample, NerBioExample, DatasetLoader
+from src.data_util import dataset, completions, eval
+from src.generate.step_wise import EntityAnnotationGenerator, get_prompt_fn_w_samples
 
 
 __all__ = ['FewShotIclPredictor']
@@ -67,19 +66,6 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
         super().__init__(generate_type='baseline-both', batched=False, allowed_entity_types=True, **kwargs)
         self.dir_args['sub_dir'] = FEW_SHOT_ICL_DIR_NAME  # override default `step-wise` dir name
 
-        # for processing samples
-        # just drop quotes, for brackets should not be generated to begin with,
-        #   since the sentence is not re-generated and sentences are all in the original dataset
-        # self.nt = Np2Transform(
-        #     dataset_name=self.dataset_name, entity_sep=self.entity_sep, drop_puncs='quote', ec=self.ec,
-        #     entity_pair_map=self.entity_pair_map, allowed_entity_types=self.entity_types)
-        # self.nt.batched = self.batched = False
-
-        # pref_y = sconfig(f'datasets.{self.dataset_name}.y-decoded-name')
-        # pref_y = options2re_options(options=pref_y)
-        # self.pattern_entities = re.compile(rf'^({pref_y}):( )?\[(?P<entities>.*)](\.)?$', re.IGNORECASE)
-        # self.pattern_entities
-
     def get_instruction(self):
         """
         Always a single sample sentence to classify
@@ -119,7 +105,7 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
 
         test_samples = self.load_test_samples()
 
-        gen_ = random.Random(prompt_seed) if prompt_seed else None
+        gen_ = get_random_generator(generator=prompt_seed)
         # convert to dict to signal a sample to annotate, per `AnnotationGenerator._sample2sample_str` API
         prompts = [self.get_prompt(samples=[asdict(s)], n_demo=n_demo, generator=gen_, demo_args=demo_args) for s in test_samples]
         # sic(prompts[:5], len(prompts))
@@ -189,6 +175,7 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
             trip_sample = out.sample
             res_sent = trip_sample.sentence
             if res_sent != sent:
+                from stefutil import sic
                 sic(fnm, sample, trip_sample)
                 sic(sent, res_sent, completion)
             assert res_sent == sent  # sanity check original test set sentence is not changed
@@ -260,6 +247,8 @@ if __name__ == '__main__':
     out_dnm = gen.meta(postfix=post)
 
     def check_prompt():
+        from src.data_util import prettier
+
         n = 5
         test_samples = load_test_set_samples(dataset_name=dnm, kind='readable')[:n]
         test_samples = [asdict(s) for s in test_samples]

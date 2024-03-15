@@ -5,9 +5,9 @@ from typing import Dict, Tuple, List, Union, Any, Callable, Iterable
 from collections import defaultdict, Counter
 from dataclasses import asdict
 
-from stefutil import *
-from src.util.ner_example import *
-from src.util.sample_formats import *
+from stefutil import get_logger, pl
+from src.util.ner_example import NerExample, NerReadableExample
+from src.util.sample_formats import EntityPairTemplate, get_default_entity_sep, get_default_entity_pair_map
 from src.util import patterns
 
 
@@ -431,9 +431,6 @@ class AnnotationsTemplator:
         if sample is not None:
             if isinstance(sample, dict):
                 enms, ets = sample.get('entity_names'), sample.get('entity_types')
-                if enms is None or ets is None:
-                    sic(sample, enms, ets)
-                    raise NotImplementedError
                 assert enms is not None and ets is not None
             else:
                 if not isinstance(sample, NerReadableExample):
@@ -472,13 +469,15 @@ def highlight_span_in_sentence(
         allow_multi_occurrence: bool = False, span_index: int = None, span_index_super: int = None, color: bool = False,
         debug_for_test: bool = False
 ) -> str:
-    # find all occurrences of entity name in sentence & highlight by enclosing in double braces
-    # complicated logic needed to ensure only 1 match, e.g. 2 occurrences, TODO: ignore this problem for now
-    #   Sentence: `Who directed the film The Matrix and its sequel, The Matrix Reloaded, featuring Morpheus?`
-    #   Span: `The Matrix`
+    """
+    find all occurrences of entity name in sentence & highlight by enclosing in double braces
+    span indices are to ensure only 1 match from e.g. 2 occurrences
+      Sentence: `Who directed the film The Matrix and its sequel, The Matrix Reloaded, featuring Morpheus?`
+      Span: `The Matrix`
+    """
+    from stefutil import sic
+
     sent, enm = sentence, span
-    # if not (span in sentence or span.lower() in sentence.lower()):
-    #     sic(sent, enm)
     assert span in sentence or span.lower() in sentence.lower()  # sanity check
 
     ms = patterns.find_match(text=sent, keyword=enm)

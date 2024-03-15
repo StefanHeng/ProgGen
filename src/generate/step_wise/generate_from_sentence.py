@@ -5,11 +5,11 @@ from copy import deepcopy
 from typing import Dict, List, Union, Optional, Any
 from dataclasses import dataclass
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
-from src.generate.step_wise.util import *
+from stefutil import get_logger, pl, Timer, add_file_handler, get_random_generator, group_n
+from src.util import dataset_name2data_dir
+from src.util.ner_example import NerReadableExample
+from src.data_util import prettier, completions
+from src.generate.step_wise.util import AnnotationGenerator, load_processed
 
 
 __all__ = ['FromSentenceGenerator']
@@ -201,7 +201,6 @@ class FromSentenceGenerator(AnnotationGenerator):
             if seed_delta is not None:
                 assert DEBUG
                 # for now, just do a random shuffle again on different seeds; TODO: remove
-                sic(seed_delta)
                 random.seed(seed_delta)
                 random.shuffle(sents)
                 random.seed()
@@ -225,6 +224,7 @@ class FromSentenceGenerator(AnnotationGenerator):
             check_prompt_ = False
             # check_prompt_ = True
             if check_prompt_:
+                from stefutil import sic
                 sic(len(sents), len(prompts))
                 prettier.print_prompts(prompt=prompts[:5])
                 raise NotImplementedError

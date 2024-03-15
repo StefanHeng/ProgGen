@@ -4,13 +4,12 @@ from typing import Dict, Tuple, List, Union, Optional, Any
 from collections import defaultdict, Counter
 from dataclasses import astuple
 
-from stefutil import *
-from src.util import *
-from src.util.ner_example import *
-from src.data_util import *
+from stefutil import pl, ca, Timer, ordinal
+from src.util import sconfig, patterns
+from src.util.ner_example import NerReadableExample
+from src.data_util import dataset, completions, logprob
 import src.data_util.sample_split as split
-from src.generate import *
-from src.generate.step_wise.util import *
+from src.generate import Np2Transform, schemas
 from src.generate.step_wise.generate_from_sentence import FromSentenceGenerator
 
 
@@ -283,6 +282,8 @@ class EntityAnnotationGenerator(FromSentenceGenerator):
 
         Need to drop the reasoning part
         """
+        from stefutil import sic
+
         sents = patterns.find_match(text=str_sample, pattern=self.pattern_extract_sent)
         if len(sents) != 1:
             sic(str_sample, sents)
@@ -459,6 +460,7 @@ class EntityAnnotationGenerator(FromSentenceGenerator):
 
             d_n_cpl = dict()
             completions.process_completions_init(**init_args)
+            lps, et_lps = None, None
             for i, (k, v) in enumerate(completions_dir_name.items(), start=1):
                 completions.log_prompt_eg(dir_name=v, base_path=base_path, logger=self.logger)
                 grp_ord = f'{pl.i(ordinal(i))}/{pl.i(n_grp)}'

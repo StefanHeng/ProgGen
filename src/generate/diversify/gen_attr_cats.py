@@ -12,10 +12,9 @@ import random
 from os.path import join as os_join
 from typing import List, Dict, Union, Iterable, Optional
 
-from stefutil import *
-from src.util import *
-from src.data_util import *
-from src.generate.diversify.util import *
+from stefutil import get_logger, pl, get_random_generator, stem
+from src.data_util import prettier, completions, edit
+from src.generate.diversify.util import OptionGenerator, GenSetup, N_List, DIVERSE_CONTEXT_DNM
 from src.generate.diversify import Attribute2Categories
 
 
@@ -443,6 +442,9 @@ if __name__ == '__main__':
     # process()
 
     def check_match():
+        from stefutil import sic
+        from src.util import patterns
+
         txt = "7. Basic information (e.g. genre, language, runtime)"
         pattern = [
             re.compile(r'(?P<idx>\d+)([.)])\s(\*\*)?(?P<value>.+)(\*\*)?: (?P<description>.+)'),

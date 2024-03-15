@@ -5,12 +5,12 @@ For generating and processing NER samples into training dataset
 
 
 import argparse
-from scripts.utils import *
+from scripts.utils import optimize_imports, add_argument, process_args, DATASET_NAME2TOPIC_DIM
 optimize_imports()
 
-from stefutil import *
-from src.util import *
-from src.generate import *
+from stefutil import get_logger, pl
+from src.util import dataset_meta
+from src.generate import diversify, DataGenerator, NerDatasetWriter
 
 
 logger = get_logger(__name__)

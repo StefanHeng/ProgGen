@@ -115,7 +115,7 @@ from collections import Counter
 import openai
 from tqdm import tqdm
 
-from stefutil import *
+from stefutil import get_logger, pl, fmt_delta, describe, Timer, stem
 
 __all__ = ['parallel_api_call']
 

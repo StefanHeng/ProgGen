@@ -7,8 +7,8 @@ from typing import List, Tuple, Dict, Union, Any
 from dataclasses import asdict
 from collections import Counter
 
-from stefutil import *
-from src.util.ner_example import *
+from stefutil import get_logger, pl, stem
+from src.util.ner_example import NerBioExample
 
 
 __all__ = [
