@@ -9,7 +9,7 @@ This repo contains the code and datasets for paper "ProgGen: Generating Named En
 
 We study 4 datasets: CoNLL-2003, WikiGold, MIT-Movie and MIT-Restaurant. 
 
-See `data` for LLM prompts and responses and processed datasets and `commands` for reproducing the results in the main experiments. 
+See sections (1) [`data`](https://github.com/StefanHeng/ProgGen/tree/master#data) (`reproduce` folder) for LLM prompts and responses and processed datasets and (2) [`commands`](https://github.com/StefanHeng/ProgGen/tree/master#commands) (`scripts` folder) for reproducing the results in the main experiments. 
 
 
 
