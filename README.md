@@ -1,5 +1,5 @@
 # ProgGen
-This repo contains the code and datasets for paper "ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models". 
+This repo contains the code and datasets for paper "[ProgGen: Generating Named Entity Recognition Datasets Step-by-step with Self-Reflexive Large Language Models](https://arxiv.org/abs/2403.11103)". 
 
 
 
