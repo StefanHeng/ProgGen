@@ -1,6 +1,0 @@
-// A named price entity is a specific monetary value or range such as "under $10 per person". Cost-related adjectives such as "cheap", "affordable", "reasonable" and "upscale" are also named price entities.
-// Named price entities should not have trailing terms such as "prices" and "eats".
-
-A named price entity is a specific monetary value or range such as "under $10 per person". Cost-related adjectives such as "cheap", "affordable", "reasonable", "expensive" and "upscale" are also named price entities.
-You should drop trailing "prices", "price range" and "eats" words from named price entities if not necessary, such as "moderately" as opposed to "moderately priced".
-General mentions of price such as "price range" and "prices" are not named entities.

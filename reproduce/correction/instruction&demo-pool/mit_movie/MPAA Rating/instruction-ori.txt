@@ -1,3 +1,0 @@
-Only actual MPAA rating labels such as "G", "PG", "PG-13", "R", and "NC-17" are named MPAA rating entities.
-Rating interpretations such as "Parental Guidance Suggested" and "suitable for children" are not named MPAA rating entities.
-You should always drop starting and trailing "rated" or "MPAA rating of" words from named MPAA rating entity spans.

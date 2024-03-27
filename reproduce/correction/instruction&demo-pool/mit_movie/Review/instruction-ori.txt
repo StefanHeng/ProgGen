@@ -1,3 +1,0 @@
-A named review entity must be a recognition or a detailed, qualitative assessment of a movie, such as "funniest of all time" and "incredible visual effects". Named review entities must describe specific aspects of a movie, such as "most awards".
-Ensure to distinguish named review entities from named viewers' rating entities. Short evaluative descriptors such as "good", "highest rated" and "top-rated" are named viewers' rating entities. Performance metrics such as "highest-grossing" and "best-rated" are also named viewers' rating entities.
-Ambiguous identifiers such as "review" are not named entities.

@@ -1,4 +1,0 @@
-A named song entity must be the name of a song.
-You should always drop starting or trailing "song" words from named song entity spans.
-Song attributes such as "iconic song," "love song," "famous song," and "original song" are not relevant named entities. Music genres such as "EDM" and "Jazz" are also not relevant named entities. Names of Artists such as "Beyonce" are not relevant named entities.
-Musical descriptors such as "song", "theme song" and "soundtrack" are not named entities.

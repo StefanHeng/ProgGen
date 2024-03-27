@@ -1,3 +1,0 @@
-A named movie trailer entity is a term that indicates a segment or a clip from a movie, such as "clip", "trailer", "teaser" and "preview".
-You should always drop starting "captivating" or "fun" descriptive words from named trailer entity spans.
-You should always drop starting "movie" or "film" words from named trailer entity spans.

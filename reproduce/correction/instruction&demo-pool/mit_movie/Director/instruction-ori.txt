@@ -1,3 +1,0 @@
-A named director entity must be the name of a film director. Only first names, last names, and full names of directors are considered named director entities.
-You should always drop starting "new" and trailing "film" and "movie" words from named director entity spans.
-Ambiguous identifiers such as "director", "female filmmaker" and "female directors" are not named entities.

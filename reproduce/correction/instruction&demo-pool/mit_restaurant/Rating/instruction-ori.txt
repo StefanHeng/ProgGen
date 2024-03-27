@@ -1,5 +1,0 @@
-// A named rating entity is a specific rating score such as "5 star". Qualitative descriptions such as "good", "best", "delicious" and "popular" are also named rating entities.
-// You should capture the complete descriptive phrase such as "best reviewed" as opposed to "best".
-
-A named rating entity is a specific rating score such as "5 star". Qualitative descriptions such as "good", "best", "high", "delicious" and "popular" are also named rating entities. Rating accolades such as "high-rated," "best ratings," and "best in town" are named rating entities. Awards such as "Michelin Star" are also named rating entities.
-You should capture the complete descriptive phrase such as "best reviewed" as opposed to "best". You should always drop trailing "restaurant" and "place" words from named rating entities.

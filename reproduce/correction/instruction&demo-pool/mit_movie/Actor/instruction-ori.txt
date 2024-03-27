@@ -1,4 +1,0 @@
-A named actor entity must be the name of an actor or actress. Only first names, last names, and full names of actors and actresses are considered named actor entities.
-Ambiguous identifiers such as "actor", "lead actor", "lead actress", "male lead", "cast" and "diverse cast" are not named entities.
-
-// Only first names, last names, and full names of actors and actresses are considered named actor entities.

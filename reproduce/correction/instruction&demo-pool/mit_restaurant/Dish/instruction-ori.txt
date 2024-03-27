@@ -1,5 +1,0 @@
-// Be sure to distinguish a named dish entity from a named cuisine entity based on the context. Reference to a broader category of food should be a named Cuisine entity.
-
-A named dish entity is a specific food item or meal.
-Ensure to distinguish a named dish entity from a named cuisine entity based on the context. Reference to a broader category of food should be a named Cuisine entity.
-Generic dish descriptors such as "new dish" and "dishes" are not named entities.
