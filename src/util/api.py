@@ -245,6 +245,7 @@ def get_api_query_token_cost(
     type2price = {
         'gpt-3.5-turbo-1106': {'prompt': 0.0010, 'completion': 0.0020},
         'gpt4': {'prompt': 0.03, 'completion': 0.06},
+        'gpt-4-0125-preview': {'prompt': 0.01, 'completion': 0.03},
     }
     if model_name not in type2price:
         raise NotImplementedError
@@ -277,7 +278,7 @@ def get_api_query_token_cost(
     total_price = prc_ppt + prc_cpl
     ret = dict(prompt=d_tok_ppt, completion=d_tok_cpl)
     ret = {k2: {k1: v1 for k1, v1 in v2.items()} for k2, v2 in ret.items()}  # reverse the ordering of 1st and 2nd level keys
-    dir_nms_log = [stem(d, top_n=1) for d in completion_dir_name]
+    dir_nms_log = [stem(d, top_n=2) for d in completion_dir_name]
     if len(dir_nms_log) == 1:
         dir_nms_log = dir_nms_log[0]
     ret = {'completion-dir-name': dir_nms_log, '#chat': n_chat, **ret, 'total-token-query-cost': pretty_price(total_price)}

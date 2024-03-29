@@ -685,7 +685,8 @@ class CorrectionGenerator(AnnotationGenerator):
                     if sent_found:
                         sent_gen = mch.group('sentence')
                         if self.highlight_span:
-                            sent_gen = edit.drop_brackets_in_sentence(sentence=sent_gen, pattern_emph=self.pattern_emph, ec=self.ec)
+                            sent_gen = edit.drop_brackets_in_text(
+                                text=sent_gen, pattern_emph=self.pattern_emph, ec=self.ec, sample_kind='sentence')
                         drop = self.check_sentence_diff(sentence_in_prompt=sent, sentence_in_response=sent_gen)
                         if drop:
                             sic(sent, sent_gen, label_str, sample_str, self.highlight_span)

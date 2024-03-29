@@ -144,11 +144,11 @@ def write_test(dataset_name: str = None):
 if __name__ == '__main__':
     # dnm = 'conll2003'
     # dnm = 'conll2003-no-misc'
+    # dnm = 'wiki-gold-no-misc'
     # dnm = 'job-desc'
     # dnm = 'mit-movie'
     dnm = 'mit-restaurant'
     # dnm = 'job-stack'
-    # dnm = 'wiki-gold-no-misc'
     # dnm = 'ncbi-disease'
 
     # write_train(few='n')
@@ -161,10 +161,10 @@ if __name__ == '__main__':
     # write_train(few=False, n=1_350, filename='train-1350')  # 90% train split of 1.5K equal-sample-size comparison
     # write_train(few=False, n=None, filename='train-1.1k')  # since the entire train set of `wiki-gold` doesn't reach 1.35K
     # write_train(few=False, n=1_000, filename='train-1k', sentence_only=True)  # intended for LLM ablation experiments
-    # write_train(few=False)  # intended for full-supervision comparison, getting upper bound performance
+    write_train(dataset_name=dnm, few=False)  # intended for full-supervision comparison, getting upper bound performance
 
     # write_val()
-    # write_val(few=False)
+    write_val(dataset_name=dnm, few=False)
     # write_val(few=False, n=150, filename='val-150')  # 10% val split of 1.5K equal-sample-size comparison
 
-    write_test(dataset_name=dnm)
+    # write_test(dataset_name=dnm)

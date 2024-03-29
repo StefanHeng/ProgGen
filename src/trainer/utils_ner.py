@@ -415,7 +415,7 @@ def get_tag_to_id(path: str = None, verbose: bool = False, dataset_name: str = '
         types = sconfig(f'datasets.{dnm}.readable-entity-types')
         ret = ner_utils.ner_labels2tag2index(entity_types=types)
     if verbose:
-        logger.info(f'NER tag map: {pl.i(ret)}')
+        logger.info(f'NER tag map: {pl.i(ret, indent=True)}')
     return ret
 
 

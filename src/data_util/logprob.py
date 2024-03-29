@@ -53,31 +53,55 @@ def completion_n_logprobs_match(completion: str = None, logprobs: List[Dict[str,
         completion[-1] == '\n' and api.tc35(text=completion[:-1]) == len(logprobs)
 
 
-def logprob_pair_decode_utf8(prob1: Dict[str, Any], prob2: Dict[str, Any]) -> str:
+def logprob_pair_decode_utf8(prob1: Dict[str, Any] = None, prob2: Dict[str, Any] = None, prob3: Dict[str, Any] = None) -> str:
     """
     For weird edge case, LLM tokenization splits a single, weird UTF-8 character into 2 tokens, e.g.
-        `ė` => `['\xc4', '\x97']`
+        Accents: `ė` => `['\xc4', '\x97']`
+        Another sub edge case, Chinese/Japanese characters, e.g. `東` => `['\xe6\x9d', '\xb1']`
+            In rare case, these 3 bytes are divided into 3 tokens, e.g. `植` => `['\xe6', '\xa4', '\x8d']`
 
     This function consumes 2 adjacent logprob objects and get the corresponding decoded string
     """
-    prob, prob_next = prob1, prob2
+    prob, prob_next, prob_next_next = prob1, prob2, prob3
     tok = prob['token']
     n_tok = len(tok)
-    assert (n_tok, len(prob['bytes'])) in [(4, 1), (5, 2)]
+    n_bt = len(prob['bytes'])
+
+    if (n_tok, n_bt) not in [(4, 1), (5, 2), (8, 2)]:
+        from stefutil import sic
+        sic(prob1, prob2)
+        sic(n_tok, n_bt)
+    assert (n_tok, n_bt) in [(4, 1), (5, 2), (8, 2)]
 
     # sic(prob, prob_next)
     tok_next = prob_next['token']
     assert len(tok_next) == 4 and len(prob_next['bytes']) == 1
-    if len(tok) == 4:
-        assert tok.startswith('\\x')
+    if prob3 is not None:
+        tok_next_next = prob_next_next['token']
+        assert len(tok_next_next) == 4 and len(prob_next_next['bytes']) == 1
+        assert (n_tok, n_bt) == (4, 1)   # sanity check 3 bytes
+
+        assert all(t.startswith('\\x') for t in [tok, tok_next, tok_next_next])
         n_tok_pair = 1
+        b = f'b"{tok}{tok_next}{tok_next_next}"'
     else:
-        assert tok[0] == ' ' and tok[1:].startswith('\\x')
-        n_tok_pair = 2
-    assert tok_next.startswith('\\x')
-    # these 2 bytes can be merged into a single character
-    # first, get the decoded string form both of the 2 tokens
-    str_dec = ast.literal_eval(f'b"{tok}{tok_next}"').decode('utf-8')
+        if n_tok == 4:
+            assert tok.startswith('\\x')
+            n_tok_pair = 1
+        elif n_tok == 8:
+            assert tok[:2] == '\\x' and tok[4:6] == '\\x'  # sanity check 2 bytes
+            n_tok_pair = 1
+        else:
+            assert tok[0] == ' ' and tok[1:].startswith('\\x')
+            n_tok_pair = 2
+        assert tok_next.startswith('\\x')
+        # these 2 bytes can be merged into a single character
+        # first, get the decoded string form both of the 2 tokens
+        # from stefutil import sic
+        # sic(prob1, prob2)
+        # sic(f'{tok}{tok_next}')
+        b = f'b"{tok}{tok_next}"'
+    str_dec = ast.literal_eval(b).decode('utf-8')
     assert len(str_dec) == n_tok_pair
     return str_dec
 
@@ -142,7 +166,12 @@ class Span2LogProb:
                 # sanity check is due to weird UTF-8 encoding
                 _, prob_next = next(it, None)
                 assert prob_next is not None
-                str_dec = logprob_pair_decode_utf8(prob1=prob, prob2=prob_next)
+                try:
+                    str_dec = logprob_pair_decode_utf8(prob1=prob, prob2=prob_next)
+                except UnicodeDecodeError:
+                    # 3 tokens forms a single character, e.g. `['\xe6', '\xa4', '\x8d']` => `植`
+                    _, prob_next_next = next(it, None)
+                    str_dec = logprob_pair_decode_utf8(prob1=prob, prob2=prob_next, prob3=prob_next_next)
                 n_tok_pair = len(str_dec)
 
                 # sanity check the decoded string is the same as the span in the completion
@@ -507,8 +536,15 @@ def ner_sample2logprobs(
     ner_sample, s2lp = sample, span2logprob
     span, (sample_s, sample_e) = sample_str, sample_span
     label_start = 'Named Entities'
-    assert span.count(label_start) == 1  # sanity check
-    idx = span.index(label_start)  # get the substring starting from `label_start` till the end
+    if span.count(label_start) != 1:
+        # from stefutil import sic
+        # sic(ner_sample)
+        # sic(span, label_start, span.count(label_start))
+        assert span.lower().count(label_start.lower()) == 1  # sanity check due to casing
+        idx = span.lower().index(label_start.lower())
+    else:
+        # assert span.count(label_start) == 1  # sanity check
+        idx = span.index(label_start)  # get the substring starting from `label_start` till the end
     label_str = span[idx:]  # only the annotations part
     label_s = sample_s + idx
     label_e = label_s + len(label_str)
@@ -619,7 +655,7 @@ def ner_sample2logprobs(
                 sic(enms, lp_ets, entities_str, entities_raw)
             assert enms[0] == enms[1]  # sanity check the 2 entities are the same
             lp_ets = lp_ets * 2  # duplicate the same logprob
-        elif (n_enm, n_lp) in [(3, 2), (3, 1), (4, 3), (4, 2), (4, 1), (5, 4), (5, 3), (5, 2), (6, 5), (7, 4), (8, 7)]:
+        elif (n_enm, n_lp) in [(3, 2), (3, 1), (4, 3), (4, 2), (4, 1), (5, 4), (5, 3), (5, 2), (6, 5), (7, 4), (7, 6), (8, 7)]:
             # get the logprob corresponding to each raw entity annotation,
             #   send them to the potentially duplicated, actually processed entities
             # sic(entities_raw)
@@ -638,7 +674,7 @@ def ner_sample2logprobs(
             # raise NotImplementedError
         else:
             sic(sample, sample_str, entities_str)
-            sic(lp_ets, enms, len(lp_ets), len(enms))
+            sic(enms, lp_ets, n_enm, n_lp)
             raise NotImplementedError
     assert len(lp_ets) == len(enms)  # sanity check logprob maps to each entity annotation
     if spans_overlap(spans=entity_spans):

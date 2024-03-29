@@ -89,9 +89,12 @@ def get_non_overlapping_keyword_counts(sentence: str, keywords: List[str], ignor
             offset = 0
             for m in ms:
                 # shifting the span when there are multiple matches; insert artificial space cos matching whole words may include space
-                sentence = sentence[:m.start() - offset] + ' ' + sentence[m.end() - offset:]
+                s, e = m.span('keyword')  # get start and end of the keyword span
+                # sentence = sentence[:m.start() - offset] + ' ' + sentence[m.end() - offset:]
+                sentence = sentence[:s - offset] + ' ' + sentence[e - offset:]
                 sentence = patterns.drop_consecutive_space(sentence)
-                offset += m.end() - m.start()
+                # offset += m.end() - m.start()
+                offset += e - s
             ret[kw] += len(ms)
     return ret
 
@@ -182,4 +185,11 @@ if __name__ == '__main__':
 
         mch = patterns.find_match(text=sent, keyword=enms[0], ignore_case=True, strict=False)
         sic(mch)
-    check_found()
+    # check_found()
+
+    def check_count():
+        sent = 'I want to order some dim sum for delivery, do you know a place that offers dim sum delivery'
+        enms = ['delivery', 'dim sum']
+        c = get_non_overlapping_keyword_counts(sentence=sent, keywords=enms, ignore_case=False)
+        sic(c)
+    check_count()

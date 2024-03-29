@@ -112,6 +112,7 @@ class EdgeCases:
         'wrong-sample-count': 'Completions w/ wrong sample count',
         'no-sample-decoded': 'Completions with no samples extracted',
         'swap-non-ascii-quote': 'Non-ASCII quotes swapped',
+        'brackets-inside-entity': 'Brackets inside annotated entity spans dropped',
         'entity-not-found': 'Entities spans generated but not found in sentence',
         'entity-overlap-drop': 'Entity spans dropped to resolve overlap',
         'wrong-entity-annotation-format': 'LLM-generated entity annotation in wrong format',
@@ -245,6 +246,8 @@ class EdgeCases:
                 t2c[kind].update(not_allowed)
             elif kind == 'missing-entity-type':
                 t2c[kind].update(args['entities'])
+            elif kind == 'brackets-inside-entity':
+                t2c[kind].update(args['entity_spans'])
             elif kind in ['wrong-sample-count', 'no-sample-decoded']:
                 fnm, n_exp, n_got = args['filename'], args['n_sample_expect'], args['n_sample_found']
                 fnm, n_exp, n_got = pl.i(fnm, c='r'), pl.i(n_exp, c='y'), pl.i(n_got, c='g')

@@ -24,7 +24,7 @@ __all__ = [
     'merge_entities_on_separator',
     'enclose_in_quote', 'sanitize_quotes',
     'drop_enclosing_quotes', 'drop_enclosing_brackets',
-    'drop_entities_enclosing_puncs', 'drop_brackets_in_sentence', 'drop_puncs_in_sentence',
+    'drop_entities_enclosing_puncs', 'drop_brackets_in_text', 'drop_puncs_in_sentence',
     'duplicate_multi_occurring_entities', 'reorder_entities'
 ]
 
@@ -140,9 +140,6 @@ def duplicate_multi_occurring_entities(
         ets = [en2et[enm] for enm in enms_] + deepcopy(ets)
         d_log['entity_types_after_add'] = ets
     return DupMultiOccurEntitiesOutput(entity_names=enms, entity_types=ets, d_log=d_log)
-
-
-
 
 
 @dataclass
@@ -373,8 +370,10 @@ def upper_inside(sentence: str) -> UpperInsideOutput:
     return UpperInsideOutput(found=found, words=ret if found else None)
 
 
-def drop_brackets_in_sentence(sentence: str = None, pattern_emph: patterns.Patterns = None, ec: EdgeCases = None, **kwargs) -> str:
-    sent = sentence
+def drop_brackets_in_text(
+    text: str = None, pattern_emph: patterns.Patterns = None, ec: EdgeCases = None, sample_kind: str = 'text', **kwargs
+) -> str:
+    sent = text
     if len(patterns.find_match(text=sent, pattern=pattern_emph)) > 0:
         ori = sent
         # drop the emphasized entity type by replacing regex matches w/ just the named entity
@@ -395,7 +394,7 @@ def drop_brackets_in_sentence(sentence: str = None, pattern_emph: patterns.Patte
 
         if ec:
             d_log = dict(original=ori, modified=sent, emphasized=emphs, **kwargs)
-            msg = f'Entity-enclosing punctuations dropped from sentence w/ {pl.i(d_log)}'
+            msg = f'Entity-enclosing punctuations dropped from {sample_kind} w/ {pl.i(d_log)}'
             ec(msg=msg, kind='drop-emph', args=dict(emphasized=emphs), disable_std_log=True)
     return sent.strip()
 
@@ -412,7 +411,7 @@ def drop_puncs_in_sentence(
     sent = sentence
     if pattern_emph is not None:
         # drop bracket highlights within sentence
-        sent = drop_brackets_in_sentence(sentence=sent, pattern_emph=pattern_emph, ec=ec, **kwargs)
+        sent = drop_brackets_in_text(text=sent, pattern_emph=pattern_emph, ec=ec, sample_kind='sentence', **kwargs)
     if check.has_punc_on_edge(sent).on_both_side:  # drop enclosing quotes & brackets from sentence
         msg = f'Edge case: sentence is enclosed in double quotes w/ {sdpc(d_log)}'
         ec(msg=msg, kind='sentence-enclosed-quote', disable_std_log=True)

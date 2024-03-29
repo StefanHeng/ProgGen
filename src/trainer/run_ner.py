@@ -488,7 +488,7 @@ def run_train(args: Union[argparse.Namespace, TrainDummyArgs] = None):
         msg = f'Loaded labels from {pl.i(path)}'
     else:
         msg = f'Loaded default labels'
-    logger.info(f'{msg} w/ {pl.i(d_log)}')
+    logger.info(f'{msg} w/ {pl.i(d_log, indent=True)}')
 
     # Use cross entropy ignore index as padding label id so that only real label ids contribute to the loss later
     pad_token_label_id = CrossEntropyLoss().ignore_index
@@ -747,4 +747,5 @@ if __name__ == "__main__":
         parser.add_argument('--rep_train_against_weak', type=int, default=5, help='Upsampling training data again weak data. Default: 5')
 
         args = parser.parse_args()
+        run_train(args=args)
     main()

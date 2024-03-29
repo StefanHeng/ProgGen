@@ -393,7 +393,23 @@ class Np2Transform:
                     raise NotImplementedError(filename)
                 d['sentence'] = fail_ret.sentence = sent = sent_
         # sanity check entities still in sentence
-        assert check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True).all_found
+        entities_found = check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True).all_found
+        if not entities_found:  # must be due to inner brackets also inside entities => drop these too
+            dropped = []
+            for i, enm in enumerate(enms):
+                d_log = dict(sentence=sent, entity_names=enm)
+                enm_ = edit.drop_brackets_in_text(text=sent, pattern_emph=self.pattern_emph, ec=self.ec, sample_kind='entity span', d_log=d_log)
+                if enm != enm_:
+                    dropped.append(enm_)
+                    enms[i] = enm_
+            assert len(dropped) > 0  # sanity check this is the cause of missing entities
+
+            d['entity_names'] = enms
+            d_log['entity_names_after_bracket_drop'] = enms
+            entities_found = check.entities_in_sentence(sentence=sent, entity_names=enms, ignore_case=True).all_found
+            msg = f'{error_prefix}Brackets inside entity spans dropped w/ {sdpc(d_log)}'
+            self.ec(msg=msg, kind='brackets-inside-entity', args=dict(entity_spans=dropped))
+        assert entities_found
 
         def log_overlap_fail(args_: Dict[str, Any] = None):
             kd_ = 'entity-overlap'
@@ -511,7 +527,11 @@ class Np2Transform:
             #   entity_names: ['thriller', 'Thriller', 'Michael Jackson', 'directed']
             ic = False
         # intended for huge #entities in a sentence for CoNLL-2003 test set, use a smaller limit to speed up
-        ordering_insert_limit = 7 if self.generate_type == 'baseline-both' else None
+        if self.generate_type == 'baseline-both':
+            # ordering_insert_limit = 7
+            ordering_insert_limit = 9  # for a case of 9 entities in WikiGold
+        else:
+            ordering_insert_limit = None
         out = edit.reorder_entities(
             sentence=sent, entity_names=enms, entity_types=ets, ignore_case=ic, insert_if_more=ordering_insert_limit)
         if out.reordered:

@@ -240,17 +240,17 @@ def _write_completions(
         else:
             raise NotImplementedError
 
-        if model_name in ['gpt-4', 'gpt-3.5-turbo', 'gpt-3.5-turbo-1106', 'text-embedding-ada-002']:
+        if model_name in ['gpt-4', 'gpt-4-0125-preview', 'gpt-3.5-turbo', 'gpt-3.5-turbo-1106', 'text-embedding-ada-002']:
             tok_enc_name = 'cl100k_base'
         else:
-            raise NotImplementedError
+            raise NotImplementedError(model_name)
         # tier = 2
         tier = 3
         if tier == 2:
             max_tok_per_min = {'gpt-3.5-turbo': 90_000, 'gpt-3.5-turbo-1106': 90_000}
         else:
             assert tier == 3
-            max_tok_per_min = {'gpt-3.5-turbo': 160_000, 'gpt-3.5-turbo-1106': 160_000}
+            max_tok_per_min = {'gpt-3.5-turbo': 160_000, 'gpt-3.5-turbo-1106': 160_000, 'gpt-4-0125-preview': 600_000}
         max_tok_per_min = max_tok_per_min[model_name]
         # a rough guide, assuming each request completes ~1 min, trial and error based on API Rate Limit Error
         max_req_per_min = round(max_tok_per_min / exp_total_seq_len_bound)

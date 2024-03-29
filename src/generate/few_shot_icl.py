@@ -6,12 +6,14 @@ Use a similar prompt template as SimPrompt
 Directly generate an annotation for a single sentence input, given a few demo annotations,
 """
 
+
 import json
+import logging
 from os.path import join as os_join
 from typing import Dict, List, Union, Any
 from dataclasses import asdict
 
-from stefutil import get_logger, pl, ca, add_file_handler, to_percent, get_random_generator
+from stefutil import get_logger, pl, ca, add_file_handler, to_percent, get_random_generator, stem
 from src.util import pu, patterns, sconfig, dataset_name2data_dir
 from src.util.ner_example import NerReadableExample, NerBioExample, DatasetLoader
 from src.data_util import dataset, completions, eval
@@ -30,10 +32,14 @@ DEBUG = False
 FEW_SHOT_ICL_DIR_NAME = 'few-shot'
 
 
-def load_test_set_samples(dataset_name: str = None, kind: str = 'readable') -> Union[List[NerReadableExample], List[NerBioExample]]:
+def load_test_set_samples(
+        dataset_name: str = None, kind: str = 'readable', subset: int = None, subset_seed: int = None, logger: logging.Logger = None
+) -> Union[List[NerReadableExample], List[NerBioExample]]:
     """
     get test set sentences to run inference
     """
+    logger = logger or _logger
+
     # use the version saved to local file, cos these have duplicates dropped
     ca.assert_options(display_name='Data Sample Kind', val=kind, options=['readable', 'bio'])
     if dnm in DatasetLoader.from_hf:
@@ -54,7 +60,17 @@ def load_test_set_samples(dataset_name: str = None, kind: str = 'readable') -> U
         def load_single(s: str) -> NerBioExample:
             return NerBioExample(**json.loads(s))
     with open(test_set_path) as f:
-        return [load_single(s) for s in f]
+        ret = [load_single(s) for s in f]
+
+    if subset is not None:
+        n = len(ret)
+        ret = get_random_generator(generator=subset_seed).sample(ret, subset)
+        d_log = {
+            'dataset-name': dataset_name, 'path': stem(test_set_path, top_n=3),
+            'kind': kind, 'subset': subset, 'seed': subset_seed, '#total': n, '#subset': len(ret),
+        }
+        logger.info(f'Loaded {pl.i(subset)} random subset of test samples w/ log: {pl.i(d_log, indent=1)}')
+    return ret
 
 
 class FewShotIclPredictor(EntityAnnotationGenerator):
@@ -89,25 +105,32 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
                 "in the order of occurrence.\n")
         return ret
 
-    def load_test_samples(self) -> List[NerReadableExample]:
+    def load_test_samples(self, subset: int = None, subset_seed: int = None) -> List[NerReadableExample]:
         # load the readable version since feeding into LLM and for my own processing
-        ret = load_test_set_samples(dataset_name=self.dataset_name, kind='readable')
+        ret = load_test_set_samples(
+            dataset_name=self.dataset_name, kind='readable', subset=subset, subset_seed=subset_seed, logger=self.logger)
         if DEBUG:
-            ret = ret[:25]
+            # from stefutil import sic
+            # sic(len(ret))
+            # ret = ret[:25]
+            ret = ret[:10]
+            # sic(len(ret))
         return ret
 
     def write_completions(
-            self, n_demo: int = 5, output_dir_nm: str = None, prompt_seed: int = None, demo_args: Dict[str, Any] = None, **kwargs
+            self, n_demo: int = 5, output_dir_nm: str = None, prompt_seed: int = None, demo_args: Dict[str, Any] = None,
+            subset: int = None, subset_seed: int = None, **kwargs
     ):
         # since this is a few-shot baseline, no complicated stuff, 1 sample 1 prompt, not much variation, no shuffling needed also
         output_path = dataset_name2data_dir(**self.dir_args, output_dir=f'{self.sample_type}-Res', output_postfix=output_dir_nm).path
         add_file_handler(logger=self.logger, file_path=os_join(output_path, 'completion.log'))
 
-        test_samples = self.load_test_samples()
+        test_samples = self.load_test_samples(subset=subset, subset_seed=subset_seed)
 
         gen_ = get_random_generator(generator=prompt_seed)
         # convert to dict to signal a sample to annotate, per `AnnotationGenerator._sample2sample_str` API
         prompts = [self.get_prompt(samples=[asdict(s)], n_demo=n_demo, generator=gen_, demo_args=demo_args) for s in test_samples]
+        # from stefutil import sic
         # sic(prompts[:5], len(prompts))
         # raise NotImplementedError
 
@@ -119,7 +142,10 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
             output_path=output_path, logger=self.logger, add_fl_writer=False, completion_type=self.processed_type,
             init_log=d_log, prompts=prompts, save_all_prompts=True, **kwargs)
 
-    def process_completions(self, completions_dir_name: completions.CompletionDirectory = None, output_dir_name: str = None):
+    def process_completions(
+            self, completions_dir_name: completions.CompletionDirectory = None, output_dir_name: str = None,
+            subset: int = None, subset_seed: int = None
+    ):
         """
         Get the LLM predictions for each sample, and then evaluate the performance
         """
@@ -132,7 +158,7 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
             'completions-dir-name': completions_dir_name,
         }
 
-        test_samples = self.load_test_samples()
+        test_samples = self.load_test_samples(subset=subset, subset_seed=subset_seed)
 
         it = completions.process_completions_init(
             completions_dir_name=completions_dir_name, completion_base_path=base_path, output_path=output_path, init_log=init_log,
@@ -223,16 +249,19 @@ class FewShotIclPredictor(EntityAnnotationGenerator):
 
 
 if __name__ == '__main__':
-    dnm = 'conll2003-no-misc'
+    # dnm = 'conll2003-no-misc'
     # dnm = 'wiki-gold-no-misc'
     # dnm = 'mit-movie'
-    # dnm = 'mit-restaurant'
+    dnm = 'mit-restaurant'
     # dnm = 'job-stack'
 
     seed = 42  # seed for randomness in prompt demo sample construction
     n_demo_ = 1  # 1-shot demo
     da = None if dnm in ['mit-movie', 'mit-restaurant'] else dict(include_none_samples=True)
     lower = dnm in ['mit-movie', 'mit-restaurant']
+    # sub = None
+    sub = 150  # for testing on a small test subset; intended to save cost for GPT-4
+    sub_seed = seed
 
     temp = 0
 
@@ -241,6 +270,8 @@ if __name__ == '__main__':
     post = dict()
     if temp != 1:
         post['t'] = temp
+    if sub is not None:
+        post['sub'] = sub
     post = pl.pa(post) if post != dict() else None
     if DEBUG:
         post = f'{post}_debug' if post else 'debug'
@@ -250,7 +281,7 @@ if __name__ == '__main__':
         from src.data_util import prettier
 
         n = 5
-        test_samples = load_test_set_samples(dataset_name=dnm, kind='readable')[:n]
+        test_samples = load_test_set_samples(dataset_name=dnm, kind='readable', subset=sub, subset_seed=sub_seed)[:n]
         test_samples = [asdict(s) for s in test_samples]
         gen_ = get_random_generator(generator=seed)
         get_prompt = get_prompt_fn_w_samples(
@@ -258,7 +289,8 @@ if __name__ == '__main__':
         prettier.print_prompts(prompt=get_prompt, n=n)
 
     def write_completion():
-        md_nm = 'gpt-3.5-turbo-1106'
+        # md_nm = 'gpt-3.5-turbo-1106'
+        md_nm = 'gpt-4-0125-preview'
         # LLM don't regenerate the sentence in prompt, just generates the entity annotations
         # since just 1 annotation for 1 sentence, shouldn't take many tokens, to be safe, 128 should be well enough
         if dnm == 'conll2003-no-misc':
@@ -268,23 +300,32 @@ if __name__ == '__main__':
         timeout = 20
 
         gen.write_completions(
-            n_demo=n_demo_, demo_args=da, prompt_seed=seed, output_dir_nm=out_dnm,
+            n_demo=n_demo_, demo_args=da, prompt_seed=seed, output_dir_nm=out_dnm, subset=sub, subset_seed=sub_seed,
             model_name=md_nm, max_tokens=max_tok, temperature=temp, timeout=timeout, logprobs=True)
 
     def process():
         if dnm == 'conll2003-no-misc':
-            dir_nm = '24-02-07_12-49-39_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+            # dir_nm = '24-02-07_12-49-39_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+
+            # dir_nm = '24-03-15_12-20-06_Few-Shot-Label-Res_{fmt=n-p2}_{t=0,sub=150}_debug'  # w/ GPT-4
+            dir_nm = '24-03-15_12-22-01_Few-Shot-Label-Res_{fmt=n-p2}_{t=0,sub=150}'
         elif dnm == 'wiki-gold-no-misc':
-            dir_nm = '24-02-07_21-53-40_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+            # dir_nm = '24-02-07_21-53-40_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+
+            dir_nm = '24-03-15_12-27-44_Few-Shot-Label-Res_{fmt=n-p2}_{t=0,sub=150}'  # w/ GPT-4
         elif dnm == 'mit-movie':
             # dir_nm = '24-02-03_15-38-37_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}_debug'
             # dir_nm = '24-02-03_16-39-44_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}_debug'  # accidentally ran
-            dir_nm = '24-02-03_18-55-08_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+            # dir_nm = '24-02-03_18-55-08_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+
+            dir_nm = '24-03-15_12-47-22_Few-Shot-Label-Res_{fmt=n-p2}_{t=0,sub=150}'  # w/ GPT-4
         elif dnm == 'mit-restaurant':
-            dir_nm = '24-02-08_01-21-39_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+            # dir_nm = '24-02-08_01-21-39_Few-Shot-Label-Res_{fmt=n-p2}_{t=0}'
+
+            dir_nm = '24-03-15_12-50-24_Few-Shot-Label-Res_{fmt=n-p2}_{t=0,sub=150}'  # w/ GPT-4
         else:
             raise NotImplementedError
-        gen.process_completions(completions_dir_name=dir_nm, output_dir_name=out_dnm)
+        gen.process_completions(completions_dir_name=dir_nm, output_dir_name=out_dnm, subset=sub, subset_seed=sub_seed)
     # check_prompt()
     # write_completion()
     process()

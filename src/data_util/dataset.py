@@ -7,7 +7,7 @@ from typing import Dict, Tuple, List, Union, Any, Callable
 from dataclasses import dataclass, asdict, astuple
 from collections import Counter, defaultdict
 
-from stefutil import pl, ca, Timer, stem, get_logger, add_file_handler
+from stefutil import pl, ca, Timer, stem, get_logger, add_file_handler, get_random_generator
 from src.util import sconfig, patterns, dataset_name2data_dir
 from src.util.ner_example import NerExample, NerReadableExample, NerBioExample, bio2readable, ner_labels2tag2index
 from src.data_util.prettier import at, atc, sdp, sdpc, EdgeCases
@@ -492,11 +492,22 @@ def finish_ner_processing(
                     for i, (enm, et, lp) in enumerate(zip(enms, ets, et_lps)):
                         d = dict(sentence=sent, span=enm, entity_type=et, average_logprob=lp)
                         if has_sub and enm in entity_sub2super:
-                            ms = patterns.find_match(text=sent, keyword=enm)
+                            ic = False
+                            ms = patterns.find_match(text=sent, keyword=enm, ignore_case=ic)
                             enms_super = entity_sub2super[enm]
                             # sanity check the entity itself and its super-string-entities all found again
                             #   Equality is not necessarily the case, for edge case above, e.g.
                             #       entities: `Hindu Vishwa Hindu Parishad` & `Hindu`
+                            if len(ms) < len(enms_super):
+                                # from stefutil import sic
+                                # sic(sent, enms)
+                                # sic(len(ms), len(enms_super))
+                                # must be due to casing, e.g.
+                                #   X: `Can you find the trailer for the new Indiana Jones movie, The Adventures of Indiana Jones?`
+                                #   Y: [`trailer`, `indiana jones`, `the adventures of indiana jones`]
+                                assert len(ms) == 0 and len(enms_super) > 1  # sanity check
+                                ic = True
+                                ms = patterns.find_match(text=sent, keyword=enm, ignore_case=ic)
                             assert len(ms) >= len(enms_super)
                             # the corresponding index for the current entity is already determined, from `entity_sub2super`,
                             #   which is the relative position of the current entity in the list
@@ -516,13 +527,13 @@ def finish_ner_processing(
                             idx_curr = 0
                             entities_before = enms_super[:idx_rel]
                             for enm_super in entities_before:
-                                n_add = len(patterns.find_match(text=enm_super, keyword=enm))
+                                n_add = len(patterns.find_match(text=enm_super, keyword=enm, ignore_case=ic))
                                 assert n_add >= 1  # sanity check
                                 idx_curr += n_add
                             # **note** this still assumes all occurrences of the current entity is extracted, as exact match or super-string
                             #   sanity check this is indeed the case by comparing the span indices
                             span_from_sent = ms_enms[i].span('keyword')
-                            mch_curr = patterns.find_match(text=sent, keyword=enm)[idx_curr]
+                            mch_curr = patterns.find_match(text=sent, keyword=enm, ignore_case=ic)[idx_curr]
                             span_from_process = mch_curr.span('keyword')
                             # if span_from_sent != span_from_process:
                             #     sic(sent, enms)
@@ -626,6 +637,51 @@ def dataset_dir_name2ner_samples(
             et_lps = json.load(f)
     return LoadNerSamplesOutput(
         samples=ret, sentences=sents, sentence2sample=dict(zip(sents, ret)), sample_logprobs=sample_lps, entity_logprobs=et_lps, path=path)
+
+
+def dataset_to_subsets(dataset_name: str = None, dataset_dir_name: str = None, subset_sizes: List[int] = None, seed: int = 42):
+    """
+    Given a processed NER dataset, take random subsets
+        If multiple subsets, enforces that all larger subset contains all smaller subsets
+    """
+    # TODO: ignore logprobs for now, for intended for scaling w/o self-correction
+    # # make sure subset sizes are in ascending order
+    # if subset_sizes != sorted(subset_sizes):
+    #     subset_sizes = sorted(deepcopy(subset_sizes))
+    # sanity check subset sizes are all distinct
+    assert len(subset_sizes) == len(set(subset_sizes))
+
+    ets = sconfig(f'datasets.{dataset_name}.readable-entity-types')
+
+    out = dataset_dir_name2ner_samples(dataset_name=dataset_name, dataset_dir_name=dataset_dir_name, logprobs=False)
+    samples, path = out.samples, out.path
+    samples = deepcopy(samples)
+
+    # to ensure the pair-wise containing property: iteratively take subset, starting from the largest
+    curr_samples = None
+    gen = get_random_generator(generator=seed)
+    for sz in sorted(subset_sizes, reverse=True):
+        if curr_samples is None:
+            assert sz <= len(samples)  # sanity check subset size is smaller
+            curr_samples = gen.sample(samples, sz)
+        else:
+            assert sz < len(curr_samples)  # sanity check current subset definitely smaller
+            curr_samples = deepcopy(curr_samples)
+            curr_samples = gen.sample(curr_samples, sz)
+
+        # write
+        output_path = os_join(path, f'subset-{sz}')
+        os.makedirs(output_path, exist_ok=True)
+
+        readable, bio = [], []
+        for eg in curr_samples:
+            readable.append(asdict(eg))
+            bio.append(asdict(eg.to_bio()))
+
+        for kd, samples in [('readable', readable), ('bio', bio)]:
+            out_path = os_join(output_path, f'{kd}-train')
+            write_dataset(samples=samples, output_filename=out_path, kind=kd, for_train=True, dataset_name=dataset_name, entity_types=ets)
+        _logger.info(f'{pl.i(len(bio))}-sample subset written to {pl.i(stem(out_path, top_n=2))}')
 
 
 @dataclass
@@ -1088,12 +1144,12 @@ if __name__ == '__main__':
     from stefutil import sic
 
     # dnm = 'conll2003'
-    # dnm = 'conll2003-no-misc'
+    dnm = 'conll2003-no-misc'
+    # dnm = 'wiki-gold-no-misc'
     # dnm = 'job-desc'
-    dnm = 'mit-movie'
+    # dnm = 'mit-movie'
     # dnm = 'mit-restaurant'
     # dnm = 'job-stack'
-    # dnm = 'wiki-gold-no-misc'
     # dnm = 'ncbi-disease'
 
     def check_write_tag2id():
@@ -1109,4 +1165,52 @@ if __name__ == '__main__':
         # t2i = ner_labels2tag2index(labels)
         # sic(t2i)
         write_tag2id(entity_types=labels, path=output_path)
-    check_write_tag2id()
+    # check_write_tag2id()
+
+    def to_subset():
+        # de = False
+        # de = True
+        de = 'seeded'
+        szs = [300, 600, 900, 1500, 2100, 3000]
+        # szs = [100] + szs
+        if dnm == 'conll2003-no-misc':
+            if not de:
+                dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=10}'
+            elif de is True:
+                dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=3,de=T}'
+            else:
+                assert de == 'seeded'
+                # dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=3,de=s}'
+                dir_nm = '24-03-29_NER-Dataset_{fmt=n-p2,#l=3,de=s}_{sd=43}'
+        elif dnm == 'wiki-gold-no-misc':
+            if not de:
+                dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=10}'
+            elif de is True:
+                dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=3,de=T}'
+            else:
+                assert de == 'seeded'
+                dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=3,de=s}'
+        elif dnm == 'mit-movie':
+            if not de:
+                dir_nm = '24-03-28_NER-Dataset_{fmt=n-p2,#l=10,lc=T}'
+            elif de is True:
+                dir_nm = '24-03-29_NER-Dataset_{fmt=n-p2,#l=3,de=T,lc=T}_{#et=4.5}'
+            else:
+                assert de == 'seeded'
+                dir_nm = '24-03-29_NER-Dataset_{fmt=n-p2,#l=3,de=s,lc=T}_{#et=4.5}'
+        elif dnm == 'mit-restaurant':
+            if not de:
+                dir_nm = '24-03-29_NER-Dataset_{fmt=n-p2,#l=10,lc=T}'
+            elif de is True:
+                dir_nm = '24-03-29_NER-Dataset_{fmt=n-p2,#l=3,de=T,lc=T}'
+            else:
+                assert de == 'seeded'
+                dir_nm = '24-03-29_NER-Dataset_{fmt=n-p2,#l=3,de=s,lc=T}'
+        else:
+            raise NotImplementedError
+
+        # for mit-movie & mit-restaurant, use the lower-cased version
+        if dnm in ['mit-movie', 'mit-restaurant']:
+            dir_nm = os_join(dir_nm, 'lowercased')
+        dataset_to_subsets(dataset_name=dnm, dataset_dir_name=dir_nm, subset_sizes=szs)
+    to_subset()

@@ -497,7 +497,8 @@ class SentenceGenerator(StepWiseGenerator):
                         else:
                             self.ec(msg=f'Inline entity type annotation dropped from sentence w/ {pl.i(d_log)}', kind='drop-inline-type')
                             sent = new
-                    sent = edit.drop_brackets_in_sentence(sentence=sent, pattern_emph=self.pattern_emph, ec=self.ec, filename=fnm)
+                    sent = edit.drop_brackets_in_text(
+                        text=sent, pattern_emph=self.pattern_emph, ec=self.ec, sample_kind='sentence', filename=fnm)
 
                     # drop starting double quote if it's the only one
                     if sent[0] == '"' and sent.find('"', 1) == -1:
